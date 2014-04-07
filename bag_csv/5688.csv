@@ -1,7 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Stenenstraatje,1,,,5688AA,Oirschot,Oirschot,Noord-Brabant,VBO,5.310734,51.502915
-Stenenstraatje,2,A,,5688AA,Oirschot,Oirschot,Noord-Brabant,VBO,5.310410,51.503307
-Stenenstraatje,2,B,,5688AA,Oirschot,Oirschot,Noord-Brabant,VBO,5.310428,51.503265
 Stenenstraatje,4,,,5688AA,Oirschot,Oirschot,Noord-Brabant,VBO,5.310702,51.503323
 Stenenstraatje,6,,,5688AA,Oirschot,Oirschot,Noord-Brabant,VBO,5.310942,51.503308
 Stenenstraatje,8,,,5688AA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311124,51.503305
@@ -59,6 +57,7 @@ Molenstraat,30,,,5688AD,Oirschot,Oirschot,Noord-Brabant,VBO,5.309600,51.501740
 Molenstraat,34,,,5688AD,Oirschot,Oirschot,Noord-Brabant,VBO,5.309613,51.501687
 Molenstraat,36,,,5688AD,Oirschot,Oirschot,Noord-Brabant,VBO,5.309591,51.501621
 Molenstraat,40,,,5688AD,Oirschot,Oirschot,Noord-Brabant,VBO,5.309641,51.501509
+Vrijthof,1,,,5688AE,Oirschot,Oirschot,Noord-Brabant,VBO,5.308531,51.503191
 Vrijthof,2,A,,5688AE,Oirschot,Oirschot,Noord-Brabant,VBO,5.308910,51.503086
 Vrijthof,2,,,5688AE,Oirschot,Oirschot,Noord-Brabant,VBO,5.308782,51.503073
 Vrijthof,3,,,5688AE,Oirschot,Oirschot,Noord-Brabant,VBO,5.308582,51.502875
@@ -364,6 +363,7 @@ St Jorisstraat,42,,,5688AS,Oirschot,Oirschot,Noord-Brabant,VBO,5.311221,51.50560
 St Jorisstraat,44,,,5688AS,Oirschot,Oirschot,Noord-Brabant,VBO,5.311282,51.505661
 St Jorisstraat,46,,,5688AS,Oirschot,Oirschot,Noord-Brabant,VBO,5.311514,51.505714
 St Jorisstraat,48,,,5688AS,Oirschot,Oirschot,Noord-Brabant,VBO,5.311672,51.505646
+St Jorisstraat,49,,,5688AS,Oirschot,Oirschot,Noord-Brabant,VBO,5.312818,51.505280
 St Jorisstraat,50,,,5688AS,Oirschot,Oirschot,Noord-Brabant,VBO,5.311789,51.505589
 St Jorisstraat,52,,,5688AS,Oirschot,Oirschot,Noord-Brabant,VBO,5.311907,51.505526
 St Jorisstraat,54,,,5688AS,Oirschot,Oirschot,Noord-Brabant,VBO,5.311043,51.505506
@@ -493,6 +493,7 @@ Gasthuisstraat,23,C,,5688AW,Oirschot,Oirschot,Noord-Brabant,VBO,5.310160,51.5042
 Gasthuisstraat,23,D,,5688AW,Oirschot,Oirschot,Noord-Brabant,VBO,5.310102,51.504379
 Gasthuisstraat,23,E,,5688AW,Oirschot,Oirschot,Noord-Brabant,VBO,5.310156,51.504304
 Gasthuisstraat,23,F,,5688AW,Oirschot,Oirschot,Noord-Brabant,VBO,5.310210,51.504229
+Gasthuisstraat,23,,,5688AW,Oirschot,Oirschot,Noord-Brabant,VBO,5.310961,51.504624
 Gasthuisstraat,25,,,5688AW,Oirschot,Oirschot,Noord-Brabant,VBO,5.309856,51.504514
 Gasthuisstraat,27,A,,5688AW,Oirschot,Oirschot,Noord-Brabant,VBO,5.309876,51.504533
 Gasthuisstraat,27,,,5688AW,Oirschot,Oirschot,Noord-Brabant,VBO,5.309952,51.504470
@@ -633,7 +634,6 @@ Kerkstraat,3,,,5688BC,Oirschot,Oirschot,Noord-Brabant,VBO,5.306186,51.503970
 Kerkstraat,4,,,5688BC,Oirschot,Oirschot,Noord-Brabant,VBO,5.306418,51.504163
 Kerkstraat,6,,,5688BC,Oirschot,Oirschot,Noord-Brabant,VBO,5.306519,51.504198
 Kerkstraat,8,,,5688BC,Oirschot,Oirschot,Noord-Brabant,VBO,5.306769,51.504265
-Kerkstraat,12,,,5688BC,Oirschot,Oirschot,Noord-Brabant,VBO,5.307018,51.504369
 Nieuwstraat,1,,,5688BD,Oirschot,Oirschot,Noord-Brabant,VBO,5.306300,51.503515
 Nieuwstraat,5,,,5688BD,Oirschot,Oirschot,Noord-Brabant,VBO,5.306040,51.503711
 Nieuwstraat,7,,,5688BD,Oirschot,Oirschot,Noord-Brabant,VBO,5.305911,51.503896
@@ -717,21 +717,21 @@ Princéehof,4,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305152,51.503119
 Princéehof,5,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304967,51.503112
 Princéehof,6,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304885,51.503052
 Princéehof,7,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304723,51.502997
-Princéehof,8,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304631,51.502866
-Princéehof,9,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304810,51.502908
-Princéehof,10,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304925,51.502933
-Princéehof,11,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305013,51.502955
-Princéehof,12,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305095,51.502972
-Princéehof,13,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305193,51.502995
+Princéehof,8,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304652,51.502830
+Princéehof,9,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304798,51.502869
+Princéehof,10,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304913,51.502866
+Princéehof,11,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305000,51.502890
+Princéehof,12,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305087,51.502914
+Princéehof,13,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305175,51.502939
 Princéehof,14,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.304994,51.502722
 Princéehof,15,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305427,51.502619
 Princéehof,16,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305342,51.502600
 Princéehof,17,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305254,51.502579
 Princéehof,18,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305160,51.502558
 Princéehof,19,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305055,51.502528
-Princéehof,21,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305099,51.502401
+Princéehof,21,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305137,51.502346
 Princéehof,22,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305268,51.502444
-Princéehof,23,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305360,51.502465
+Princéehof,23,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305367,51.502445
 Princéehof,24,,,5688BJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.305532,51.502507
 Standaardplein,2,,,5688BK,Oirschot,Oirschot,Noord-Brabant,VBO,5.310026,51.501431
 Standaardplein,3,,,5688BK,Oirschot,Oirschot,Noord-Brabant,VBO,5.310283,51.501342
@@ -1687,6 +1687,7 @@ Rijkesluisstraat,5,A,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.309195,51.503
 Rijkesluisstraat,5,B,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.309160,51.503314
 Rijkesluisstraat,5,C,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.309158,51.503292
 Rijkesluisstraat,7,A,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.309422,51.503305
+Rijkesluisstraat,7,B,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.309537,51.503354
 Rijkesluisstraat,7,,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.309416,51.503346
 Rijkesluisstraat,9,A,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.309738,51.503245
 Rijkesluisstraat,9,B,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.309645,51.503364
@@ -1699,7 +1700,6 @@ Rijkesluisstraat,17,A,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.310229,51.50
 Rijkesluisstraat,17,,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.310226,51.503386
 Rijkesluisstraat,19,A,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.310500,51.503360
 Rijkesluisstraat,19,,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.310343,51.503387
-Rijkesluisstraat,19,,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.310336,51.503407
 Rijkesluisstraat,21,A,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.310607,51.503338
 Rijkesluisstraat,21,,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.310610,51.503378
 Rijkesluisstraat,23,,,5688EC,Oirschot,Oirschot,Noord-Brabant,VBO,5.310707,51.503379
@@ -2172,7 +2172,6 @@ de Schaaf,19,,,5688EX,Oirschot,Oirschot,Noord-Brabant,VBO,5.313078,51.504359
 de Schaaf,20,,,5688EX,Oirschot,Oirschot,Noord-Brabant,VBO,5.313099,51.504223
 de Schaaf,21,,,5688EX,Oirschot,Oirschot,Noord-Brabant,VBO,5.313114,51.504093
 de Beitel,1,,,5688EZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.312346,51.503869
-de Beitel,2,A,,5688EZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.312615,51.504015
 de Beitel,2,,,5688EZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.312774,51.504037
 de Beitel,3,,,5688EZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.312551,51.503885
 de Beitel,4,,,5688EZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.312899,51.504042
@@ -2215,6 +2214,17 @@ Moorland,66,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311425,51.500120
 Moorland,68,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311513,51.500051
 Moorland,70,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311550,51.500023
 Moorland,72,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311641,51.499956
+Moorland,74,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311602,51.500340
+Moorland,76,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311677,51.500340
+Moorland,78,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311758,51.500343
+Moorland,80,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311839,51.500343
+Moorland,82,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.311922,51.500344
+Moorland,84,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.312005,51.500342
+Moorland,86,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.312090,51.500339
+Moorland,88,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.312271,51.500344
+Moorland,90,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.312352,51.500344
+Moorland,92,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.312431,51.500343
+Moorland,94,,,5688GA,Oirschot,Oirschot,Noord-Brabant,VBO,5.312518,51.500346
 Droogmakerij,1,,,5688GB,Oirschot,Oirschot,Noord-Brabant,VBO,5.309381,51.500239
 Droogmakerij,3,,,5688GB,Oirschot,Oirschot,Noord-Brabant,VBO,5.308480,51.499920
 Droogmakerij,4,,,5688GB,Oirschot,Oirschot,Noord-Brabant,VBO,5.308403,51.499896
@@ -2235,7 +2245,6 @@ Koningshof,1,A,,5688GD,Oirschot,Oirschot,Noord-Brabant,VBO,5.310654,51.498157
 Koningshof,1,,,5688GD,Oirschot,Oirschot,Noord-Brabant,VBO,5.310514,51.498158
 Koningshof,3,,,5688GD,Oirschot,Oirschot,Noord-Brabant,VBO,5.308563,51.497331
 Koningshof,4,,,5688GD,Oirschot,Oirschot,Noord-Brabant,VBO,5.309341,51.497663
-Koningshof,5,,,5688GD,Oirschot,Oirschot,Noord-Brabant,VBO,5.309088,51.497573
 Koningshof,6,A,,5688GD,Oirschot,Oirschot,Noord-Brabant,VBO,5.308046,51.497387
 Koningshof,6,B,,5688GD,Oirschot,Oirschot,Noord-Brabant,VBO,5.308102,51.497486
 Koningshof,6,,,5688GD,Oirschot,Oirschot,Noord-Brabant,VBO,5.307695,51.497332
@@ -2251,6 +2260,7 @@ de Kruik,1,C,,5688GG,Oirschot,Oirschot,Noord-Brabant,VBO,5.309506,51.496141
 de Kruik,2,,,5688GG,Oirschot,Oirschot,Noord-Brabant,VBO,5.310024,51.497699
 de Kruik,3,,,5688GG,Oirschot,Oirschot,Noord-Brabant,VBO,5.310504,51.495007
 de Kruik,4,,,5688GG,Oirschot,Oirschot,Noord-Brabant,VBO,5.309967,51.497584
+de Kruik,8,,,5688GG,Oirschot,Oirschot,Noord-Brabant,VBO,5.310025,51.497173
 de Kruik,8,,,5688GG,Oirschot,Oirschot,Noord-Brabant,VBO,5.309934,51.497071
 de Kruik,12,,,5688GG,Oirschot,Oirschot,Noord-Brabant,VBO,5.309873,51.496590
 de Kruik,14,,,5688GG,Oirschot,Oirschot,Noord-Brabant,VBO,5.309934,51.496343
@@ -2266,7 +2276,7 @@ Slingerbos,8,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310500,51.499619
 Slingerbos,9,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310053,51.499549
 Slingerbos,10,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310555,51.499459
 Slingerbos,11,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310102,51.499417
-Slingerbos,12,a,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.311123,51.499092
+Slingerbos,12,a,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310704,51.499132
 Slingerbos,12,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310691,51.499182
 Slingerbos,13,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310154,51.499317
 Slingerbos,14,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310739,51.498976
@@ -2286,7 +2296,6 @@ Slingerbos,29,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310470,51.498458
 Slingerbos,30,A,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.311483,51.497391
 Slingerbos,30,B,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.311690,51.497099
 Slingerbos,31,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310492,51.498396
-Slingerbos,32,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.311836,51.496883
 Slingerbos,35,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310676,51.497664
 Slingerbos,37,,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.310857,51.497531
 Slingerbos,39,C,,5688GH,Oirschot,Oirschot,Noord-Brabant,VBO,5.311363,51.496689
@@ -2372,7 +2381,6 @@ Eindhovensedijk,42,D,128E,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.363499,51
 Eindhovensedijk,42,D,128F,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.363545,51.475609
 Eindhovensedijk,42,D,129,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.361388,51.474975
 Eindhovensedijk,42,D,13,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.371268,51.477841
-Eindhovensedijk,42,D,137,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.360593,51.476163
 Eindhovensedijk,42,D,137A,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.360790,51.476333
 Eindhovensedijk,42,D,13A,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.371278,51.477741
 Eindhovensedijk,42,D,14,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.371842,51.477856
@@ -2398,7 +2406,6 @@ Eindhovensedijk,42,D,152,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.366602,51.
 Eindhovensedijk,42,D,153C,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.371883,51.478276
 Eindhovensedijk,42,D,154A,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.363737,51.479024
 Eindhovensedijk,42,D,16,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.371397,51.478310
-Eindhovensedijk,42,D,160,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.364667,51.477118
 Eindhovensedijk,42,D,165,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.363389,51.478520
 Eindhovensedijk,42,D,17,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.371002,51.477957
 Eindhovensedijk,42,D,171,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.363925,51.479075
@@ -2489,7 +2496,6 @@ Eindhovensedijk,42,D,259A,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.368070,51
 Eindhovensedijk,42,D,26,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.369912,51.478526
 Eindhovensedijk,42,D,260,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.361897,51.475562
 Eindhovensedijk,42,D,261,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.361935,51.475627
-Eindhovensedijk,42,D,262,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.361142,51.476823
 Eindhovensedijk,42,D,263,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.364202,51.472268
 Eindhovensedijk,42,D,263A,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.364038,51.472397
 Eindhovensedijk,42,D,265,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.366755,51.478828
@@ -2572,13 +2578,11 @@ Eindhovensedijk,42,D,570,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.379935,51.
 Eindhovensedijk,42,D,5A,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.372420,51.477424
 Eindhovensedijk,42,D,6,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.372205,51.477042
 Eindhovensedijk,42,D,600,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.364736,51.468174
-Eindhovensedijk,42,D,6000,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.357835,51.473511
 Eindhovensedijk,42,D,601,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.364920,51.469228
 Eindhovensedijk,42,D,602,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.364829,51.469010
 Eindhovensedijk,42,D,66,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.368714,51.472876
 Eindhovensedijk,42,D,67,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.369357,51.472935
 Eindhovensedijk,42,D,7,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.372042,51.476716
-Eindhovensedijk,42,D,7000,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.359319,51.473630
 Eindhovensedijk,42,D,72,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.369671,51.473047
 Eindhovensedijk,42,D,72A,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.369460,51.473237
 Eindhovensedijk,42,D,73,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.369149,51.473362
@@ -2670,6 +2674,7 @@ Eindhovensedijk,42,D,V,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.366109,51.46
 Eindhovensedijk,42,D,VO,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.367949,51.469681
 Eindhovensedijk,42,D,W,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.368825,51.469851
 Eindhovensedijk,42,D,WPL,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.367670,51.470348
+Eindhovensedijk,42,,,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.374413,51.477460
 Eindhovensedijk,44,D,A,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.375932,51.476055
 Eindhovensedijk,44,D,E,5688GN,Oirschot,Oirschot,Noord-Brabant,VBO,5.376248,51.476189
 Bloemendaal,1,,,5688GP,Oirschot,Oirschot,Noord-Brabant,VBO,5.321315,51.500068
@@ -2821,15 +2826,15 @@ Kloosterstraat,4,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304770,51.501727
 Kloosterstraat,6,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304722,51.501786
 Kloosterstraat,7,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304519,51.502975
 Kloosterstraat,8,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304674,51.501844
-Kloosterstraat,9,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304675,51.502714
+Kloosterstraat,9,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304688,51.502687
 Kloosterstraat,10,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304627,51.501903
-Kloosterstraat,11,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304709,51.502657
+Kloosterstraat,11,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304718,51.502630
 Kloosterstraat,12,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304579,51.501962
-Kloosterstraat,13,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304757,51.502604
+Kloosterstraat,13,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304763,51.502571
 Kloosterstraat,14,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304532,51.502020
-Kloosterstraat,15,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304791,51.502519
+Kloosterstraat,15,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304820,51.502480
 Kloosterstraat,16,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304484,51.502079
-Kloosterstraat,17,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304933,51.502359
+Kloosterstraat,17,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304951,51.502338
 Kloosterstraat,18,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304437,51.502137
 Kloosterstraat,20,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304389,51.502196
 Kloosterstraat,22,,,5688HT,Oirschot,Oirschot,Noord-Brabant,VBO,5.304342,51.502254
@@ -2987,6 +2992,7 @@ Boterwijksestraat,25,,,5688HX,Oirschot,Oirschot,Noord-Brabant,VBO,5.294958,51.51
 Lieveld,1,,,5688HZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.281674,51.515452
 Lieveld,2,B,,5688HZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.285720,51.512616
 Lieveld,2,,,5688HZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.282559,51.514964
+Lieveld,2,,,5688HZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.282615,51.515071
 Lieveld,3,,,5688HZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.286289,51.512179
 Lieveld,4,,,5688HZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.286514,51.512047
 Lieveld,5,A,,5688HZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.287214,51.512202
@@ -3105,8 +3111,8 @@ Groenewoud,5,A,,5688JK,Oirschot,Oirschot,Noord-Brabant,VBO,5.272058,51.506253
 Groenewoud,5,,,5688JK,Oirschot,Oirschot,Noord-Brabant,VBO,5.271942,51.505787
 Hakkelaren,1,,,5688JL,Oirschot,Oirschot,Noord-Brabant,VBO,5.268996,51.509137
 Hakkelaren,2,,,5688JL,Oirschot,Oirschot,Noord-Brabant,VBO,5.267270,51.506926
-Hakkelaren,6,,,5688JL,Oirschot,Oirschot,Noord-Brabant,VBO,5.267427,51.504491
 Hakkelaren,6,,,5688JL,Oirschot,Oirschot,Noord-Brabant,VBO,5.267603,51.504643
+Hakkelaren,6,,,5688JL,Oirschot,Oirschot,Noord-Brabant,VBO,5.267427,51.504491
 Hakkelaren,7,,,5688JL,Oirschot,Oirschot,Noord-Brabant,VBO,5.267911,51.504362
 Kattenberg,1,A,,5688JM,Oirschot,Oirschot,Noord-Brabant,VBO,5.253302,51.520170
 Kattenberg,1,B,,5688JM,Oirschot,Oirschot,Noord-Brabant,VBO,5.253086,51.519689
@@ -3129,7 +3135,7 @@ Bekersberg,4,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.248275,51.513628
 Bekersberg,5,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.245870,51.513980
 Bekersberg,6,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.244147,51.514034
 Bekersberg,7,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.240865,51.515219
-Bekersberg,8,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.238912,51.516341
+Bekersberg,8,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.239181,51.516197
 Bekersberg,9,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.231892,51.517988
 Bekersberg,10,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.228628,51.517217
 Bekersberg,11,,,5688JN,Oirschot,Oirschot,Noord-Brabant,VBO,5.228365,51.517168
@@ -3148,18 +3154,22 @@ Langendonksedijk,4,,,5688JS,Oirschot,Oirschot,Noord-Brabant,VBO,5.262301,51.5354
 Langendonksedijk,5,,,5688JS,Oirschot,Oirschot,Noord-Brabant,VBO,5.261837,51.527307
 Geeneindseweg,1,,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.252232,51.522445
 Geeneindseweg,2,,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.252127,51.522873
+Geeneindseweg,3,,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.253082,51.523252
 Geeneindseweg,3,,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.253018,51.523229
 Geeneindseweg,4,A,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.255302,51.523622
 Geeneindseweg,4,,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.254611,51.523774
 Geeneindseweg,5,A,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.256458,51.524630
 Geeneindseweg,5,,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.255917,51.524241
-Geeneindseweg,8,,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.258524,51.523401
+Geeneindseweg,8,,,5688JT,Oirschot,Oirschot,Noord-Brabant,VBO,5.259536,51.524733
+Heibloemdijk,1,A,,5688JV,Oirschot,Oirschot,Noord-Brabant,VBO,5.251971,51.529207
 Heibloemdijk,1,,,5688JV,Oirschot,Oirschot,Noord-Brabant,VBO,5.251551,51.529081
 Heibloemdijk,2,,,5688JV,Oirschot,Oirschot,Noord-Brabant,VBO,5.251208,51.529956
 Heibloemdijk,5,,,5688JV,Oirschot,Oirschot,Noord-Brabant,VBO,5.254537,51.533382
 Heibloemdijk,6,,,5688JV,Oirschot,Oirschot,Noord-Brabant,VBO,5.253784,51.534699
 Heibloemdijk,12,,,5688JV,Oirschot,Oirschot,Noord-Brabant,VBO,5.256124,51.537905
 Broekstraat,1,A,,5688JW,Oirschot,Oirschot,Noord-Brabant,VBO,5.272311,51.519121
+Broekstraat,1,B,,5688JW,Oirschot,Oirschot,Noord-Brabant,VBO,5.271967,51.519335
+Broekstraat,1,C,,5688JW,Oirschot,Oirschot,Noord-Brabant,VBO,5.272036,51.519478
 Broekstraat,1,,,5688JW,Oirschot,Oirschot,Noord-Brabant,VBO,5.271787,51.519019
 Broekstraat,2,,,5688JW,Oirschot,Oirschot,Noord-Brabant,VBO,5.272539,51.519323
 Broekstraat,3,B,,5688JW,Oirschot,Oirschot,Noord-Brabant,VBO,5.273387,51.519377
@@ -3226,6 +3236,7 @@ Pastoor van Gestelstraat,5,,,5688JZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.271309
 Pastoor van Gestelstraat,8,,,5688JZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.271405,51.515315
 Pastoor van Gestelstraat,9,,,5688JZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.271606,51.516229
 Pastoor van Gestelstraat,10,,,5688JZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.271898,51.515375
+Pastoor van Gestelstraat,11,,,5688JZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.271673,51.516114
 Pastoor van Gestelstraat,14,,,5688JZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.271786,51.515803
 Leeuwerikstraat,1,,,5688KA,Oirschot,Oirschot,Noord-Brabant,VBO,5.304101,51.506245
 Leeuwerikstraat,2,,,5688KA,Oirschot,Oirschot,Noord-Brabant,VBO,5.304270,51.506093
@@ -3273,7 +3284,6 @@ Spoordonkseweg,51,,,5688KB,Oirschot,Oirschot,Noord-Brabant,VBO,5.299043,51.51039
 Spoordonkseweg,53,A,,5688KB,Oirschot,Oirschot,Noord-Brabant,VBO,5.298676,51.510574
 Spoordonkseweg,53,B,,5688KB,Oirschot,Oirschot,Noord-Brabant,VBO,5.298486,51.510672
 Spoordonkseweg,53,,,5688KB,Oirschot,Oirschot,Noord-Brabant,VBO,5.298965,51.510423
-Spoordonkseweg,55,,,5688KB,Oirschot,Oirschot,Noord-Brabant,VBO,5.296528,51.512225
 Spoordonkseweg,57,,,5688KB,Oirschot,Oirschot,Noord-Brabant,VBO,5.295750,51.511553
 Spoordonkseweg,59,A,,5688KB,Oirschot,Oirschot,Noord-Brabant,VBO,5.294997,51.511410
 Spoordonkseweg,59,,,5688KB,Oirschot,Oirschot,Noord-Brabant,VBO,5.295318,51.511638
@@ -3383,6 +3393,7 @@ Spoordonkseweg,60,,,5688KD,Oirschot,Oirschot,Noord-Brabant,VBO,5.294943,51.51170
 Spoordonkseweg,62,,,5688KD,Oirschot,Oirschot,Noord-Brabant,VBO,5.294791,51.511887
 Spoordonkseweg,64,B,,5688KD,Oirschot,Oirschot,Noord-Brabant,VBO,5.293652,51.512159
 Spoordonkseweg,66,,,5688KE,Oirschot,Oirschot,Noord-Brabant,VBO,5.291839,51.513750
+Spoordonkseweg,68,A,,5688KE,Oirschot,Oirschot,Noord-Brabant,VBO,5.288724,51.515237
 Spoordonkseweg,68,,,5688KE,Oirschot,Oirschot,Noord-Brabant,VBO,5.288471,51.514952
 Spoordonkseweg,70,A,,5688KE,Oirschot,Oirschot,Noord-Brabant,VBO,5.287237,51.515064
 Spoordonkseweg,70,,,5688KE,Oirschot,Oirschot,Noord-Brabant,VBO,5.287369,51.515040
@@ -3638,9 +3649,27 @@ Park Sonnevanck,2,,,5688KX,Oirschot,Oirschot,Noord-Brabant,VBO,5.302667,51.50744
 Park Sonnevanck,3,,,5688KX,Oirschot,Oirschot,Noord-Brabant,VBO,5.302627,51.507120
 Park Sonnevanck,4,,,5688KX,Oirschot,Oirschot,Noord-Brabant,VBO,5.302111,51.507477
 Park Sonnevanck,5,,,5688KX,Oirschot,Oirschot,Noord-Brabant,VBO,5.302371,51.507327
+Meester de Weertstraat,3,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.273073,51.516980
+Meester de Weertstraat,4,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272582,51.516971
+Meester de Weertstraat,5,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.273033,51.516935
+Meester de Weertstraat,6,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272551,51.516914
+Meester de Weertstraat,7,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272994,51.516891
+Meester de Weertstraat,8,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272519,51.516868
+Meester de Weertstraat,9,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272970,51.516842
+Meester de Weertstraat,10,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272490,51.516820
+Meester de Weertstraat,11,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272934,51.516797
+Meester de Weertstraat,15,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272840,51.516663
+Meester de Weertstraat,17,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272823,51.516613
+Meester de Weertstraat,19,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272802,51.516564
+Meester de Weertstraat,21,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272777,51.516517
+Meester de Weertstraat,23,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272752,51.516468
+Meester de Weertstraat,25,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272724,51.516417
 Meester de Weertstraat,26,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272328,51.515770
+Meester de Weertstraat,27,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272717,51.516338
 Meester de Weertstraat,28,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272416,51.515545
 Meester de Weertstraat,30,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272510,51.515381
+Meester de Weertstraat,35,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272699,51.516092
+Meester de Weertstraat,37,,,5688KZ,Oirschot,Oirschot,Noord-Brabant,VBO,5.272696,51.516042
 Peperstraat,1,A,,5688LA,Oirschot,Oirschot,Noord-Brabant,VBO,5.309354,51.512048
 Peperstraat,1,C,,5688LA,Oirschot,Oirschot,Noord-Brabant,VBO,5.308883,51.512108
 Peperstraat,1,D,,5688LA,Oirschot,Oirschot,Noord-Brabant,VBO,5.308685,51.512119
@@ -3656,8 +3685,8 @@ Peperstraat,7,A,,5688LA,Oirschot,Oirschot,Noord-Brabant,VBO,5.303997,51.515642
 Peperstraat,7,,,5688LA,Oirschot,Oirschot,Noord-Brabant,VBO,5.304147,51.515384
 Peperstraat,8,,,5688LA,Oirschot,Oirschot,Noord-Brabant,VBO,5.303382,51.516282
 Peperstraat,9,,,5688LA,Oirschot,Oirschot,Noord-Brabant,VBO,5.303929,51.517546
-Ekerschotweg,1,A,,5688LB,Oirschot,Oirschot,Noord-Brabant,VBO,5.301036,51.513644
 Ekerschotweg,1,A,,5688LB,Oirschot,Oirschot,Noord-Brabant,VBO,5.300984,51.513698
+Ekerschotweg,1,A,,5688LB,Oirschot,Oirschot,Noord-Brabant,VBO,5.301036,51.513644
 Ekerschotweg,1,,,5688LB,Oirschot,Oirschot,Noord-Brabant,VBO,5.300236,51.513846
 Ekerschotweg,2,,,5688LB,Oirschot,Oirschot,Noord-Brabant,VBO,5.302577,51.513880
 Brembos,1,,,5688LC,Oirschot,Oirschot,Noord-Brabant,VBO,5.299688,51.522339
@@ -3685,7 +3714,7 @@ Priemsteeg,4,,,5688LG,Oirschot,Oirschot,Noord-Brabant,VBO,5.294895,51.526007
 Krukkerd,1,,,5688LH,Oirschot,Oirschot,Noord-Brabant,VBO,5.292059,51.524562
 Krukkerd,2,,,5688LH,Oirschot,Oirschot,Noord-Brabant,VBO,5.292663,51.524799
 Krukkerd,3,A,,5688LH,Oirschot,Oirschot,Noord-Brabant,VBO,5.291832,51.525612
-Krukkerd,3,A,,5688LH,Oirschot,Oirschot,Noord-Brabant,VBO,5.291905,51.525666
+Krukkerd,3,,,5688LH,Oirschot,Oirschot,Noord-Brabant,VBO,5.291516,51.525061
 Krukkerd,3,,,5688LH,Oirschot,Oirschot,Noord-Brabant,VBO,5.292171,51.525128
 Krukkerd,4,,,5688LH,Oirschot,Oirschot,Noord-Brabant,VBO,5.292314,51.526483
 Krukkerd,5,A,,5688LH,Oirschot,Oirschot,Noord-Brabant,VBO,5.286534,51.529719
@@ -3890,7 +3919,7 @@ Oude Grintweg,79,,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.319162,51.527948
 Oude Grintweg,80,,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.318278,51.528018
 Oude Grintweg,82,A,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.315921,51.528408
 Oude Grintweg,82,,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.315973,51.528727
-Oude Grintweg,83,,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.315958,51.529363
+Oude Grintweg,83,,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.315772,51.529111
 Oude Grintweg,84,,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.315645,51.529149
 Oude Grintweg,85,,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.314918,51.529074
 Oude Grintweg,87,,,5688MB,Oirschot,Oirschot,Noord-Brabant,VBO,5.313235,51.533238
@@ -3918,12 +3947,12 @@ Mortelsgraaf,1,A,,5688MJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.346530,51.524229
 Mortelsgraaf,1,,,5688MJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.346673,51.524233
 Lopensestraat,2,C,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.337120,51.528805
 Lopensestraat,2,D,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.337319,51.528993
-Lopensestraat,2,,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.337269,51.527601
+Lopensestraat,2,,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.337509,51.527462
 Lopensestraat,3,,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.338197,51.528409
 Lopensestraat,4,A,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.337012,51.529561
 Lopensestraat,4,,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.337445,51.529214
 Lopensestraat,5,,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.337528,51.529734
-Lopensestraat,6,A,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.336719,51.532116
+Lopensestraat,6,A,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.336664,51.532112
 Lopensestraat,6,,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.337209,51.530993
 Lopensestraat,7,,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.336481,51.532477
 Lopensestraat,8,,,5688MK,Oirschot,Oirschot,Noord-Brabant,VBO,5.335480,51.533291
@@ -4008,7 +4037,7 @@ Notel,56,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.319915,51.513728
 Notel,59,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.317529,51.516195
 Notel,60,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.319337,51.514884
 Notel,61,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.317053,51.516954
-Notel,63,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.316758,51.517496
+Notel,63,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.316917,51.517601
 Notel,65,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.316676,51.518096
 Notel,67,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.316545,51.518394
 Notel,69,,,5688NB,Oirschot,Oirschot,Noord-Brabant,VBO,5.316445,51.518616
@@ -4036,19 +4065,20 @@ Schansstraat,12,A,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.324620,51.518521
 Schansstraat,12,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.324737,51.518630
 Schansstraat,13,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.325401,51.519318
 Schansstraat,14,A,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.326626,51.520147
-Schansstraat,14,B,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.327638,51.518584
 Schansstraat,14,C,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.326713,51.520220
-Schansstraat,14,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.327525,51.518936
+Schansstraat,14,D,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.324250,51.521343
+Schansstraat,14,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.327360,51.518860
 Schansstraat,15,A,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.327058,51.521057
 Schansstraat,15,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.327088,51.520927
 Schansstraat,16,A,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.327974,51.521683
-Schansstraat,16,B,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.328010,51.519932
-Schansstraat,16,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.328823,51.520019
+Schansstraat,16,B,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.328365,51.519944
+Schansstraat,16,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.328637,51.520003
 Schansstraat,17,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.329528,51.521865
 Schansstraat,18,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.330018,51.521937
 Schansstraat,19,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.331872,51.522738
 Schansstraat,20,A,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.332783,51.523217
 Schansstraat,20,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.332219,51.522948
+de Scheper,402,,,5688NC,Oirschot,Oirschot,Noord-Brabant,VBO,5.300350,51.493810
 de Bleek,1,,,5688ND,Oirschot,Oirschot,Noord-Brabant,VBO,5.332896,51.522845
 de Bleek,2,,,5688ND,Oirschot,Oirschot,Noord-Brabant,VBO,5.333168,51.522599
 Heldersestraat,1,A,,5688NE,Oirschot,Oirschot,Noord-Brabant,VBO,5.332798,51.520900
@@ -4089,7 +4119,7 @@ Straten,1,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.336626,51.506276
 Straten,2,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.338363,51.508078
 Straten,3,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.338598,51.508290
 Straten,4,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.338191,51.508490
-Straten,6,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.339096,51.508925
+Straten,6,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.338956,51.508839
 Straten,7,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.338594,51.509136
 Straten,8,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.338312,51.509574
 Straten,9,,,5688NJ,Oirschot,Oirschot,Noord-Brabant,VBO,5.338469,51.509732
@@ -4402,8 +4432,8 @@ Castaert,90,,,5688PG,Oirschot,Oirschot,Noord-Brabant,VBO,5.318030,51.511033
 Castaert,92,,,5688PG,Oirschot,Oirschot,Noord-Brabant,VBO,5.318108,51.510912
 Castaert,94,,,5688PG,Oirschot,Oirschot,Noord-Brabant,VBO,5.318191,51.510775
 Castaert,96,,,5688PG,Oirschot,Oirschot,Noord-Brabant,VBO,5.318305,51.510663
-Castaert,98,,,5688PG,Oirschot,Oirschot,Noord-Brabant,VBO,5.318394,51.510414
 Castaert,98,,,5688PG,Oirschot,Oirschot,Noord-Brabant,VBO,5.318567,51.510373
+Castaert,98,,,5688PG,Oirschot,Oirschot,Noord-Brabant,VBO,5.318394,51.510414
 Castaert,2,,,5688PH,Oirschot,Oirschot,Noord-Brabant,VBO,5.314114,51.509507
 Castaert,4,,,5688PH,Oirschot,Oirschot,Noord-Brabant,VBO,5.314082,51.509586
 Castaert,6,,,5688PH,Oirschot,Oirschot,Noord-Brabant,VBO,5.314049,51.509665
@@ -5143,7 +5173,6 @@ het Luiwerk,22,,,5688SK,Oirschot,Oirschot,Noord-Brabant,VBO,5.319808,51.507812
 het Luiwerk,24,,,5688SK,Oirschot,Oirschot,Noord-Brabant,VBO,5.319805,51.507864
 het Luiwerk,26,,,5688SK,Oirschot,Oirschot,Noord-Brabant,VBO,5.319800,51.507916
 de Reep,1,,,5688SL,Oirschot,Oirschot,Noord-Brabant,VBO,5.320887,51.507206
-de Reep,2,,,5688SL,Oirschot,Oirschot,Noord-Brabant,VBO,5.320442,51.506975
 de Reep,3,,,5688SL,Oirschot,Oirschot,Noord-Brabant,VBO,5.320694,51.507255
 de Reep,5,,,5688SL,Oirschot,Oirschot,Noord-Brabant,VBO,5.320518,51.507308
 de Reep,7,,,5688SL,Oirschot,Oirschot,Noord-Brabant,VBO,5.320423,51.507326
@@ -5494,7 +5523,6 @@ de Korenaar,41,,,5688TS,Oirschot,Oirschot,Noord-Brabant,VBO,5.318155,51.509609
 de Korenaar,43,,,5688TS,Oirschot,Oirschot,Noord-Brabant,VBO,5.318347,51.509618
 de Korenaar,45,,,5688TS,Oirschot,Oirschot,Noord-Brabant,VBO,5.318545,51.509647
 de Korenaar,47,,,5688TS,Oirschot,Oirschot,Noord-Brabant,VBO,5.318741,51.509693
-de Korenaar,48,,,5688TS,Oirschot,Oirschot,Noord-Brabant,VBO,5.318835,51.510710
 de Korenaar,49,,,5688TS,Oirschot,Oirschot,Noord-Brabant,VBO,5.319641,51.509584
 de Korenaar,50,A,,5688TS,Oirschot,Oirschot,Noord-Brabant,VBO,5.319779,51.510526
 de Korenaar,50,,,5688TS,Oirschot,Oirschot,Noord-Brabant,VBO,5.319729,51.510317
@@ -5925,7 +5953,7 @@ den Uitvanck,5,,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.335382,51.502501
 den Uitvanck,6,,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.335498,51.501493
 den Uitvanck,8,,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.335131,51.501419
 den Uitvanck,9,A,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.334600,51.501677
-den Uitvanck,9,B,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.334547,51.501427
+den Uitvanck,9,B,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.334607,51.501486
 den Uitvanck,9,F,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.334655,51.501534
 den Uitvanck,9,,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.334756,51.501622
 den Uitvanck,10,A,,5688XG,Oirschot,Oirschot,Noord-Brabant,VBO,5.334991,51.501001

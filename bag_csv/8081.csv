@@ -33,7 +33,6 @@ Nieuwstadspad,5,,,8081AC,Elburg,Elburg,Gelderland,VBO,5.825150,52.441175
 Nieuwstadspad,6,,,8081AC,Elburg,Elburg,Gelderland,VBO,5.824513,52.441399
 Nieuwstadsweg,58,,,8081AC,Elburg,Elburg,Gelderland,VBO,5.824402,52.440874
 Nieuwstadsweg,60,A,,8081AC,Elburg,Elburg,Gelderland,VBO,5.823155,52.440949
-Nieuwstadsweg,60,T,,8081AC,Elburg,Elburg,Gelderland,VBO,5.823363,52.440510
 Nieuwstadsweg,60,,,8081AC,Elburg,Elburg,Gelderland,VBO,5.823417,52.440837
 Parallelweg,1,,,8081AD,Elburg,Elburg,Gelderland,VBO,5.826580,52.441335
 Parallelweg,3,,,8081AD,Elburg,Elburg,Gelderland,VBO,5.826337,52.441910
@@ -53,6 +52,7 @@ Wildemaetstraat,11,,,8081AG,Elburg,Elburg,Gelderland,VBO,5.830802,52.444111
 Wildemaetstraat,13,,,8081AG,Elburg,Elburg,Gelderland,VBO,5.830204,52.443894
 Wildemaetstraat,15,,,8081AG,Elburg,Elburg,Gelderland,VBO,5.829948,52.443839
 Wildemaetstraat,17,,,8081AG,Elburg,Elburg,Gelderland,VBO,5.829853,52.443883
+Wildemaetstraat,18,,,8081AG,Elburg,Elburg,Gelderland,VBO,5.829638,52.444432
 Wildemaetstraat,19,,,8081AG,Elburg,Elburg,Gelderland,VBO,5.829081,52.443787
 Wildemaetstraat,21,,,8081AG,Elburg,Elburg,Gelderland,VBO,5.828863,52.443744
 Wildemaetstraat,23,,,8081AG,Elburg,Elburg,Gelderland,VBO,5.828416,52.443614
@@ -348,8 +348,8 @@ Molenweg,11,,,8081BJ,Elburg,Elburg,Gelderland,VBO,5.833571,52.442819
 Molenweg,13,,,8081BJ,Elburg,Elburg,Gelderland,VBO,5.833992,52.442756
 Molenweg,15,,,8081BJ,Elburg,Elburg,Gelderland,VBO,5.834437,52.442783
 Molenweg,21,,,8081BJ,Elburg,Elburg,Gelderland,VBO,5.834945,52.442703
-Molenweg,27,,,8081BJ,Elburg,Elburg,Gelderland,VBO,5.835630,52.442399
 Molenweg,27,,,8081BJ,Elburg,Elburg,Gelderland,VBO,5.835545,52.442442
+Molenweg,27,,,8081BJ,Elburg,Elburg,Gelderland,VBO,5.835630,52.442399
 Molenweg,29,,,8081BJ,Elburg,Elburg,Gelderland,VBO,5.835924,52.442769
 Molenweg,2,,,8081BK,Elburg,Elburg,Gelderland,VBO,5.832245,52.443251
 Molenweg,4,,,8081BK,Elburg,Elburg,Gelderland,VBO,5.832347,52.443209
@@ -649,7 +649,8 @@ Westerwalstraat,31,A,,8081CA,Elburg,Elburg,Gelderland,VBO,5.833298,52.447406
 Westerwalstraat,31,,,8081CA,Elburg,Elburg,Gelderland,VBO,5.833187,52.447458
 Westerwalstraat,33,,,8081CA,Elburg,Elburg,Gelderland,VBO,5.833060,52.447517
 Westerwalstraat,35,,,8081CA,Elburg,Elburg,Gelderland,VBO,5.832916,52.447567
-Westerwalstraat,37,,,8081CB,Elburg,Elburg,Gelderland,VBO,5.832722,52.447650
+Westerwalstraat,37,,,8081CB,Elburg,Elburg,Gelderland,VBO,5.832715,52.447647
+Westerwalstraat,39,,,8081CB,Elburg,Elburg,Gelderland,VBO,5.832598,52.447693
 Westerwalstraat,41,,,8081CB,Elburg,Elburg,Gelderland,VBO,5.832499,52.447744
 Westerwalstraat,43,,,8081CB,Elburg,Elburg,Gelderland,VBO,5.832402,52.447787
 Westerwalstraat,49,,,8081CB,Elburg,Elburg,Gelderland,VBO,5.832187,52.447811
@@ -771,8 +772,10 @@ Schapesteeg,13,,,8081CN,Elburg,Elburg,Gelderland,VBO,5.834738,52.448430
 Schapesteeg,14,A,,8081CN,Elburg,Elburg,Gelderland,VBO,5.834637,52.448566
 Schapesteeg,14,,,8081CN,Elburg,Elburg,Gelderland,VBO,5.834607,52.448512
 Schapesteeg,15,,,8081CN,Elburg,Elburg,Gelderland,VBO,5.834679,52.448395
+Schapesteeg,16,,,8081CN,Elburg,Elburg,Gelderland,VBO,5.834302,52.448496
 Schapesteeg,22,,,8081CN,Elburg,Elburg,Gelderland,VBO,5.834441,52.448351
 Jufferenstraat,1,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.835937,52.447741
+Jufferenstraat,5,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.836159,52.447898
 Jufferenstraat,7,A,,8081CP,Elburg,Elburg,Gelderland,VBO,5.835829,52.447846
 Jufferenstraat,7,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.835829,52.447846
 Jufferenstraat,9,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.835738,52.447885
@@ -787,6 +790,7 @@ Jufferenstraat,27,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.834772,52.448234
 Jufferenstraat,29,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.834750,52.448325
 Jufferenstraat,31,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.834441,52.448351
 Jufferenstraat,33,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.834353,52.448396
+Jufferenstraat,35,,,8081CP,Elburg,Elburg,Gelderland,VBO,5.834353,52.448396
 Jufferenstraat,6,,,8081CR,Elburg,Elburg,Gelderland,VBO,5.835695,52.447509
 Jufferenstraat,8,,,8081CR,Elburg,Elburg,Gelderland,VBO,5.835504,52.447702
 Jufferenstraat,10,,,8081CR,Elburg,Elburg,Gelderland,VBO,5.835210,52.447730
@@ -1080,6 +1084,8 @@ Backerskamp,47,,,8081DM,Elburg,Elburg,Gelderland,VBO,5.852406,52.446954
 Backerskamp,49,,,8081DM,Elburg,Elburg,Gelderland,VBO,5.852366,52.446904
 Klaverplein,2,,,8081DN,Elburg,Elburg,Gelderland,VBO,5.856165,52.445607
 Klaverplein,4,,,8081DN,Elburg,Elburg,Gelderland,VBO,5.857532,52.445392
+Klaverplein,6,,,8081DN,Elburg,Elburg,Gelderland,VBO,5.857532,52.445392
+Klaverplein,8,,,8081DN,Elburg,Elburg,Gelderland,VBO,5.857528,52.445472
 Klaverplein,10,,,8081DN,Elburg,Elburg,Gelderland,VBO,5.857528,52.445472
 Klaverplein,12,,,8081DN,Elburg,Elburg,Gelderland,VBO,5.857516,52.445552
 Klaverplein,14,,,8081DN,Elburg,Elburg,Gelderland,VBO,5.857505,52.445603
@@ -1216,11 +1222,13 @@ Beekstraat,29,,,8081EA,Elburg,Elburg,Gelderland,VBO,5.834359,52.448553
 Beekstraat,31,,,8081EA,Elburg,Elburg,Gelderland,VBO,5.834302,52.448496
 Beekstraat,33,,,8081EA,Elburg,Elburg,Gelderland,VBO,5.834192,52.448457
 Beekstraat,35,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833972,52.448262
-Beekstraat,37,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833965,52.448189
+Beekstraat,37,A,,8081EB,Elburg,Elburg,Gelderland,VBO,5.834044,52.448155
+Beekstraat,37,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.834015,52.448173
 Beekstraat,39,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833882,52.448149
 Beekstraat,41,A,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833882,52.448149
 Beekstraat,41,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833882,52.448149
-Beekstraat,43,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833742,52.448049
+Beekstraat,43,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833735,52.448093
+Beekstraat,47,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833645,52.448003
 Beekstraat,49,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833606,52.447931
 Beekstraat,51,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833539,52.447874
 Beekstraat,53,,,8081EB,Elburg,Elburg,Gelderland,VBO,5.833385,52.447732
@@ -1244,7 +1252,8 @@ Beekstraat,14,A,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833905,52.448964
 Beekstraat,14,,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833953,52.448967
 Beekstraat,16,,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833954,52.448884
 Beekstraat,18,,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833939,52.448813
-Beekstraat,20,,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833889,52.448757
+Beekstraat,20,A,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833844,52.448767
+Beekstraat,20,,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833888,52.448739
 Beekstraat,22,,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833799,52.448705
 Beekstraat,24,A,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833696,52.448650
 Beekstraat,24,,,8081EC,Elburg,Elburg,Gelderland,VBO,5.833746,52.448643
@@ -1330,7 +1339,10 @@ Gasthuissteeg,10,,,8081EL,Elburg,Elburg,Gelderland,VBO,5.831731,52.448809
 Gasthuissteeg,12,,,8081EL,Elburg,Elburg,Gelderland,VBO,5.831658,52.448866
 Gasthuissteeg,14,,,8081EL,Elburg,Elburg,Gelderland,VBO,5.831756,52.448824
 Gasthuissteeg,16,,,8081EL,Elburg,Elburg,Gelderland,VBO,5.831546,52.448922
+Smeesteeg,1,,,8081EM,Elburg,Elburg,Gelderland,VBO,5.834512,52.449351
+Smeesteeg,3,,,8081EM,Elburg,Elburg,Gelderland,VBO,5.834409,52.449305
 Smeesteeg,5,,,8081EM,Elburg,Elburg,Gelderland,VBO,5.833965,52.449074
+Smeesteeg,7,,,8081EM,Elburg,Elburg,Gelderland,VBO,5.833953,52.448967
 Smeesteeg,9,,,8081EM,Elburg,Elburg,Gelderland,VBO,5.833939,52.448813
 Smeesteeg,11,,,8081EM,Elburg,Elburg,Gelderland,VBO,5.833306,52.448536
 Smeesteeg,13,A,,8081EM,Elburg,Elburg,Gelderland,VBO,5.833431,52.448409
@@ -1357,6 +1369,7 @@ Smeesteeg,8,,,8081EN,Elburg,Elburg,Gelderland,VBO,5.833419,52.448849
 Smeesteeg,10,,,8081EN,Elburg,Elburg,Gelderland,VBO,5.833108,52.448647
 Smeesteeg,12,,,8081EN,Elburg,Elburg,Gelderland,VBO,5.832821,52.448362
 Smeesteeg,14,A,,8081EN,Elburg,Elburg,Gelderland,VBO,5.832317,52.447986
+Smeesteeg,14,,,8081EN,Elburg,Elburg,Gelderland,VBO,5.832284,52.448139
 Vischpoortstraat,3,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.833375,52.448585
 Vischpoortstraat,5,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832999,52.448626
 Vischpoortstraat,9,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832770,52.448717
@@ -1366,7 +1379,7 @@ Vischpoortstraat,15,A,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832552,52.448925
 Vischpoortstraat,15,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832552,52.448925
 Vischpoortstraat,17,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832464,52.448961
 Vischpoortstraat,19,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832361,52.449002
-Vischpoortstraat,21,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832137,52.449096
+Vischpoortstraat,21,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832141,52.449105
 Vischpoortstraat,23,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.832056,52.449127
 Vischpoortstraat,25,,,8081EP,Elburg,Elburg,Gelderland,VBO,5.831970,52.449145
 Vischpoortstraat,27,A,,8081EP,Elburg,Elburg,Gelderland,VBO,5.831925,52.449174
@@ -1385,10 +1398,11 @@ Vischpoortstraat,16,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832945,52.448996
 Vischpoortstraat,18,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832839,52.449021
 Vischpoortstraat,20,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832693,52.449102
 Vischpoortstraat,22,A,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832539,52.449113
-Vischpoortstraat,22,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832539,52.449135
+Vischpoortstraat,22,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832687,52.449193
 Vischpoortstraat,24,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832316,52.449209
 Vischpoortstraat,26,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832283,52.449277
 Vischpoortstraat,28,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832227,52.449267
+Vischpoortstraat,30,,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832227,52.449267
 Vischpoortstraat,32,A,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832090,52.449302
 Vischpoortstraat,32,B,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832099,52.449267
 Vischpoortstraat,32,C,,8081ER,Elburg,Elburg,Gelderland,VBO,5.832129,52.449294
@@ -1505,6 +1519,7 @@ Ellestraat,28,,,8081GE,Elburg,Elburg,Gelderland,VBO,5.832405,52.449413
 Ellestraat,30,,,8081GE,Elburg,Elburg,Gelderland,VBO,5.832423,52.449329
 Ellestraat,32,,,8081GE,Elburg,Elburg,Gelderland,VBO,5.832384,52.449293
 Ellestraat,34,,,8081GE,Elburg,Elburg,Gelderland,VBO,5.832347,52.449259
+Ellestraat,34,A,,8081GG,Elburg,Elburg,Gelderland,VBO,5.832126,52.449070
 Ellestraat,36,A,,8081GG,Elburg,Elburg,Gelderland,VBO,5.831976,52.449049
 Ellestraat,36,,,8081GG,Elburg,Elburg,Gelderland,VBO,5.831976,52.449049
 Ellestraat,38,,,8081GG,Elburg,Elburg,Gelderland,VBO,5.831952,52.448974
@@ -1554,6 +1569,7 @@ Oosterwalstraat,15,,,8081GH,Elburg,Elburg,Gelderland,VBO,5.834380,52.449609
 Oosterwalstraat,16,,,8081GH,Elburg,Elburg,Gelderland,VBO,5.833881,52.449699
 Oosterwalstraat,18,,,8081GH,Elburg,Elburg,Gelderland,VBO,5.833789,52.449735
 Oosterwalstraat,20,,,8081GH,Elburg,Elburg,Gelderland,VBO,5.833722,52.449802
+Oosterwalstraat,22,G,01,8081GH,Elburg,Elburg,Gelderland,VBO,5.833518,52.449918
 Oosterwalstraat,22,,,8081GH,Elburg,Elburg,Gelderland,VBO,5.833604,52.449883
 Oosterwalstraat,24,,,8081GH,Elburg,Elburg,Gelderland,VBO,5.833352,52.449885
 Veghenhofplein,1,,,8081GJ,Elburg,Elburg,Gelderland,VBO,5.832779,52.450068
@@ -1576,6 +1592,7 @@ Noorderwalstraat,11,,,8081GL,Elburg,Elburg,Gelderland,VBO,5.832266,52.449596
 Noorderwalstraat,13,A,,8081GL,Elburg,Elburg,Gelderland,VBO,5.832141,52.449457
 Noorderwalstraat,13,,,8081GL,Elburg,Elburg,Gelderland,VBO,5.832141,52.449457
 Noorderwalstraat,15,,,8081GL,Elburg,Elburg,Gelderland,VBO,5.832091,52.449391
+Noorderwalstraat,17,,,8081GL,Elburg,Elburg,Gelderland,VBO,5.831866,52.449214
 Noorderwalstraat,21,,,8081GL,Elburg,Elburg,Gelderland,VBO,5.831765,52.449129
 Noorderwalstraat,25,,,8081GL,Elburg,Elburg,Gelderland,VBO,5.831711,52.449081
 Noorderwalstraat,27,,,8081GL,Elburg,Elburg,Gelderland,VBO,5.831638,52.449027
@@ -1595,7 +1612,7 @@ Havenstraat,7,,,8081GN,Elburg,Elburg,Gelderland,VBO,5.830794,52.449946
 Havenkade,1,A,,8081GP,Elburg,Elburg,Gelderland,VBO,5.830024,52.450695
 Havenkade,1,B,,8081GP,Elburg,Elburg,Gelderland,VBO,5.829740,52.450166
 Havenkade,1,,,8081GP,Elburg,Elburg,Gelderland,VBO,5.828675,52.451588
-Havenkade,2,A,,8081GP,Elburg,Elburg,Gelderland,VBO,5.828116,52.450618
+Havenkade,2,A,,8081GP,Elburg,Elburg,Gelderland,VBO,5.828098,52.450801
 Havenkade,2,,,8081GP,Elburg,Elburg,Gelderland,VBO,5.828008,52.450706
 Havenkade,3,,,8081GP,Elburg,Elburg,Gelderland,VBO,5.828315,52.450486
 Havenkade,4,,,8081GP,Elburg,Elburg,Gelderland,VBO,5.828387,52.450477
@@ -1657,6 +1674,7 @@ Eendenhoeksteeg,1,B,,8081GS,Elburg,Elburg,Gelderland,VBO,5.832675,52.449796
 Eendenhoeksteeg,3,,,8081GS,Elburg,Elburg,Gelderland,VBO,5.832561,52.449822
 Eendenhoeksteeg,5,,,8081GS,Elburg,Elburg,Gelderland,VBO,5.832492,52.449850
 Havendijkje,1,,,8081GT,Elburg,Elburg,Gelderland,VBO,5.830794,52.449946
+Havendijkje,2,,,8081GT,Elburg,Elburg,Gelderland,VBO,5.830899,52.449865
 Havendijkje,7,,,8081GT,Elburg,Elburg,Gelderland,VBO,5.830996,52.450233
 Bagijnendijkje,1,,,8081GV,Elburg,Elburg,Gelderland,VBO,5.831957,52.447037
 Bagijnendijkje,2,,,8081GV,Elburg,Elburg,Gelderland,VBO,5.831703,52.446974
@@ -1730,6 +1748,7 @@ J.P. Broekhovenstraat,10,,,8081HC,Elburg,Elburg,Gelderland,VBO,5.830865,52.45431
 J.P. Broekhovenstraat,12,A,,8081HC,Elburg,Elburg,Gelderland,VBO,5.829934,52.454724
 J.P. Broekhovenstraat,12,,,8081HC,Elburg,Elburg,Gelderland,VBO,5.830046,52.454755
 J.P. Broekhovenstraat,16,,,8081HC,Elburg,Elburg,Gelderland,VBO,5.828396,52.455815
+J.P. Broekhovenstraat,18,,,8081HC,Elburg,Elburg,Gelderland,VBO,5.828396,52.455815
 J.P. Broekhovenstraat,22,,,8081HC,Elburg,Elburg,Gelderland,VBO,5.823634,52.457571
 J.P. Broekhovenstraat,24,,,8081HC,Elburg,Elburg,Gelderland,VBO,5.823073,52.457472
 J.P. Broekhovenstraat,26,,,8081HC,Elburg,Elburg,Gelderland,VBO,5.822833,52.457338
@@ -1784,6 +1803,7 @@ Uiterwaardenstraat,8,,,8081HJ,Elburg,Elburg,Gelderland,VBO,5.832979,52.455340
 Uiterwaardenstraat,9,A,,8081HJ,Elburg,Elburg,Gelderland,VBO,5.830861,52.456197
 Uiterwaardenstraat,9,B,,8081HJ,Elburg,Elburg,Gelderland,VBO,5.830689,52.456300
 Uiterwaardenstraat,9,C,,8081HJ,Elburg,Elburg,Gelderland,VBO,5.830514,52.456405
+Uiterwaardenstraat,9,,,8081HJ,Elburg,Elburg,Gelderland,VBO,5.828396,52.455815
 Uiterwaardenstraat,15,,,8081HJ,Elburg,Elburg,Gelderland,VBO,5.829963,52.457549
 Uiterwaardenstraat,17,A,,8081HJ,Elburg,Elburg,Gelderland,VBO,5.829320,52.457925
 Uiterwaardenstraat,17,B,,8081HJ,Elburg,Elburg,Gelderland,VBO,5.829633,52.458062
@@ -1830,8 +1850,9 @@ Robbertsmatenstraat,10,,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834284,52.453136
 Robbertsmatenstraat,11,,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834614,52.455055
 Robbertsmatenstraat,13,,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834617,52.455342
 Robbertsmatenstraat,14,,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834287,52.453456
+Robbertsmatenstraat,15,A,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834076,52.455668
 Robbertsmatenstraat,15,B,,8081HL,Elburg,Elburg,Gelderland,VBO,5.833780,52.455641
-Robbertsmatenstraat,15,,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834414,52.455601
+Robbertsmatenstraat,15,,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834502,52.455586
 Robbertsmatenstraat,17,A,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834667,52.455909
 Robbertsmatenstraat,17,,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834389,52.455897
 Robbertsmatenstraat,18,,,8081HL,Elburg,Elburg,Gelderland,VBO,5.834644,52.453647
@@ -3779,6 +3800,7 @@ Noorderbreedte,1,,,8081PX,Elburg,Elburg,Gelderland,VBO,5.864211,52.442294
 Noorderbreedte,2,,,8081PX,Elburg,Elburg,Gelderland,VBO,5.863711,52.443028
 Noorderbreedte,3,,,8081PX,Elburg,Elburg,Gelderland,VBO,5.863718,52.442277
 Noorderbreedte,7,A,,8081PX,Elburg,Elburg,Gelderland,VBO,5.863082,52.442215
+Noorderbreedte,7,,,8081PX,Elburg,Elburg,Gelderland,VBO,5.862965,52.441929
 Noorderbreedte,8,,,8081PX,Elburg,Elburg,Gelderland,VBO,5.863149,52.442820
 Noorderbreedte,9,A,,8081PX,Elburg,Elburg,Gelderland,VBO,5.862709,52.442010
 Noorderbreedte,9,,,8081PX,Elburg,Elburg,Gelderland,VBO,5.862965,52.441929
@@ -3853,9 +3875,11 @@ Oostendorperstraatweg,25,A,,8081RH,Elburg,Elburg,Gelderland,VBO,5.865685,52.4495
 Oostendorperstraatweg,25,B,,8081RH,Elburg,Elburg,Gelderland,VBO,5.865629,52.449348
 Oostendorperstraatweg,25,,,8081RH,Elburg,Elburg,Gelderland,VBO,5.868008,52.448921
 Oostendorperstraatweg,27,,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.867675,52.454149
-Oostendorperstraatweg,29,,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.868011,52.454225
+Oostendorperstraatweg,29,A,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.867986,52.454205
+Oostendorperstraatweg,29,,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.868030,52.454232
+Oostendorperstraatweg,31,A,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.868252,52.454330
 Oostendorperstraatweg,31,T,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.868540,52.454584
-Oostendorperstraatweg,31,,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.868290,52.454383
+Oostendorperstraatweg,31,,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.868311,52.454393
 Oostendorperstraatweg,33,A,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.868300,52.455718
 Oostendorperstraatweg,33,B,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.869159,52.456226
 Oostendorperstraatweg,33,C,,8081RJ,Elburg,Elburg,Gelderland,VBO,5.869893,52.456462
@@ -3879,7 +3903,8 @@ Oostendorperstraatweg,16,A,,8081RK,Elburg,Elburg,Gelderland,VBO,5.869252,52.4461
 Oostendorperstraatweg,16,,,8081RK,Elburg,Elburg,Gelderland,VBO,5.869220,52.446166
 Oostendorperstraatweg,18,B,,8081RK,Elburg,Elburg,Gelderland,VBO,5.870170,52.446734
 Oostendorperstraatweg,18,,,8081RK,Elburg,Elburg,Gelderland,VBO,5.870013,52.446808
-Oostendorperstraatweg,20,,,8081RK,Elburg,Elburg,Gelderland,VBO,5.868473,52.449024
+Oostendorperstraatweg,20,A,,8081RK,Elburg,Elburg,Gelderland,VBO,5.868504,52.449089
+Oostendorperstraatweg,20,,,8081RK,Elburg,Elburg,Gelderland,VBO,5.868444,52.449009
 Oostendorperstraatweg,22,A,,8081RK,Elburg,Elburg,Gelderland,VBO,5.868842,52.451224
 Oostendorperstraatweg,22,,,8081RK,Elburg,Elburg,Gelderland,VBO,5.869158,52.450562
 Oostendorperstraatweg,24,,,8081RL,Elburg,Elburg,Gelderland,VBO,5.867761,52.453455
@@ -4432,13 +4457,6 @@ Hanzestraat,25,,,8081TN,Elburg,Elburg,Gelderland,VBO,5.845764,52.445516
 Hanzestraat,27,,,8081TN,Elburg,Elburg,Gelderland,VBO,5.845857,52.445488
 Hanzestraat,29,,,8081TN,Elburg,Elburg,Gelderland,VBO,5.845920,52.445449
 Hanzestraat,31,,,8081TN,Elburg,Elburg,Gelderland,VBO,5.846473,52.445875
-Passestraat,13,G,01,8081TN,Elburg,Elburg,Gelderland,VBO,5.843710,52.445529
-Passestraat,13,G,02,8081TN,Elburg,Elburg,Gelderland,VBO,5.843696,52.445556
-Passestraat,13,G,03,8081TN,Elburg,Elburg,Gelderland,VBO,5.843682,52.445583
-Passestraat,13,G,04,8081TN,Elburg,Elburg,Gelderland,VBO,5.843652,52.445610
-Passestraat,13,G,05,8081TN,Elburg,Elburg,Gelderland,VBO,5.843638,52.445629
-Passestraat,13,G,06,8081TN,Elburg,Elburg,Gelderland,VBO,5.843624,52.445656
-Passestraat,13,G,07,8081TN,Elburg,Elburg,Gelderland,VBO,5.843609,52.445683
 Hanzestraat,33,,,8081TP,Elburg,Elburg,Gelderland,VBO,5.847439,52.446623
 Hanzestraat,35,,,8081TP,Elburg,Elburg,Gelderland,VBO,5.847386,52.446656
 Hanzestraat,37,,,8081TP,Elburg,Elburg,Gelderland,VBO,5.847306,52.446684
@@ -4683,6 +4701,13 @@ Passestraat,11,G,03,8081VH,Elburg,Elburg,Gelderland,VBO,5.843971,52.445115
 Passestraat,11,G,04,8081VH,Elburg,Elburg,Gelderland,VBO,5.843942,52.445142
 Passestraat,11,G,05,8081VH,Elburg,Elburg,Gelderland,VBO,5.843913,52.445160
 Passestraat,11,,,8081VH,Elburg,Elburg,Gelderland,VBO,5.844223,52.445135
+Passestraat,13,G,01,8081VH,Elburg,Elburg,Gelderland,VBO,5.843710,52.445529
+Passestraat,13,G,02,8081VH,Elburg,Elburg,Gelderland,VBO,5.843696,52.445556
+Passestraat,13,G,03,8081VH,Elburg,Elburg,Gelderland,VBO,5.843682,52.445583
+Passestraat,13,G,04,8081VH,Elburg,Elburg,Gelderland,VBO,5.843652,52.445610
+Passestraat,13,G,05,8081VH,Elburg,Elburg,Gelderland,VBO,5.843638,52.445629
+Passestraat,13,G,06,8081VH,Elburg,Elburg,Gelderland,VBO,5.843624,52.445656
+Passestraat,13,G,07,8081VH,Elburg,Elburg,Gelderland,VBO,5.843609,52.445683
 Passestraat,13,,,8081VH,Elburg,Elburg,Gelderland,VBO,5.843530,52.445765
 Passestraat,15,,,8081VH,Elburg,Elburg,Gelderland,VBO,5.843475,52.445811
 Passestraat,17,,,8081VH,Elburg,Elburg,Gelderland,VBO,5.843421,52.445857

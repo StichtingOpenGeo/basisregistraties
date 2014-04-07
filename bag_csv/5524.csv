@@ -15,7 +15,7 @@ Knegselseweg,20,,,5524AA,Steensel,Eersel,Noord-Brabant,VBO,5.356277,51.381906
 Knegselseweg,22,,,5524AA,Steensel,Eersel,Noord-Brabant,VBO,5.356630,51.381997
 Knegselseweg,23,,,5524AA,Steensel,Eersel,Noord-Brabant,VBO,5.354584,51.382195
 Knegselseweg,24,,,5524AA,Steensel,Eersel,Noord-Brabant,VBO,5.358108,51.382505
-Knegselseweg,30,,,5524AA,Steensel,Eersel,Noord-Brabant,VBO,5.357561,51.384424
+Knegselseweg,30,,,5524AA,Steensel,Eersel,Noord-Brabant,VBO,5.357575,51.384349
 Koppelen,1,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.350348,51.378631
 Koppelen,3,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.349992,51.378579
 Koppelen,5,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.349668,51.378491
@@ -25,6 +25,7 @@ Koppelen,10,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.347980,51.378995
 Koppelen,11,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.347563,51.378478
 Koppelen,12,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.346844,51.378829
 Koppelen,16,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.346233,51.378751
+Koppelen,18,a,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.344356,51.378403
 Koppelen,18,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.344173,51.378184
 Koppelen,21,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.341032,51.376814
 Koppelen,22,,,5524AB,Steensel,Eersel,Noord-Brabant,VBO,5.340329,51.377060
@@ -149,7 +150,6 @@ Kerkdreef,6,,,5524AK,Steensel,Eersel,Noord-Brabant,VBO,5.351365,51.378024
 Kerkdreef,8,,,5524AK,Steensel,Eersel,Noord-Brabant,VBO,5.351275,51.378017
 Kerkdreef,9,,,5524AK,Steensel,Eersel,Noord-Brabant,VBO,5.351096,51.378326
 Jan Hagelaersweg,2,,,5524AL,Steensel,Eersel,Noord-Brabant,VBO,5.354016,51.379068
-Jan Hagelaersweg,6,,,5524AL,Steensel,Eersel,Noord-Brabant,VBO,5.353357,51.379253
 Jan Hagelaersweg,7,,,5524AL,Steensel,Eersel,Noord-Brabant,VBO,5.353109,51.379101
 Jan Hagelaersweg,9,,,5524AL,Steensel,Eersel,Noord-Brabant,VBO,5.353028,51.379127
 Jan Hagelaersweg,11,,,5524AL,Steensel,Eersel,Noord-Brabant,VBO,5.352913,51.379165
@@ -239,8 +239,8 @@ Eindhovenseweg,38,a,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.353426,51.378576
 Eindhovenseweg,38,b,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.353410,51.378592
 Eindhovenseweg,38,c,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.353395,51.378608
 Eindhovenseweg,38,d,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.353373,51.378624
-Eindhovenseweg,38,,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.353495,51.378557
 Eindhovenseweg,38,,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.353438,51.378564
+Eindhovenseweg,38,,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.353495,51.378557
 Eindhovenseweg,40,,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.353716,51.378661
 Eindhovenseweg,44,a,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.354469,51.378960
 Eindhovenseweg,44,,,5524AR,Steensel,Eersel,Noord-Brabant,VBO,5.354266,51.378917
@@ -255,8 +255,8 @@ Eindhovenseweg,56,,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.355685,51.379419
 Eindhovenseweg,58,,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.356194,51.379287
 Eindhovenseweg,62,,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.357239,51.379688
 Eindhovenseweg,66,a,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.358098,51.379818
-Eindhovenseweg,66,b,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.357800,51.379522
 Eindhovenseweg,66,b,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.357781,51.379520
+Eindhovenseweg,66,b,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.357800,51.379522
 Eindhovenseweg,66,,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.357639,51.379823
 Eindhovenseweg,66,,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.357648,51.379827
 Eindhovenseweg,68,,,5524AS,Steensel,Eersel,Noord-Brabant,VBO,5.359087,51.380107
@@ -392,6 +392,7 @@ Riethovenseweg,18,a,,5524BB,Steensel,Eersel,Noord-Brabant,VBO,5.356410,51.376745
 Riethovenseweg,18,,,5524BB,Steensel,Eersel,Noord-Brabant,VBO,5.356728,51.377013
 Riethovenseweg,20,a,,5524BB,Steensel,Eersel,Noord-Brabant,VBO,5.356369,51.376450
 Riethovenseweg,20,,,5524BB,Steensel,Eersel,Noord-Brabant,VBO,5.356378,51.376577
+Riethovenseweg,22,a,,5524BB,Steensel,Eersel,Noord-Brabant,VBO,5.356452,51.376166
 Riethovenseweg,22,,,5524BB,Steensel,Eersel,Noord-Brabant,VBO,5.356356,51.376266
 Riethovenseweg,24,,,5524BB,Steensel,Eersel,Noord-Brabant,VBO,5.356348,51.376099
 Riethovenseweg,26,,,5524BB,Steensel,Eersel,Noord-Brabant,VBO,5.356344,51.376049

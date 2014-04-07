@@ -101,7 +101,6 @@ Hoofdkanaal WZ,135,,,7881AG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.075600,52.83279
 Hoofdkanaal WZ,140,,,7881AG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.076610,52.833571
 Hoofdkanaal WZ,141,,,7881AG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.076842,52.833829
 Hoofdkanaal WZ,150,,,7881AG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.079480,52.836020
-Kalffstraat,77,,,7881AG,Erica,Emmen,Drenthe,VBO,6.919742,52.713992
 J. Abelnstraat,2,,,7881AH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.052678,52.815464
 J. Abelnstraat,4,,,7881AH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.052459,52.815557
 J. Abelnstraat,17,,,7881AH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.052499,52.815035
@@ -722,6 +721,7 @@ Streng,108,,,7881CJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.047906,52.816762
 Streng,110,,,7881CJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.047996,52.816797
 Streng,112,,,7881CJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.048057,52.816823
 Streng,114,,,7881CJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.048119,52.816894
+Hoofdkanaal OZ,2,,,7881CK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.047641,52.811391
 Hoofdkanaal OZ,4,,,7881CK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.048070,52.811699
 Hoofdkanaal OZ,5,,,7881CK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.048192,52.811779
 Hoofdkanaal OZ,6,,,7881CK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.048284,52.811858
@@ -776,12 +776,12 @@ Hoofdkanaal OZ,81,K,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058365,52.81711
 Hoofdkanaal OZ,81,L,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058220,52.817115
 Hoofdkanaal OZ,81,M,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058323,52.817102
 Hoofdkanaal OZ,81,N,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058432,52.817103
-Hoofdkanaal OZ,81,O,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058421,52.817062
 Hoofdkanaal OZ,81,P,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058364,52.817072
 Hoofdkanaal OZ,81,R,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058578,52.817050
 Hoofdkanaal OZ,81,S,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058508,52.817052
 Hoofdkanaal OZ,81,T,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058457,52.816992
 Hoofdkanaal OZ,81,U,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058243,52.817106
+Hoofdkanaal OZ,81,V,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058347,52.817362
 Hoofdkanaal OZ,81,,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058276,52.817139
 Hoofdkanaal OZ,82,A,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058661,52.817115
 Hoofdkanaal OZ,82,,,7881CN,Emmer-Compascuum,Emmen,Drenthe,VBO,7.058400,52.817290
@@ -840,7 +840,7 @@ Oosterdiep OZ,44,,,7881CT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045747,52.795804
 Oosterdiep OZ,45,,,7881CT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.046054,52.795683
 Oosterdiep OZ,46,,,7881CT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045708,52.795571
 Oosterdiep OZ,52,,,7881CT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045721,52.794349
-Oosterdiep OZ,54,,,7881CV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045557,52.793920
+Oosterdiep OZ,54,,,7881CV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045551,52.793921
 Oosterdiep OZ,89,,,7881CV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045288,52.789177
 Oosterdiep OZ,90,,,7881CV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045298,52.789034
 Oosterdiep OZ,91,,,7881CV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045172,52.788855
@@ -892,8 +892,9 @@ Bredesloot,50,,,7881CZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.064005,52.803537
 Verlengde Tweede Groenedijk,9,,,7881CZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.046158,52.785525
 Verlengde Tweede Groenedijk,10,,,7881CZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.046204,52.785578
 Verlengde Tweede Groenedijk,11,,,7881CZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.047241,52.785537
-Verlengde Tweede Groenedijk,22,,,7881CZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.034404,52.785976
+Verlengde Tweede Groenedijk,22,,,7881CZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.034400,52.785984
 Verlengde Tweede Groenedijk,25,,,7881CZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.052993,52.786311
+Kwartel,19,,,7881DC,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053900,52.816660
 Waterhoen,8,,,7881DG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053707,52.817836
 Merel,8,,,7881DJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.055038,52.818571
 Kievit,7,,,7881DK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.055368,52.818738
@@ -1078,12 +1079,12 @@ Oostelijke Kielweg,5,,,7881ES,Emmer-Compascuum,Emmen,Drenthe,VBO,7.054211,52.811
 Oostelijke Kielweg,7,,,7881ES,Emmer-Compascuum,Emmen,Drenthe,VBO,7.054194,52.811641
 Oostelijke Kielweg,9,,,7881ES,Emmer-Compascuum,Emmen,Drenthe,VBO,7.054186,52.811434
 Oostelijke Kielweg,11,,,7881ES,Emmer-Compascuum,Emmen,Drenthe,VBO,7.054195,52.811272
-Oostelijke Kielweg,2,,,7881ET,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053716,52.811935
+Oostelijke Kielweg,2,,,7881ET,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053714,52.811936
 Oostelijke Kielweg,4,,,7881ET,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053699,52.811873
 Oostelijke Kielweg,6,,,7881ET,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053751,52.811701
 Oostelijke Kielweg,8,,,7881ET,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053675,52.811630
 Oostelijke Kielweg,10,,,7881ET,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053682,52.811432
-Oostelijke Kielweg,12,,,7881ET,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053705,52.811261
+Oostelijke Kielweg,12,,,7881ET,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053728,52.811296
 Westelijke Kielweg,1,,,7881EV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053131,52.812168
 Westelijke Kielweg,3,,,7881EV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053084,52.812097
 Westelijke Kielweg,5,,,7881EV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.053066,52.812007
@@ -1130,7 +1131,7 @@ Paul Krugerstraat,17,,,7881GA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.050902,52.812
 Paul Krugerstraat,19,,,7881GA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.050975,52.812405
 Paul Krugerstraat,21,,,7881GA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.051078,52.812386
 Paul Krugerstraat,2,,,7881GB,Emmer-Compascuum,Emmen,Drenthe,VBO,7.049599,52.812514
-Paul Krugerstraat,4,,,7881GB,Emmer-Compascuum,Emmen,Drenthe,VBO,7.049686,52.812468
+Paul Krugerstraat,4,,,7881GB,Emmer-Compascuum,Emmen,Drenthe,VBO,7.049685,52.812469
 Paul Krugerstraat,6,,,7881GB,Emmer-Compascuum,Emmen,Drenthe,VBO,7.049891,52.812375
 Paul Krugerstraat,8,,,7881GB,Emmer-Compascuum,Emmen,Drenthe,VBO,7.050095,52.812300
 Paul Krugerstraat,14,,,7881GB,Emmer-Compascuum,Emmen,Drenthe,VBO,7.050284,52.812190
@@ -1285,7 +1286,7 @@ Oosterdiep WZ,104,,,7881GP,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045213,52.799731
 Oosterdiep WZ,105,,,7881GP,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045195,52.799650
 Oosterdiep WZ,106,,,7881GP,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045176,52.799534
 Oosterdiep WZ,107,,,7881GP,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045158,52.799435
-Oosterdiep WZ,108,I,,7881GP,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045154,52.799327
+Oosterdiep WZ,108,A,,7881GP,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045154,52.799327
 Oosterdiep WZ,108,,,7881GP,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045140,52.799354
 Oosterdiep WZ,109,,,7881GR,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045135,52.799238
 Oosterdiep WZ,111,,,7881GR,Emmer-Compascuum,Emmen,Drenthe,VBO,7.045158,52.799039
@@ -1484,7 +1485,6 @@ Westerdiep WZ,82,,,7881HJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042446,52.809692
 Westerdiep WZ,84,,,7881HJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042444,52.809638
 Westerdiep WZ,86,,,7881HJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042442,52.809585
 Westerdiep WZ,88,,,7881HJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042440,52.809522
-Westerdiep OZ,122,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.041551,52.804051
 Westerdiep WZ,90,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042465,52.809396
 Westerdiep WZ,92,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042463,52.809351
 Westerdiep WZ,94,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042461,52.809288
@@ -1502,6 +1502,7 @@ Westerdiep WZ,114,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042498,52.807534
 Westerdiep WZ,116,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042496,52.807472
 Westerdiep WZ,118,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042478,52.807400
 Westerdiep WZ,120,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.042462,52.807355
+Westerdiep WZ,122,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.041551,52.804051
 Westerdiep WZ,124,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.041824,52.802259
 Westerdiep WZ,126,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.041533,52.798479
 Westerdiep WZ,128,,,7881HK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.041465,52.797868
@@ -1766,8 +1767,8 @@ Kijlweg,7,,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.026074,52.807806
 Kijlweg,8,A,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.028984,52.805510
 Kijlweg,8,B,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.027172,52.806364
 Kijlweg,8,C,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.026937,52.806862
-Kijlweg,8,D,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.028366,52.807411
-Kijlweg,8,E,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.028368,52.807214
+Kijlweg,8,D,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.028243,52.807324
+Kijlweg,8,E,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.028276,52.807178
 Kijlweg,8,F,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.031486,52.806254
 Kijlweg,8,,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.028984,52.805510
 Kijlweg,9,,,7881JD,Emmer-Compascuum,Emmen,Drenthe,VBO,7.029693,52.806615
@@ -2041,6 +2042,7 @@ Rademakerstraat,10,,,7881JZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.023572,52.80953
 Rademakerstraat,12,,,7881JZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.023069,52.809564
 Rademakerstraat,14,,,7881JZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.023054,52.809556
 Rademakerstraat,18,,,7881JZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.022488,52.809501
+Rademakerstraat,22,,,7881JZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.021749,52.809777
 Rademakerstraat,24,,,7881JZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.021640,52.809440
 Rademakerstraat,26,,,7881JZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.020999,52.809332
 Rademakerstraat,38,,,7881JZ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.018912,52.809460
@@ -2221,7 +2223,8 @@ Kanaal A NZ,129,A,,7881KM,Emmer-Compascuum,Emmen,Drenthe,VBO,6.994204,52.805840
 Kanaal A NZ,129,,,7881KM,Emmer-Compascuum,Emmen,Drenthe,VBO,6.994113,52.805836
 Kanaal A NZ,130,,,7881KN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.994483,52.805855
 Kanaal A NZ,131,,,7881KN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.994767,52.805932
-Kanaal A NZ,132,,,7881KN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.994959,52.805911
+Kanaal A NZ,132,A,,7881KN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.994933,52.805880
+Kanaal A NZ,132,,,7881KN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.995000,52.805951
 Kanaal A NZ,133,,,7881KN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.995247,52.806060
 Kanaal A NZ,134,,,7881KN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.995498,52.806048
 Kanaal A NZ,135,,,7881KN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.996092,52.806067
@@ -2405,9 +2408,8 @@ Kalkovenwijk OZ,17,,,7881LJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.065449,52.81153
 Kalkovenwijk OZ,19,,,7881LJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.066087,52.811159
 Kalkovenwijk OZ,20,,,7881LJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.066656,52.810504
 Kalkovenwijk OZ,24,,,7881LJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.066551,52.808537
-Kalkovenwijk WZ,7,,,7881LK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.061264,52.813043
+Kalkovenwijk WZ,7,,TR,7881LK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.061264,52.813043
 Kalkovenwijk WZ,15,,,7881LK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.065646,52.808541
-Kalkovenwijk WZ,17,,,7881LK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.065580,52.807976
 Eerste Verbindingsweg,1,,,7881LL,Emmer-Compascuum,Emmen,Drenthe,VBO,6.997094,52.806673
 Eerste Verbindingsweg,2,,,7881LL,Emmer-Compascuum,Emmen,Drenthe,VBO,6.997630,52.806729
 Eerste Verbindingsweg,3,,,7881LL,Emmer-Compascuum,Emmen,Drenthe,VBO,6.997081,52.806746
@@ -2746,7 +2748,8 @@ Kanaal B ZZ,152,,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.000381,52.808130
 Kanaal B ZZ,153,,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.000663,52.808153
 Kanaal B ZZ,154,,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.000975,52.808167
 Kanaal B ZZ,156,,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.001259,52.808217
-Kanaal B ZZ,159,,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.001601,52.808230
+Kanaal B ZZ,159,A,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.001719,52.808191
+Kanaal B ZZ,159,,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.001589,52.808225
 Kanaal B ZZ,160,,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.001854,52.808263
 Kanaal B ZZ,161,,,7881NH,Emmer-Compascuum,Emmen,Drenthe,VBO,7.002228,52.808348
 Kanaal B ZZ,164,,,7881NJ,Emmer-Compascuum,Emmen,Drenthe,VBO,7.003165,52.808416
@@ -2797,6 +2800,7 @@ Kanaal B ZZ,225,,,7881NM,Emmer-Compascuum,Emmen,Drenthe,VBO,7.014422,52.809575
 Kanaal B ZZ,226,,,7881NM,Emmer-Compascuum,Emmen,Drenthe,VBO,7.014511,52.809592
 Kanaal B ZZ,227,,,7881NM,Emmer-Compascuum,Emmen,Drenthe,VBO,7.014734,52.809589
 Kanaal B ZZ,228,,,7881NM,Emmer-Compascuum,Emmen,Drenthe,VBO,7.014987,52.809621
+Kanaal B NZ,7,,,7881NN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.959214,52.804413
 Kanaal B NZ,9,,,7881NN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.961914,52.804681
 Kanaal B NZ,15,A,,7881NN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.965744,52.805601
 Kanaal B NZ,15,,,7881NN,Emmer-Compascuum,Emmen,Drenthe,VBO,6.964436,52.805106
@@ -2815,6 +2819,7 @@ Kanaal B NZ,83,,,7881NS,Emmer-Compascuum,Emmen,Drenthe,VBO,7.012585,52.810049
 Kanaal B NZ,86,,,7881NS,Emmer-Compascuum,Emmen,Drenthe,VBO,7.015388,52.810443
 Maatschappijweg,2,,,7881NT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.040385,52.812067
 Maatschappijweg,4,,TR,7881NT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.039774,52.812372
+Maatschappijweg,4,,,7881NT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.039775,52.812481
 Maatschappijweg,5,,,7881NT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.039193,52.812308
 Maatschappijweg,7,,,7881NT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.039210,52.812371
 Maatschappijweg,9,,,7881NT,Emmer-Compascuum,Emmen,Drenthe,VBO,7.039215,52.812506
@@ -2847,6 +2852,7 @@ Koppelwijk OZ,33,,,7881NV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.051520,52.821278
 Koppelwijk OZ,34,,,7881NV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.051273,52.821416
 Koppelwijk OZ,36,,,7881NV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.050967,52.821555
 Koppelwijk OZ,38,,,7881NV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.050458,52.821850
+Koppelwijk OZ,50,,,7881NV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.057127,52.818049
 Gruintendwarsweg,9,,,7881NW,Emmer-Compascuum,Emmen,Drenthe,VBO,7.048163,52.821585
 Gruintendwarsweg,13,,,7881NW,Emmer-Compascuum,Emmen,Drenthe,VBO,7.046567,52.820583
 Koppeldwarsweg,1,,,7881NW,Emmer-Compascuum,Emmen,Drenthe,VBO,7.055154,52.822027
@@ -2932,6 +2938,7 @@ Westelijke Doorsnee ZZ,13,,,7881PG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.023668,5
 Westelijke Doorsnee ZZ,21,A,,7881PG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.030312,52.795057
 Westelijke Doorsnee ZZ,21,,,7881PG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.030162,52.795400
 Westelijke Doorsnee ZZ,27,,,7881PG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.033601,52.795389
+Westelijke Doorsnee ZZ,28,,,7881PG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.034320,52.795138
 Westelijke Doorsnee ZZ,29,,,7881PG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.035185,52.795304
 Westelijke Doorsnee ZZ,30,,,7881PG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.035468,52.795345
 Westelijke Doorsnee ZZ,34,,,7881PG,Emmer-Compascuum,Emmen,Drenthe,VBO,7.039011,52.794927
@@ -3515,11 +3522,11 @@ Ep Schuilinghstraat,13,,,7881VV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.022818,52.8
 Ep Schuilinghstraat,15,,,7881VV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.022373,52.807210
 Ep Schuilinghstraat,16,,,7881VV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.022324,52.807876
 Ep Schuilinghstraat,18,,,7881VV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.021945,52.807665
-Ep Schuilinghstraat,19,,,7881VV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.021882,52.807163
+Ep Schuilinghstraat,19,,,7881VV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.021899,52.807173
 Ep Schuilinghstraat,23,,,7881VV,Emmer-Compascuum,Emmen,Drenthe,VBO,7.021230,52.807190
 Schuttingslaan,100,A,,7881XA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.031408,52.819773
 Schuttingslaan,100,,TR,7881XA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.030618,52.819402
-Schuttingslaan,100,,,7881XA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.031360,52.819776
+Schuttingslaan,100,,,7881XA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.031180,52.819735
 Schuttingslaan,102,,,7881XA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.031280,52.820040
 Schuttingslaan,108,,,7881XA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.031738,52.820770
 Schuttingslaan,112,,,7881XA,Emmer-Compascuum,Emmen,Drenthe,VBO,7.031781,52.821138

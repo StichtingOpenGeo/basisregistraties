@@ -8,7 +8,6 @@ Stationsstraat,11,,,6678AA,Oosterhout,Overbetuwe,Gelderland,VBO,5.831149,51.8839
 Stationsstraat,13,,,6678AA,Oosterhout,Overbetuwe,Gelderland,VBO,5.831289,51.884088
 Stationsstraat,15,,,6678AA,Oosterhout,Overbetuwe,Gelderland,VBO,5.832114,51.884524
 Stationsstraat,17,,,6678AA,Oosterhout,Overbetuwe,Gelderland,VBO,5.832838,51.884810
-Stationsstraat,19,,,6678AA,Oosterhout,Overbetuwe,Gelderland,VBO,5.833691,51.885134
 Stationsstraat,19,,,6678AA,Oosterhout,Overbetuwe,Gelderland,VBO,5.833772,51.885193
 Stationsstraat,21,a,,6678AA,Oosterhout,Overbetuwe,Gelderland,VBO,5.834615,51.885635
 Stationsstraat,21,b,,6678AA,Oosterhout,Overbetuwe,Gelderland,VBO,5.834800,51.885693
@@ -269,6 +268,7 @@ Parkweg,49,,,6678AW,Oosterhout,Overbetuwe,Gelderland,VBO,5.823250,51.878948
 Dijkstraat,2,,,6678AX,Oosterhout,Overbetuwe,Gelderland,VBO,5.817353,51.876237
 Dijkstraat,3,,,6678AX,Oosterhout,Overbetuwe,Gelderland,VBO,5.816888,51.876319
 Dijkstraat,5,,,6678AX,Oosterhout,Overbetuwe,Gelderland,VBO,5.816278,51.876494
+Dijkstraat,7,a,,6678AX,Oosterhout,Overbetuwe,Gelderland,VBO,5.816685,51.879210
 Dijkstraat,7,,,6678AX,Oosterhout,Overbetuwe,Gelderland,VBO,5.816303,51.876778
 Dijkstraat,8,a,,6678AX,Oosterhout,Overbetuwe,Gelderland,VBO,5.814280,51.877551
 Dijkstraat,8,,,6678AX,Oosterhout,Overbetuwe,Gelderland,VBO,5.815327,51.876758
@@ -1017,11 +1017,34 @@ Oude Groenestraat,6,,99,6678MB,Oosterhout,Overbetuwe,Gelderland,VBO,5.830577,51.
 Oude Groenestraat,6,,,6678MB,Oosterhout,Overbetuwe,Gelderland,VBO,5.833877,51.875708
 Waaldijk,36,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.801505,51.878352
 Waaldijk,37,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.802009,51.877606
-Waaldijk,38,a,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807866,51.875670
-Waaldijk,38,b,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807961,51.875643
-Waaldijk,38,c,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.808058,51.875615
-Waaldijk,38,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807766,51.875711
-Waaldijk,39,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807762,51.875653
+Waaldijk,38,,1,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.802850,51.877628
+Waaldijk,38,,10,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.804586,51.877076
+Waaldijk,38,,11,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.804754,51.876995
+Waaldijk,38,,12,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.804922,51.876914
+Waaldijk,38,,14,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.805518,51.876621
+Waaldijk,38,,15,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.805668,51.876549
+Waaldijk,38,,16,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.805820,51.876476
+Waaldijk,38,,17,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.806002,51.876322
+Waaldijk,38,,18,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.806042,51.876264
+Waaldijk,38,,19,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.806227,51.876123
+Waaldijk,38,,2,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.803169,51.877647
+Waaldijk,38,,20,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.806428,51.875980
+Waaldijk,38,,21,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.806669,51.875918
+Waaldijk,38,,22,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.806885,51.875850
+Waaldijk,38,,23,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807110,51.875774
+Waaldijk,38,,24,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807251,51.875736
+Waaldijk,38,,3,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.803500,51.877609
+Waaldijk,38,,5,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.803904,51.877405
+Waaldijk,38,,6,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.804053,51.877333
+Waaldijk,38,,7,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.804179,51.877273
+Waaldijk,38,,8,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.804322,51.877204
+Waaldijk,38,,9,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.804457,51.877138
+Waaldijk,38,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.805231,51.876739
+Waaldijk,39,a,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807834,51.875705
+Waaldijk,39,b,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807672,51.875756
+Waaldijk,39,c,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807642,51.875733
+Waaldijk,39,d,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.808003,51.875590
+Waaldijk,39,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807765,51.875652
 Waaldijk,40,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.807987,51.876413
 Waaldijk,41,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.808161,51.876007
 Waaldijk,42,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.810301,51.875144
@@ -1029,7 +1052,8 @@ Waaldijk,43,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.810417,51.875116
 Waaldijk,46,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.813335,51.875147
 Waaldijk,48,,,6678MC,Oosterhout,Overbetuwe,Gelderland,VBO,5.819308,51.876557
 Van Balverenlaan,1,,,6678PA,Oosterhout,Overbetuwe,Gelderland,VBO,5.828482,51.884626
-Van Balverenlaan,2,,,6678PA,Oosterhout,Overbetuwe,Gelderland,VBO,5.827175,51.885041
+Van Balverenlaan,2,a,,6678PA,Oosterhout,Overbetuwe,Gelderland,VBO,5.827206,51.885080
+Van Balverenlaan,2,,,6678PA,Oosterhout,Overbetuwe,Gelderland,VBO,5.827113,51.885014
 Van Balverenlaan,4,,,6678PA,Oosterhout,Overbetuwe,Gelderland,VBO,5.827568,51.885553
 Van Balverenlaan,6,,,6678PA,Oosterhout,Overbetuwe,Gelderland,VBO,5.827349,51.886149
 Van Balverenlaan,8,,,6678PA,Oosterhout,Overbetuwe,Gelderland,VBO,5.827312,51.886500

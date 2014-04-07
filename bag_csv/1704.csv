@@ -15,6 +15,7 @@ Industriestraat,9,,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.82200
 Industriestraat,10,A,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820429,52.670398
 Industriestraat,10,,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820404,52.670585
 Industriestraat,11,,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.821617,52.670119
+Industriestraat,12,A,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820010,52.670499
 Industriestraat,12,,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820010,52.670499
 Industriestraat,13,,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.821127,52.670180
 Industriestraat,14,A,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.819244,52.669965
@@ -23,6 +24,7 @@ Industriestraat,15,,,1704AA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.8208
 Handelsstraat,2,,,1704AB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.821707,52.670051
 Handelsstraat,4,,,1704AB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.821508,52.669914
 Handelsstraat,6,,,1704AB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.821343,52.669816
+Handelsstraat,8,,,1704AB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.821343,52.669816
 Handelsstraat,1,,,1704AC,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820493,52.669570
 Handelsstraat,3,,,1704AC,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.823836,52.670538
 Stationsweg,101,,,1704AD,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.823660,52.670995
@@ -43,8 +45,6 @@ Westdijk,8,,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.809114,52.67
 Westdijk,10,,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.810810,52.672935
 Westdijk,12,,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.812580,52.672741
 Westdijk,14,,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813090,52.672653
-Westdijk,22,,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.819036,52.672214
-Westdijk,24,,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.819116,52.672208
 Westdijk,26,A,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820460,52.671910
 Westdijk,26,,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.819879,52.672030
 Westdijk,28,,,1704AK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820658,52.672119
@@ -251,8 +251,8 @@ Middenweg,563,,,1704BG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851703,52
 Middenweg,565,,,1704BG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851628,52.709886
 Middenweg,567,,,1704BG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851616,52.710208
 Middenweg,569,A,,1704BG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.847334,52.710884
-Middenweg,569,,,1704BG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851878,52.710425
 Middenweg,569,,,1704BG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851848,52.710412
+Middenweg,569,,,1704BG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851878,52.710425
 Middenweg,571,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851601,52.710727
 Middenweg,573,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851895,52.710898
 Middenweg,575,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851871,52.711127
@@ -268,7 +268,7 @@ Middenweg,589,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851959,52
 Middenweg,591,A,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.852008,52.714517
 Middenweg,591,B,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851999,52.715407
 Middenweg,591,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.852103,52.713910
-Middenweg,593,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.852476,52.716447
+Middenweg,593,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.852383,52.716473
 Middenweg,593,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.852429,52.716485
 Middenweg,595,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.852382,52.716935
 Middenweg,597,,,1704BH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.852120,52.717455
@@ -321,7 +321,6 @@ Middenweg,462,B,,1704BL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851313,5
 Middenweg,462,C,,1704BL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851326,52.696832
 Middenweg,462,D,,1704BL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851330,52.696899
 Middenweg,462,,,1704BL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851231,52.696553
-Middenweg,462,,,1704BL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851303,52.696548
 Middenweg,464,,,1704BL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851685,52.697035
 Middenweg,466,,,1704BL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851627,52.697151
 Middenweg,468,,,1704BL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851345,52.697412
@@ -342,6 +341,7 @@ Middenweg,484,A,,1704BM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851531,5
 Middenweg,484,B,,1704BM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851537,52.699649
 Middenweg,484,C,,1704BM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851661,52.699827
 Middenweg,484,,,1704BM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851530,52.699407
+Middenweg,486,A,,1704BM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.852626,52.700652
 Middenweg,486,,,1704BM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851843,52.700398
 Middenweg,488,,,1704BM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851625,52.700658
 Middenweg,490,,,1704BM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851788,52.701463
@@ -478,6 +478,7 @@ Harlingerstraat,14,,,1704BT,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.8553
 Harlingerstraat,15,,,1704BT,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.856438,52.707540
 Harlingerstraat,16,,,1704BT,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.855811,52.706995
 Harlingerstraat,17,,,1704BT,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.862438,52.708092
+Harlingerstraat,20,,,1704BT,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.854996,52.706472
 Harlingerstraat,22,,,1704BT,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.860078,52.706858
 Harlingerstraat,24,,,1704BT,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.860715,52.706762
 de Zicht,1,,,1704BV,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851459,52.705387
@@ -788,6 +789,7 @@ Groote Geldebosch,76,,,1704CP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.84
 Groote Geldebosch,77,,,1704CP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.847749,52.709045
 Groote Geldebosch,78,,,1704CP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.847322,52.709386
 Groote Geldebosch,84,,,1704CP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.847338,52.708992
+Groote Geldebosch,86,,,1704CP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.848150,52.708824
 Lutkebosch,1,,,1704CR,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.848264,52.709029
 Lutkebosch,2,,,1704CR,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.848280,52.709078
 Lutkebosch,3,,,1704CR,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.848262,52.709121
@@ -872,7 +874,7 @@ Kerkweg,30,B,,1704DH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.892198,52.7
 Kerkweg,30,,,1704DH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.891895,52.702862
 Kerkweg,31,,,1704DH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.899014,52.703938
 Kerkweg,32,,,1704DH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.892495,52.702927
-Kerkweg,34,,,1704DH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.898223,52.703516
+Kerkweg,34,,,1704DH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.898273,52.703604
 Dijkweg,1,,,1704DJ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.898880,52.698029
 Dijkweg,3,,,1704DJ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.899057,52.702427
 Dijkweg,5,,,1704DJ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.899011,52.702836
@@ -880,7 +882,6 @@ Dijkweg,7,,,1704DJ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.898855,52.703
 Dijkweg,9,,,1704DJ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.898989,52.704155
 Dijkweg,11,,,1704DJ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.898995,52.704274
 Dijkweg,13,,,1704DJ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.898882,52.704773
-Dijkweg,13,,,1704DJ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.898751,52.704758
 Veenhuizerkade,1,,,1704DK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.888283,52.691816
 Veenhuizerkade,3,A,,1704DK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.891216,52.695357
 Veenhuizerkade,3,,,1704DK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.890904,52.695188
@@ -896,6 +897,7 @@ Molenweg,5,,,1704DL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.851323,52.68
 Molenweg,6,,,1704DL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.869231,52.683258
 Molenweg,7,,,1704DL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.853449,52.681831
 Molenweg,8,,,1704DL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.872389,52.683836
+Molenweg,10,A,,1704DL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.875861,52.684105
 Molenweg,10,,,1704DL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.874629,52.683996
 Veenhuizerweg,1,A,,1704DM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.865401,52.684144
 Veenhuizerweg,1,B,,1704DM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.865637,52.685321
@@ -1057,6 +1059,7 @@ Hasselaarsweg,26,,,1704DX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833630
 Hasselaarsweg,28,,,1704DX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833246,52.697440
 Hasselaarsweg,32,,,1704DX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830787,52.696889
 Hasselaarsweg,34,,,1704DX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830295,52.696790
+Hasselaarsweg,36,,,1704DX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829429,52.696873
 Zuiderbosweg,3,A,,1704DZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830811,52.700486
 Zuiderbosweg,3,,,1704DZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.831322,52.700523
 Zuiderbosweg,4,A,,1704DZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.831889,52.701224
@@ -1069,14 +1072,17 @@ Zuiderbosweg,9,,,1704DZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827433,5
 Zuiderbosweg,10,A,,1704DZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827826,52.700328
 Zuiderbosweg,10,,,1704DZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827319,52.700113
 Echo,10,,,1704EG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.843559,52.686518
+Echo,12,,,1704EG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.842986,52.686893
 Foxtrot,12,,,1704EH,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.842986,52.686893
+Parelhof,1,C,,1704EZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.824914,52.664237
 Verlaat,1,A,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.859019,52.721833
 Verlaat,1,,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.858659,52.721683
 Verlaat,3,A,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.858222,52.721465
 Verlaat,3,,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.858411,52.721503
 Verlaat,5,,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.858135,52.721356
 Verlaat,7,,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.857838,52.721188
-Verlaat,9,,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.856591,52.720589
+Verlaat,9,A,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.856585,52.720457
+Verlaat,9,,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.856624,52.720581
 Verlaat,11,,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.856244,52.720326
 Verlaat,13,A,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.855800,52.720048
 Verlaat,13,,,1704JN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.856073,52.720161
@@ -1178,7 +1184,65 @@ Heijnkesakker,30,,,1704MA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.802350
 Heijnkesakker,31,,,1704MA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.802218,52.662548
 Heijnkesakker,32,,,1704MA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.802151,52.662510
 Heijnkesakker,33,,,1704MA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.802074,52.662474
+Ooster Vlaerdinge,1,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811780,52.672628
 Ooster Vlaerdinge,2,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.815180,52.672710
+Ooster Vlaerdinge,3,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811607,52.672534
+Ooster Vlaerdinge,4,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811613,52.672795
+Ooster Vlaerdinge,5,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811317,52.672357
+Ooster Vlaerdinge,6,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811412,52.672692
+Ooster Vlaerdinge,7,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811386,52.672319
+Ooster Vlaerdinge,8,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811226,52.672588
+Ooster Vlaerdinge,9,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811534,52.672224
+Ooster Vlaerdinge,10,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811068,52.672498
+Ooster Vlaerdinge,11,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811598,52.672185
+Ooster Vlaerdinge,12,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811999,52.671861
+Ooster Vlaerdinge,13,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811745,52.672069
+Ooster Vlaerdinge,14,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.812061,52.671892
+Ooster Vlaerdinge,15,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.811803,52.672030
+Ooster Vlaerdinge,16,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.812285,52.672014
+Ooster Vlaerdinge,17,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.812127,52.672171
+Ooster Vlaerdinge,18,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.812461,52.672111
+Ooster Vlaerdinge,19,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.812308,52.672273
+Ooster Vlaerdinge,21,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813609,52.672265
+Ooster Vlaerdinge,23,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813689,52.672263
+Ooster Vlaerdinge,25,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813764,52.672257
+Ooster Vlaerdinge,27,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813846,52.672249
+Ooster Vlaerdinge,29,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813924,52.672242
+Ooster Vlaerdinge,31,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814014,52.672233
+Ooster Vlaerdinge,33,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814086,52.672226
+Ooster Vlaerdinge,35,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814169,52.672219
+Ooster Vlaerdinge,37,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814249,52.672215
+Ooster Vlaerdinge,39,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814324,52.672205
+Ooster Vlaerdinge,41,,,1704MX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814409,52.672195
+Zuijder Vlaerdinge,1,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814218,52.671453
+Zuijder Vlaerdinge,2,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814133,52.671462
+Zuijder Vlaerdinge,3,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814050,52.671469
+Zuijder Vlaerdinge,4,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813978,52.671475
+Zuijder Vlaerdinge,5,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813898,52.671482
+Zuijder Vlaerdinge,6,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813813,52.671493
+Zuijder Vlaerdinge,7,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813740,52.671500
+Zuijder Vlaerdinge,8,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813660,52.671509
+Zuijder Vlaerdinge,9,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813577,52.671519
+Zuijder Vlaerdinge,10,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813505,52.671524
+Zuijder Vlaerdinge,11,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813417,52.671531
+Zuijder Vlaerdinge,12,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813597,52.671707
+Zuijder Vlaerdinge,13,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813606,52.671759
+Zuijder Vlaerdinge,14,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813610,52.671804
+Zuijder Vlaerdinge,15,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813626,52.671853
+Zuijder Vlaerdinge,16,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813638,52.671893
+Zuijder Vlaerdinge,17,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813654,52.671942
+Zuijder Vlaerdinge,18,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813661,52.671984
+Zuijder Vlaerdinge,19,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813670,52.672031
+Zuijder Vlaerdinge,20,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.813682,52.672079
+Zuijder Vlaerdinge,21,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814288,52.672018
+Zuijder Vlaerdinge,22,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814281,52.671974
+Zuijder Vlaerdinge,23,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814272,52.671927
+Zuijder Vlaerdinge,24,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814258,52.671880
+Zuijder Vlaerdinge,25,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814247,52.671834
+Zuijder Vlaerdinge,26,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814242,52.671790
+Zuijder Vlaerdinge,27,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814226,52.671744
+Zuijder Vlaerdinge,28,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814219,52.671704
+Zuijder Vlaerdinge,29,,,1704MZ,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814210,52.671657
 A.C. de Graafweg,2,A,,1704NA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.865127,52.718503
 A.C. de Graafweg,2,,,1704NA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.863506,52.718922
 A.C. de Graafweg,4,B,,1704NA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.873258,52.714653
@@ -1195,11 +1259,7 @@ Westerweg,1,,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.792481,52.6
 Westerweg,3,A,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.801565,52.660874
 Westerweg,3,B,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.801318,52.659813
 Westerweg,3,,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.801514,52.661424
-Westerweg,7,,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.806428,52.664286
-Westerweg,11,,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.810088,52.666099
 Westerweg,15,A,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.810554,52.666336
-Westerweg,15,,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.810358,52.666241
-Westerweg,17,,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.810722,52.666414
 Westerweg,19,,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.814567,52.668439
 Westerweg,23,A,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820958,52.671707
 Westerweg,23,B,,1704PB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.820661,52.671783
@@ -1259,6 +1319,7 @@ Joulestraat,4,,,1704PK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827866,52
 Joulestraat,6,,,1704PK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827698,52.695862
 Joulestraat,8,,,1704PK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827583,52.696135
 Joulestraat,10,,,1704PK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827032,52.695575
+Joulestraat,12,,,1704PK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827801,52.695372
 Pannekeetweg,15,,,1704PL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.828288,52.693673
 Pannekeetweg,16,,,1704PL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.826597,52.694815
 Pannekeetweg,17,,,1704PL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829604,52.695609
@@ -1306,8 +1367,8 @@ Smuigelweg,3,,,1704PX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.842867,52.
 Smuigelweg,4,,,1704PX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.842213,52.716351
 Smuigelweg,7,,,1704PX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.843139,52.716445
 Smuigelweg,8,,,1704PX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.842297,52.715993
-Nijverheidsstraat,1,A,,1704RA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.824142,52.672192
-Nijverheidsstraat,1,B,,1704RA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.824424,52.672298
+Nijverheidsstraat,1,A,,1704RA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.824159,52.671788
+Nijverheidsstraat,1,B,,1704RA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.823716,52.672000
 Nijverheidsstraat,1,C,,1704RA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.824684,52.672441
 Nijverheidsstraat,1,,,1704RA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.824571,52.672039
 Nijverheidsstraat,2,A,,1704RA,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.824414,52.671453
@@ -1349,13 +1410,13 @@ Nijverheidsplein,4,,,1704RB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.8315
 Nijverheidsplein,5,,,1704RB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829870,52.675240
 Nijverheidsplein,7,,,1704RB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829421,52.675249
 Nijverheidsplein,9,,,1704RB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829500,52.675044
+Nijverheidsplein,12,,,1704RB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830582,52.676307
 Nijverheidsplein,14,,,1704RB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.828615,52.675377
 Nijverheidsplein,16,,,1704RB,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827692,52.674869
 van Leeuwenhoekstraat,1,,,1704RC,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.827733,52.675230
 van Leeuwenhoekstraat,8,,,1704RC,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.828750,52.675871
 van Leeuwenhoekstraat,10,,,1704RC,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.828856,52.676431
 Pascalstraat,1,A,,1704RD,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829143,52.677554
-Pascalstraat,1,,,1704RD,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829385,52.677970
 Pascalstraat,2,,,1704RD,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.828332,52.677879
 Pascalstraat,3,,,1704RD,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829513,52.678765
 Pascalstraat,6,,,1704RD,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.828327,52.679573
@@ -1388,6 +1449,7 @@ Marconistraat,3,A,,1704RG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832166
 Marconistraat,3,,,1704RG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.831665,52.677440
 Marconistraat,4,A,,1704RG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.831901,52.676501
 Marconistraat,4,B,,1704RG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832087,52.676750
+Marconistraat,4,,,1704RG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832087,52.676750
 Marconistraat,5,,,1704RG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832228,52.678400
 Marconistraat,6,A,,1704RG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832419,52.677194
 Marconistraat,6,B,,1704RG,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832306,52.677086
@@ -1461,10 +1523,12 @@ Nobelstraat,1,B,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832584,5
 Nobelstraat,1,C,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832633,52.677191
 Nobelstraat,1,D,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832724,52.677168
 Nobelstraat,1,E,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832812,52.677146
-Nobelstraat,2,,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.834056,52.677477
+Nobelstraat,2,A,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.834175,52.677363
+Nobelstraat,2,,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833988,52.677492
 Nobelstraat,4,,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833440,52.677458
 Nobelstraat,5,A,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830976,52.677517
 Nobelstraat,5,,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830999,52.677548
+Nobelstraat,7,A,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830421,52.677697
 Nobelstraat,7,,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830421,52.677697
 Nobelstraat,8,,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.831652,52.677914
 Nobelstraat,9,,,1704RM,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829924,52.677814
@@ -1510,6 +1574,7 @@ Stevinstraat,15,,,1704RN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830061,
 Stevinstraat,16,,,1704RN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829803,52.679717
 Stevinstraat,17,,,1704RN,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829758,52.679054
 Voltastraat,1,A,,1704RP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835781,52.679166
+Voltastraat,1,C,,1704RP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.836202,52.679046
 Voltastraat,1,,,1704RP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.836202,52.679046
 Voltastraat,2,,,1704RP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.836474,52.679597
 Voltastraat,3,,,1704RP,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835263,52.679226
@@ -1520,6 +1585,7 @@ James Wattstraat,10,,,1704RR,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830
 James Wattstraat,12,,,1704RR,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829871,52.681044
 Kelvinstraat,1,,,1704RS,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829235,52.682654
 Kelvinstraat,2,,,1704RS,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.828980,52.683622
+Kelvinstraat,3,,,1704RS,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829071,52.682428
 Kelvinstraat,4,A,,1704RS,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829650,52.683076
 Kelvinstraat,4,,,1704RS,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829606,52.683436
 Kelvinstraat,5,,,1704RS,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829455,52.682645
@@ -1767,6 +1833,7 @@ Buys Ballotstraat,53,,,1704SK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.82
 Buys Ballotstraat,55,,,1704SK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829707,52.689028
 Buys Ballotstraat,57,,,1704SK,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.829714,52.689068
 Flemingstraat,2,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.837599,52.696477
+Flemingstraat,3,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.836600,52.695540
 Flemingstraat,5,A,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.834624,52.695539
 Flemingstraat,5,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.836600,52.695540
 Flemingstraat,6,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.837114,52.696231
@@ -1774,6 +1841,7 @@ Flemingstraat,7,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833407,
 Flemingstraat,8,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.834132,52.695840
 Flemingstraat,9,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833367,52.695516
 Flemingstraat,10,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.834100,52.695943
+Flemingstraat,11,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833367,52.695516
 Flemingstraat,12,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.834071,52.696064
 Flemingstraat,13,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833071,52.695543
 Flemingstraat,14,,,1704SL,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.834052,52.696160
@@ -1870,6 +1938,7 @@ Galvanistraat,29,,,1704ST,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.837236
 Galvanistraat,30,,,1704ST,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.838098,52.689818
 Galvanistraat,31,,,1704ST,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.837194,52.688842
 Galvanistraat,32,,,1704ST,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.838106,52.689906
+Galvanistraat,33,,,1704ST,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.837180,52.689747
 Galvanistraat,34,,,1704ST,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.838300,52.689899
 Galvanistraat,36,,,1704ST,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.838468,52.689894
 Copernicusstraat,1,,,1704SV,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835718,52.690292
@@ -1883,12 +1952,14 @@ Copernicusstraat,14,,,1704SV,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.836
 Copernicusstraat,17,A,,1704SV,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835861,52.692215
 Copernicusstraat,17,C,,1704SV,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835707,52.692345
 Copernicusstraat,19,,,1704SV,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835762,52.692861
+Copernicusstraat,21,,,1704SV,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.834633,52.694826
 Snelliusstraat,1,,,1704SW,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835579,52.690934
 Snelliusstraat,2,B,,1704SW,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835270,52.691264
 Snelliusstraat,2,,,1704SW,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.835764,52.691364
 Snelliusstraat,14,,,1704SW,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833484,52.693260
 Snelliusstraat,15,,,1704SW,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.833048,52.691028
 Snelliusstraat,17,,,1704SW,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832264,52.691216
+Snelliusstraat,17,,,1704SW,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832225,52.691169
 Snelliusstraat,19,,,1704SW,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.832263,52.691874
 Daltonstraat,7,,,1704SX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.830580,52.693129
 Daltonstraat,8,,,1704SX,Heerhugowaard,Heerhugowaard,Noord-Holland,VBO,4.831646,52.693834

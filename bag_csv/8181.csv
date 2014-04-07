@@ -887,7 +887,6 @@ Kamperweg,56,,,8181CN,Heerde,Heerde,Gelderland,VBO,6.034225,52.395758
 Kamperweg,58,,1,8181CN,Heerde,Heerde,Gelderland,VBO,6.035680,52.395777
 Kamperweg,58,,,8181CN,Heerde,Heerde,Gelderland,VBO,6.035622,52.395840
 Kamperweg,60,,,8181CN,Heerde,Heerde,Gelderland,VBO,6.036710,52.395773
-Kamperweg,60,,,8181CN,Heerde,Heerde,Gelderland,VBO,6.036937,52.395574
 Kamperweg,62,,,8181CP,Heerde,Heerde,Gelderland,VBO,6.032882,52.397392
 Kamperweg,64,,,8181CP,Heerde,Heerde,Gelderland,VBO,6.030693,52.398384
 Kamperweg,66,,,8181CP,Heerde,Heerde,Gelderland,VBO,6.031533,52.398586
@@ -1409,6 +1408,7 @@ Meester Nijhoffstraat,30,,,8181EL,Heerde,Heerde,Gelderland,VBO,6.034089,52.38849
 Meester Nijhoffstraat,32,,,8181EL,Heerde,Heerde,Gelderland,VBO,6.034223,52.388568
 Meester Nijhoffstraat,34,,,8181EL,Heerde,Heerde,Gelderland,VBO,6.034282,52.388630
 Meester Nijhoffstraat,36,,,8181EL,Heerde,Heerde,Gelderland,VBO,6.035044,52.389480
+Elburgerweg,1,a,,8181EM,Heerde,Heerde,Gelderland,VBO,6.035511,52.386233
 Elburgerweg,1,,,8181EM,Heerde,Heerde,Gelderland,VBO,6.035026,52.386253
 Elburgerweg,3,,,8181EM,Heerde,Heerde,Gelderland,VBO,6.032879,52.386085
 Elburgerweg,5,,,8181EM,Heerde,Heerde,Gelderland,VBO,6.031423,52.385967
@@ -1603,8 +1603,8 @@ Eperweg,36,,,8181EX,Heerde,Heerde,Gelderland,VBO,6.031781,52.380267
 Eperweg,38,a,,8181EX,Heerde,Heerde,Gelderland,VBO,6.030859,52.379508
 Eperweg,38,,,8181EX,Heerde,Heerde,Gelderland,VBO,6.031122,52.379408
 Eperweg,40,,1,8181EX,Heerde,Heerde,Gelderland,VBO,6.029986,52.379064
-Eperweg,40,,,8181EX,Heerde,Heerde,Gelderland,VBO,6.030199,52.379240
 Eperweg,40,,,8181EX,Heerde,Heerde,Gelderland,VBO,6.029940,52.378920
+Eperweg,40,,,8181EX,Heerde,Heerde,Gelderland,VBO,6.030199,52.379240
 Eperweg,42,,,8181EX,Heerde,Heerde,Gelderland,VBO,6.029791,52.378750
 Eperweg,44,,,8181EX,Heerde,Heerde,Gelderland,VBO,6.029361,52.378510
 Eperweg,46,a,,8181EX,Heerde,Heerde,Gelderland,VBO,6.028876,52.378458
@@ -1968,7 +1968,8 @@ Godefriduslaan,28,,,8181GZ,Heerde,Heerde,Gelderland,VBO,6.041526,52.380807
 Godefriduslaan,30,,,8181GZ,Heerde,Heerde,Gelderland,VBO,6.041747,52.380806
 Godefriduslaan,32,,,8181GZ,Heerde,Heerde,Gelderland,VBO,6.041952,52.380787
 Godefriduslaan,34,,,8181GZ,Heerde,Heerde,Gelderland,VBO,6.041955,52.381011
-Bonenburgerlaan,3,,,8181HA,Heerde,Heerde,Gelderland,VBO,6.041552,52.386550
+Bonenburgerlaan,3,a,,8181HA,Heerde,Heerde,Gelderland,VBO,6.041611,52.386559
+Bonenburgerlaan,3,,,8181HA,Heerde,Heerde,Gelderland,VBO,6.041567,52.386505
 Bonenburgerlaan,5,,,8181HA,Heerde,Heerde,Gelderland,VBO,6.041566,52.386460
 Bonenburgerlaan,7,a,,8181HA,Heerde,Heerde,Gelderland,VBO,6.041549,52.386334
 Bonenburgerlaan,7,,,8181HA,Heerde,Heerde,Gelderland,VBO,6.041623,52.386361
@@ -2098,6 +2099,7 @@ Dorpsstraat,7,,,8181HL,Heerde,Heerde,Gelderland,VBO,6.042885,52.387271
 Dorpsstraat,9,,,8181HL,Heerde,Heerde,Gelderland,VBO,6.043210,52.387377
 Dorpsstraat,11,,,8181HL,Heerde,Heerde,Gelderland,VBO,6.041979,52.387563
 Dorpsstraat,13,a,,8181HL,Heerde,Heerde,Gelderland,VBO,6.041952,52.387483
+Dorpsstraat,13,b,,8181HL,Heerde,Heerde,Gelderland,VBO,6.042054,52.387535
 Dorpsstraat,13,,,8181HL,Heerde,Heerde,Gelderland,VBO,6.041890,52.387510
 Dorpsstraat,15,a,,8181HL,Heerde,Heerde,Gelderland,VBO,6.042020,52.387338
 Dorpsstraat,15,,,8181HL,Heerde,Heerde,Gelderland,VBO,6.041697,52.387385
@@ -2194,12 +2196,6 @@ Kanaalstraat,25,,,8181HT,Heerde,Heerde,Gelderland,VBO,6.045041,52.386018
 Kanaalstraat,27,,,8181HT,Heerde,Heerde,Gelderland,VBO,6.045218,52.386098
 Kanaalstraat,29,,,8181HT,Heerde,Heerde,Gelderland,VBO,6.045425,52.386160
 Kanaalstraat,35,,,8181HT,Heerde,Heerde,Gelderland,VBO,6.046181,52.386668
-het Roetnest,1,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049097,52.388126
-het Roetnest,3,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049111,52.388072
-het Roetnest,5,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049404,52.388061
-het Roetnest,7,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049507,52.388061
-het Roetnest,9,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049698,52.388060
-het Roetnest,11,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049786,52.388041
 Kanaalstraat,37,a,,8181HV,Heerde,Heerde,Gelderland,VBO,6.046902,52.386736
 Kanaalstraat,37,b,,8181HV,Heerde,Heerde,Gelderland,VBO,6.046799,52.386728
 Kanaalstraat,37,c,,8181HV,Heerde,Heerde,Gelderland,VBO,6.046696,52.386719
@@ -2236,6 +2232,12 @@ Kanaalstraat,51,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049517,52.387737
 Kanaalstraat,53,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.050049,52.387941
 Kanaalstraat,55,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.050094,52.387976
 Kanaalstraat,57,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.050184,52.388120
+het Roetnest,1,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049097,52.388126
+het Roetnest,3,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049111,52.388072
+het Roetnest,5,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049404,52.388061
+het Roetnest,7,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049507,52.388061
+het Roetnest,9,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049698,52.388060
+het Roetnest,11,,,8181HV,Heerde,Heerde,Gelderland,VBO,6.049786,52.388041
 Kanaalstraat,2,a,,8181HW,Heerde,Heerde,Gelderland,VBO,6.042699,52.385636
 Kanaalstraat,4,a,,8181HW,Heerde,Heerde,Gelderland,VBO,6.043023,52.385679
 Kanaalstraat,4,b,,8181HW,Heerde,Heerde,Gelderland,VBO,6.043126,52.385678
@@ -2370,7 +2372,6 @@ Kerkstraat,62,,,8181JC,Heerde,Heerde,Gelderland,VBO,6.045208,52.386413
 Kerkstraat,64,,,8181JC,Heerde,Heerde,Gelderland,VBO,6.045458,52.386429
 van Meurslaan,1,,,8181JD,Heerde,Heerde,Gelderland,VBO,6.046259,52.388942
 van Meurslaan,2,,,8181JD,Heerde,Heerde,Gelderland,VBO,6.045830,52.386760
-van Meurslaan,3,,,8181JD,Heerde,Heerde,Gelderland,VBO,6.046426,52.388276
 van Meurslaan,7,,,8181JD,Heerde,Heerde,Gelderland,VBO,6.046064,52.386660
 Marktstraat,1,a,,8181JE,Heerde,Heerde,Gelderland,VBO,6.042876,52.388628
 Marktstraat,1,b,,8181JE,Heerde,Heerde,Gelderland,VBO,6.043488,52.388310
@@ -2673,6 +2674,7 @@ Kasteelweg,2,,,8181LA,Heerde,Heerde,Gelderland,VBO,6.052781,52.397722
 Kasteelweg,4,,,8181LA,Heerde,Heerde,Gelderland,VBO,6.050570,52.398341
 Singelweg,1,,,8181LB,Heerde,Heerde,Gelderland,VBO,6.056205,52.400651
 Singelweg,2,a,,8181LB,Heerde,Heerde,Gelderland,VBO,6.057613,52.401434
+Singelweg,2,b,,8181LB,Heerde,Heerde,Gelderland,VBO,6.057951,52.401551
 Singelweg,2,,,8181LB,Heerde,Heerde,Gelderland,VBO,6.057509,52.401389
 Singelweg,3,,,8181LB,Heerde,Heerde,Gelderland,VBO,6.055983,52.400553
 Singelweg,4,,1,8181LB,Heerde,Heerde,Gelderland,VBO,6.057109,52.401158
@@ -2815,7 +2817,7 @@ Veldweg,7,,3,8181LP,Heerde,Heerde,Gelderland,VBO,6.043600,52.403804
 Veldweg,7,,4,8181LP,Heerde,Heerde,Gelderland,VBO,6.043585,52.403777
 Veldweg,7,,5,8181LP,Heerde,Heerde,Gelderland,VBO,6.043658,52.403768
 Veldweg,7,,,8181LP,Heerde,Heerde,Gelderland,VBO,6.043744,52.403579
-Veldweg,9,,,8181LP,Heerde,Heerde,Gelderland,VBO,6.042103,52.403911
+Veldweg,9,,,8181LP,Heerde,Heerde,Gelderland,VBO,6.042043,52.403831
 Veldweg,11,,,8181LP,Heerde,Heerde,Gelderland,VBO,6.043449,52.404542
 Veldweg,13,a,,8181LP,Heerde,Heerde,Gelderland,VBO,6.044034,52.405339
 Veldweg,13,,,8181LP,Heerde,Heerde,Gelderland,VBO,6.043216,52.404624
@@ -2897,6 +2899,7 @@ Heideweg,22,,,8181LS,Heerde,Heerde,Gelderland,VBO,6.034408,52.406263
 2e Hoornerveenseweg,18,a,,8181LV,Heerde,Heerde,Gelderland,VBO,6.041206,52.402892
 2e Hoornerveenseweg,18,,,8181LV,Heerde,Heerde,Gelderland,VBO,6.040328,52.403130
 2e Hoornerveenseweg,20,,,8181LV,Heerde,Heerde,Gelderland,VBO,6.041528,52.402791
+2e Hoornerveenseweg,22,,,8181LV,Heerde,Heerde,Gelderland,VBO,6.041933,52.402637
 2e Hoornerveenseweg,22,,,8181LV,Heerde,Heerde,Gelderland,VBO,6.041937,52.402636
 1e Hoornerveenseweg,1,,,8181LW,Heerde,Heerde,Gelderland,VBO,6.037447,52.401061
 1e Hoornerveenseweg,3,,,8181LW,Heerde,Heerde,Gelderland,VBO,6.037600,52.401518
@@ -3423,7 +3426,6 @@ Berkenlaan,21,,,8181NP,Heerde,Heerde,Gelderland,VBO,6.005440,52.392704
 Berkenlaan,23,,,8181NP,Heerde,Heerde,Gelderland,VBO,6.004912,52.391394
 Berkenlaan,25,,,8181NP,Heerde,Heerde,Gelderland,VBO,6.004570,52.391108
 Berkenlaan,27,,,8181NP,Heerde,Heerde,Gelderland,VBO,6.004120,52.390629
-Berkenlaan,27,,,8181NP,Heerde,Heerde,Gelderland,VBO,6.004107,52.390607
 Beukenlaan,1,a,,8181NR,Heerde,Heerde,Gelderland,VBO,6.007894,52.390353
 Beukenlaan,1,,,8181NR,Heerde,Heerde,Gelderland,VBO,6.007536,52.389933
 Beukenlaan,2,,,8181NR,Heerde,Heerde,Gelderland,VBO,6.008701,52.390277
@@ -3472,7 +3474,7 @@ Steenvoortseweg,5,,,8181NZ,Heerde,Heerde,Gelderland,VBO,6.011814,52.383897
 Steenvoortseweg,6,,,8181NZ,Heerde,Heerde,Gelderland,VBO,6.010753,52.383687
 Horsthoekerbeek,1,a,,8181PA,Heerde,Heerde,Gelderland,VBO,6.008046,52.381266
 Horsthoekerbeek,1,,,8181PA,Heerde,Heerde,Gelderland,VBO,6.008045,52.381221
-Horsthoekerbeek,2,a,,8181PA,Heerde,Heerde,Gelderland,VBO,6.008469,52.383151
+Horsthoekerbeek,2,b,,8181PA,Heerde,Heerde,Gelderland,VBO,6.008469,52.383151
 Horsthoekerbeek,2,,,8181PA,Heerde,Heerde,Gelderland,VBO,6.008284,52.382550
 Horsthoekerbeek,3,,,8181PA,Heerde,Heerde,Gelderland,VBO,6.009408,52.379929
 Horsthoekerbeek,4,,,8181PA,Heerde,Heerde,Gelderland,VBO,6.007457,52.381197
@@ -3489,8 +3491,8 @@ Kooiweg,2,a,,8181PB,Heerde,Heerde,Gelderland,VBO,6.006757,52.379430
 Kooiweg,2,b,,8181PB,Heerde,Heerde,Gelderland,VBO,6.011375,52.378867
 Kooiweg,2,,,8181PB,Heerde,Heerde,Gelderland,VBO,6.006812,52.379124
 Kooiweg,4,,,8181PB,Heerde,Heerde,Gelderland,VBO,6.006056,52.379730
-Kooiweg,6,,1,8181PB,Heerde,Heerde,Gelderland,VBO,6.003849,52.379427
 Kooiweg,6,,1,8181PB,Heerde,Heerde,Gelderland,VBO,6.003949,52.379215
+Kooiweg,6,,1,8181PB,Heerde,Heerde,Gelderland,VBO,6.003849,52.379427
 Kooiweg,6,,,8181PB,Heerde,Heerde,Gelderland,VBO,6.005079,52.379133
 Kooiweg,8,a,,8181PB,Heerde,Heerde,Gelderland,VBO,6.003312,52.379889
 Kooiweg,8,,,8181PB,Heerde,Heerde,Gelderland,VBO,6.003378,52.379340
@@ -3540,8 +3542,8 @@ Mussenkampseweg,11,,,8181PJ,Heerde,Heerde,Gelderland,VBO,6.009848,52.372601
 Mussenkampseweg,2,,,8181PK,Heerde,Heerde,Gelderland,VBO,6.017905,52.386714
 Mussenkampseweg,4,a,,8181PK,Heerde,Heerde,Gelderland,VBO,6.017593,52.386419
 Mussenkampseweg,4,,,8181PK,Heerde,Heerde,Gelderland,VBO,6.017769,52.386463
-Mussenkampseweg,6,,,8181PK,Heerde,Heerde,Gelderland,VBO,6.018286,52.386083
 Mussenkampseweg,6,,,8181PK,Heerde,Heerde,Gelderland,VBO,6.018293,52.386074
+Mussenkampseweg,6,,,8181PK,Heerde,Heerde,Gelderland,VBO,6.018286,52.386083
 Mussenkampseweg,8,a,,8181PK,Heerde,Heerde,Gelderland,VBO,6.018221,52.386200
 Mussenkampseweg,8,,,8181PK,Heerde,Heerde,Gelderland,VBO,6.017939,52.386013
 Mussenkampseweg,10,,,8181PK,Heerde,Heerde,Gelderland,VBO,6.017160,52.385927
@@ -3563,6 +3565,7 @@ Mussenkampseweg,36,,,8181PK,Heerde,Heerde,Gelderland,VBO,6.009488,52.373079
 Jan van Riemsdijklaan,1,a,,8181PL,Heerde,Heerde,Gelderland,VBO,6.022968,52.386391
 Jan van Riemsdijklaan,1,b,,8181PL,Heerde,Heerde,Gelderland,VBO,6.021930,52.385704
 Jan van Riemsdijklaan,1,c,,8181PL,Heerde,Heerde,Gelderland,VBO,6.021430,52.385662
+Jan van Riemsdijklaan,1,c,,8181PL,Heerde,Heerde,Gelderland,VBO,6.021448,52.385663
 Jan van Riemsdijklaan,1,,,8181PL,Heerde,Heerde,Gelderland,VBO,6.023060,52.386624
 Jan van Riemsdijklaan,2,,,8181PL,Heerde,Heerde,Gelderland,VBO,6.021999,52.386405
 Jan van Riemsdijklaan,3,,,8181PL,Heerde,Heerde,Gelderland,VBO,6.020959,52.385575
@@ -3620,7 +3623,6 @@ Wezeweg,20,b,,8181PP,Heerde,Heerde,Gelderland,VBO,6.016621,52.382110
 Wezeweg,20,,,8181PP,Heerde,Heerde,Gelderland,VBO,6.016429,52.382075
 Wezeweg,22,,,8181PP,Heerde,Heerde,Gelderland,VBO,6.014085,52.382465
 Wezeweg,24,,,8181PP,Heerde,Heerde,Gelderland,VBO,6.012532,52.382761
-Wezeweg,26,,,8181PP,Heerde,Heerde,Gelderland,VBO,6.011291,52.383280
 Wezeweg,26,,,8181PP,Heerde,Heerde,Gelderland,VBO,6.011188,52.383193
 Scholtenspad,2,a,,8181PR,Heerde,Heerde,Gelderland,VBO,6.023774,52.383187
 Scholtenspad,2,,,8181PR,Heerde,Heerde,Gelderland,VBO,6.024234,52.383490
@@ -3685,8 +3687,8 @@ Keetweg,5,a,,8181RB,Heerde,Heerde,Gelderland,VBO,6.027734,52.370582
 Keetweg,5,,,8181RB,Heerde,Heerde,Gelderland,VBO,6.027778,52.370537
 Keetweg,7,a,,8181RB,Heerde,Heerde,Gelderland,VBO,6.034057,52.369173
 Keetweg,7,,,8181RB,Heerde,Heerde,Gelderland,VBO,6.033968,52.369101
-Bijsterboschweg,1,,,8181RC,Heerde,Heerde,Gelderland,VBO,6.038262,52.370420
 Bijsterboschweg,1,,,8181RC,Heerde,Heerde,Gelderland,VBO,6.038207,52.370201
+Bijsterboschweg,1,,,8181RC,Heerde,Heerde,Gelderland,VBO,6.038262,52.370420
 Bijsterboschweg,2,,,8181RC,Heerde,Heerde,Gelderland,VBO,6.039652,52.372171
 Bijsterboschweg,3,,,8181RC,Heerde,Heerde,Gelderland,VBO,6.036019,52.370816
 Bijsterboschweg,4,,,8181RC,Heerde,Heerde,Gelderland,VBO,6.037933,52.371129
@@ -3962,8 +3964,7 @@ Assendorperstraat,7,,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.068365,52.389706
 Assendorperstraat,9,,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.069962,52.390371
 Assendorperstraat,11,a,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.070586,52.388956
 Assendorperstraat,11,,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.070630,52.388920
-Assendorperstraat,15,a,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.071425,52.389077
-Assendorperstraat,15,b,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.071456,52.389131
+Assendorperstraat,15,b,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.071431,52.389111
 Assendorperstraat,15,,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.071380,52.389015
 Assendorperstraat,17,,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.072434,52.388784
 Assendorperstraat,19,,,8181SJ,Heerde,Heerde,Gelderland,VBO,6.073021,52.388709
@@ -4077,13 +4078,12 @@ Kavelweg,6,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.071303,52.385896
 Kavelweg,8,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.071450,52.385932
 Kavelweg,10,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.071927,52.386387
 Kavelweg,12,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.070183,52.387566
+Kavelweg,14,a,,8181SX,Heerde,Heerde,Gelderland,VBO,6.072129,52.389945
+Kavelweg,14,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.072160,52.390026
 Kavelweg,14,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.072220,52.390142
 Kavelweg,16,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.073394,52.391951
 Kavelweg,18,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.072983,52.391936
 Kavelweg,20,,,8181SX,Heerde,Heerde,Gelderland,VBO,6.073767,52.392273
-Ziebroekseweg,1,,,8181SZ,Heerde,Heerde,Gelderland,VBO,6.094028,52.407127
-Ziebroekseweg,5,a,,8181SZ,Heerde,Heerde,Gelderland,VBO,6.094548,52.401039
-Ziebroekseweg,5,,,8181SZ,Heerde,Heerde,Gelderland,VBO,6.094500,52.400824
 Azaleastraat,2,,,8181TA,Heerde,Heerde,Gelderland,VBO,6.048199,52.389003
 Azaleastraat,4,,,8181TA,Heerde,Heerde,Gelderland,VBO,6.048287,52.388966
 Azaleastraat,6,,,8181TA,Heerde,Heerde,Gelderland,VBO,6.048433,52.388920
@@ -4237,6 +4237,14 @@ Fuchsiastraat,23,,,8181TL,Heerde,Heerde,Gelderland,VBO,6.048937,52.390185
 't Krijt,35,,,8181TM,Heerde,Heerde,Gelderland,VBO,6.051085,52.391368
 't Krijt,37,,,8181TM,Heerde,Heerde,Gelderland,VBO,6.051144,52.391413
 't Krijt,39,,,8181TM,Heerde,Heerde,Gelderland,VBO,6.051189,52.391467
+'t Krijt,41,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051248,52.391520
+'t Krijt,43,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051293,52.391574
+'t Krijt,45,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051252,52.391754
+'t Krijt,47,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051193,52.391772
+'t Krijt,49,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051106,52.391818
+'t Krijt,51,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051047,52.391836
+'t Krijt,53,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050975,52.391881
+'t Krijt,55,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050916,52.391908
 Korte Heegde,1,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050982,52.392393
 Korte Heegde,3,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050909,52.392421
 Korte Heegde,5,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050836,52.392448
@@ -4249,14 +4257,6 @@ Korte Heegde,17,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050681,52.392845
 Korte Heegde,19,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050740,52.392880
 Korte Heegde,21,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050799,52.392925
 Korte Heegde,23,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050859,52.392969
-'t Krijt,41,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051248,52.391520
-'t Krijt,43,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051293,52.391574
-'t Krijt,45,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051252,52.391754
-'t Krijt,47,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051193,52.391772
-'t Krijt,49,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051106,52.391818
-'t Krijt,51,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.051047,52.391836
-'t Krijt,53,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050975,52.391881
-'t Krijt,55,,,8181TN,Heerde,Heerde,Gelderland,VBO,6.050916,52.391908
 Rooboerskamp,2,,,8181TP,Heerde,Heerde,Gelderland,VBO,6.049336,52.390353
 Rooboerskamp,4,,,8181TP,Heerde,Heerde,Gelderland,VBO,6.049381,52.390398
 Rooboerskamp,6,,,8181TP,Heerde,Heerde,Gelderland,VBO,6.049410,52.390425
@@ -4626,8 +4626,7 @@ Griftstraat,4,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047423,52.388207
 Griftstraat,5,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047874,52.387899
 Griftstraat,6,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047450,52.388018
 Griftstraat,7,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047859,52.387854
-Griftstraat,8,a,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.046697,52.387753
-Griftstraat,8,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047192,52.387444
+Griftstraat,8,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047000,52.387410
 Griftstraat,9,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047871,52.387710
 Griftstraat,11,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047856,52.387638
 Griftstraat,13,,,8181VZ,Heerde,Heerde,Gelderland,VBO,6.047854,52.387513

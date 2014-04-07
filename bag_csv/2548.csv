@@ -104,7 +104,7 @@ Leyweg,1582,,,2548AE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.285811,52.04
 Leyweg,1586,,,2548AE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.285612,52.040597
 Leyweg,1630,,,2548AE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.287835,52.039536
 Strijpkade,1,B,,2548AH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297631,52.030805
-Strijpkade,1,C,,2548AH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297658,52.030821
+Strijpkade,1,C,,2548AH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297618,52.030866
 Strijpkade,1,D,,2548AH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297587,52.031160
 Strijpkade,1,,,2548AH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.298187,52.030134
 Strijpkade,2,A,,2548AH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297163,52.031596
@@ -189,13 +189,15 @@ Oosteinde,43,,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.288238,52.0
 Oosteinde,45,,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.288319,52.027007
 Oosteinde,47,,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.288408,52.027029
 Oosteinde,51,,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.288685,52.027096
-Oosteinde,55,,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.289899,52.027352
+Oosteinde,55,A,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.289923,52.027327
+Oosteinde,55,,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.289903,52.027344
 Oosteinde,57,,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.290039,52.027403
 Oosteinde,61,C,,2548AK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.290805,52.027514
 Oosteinde,63,,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.290967,52.027590
 Oosteinde,65,A,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.291469,52.027746
 Oosteinde,65,B,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.291532,52.027762
 Oosteinde,65,T,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.291709,52.027736
+Oosteinde,65,,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.290967,52.027590
 Oosteinde,67,,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.292277,52.027926
 Oosteinde,69,,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.292619,52.028005
 Oosteinde,71,A,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.292988,52.028074
@@ -206,7 +208,6 @@ Oosteinde,75,A,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.294095,52.
 Oosteinde,75,B,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.294241,52.028363
 Oosteinde,75,,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293868,52.028293
 Oosteinde,77,,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.294446,52.028430
-Oosteinde,79,B,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.295258,52.028432
 Oosteinde,79,,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.295024,52.028564
 Oosteinde,81,,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.295502,52.028680
 Oosteinde,83,F,,2548AL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.295966,52.028803
@@ -231,7 +232,6 @@ Oosteinde,68,C,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.290213,52.
 Oosteinde,68,D,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.289719,52.028005
 Oosteinde,68,E,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.289761,52.028015
 Oosteinde,70,B,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.289947,52.027731
-Oosteinde,70,,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.290574,52.027806
 Oosteinde,74,,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.290910,52.027891
 Oosteinde,76,,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.291139,52.027944
 Oosteinde,80,A,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.291798,52.028195
@@ -239,6 +239,7 @@ Oosteinde,80,B,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.292011,52.
 Oosteinde,80,,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.291512,52.028043
 Oosteinde,82,A,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.292397,52.028339
 Oosteinde,82,,,2548AM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.292185,52.028287
+Keukenhoflaan,1,,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297072,52.029485
 Oosteinde,84,,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293233,52.028557
 Oosteinde,86,A,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293436,52.028718
 Oosteinde,86,B,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293475,52.028783
@@ -263,7 +264,6 @@ Oosteinde,112,,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296105,52.
 Oosteinde,114,A,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296534,52.029239
 Oosteinde,114,B,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296560,52.029323
 Oosteinde,114,,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296345,52.029288
-Oosteinde,116,,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297206,52.029439
 Oosteinde,118,,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297556,52.029539
 Oosteinde,120,,,2548AN,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297493,52.029828
 Druivenlaan,1,,,2548AS,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.285895,52.026742
@@ -2073,19 +2073,29 @@ Martinus Nijhoffweg,60,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.2
 Martinus Nijhoffweg,62,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276679,52.035831
 Martinus Nijhoffweg,64,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276481,52.035749
 Martinus Nijhoffweg,66,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276530,52.035709
-Martinus Nijhoffweg,67,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276039,52.035841
 Martinus Nijhoffweg,68,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276638,52.035621
 Martinus Nijhoffweg,70,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276693,52.035577
 Martinus Nijhoffweg,72,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276797,52.035492
 Martinus Nijhoffweg,74,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276849,52.035449
 Martinus Nijhoffweg,76,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276956,52.035362
 Martinus Nijhoffweg,78,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.277007,52.035321
+Martinus Nijhoffweg,307,,,2548EP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276039,52.035841
 Martinus Nijhoffweg,1,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279937,52.037203
 Martinus Nijhoffweg,3,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279380,52.036974
 Martinus Nijhoffweg,5,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279168,52.037161
 Martinus Nijhoffweg,7,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279082,52.037606
 Martinus Nijhoffweg,9,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278944,52.037300
 Martinus Nijhoffweg,11,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279002,52.037189
+Martinus Nijhoffweg,51,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276798,52.036222
+Martinus Nijhoffweg,55,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276663,52.036316
+Martinus Nijhoffweg,57,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276396,52.036369
+Martinus Nijhoffweg,59,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276561,52.036513
+Martinus Nijhoffweg,63,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276455,52.036662
+Martinus Nijhoffweg,65,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276167,52.036670
+Martinus Nijhoffweg,67,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276362,52.036815
+Martinus Nijhoffweg,71,,,2548ER,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.276238,52.036966
+Martinus Nijhoffweg,283,,,2548EV,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.275476,52.036467
+Havannasingel,2,,,2548GP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.284722,52.034237
 Havannasingel,4,,,2548GP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.284767,52.034398
 Havannasingel,6,,,2548GP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.284746,52.034333
 Havannasingel,7,,,2548GP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.284630,52.034301
@@ -2668,6 +2678,7 @@ Hudson,50,,,2548HP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.281891,52.0286
 Hudson,51,,,2548HP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.282084,52.028445
 Hudson,52,,,2548HP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.281930,52.028658
 Hudson,53,,,2548HP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.282065,52.028474
+San Franciscosingel,1,,,2548HS,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.287732,52.028635
 San Franciscosingel,3,,,2548HS,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.287732,52.028635
 San Franciscosingel,6,,,2548HS,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.287463,52.028688
 San Franciscosingel,7,,,2548HS,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.287520,52.028676
@@ -6258,6 +6269,8 @@ Tiranahof,32,,,2548TZ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296938,52.0
 Tiranahof,34,,,2548TZ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.297017,52.023038
 Reykjavikweg,1,,,2548VA,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296118,52.021594
 Reykjavikweg,2,,,2548VA,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.295964,52.021719
+Reykjavikweg,5,,,2548VA,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296118,52.021594
+Reykjavikweg,6,,,2548VA,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.295964,52.021719
 Reykjavikweg,7,,,2548VA,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296421,52.021706
 Reykjavikweg,8,,,2548VA,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296174,52.021878
 Reykjavikweg,11,,,2548VA,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296466,52.021728
@@ -6456,6 +6469,7 @@ Moskousingel,41,,,2548VG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.299745,5
 Moskousingel,42,,,2548VG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.300339,52.019514
 Moskousingel,43,,,2548VG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.299742,52.019865
 Moskousingel,45,,,2548VG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.299736,52.019818
+Moskousingel,47,,,2548VG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.299664,52.019621
 Middenweg,200,,,2548VH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296593,52.019850
 Middenweg,202,,,2548VH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296686,52.019804
 Middenweg,204,,,2548VH,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.296786,52.019768
@@ -7269,6 +7283,7 @@ Eduard Verkadelaan,18,,,2548ZD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.29
 Eduard Verkadelaan,20,,,2548ZD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293392,52.017893
 Eduard Verkadelaan,22,,,2548ZD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293454,52.017866
 Eduard Verkadelaan,24,,,2548ZD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293566,52.017817
+Eduard Verkadelaan,26,,,2548ZD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293566,52.017817
 Eduard Verkadelaan,28,,,2548ZD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293693,52.017769
 Eduard Verkadelaan,30,,,2548ZD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293752,52.017742
 Eduard Verkadelaan,36,,,2548ZD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.294894,52.017250
@@ -7480,6 +7495,8 @@ Paul Steenbergenlaan,17,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.
 Paul Steenbergenlaan,19,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293710,52.018172
 Paul Steenbergenlaan,21,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293772,52.018145
 Paul Steenbergenlaan,23,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293882,52.018097
+Paul Steenbergenlaan,25,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293882,52.018097
+Paul Steenbergenlaan,27,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.293882,52.018097
 Paul Steenbergenlaan,29,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.294066,52.018016
 Paul Steenbergenlaan,31,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.294125,52.017990
 Paul Steenbergenlaan,37,,,2548ZK,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.295232,52.017514

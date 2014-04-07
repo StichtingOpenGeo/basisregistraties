@@ -25,7 +25,7 @@ Nunspeterweg,49,,,8075AA,Elspeet,Nunspeet,Gelderland,VBO,5.786498,52.294967
 Nunspeterweg,59,,,8075AA,Elspeet,Nunspeet,Gelderland,VBO,5.786331,52.295708
 Nunspeterweg,61,,,8075AA,Elspeet,Nunspeet,Gelderland,VBO,5.786094,52.295885
 Nunspeterweg,71,,,8075AB,Elspeet,Nunspeet,Gelderland,VBO,5.785196,52.296056
-Nunspeterweg,77,,,8075AB,Elspeet,Nunspeet,Gelderland,VBO,5.784525,52.296581
+Nunspeterweg,77,,,8075AB,Elspeet,Nunspeet,Gelderland,VBO,5.784553,52.296645
 Nunspeterweg,81,a,,8075AB,Elspeet,Nunspeet,Gelderland,VBO,5.784438,52.297170
 Nunspeterweg,81,,,8075AB,Elspeet,Nunspeet,Gelderland,VBO,5.784378,52.297102
 Nunspeterweg,83,a,,8075AB,Elspeet,Nunspeet,Gelderland,VBO,5.784386,52.297479
@@ -82,7 +82,6 @@ Nunspeterweg,112,a,,8075AD,Elspeet,Nunspeet,Gelderland,VBO,5.786706,52.298679
 Nunspeterweg,112,,,8075AD,Elspeet,Nunspeet,Gelderland,VBO,5.785656,52.297991
 Nunspeterweg,114,a,,8075AD,Elspeet,Nunspeet,Gelderland,VBO,5.785502,52.298604
 Nunspeterweg,114,,,8075AD,Elspeet,Nunspeet,Gelderland,VBO,5.785976,52.298542
-Nunspeterweg,116,a,,8075AD,Elspeet,Nunspeet,Gelderland,VBO,5.785090,52.298528
 Nunspeterweg,116,,,8075AD,Elspeet,Nunspeet,Gelderland,VBO,5.785189,52.298636
 Nunspeterweg,120,,,8075AD,Elspeet,Nunspeet,Gelderland,VBO,5.785413,52.298874
 Nunspeterweg,122,,,8075AD,Elspeet,Nunspeet,Gelderland,VBO,5.785271,52.298899
@@ -95,6 +94,7 @@ Ds. Kalshovenweg,9,,,8075AE,Elspeet,Nunspeet,Gelderland,VBO,5.785752,52.292476
 Ds. Kalshovenweg,11,,,8075AE,Elspeet,Nunspeet,Gelderland,VBO,5.785537,52.292458
 Ds. Kalshovenweg,13,,,8075AE,Elspeet,Nunspeet,Gelderland,VBO,5.785215,52.292411
 Ds. Kalshovenweg,15,,,8075AE,Elspeet,Nunspeet,Gelderland,VBO,5.784499,52.292420
+Gerrit Mouwweg,13,,,8075AF,Elspeet,Nunspeet,Gelderland,VBO,5.783024,52.292329
 Ds. Kalshovenweg,10,,,8075AG,Elspeet,Nunspeet,Gelderland,VBO,5.786717,52.292754
 Ds. Kalshovenweg,14,a,,8075AG,Elspeet,Nunspeet,Gelderland,VBO,5.786306,52.292822
 Ds. Kalshovenweg,14,,,8075AG,Elspeet,Nunspeet,Gelderland,VBO,5.786266,52.292740
@@ -241,6 +241,7 @@ Staverdenseweg,16,,,8075AR,Elspeet,Nunspeet,Gelderland,VBO,5.785537,52.291942
 Staverdenseweg,18,,,8075AR,Elspeet,Nunspeet,Gelderland,VBO,5.785272,52.291945
 Staverdenseweg,20,,,8075AR,Elspeet,Nunspeet,Gelderland,VBO,5.785173,52.291948
 Staverdenseweg,34,,N001,8075AR,Elspeet,Nunspeet,Gelderland,VBO,5.782750,52.292130
+Staverdenseweg,34,,,8075AR,Elspeet,Nunspeet,Gelderland,VBO,5.783069,52.291975
 Staverdenseweg,36,,,8075AR,Elspeet,Nunspeet,Gelderland,VBO,5.782606,52.291937
 Staverdenseweg,48,,,8075AR,Elspeet,Nunspeet,Gelderland,VBO,5.780592,52.291764
 Staverdenseweg,50,,,8075AS,Elspeet,Nunspeet,Gelderland,VBO,5.780460,52.291728
@@ -271,7 +272,6 @@ Gerrit Mouwweg,9,,,8075AT,Elspeet,Nunspeet,Gelderland,VBO,5.783517,52.292359
 Gerrit Mouwweg,10,,,8075AT,Elspeet,Nunspeet,Gelderland,VBO,5.783835,52.292897
 Gerrit Mouwweg,11,,,8075AT,Elspeet,Nunspeet,Gelderland,VBO,5.783517,52.292415
 Gerrit Mouwweg,12,,,8075AT,Elspeet,Nunspeet,Gelderland,VBO,5.783706,52.293370
-Gerrit Mouwweg,13,,,8075AT,Elspeet,Nunspeet,Gelderland,VBO,5.783005,52.292293
 Gerrit Mouwweg,14,,,8075AT,Elspeet,Nunspeet,Gelderland,VBO,5.783708,52.293422
 Gerrit Mouwweg,15,,,8075AT,Elspeet,Nunspeet,Gelderland,VBO,5.782576,52.292225
 Gerrit Mouwweg,16,,,8075AT,Elspeet,Nunspeet,Gelderland,VBO,5.783689,52.293541
@@ -306,8 +306,8 @@ Merelweg,9,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.774859,52.292874
 Merelweg,11,a,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.774249,52.293204
 Merelweg,11,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.775011,52.293130
 Merelweg,15,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.775022,52.293335
-Merelweg,17,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.774251,52.293327
-Merelweg,19,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.774263,52.293385
+Merelweg,17,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.774370,52.293375
+Merelweg,19,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.774366,52.293470
 Merelweg,21,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.774960,52.293626
 Merelweg,31,,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.774109,52.294509
 Merelweg,36,a,,8075AV,Elspeet,Nunspeet,Gelderland,VBO,5.775595,52.295247
@@ -328,7 +328,7 @@ Nachtegaalweg,1,,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.781116,52.292115
 Nachtegaalweg,7,,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.780958,52.292774
 Nachtegaalweg,11,,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.781292,52.293056
 Nachtegaalweg,19,a,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.781039,52.293738
-Nachtegaalweg,19,b,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.781201,52.293736
+Nachtegaalweg,19,b,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.781203,52.293738
 Nachtegaalweg,19,,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.781435,52.293679
 Nachtegaalweg,21,a,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.781506,52.293879
 Nachtegaalweg,21,b,,8075AW,Elspeet,Nunspeet,Gelderland,VBO,5.781285,52.293989
@@ -409,6 +409,7 @@ Schapendrift,23,,,8075BA,Elspeet,Nunspeet,Gelderland,VBO,5.782446,52.297908
 Schapendrift,25,,,8075BA,Elspeet,Nunspeet,Gelderland,VBO,5.780381,52.299719
 Schapendrift,41,a,,8075BA,Elspeet,Nunspeet,Gelderland,VBO,5.778823,52.300988
 Schapendrift,41,b,,8075BA,Elspeet,Nunspeet,Gelderland,VBO,5.778955,52.300935
+Schapendrift,41,c,,8075BA,Elspeet,Nunspeet,Gelderland,VBO,5.778572,52.300927
 Schapendrift,41,,,8075BA,Elspeet,Nunspeet,Gelderland,VBO,5.778940,52.301055
 Schapendrift,125,,,8075BA,Elspeet,Nunspeet,Gelderland,VBO,5.755818,52.318452
 Schapendrift,164,,,8075BA,Elspeet,Nunspeet,Gelderland,VBO,5.753886,52.320927
@@ -431,7 +432,7 @@ Sluiterweg,35,,,8075BB,Elspeet,Nunspeet,Gelderland,VBO,5.792071,52.294838
 Sluiterweg,2,,,8075BC,Elspeet,Nunspeet,Gelderland,VBO,5.788361,52.293641
 Sluiterweg,6,,,8075BC,Elspeet,Nunspeet,Gelderland,VBO,5.788648,52.293701
 Sluiterweg,8,a,,8075BC,Elspeet,Nunspeet,Gelderland,VBO,5.789330,52.293850
-Sluiterweg,8,b,,8075BC,Elspeet,Nunspeet,Gelderland,VBO,5.789247,52.293489
+Sluiterweg,8,b,,8075BC,Elspeet,Nunspeet,Gelderland,VBO,5.789246,52.293531
 Sluiterweg,8,,,8075BC,Elspeet,Nunspeet,Gelderland,VBO,5.789035,52.293791
 Sluiterweg,10,,,8075BC,Elspeet,Nunspeet,Gelderland,VBO,5.789613,52.293915
 Sluiterweg,12,,,8075BC,Elspeet,Nunspeet,Gelderland,VBO,5.789860,52.293977
@@ -521,6 +522,7 @@ Vierhouterweg,14,,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.790974,52.292199
 Vierhouterweg,16,,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.790374,52.292060
 Vierhouterweg,18,,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.789746,52.292083
 Vierhouterweg,20,,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.789780,52.292231
+Vierhouterweg,22,a,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.790386,52.292646
 Vierhouterweg,22,,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.789849,52.292476
 Vierhouterweg,24,,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.790007,52.292903
 Vierhouterweg,28,,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.790199,52.293121
@@ -542,8 +544,6 @@ Vierhouterweg,60,,,8075BJ,Elspeet,Nunspeet,Gelderland,VBO,5.792789,52.294550
 Vierhouterweg,66,,,8075BK,Elspeet,Nunspeet,Gelderland,VBO,5.793368,52.294796
 Vierhouterweg,70,,,8075BK,Elspeet,Nunspeet,Gelderland,VBO,5.794273,52.294966
 Vierhouterweg,72,,,8075BK,Elspeet,Nunspeet,Gelderland,VBO,5.794368,52.294996
-Vierhouterweg,80,a,,8075BK,Elspeet,Nunspeet,Gelderland,VBO,5.795375,52.295299
-Vierhouterweg,80,,,8075BK,Elspeet,Nunspeet,Gelderland,VBO,5.795270,52.295188
 Vierhouterweg,84,,,8075BK,Elspeet,Nunspeet,Gelderland,VBO,5.796126,52.295433
 Vierhouterweg,86,,,8075BK,Elspeet,Nunspeet,Gelderland,VBO,5.796368,52.295300
 Vierhouterweg,92,,,8075BK,Elspeet,Nunspeet,Gelderland,VBO,5.796885,52.295885
@@ -575,7 +575,6 @@ Bosrand,113,,0006,8075BL,Elspeet,Nunspeet,Gelderland,VBO,5.793781,52.299725
 Bosrand,113,,0010,8075BL,Elspeet,Nunspeet,Gelderland,VBO,5.793603,52.299329
 Bosrand,113,,0011,8075BL,Elspeet,Nunspeet,Gelderland,VBO,5.793574,52.299194
 Bosrand,113,,0021,8075BL,Elspeet,Nunspeet,Gelderland,VBO,5.794258,52.300028
-Bosrand,113,,0022,8075BL,Elspeet,Nunspeet,Gelderland,VBO,5.794563,52.300237
 Bosrand,113,,,8075BL,Elspeet,Nunspeet,Gelderland,VBO,5.794529,52.300456
 Apeldoornseweg,3,a,,8075BM,Elspeet,Nunspeet,Gelderland,VBO,5.788459,52.291623
 Apeldoornseweg,3,,,8075BM,Elspeet,Nunspeet,Gelderland,VBO,5.788536,52.291536
@@ -733,7 +732,7 @@ Diepeweg,11,,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.789910,52.288205
 Diepeweg,12,,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.789672,52.287952
 Diepeweg,15,a,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.790139,52.288235
 Diepeweg,15,,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.790170,52.288165
-Diepeweg,17,a,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.790335,52.288233
+Diepeweg,17,a,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.790456,52.288338
 Diepeweg,17,,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.790395,52.288142
 Diepeweg,19,,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.790590,52.288098
 Diepeweg,20,,,8075BX,Elspeet,Nunspeet,Gelderland,VBO,5.791405,52.287213
@@ -867,10 +866,6 @@ Uddelerweg,55,,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.788395,52.288629
 Uddelerweg,57,,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.788388,52.288473
 Uddelerweg,65,,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.788196,52.287509
 Uddelerweg,67,,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.789213,52.287009
-Uddelerweg,69,a,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.788525,52.286864
-Uddelerweg,69,b,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.788684,52.286849
-Uddelerweg,69,c,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.788962,52.286833
-Uddelerweg,69,d,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.788925,52.286641
 Uddelerweg,69,,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.788252,52.286890
 Uddelerweg,85,,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.787754,52.284286
 Uddelerweg,87,,,8075CH,Elspeet,Nunspeet,Gelderland,VBO,5.787911,52.284271
@@ -1211,7 +1206,7 @@ Spoekeboompje,20,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.785941,52.289869
 Spoekeboompje,22,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.785914,52.289921
 Spoekeboompje,24,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.785899,52.289976
 Spoekeboompje,26,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.786267,52.289902
-Spoekeboompje,28,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.786347,52.289912
+Spoekeboompje,28,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.786348,52.289914
 Spoekeboompje,30,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.786440,52.289923
 Spoekeboompje,32,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.786525,52.289931
 Spoekeboompje,34,,,8075DK,Elspeet,Nunspeet,Gelderland,VBO,5.786665,52.289958
@@ -1244,10 +1239,9 @@ Molenweg,39,a,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.783643,52.288123
 Molenweg,39,,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.783570,52.288006
 Molenweg,42,,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.782319,52.288490
 Molenweg,44,,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.782352,52.288472
-Molenweg,46,,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.782518,52.288350
-Molenweg,48,,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.782556,52.288316
+Molenweg,46,,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.782556,52.288316
 Molenweg,56,a,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.782434,52.287471
-Molenweg,56,,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.783078,52.287484
+Molenweg,56,,,8075PA,Elspeet,Nunspeet,Gelderland,VBO,5.782881,52.287433
 Kleine Kolonieweg,33,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.781909,52.283073
 Kleine Kolonieweg,37,a,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.781846,52.282850
 Kleine Kolonieweg,37,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.781631,52.282915
@@ -1257,15 +1251,15 @@ Kleine Kolonieweg,43,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.781011,52.282035
 Kleine Kolonieweg,45,a,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.781043,52.282282
 Kleine Kolonieweg,45,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.780976,52.282235
 Kleine Kolonieweg,47,a,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.780165,52.281219
-Kleine Kolonieweg,47,b,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.780199,52.281561
+Kleine Kolonieweg,47,b,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.780036,52.281472
 Kleine Kolonieweg,47,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.780228,52.281307
 Kleine Kolonieweg,49,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.780389,52.282133
 Kleine Kolonieweg,51,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.780283,52.282509
 Kleine Kolonieweg,53,a,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779985,52.281984
 Kleine Kolonieweg,53,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779779,52.282264
 Kleine Kolonieweg,55,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779696,52.282243
-Kleine Kolonieweg,57,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779299,52.281990
 Kleine Kolonieweg,57,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779424,52.281936
+Kleine Kolonieweg,57,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779299,52.281990
 Kleine Kolonieweg,59,a,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779132,52.281903
 Kleine Kolonieweg,59,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.778980,52.282137
 Kleine Kolonieweg,61,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779000,52.281725
@@ -1273,7 +1267,7 @@ Kleine Kolonieweg,63,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.779053,52.281628
 Kleine Kolonieweg,67,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.778187,52.281834
 Kleine Kolonieweg,69,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.778231,52.281905
 Kleine Kolonieweg,71,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.777626,52.281550
-Kleine Kolonieweg,73,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.777526,52.281553
+Kleine Kolonieweg,73,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.777517,52.281514
 Kleine Kolonieweg,75,a,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.778024,52.281076
 Kleine Kolonieweg,75,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.778095,52.280990
 Kleine Kolonieweg,77,,,8075PB,Elspeet,Nunspeet,Gelderland,VBO,5.776916,52.281001
@@ -1304,14 +1298,14 @@ Kleine Kolonieweg,124,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.768104,52.27847
 Kleine Kolonieweg,126,a,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.767387,52.278142
 Kleine Kolonieweg,126,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.767493,52.278158
 Kleine Kolonieweg,128,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.766845,52.279501
-Kleine Kolonieweg,136,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.766036,52.277544
-Kleine Kolonieweg,138,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.766178,52.277446
+Kleine Kolonieweg,136,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.766180,52.277429
+Kleine Kolonieweg,138,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.765900,52.277650
 Kleine Kolonieweg,156,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.762942,52.278088
 Kleine Kolonieweg,158,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.763016,52.278114
 Kleine Kolonieweg,160,a,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.762311,52.277865
 Kleine Kolonieweg,160,b,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.761897,52.278028
 Kleine Kolonieweg,160,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.761894,52.278064
-Kleine Kolonieweg,162,a,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.761766,52.277636
+Kleine Kolonieweg,162,a,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.761793,52.277658
 Kleine Kolonieweg,162,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.761572,52.277997
 Kleine Kolonieweg,166,a,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.760654,52.277897
 Kleine Kolonieweg,166,,,8075PC,Elspeet,Nunspeet,Gelderland,VBO,5.760772,52.277922
@@ -1348,7 +1342,7 @@ Weideweg,29,,,8075PE,Elspeet,Nunspeet,Gelderland,VBO,5.770909,52.274187
 Weideweg,33,,,8075PE,Elspeet,Nunspeet,Gelderland,VBO,5.770916,52.273151
 Weideweg,35,,,8075PE,Elspeet,Nunspeet,Gelderland,VBO,5.771017,52.272874
 Plaggebaan,6,,,8075PG,Elspeet,Nunspeet,Gelderland,VBO,5.765659,52.278116
-Plaggebaan,13,a,,8075PG,Elspeet,Nunspeet,Gelderland,VBO,5.764574,52.278929
+Plaggebaan,13,a,,8075PG,Elspeet,Nunspeet,Gelderland,VBO,5.764548,52.278804
 Plaggebaan,13,,,8075PG,Elspeet,Nunspeet,Gelderland,VBO,5.764636,52.278953
 Plaggebaan,14,a,,8075PG,Elspeet,Nunspeet,Gelderland,VBO,5.765209,52.279928
 Plaggebaan,14,,,8075PG,Elspeet,Nunspeet,Gelderland,VBO,5.765360,52.279581
@@ -1383,6 +1377,7 @@ Molenbergweg,24,a,,8075PJ,Elspeet,Nunspeet,Gelderland,VBO,5.780558,52.285591
 Molenbergweg,24,,,8075PJ,Elspeet,Nunspeet,Gelderland,VBO,5.780794,52.285524
 Molenbergweg,88,,,8075PJ,Elspeet,Nunspeet,Gelderland,VBO,5.770683,52.283351
 Molenbergweg,98,,,8075PJ,Elspeet,Nunspeet,Gelderland,VBO,5.768330,52.282716
+Molenbergweg,106,,,8075PJ,Elspeet,Nunspeet,Gelderland,VBO,5.766439,52.283071
 Molenbergweg,108,,,8075PJ,Elspeet,Nunspeet,Gelderland,VBO,5.766425,52.282812
 Molenbergweg,140,,,8075PJ,Elspeet,Nunspeet,Gelderland,VBO,5.760658,52.280712
 Molenbergweg,142,,,8075PJ,Elspeet,Nunspeet,Gelderland,VBO,5.760239,52.280609
@@ -1398,7 +1393,6 @@ Oude Hof,25,a,,8075PK,Elspeet,Nunspeet,Gelderland,VBO,5.777967,52.287678
 Oude Hof,25,,,8075PK,Elspeet,Nunspeet,Gelderland,VBO,5.777385,52.287664
 Oude Hof,26,,,8075PK,Elspeet,Nunspeet,Gelderland,VBO,5.776341,52.287781
 Oude Hof,27,,,8075PK,Elspeet,Nunspeet,Gelderland,VBO,5.777854,52.287280
-Oude Hof,32,,0001,8075PK,Elspeet,Nunspeet,Gelderland,VBO,5.776102,52.286737
 Oude Hof,32,,,8075PK,Elspeet,Nunspeet,Gelderland,VBO,5.776436,52.286865
 Oude Hof,34,a,,8075PK,Elspeet,Nunspeet,Gelderland,VBO,5.775259,52.286722
 Oude Hof,34,,,8075PK,Elspeet,Nunspeet,Gelderland,VBO,5.775247,52.286840
@@ -1435,11 +1429,14 @@ Middenweg,46,,,8075PM,Elspeet,Nunspeet,Gelderland,VBO,5.760671,52.283656
 Middenweg,54,,,8075PM,Elspeet,Nunspeet,Gelderland,VBO,5.759199,52.282982
 Middenweg,56,,,8075PM,Elspeet,Nunspeet,Gelderland,VBO,5.759110,52.282566
 Middenweg,58,,,8075PM,Elspeet,Nunspeet,Gelderland,VBO,5.759091,52.282493
-Pirkweg,2,a,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.774187,52.291992
+Pirkweg,2,a,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.774064,52.291969
 Pirkweg,2,,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.773946,52.291948
 Pirkweg,8,,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.772982,52.291970
 Pirkweg,10,,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.772482,52.291965
-Pirkweg,16,,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.770691,52.292017
+Pirkweg,16,a,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.770480,52.292083
+Pirkweg,16,b,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.770758,52.292188
+Pirkweg,16,c,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.770860,52.292175
+Pirkweg,16,,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.770740,52.292001
 Pirkweg,19,a,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.770217,52.291558
 Pirkweg,19,,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.770477,52.291709
 Pirkweg,21,,,8075PP,Elspeet,Nunspeet,Gelderland,VBO,5.769489,52.291718
@@ -1479,12 +1476,14 @@ Veenweg,42,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.770084,52.293485
 Veenweg,46,a,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.769420,52.293636
 Veenweg,46,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.769300,52.293674
 Veenweg,50,a,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.768696,52.293908
+Veenweg,50,b,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.768740,52.294023
+Veenweg,50,c,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.768814,52.294088
 Veenweg,50,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.768493,52.293909
 Veenweg,52,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.768221,52.294003
 Veenweg,56,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.767460,52.294188
 Veenweg,66,a,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.765851,52.294934
 Veenweg,66,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.765852,52.294644
-Veenweg,68,A,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.764310,52.295100
+Veenweg,68,a,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.764342,52.295110
 Veenweg,68,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.764545,52.295031
 Veenweg,70,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.764005,52.295235
 Veenweg,74,,,8075PS,Elspeet,Nunspeet,Gelderland,VBO,5.763109,52.295825
@@ -1496,12 +1495,12 @@ Kempersweg,4,a,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.751344,52.289049
 Kempersweg,4,,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.751141,52.288977
 Kempersweg,25,,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.748087,52.292291
 Kempersweg,27,,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.747654,52.292656
-Kempersweg,35,a,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.746738,52.294097
+Kempersweg,35,a,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.746940,52.294234
 Kempersweg,35,,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.746947,52.294161
 Kempersweg,49,,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.746769,52.296980
 Kempersweg,51,,,8075PT,Elspeet,Nunspeet,Gelderland,VBO,5.746060,52.297191
 Stakenbergweg,1,,,8075PV,Elspeet,Nunspeet,Gelderland,VBO,5.784704,52.296182
-Stakenbergweg,5,a,,8075PV,Elspeet,Nunspeet,Gelderland,VBO,5.784299,52.296112
+Stakenbergweg,5,a,,8075PV,Elspeet,Nunspeet,Gelderland,VBO,5.784272,52.296157
 Stakenbergweg,5,,,8075PV,Elspeet,Nunspeet,Gelderland,VBO,5.784153,52.296261
 Stakenbergweg,9,a,,8075PV,Elspeet,Nunspeet,Gelderland,VBO,5.783654,52.296275
 Stakenbergweg,9,,,8075PV,Elspeet,Nunspeet,Gelderland,VBO,5.783492,52.296349
@@ -1563,7 +1562,7 @@ Bergweg,109,a,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.759632,52.298954
 Bergweg,109,,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.759317,52.298573
 Bergweg,135,,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.760877,52.300997
 Bergweg,136,a,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.764061,52.300996
-Bergweg,136,,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.761353,52.300577
+Bergweg,136,,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.761332,52.300534
 Bergweg,138,,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.763019,52.301537
 Bergweg,139,,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.761238,52.301482
 Bergweg,140,c,,8075PX,Elspeet,Nunspeet,Gelderland,VBO,5.762415,52.302293
@@ -1583,7 +1582,7 @@ Hooiweg,139,,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.752206,52.300773
 Hooiweg,140,,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.757154,52.301891
 Hooiweg,141,,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.752495,52.300268
 Hooiweg,143,,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.752584,52.300342
-Hooiweg,157,a,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.755460,52.301175
+Hooiweg,157,a,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.755449,52.301137
 Hooiweg,157,,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.755411,52.301081
 Hooiweg,159,,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.755630,52.301348
 Hooiweg,171,,,8075PZ,Elspeet,Nunspeet,Gelderland,VBO,5.757013,52.303585
@@ -1646,6 +1645,7 @@ Stakenbergweg,82,,,8075RA,Elspeet,Nunspeet,Gelderland,VBO,5.769499,52.297840
 Stakenbergweg,84,,,8075RA,Elspeet,Nunspeet,Gelderland,VBO,5.769221,52.298387
 Stakenbergweg,86,,,8075RA,Elspeet,Nunspeet,Gelderland,VBO,5.769462,52.298605
 Stakenbergweg,88,a,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.769206,52.298126
+Stakenbergweg,88,b,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.768954,52.297958
 Stakenbergweg,88,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.768847,52.297778
 Stakenbergweg,96,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.767481,52.298031
 Stakenbergweg,102,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.766670,52.299964
@@ -1654,8 +1654,9 @@ Stakenbergweg,106,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.766102,52.298759
 Stakenbergweg,108,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.765571,52.298525
 Stakenbergweg,110,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.765765,52.299779
 Stakenbergweg,118,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.764123,52.298614
-Stakenbergweg,124,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.763516,52.298822
-Stakenbergweg,126,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.763504,52.299103
+Stakenbergweg,124,a,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.763511,52.299230
+Stakenbergweg,124,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.763541,52.299098
+Stakenbergweg,126,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.763554,52.298857
 Stakenbergweg,128,a,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.763049,52.298809
 Stakenbergweg,128,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.762921,52.298793
 Stakenbergweg,130,,,8075RB,Elspeet,Nunspeet,Gelderland,VBO,5.762617,52.298843
@@ -1771,6 +1772,7 @@ Apeldoornseweg,82,,,8075RJ,Elspeet,Nunspeet,Gelderland,VBO,5.794666,52.287438
 Apeldoornseweg,86,a,,8075RJ,Elspeet,Nunspeet,Gelderland,VBO,5.795198,52.287140
 Apeldoornseweg,86,,,8075RJ,Elspeet,Nunspeet,Gelderland,VBO,5.794966,52.287380
 Apeldoornseweg,89,,,8075RJ,Elspeet,Nunspeet,Gelderland,VBO,5.796338,52.287434
+Apeldoornseweg,120,,,8075RJ,Elspeet,Nunspeet,Gelderland,VBO,5.797043,52.284974
 Apeldoornseweg,181,a,,8075RJ,Elspeet,Nunspeet,Gelderland,VBO,5.804777,52.279392
 Apeldoornseweg,181,b,,8075RJ,Elspeet,Nunspeet,Gelderland,VBO,5.804803,52.279360
 Apeldoornseweg,181,c,,8075RJ,Elspeet,Nunspeet,Gelderland,VBO,5.804829,52.279332

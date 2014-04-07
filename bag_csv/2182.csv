@@ -2,7 +2,7 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 Sixlaan,7,,,2182AA,Hillegom,Hillegom,Zuid-Holland,VBO,4.578514,52.295628
 Sixlaan,9,,,2182AA,Hillegom,Hillegom,Zuid-Holland,VBO,4.578392,52.295879
 Sixlaan,11,,,2182AA,Hillegom,Hillegom,Zuid-Holland,VBO,4.578315,52.296067
-Sixlaan,15,A,,2182AA,Hillegom,Hillegom,Zuid-Holland,VBO,4.578206,52.296569
+Sixlaan,15,A,,2182AA,Hillegom,Hillegom,Zuid-Holland,VBO,4.578244,52.296567
 Sixlaan,15,B,,2182AA,Hillegom,Hillegom,Zuid-Holland,VBO,4.577804,52.296674
 Sixlaan,15,C,,2182AA,Hillegom,Hillegom,Zuid-Holland,VBO,4.577582,52.296764
 Sixlaan,15,D,,2182AA,Hillegom,Hillegom,Zuid-Holland,VBO,4.577729,52.296923
@@ -423,7 +423,6 @@ Bartenweg,3,,,2182BV,Hillegom,Hillegom,Zuid-Holland,VBO,4.569413,52.314576
 Bartenweg,5,,,2182BV,Hillegom,Hillegom,Zuid-Holland,VBO,4.569516,52.314585
 Bartenweg,7,,,2182BV,Hillegom,Hillegom,Zuid-Holland,VBO,4.570010,52.314813
 Bartenweg,9,,,2182BV,Hillegom,Hillegom,Zuid-Holland,VBO,4.570317,52.314878
-Bartenweg,11,A,,2182BV,Hillegom,Hillegom,Zuid-Holland,VBO,4.570666,52.315034
 Bartenweg,11,,,2182BV,Hillegom,Hillegom,Zuid-Holland,VBO,4.571033,52.315018
 Bartenweg,13,,,2182BV,Hillegom,Hillegom,Zuid-Holland,VBO,4.571427,52.315156
 Bartenweg,15,,,2182BV,Hillegom,Hillegom,Zuid-Holland,VBO,4.571835,52.315284
@@ -816,6 +815,7 @@ Parallelweg,177,,,2182CS,Hillegom,Hillegom,Zuid-Holland,VBO,4.560786,52.297420
 3e Loosterweg,9,,,2182CV,Hillegom,Hillegom,Zuid-Holland,VBO,4.563375,52.294616
 3e Loosterweg,11,,,2182CV,Hillegom,Hillegom,Zuid-Holland,VBO,4.563612,52.294447
 3e Loosterweg,12,,,2182CV,Hillegom,Hillegom,Zuid-Holland,VBO,4.562634,52.294251
+3e Loosterweg,13,,,2182CV,Hillegom,Hillegom,Zuid-Holland,VBO,4.563569,52.294249
 3e Loosterweg,16,,,2182CV,Hillegom,Hillegom,Zuid-Holland,VBO,4.562683,52.293973
 3e Loosterweg,18,,,2182CV,Hillegom,Hillegom,Zuid-Holland,VBO,4.562625,52.293910
 3e Loosterweg,20,,,2182CV,Hillegom,Hillegom,Zuid-Holland,VBO,4.562597,52.293878
@@ -864,7 +864,6 @@ Parallelweg,177,,,2182CS,Hillegom,Hillegom,Zuid-Holland,VBO,4.560786,52.297420
 3e Loosterweg,120,,,2182CX,Hillegom,Hillegom,Zuid-Holland,VBO,4.561073,52.290681
 3e Loosterweg,122,,,2182CX,Hillegom,Hillegom,Zuid-Holland,VBO,4.560672,52.290939
 3e Loosterweg,124,,,2182CX,Hillegom,Hillegom,Zuid-Holland,VBO,4.559829,52.290583
-3e Loosterweg,126,,,2182CX,Hillegom,Hillegom,Zuid-Holland,VBO,4.557760,52.290712
 3e Loosterweg,130,,,2182CX,Hillegom,Hillegom,Zuid-Holland,VBO,4.560769,52.289672
 3e Loosterweg,132,,,2182CX,Hillegom,Hillegom,Zuid-Holland,VBO,4.561174,52.289172
 Van Engelenlaan,2,,,2182CZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.574147,52.291518
@@ -912,8 +911,8 @@ Veenenburgerlaan,73,,,2182DB,Hillegom,Hillegom,Zuid-Holland,VBO,4.554966,52.2833
 Veenenburgerlaan,75,,,2182DB,Hillegom,Hillegom,Zuid-Holland,VBO,4.554796,52.283042
 Veenenburgerlaan,2,,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.575971,52.288789
 Veenenburgerlaan,34,,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.573492,52.288889
-Veenenburgerlaan,58,A,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.567424,52.288892
-Veenenburgerlaan,58,B,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.567482,52.288910
+Veenenburgerlaan,58,A,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.567452,52.288899
+Veenenburgerlaan,58,B,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.567529,52.288977
 Veenenburgerlaan,60,,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.567120,52.288683
 Veenenburgerlaan,62,,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.566461,52.288642
 Veenenburgerlaan,86,,,2182DC,Hillegom,Hillegom,Zuid-Holland,VBO,4.560240,52.287395
@@ -953,14 +952,18 @@ Hyacinthenlaan,2,G,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569644,52.279347
 Hyacinthenlaan,2,H,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569488,52.279054
 Hyacinthenlaan,2,J,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569529,52.279025
 Hyacinthenlaan,2,K,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569737,52.279046
-Hyacinthenlaan,2,L,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569903,52.278931
-Hyacinthenlaan,2,M,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570106,52.278884
-Hyacinthenlaan,2,N,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569833,52.278812
-Hyacinthenlaan,2,P,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569903,52.278764
-Hyacinthenlaan,2,Q,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569964,52.278727
-Hyacinthenlaan,2,R,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570174,52.278649
-Hyacinthenlaan,2,S,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570276,52.278696
-Hyacinthenlaan,2,T,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570258,52.278760
+Hyacinthenlaan,2,L,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569895,52.278957
+Hyacinthenlaan,2,M,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569683,52.278902
+Hyacinthenlaan,2,N,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569768,52.278856
+Hyacinthenlaan,2,P,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570106,52.278884
+Hyacinthenlaan,2,Q,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569833,52.278812
+Hyacinthenlaan,2,R,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569903,52.278764
+Hyacinthenlaan,2,S,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.569964,52.278727
+Hyacinthenlaan,2,T,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570174,52.278649
+Hyacinthenlaan,2,U,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570276,52.278696
+Hyacinthenlaan,2,V,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570247,52.278719
+Hyacinthenlaan,2,W,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570303,52.278746
+Hyacinthenlaan,2,X,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.570201,52.278806
 Hyacinthenlaan,8,,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.563388,52.282815
 Hyacinthenlaan,9,A,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.566176,52.280273
 Hyacinthenlaan,9,,,2182DE,Hillegom,Hillegom,Zuid-Holland,VBO,4.566436,52.280463
@@ -1078,6 +1081,7 @@ Leidsestraat,179,,,2182DL,Hillegom,Hillegom,Zuid-Holland,VBO,4.572709,52.281181
 Leidsestraat,181,,,2182DL,Hillegom,Hillegom,Zuid-Holland,VBO,4.572681,52.281108
 Leidsestraat,183,,,2182DL,Hillegom,Hillegom,Zuid-Holland,VBO,4.572668,52.281054
 Leidsestraat,185,,,2182DM,Hillegom,Hillegom,Zuid-Holland,VBO,4.572689,52.280713
+Leidsestraat,187,A,,2182DM,Hillegom,Hillegom,Zuid-Holland,VBO,4.572831,52.279487
 Leidsestraat,187,,,2182DM,Hillegom,Hillegom,Zuid-Holland,VBO,4.572224,52.279694
 Leidsestraat,189,,,2182DM,Hillegom,Hillegom,Zuid-Holland,VBO,4.571826,52.278990
 Leidsestraat,2,A,,2182DN,Hillegom,Hillegom,Zuid-Holland,VBO,4.576559,52.288694
@@ -1151,6 +1155,7 @@ Leidsestraat,124,B,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572458,52.284504
 Leidsestraat,124,C,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572388,52.284554
 Leidsestraat,124,D,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572313,52.284599
 Leidsestraat,126,A,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572231,52.284089
+Leidsestraat,126,B,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572328,52.284366
 Leidsestraat,126,,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572305,52.284036
 Leidsestraat,128,,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572686,52.284084
 Leidsestraat,130,A,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572128,52.283997
@@ -1164,6 +1169,7 @@ Leidsestraat,144,,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572603,52.282187
 Leidsestraat,152,,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.571925,52.281589
 Leidsestraat,154,,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.571754,52.281345
 Leidsestraat,156,,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.572051,52.281140
+Leidsestraat,168,,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.571199,52.279321
 Leidsestraat,170,,,2182DS,Hillegom,Hillegom,Zuid-Holland,VBO,4.570813,52.279127
 Leidsestraat,174,,,2182DT,Hillegom,Hillegom,Zuid-Holland,VBO,4.570868,52.278507
 Leidsestraat,176,,,2182DT,Hillegom,Hillegom,Zuid-Holland,VBO,4.570926,52.277762
@@ -1183,7 +1189,7 @@ Lapinenburgstraat,18,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574811,52.287
 Lapinenburgstraat,20,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574752,52.287271
 Lapinenburgstraat,22,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574708,52.287288
 Lapinenburgstraat,24,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574620,52.287315
-Lapinenburgstraat,26,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574516,52.287350
+Lapinenburgstraat,26,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574540,52.287339
 Lapinenburgstraat,28,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574472,52.287359
 Lapinenburgstraat,30,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574399,52.287376
 Lapinenburgstraat,32,,,2182DX,Hillegom,Hillegom,Zuid-Holland,VBO,4.574325,52.287394
@@ -1201,7 +1207,6 @@ Arnoudstraat,9,,,2182DZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.573554,52.273475
 Arnoudstraat,10,,,2182DZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.575953,52.273671
 Arnoudstraat,11,,,2182DZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.573109,52.273786
 Arnoudstraat,13,,,2182DZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.572472,52.274159
-Arnoudstraat,14,A,,2182DZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.574725,52.273528
 Arnoudstraat,14,,,2182DZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.575086,52.273036
 Arnoudstraat,15,A,,2182DZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.572160,52.274355
 Arnoudstraat,15,,,2182DZ,Hillegom,Hillegom,Zuid-Holland,VBO,4.572012,52.274453
@@ -1424,7 +1429,7 @@ Groot Veenenburg,120,,,2182EL,Hillegom,Hillegom,Zuid-Holland,VBO,4.578155,52.287
 Groot Veenenburg,121,,,2182EL,Hillegom,Hillegom,Zuid-Holland,VBO,4.578183,52.288004
 Groot Veenenburg,122,,,2182EL,Hillegom,Hillegom,Zuid-Holland,VBO,4.578212,52.288022
 Monseigneur van Leeuwenlaan,1,,,2182EM,Hillegom,Hillegom,Zuid-Holland,VBO,4.577320,52.288807
-Monseigneur van Leeuwenlaan,3,,,2182EM,Hillegom,Hillegom,Zuid-Holland,VBO,4.577740,52.288541
+Monseigneur van Leeuwenlaan,3,,,2182EM,Hillegom,Hillegom,Zuid-Holland,VBO,4.577838,52.288511
 Monseigneur van Leeuwenlaan,5,,,2182EM,Hillegom,Hillegom,Zuid-Holland,VBO,4.578335,52.288536
 Monseigneur van Leeuwenlaan,7,,,2182EM,Hillegom,Hillegom,Zuid-Holland,VBO,4.578413,52.288293
 Monseigneur van Leeuwenlaan,13,,,2182EM,Hillegom,Hillegom,Zuid-Holland,VBO,4.579212,52.288092
@@ -1477,10 +1482,10 @@ Hoofdstraat,190,,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577912,52.290052
 Hoofdstraat,192,A,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577860,52.289992
 Hoofdstraat,192,C,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577788,52.290018
 Hoofdstraat,192,,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577916,52.289974
-Hoofdstraat,194,A,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577480,52.289989
-Hoofdstraat,194,B,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577468,52.289976
-Hoofdstraat,194,C,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577457,52.289963
-Hoofdstraat,194,D,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577448,52.289950
+Hoofdstraat,194,A,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577784,52.289880
+Hoofdstraat,194,B,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577757,52.289849
+Hoofdstraat,194,C,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577748,52.289893
+Hoofdstraat,194,D,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577720,52.289861
 Hoofdstraat,194,,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577791,52.289862
 Hoofdstraat,196,A,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577684,52.289796
 Hoofdstraat,196,,,2182ER,Hillegom,Hillegom,Zuid-Holland,VBO,4.577726,52.289781
@@ -1917,7 +1922,6 @@ Beekkade,1,,,2182JG,Hillegom,Hillegom,Zuid-Holland,VBO,4.578260,52.290542
 Beekkade,3,,,2182JG,Hillegom,Hillegom,Zuid-Holland,VBO,4.578237,52.290494
 Beekkade,5,A,,2182JG,Hillegom,Hillegom,Zuid-Holland,VBO,4.578183,52.290393
 Beekkade,5,,,2182JG,Hillegom,Hillegom,Zuid-Holland,VBO,4.578208,52.290439
-Beekkade,7,A,,2182JG,Hillegom,Hillegom,Zuid-Holland,VBO,4.577857,52.290626
 Beekkade,7,,,2182JG,Hillegom,Hillegom,Zuid-Holland,VBO,4.577974,52.290654
 Beekkade,13,,,2182JG,Hillegom,Hillegom,Zuid-Holland,VBO,4.577415,52.290740
 Beekkade,15,,,2182JG,Hillegom,Hillegom,Zuid-Holland,VBO,4.577357,52.290749
@@ -2645,10 +2649,9 @@ Vincent van Goghsingel,51,,,2182LM,Hillegom,Hillegom,Zuid-Holland,VBO,4.574677,5
 Vincent van Goghsingel,53,,,2182LM,Hillegom,Hillegom,Zuid-Holland,VBO,4.574634,52.282542
 Vincent van Goghsingel,55,,,2182LM,Hillegom,Hillegom,Zuid-Holland,VBO,4.574576,52.282479
 Vincent van Goghsingel,2,A,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575762,52.284977
-Vincent van Goghsingel,2,B,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575614,52.285030
+Vincent van Goghsingel,2,B,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575811,52.284937
 Vincent van Goghsingel,2,C,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575721,52.284797
-Vincent van Goghsingel,2,D,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575750,52.284824
-Vincent van Goghsingel,2,,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575821,52.284923
+Vincent van Goghsingel,2,,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575634,52.285012
 Vincent van Goghsingel,4,,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575618,52.284701
 Vincent van Goghsingel,6,,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575563,52.284643
 Vincent van Goghsingel,8,,,2182LN,Hillegom,Hillegom,Zuid-Holland,VBO,4.575505,52.284588
@@ -2674,8 +2677,9 @@ Vincent van Goghsingel,46,,,2182LP,Hillegom,Hillegom,Zuid-Holland,VBO,4.574428,5
 Vincent van Goghsingel,48,,,2182LP,Hillegom,Hillegom,Zuid-Holland,VBO,4.574355,52.283331
 Vincent van Goghsingel,50,,,2182LP,Hillegom,Hillegom,Zuid-Holland,VBO,4.574298,52.283286
 Vincent van Goghsingel,52,,,2182LP,Hillegom,Hillegom,Zuid-Holland,VBO,4.574196,52.283198
-Wilsonweg,2,,,2182LR,Hillegom,Hillegom,Zuid-Holland,VBO,4.575512,52.284906
-Wilsonweg,6,A,,2182LR,Hillegom,Hillegom,Zuid-Holland,VBO,4.575011,52.285151
+Wilsonweg,1,,,2182LR,Hillegom,Hillegom,Zuid-Holland,VBO,4.575528,52.284907
+Wilsonweg,2,,,2182LR,Hillegom,Hillegom,Zuid-Holland,VBO,4.575039,52.285156
+Wilsonweg,6,A,,2182LR,Hillegom,Hillegom,Zuid-Holland,VBO,4.574850,52.284968
 Wilsonweg,6,,,2182LR,Hillegom,Hillegom,Zuid-Holland,VBO,4.575118,52.284882
 Wilsonweg,8,A,,2182LR,Hillegom,Hillegom,Zuid-Holland,VBO,4.574693,52.284915
 Wilsonweg,8,B,,2182LR,Hillegom,Hillegom,Zuid-Holland,VBO,4.574781,52.284880
@@ -2980,7 +2984,6 @@ Zuider Leidsevaart,22,B,,2182ND,Hillegom,Hillegom,Zuid-Holland,VBO,4.548827,52.2
 Zuider Leidsevaart,22,,,2182ND,Hillegom,Hillegom,Zuid-Holland,VBO,4.549324,52.292657
 Zuider Leidsevaart,23,A,,2182ND,Hillegom,Hillegom,Zuid-Holland,VBO,4.548508,52.292426
 Zuider Leidsevaart,23,,,2182ND,Hillegom,Hillegom,Zuid-Holland,VBO,4.549052,52.292331
-Beeklaan,51,A,,2182NE,Hillegom,Hillegom,Zuid-Holland,VBO,4.557420,52.296372
 Beeklaan,51,,,2182NE,Hillegom,Hillegom,Zuid-Holland,VBO,4.557547,52.296616
 Beeklaan,53,,,2182NE,Hillegom,Hillegom,Zuid-Holland,VBO,4.556727,52.296865
 Beeklaan,55,A,,2182NE,Hillegom,Hillegom,Zuid-Holland,VBO,4.556118,52.297001
@@ -2996,7 +2999,6 @@ Beeklaan,56,,,2182NG,Hillegom,Hillegom,Zuid-Holland,VBO,4.557966,52.296960
 Beeklaan,58,,,2182NG,Hillegom,Hillegom,Zuid-Holland,VBO,4.557715,52.297057
 Beeklaan,66,,,2182NG,Hillegom,Hillegom,Zuid-Holland,VBO,4.557513,52.297076
 Beeklaan,70,,,2182NG,Hillegom,Hillegom,Zuid-Holland,VBO,4.557243,52.297180
-Beeklaan,74,A,,2182NG,Hillegom,Hillegom,Zuid-Holland,VBO,4.556959,52.297510
 Beeklaan,74,,,2182NG,Hillegom,Hillegom,Zuid-Holland,VBO,4.556829,52.297366
 Beeklaan,76,,,2182NG,Hillegom,Hillegom,Zuid-Holland,VBO,4.556563,52.297490
 Beeklaan,78,,,2182NG,Hillegom,Hillegom,Zuid-Holland,VBO,4.556475,52.297525

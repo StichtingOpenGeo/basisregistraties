@@ -145,6 +145,7 @@ Ernst Casimirstraat,9,,,8606AH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667011,53
 Ernst Casimirstraat,10,,,8606AH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666621,53.031104
 Ernst Casimirstraat,12,,,8606AH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666666,53.031068
 Ernst Casimirstraat,14,,,8606AH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666680,53.031032
+Ernst Casimirstraat,15,,,8606AH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668140,53.030795
 Ernst Casimirstraat,16,,,8606AH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667051,53.030672
 Ernst Casimirstraat,18,,,8606AH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667198,53.030465
 1e Oppenhuizerdwarsstraat,2,,,8606AK,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667593,53.031623
@@ -164,8 +165,7 @@ Oppenhuizerweg,1,B,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666981,53.032
 Oppenhuizerweg,1,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666948,53.032305
 Oppenhuizerweg,5,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667015,53.032128
 Oppenhuizerweg,7,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667075,53.032065
-Oppenhuizerweg,15,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668334,53.030867
-Oppenhuizerweg,17,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668646,53.030659
+Oppenhuizerweg,17,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668647,53.030653
 Oppenhuizerweg,19,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668971,53.030335
 Oppenhuizerweg,21,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.669060,53.030281
 Oppenhuizerweg,23,,,8606AP,Sneek,Súdwest-Fryslân,Friesland,VBO,5.669105,53.030245
@@ -221,18 +221,114 @@ Oppenhuizerweg,58,,,8606AS,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667730,53.032
 Oppenhuizerweg,98,,,8606AT,Sneek,Súdwest-Fryslân,Friesland,VBO,5.670031,53.030593
 Maria Louisestraat,1,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666690,53.030268
 Maria Louisestraat,3,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667183,53.030420
-Maria Louisestraat,7,,1,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668136,53.030873
+Maria Louisestraat,7,,001,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667755,53.030996
+Maria Louisestraat,7,,002,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667805,53.031012
+Maria Louisestraat,7,,003,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667866,53.031031
+Maria Louisestraat,7,,004,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668058,53.031162
+Maria Louisestraat,7,,005,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668093,53.031129
+Maria Louisestraat,7,,006,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668124,53.031091
+Maria Louisestraat,7,,007,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667960,53.031021
+Maria Louisestraat,7,,008,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668166,53.031045
+Maria Louisestraat,7,,009,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668000,53.030985
+Maria Louisestraat,7,,010,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668199,53.031016
+Maria Louisestraat,7,,011,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668037,53.030951
+Maria Louisestraat,7,,012,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668234,53.030986
+Maria Louisestraat,7,,013,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668086,53.030908
+Maria Louisestraat,7,,014,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668254,53.030944
+Maria Louisestraat,7,,015,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668135,53.030861
+Maria Louisestraat,7,,016,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668354,53.030889
+Maria Louisestraat,7,,017,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668385,53.030856
+Maria Louisestraat,7,,018,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668271,53.030804
+Maria Louisestraat,7,,019,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668191,53.030773
+Maria Louisestraat,7,,020,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668055,53.030770
+Maria Louisestraat,7,,021,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668093,53.030737
+Maria Louisestraat,7,,026,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667193,53.030976
+Maria Louisestraat,7,,027,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667158,53.031001
+Maria Louisestraat,7,,028,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667122,53.031041
+Maria Louisestraat,7,,029,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667086,53.031072
+Maria Louisestraat,7,,030,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667056,53.031103
+Maria Louisestraat,7,,031,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667028,53.031128
+Maria Louisestraat,7,,032,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667001,53.031155
+Maria Louisestraat,7,,033,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666966,53.031193
+Maria Louisestraat,7,,034,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666934,53.031223
+Maria Louisestraat,7,,035,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667266,53.031270
+Maria Louisestraat,7,,036,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667351,53.031301
+Maria Louisestraat,7,,037,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667416,53.031329
+Maria Louisestraat,7,,101,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667730,53.031016
+Maria Louisestraat,7,,102,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667785,53.031030
+Maria Louisestraat,7,,103,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667844,53.031049
+Maria Louisestraat,7,,104,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668028,53.031147
+Maria Louisestraat,7,,105,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668063,53.031111
+Maria Louisestraat,7,,106,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668097,53.031075
+Maria Louisestraat,7,,107,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667984,53.031038
+Maria Louisestraat,7,,108,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668138,53.031032
+Maria Louisestraat,7,,109,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668023,53.031002
+Maria Louisestraat,7,,110,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668173,53.031000
+Maria Louisestraat,7,,111,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668061,53.030967
+Maria Louisestraat,7,,112,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668207,53.030970
+Maria Louisestraat,7,,113,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668110,53.030925
+Maria Louisestraat,7,,114,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668227,53.030933
+Maria Louisestraat,7,,115,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668159,53.030875
+Maria Louisestraat,7,,116,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668328,53.030874
+Maria Louisestraat,7,,117,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668360,53.030840
+Maria Louisestraat,7,,118,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668245,53.030821
+Maria Louisestraat,7,,119,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668194,53.030792
+Maria Louisestraat,7,,120,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668079,53.030786
+Maria Louisestraat,7,,121,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668124,53.030751
+Maria Louisestraat,7,,122,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667674,53.030991
+Maria Louisestraat,7,,123,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667532,53.030949
+Maria Louisestraat,7,,124,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667481,53.030932
+Maria Louisestraat,7,,125,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667421,53.030912
+Maria Louisestraat,7,,126,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667219,53.030994
+Maria Louisestraat,7,,127,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667183,53.031018
+Maria Louisestraat,7,,128,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667148,53.031059
+Maria Louisestraat,7,,129,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667115,53.031086
+Maria Louisestraat,7,,130,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667083,53.031119
+Maria Louisestraat,7,,131,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667054,53.031144
+Maria Louisestraat,7,,132,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667027,53.031172
+Maria Louisestraat,7,,133,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666989,53.031210
+Maria Louisestraat,7,,134,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666960,53.031241
+Maria Louisestraat,7,,201,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667706,53.031033
+Maria Louisestraat,7,,202,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667761,53.031049
+Maria Louisestraat,7,,203,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667817,53.031068
+Maria Louisestraat,7,,204,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667997,53.031131
+Maria Louisestraat,7,,205,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668032,53.031094
+Maria Louisestraat,7,,206,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668065,53.031058
+Maria Louisestraat,7,,207,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668008,53.031056
+Maria Louisestraat,7,,208,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668106,53.031015
+Maria Louisestraat,7,,209,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668047,53.031022
+Maria Louisestraat,7,,210,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668142,53.030981
+Maria Louisestraat,7,,211,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668088,53.030987
+Maria Louisestraat,7,,212,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668175,53.030950
+Maria Louisestraat,7,,213,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668137,53.030946
+Maria Louisestraat,7,,214,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668196,53.030924
+Maria Louisestraat,7,,215,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668182,53.030892
+Maria Louisestraat,7,,222,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667649,53.031007
+Maria Louisestraat,7,,223,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667506,53.030969
+Maria Louisestraat,7,,224,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667455,53.030953
+Maria Louisestraat,7,,225,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667398,53.030933
+Maria Louisestraat,7,,226,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667246,53.031017
+Maria Louisestraat,7,,227,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667211,53.031041
+Maria Louisestraat,7,,228,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667176,53.031081
+Maria Louisestraat,7,,229,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667143,53.031108
+Maria Louisestraat,7,,230,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667111,53.031139
+Maria Louisestraat,7,,231,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667084,53.031167
+Maria Louisestraat,7,,232,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667054,53.031193
+Maria Louisestraat,7,,233,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667015,53.031231
+Maria Louisestraat,7,,234,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666990,53.031260
+Maria Louisestraat,7,,235,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667239,53.031091
+Maria Louisestraat,7,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667589,53.031071
 Maria Louisestraat,7,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668140,53.030795
-Maria Louisestraat,9,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667630,53.030967
-Maria Louisestraat,11,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667592,53.030956
-Maria Louisestraat,13,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667555,53.030944
-Maria Louisestraat,15,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667576,53.030978
-Maria Louisestraat,17,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667539,53.030967
-Maria Louisestraat,19,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667652,53.030995
-Maria Louisestraat,21,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667683,53.031004
-Maria Louisestraat,23,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667701,53.030986
-Maria Louisestraat,25,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667665,53.030977
-Maria Louisestraat,27,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667614,53.030988
+Maria Louisestraat,9,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667184,53.030864
+Maria Louisestraat,11,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667236,53.030819
+Maria Louisestraat,13,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667276,53.030780
+Maria Louisestraat,15,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667320,53.030733
+Maria Louisestraat,17,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667374,53.030677
+Maria Louisestraat,19,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667486,53.030722
+Maria Louisestraat,21,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667277,53.030839
+Maria Louisestraat,23,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667315,53.030797
+Maria Louisestraat,25,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667363,53.030751
+Maria Louisestraat,27,,,8606AV,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667434,53.030702
 Maria Louisestraat,2,a,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.666968,53.029997
 Maria Louisestraat,2,,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667390,53.030195
 Maria Louisestraat,4,,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667436,53.030267
@@ -243,8 +339,8 @@ Maria Louisestraat,12,,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667764,53
 Maria Louisestraat,14,,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667869,53.030382
 Maria Louisestraat,16,,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668107,53.030427
 Maria Louisestraat,18,,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668197,53.030526
-Maria Louisestraat,20,a,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668407,53.030606
-Maria Louisestraat,20,,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668287,53.030597
+Maria Louisestraat,20,A,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668453,53.030612
+Maria Louisestraat,20,,,8606AW,Sneek,Súdwest-Fryslân,Friesland,VBO,5.668308,53.030577
 de Colignystraat,1,,,8606AX,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667479,53.030114
 de Colignystraat,2,,,8606AX,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667554,53.030078
 de Colignystraat,3,,,8606AX,Sneek,Súdwest-Fryslân,Friesland,VBO,5.667598,53.030042
@@ -1243,7 +1339,9 @@ Bellstraat,4,A,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.691540,53.020488
 Bellstraat,4,B,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.691485,53.020555
 Bellstraat,4,C,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.691413,53.020642
 Bellstraat,6,,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.691399,53.021006
-Bellstraat,8,,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.691891,53.021165
+Bellstraat,8,A,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.692037,53.021015
+Bellstraat,8,B,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.691848,53.021205
+Bellstraat,8,C,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.691661,53.021176
 Bellstraat,10,,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.691433,53.021581
 Edisonstraat,1,,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.685000,53.018057
 Edisonstraat,3,,,8606JH,Sneek,Súdwest-Fryslân,Friesland,VBO,5.686705,53.018826

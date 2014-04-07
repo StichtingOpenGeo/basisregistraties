@@ -51,8 +51,8 @@ Duinweg,7,,,9591AC,Onstwedde,Stadskanaal,Groningen,VBO,7.028406,53.037134
 Duinweg,8,,,9591AC,Onstwedde,Stadskanaal,Groningen,VBO,7.028292,53.037417
 Duinweg,9,,,9591AC,Onstwedde,Stadskanaal,Groningen,VBO,7.026838,53.038318
 Scholtweg,2,,,9591AD,Onstwedde,Stadskanaal,Groningen,VBO,7.039031,53.031219
-Scholtweg,3,,,9591AD,Onstwedde,Stadskanaal,Groningen,VBO,7.035614,53.028604
 Scholtweg,3,,,9591AD,Onstwedde,Stadskanaal,Groningen,VBO,7.035735,53.028671
+Scholtweg,3,,,9591AD,Onstwedde,Stadskanaal,Groningen,VBO,7.035614,53.028604
 Scholtweg,4,,,9591AD,Onstwedde,Stadskanaal,Groningen,VBO,7.032314,53.027853
 Scholtweg,5,,,9591AD,Onstwedde,Stadskanaal,Groningen,VBO,7.034397,53.028015
 Scholtweg,6,,,9591AD,Onstwedde,Stadskanaal,Groningen,VBO,7.029212,53.025722
@@ -65,6 +65,7 @@ De Hörn,4,,,9591AE,Onstwedde,Stadskanaal,Groningen,VBO,7.037513,53.031745
 De Hörn,5,,,9591AE,Onstwedde,Stadskanaal,Groningen,VBO,7.037537,53.032147
 Brink,1,,,9591AG,Onstwedde,Stadskanaal,Groningen,VBO,7.041796,53.032337
 Brink,3,,,9591AG,Onstwedde,Stadskanaal,Groningen,VBO,7.041347,53.032282
+Brink,5,,,9591AG,Onstwedde,Stadskanaal,Groningen,VBO,7.040965,53.032239
 Brink,5,,,9591AG,Onstwedde,Stadskanaal,Groningen,VBO,7.040948,53.032091
 Brink,9,,,9591AG,Onstwedde,Stadskanaal,Groningen,VBO,7.040671,53.031882
 Brink,11,,,9591AG,Onstwedde,Stadskanaal,Groningen,VBO,7.040202,53.032259
@@ -304,7 +305,6 @@ Dorpsstraat,48,,,9591AV,Onstwedde,Stadskanaal,Groningen,VBO,7.043524,53.037821
 Dorpsstraat,50,,,9591AV,Onstwedde,Stadskanaal,Groningen,VBO,7.043596,53.038002
 Dorpsstraat,52,,,9591AV,Onstwedde,Stadskanaal,Groningen,VBO,7.043680,53.038115
 Dorpsstraat,54,,,9591AV,Onstwedde,Stadskanaal,Groningen,VBO,7.043618,53.038208
-Dorpsstraat,56,G,,9591AV,Onstwedde,Stadskanaal,Groningen,VBO,7.044065,53.038428
 Dorpsstraat,56,,,9591AV,Onstwedde,Stadskanaal,Groningen,VBO,7.043525,53.038323
 Dorpsstraat,58,,,9591AV,Onstwedde,Stadskanaal,Groningen,VBO,7.043637,53.038464
 Dorpsstraat,66,,,9591AW,Onstwedde,Stadskanaal,Groningen,VBO,7.043837,53.039145
@@ -449,6 +449,12 @@ Boslaan,25,,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038932,53.036363
 Boslaan,27,A,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038909,53.036552
 Boslaan,27,,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038910,53.036493
 Boslaan,29,A,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038454,53.036616
+Boslaan,35,,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038709,53.037135
+Boslaan,37,,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038699,53.037200
+Boslaan,39,,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038689,53.037266
+Boslaan,41,,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038668,53.037404
+Boslaan,43,,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038657,53.037469
+Boslaan,45,,,9591BG,Onstwedde,Stadskanaal,Groningen,VBO,7.038647,53.037535
 Boslaan,47,,,9591BH,Onstwedde,Stadskanaal,Groningen,VBO,7.038672,53.037686
 Boslaan,49,,,9591BH,Onstwedde,Stadskanaal,Groningen,VBO,7.038658,53.037753
 Boslaan,51,,,9591BH,Onstwedde,Stadskanaal,Groningen,VBO,7.038646,53.037813
@@ -515,23 +521,15 @@ Roessinghlaan,12,,,9591BM,Onstwedde,Stadskanaal,Groningen,VBO,7.041145,53.037425
 Roessinghlaan,18,,,9591BM,Onstwedde,Stadskanaal,Groningen,VBO,7.040054,53.037517
 Roessinghlaan,20,,,9591BM,Onstwedde,Stadskanaal,Groningen,VBO,7.039948,53.037520
 Tuinlaan,1,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040233,53.036150
-Tuinlaan,2,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040720,53.036136
 Tuinlaan,3,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040244,53.036219
-Tuinlaan,4,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040735,53.036219
 Tuinlaan,5,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040255,53.036287
 Tuinlaan,7,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040266,53.036354
 Tuinlaan,9,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040275,53.036471
-Tuinlaan,10,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040758,53.036576
 Tuinlaan,11,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040276,53.036540
-Tuinlaan,12,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040760,53.036653
 Tuinlaan,13,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040276,53.036607
-Tuinlaan,14,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040749,53.036810
 Tuinlaan,15,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040276,53.036675
-Tuinlaan,16,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040778,53.036881
 Tuinlaan,17,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040277,53.036742
-Tuinlaan,18,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040841,53.037021
 Tuinlaan,19,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040277,53.036809
-Tuinlaan,20,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040867,53.037079
 Tuinlaan,21,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040290,53.036926
 Tuinlaan,23,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040319,53.036992
 Tuinlaan,25,,,9591BN,Onstwedde,Stadskanaal,Groningen,VBO,7.040348,53.037058
@@ -547,9 +545,6 @@ Karskenslaan,6,,,9591BP,Onstwedde,Stadskanaal,Groningen,VBO,7.040667,53.035919
 Karskenslaan,8,,,9591BP,Onstwedde,Stadskanaal,Groningen,VBO,7.040178,53.035955
 Karskenslaan,10,,,9591BP,Onstwedde,Stadskanaal,Groningen,VBO,7.039845,53.036000
 Karskenslaan,12,,,9591BP,Onstwedde,Stadskanaal,Groningen,VBO,7.039621,53.036064
-Boelslaan,1,G,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.038788,53.035452
-Boelslaan,3,G,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.038700,53.035449
-Boelslaan,5,G,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.038608,53.035443
 Boelslaan,9,T,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.038559,53.035283
 Boelslaan,9,,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.038447,53.035383
 Boelslaan,11,,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.038326,53.035371
@@ -559,8 +554,6 @@ Boelslaan,17,,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.037965,53.035373
 Boelslaan,19,,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.037848,53.035368
 Boelslaan,21,,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.037761,53.035363
 Boelslaan,23,,,9591BR,Onstwedde,Stadskanaal,Groningen,VBO,7.037661,53.035356
-Boelslaan,2,G,,9591BS,Onstwedde,Stadskanaal,Groningen,VBO,7.038749,53.035451
-Boelslaan,4,G,,9591BS,Onstwedde,Stadskanaal,Groningen,VBO,7.038653,53.035446
 Boelslaan,4,,,9591BS,Onstwedde,Stadskanaal,Groningen,VBO,7.038622,53.035704
 Boelslaan,6,,,9591BS,Onstwedde,Stadskanaal,Groningen,VBO,7.038498,53.035695
 Boelslaan,8,,,9591BS,Onstwedde,Stadskanaal,Groningen,VBO,7.038392,53.035684
@@ -982,8 +975,8 @@ Vledderhuizen,24,,,9591TL,Onstwedde,Stadskanaal,Groningen,VBO,7.037896,53.005466
 Vledderhuizen,25,,,9591TL,Onstwedde,Stadskanaal,Groningen,VBO,7.038218,53.004570
 Vledderhuizen,26,,,9591TL,Onstwedde,Stadskanaal,Groningen,VBO,7.036229,53.003568
 Vledderhuizen,27,,,9591TL,Onstwedde,Stadskanaal,Groningen,VBO,7.041138,53.003271
-Vledderhuizen,28,,,9591TL,Onstwedde,Stadskanaal,Groningen,VBO,7.041558,53.003042
 Vledderhuizen,28,,,9591TL,Onstwedde,Stadskanaal,Groningen,VBO,7.041367,53.003004
+Vledderhuizen,28,,,9591TL,Onstwedde,Stadskanaal,Groningen,VBO,7.041558,53.003042
 Vledderhuizen,29,,,9591TL,Onstwedde,Stadskanaal,Groningen,VBO,7.041985,53.002070
 Eemboerveldweg,1,,,9591TM,Onstwedde,Stadskanaal,Groningen,VBO,7.096988,53.015328
 Eemboerveldweg,2,,,9591TM,Onstwedde,Stadskanaal,Groningen,VBO,7.095663,53.016528

@@ -178,7 +178,6 @@ Beegderweg,10,,,6085AN,Horn,Leudal,Limburg,VBO,5.935848,51.207722
 Beegderweg,12,,,6085AN,Horn,Leudal,Limburg,VBO,5.934325,51.206607
 Beegderweg,14,,,6085AN,Horn,Leudal,Limburg,VBO,5.933765,51.206929
 Beegderweg,22,,,6085AN,Horn,Leudal,Limburg,VBO,5.933278,51.204504
-Bergerweg,8,a,,6085AN,Horn,Leudal,Limburg,VBO,5.935599,51.207990
 Sportparklaan,1,a,,6085AP,Horn,Leudal,Limburg,VBO,5.932002,51.204814
 Sportparklaan,1,b,,6085AP,Horn,Leudal,Limburg,VBO,5.932357,51.204487
 Sportparklaan,1,c,,6085AP,Horn,Leudal,Limburg,VBO,5.932619,51.204438
@@ -236,6 +235,7 @@ Bergerweg,25,,,6085AS,Horn,Leudal,Limburg,VBO,5.928279,51.207964
 Bergerweg,2,,,6085AT,Horn,Leudal,Limburg,VBO,5.936505,51.208454
 Bergerweg,4,,,6085AT,Horn,Leudal,Limburg,VBO,5.936422,51.208469
 Bergerweg,6,,,6085AT,Horn,Leudal,Limburg,VBO,5.935404,51.208413
+Bergerweg,8,a,,6085AT,Horn,Leudal,Limburg,VBO,5.935599,51.207990
 Bergerweg,8,,,6085AT,Horn,Leudal,Limburg,VBO,5.935032,51.208465
 Bergerweg,10,,,6085AT,Horn,Leudal,Limburg,VBO,5.934575,51.208495
 Bergerweg,12,,,6085AT,Horn,Leudal,Limburg,VBO,5.934295,51.208578
@@ -496,6 +496,7 @@ Schoolpad,38,,,6085BM,Horn,Leudal,Limburg,VBO,5.948348,51.209448
 Schoolpad,40,,,6085BM,Horn,Leudal,Limburg,VBO,5.948209,51.209368
 Schoolpad,42,,,6085BM,Horn,Leudal,Limburg,VBO,5.948117,51.209314
 Schoolpad,44,,,6085BM,Horn,Leudal,Limburg,VBO,5.948032,51.209259
+Schoolpad,46,,,6085BM,Horn,Leudal,Limburg,VBO,5.947933,51.209201
 Schoolpad,48,,,6085BM,Horn,Leudal,Limburg,VBO,5.947835,51.209146
 Schoolpad,50,,,6085BM,Horn,Leudal,Limburg,VBO,5.947750,51.209082
 Daalakkerstraat,1,a,,6085BN,Horn,Leudal,Limburg,VBO,5.949130,51.210317
@@ -1666,10 +1667,10 @@ Burgemeester Magnéestr,21,,,6085GE,Horn,Leudal,Limburg,VBO,5.949829,51.212406
 Burgemeester Magnéestr,22,,,6085GE,Horn,Leudal,Limburg,VBO,5.949682,51.212568
 Burgemeester Magnéestr,23,,,6085GE,Horn,Leudal,Limburg,VBO,5.949638,51.212617
 Burgemeester Magnéestr,24,,,6085GE,Horn,Leudal,Limburg,VBO,5.949563,51.212709
-Burgemeester Magnéestr,25,a,,6085GE,Horn,Leudal,Limburg,VBO,5.949878,51.212759
 Burgemeester Magnéestr,25,a,,6085GE,Horn,Leudal,Limburg,VBO,5.949915,51.212766
-Burgemeester Magnéestr,25,b,,6085GE,Horn,Leudal,Limburg,VBO,5.949888,51.212790
+Burgemeester Magnéestr,25,a,,6085GE,Horn,Leudal,Limburg,VBO,5.949878,51.212759
 Burgemeester Magnéestr,25,b,,6085GE,Horn,Leudal,Limburg,VBO,5.949860,51.212781
+Burgemeester Magnéestr,25,b,,6085GE,Horn,Leudal,Limburg,VBO,5.949888,51.212790
 Burgemeester Magnéestr,25,c,,6085GE,Horn,Leudal,Limburg,VBO,5.949832,51.212808
 Burgemeester Magnéestr,25,c,,6085GE,Horn,Leudal,Limburg,VBO,5.949860,51.212815
 Burgemeester Magnéestr,25,d,,6085GE,Horn,Leudal,Limburg,VBO,5.949825,51.212837
@@ -1746,24 +1747,35 @@ Heythuyserweg,32,,,6085NH,Horn,Leudal,Limburg,VBO,5.922303,51.220857
 Heythuyserweg,34,,,6085NH,Horn,Leudal,Limburg,VBO,5.921722,51.221795
 Heythuyserweg,36,,,6085NH,Horn,Leudal,Limburg,VBO,5.921156,51.223054
 Heythuyserweg,38,,,6085NH,Horn,Leudal,Limburg,VBO,5.924687,51.225557
+Heythuyserweg,40,,k001,6085NH,Horn,Leudal,Limburg,VBO,5.919497,51.225072
+Heythuyserweg,40,,k002,6085NH,Horn,Leudal,Limburg,VBO,5.919465,51.225112
+Heythuyserweg,40,,k003,6085NH,Horn,Leudal,Limburg,VBO,5.919450,51.225142
+Heythuyserweg,40,,k004,6085NH,Horn,Leudal,Limburg,VBO,5.919422,51.225183
+Heythuyserweg,40,,k005,6085NH,Horn,Leudal,Limburg,VBO,5.919423,51.225215
+Heythuyserweg,40,,k006,6085NH,Horn,Leudal,Limburg,VBO,5.919399,51.225248
+Heythuyserweg,40,,k012,6085NH,Horn,Leudal,Limburg,VBO,5.919788,51.225334
+Heythuyserweg,40,,k013,6085NH,Horn,Leudal,Limburg,VBO,5.919815,51.225301
+Heythuyserweg,40,,k014,6085NH,Horn,Leudal,Limburg,VBO,5.919835,51.225258
+Heythuyserweg,40,,k017,6085NH,Horn,Leudal,Limburg,VBO,5.919889,51.225140
+Heythuyserweg,40,,k018,6085NH,Horn,Leudal,Limburg,VBO,5.919665,51.225094
 Heythuyserweg,40,,,6085NH,Horn,Leudal,Limburg,VBO,5.919726,51.225110
 Heitjesweg,1,,,6085NJ,Horn,Leudal,Limburg,VBO,5.939217,51.215759
 Houterhof,1,,,6085NL,Horn,Leudal,Limburg,VBO,5.929877,51.225921
 Houterhof,2,,,6085NL,Horn,Leudal,Limburg,VBO,5.929017,51.225600
+Hornerheide,1,,V01,6085NM,Horn,Leudal,Limburg,VBO,5.915951,51.219257
+Hornerheide,1,,V02,6085NM,Horn,Leudal,Limburg,VBO,5.919432,51.219968
+Hornerheide,1,,V03,6085NM,Horn,Leudal,Limburg,VBO,5.919040,51.220077
+Hornerheide,1,,V04,6085NM,Horn,Leudal,Limburg,VBO,5.919464,51.220377
+Hornerheide,1,,V05,6085NM,Horn,Leudal,Limburg,VBO,5.919819,51.220492
+Hornerheide,1,,V06,6085NM,Horn,Leudal,Limburg,VBO,5.920180,51.220406
+Hornerheide,1,,V07,6085NM,Horn,Leudal,Limburg,VBO,5.920418,51.220208
+Hornerheide,1,,V08,6085NM,Horn,Leudal,Limburg,VBO,5.920357,51.219968
+Hornerheide,1,,V09,6085NM,Horn,Leudal,Limburg,VBO,5.920117,51.219787
+Hornerheide,1,,V10,6085NM,Horn,Leudal,Limburg,VBO,5.919741,51.219605
+Hornerheide,1,,V11,6085NM,Horn,Leudal,Limburg,VBO,5.919560,51.219404
+Hornerheide,1,,V12,6085NM,Horn,Leudal,Limburg,VBO,5.919310,51.219210
+Hornerheide,1,,V13,6085NM,Horn,Leudal,Limburg,VBO,5.918934,51.219284
 Hornerheide,1,,,6085NM,Horn,Leudal,Limburg,VBO,5.917626,51.219029
-Hornerheide,2,,,6085NM,Horn,Leudal,Limburg,VBO,5.915951,51.219257
-Hornerheide,3,a,,6085NM,Horn,Leudal,Limburg,VBO,5.919040,51.220077
-Hornerheide,3,b,,6085NM,Horn,Leudal,Limburg,VBO,5.919464,51.220377
-Hornerheide,3,c,,6085NM,Horn,Leudal,Limburg,VBO,5.919819,51.220492
-Hornerheide,3,d,,6085NM,Horn,Leudal,Limburg,VBO,5.920180,51.220406
-Hornerheide,3,e,,6085NM,Horn,Leudal,Limburg,VBO,5.920418,51.220208
-Hornerheide,3,f,,6085NM,Horn,Leudal,Limburg,VBO,5.920357,51.219968
-Hornerheide,3,g,,6085NM,Horn,Leudal,Limburg,VBO,5.920117,51.219787
-Hornerheide,3,h,,6085NM,Horn,Leudal,Limburg,VBO,5.919741,51.219605
-Hornerheide,3,j,,6085NM,Horn,Leudal,Limburg,VBO,5.919560,51.219404
-Hornerheide,3,k,,6085NM,Horn,Leudal,Limburg,VBO,5.919310,51.219210
-Hornerheide,3,m,,6085NM,Horn,Leudal,Limburg,VBO,5.918934,51.219284
-Hornerheide,3,,,6085NM,Horn,Leudal,Limburg,VBO,5.919432,51.219968
 Hornerheide,4,,,6085NM,Horn,Leudal,Limburg,VBO,5.921594,51.219795
 Hornerheide,5,,,6085NM,Horn,Leudal,Limburg,VBO,5.921235,51.219226
 Hornerheide,6,,,6085NM,Horn,Leudal,Limburg,VBO,5.918389,51.217925

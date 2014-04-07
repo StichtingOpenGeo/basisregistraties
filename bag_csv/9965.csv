@@ -4,6 +4,7 @@ De Nije Nering,6,,,9965NA,Leens,De Marne,Groningen,VBO,6.375089,53.361064
 De Nije Nering,10,,,9965NA,Leens,De Marne,Groningen,VBO,6.375169,53.361063
 De Nije Nering,12,,,9965NA,Leens,De Marne,Groningen,VBO,6.375015,53.361041
 De Nije Nering,16,,,9965NA,Leens,De Marne,Groningen,VBO,6.375099,53.361041
+De Brouwerij,1,a,,9965NB,Leens,De Marne,Groningen,VBO,6.374657,53.360675
 De Brouwerij,1,,,9965NB,Leens,De Marne,Groningen,VBO,6.374734,53.360671
 De Brouwerij,3,,,9965NB,Leens,De Marne,Groningen,VBO,6.374731,53.360699
 De Brouwerij,5,,,9965NB,Leens,De Marne,Groningen,VBO,6.374732,53.360724
@@ -13,6 +14,7 @@ De Brouwerij,11,,,9965NB,Leens,De Marne,Groningen,VBO,6.374731,53.360802
 De Brouwerij,13,,,9965NB,Leens,De Marne,Groningen,VBO,6.374731,53.360829
 De Brouwerij,15,,,9965NB,Leens,De Marne,Groningen,VBO,6.374732,53.360852
 De Brouwerij,17,,,9965NB,Leens,De Marne,Groningen,VBO,6.374730,53.360877
+De Brouwerij,19,,,9965NB,Leens,De Marne,Groningen,VBO,6.374739,53.360906
 De Brouwerij,21,,,9965NB,Leens,De Marne,Groningen,VBO,6.374823,53.360671
 De Brouwerij,23,,,9965NB,Leens,De Marne,Groningen,VBO,6.374824,53.360698
 De Brouwerij,25,,,9965NB,Leens,De Marne,Groningen,VBO,6.374822,53.360721
@@ -28,8 +30,7 @@ Hoofdstraat,11,,,9965PA,Leens,De Marne,Groningen,VBO,6.375198,53.360699
 Hoofdstraat,13,,,9965PA,Leens,De Marne,Groningen,VBO,6.375284,53.360698
 Hoofdstraat,15,,,9965PA,Leens,De Marne,Groningen,VBO,6.375043,53.360676
 Hoofdstraat,17,,,9965PA,Leens,De Marne,Groningen,VBO,6.375132,53.360673
-Hoofdstraat,21,a,,9965PA,Leens,De Marne,Groningen,VBO,6.375344,53.360670
-Hoofdstraat,21,,,9965PA,Leens,De Marne,Groningen,VBO,6.375229,53.360672
+Hoofdstraat,21,a,,9965PA,Leens,De Marne,Groningen,VBO,6.374815,53.360635
 Hoofdstraat,23,,,9965PA,Leens,De Marne,Groningen,VBO,6.374107,53.360720
 Hoofdstraat,27,,,9965PA,Leens,De Marne,Groningen,VBO,6.372966,53.360774
 Hoofdstraat,29,A,,9965PA,Leens,De Marne,Groningen,VBO,6.372097,53.360871
@@ -61,7 +62,6 @@ Van Starkenborghstraat,9,,,9965PC,Leens,De Marne,Groningen,VBO,6.383050,53.36162
 Van Starkenborghstraat,10,,,9965PC,Leens,De Marne,Groningen,VBO,6.382666,53.361899
 Van Starkenborghstraat,11,,,9965PC,Leens,De Marne,Groningen,VBO,6.383022,53.361680
 Van Starkenborghstraat,13,,,9965PC,Leens,De Marne,Groningen,VBO,6.383009,53.361779
-Van Starkenborghstraat,14,,,9965PC,Leens,De Marne,Groningen,VBO,6.382582,53.362169
 Van Starkenborghstraat,15,,,9965PC,Leens,De Marne,Groningen,VBO,6.383011,53.361869
 Van Starkenborghstraat,17,,,9965PC,Leens,De Marne,Groningen,VBO,6.383013,53.361959
 Van Starkenborghstraat,19,,,9965PC,Leens,De Marne,Groningen,VBO,6.383000,53.362031
@@ -515,7 +515,7 @@ Burgemeester E.P. van Iperensingel,25,,,9965RL,Leens,De Marne,Groningen,VBO,6.37
 Burgemeester E.P. van Iperensingel,27,,,9965RL,Leens,De Marne,Groningen,VBO,6.379593,53.359150
 Burgemeester E.P. van Iperensingel,29,,,9965RL,Leens,De Marne,Groningen,VBO,6.379695,53.359166
 Burgemeester E.P. van Iperensingel,31,,,9965RL,Leens,De Marne,Groningen,VBO,6.379896,53.359187
-Burgemeester E.P. van Iperensingel,35,,,9965RL,Leens,De Marne,Groningen,VBO,6.379996,53.359192
+Burgemeester E.P. van Iperensingel,33,,,9965RL,Leens,De Marne,Groningen,VBO,6.379994,53.359208
 H.N. Werkmansingel,2,,,9965RM,Leens,De Marne,Groningen,VBO,6.377327,53.359660
 H.N. Werkmansingel,4,,,9965RM,Leens,De Marne,Groningen,VBO,6.377537,53.359641
 H.N. Werkmansingel,6,,,9965RM,Leens,De Marne,Groningen,VBO,6.377778,53.359657
@@ -749,7 +749,6 @@ Wierde,13,,,9965TA,Leens,De Marne,Groningen,VBO,6.386079,53.360747
 Wierde,15,,,9965TA,Leens,De Marne,Groningen,VBO,6.386551,53.360348
 Wierde,17,A,,9965TA,Leens,De Marne,Groningen,VBO,6.388177,53.360172
 Wierde,17,,,9965TA,Leens,De Marne,Groningen,VBO,6.388884,53.359339
-Wierde,17,,,9965TA,Leens,De Marne,Groningen,VBO,6.388440,53.360317
 Wierde,19,,,9965TA,Leens,De Marne,Groningen,VBO,6.388320,53.360845
 Wierde,21,,,9965TA,Leens,De Marne,Groningen,VBO,6.388514,53.360826
 Wierde,23,,,9965TA,Leens,De Marne,Groningen,VBO,6.388708,53.360770
@@ -865,6 +864,7 @@ Trekweg,4,,,9965TL,Leens,De Marne,Groningen,VBO,6.405050,53.349293
 't Stort,24,,,9965TM,Leens,De Marne,Groningen,VBO,6.393307,53.353777
 Leenstertillen,1,,,9965TN,Leens,De Marne,Groningen,VBO,6.370202,53.352863
 Leenstertillen,2,,,9965TN,Leens,De Marne,Groningen,VBO,6.369816,53.351725
+Leenstertillen,4,,,9965TN,Zuurdijk,De Marne,Groningen,VBO,6.369076,53.350649
 Nijverheidsweg,1,B,,9965TP,Leens,De Marne,Groningen,VBO,6.371555,53.362116
 Nijverheidsweg,1,,,9965TP,Leens,De Marne,Groningen,VBO,6.372353,53.362172
 Nijverheidsweg,2,,,9965TP,Leens,De Marne,Groningen,VBO,6.372692,53.361891

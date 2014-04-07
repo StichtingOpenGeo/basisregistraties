@@ -173,7 +173,8 @@ Passage,17,,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.556621,52.026591
 Passage,18,,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.556431,52.026586
 Passage,20,,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.556499,52.026547
 Passage,21,,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.556701,52.026562
-Passage,23,,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.557162,52.026619
+Passage,23,A,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.557061,52.026513
+Passage,23,,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.557287,52.026493
 Passage,24,,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.556627,52.026477
 Passage,25,A,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.557033,52.026536
 Passage,25,,,3901AZ,Veenendaal,Veenendaal,Utrecht,VBO,5.557242,52.026438
@@ -1169,13 +1170,12 @@ Kerkewijk,17,A,,3901EA,Veenendaal,Veenendaal,Utrecht,VBO,5.554482,52.024958
 Kerkewijk,17,B,,3901EA,Veenendaal,Veenendaal,Utrecht,VBO,5.554545,52.024999
 Kerkewijk,17,,,3901EA,Veenendaal,Veenendaal,Utrecht,VBO,5.554493,52.025015
 Kerkewijk,19,,,3901EA,Veenendaal,Veenendaal,Utrecht,VBO,5.554431,52.024914
-Kerkewijk,21,A,,3901EA,Veenendaal,Veenendaal,Utrecht,VBO,5.554356,52.024803
-Kerkewijk,21,B,,3901EA,Veenendaal,Veenendaal,Utrecht,VBO,5.554404,52.024787
+Kerkewijk,21,A,,3901EA,Veenendaal,Veenendaal,Utrecht,VBO,5.554402,52.024788
 Kerkewijk,21,,,3901EA,Veenendaal,Veenendaal,Utrecht,VBO,5.554390,52.024847
-Kerkewijk,23,A,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554301,52.024536
-Kerkewijk,23,,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554296,52.024601
+Kerkewijk,23,A,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554237,52.024549
+Kerkewijk,23,,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554207,52.024554
 Kerkewijk,25,A,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554210,52.024495
-Kerkewijk,25,,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554201,52.024564
+Kerkewijk,25,,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554178,52.024504
 Kerkewijk,27,A,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554156,52.024446
 Kerkewijk,27,B,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554137,52.024419
 Kerkewijk,27,,,3901EB,Veenendaal,Veenendaal,Utrecht,VBO,5.554247,52.024406
@@ -1390,9 +1390,11 @@ Kerkewijk,50,,,3901EJ,Veenendaal,Veenendaal,Utrecht,VBO,5.550974,52.021178
 Kerkewijk,52,,,3901EJ,Veenendaal,Veenendaal,Utrecht,VBO,5.550940,52.021136
 Kerkewijk,54,,Bis,3901EJ,Veenendaal,Veenendaal,Utrecht,VBO,5.550826,52.021081
 Kerkewijk,54,,,3901EJ,Veenendaal,Veenendaal,Utrecht,VBO,5.550868,52.021074
-Kerkewijk,56,,,3901EJ,Veenendaal,Veenendaal,Utrecht,VBO,5.550787,52.020894
+Kerkewijk,56,A,,3901EJ,Veenendaal,Veenendaal,Utrecht,VBO,5.550789,52.020950
+Kerkewijk,56,,,3901EJ,Veenendaal,Veenendaal,Utrecht,VBO,5.550756,52.020904
 De Sterke Arm,1,,,3901EK,Veenendaal,Veenendaal,Utrecht,VBO,5.553701,52.023184
-De Sterke Arm,3,A,,3901EK,Veenendaal,Veenendaal,Utrecht,VBO,5.555496,52.022577
+De Sterke Arm,3,A,,3901EK,Veenendaal,Veenendaal,Utrecht,VBO,5.555742,52.022982
+De Sterke Arm,3,,,3901EK,Veenendaal,Veenendaal,Utrecht,VBO,5.555603,52.022756
 De Sterke Arm,5,,,3901EK,Veenendaal,Veenendaal,Utrecht,VBO,5.555453,52.022591
 De Sterke Arm,7,,,3901EK,Veenendaal,Veenendaal,Utrecht,VBO,5.555515,52.022604
 De Sterke Arm,9,,,3901EK,Veenendaal,Veenendaal,Utrecht,VBO,5.555474,52.022609
@@ -1791,6 +1793,39 @@ Raadhuisplein,14,G,,3901GA,Veenendaal,Veenendaal,Utrecht,VBO,5.557038,52.024420
 Raadhuisplein,14,H,,3901GA,Veenendaal,Veenendaal,Utrecht,VBO,5.556999,52.024435
 Raadhuisplein,14,I,,3901GA,Veenendaal,Veenendaal,Utrecht,VBO,5.556960,52.024456
 Raadhuisplein,14,J,,3901GA,Veenendaal,Veenendaal,Utrecht,VBO,5.556912,52.024471
+Raadhuisstraat,1,A,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553952,52.023568
+Raadhuisstraat,1,B,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553802,52.023579
+Raadhuisstraat,1,C,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553644,52.023594
+Raadhuisstraat,1,D,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553511,52.023622
+Raadhuisstraat,1,E,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553586,52.023693
+Raadhuisstraat,1,F,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.554210,52.023539
+Raadhuisstraat,1,G,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.554102,52.023544
+Raadhuisstraat,1,H,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553969,52.023551
+Raadhuisstraat,1,K,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553813,52.023561
+Raadhuisstraat,1,L,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553647,52.023576
+Raadhuisstraat,1,M,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553516,52.023601
+Raadhuisstraat,1,N,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553613,52.023699
+Raadhuisstraat,1,P,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.554220,52.023519
+Raadhuisstraat,1,R,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.554094,52.023524
+Raadhuisstraat,1,T,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553960,52.023532
+Raadhuisstraat,1,U,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553811,52.023541
+Raadhuisstraat,1,V,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553626,52.023553
+Raadhuisstraat,1,W,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553495,52.023579
+Raadhuisstraat,1,X,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553623,52.023717
+Raadhuisstraat,1,,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.554183,52.023529
+Raadhuisstraat,2,A,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.554042,52.023545
+Raadhuisstraat,2,B,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553913,52.023553
+Raadhuisstraat,2,C,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553757,52.023560
+Raadhuisstraat,2,D,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553593,52.023582
+Raadhuisstraat,2,E,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553472,52.023612
+Raadhuisstraat,2,F,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553567,52.023709
+Raadhuisstraat,2,G,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.554039,52.023529
+Raadhuisstraat,2,H,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553907,52.023534
+Raadhuisstraat,2,K,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553763,52.023543
+Raadhuisstraat,2,L,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553583,52.023565
+Raadhuisstraat,2,M,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553457,52.023593
+Raadhuisstraat,2,N,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.553578,52.023725
+Raadhuisstraat,2,,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.554231,52.023532
 Raadhuisstraat,3,,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.555152,52.023722
 Raadhuisstraat,4,,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.555108,52.023611
 Raadhuisstraat,6,,,3901GC,Veenendaal,Veenendaal,Utrecht,VBO,5.555131,52.023636
@@ -3094,7 +3129,8 @@ Boompjesgoed,221,F,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.557589,52.020615
 Boompjesgoed,221,G,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.557634,52.020604
 Boompjesgoed,221,H,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.557679,52.020601
 Boompjesgoed,221,K,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.557721,52.020595
-Boompjesgoed,221,,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.557073,52.020689
+Boompjesgoed,221,,01,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.557233,52.020688
+Boompjesgoed,221,,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.557083,52.020669
 Boompjesgoed,223,,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.557029,52.020545
 Boompjesgoed,225,,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.556992,52.020423
 Boompjesgoed,227,,,3901MG,Veenendaal,Veenendaal,Utrecht,VBO,5.556970,52.020369
@@ -3665,7 +3701,7 @@ Schrijverspark,107,,,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.561251,52.026416
 Schrijverspark,109,,01,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.561251,52.026416
 Schrijverspark,109,,02,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.561251,52.026416
 Schrijverspark,109,,,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.561251,52.026416
-Schrijverspark,111,A,,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.561158,52.026386
+Schrijverspark,111,A,,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.562059,52.026066
 Schrijverspark,111,,01,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.561251,52.026416
 Schrijverspark,111,,02,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.561251,52.026416
 Schrijverspark,111,,,3901PE,Veenendaal,Veenendaal,Utrecht,VBO,5.561251,52.026416
@@ -4358,6 +4394,7 @@ Tuinstraat,109,,,3901RA,Veenendaal,Veenendaal,Utrecht,VBO,5.556955,52.027064
 Tuinstraat,111,A,,3901RA,Veenendaal,Veenendaal,Utrecht,VBO,5.556318,52.027320
 Tuinstraat,111,,,3901RA,Veenendaal,Veenendaal,Utrecht,VBO,5.556975,52.027123
 Tuinstraat,113,A,,3901RA,Veenendaal,Veenendaal,Utrecht,VBO,5.556354,52.027364
+Tuinstraat,113,,,3901RA,Veenendaal,Veenendaal,Utrecht,VBO,5.556293,52.027386
 Tuinstraat,115,,,3901RA,Veenendaal,Veenendaal,Utrecht,VBO,5.557081,52.027202
 Tuinstraat,119,A,,3901RA,Veenendaal,Veenendaal,Utrecht,VBO,5.557159,52.027290
 Tuinstraat,119,,,3901RA,Veenendaal,Veenendaal,Utrecht,VBO,5.557073,52.027328
@@ -5038,14 +5075,14 @@ Eenvoudlaan,48,,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.563558,52.030134
 Eenvoudlaan,50,A,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.563863,52.030141
 Eenvoudlaan,50,B,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.563945,52.030144
 Eenvoudlaan,50,C,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.563935,52.030208
-Eenvoudlaan,50,,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.563937,52.030191
 Eenvoudlaan,50,,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.563855,52.030207
-Eenvoudlaan,52,A,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564014,52.030145
+Eenvoudlaan,50,,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.563937,52.030191
 Eenvoudlaan,52,A,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564251,52.029984
+Eenvoudlaan,52,A,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564014,52.030145
 Eenvoudlaan,52,B,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564091,52.030148
 Eenvoudlaan,52,C,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564083,52.030212
-Eenvoudlaan,52,,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564008,52.030198
 Eenvoudlaan,52,,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564007,52.030208
+Eenvoudlaan,52,,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564008,52.030198
 Eenvoudlaan,54,A,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564166,52.030151
 Eenvoudlaan,54,B,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564238,52.030150
 Eenvoudlaan,54,C,,3901SR,Veenendaal,Veenendaal,Utrecht,VBO,5.564242,52.030215
@@ -5209,6 +5246,7 @@ Wolweg,193,,,3901TE,Veenendaal,Veenendaal,Utrecht,VBO,5.558756,52.026712
 Wolweg,195,,,3901TE,Veenendaal,Veenendaal,Utrecht,VBO,5.559251,52.026792
 Wolweg,197,,,3901TE,Veenendaal,Veenendaal,Utrecht,VBO,5.559286,52.026851
 Wolweg,199,,,3901TE,Veenendaal,Veenendaal,Utrecht,VBO,5.559336,52.026922
+Wolweg,201,,,3901TE,Veenendaal,Veenendaal,Utrecht,VBO,5.559039,52.027168
 Adriaan P. de Kleuverstraat,6,,,3901TG,Veenendaal,Veenendaal,Utrecht,VBO,5.558452,52.025215
 Brouwersgracht,2,,,3901TJ,Veenendaal,Veenendaal,Utrecht,VBO,5.557523,52.024487
 Brouwersgracht,4,,,3901TJ,Veenendaal,Veenendaal,Utrecht,VBO,5.557531,52.024507

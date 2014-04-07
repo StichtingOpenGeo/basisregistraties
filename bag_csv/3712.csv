@@ -1,13 +1,13 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Prins Alexanderweg,2,,01,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253980,52.111468
-Prins Alexanderweg,2,,02,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253926,52.111458
-Prins Alexanderweg,2,,03,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253860,52.111413
-Prins Alexanderweg,2,,04,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253881,52.111626
+Prins Alexanderweg,2,,01,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254218,52.111718
+Prins Alexanderweg,2,,02,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254146,52.111699
+Prins Alexanderweg,2,,03,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254086,52.111683
+Prins Alexanderweg,2,,04,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254008,52.111662
 Prins Alexanderweg,2,,05,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253940,52.111642
-Prins Alexanderweg,2,,06,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254008,52.111662
-Prins Alexanderweg,2,,07,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254086,52.111683
-Prins Alexanderweg,2,,08,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254146,52.111699
-Prins Alexanderweg,2,,09,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254218,52.111718
+Prins Alexanderweg,2,,06,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253881,52.111626
+Prins Alexanderweg,2,,07,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253980,52.111468
+Prins Alexanderweg,2,,08,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253926,52.111458
+Prins Alexanderweg,2,,09,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.253860,52.111413
 Prins Alexanderweg,2,,10,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254427,52.111508
 Prins Alexanderweg,2,,11,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254456,52.111458
 Prins Alexanderweg,2,,12,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254483,52.111415
@@ -71,6 +71,7 @@ Prins Alexanderweg,2,,69,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254430,52.111
 Prins Alexanderweg,2,,70,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254351,52.111483
 Prins Alexanderweg,2,,71,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254382,52.111435
 Prins Alexanderweg,2,,72,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254405,52.111389
+Prins Alexanderweg,2,,73,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254428,52.111351
 Prins Alexanderweg,2,,74,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254182,52.111620
 Prins Alexanderweg,2,,75,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254227,52.111631
 Prins Alexanderweg,2,,76,3712AA,Huis ter Heide,Zeist,Utrecht,VBO,5.254287,52.111646
@@ -197,7 +198,6 @@ Korte Bergweg,6,,,3712AG,Huis ter Heide,Zeist,Utrecht,VBO,5.255727,52.107760
 Korte Bergweg,8,A,,3712AG,Huis ter Heide,Zeist,Utrecht,VBO,5.255128,52.108163
 Korte Bergweg,8,B,,3712AG,Huis ter Heide,Zeist,Utrecht,VBO,5.254908,52.108523
 Korte Bergweg,8,C,,3712AG,Huis ter Heide,Zeist,Utrecht,VBO,5.254776,52.108720
-Korte Bergweg,8,D,,3712AG,Huis ter Heide,Zeist,Utrecht,VBO,5.255048,52.108357
 Korte Bergweg,8,,BIS,3712AG,Huis ter Heide,Zeist,Utrecht,VBO,5.255245,52.107948
 Korte Bergweg,8,,,3712AG,Huis ter Heide,Zeist,Utrecht,VBO,5.255377,52.107660
 Korte Bergweg,10,A,,3712AG,Huis ter Heide,Zeist,Utrecht,VBO,5.254542,52.108900
@@ -500,6 +500,7 @@ Amersfoortseweg,18,H,,3712BC,Huis ter Heide,Zeist,Utrecht,VBO,5.256444,52.112604
 Amersfoortseweg,18,I,,3712BC,Huis ter Heide,Zeist,Utrecht,VBO,5.259105,52.110738
 Amersfoortseweg,18,K,,3712BC,Huis ter Heide,Zeist,Utrecht,VBO,5.259561,52.109651
 Amersfoortseweg,18,L,,3712BC,Huis ter Heide,Zeist,Utrecht,VBO,5.259722,52.109660
+Amersfoortseweg,18,S,,3712BC,Huis ter Heide,Zeist,Utrecht,VBO,5.258034,52.109424
 Amersfoortseweg,18,,,3712BC,Huis ter Heide,Zeist,Utrecht,VBO,5.257290,52.112516
 Amersfoortseweg,24,,,3712BD,Huis ter Heide,Zeist,Utrecht,VBO,5.260031,52.113831
 Amersfoortseweg,30,,,3712BD,Huis ter Heide,Zeist,Utrecht,VBO,5.263649,52.114869
@@ -524,14 +525,32 @@ Ericaweg,7,,,3712BH,Huis ter Heide,Zeist,Utrecht,VBO,5.262880,52.112953
 Ericaweg,9,,,3712BH,Huis ter Heide,Zeist,Utrecht,VBO,5.263306,52.112190
 Melkweg,2,,,3712BH,Huis ter Heide,Zeist,Utrecht,VBO,5.271500,52.114934
 Melkweg,4,,,3712BH,Huis ter Heide,Zeist,Utrecht,VBO,5.271678,52.114652
+Beukbergenlaan,2,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269601,52.117987
+Beukbergenlaan,4,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269580,52.118036
 Beukbergenlaan,6,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269378,52.117939
+Beukbergenlaan,6,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269549,52.118075
 Beukbergenlaan,8,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269305,52.118011
+Beukbergenlaan,8,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269521,52.118124
+Beukbergenlaan,10,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269504,52.118174
 Beukbergenlaan,10,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269232,52.118137
+Beukbergenlaan,12,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269469,52.118212
 Beukbergenlaan,12,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269173,52.118218
 Beukbergenlaan,14,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269085,52.118344
+Beukbergenlaan,14,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269437,52.118260
+Beukbergenlaan,16,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269410,52.118304
 Beukbergenlaan,16,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269026,52.118424
 Beukbergenlaan,18,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.268909,52.118550
+Beukbergenlaan,18,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269379,52.118351
+Beukbergenlaan,20,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269319,52.118441
 Beukbergenlaan,20,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.268880,52.118631
+Beukbergenlaan,22,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269297,52.118486
+Beukbergenlaan,24,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269269,52.118525
+Beukbergenlaan,26,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269244,52.118573
+Beukbergenlaan,28,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269210,52.118619
+Beukbergenlaan,30,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269187,52.118663
+Beukbergenlaan,32,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269160,52.118712
+Beukbergenlaan,34,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269124,52.118753
+Beukbergenlaan,36,,,3712BJ,Huis ter Heide,Zeist,Utrecht,VBO,5.269093,52.118798
 Dolderseweg,1,A,,3712BL,Huis ter Heide,Zeist,Utrecht,VBO,5.258890,52.114441
 Dolderseweg,1,,,3712BL,Huis ter Heide,Zeist,Utrecht,VBO,5.258876,52.114225
 Dolderseweg,3,A,,3712BL,Huis ter Heide,Zeist,Utrecht,VBO,5.258495,52.114737
@@ -613,7 +632,6 @@ Beukbergenplein,2,,,3712BT,Huis ter Heide,Zeist,Utrecht,STA,5.268354,52.120068
 Beukbergenplein,3,,,3712BT,Huis ter Heide,Zeist,Utrecht,STA,5.268311,52.120150
 Beukbergenplein,4,,,3712BT,Huis ter Heide,Zeist,Utrecht,STA,5.268244,52.120229
 Beukbergenplein,5,,,3712BT,Huis ter Heide,Zeist,Utrecht,STA,5.268215,52.120312
-Beukbergenplein,6,A,,3712BT,Huis ter Heide,Zeist,Utrecht,STA,5.267764,52.120477
 Beukbergenplein,6,,,3712BT,Huis ter Heide,Zeist,Utrecht,STA,5.268189,52.120400
 Beukbergenplein,7,,,3712BT,Huis ter Heide,Zeist,Utrecht,STA,5.268212,52.120483
 Beukbergenplein,8,,,3712BT,Huis ter Heide,Zeist,Utrecht,STA,5.268284,52.120559
@@ -1005,13 +1023,12 @@ Blanckenhagenweg,10,A,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258765,52.10861
 Blanckenhagenweg,10,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258840,52.108745
 Blanckenhagenweg,12,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258668,52.108287
 Blanckenhagenweg,14,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258649,52.108186
-Blanckenhagenweg,16,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258152,52.108119
+Blanckenhagenweg,16,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258606,52.108010
 Blanckenhagenweg,18,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258600,52.108086
 Blanckenhagenweg,20,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258591,52.107931
 Blanckenhagenweg,22,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258648,52.107560
 Blanckenhagenweg,24,,,3712DE,Huis ter Heide,Zeist,Utrecht,VBO,5.258678,52.107344
 Huis ter Heideweg,19,,,3712DZ,Huis ter Heide,Zeist,Utrecht,VBO,5.251162,52.106721
-Huis ter Heideweg,62,,,3712DZ,Huis ter Heide,Zeist,Utrecht,VBO,5.255995,52.106214
 Huis ter Heideweg,9001,,,3712DZ,Huis ter Heide,Zeist,Utrecht,VBO,5.254068,52.106338
 Weerdenburg,16,,,3712EB,Huis ter Heide,Zeist,Utrecht,STA,5.271095,52.119101
 Weerdenburg,18,,,3712EB,Huis ter Heide,Zeist,Utrecht,STA,5.271275,52.119150
@@ -1027,6 +1044,30 @@ Zuilenburg,8,,,3712EG,Huis ter Heide,Zeist,Utrecht,STA,5.270301,52.118802
 Zuilenburg,9,,,3712EG,Huis ter Heide,Zeist,Utrecht,STA,5.270102,52.118457
 Zuilenburg,10,,,3712EG,Huis ter Heide,Zeist,Utrecht,STA,5.270085,52.118749
 Zuilenburg,12,,,3712EG,Huis ter Heide,Zeist,Utrecht,STA,5.269911,52.118702
+Wickenburg,1,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.269954,52.120745
+Wickenburg,2,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270076,52.120573
+Wickenburg,3,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270026,52.120761
+Wickenburg,4,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270165,52.120587
+Wickenburg,5,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270167,52.120799
+Wickenburg,6,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270283,52.120627
+Wickenburg,7,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270232,52.120816
+Wickenburg,8,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270363,52.120640
+Wickenburg,9,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270365,52.120850
+Wickenburg,10,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270494,52.120676
+Wickenburg,11,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270441,52.120871
+Wickenburg,12,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270572,52.120698
+Wickenburg,13,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270573,52.120909
+Wickenburg,14,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270697,52.120738
+Wickenburg,15,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270647,52.120929
+Wickenburg,16,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270765,52.120758
+Wickenburg,17,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270778,52.120962
+Wickenburg,18,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270914,52.120789
+Wickenburg,19,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270847,52.120984
+Wickenburg,20,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270981,52.120806
+Wickenburg,21,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.270984,52.121022
+Wickenburg,22,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.271104,52.120855
+Wickenburg,23,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.271056,52.121043
+Wickenburg,24,,,3712EH,Huis ter Heide,Zeist,Utrecht,VBO,5.271180,52.120872
 Wickenburg,29,,,3712EH,Huis ter Heide,Zeist,Utrecht,STA,5.271296,52.121173
 Wickenburg,30,,,3712EH,Huis ter Heide,Zeist,Utrecht,STA,5.271482,52.120917
 Wickenburg,31,,,3712EH,Huis ter Heide,Zeist,Utrecht,STA,5.271501,52.121230
@@ -1038,6 +1079,7 @@ Beukbergenhof,3,,,3712EJ,Huis ter Heide,Zeist,Utrecht,STA,5.267958,52.119811
 Beukbergenhof,5,,,3712EJ,Huis ter Heide,Zeist,Utrecht,STA,5.267874,52.120043
 Beukbergenhof,7,,,3712EJ,Huis ter Heide,Zeist,Utrecht,STA,5.267745,52.120196
 Beukbergenhof,9,,,3712EJ,Huis ter Heide,Zeist,Utrecht,STA,5.267715,52.120318
+Beukbergenhof,11,,,3712EJ,Huis ter Heide,Zeist,Utrecht,STA,5.267725,52.120446
 Beukbergenhof,13,,,3712EJ,Huis ter Heide,Zeist,Utrecht,STA,5.267695,52.120607
 Beukbergenhof,15,,,3712EJ,Huis ter Heide,Zeist,Utrecht,STA,5.267775,52.120742
 Beukbergenhof,17,,,3712EJ,Huis ter Heide,Zeist,Utrecht,STA,5.267995,52.120808
@@ -1204,14 +1246,23 @@ Kometenlaan,112,,,3712XB,Huis ter Heide,Zeist,Utrecht,VBO,5.278961,52.114598
 Kometenlaan,114,,,3712XB,Huis ter Heide,Zeist,Utrecht,VBO,5.279090,52.114630
 Kometenlaan,116,,,3712XB,Huis ter Heide,Zeist,Utrecht,VBO,5.279225,52.114658
 Kometenlaan,118,,,3712XB,Huis ter Heide,Zeist,Utrecht,VBO,5.279386,52.114696
+Evenaar,1,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.274556,52.113796
 Evenaar,2,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.272991,52.113170
+Evenaar,3,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.274628,52.113814
 Evenaar,4,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273073,52.113182
+Evenaar,5,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.274693,52.113834
 Evenaar,6,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273158,52.113190
+Evenaar,7,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.274767,52.113857
 Evenaar,8,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273219,52.113213
+Evenaar,9,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.274841,52.113877
 Evenaar,10,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273294,52.113229
+Evenaar,11,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.274911,52.113892
 Evenaar,12,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273378,52.113249
+Evenaar,13,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.274984,52.113916
 Evenaar,14,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273489,52.113276
+Evenaar,15,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.275061,52.113932
 Evenaar,16,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273563,52.113295
+Evenaar,17,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.275133,52.113950
 Evenaar,18,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273632,52.113317
 Evenaar,20,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273707,52.113334
 Evenaar,22,,,3712XD,Huis ter Heide,Zeist,Utrecht,VBO,5.273776,52.113360
@@ -1362,6 +1413,24 @@ Orionplein,102,,,3712XL,Huis ter Heide,Zeist,Utrecht,VBO,5.272675,52.114570
 Orionplein,104,,,3712XL,Huis ter Heide,Zeist,Utrecht,VBO,5.273012,52.114606
 Orionplein,106,,,3712XL,Huis ter Heide,Zeist,Utrecht,VBO,5.273004,52.114643
 Orionplein,132,,,3712XL,Huis ter Heide,Zeist,Utrecht,VBO,5.273507,52.114099
+Mercuriushof,2,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274297,52.114158
+Mercuriushof,4,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274378,52.114173
+Mercuriushof,6,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274452,52.114191
+Mercuriushof,8,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274517,52.114214
+Mercuriushof,10,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274586,52.114231
+Mercuriushof,12,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274659,52.114255
+Mercuriushof,14,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274732,52.114274
+Mercuriushof,16,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274802,52.114292
+Mercuriushof,18,,,3712XM,Huis ter Heide,Zeist,Utrecht,VBO,5.274875,52.114314
+Marshof,2,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.274768,52.113484
+Marshof,4,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.274847,52.113501
+Marshof,6,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.274916,52.113517
+Marshof,8,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.274989,52.113537
+Marshof,10,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.275062,52.113558
+Marshof,12,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.275134,52.113577
+Marshof,14,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.275205,52.113595
+Marshof,16,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.275274,52.113613
+Marshof,18,,,3712XN,Huis ter Heide,Zeist,Utrecht,VBO,5.275349,52.113632
 Jupiterhof,1,,,3712XP,Huis ter Heide,Zeist,Utrecht,VBO,5.275023,52.113124
 Jupiterhof,2,,,3712XP,Huis ter Heide,Zeist,Utrecht,VBO,5.275221,52.112841
 Jupiterhof,3,,,3712XP,Huis ter Heide,Zeist,Utrecht,VBO,5.275102,52.113144
@@ -1453,17 +1522,17 @@ Planetenlaan,82,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274142,52.113187
 Planetenlaan,84,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274186,52.113132
 Planetenlaan,86,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274229,52.113081
 Planetenlaan,88,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274544,52.112848
-Planetenlaan,90,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274589,52.112788
-Planetenlaan,92,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274635,52.112728
-Planetenlaan,94,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274694,52.112636
-Planetenlaan,96,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274739,52.112571
-Planetenlaan,98,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274785,52.112513
+Planetenlaan,90,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274587,52.112773
+Planetenlaan,92,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274639,52.112715
+Planetenlaan,94,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274679,52.112624
+Planetenlaan,96,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274735,52.112556
+Planetenlaan,98,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274760,52.112514
 Planetenlaan,100,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274473,52.112829
-Planetenlaan,102,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274517,52.112770
-Planetenlaan,104,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274561,52.112708
-Planetenlaan,106,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274622,52.112618
-Planetenlaan,108,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274670,52.112554
-Planetenlaan,110,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274709,52.112492
+Planetenlaan,102,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274525,52.112753
+Planetenlaan,104,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274566,52.112695
+Planetenlaan,106,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274601,52.112620
+Planetenlaan,108,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274660,52.112543
+Planetenlaan,110,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274684,52.112492
 Planetenlaan,114,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.275087,52.111719
 Planetenlaan,116,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274869,52.111965
 Planetenlaan,118,,,3712XS,Huis ter Heide,Zeist,Utrecht,VBO,5.274618,52.111909
@@ -1490,8 +1559,8 @@ Uranushof,20,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273738,52.112660
 Uranushof,22,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273766,52.112612
 Uranushof,24,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273677,52.112572
 Uranushof,26,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273564,52.112540
-Uranushof,28,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273428,52.112589
-Uranushof,30,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273336,52.112795
+Uranushof,28,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273487,52.112611
+Uranushof,30,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273258,52.112787
 Uranushof,32,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273282,52.112884
 Uranushof,34,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273406,52.112916
 Uranushof,36,,,3712XV,Huis ter Heide,Zeist,Utrecht,VBO,5.273552,52.112926

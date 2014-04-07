@@ -15,7 +15,8 @@ Dordseweg,49,,,7765AA,Weiteveen,Emmen,Drenthe,VBO,6.973100,52.670858
 Dordseweg,51,,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973240,52.671045
 Dordseweg,53,,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973349,52.671196
 Dordseweg,55,,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973518,52.671374
-Dordseweg,57,,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973510,52.671563
+Dordseweg,57,A,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973586,52.671578
+Dordseweg,57,,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973601,52.671494
 Dordseweg,59,A,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973738,52.671748
 Dordseweg,59,,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973707,52.671695
 Dordseweg,61,,,7765AB,Weiteveen,Emmen,Drenthe,VBO,6.973774,52.671910
@@ -85,7 +86,6 @@ Bargerweg,21,,,7765AE,Weiteveen,Emmen,Drenthe,VBO,6.963471,52.669129
 Bargerweg,23,,,7765AE,Weiteveen,Emmen,Drenthe,VBO,6.966289,52.672243
 Bargerweg,25,,,7765AE,Weiteveen,Emmen,Drenthe,VBO,6.966138,52.672155
 Bargerweg,31,,BIJ,7765AE,Weiteveen,Emmen,Drenthe,VBO,6.962843,52.671821
-Bargerweg,31,,TR,7765AE,Weiteveen,Emmen,Drenthe,VBO,6.963459,52.672487
 Bargerweg,31,,,7765AE,Weiteveen,Emmen,Drenthe,VBO,6.963231,52.672310
 Bargerweg,33,,,7765AE,Weiteveen,Emmen,Drenthe,VBO,6.962788,52.672343
 Bargerweg,35,,,7765AE,Weiteveen,Emmen,Drenthe,VBO,6.962328,52.672295
@@ -144,7 +144,7 @@ Zuidersloot,89,,,7765AG,Weiteveen,Emmen,Drenthe,VBO,7.001557,52.671077
 Zuidersloot,91,,,7765AG,Weiteveen,Emmen,Drenthe,VBO,7.001838,52.671073
 Zuidersloot,93,,,7765AG,Weiteveen,Emmen,Drenthe,VBO,7.002088,52.671052
 Zuidersloot,95,,TR,7765AH,Weiteveen,Emmen,Drenthe,VBO,7.003430,52.670935
-Zuidersloot,95,,,7765AH,Weiteveen,Emmen,Drenthe,VBO,7.002369,52.671057
+Zuidersloot,95,,,7765AH,Weiteveen,Emmen,Drenthe,VBO,7.002366,52.671061
 Zuidersloot,125,,,7765AH,Weiteveen,Emmen,Drenthe,VBO,7.016231,52.670446
 Zuidersloot,127,,,7765AH,Weiteveen,Emmen,Drenthe,VBO,7.016807,52.670429
 Zuidersloot,131,,,7765AH,Weiteveen,Emmen,Drenthe,VBO,7.017693,52.670381
@@ -208,8 +208,8 @@ Zuidersloot,132,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.004671,52.670514
 Zuidersloot,134,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.005115,52.670535
 Zuidersloot,136,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.006218,52.670367
 Zuidersloot,138,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.006666,52.670495
-Zuidersloot,144,A,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.009937,52.670163
-Zuidersloot,144,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.009955,52.670271
+Zuidersloot,144,A,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.009936,52.670163
+Zuidersloot,144,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.009953,52.670272
 Zuidersloot,146,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.012008,52.670189
 Zuidersloot,148,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.012448,52.670093
 Zuidersloot,150,,,7765AM,Weiteveen,Emmen,Drenthe,VBO,7.013041,52.670148
@@ -289,8 +289,6 @@ Varenhof,16,,GB03,7765AT,Weiteveen,Emmen,Drenthe,VBO,6.979156,52.672710
 Varenhof,16,,GB04,7765AT,Weiteveen,Emmen,Drenthe,VBO,6.979185,52.672709
 Varenhof,16,,GB05,7765AT,Weiteveen,Emmen,Drenthe,VBO,6.979244,52.672708
 Varenhof,16,,,7765AT,Weiteveen,Emmen,Drenthe,VBO,6.979063,52.672603
-Zonnedauw,1,,,7765AV,Weiteveen,Emmen,Drenthe,VBO,6.975788,52.672413
-Zonnedauw,3,,,7765AV,Weiteveen,Emmen,Drenthe,VBO,6.975790,52.672467
 Zonnedauw,5,,,7765AV,Weiteveen,Emmen,Drenthe,VBO,6.975854,52.672601
 Zonnedauw,7,,,7765AV,Weiteveen,Emmen,Drenthe,VBO,6.975856,52.672664
 Zonnedauw,9,,,7765AV,Weiteveen,Emmen,Drenthe,VBO,6.975876,52.672807
@@ -487,13 +485,14 @@ De Scheperij,22,,,7765BM,Weiteveen,Emmen,Drenthe,VBO,6.998852,52.673523
 De Scheperij,24,,,7765BM,Weiteveen,Emmen,Drenthe,VBO,6.998763,52.673515
 De Scheperij,26,,,7765BM,Weiteveen,Emmen,Drenthe,VBO,6.998674,52.673516
 Kerkenweg,1,,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.993032,52.659535
+Kerkenweg,3,,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.993917,52.662056
 Kerkenweg,27,,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.996490,52.666364
 Kerkenweg,29,A,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.997083,52.666823
 Kerkenweg,29,B,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.997193,52.666993
 Kerkenweg,29,,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.996988,52.666654
 Kerkenweg,31,A,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.997374,52.667503
 Kerkenweg,31,B,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.997558,52.667662
-Kerkenweg,31,,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.997274,52.667279
+Kerkenweg,31,,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.997290,52.667284
 Kerkenweg,33,A,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.997799,52.668207
 Kerkenweg,33,,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.997684,52.667894
 Kerkenweg,35,A,,7765BN,Weiteveen,Emmen,Drenthe,VBO,6.998238,52.668866
@@ -529,7 +528,7 @@ Kerkenweg,34,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999049,52.669224
 Kerkenweg,36,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999067,52.669295
 Kerkenweg,38,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999130,52.669402
 Kerkenweg,40,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999176,52.669456
-Kerkenweg,42,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999285,52.669616
+Kerkenweg,42,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999265,52.669626
 Kerkenweg,44,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999365,52.669786
 Kerkenweg,46,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999460,52.669946
 Kerkenweg,48,,,7765BP,Weiteveen,Emmen,Drenthe,VBO,6.999541,52.670134
@@ -597,6 +596,7 @@ Sportlaan,2,,,7765BW,Weiteveen,Emmen,Drenthe,VBO,6.994119,52.672697
 Ambachtsweg,1,,,7765BX,Weiteveen,Emmen,Drenthe,VBO,6.994507,52.673995
 Ambachtsweg,2,,,7765BX,Weiteveen,Emmen,Drenthe,VBO,6.994503,52.674292
 Ambachtsweg,11,,,7765BX,Weiteveen,Emmen,Drenthe,VBO,6.991510,52.673712
+Ambachtsweg,13,,,7765BX,Weiteveen,Emmen,Drenthe,VBO,6.991468,52.673445
 Ambachtsweg,14,,,7765BX,Weiteveen,Emmen,Drenthe,VBO,6.992126,52.674405
 Lavendelheide,2,,,7765BZ,Weiteveen,Emmen,Drenthe,VBO,6.975294,52.674298
 Lavendelheide,3,,,7765BZ,Weiteveen,Emmen,Drenthe,VBO,6.975245,52.674578

@@ -1,5 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Utrechtseweg,87,,,6812AA,Arnhem,Arnhem,Gelderland,VBO,5.892200,51.985491
+Utrechtseweg,89,,,6812AA,Arnhem,Arnhem,Gelderland,VBO,5.892200,51.985491
 Utrechtseweg,99,,,6812AA,Arnhem,Arnhem,Gelderland,VBO,5.889608,51.985066
 Utrechtseweg,121,,,6812AA,Arnhem,Arnhem,Gelderland,VBO,5.883063,51.983589
 Utrechtseweg,123,A,,6812AA,Arnhem,Arnhem,Gelderland,VBO,5.882863,51.983537
@@ -398,7 +399,7 @@ Utrechtseweg,310,,B52,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.876015,51.986311
 Utrechtseweg,310,,B54,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.875375,51.985728
 Utrechtseweg,310,,H01,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.867802,51.982641
 Utrechtseweg,310,,M01,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.866333,51.986299
-Utrechtseweg,310,,M05,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.869146,51.986681
+Utrechtseweg,310,,M05,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.868197,51.986441
 Utrechtseweg,310,,R10,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.869046,51.979610
 Utrechtseweg,310,,R11,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.870026,51.979670
 Utrechtseweg,310,,R12,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.870373,51.979320
@@ -407,6 +408,7 @@ Utrechtseweg,310,,R32,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.872337,51.979459
 Utrechtseweg,310,,R42,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.872409,51.980705
 Utrechtseweg,310,,R43,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.870559,51.980486
 Utrechtseweg,310,,R44,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.871458,51.980531
+Utrechtseweg,310,,,6812AR,Arnhem,Arnhem,Gelderland,VBO,5.869536,51.983802
 Bovenover,1,,,6812AT,Arnhem,Arnhem,Gelderland,VBO,5.888300,51.985306
 Bovenover,3,,,6812AT,Arnhem,Arnhem,Gelderland,VBO,5.887882,51.985310
 Bovenover,5,,,6812AT,Arnhem,Arnhem,Gelderland,VBO,5.887774,51.985313
@@ -660,7 +662,8 @@ Alexanderstraat,102,,,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880718,51.984651
 Alexanderstraat,104,,,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880764,51.984653
 Alexanderstraat,106,,,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880810,51.984655
 Alexanderstraat,108,,,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880857,51.984656
-Alexanderstraat,110,,,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880903,51.984658
+Alexanderstraat,110,,1,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880907,51.984655
+Alexanderstraat,110,,2,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880909,51.984642
 Alexanderstraat,112,,,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880949,51.984660
 Alexanderstraat,114,,,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.880995,51.984661
 Alexanderstraat,116,,,6812BJ,Arnhem,Arnhem,Gelderland,VBO,5.881042,51.984663
@@ -1005,6 +1008,7 @@ Nassaustraat,14,,,6812CD,Arnhem,Arnhem,Gelderland,VBO,5.882712,51.985412
 Nassaustraat,16,,,6812CD,Arnhem,Arnhem,Gelderland,VBO,5.882626,51.985413
 Nassaustraat,18,,,6812CD,Arnhem,Arnhem,Gelderland,VBO,5.882541,51.985415
 Nassaustraat,20,,,6812CD,Arnhem,Arnhem,Gelderland,VBO,5.882455,51.985416
+Onderlangs,1,A,,6812CE,Arnhem,Arnhem,Gelderland,VBO,5.897684,51.982976
 Onderlangs,1,,,6812CE,Arnhem,Arnhem,Gelderland,VBO,5.897684,51.982976
 Onderlangs,3,,1,6812CE,Arnhem,Arnhem,Gelderland,VBO,5.897538,51.983030
 Onderlangs,3,,2,6812CE,Arnhem,Arnhem,Gelderland,VBO,5.897551,51.983042
@@ -1109,7 +1113,9 @@ Oranjestraat,87,,,6812CM,Arnhem,Arnhem,Gelderland,VBO,5.881866,51.984935
 Oranjestraat,89,,,6812CM,Arnhem,Arnhem,Gelderland,VBO,5.881865,51.984908
 Oranjestraat,91,,,6812CM,Arnhem,Arnhem,Gelderland,VBO,5.881864,51.984880
 Oranjestraat,93,,,6812CN,Arnhem,Arnhem,Gelderland,VBO,5.881738,51.984625
+Oranjestraat,95,,,6812CN,Arnhem,Arnhem,Gelderland,VBO,5.881738,51.984625
 Oranjestraat,97,,,6812CN,Arnhem,Arnhem,Gelderland,VBO,5.881743,51.984487
+Oranjestraat,99,,,6812CN,Arnhem,Arnhem,Gelderland,VBO,5.881743,51.984487
 Oranjestraat,101,,,6812CN,Arnhem,Arnhem,Gelderland,VBO,5.881734,51.984422
 Oranjestraat,103,,,6812CN,Arnhem,Arnhem,Gelderland,VBO,5.881733,51.984396
 Oranjestraat,105,,,6812CN,Arnhem,Arnhem,Gelderland,VBO,5.881732,51.984371
@@ -1211,7 +1217,9 @@ Wilhelminastraat,85,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879864,51.984216
 Wilhelminastraat,87,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879863,51.984186
 Wilhelminastraat,89,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879861,51.984156
 Wilhelminastraat,91,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879860,51.984127
+Wilhelminastraat,93,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879860,51.984127
 Wilhelminastraat,95,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879855,51.984055
+Wilhelminastraat,97,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879855,51.984055
 Wilhelminastraat,99,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879853,51.983995
 Wilhelminastraat,101,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879882,51.983994
 Wilhelminastraat,103,,,6812CV,Arnhem,Arnhem,Gelderland,VBO,5.879850,51.983936
@@ -1295,6 +1303,7 @@ Hulkesteinseweg,16,A,,6812DC,Arnhem,Arnhem,Gelderland,VBO,5.877855,51.982550
 Hulkesteinseweg,16,,,6812DC,Arnhem,Arnhem,Gelderland,VBO,5.877929,51.982566
 Hulkesteinseweg,18,,,6812DC,Arnhem,Arnhem,Gelderland,VBO,5.877548,51.982464
 Hulkesteinseweg,20,,,6812DC,Arnhem,Arnhem,Gelderland,VBO,5.877374,51.982429
+Klingelbeekseweg,1,,,6812DD,Arnhem,Arnhem,Gelderland,VBO,5.877173,51.983168
 Klingelbeekseweg,3,,,6812DD,Arnhem,Arnhem,Gelderland,VBO,5.877126,51.982986
 Klingelbeekseweg,7,,,6812DD,Arnhem,Arnhem,Gelderland,VBO,5.877071,51.982828
 Klingelbeekseweg,9,,,6812DD,Arnhem,Arnhem,Gelderland,VBO,5.877057,51.982758
@@ -1369,6 +1378,7 @@ Klingelbeekseweg,29,,,6812DE,Arnhem,Arnhem,Gelderland,VBO,5.873667,51.981379
 Klingelbeekseweg,31,,,6812DE,Arnhem,Arnhem,Gelderland,LIG,5.875388,51.979897
 Klingelbeekseweg,33,,,6812DE,Arnhem,Arnhem,Gelderland,LIG,5.874846,51.979978
 Klingelbeekseweg,35,,,6812DE,Arnhem,Arnhem,Gelderland,LIG,5.874327,51.980214
+Klingelbeekseweg,41,,,6812DE,Arnhem,Arnhem,Gelderland,VBO,5.873306,51.979871
 Klingelbeekseweg,45,,,6812DE,Arnhem,Arnhem,Gelderland,VBO,5.872899,51.981068
 Klingelbeekseweg,47,,,6812DE,Arnhem,Arnhem,Gelderland,VBO,5.871497,51.980996
 Klingelbeekseweg,49,,,6812DE,Arnhem,Arnhem,Gelderland,VBO,5.871414,51.980986
@@ -1581,3 +1591,41 @@ Hoogstedehof,18,,,6812DT,Arnhem,Arnhem,Gelderland,VBO,5.874875,51.982271
 Hoogstedehof,19,,,6812DT,Arnhem,Arnhem,Gelderland,VBO,5.874800,51.982397
 Hoogstedehof,20,,,6812DT,Arnhem,Arnhem,Gelderland,VBO,5.874820,51.982261
 Hoogstedehof,21,,,6812DT,Arnhem,Arnhem,Gelderland,VBO,5.874745,51.982390
+Het Maisveld,1,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869131,51.981926
+Het Maisveld,3,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868867,51.982173
+Het Maisveld,5,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869015,51.982156
+Het Maisveld,7,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869162,51.982146
+Het Maisveld,9,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869153,51.982055
+Het Maisveld,11,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869133,51.981947
+Het Maisveld,13,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868997,51.981959
+Het Maisveld,15,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868837,51.981977
+Het Maisveld,17,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868838,51.982079
+Het Maisveld,19,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868861,51.982156
+Het Maisveld,21,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869008,51.982140
+Het Maisveld,23,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869159,51.982126
+Het Maisveld,25,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869115,51.982059
+Het Maisveld,27,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869137,51.981966
+Het Maisveld,29,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868996,51.981979
+Het Maisveld,31,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868866,51.981974
+Het Maisveld,33,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868874,51.982077
+Het Maisveld,35,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868860,51.982139
+Het Maisveld,37,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869006,51.982122
+Het Maisveld,39,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869160,51.982106
+Het Maisveld,41,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869073,51.982064
+Het Maisveld,43,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.869142,51.981992
+Het Maisveld,45,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868998,51.982001
+Het Maisveld,47,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868868,51.982002
+Het Maisveld,49,,,6812DV,Arnhem,Arnhem,Gelderland,VBO,5.868910,51.982076
+Het Maisveld,85,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.871482,51.982004
+Het Maisveld,87,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.871578,51.982008
+Het Maisveld,89,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.871745,51.982055
+Het Maisveld,91,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.871840,51.982074
+Het Maisveld,93,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.872019,51.982076
+Het Maisveld,95,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.872192,51.982097
+Het Maisveld,97,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.872418,51.982128
+Het Maisveld,99,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.872531,51.982110
+Het Maisveld,101,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.872799,51.982128
+Het Maisveld,103,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.872930,51.982134
+Het Maisveld,105,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.873141,51.982141
+Het Maisveld,107,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.873252,51.982137
+Het Maisveld,109,,,6812DW,Arnhem,Arnhem,Gelderland,VBO,5.873502,51.982121

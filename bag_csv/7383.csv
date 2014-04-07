@@ -171,12 +171,6 @@ Rijksstraatweg,24,A,,7383AR,Voorst,Voorst,Gelderland,VBO,6.135325,52.183206
 Rijksstraatweg,24,B,,7383AR,Voorst,Voorst,Gelderland,VBO,6.135161,52.183184
 Rijksstraatweg,24,,,7383AR,Voorst,Voorst,Gelderland,VBO,6.135244,52.183224
 Rijksstraatweg,26,,,7383AR,Voorst,Voorst,Gelderland,VBO,6.135009,52.183086
-de Beer,1,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
-de Beer,2,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
-de Beer,3,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
-de Beer,4,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
-de Beer,5,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
-de Beer,6,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
 Rijksstraatweg,32,A,,7383AS,Voorst,Voorst,Gelderland,VBO,6.139087,52.176904
 Rijksstraatweg,32,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.139007,52.176891
 Rijksstraatweg,34,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.139807,52.176893
@@ -190,7 +184,7 @@ Rijksstraatweg,44,B,,7383AS,Voorst,Voorst,Gelderland,VBO,6.140405,52.175421
 Rijksstraatweg,44,C,,7383AS,Voorst,Voorst,Gelderland,VBO,6.140026,52.175314
 Rijksstraatweg,44,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.140303,52.175421
 Rijksstraatweg,46,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.140578,52.175110
-Rijksstraatweg,48,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.140477,52.174754
+Rijksstraatweg,48,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.140208,52.174728
 Rijksstraatweg,52,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.140833,52.174687
 Rijksstraatweg,54,A,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141004,52.174496
 Rijksstraatweg,54,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.140917,52.174479
@@ -199,6 +193,12 @@ Rijksstraatweg,56,B,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141063,52.174116
 Rijksstraatweg,56,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141080,52.174275
 Rijksstraatweg,60,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141181,52.173757
 Rijksstraatweg,62,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141088,52.173592
+de Beer,1,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
+de Beer,2,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
+de Beer,3,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
+de Beer,4,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
+de Beer,5,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
+de Beer,6,,,7383AS,Voorst,Voorst,Gelderland,VBO,6.141206,52.173487
 Rijksstraatweg,66,A,,7383AT,Voorst,Voorst,Gelderland,VBO,6.141411,52.173106
 Rijksstraatweg,66,,,7383AT,Voorst,Voorst,Gelderland,VBO,6.141397,52.173158
 Rijksstraatweg,68,,,7383AT,Voorst,Voorst,Gelderland,VBO,6.141300,52.172994
@@ -663,6 +663,8 @@ Klarenbeekseweg,20,,,7383EB,Voorst,Voorst,Gelderland,VBO,6.136879,52.173661
 Klarenbeekseweg,21,,,7383EB,Voorst,Voorst,Gelderland,VBO,6.137896,52.173073
 Klarenbeekseweg,24,,,7383EB,Voorst,Voorst,Gelderland,VBO,6.136431,52.173655
 Klarenbeekseweg,29,A,,7383EB,Voorst,Voorst,Gelderland,VBO,6.133594,52.173498
+Klarenbeekseweg,29,B,,7383EB,Voorst,Voorst,Gelderland,VBO,6.133018,52.173348
+Klarenbeekseweg,29,C,,7383EB,Voorst,Voorst,Gelderland,VBO,6.133087,52.173105
 Klarenbeekseweg,29,,,7383EB,Voorst,Voorst,Gelderland,VBO,6.133608,52.173444
 Klarenbeekseweg,30,,,7383EB,Voorst,Voorst,Gelderland,VBO,6.133499,52.174309
 Klarenbeekseweg,31,,,7383EB,Voorst,Voorst,Gelderland,VBO,6.130669,52.171222
@@ -685,94 +687,99 @@ Watergatstraat,7,A,,7383ED,Voorst,Voorst,Gelderland,VBO,6.114849,52.175998
 Watergatstraat,7,,,7383ED,Voorst,Voorst,Gelderland,VBO,6.114568,52.175995
 Watergatstraat,8,,,7383ED,Voorst,Voorst,Gelderland,VBO,6.106076,52.175324
 Watergatstraat,10,,,7383ED,Voorst,Voorst,Gelderland,VBO,6.107818,52.173881
-de Nieuwenhof A,1,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136966,52.183475
-de Nieuwenhof A,2,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136974,52.183454
-de Nieuwenhof A,3,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137010,52.183439
-de Nieuwenhof A,4,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136977,52.183425
-de Nieuwenhof A,5,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136980,52.183398
-de Nieuwenhof A,6,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136987,52.183370
-de Nieuwenhof A,7,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137014,52.183351
-de Nieuwenhof A,8,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136971,52.183339
+de Nieuwenhof,308,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137350,52.182841
+de Nieuwenhof,310,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137483,52.182729
+de Nieuwenhof,312,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137563,52.182674
+de Nieuwenhof,314,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137655,52.182627
+de Nieuwenhof,316,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137756,52.182585
+de Nieuwenhof,318,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137289,52.182832
+de Nieuwenhof,320,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137407,52.182790
+de Nieuwenhof,322,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137506,52.182742
+de Nieuwenhof,324,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137589,52.182693
+de Nieuwenhof,326,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137678,52.182648
+de Nieuwenhof,328,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137781,52.182597
+de Nieuwenhof,330,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137321,52.182856
+de Nieuwenhof,332,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137435,52.182808
+de Nieuwenhof,334,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137528,52.182757
+de Nieuwenhof,336,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137612,52.182708
+de Nieuwenhof,338,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137700,52.182665
+de Nieuwenhof,340,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137808,52.182615
+de Nieuwenhof,342,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137349,52.182877
+de Nieuwenhof,344,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137458,52.182823
+de Nieuwenhof,346,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137553,52.182772
+de Nieuwenhof,348,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137632,52.182725
+de Nieuwenhof,350,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137728,52.182678
+de Nieuwenhof,352,,,7383ET,Voorst,Voorst,Gelderland,VBO,6.137828,52.182627
+de Nieuwenhof A,1,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137120,52.183619
+de Nieuwenhof A,2,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136992,52.183087
+de Nieuwenhof A,3,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136981,52.183166
+de Nieuwenhof A,4,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136973,52.183232
+de Nieuwenhof A,5,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136965,52.183296
+de Nieuwenhof A,6,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136950,52.183370
+de Nieuwenhof A,7,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136950,52.183444
+de Nieuwenhof A,8,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136932,52.183516
 de Nieuwenhof A,9,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136987,52.183317
-de Nieuwenhof A,10,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.136994,52.183290
-de Nieuwenhof A,11,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137100,52.183617
-de Nieuwenhof A,12,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137103,52.183592
-de Nieuwenhof A,13,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137107,52.183560
-de Nieuwenhof A,14,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137102,52.183528
-de Nieuwenhof A,15,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137105,52.183493
-de Nieuwenhof A,16,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137109,52.183466
-de Nieuwenhof A,17,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137116,52.183441
-de Nieuwenhof A,18,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137112,52.183412
-de Nieuwenhof A,20,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137123,52.183383
-de Nieuwenhof A,21,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137115,52.183356
-de Nieuwenhof A,22,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137118,52.183324
-de Nieuwenhof A,23,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137110,52.183292
-de Nieuwenhof A,24,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137121,52.183262
-de Nieuwenhof A,25,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137116,52.183236
-de Nieuwenhof B,1,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137053,52.183149
-de Nieuwenhof B,2,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137064,52.183132
-de Nieuwenhof B,3,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137047,52.183191
-de Nieuwenhof B,4,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137022,52.183104
-de Nieuwenhof B,5,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137065,52.183110
-de Nieuwenhof B,6,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137064,52.183082
-de Nieuwenhof B,7,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137063,52.183054
-de Nieuwenhof B,8,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137099,52.183132
-de Nieuwenhof B,9,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137103,52.183106
-de Nieuwenhof B,10,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137103,52.183083
-de Nieuwenhof B,11,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137113,52.183046
-de Nieuwenhof B,12,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137125,52.183026
-de Nieuwenhof B,13,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137128,52.182997
-de Nieuwenhof B,14,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137147,52.182974
-de Nieuwenhof B,15,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137194,52.182965
-de Nieuwenhof B,16,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137118,52.182949
-de Nieuwenhof B,17,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137240,52.182973
-de Nieuwenhof B,18,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137201,52.182998
-de Nieuwenhof B,19,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137182,52.183029
-de Nieuwenhof B,20,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137167,52.183060
-de Nieuwenhof B,21,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137168,52.183086
-de Nieuwenhof B,22,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137161,52.183120
-de Nieuwenhof B,23,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137136,52.183102
-de Nieuwenhof B,24,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137154,52.183147
-de Nieuwenhof B,25,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137143,52.183171
-de Nieuwenhof C,1,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137173,52.182935
-de Nieuwenhof C,2,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137200,52.182918
-de Nieuwenhof C,5,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137230,52.182901
-de Nieuwenhof C,6,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137250,52.182885
-de Nieuwenhof C,7,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137284,52.182872
-de Nieuwenhof C,9,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137311,52.182859
-de Nieuwenhof C,10,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137345,52.182846
-de Nieuwenhof C,12,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137364,52.182831
-de Nieuwenhof C,13,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137395,52.182816
-de Nieuwenhof C,15,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137418,52.182798
-de Nieuwenhof C,16,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137452,52.182783
-de Nieuwenhof C,17,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137488,52.182806
-de Nieuwenhof C,18,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137485,52.182764
-de Nieuwenhof C,19,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137453,52.182821
-de Nieuwenhof C,20,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137438,52.182841
-de Nieuwenhof C,21,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137404,52.182858
-de Nieuwenhof C,22,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137377,52.182872
-de Nieuwenhof C,23,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137346,52.182886
-de Nieuwenhof C,24,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137316,52.182899
-de Nieuwenhof C,25,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137277,52.182913
-de Nieuwenhof D,1,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137755,52.182606
-de Nieuwenhof D,2,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137743,52.182621
-de Nieuwenhof D,3,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137708,52.182630
-de Nieuwenhof D,4,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137685,52.182647
-de Nieuwenhof D,5,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137659,52.182662
-de Nieuwenhof D,6,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137624,52.182675
-de Nieuwenhof D,7,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137597,52.182697
-de Nieuwenhof D,8,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137563,52.182714
-de Nieuwenhof D,9,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137540,52.182728
-de Nieuwenhof D,10,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137518,52.182744
-de Nieuwenhof D,11,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137560,52.182773
-de Nieuwenhof D,12,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137583,52.182763
-de Nieuwenhof D,13,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137602,52.182744
-de Nieuwenhof D,14,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137629,52.182725
-de Nieuwenhof D,15,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137660,52.182713
-de Nieuwenhof D,16,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137705,52.182689
-de Nieuwenhof D,17,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137740,52.182675
-de Nieuwenhof D,18,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137767,52.182659
-de Nieuwenhof D,19,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137797,52.182641
+de Nieuwenhof A,10,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137125,52.183609
+de Nieuwenhof A,11,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137133,52.183529
+de Nieuwenhof A,12,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137143,52.183452
+de Nieuwenhof A,13,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137151,52.183379
+de Nieuwenhof A,14,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137155,52.183298
+de Nieuwenhof A,15,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137169,52.183236
+de Nieuwenhof A,16,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137184,52.183169
+de Nieuwenhof A,17,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137200,52.183089
+de Nieuwenhof A,18,,,7383EV,Voorst,Voorst,Gelderland,VBO,6.137200,52.183031
+de Nieuwenhof B,1,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137034,52.183017
+de Nieuwenhof B,2,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137015,52.183088
+de Nieuwenhof B,3,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137004,52.183166
+de Nieuwenhof B,4,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.136996,52.183233
+de Nieuwenhof B,5,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.136986,52.183296
+de Nieuwenhof B,6,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.136973,52.183370
+de Nieuwenhof B,7,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.136970,52.183444
+de Nieuwenhof B,8,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.136956,52.183516
+de Nieuwenhof B,9,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.136948,52.183603
+de Nieuwenhof B,10,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137095,52.183609
+de Nieuwenhof B,11,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137102,52.183530
+de Nieuwenhof B,12,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137111,52.183451
+de Nieuwenhof B,13,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137126,52.183376
+de Nieuwenhof B,14,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137128,52.183297
+de Nieuwenhof B,15,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137143,52.183234
+de Nieuwenhof B,16,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137157,52.183168
+de Nieuwenhof B,17,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137168,52.183086
+de Nieuwenhof B,18,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137188,52.183043
+de Nieuwenhof B,19,,,7383EW,Voorst,Voorst,Gelderland,VBO,6.137108,52.182968
+de Nieuwenhof C,1,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137030,52.183002
+de Nieuwenhof C,2,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137014,52.183070
+de Nieuwenhof C,5,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.136987,52.183282
+de Nieuwenhof C,6,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.136975,52.183353
+de Nieuwenhof C,7,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.136972,52.183428
+de Nieuwenhof C,9,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.136947,52.183585
+de Nieuwenhof C,10,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137091,52.183595
+de Nieuwenhof C,12,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137118,52.183432
+de Nieuwenhof C,13,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137128,52.183357
+de Nieuwenhof C,15,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137154,52.183220
+de Nieuwenhof C,16,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137158,52.183154
+de Nieuwenhof C,17,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137180,52.183072
+de Nieuwenhof C,18,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137173,52.183023
+de Nieuwenhof C,19,,,7383EX,Voorst,Voorst,Gelderland,VBO,6.137154,52.182964
+de Nieuwenhof D,1,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137061,52.183001
+de Nieuwenhof D,2,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137047,52.183070
+de Nieuwenhof D,3,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137024,52.183151
+de Nieuwenhof D,4,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137010,52.183219
+de Nieuwenhof D,5,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137013,52.183281
+de Nieuwenhof D,6,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137001,52.183352
+de Nieuwenhof D,7,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.136998,52.183427
+de Nieuwenhof D,8,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.136978,52.183501
+de Nieuwenhof D,9,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.136971,52.183585
+de Nieuwenhof D,10,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137128,52.183589
+de Nieuwenhof D,11,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137133,52.183513
+de Nieuwenhof D,12,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137151,52.183430
+de Nieuwenhof D,13,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137163,52.183357
+de Nieuwenhof D,14,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137171,52.183285
+de Nieuwenhof D,15,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137183,52.183218
+de Nieuwenhof D,16,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137190,52.183149
+de Nieuwenhof D,17,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137206,52.183073
+de Nieuwenhof D,18,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137201,52.183015
+de Nieuwenhof D,19,,,7383EZ,Voorst,Voorst,Gelderland,VBO,6.137205,52.182963
 Blekenbrinkweg,2,,,7383RA,Voorst,Voorst,Gelderland,VBO,6.117974,52.156058
 Breestraat,34,,,7383RA,Voorst,Voorst,Gelderland,VBO,6.113311,52.154244
 Breestraat,36,A,,7383RA,Voorst,Voorst,Gelderland,VBO,6.109368,52.153082
@@ -796,7 +803,7 @@ Breestraat,32,,,7383RC,Voorst,Voorst,Gelderland,VBO,6.118984,52.154972
 Leusvelderweg,2,,,7383RC,Voorst,Voorst,Gelderland,VBO,6.127733,52.157588
 Leusvelderweg,4,A,,7383RC,Voorst,Voorst,Gelderland,VBO,6.127813,52.157333
 Leusvelderweg,4,,,7383RC,Voorst,Voorst,Gelderland,VBO,6.127823,52.157237
-Leusvelderweg,6,,,7383RC,Voorst,Voorst,Gelderland,VBO,6.128125,52.157018
+Leusvelderweg,6,,,7383RC,Voorst,Voorst,Gelderland,VBO,6.128006,52.156867
 Diederikweg,1,,,7383RD,Voorst,Voorst,Gelderland,VBO,6.098675,52.152381
 Diederikweg,3,,,7383RD,Voorst,Voorst,Gelderland,VBO,6.099099,52.151852
 Diederikweg,4,A,,7383RD,Voorst,Voorst,Gelderland,VBO,6.097795,52.152274
@@ -831,7 +838,8 @@ Gravenstraat,12,,,7383RH,Voorst,Voorst,Gelderland,VBO,6.114935,52.165649
 Gravenstraat,13,,,7383RH,Voorst,Voorst,Gelderland,VBO,6.111929,52.162043
 Gravenstraat,14,,,7383RH,Voorst,Voorst,Gelderland,VBO,6.115650,52.163004
 Gravenstraat,17,,,7383RH,Voorst,Voorst,Gelderland,VBO,6.106936,52.161375
-Kafoepstraat,1,,,7383RH,Voorst,Voorst,Gelderland,VBO,6.102650,52.161403
+Kafoepstraat,1,A,,7383RH,Voorst,Voorst,Gelderland,VBO,6.102593,52.161449
+Kafoepstraat,1,,,7383RH,Voorst,Voorst,Gelderland,VBO,6.102696,52.161363
 Kafoepstraat,3,,,7383RH,Voorst,Voorst,Gelderland,VBO,6.104236,52.162233
 Kafoepstraat,5,,,7383RH,Voorst,Voorst,Gelderland,VBO,6.104390,52.162275
 Gravenstraat,19,A,,7383RJ,Voorst,Voorst,Gelderland,VBO,6.104766,52.159147
@@ -847,7 +855,7 @@ Hengelderweg,8,A,,7383RJ,Voorst,Voorst,Gelderland,VBO,6.112947,52.157304
 Hengelderweg,8,,,7383RJ,Voorst,Voorst,Gelderland,VBO,6.112909,52.157384
 Hengelderweg,9,,,7383RJ,Voorst,Voorst,Gelderland,VBO,6.108596,52.155560
 Gravenstraat,26,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.098451,52.153692
-Gravenstraat,27,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.093595,52.151649
+Gravenstraat,27,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.093670,52.151646
 Gravenstraat,28,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.096144,52.153658
 Gravenstraat,30,A,,7383RK,Voorst,Voorst,Gelderland,VBO,6.095057,52.153784
 Gravenstraat,30,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.096160,52.153728
@@ -856,7 +864,7 @@ Gravenstraat,32,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.090674,52.152558
 Kruisbosweg,2,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.096356,52.155496
 Kruisbosweg,4,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.095424,52.157618
 Kruisbosweg,5,,,7383RK,Voorst,Voorst,Gelderland,VBO,6.091364,52.160361
-Haanstraat,4,,,7383RM,Voorst,Voorst,Gelderland,VBO,6.122495,52.192597
+Haanstraat,4,,,7383RM,Voorst,Voorst,Gelderland,VBO,6.122445,52.192621
 Haanstraat,6,,,7383RM,Voorst,Voorst,Gelderland,VBO,6.119377,52.195208
 Haanstraat,7,,,7383RM,Voorst,Voorst,Gelderland,VBO,6.118794,52.190471
 Zandwal,5,,,7383RM,Voorst,Voorst,Gelderland,VBO,6.116126,52.191230

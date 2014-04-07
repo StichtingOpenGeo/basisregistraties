@@ -1,4 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
+Nijverheidsweg,1,D,,1785AA,Den Helder,Den Helder,Noord-Holland,VBO,4.770148,52.946387
 Nijverheidsweg,2,A,,1785AA,Den Helder,Den Helder,Noord-Holland,VBO,4.769382,52.946534
 Nijverheidsweg,2,B,,1785AA,Den Helder,Den Helder,Noord-Holland,VBO,4.769668,52.946568
 Nijverheidsweg,2,C,,1785AA,Den Helder,Den Helder,Noord-Holland,VBO,4.769802,52.946584
@@ -38,7 +39,6 @@ Handelskade,10,,,1785AC,Den Helder,Den Helder,Noord-Holland,VBO,4.772318,52.9487
 Energieweg,1,A,,1785AD,Den Helder,Den Helder,Noord-Holland,VBO,4.771123,52.946050
 Energieweg,1,B,,1785AD,Den Helder,Den Helder,Noord-Holland,VBO,4.771179,52.945918
 Energieweg,1,,,1785AD,Den Helder,Den Helder,Noord-Holland,VBO,4.770872,52.946118
-Energieweg,2,A,,1785AD,Den Helder,Den Helder,Noord-Holland,VBO,4.770148,52.946387
 Energieweg,2,B,,1785AD,Den Helder,Den Helder,Noord-Holland,VBO,4.770388,52.945989
 Energieweg,2,C,,1785AD,Den Helder,Den Helder,Noord-Holland,VBO,4.770404,52.945943
 Energieweg,2,P,,1785AD,Den Helder,Den Helder,Noord-Holland,VBO,4.770510,52.945787
@@ -111,6 +111,7 @@ Industrieweg,12,,,1785AG,Den Helder,Den Helder,Noord-Holland,VBO,4.774893,52.944
 Industrieweg,14,A,,1785AG,Den Helder,Den Helder,Noord-Holland,VBO,4.775223,52.944158
 Industrieweg,14,B,,1785AG,Den Helder,Den Helder,Noord-Holland,VBO,4.775286,52.943969
 Industrieweg,14,C,,1785AG,Den Helder,Den Helder,Noord-Holland,VBO,4.775390,52.943688
+Industrieweg,14,D,,1785AG,Den Helder,Den Helder,Noord-Holland,VBO,4.775404,52.943659
 Industrieweg,14,F,,1785AG,Den Helder,Den Helder,Noord-Holland,VBO,4.775724,52.943426
 Industrieweg,14,G,,1785AG,Den Helder,Den Helder,Noord-Holland,VBO,4.775737,52.944105
 Industrieweg,15,A,,1785AG,Den Helder,Den Helder,Noord-Holland,VBO,4.769431,52.944204
@@ -236,6 +237,8 @@ Ambachtsweg,12,,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.781055,52.9407
 Ambachtsweg,15,,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.781578,52.941772
 Ambachtsweg,17,,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.780717,52.942061
 Ambachtsweg,18,,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.781322,52.940353
+Ambachtsweg,19,A,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.780830,52.942414
+Ambachtsweg,19,B,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.781209,52.942411
 Ambachtsweg,20,,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.781526,52.940530
 Ambachtsweg,21,,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.781727,52.942297
 Ambachtsweg,22,,,1785AJ,Den Helder,Den Helder,Noord-Holland,VBO,4.781592,52.940713
@@ -3727,7 +3730,6 @@ Graaf Willem II straat,82,,,1785KG,Den Helder,Den Helder,Noord-Holland,VBO,4.763
 Graaf Willem II straat,84,,,1785KG,Den Helder,Den Helder,Noord-Holland,VBO,4.763628,52.939088
 Graaf Willem II straat,86,,,1785KG,Den Helder,Den Helder,Noord-Holland,VBO,4.763716,52.939104
 Graaf Willem II straat,88,,,1785KG,Den Helder,Den Helder,Noord-Holland,VBO,4.763805,52.939120
-Schootenweg,72,A,,1785KG,Den Helder,Den Helder,Noord-Holland,VBO,4.762102,52.941788
 Graaf Willem II straat,90,,,1785KH,Den Helder,Den Helder,Noord-Holland,VBO,4.764041,52.939168
 Graaf Willem II straat,92,,,1785KH,Den Helder,Den Helder,Noord-Holland,VBO,4.764069,52.939114
 Graaf Willem II straat,94,,,1785KH,Den Helder,Den Helder,Noord-Holland,VBO,4.764096,52.939061
@@ -5241,6 +5243,80 @@ Walvisvaardersweg,110,,,1785RG,Den Helder,Den Helder,Noord-Holland,VBO,4.770636,
 Walvisvaardersweg,112,,,1785RG,Den Helder,Den Helder,Noord-Holland,VBO,4.770604,52.937537
 Walvisvaardersweg,114,,,1785RG,Den Helder,Den Helder,Noord-Holland,VBO,4.770671,52.937562
 De Garst,1,,,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770352,52.937136
+De Garst,3,,A001,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770340,52.937745
+De Garst,3,,A002,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770375,52.937753
+De Garst,3,,A003,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770356,52.937726
+De Garst,3,,A004,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770388,52.937733
+De Garst,3,,A005,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770370,52.937708
+De Garst,3,,A006,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770400,52.937714
+De Garst,3,,A007,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770384,52.937692
+De Garst,3,,A008,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770412,52.937699
+De Garst,3,,A009,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770397,52.937677
+De Garst,3,,A010,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770423,52.937683
+De Garst,3,,A011,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770413,52.937662
+De Garst,3,,A012,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770435,52.937670
+De Garst,3,,A013,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770417,52.937639
+De Garst,3,,A014,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770440,52.937645
+De Garst,3,,A101,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770429,52.937624
+De Garst,3,,A102,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770449,52.937629
+De Garst,3,,A103,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770443,52.937610
+De Garst,3,,A104,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770464,52.937615
+De Garst,3,,A105,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770446,52.937581
+De Garst,3,,A106,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770475,52.937591
+De Garst,3,,A107,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770460,52.937566
+De Garst,3,,A108,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770487,52.937573
+De Garst,3,,A109,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770476,52.937547
+De Garst,3,,A110,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770499,52.937556
+De Garst,3,,A201,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770484,52.937527
+De Garst,3,,A202,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770512,52.937534
+De Garst,3,,A203,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770497,52.937507
+De Garst,3,,A204,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770527,52.937514
+De Garst,3,,A205,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770600,52.937749
+De Garst,3,,A206,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770636,52.937756
+De Garst,3,,A207,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770611,52.937733
+De Garst,3,,A208,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770645,52.937741
+De Garst,3,,A209,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770626,52.937716
+De Garst,3,,A210,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770655,52.937724
+De Garst,3,,A301,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770636,52.937701
+De Garst,3,,A302,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770669,52.937707
+De Garst,3,,A303,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770649,52.937686
+De Garst,3,,A304,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770678,52.937691
+De Garst,3,,A305,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770661,52.937669
+De Garst,3,,A306,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770693,52.937675
+De Garst,3,,A307,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770671,52.937653
+De Garst,3,,A308,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770701,52.937659
+De Garst,3,,A309,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770686,52.937636
+De Garst,3,,A310,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770712,52.937641
+De Garst,3,,A401,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770693,52.937617
+De Garst,3,,A402,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770719,52.937620
+De Garst,3,,A403,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770703,52.937601
+De Garst,3,,A404,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770731,52.937606
+De Garst,3,,A405,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770717,52.937587
+De Garst,3,,A406,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770743,52.937590
+De Garst,3,,A407,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770726,52.937567
+De Garst,3,,A408,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770756,52.937573
+De Garst,3,,A409,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770726,52.937548
+De Garst,3,,A410,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770759,52.937550
+De Garst,3,,A501,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770726,52.937533
+De Garst,3,,A502,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770762,52.937534
+De Garst,3,,A503,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770729,52.937517
+De Garst,3,,A504,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770766,52.937515
+De Garst,3,,A505,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770728,52.937498
+De Garst,3,,A506,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770768,52.937499
+De Garst,3,,A507,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770588,52.937508
+De Garst,3,,A508,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770623,52.937511
+De Garst,3,,A509,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770654,52.937516
+De Garst,3,,A510,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770594,52.937494
+De Garst,3,,A601,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770628,52.937498
+De Garst,3,,A602,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770657,52.937503
+De Garst,3,,A603,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770600,52.937479
+De Garst,3,,A604,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770633,52.937482
+De Garst,3,,A605,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770662,52.937485
+De Garst,3,,A606,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770497,52.937478
+De Garst,3,,A607,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770523,52.937484
+De Garst,3,,A608,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770547,52.937490
+De Garst,3,,A609,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770532,52.937467
+De Garst,3,,A610,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770557,52.937473
 De Garst,3,,,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770434,52.937345
 De Garst,3,,,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.770558,52.937450
 De Garst,4,,,1785RK,Den Helder,Den Helder,Noord-Holland,VBO,4.771546,52.936366

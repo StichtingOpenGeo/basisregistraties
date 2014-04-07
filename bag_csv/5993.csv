@@ -19,8 +19,8 @@ Zandberg,17,,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.065868,51.351302
 Zandberg,18,,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.065904,51.349522
 Zandberg,19,,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.066794,51.348829
 Zandberg,20,,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.067447,51.347995
-Zandberg,21,a,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.069026,51.348157
 Zandberg,21,B,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.070004,51.347883
+Zandberg,21,a,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.069026,51.348157
 Zandberg,21,,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.068900,51.348212
 Zandberg,22,a,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.064873,51.348626
 Zandberg,22,,,5993AA,Maasbree,Peel en Maas,Limburg,VBO,6.064873,51.348626
@@ -205,12 +205,12 @@ Dorpstraat,2,a,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.045903,51.357590
 Dorpstraat,2,b,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046012,51.357558
 Dorpstraat,2,,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.045903,51.357590
 Dorpstraat,4,,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046257,51.357507
-Dorpstraat,6,a,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046649,51.357553
 Dorpstraat,6,A,1,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046607,51.357557
 Dorpstraat,6,A,2,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046703,51.357552
 Dorpstraat,6,B,1,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046612,51.357524
 Dorpstraat,6,B,2,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046695,51.357512
 Dorpstraat,6,C,1,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046693,51.357481
+Dorpstraat,6,a,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046649,51.357553
 Dorpstraat,6,,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046649,51.357553
 Dorpstraat,8,a,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.046954,51.357536
 Dorpstraat,8,b,,5993AN,Maasbree,Peel en Maas,Limburg,VBO,6.047163,51.357523
@@ -361,7 +361,6 @@ Broekstraat,65,B,11,5993BB,Maasbree,Peel en Maas,Limburg,VBO,6.051356,51.356558
 Broekstraat,65,B,12,5993BB,Maasbree,Peel en Maas,Limburg,VBO,6.051259,51.356541
 Broekstraat,65,B,2,5993BB,Maasbree,Peel en Maas,Limburg,VBO,6.051576,51.356117
 Broekstraat,65,B,3,5993BB,Maasbree,Peel en Maas,Limburg,VBO,6.051662,51.356136
-Broekstraat,65,B,4,5993BB,Maasbree,Peel en Maas,Limburg,VBO,6.051669,51.356137
 Broekstraat,65,B,5,5993BB,Maasbree,Peel en Maas,Limburg,VBO,6.051793,51.356152
 Broekstraat,65,B,6,5993BB,Maasbree,Peel en Maas,Limburg,VBO,6.051704,51.356310
 Broekstraat,65,B,7,5993BB,Maasbree,Peel en Maas,Limburg,VBO,6.051657,51.356470
@@ -445,8 +444,8 @@ Parallelweg,14,,,5993BG,Maasbree,Peel en Maas,Limburg,VBO,6.054925,51.356084
 Parallelweg,15,,,5993BG,Maasbree,Peel en Maas,Limburg,VBO,6.055158,51.356146
 Parallelweg,16,,,5993BG,Maasbree,Peel en Maas,Limburg,VBO,6.055228,51.356185
 Parallelweg,18,,,5993BG,Maasbree,Peel en Maas,Limburg,VBO,6.055518,51.356234
-Breestraat,1,a,,5993BH,Maasbree,Peel en Maas,Limburg,VBO,6.053266,51.353553
 Breestraat,1,B,,5993BH,Maasbree,Peel en Maas,Limburg,VBO,6.053287,51.354226
+Breestraat,1,a,,5993BH,Maasbree,Peel en Maas,Limburg,VBO,6.053266,51.353553
 Breestraat,1,,,5993BH,Maasbree,Peel en Maas,Limburg,VBO,6.053047,51.354057
 Breestraat,3,,,5993BH,Maasbree,Peel en Maas,Limburg,VBO,6.053523,51.352875
 Breestraat,4,,,5993BH,Maasbree,Peel en Maas,Limburg,VBO,6.053217,51.352642
@@ -603,6 +602,7 @@ Kennedyplein,52,,,5993BT,Maasbree,Peel en Maas,Limburg,VBO,6.047797,51.357311
 Kennedyplein,54,,,5993BT,Maasbree,Peel en Maas,Limburg,VBO,6.047797,51.357311
 Kennedyplein,56,,,5993BT,Maasbree,Peel en Maas,Limburg,VBO,6.047797,51.357311
 Kennedyplein,58,,,5993BT,Maasbree,Peel en Maas,Limburg,VBO,6.047797,51.357311
+Kennedyplein,60,,,5993BT,Maasbree,Peel en Maas,Limburg,VBO,6.047718,51.356696
 Kennedyplein,60,,,5993BT,Maasbree,Peel en Maas,Limburg,VBO,6.047371,51.356799
 Bijendonk,1,,,5993BV,Maasbree,Peel en Maas,Limburg,VBO,6.048826,51.356563
 Bijendonk,3,,,5993BV,Maasbree,Peel en Maas,Limburg,VBO,6.048852,51.356400
@@ -614,7 +614,9 @@ Bijendonk,11,,,5993BV,Maasbree,Peel en Maas,Limburg,VBO,6.048982,51.356142
 Bijendonk,13,,,5993BV,Maasbree,Peel en Maas,Limburg,VBO,6.048994,51.356087
 Bijendonk,15,,,5993BV,Maasbree,Peel en Maas,Limburg,VBO,6.049007,51.356031
 Bijendonk,17,,,5993BV,Maasbree,Peel en Maas,Limburg,VBO,6.049019,51.355974
+de Schout,1,,,5993BW,Maasbree,Peel en Maas,Limburg,VBO,6.047672,51.356384
 de Schout,2,,,5993BW,Maasbree,Peel en Maas,Limburg,VBO,6.047343,51.356457
+de Schout,3,,,5993BW,Maasbree,Peel en Maas,Limburg,VBO,6.047955,51.356396
 de Schout,4,,,5993BW,Maasbree,Peel en Maas,Limburg,VBO,6.047366,51.356222
 de Schout,6,,,5993BW,Maasbree,Peel en Maas,Limburg,VBO,6.047389,51.355987
 de Schout,8,,,5993BW,Maasbree,Peel en Maas,Limburg,VBO,6.047413,51.355752
@@ -1942,8 +1944,8 @@ Breetse Peelweg,1,,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.035440,51.359193
 Breetse Peelweg,2,a,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.026070,51.362060
 Breetse Peelweg,2,,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.027803,51.361371
 Breetse Peelweg,3,,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.027132,51.361257
-Breetse Peelweg,4,a,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.023879,51.362847
 Breetse Peelweg,4,B,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.024360,51.362800
+Breetse Peelweg,4,a,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.023879,51.362847
 Breetse Peelweg,4,,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.025286,51.362263
 Breetse Peelweg,5,,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.020785,51.364160
 Breetse Peelweg,6,,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.019311,51.364476
@@ -1961,6 +1963,7 @@ Breetse Peelweg,16,,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.008274,51.372009
 Breetse Peelweg,33,,,5993NC,Maasbree,Peel en Maas,Limburg,VBO,6.006076,51.378645
 Hulsing,1,,,5993ND,Maasbree,Peel en Maas,Limburg,VBO,6.013277,51.365118
 Hulsing,2,,,5993ND,Maasbree,Peel en Maas,Limburg,VBO,6.008006,51.365408
+Hulsing,2,,,5993ND,Maasbree,Peel en Maas,Limburg,VBO,6.007994,51.365459
 Hulsing,3,,,5993ND,Maasbree,Peel en Maas,Limburg,VBO,6.007477,51.366533
 Hulsingbroek,1,a,,5993NE,Maasbree,Peel en Maas,Limburg,VBO,6.011609,51.361524
 Hulsingbroek,1,,,5993NE,Maasbree,Peel en Maas,Limburg,VBO,6.012139,51.360620
@@ -2006,8 +2009,8 @@ Asbroekweg,2,b,,5993NJ,Maasbree,Peel en Maas,Limburg,VBO,6.027647,51.365443
 Asbroekweg,2,,,5993NJ,Maasbree,Peel en Maas,Limburg,VBO,6.029400,51.365946
 Asbroekweg,3,,,5993NJ,Maasbree,Peel en Maas,Limburg,VBO,6.027786,51.365846
 Asbroekweg,4,,,5993NJ,Maasbree,Peel en Maas,Limburg,VBO,6.025039,51.365331
-Sevenumse Dijk,1,a,,5993NK,Maasbree,Peel en Maas,Limburg,VBO,6.015803,51.351644
 Sevenumse Dijk,1,C,,5993NK,Maasbree,Peel en Maas,Limburg,VBO,6.017143,51.353483
+Sevenumse Dijk,1,a,,5993NK,Maasbree,Peel en Maas,Limburg,VBO,6.015803,51.351644
 Sevenumse Dijk,1,,,5993NK,Maasbree,Peel en Maas,Limburg,VBO,6.015803,51.351644
 Sevenumse Dijk,2,,,5993NK,Maasbree,Peel en Maas,Limburg,VBO,6.017075,51.354865
 Sevenumse Dijk,3,,,5993NK,Maasbree,Peel en Maas,Limburg,VBO,6.017075,51.354865
@@ -2068,6 +2071,7 @@ Valkerheideweg,1,,,5993NP,Maasbree,Peel en Maas,Limburg,VBO,6.017218,51.360788
 Valkerheideweg,2,A,,5993NP,Maasbree,Peel en Maas,Limburg,VBO,6.015403,51.362560
 Valkerheideweg,2,,,5993NP,Maasbree,Peel en Maas,Limburg,VBO,6.015450,51.362369
 Valkerheideweg,3,,,5993NP,Maasbree,Peel en Maas,Limburg,VBO,6.013602,51.362330
+Valkerheideweg,4,,,5993NP,Maasbree,Peel en Maas,Limburg,VBO,6.013060,51.362278
 Valkerheideweg,4,,,5993NP,Maasbree,Peel en Maas,Limburg,VBO,6.013039,51.362282
 Wautersweg,1,,,5993NR,Maasbree,Peel en Maas,Limburg,VBO,6.028358,51.369229
 Wautersweg,2,,,5993NR,Maasbree,Peel en Maas,Limburg,VBO,6.028044,51.369101
@@ -2095,8 +2099,8 @@ Tongerlo,17,,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.016029,51.372309
 Tongerlo,18,a,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.013070,51.372829
 Tongerlo,18,,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.014332,51.372760
 Tongerlo,19,,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.011308,51.372789
-Tongerlo,20,a,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.009264,51.373065
 Tongerlo,20,B,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.009264,51.373065
+Tongerlo,20,a,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.009264,51.373065
 Tongerlo,20,,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.010514,51.372799
 Tongerlo,21,,,5993NS,Maasbree,Peel en Maas,Limburg,VBO,6.007758,51.372780
 Tongerlose Pad,1,,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.034373,51.365586
@@ -2111,9 +2115,9 @@ Tongerlose Pad,8,A,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.033549,51.368912
 Tongerlose Pad,8,B,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.033461,51.368783
 Tongerlose Pad,8,,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.032817,51.368673
 Tongerlose Pad,9,,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.032389,51.368758
-Tongerlose Pad,10,a,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.032470,51.369232
 Tongerlose Pad,10,B,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.033173,51.370315
 Tongerlose Pad,10,C,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.033300,51.370174
+Tongerlose Pad,10,a,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.032470,51.369232
 Tongerlose Pad,10,,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.032256,51.368838
 Tongerlose Pad,11,,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.031749,51.370026
 Tongerlose Pad,12,,,5993NT,Maasbree,Peel en Maas,Limburg,VBO,6.031631,51.370114
@@ -2130,9 +2134,9 @@ Korte Heide,3,,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.049505,51.369226
 Korte Heide,5,a,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.046616,51.368950
 Korte Heide,5,,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.048543,51.368029
 Korte Heide,7,,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.047061,51.367779
+Korte Heide,11,C,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.045739,51.367885
 Korte Heide,11,a,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.044680,51.367884
 Korte Heide,11,b,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.044145,51.367591
-Korte Heide,11,C,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.045739,51.367885
 Korte Heide,11,,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.046277,51.368004
 Korte Heide,13,,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.045289,51.367691
 Korte Heide,15,,,5993NW,Maasbree,Peel en Maas,Limburg,VBO,6.043475,51.366097
@@ -2147,18 +2151,19 @@ Korte Heide,4,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.048305,51.368265
 Korte Heide,6,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.047763,51.367984
 Korte Heide,8,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.047537,51.367352
 Korte Heide,10,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.047975,51.366151
-Korte Heide,12,a,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.043074,51.369758
-Korte Heide,12,b,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.043575,51.369358
 Korte Heide,12,C,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.043294,51.369364
 Korte Heide,12,D,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.043342,51.370115
+Korte Heide,12,a,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.043074,51.369758
+Korte Heide,12,b,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.043575,51.369358
 Korte Heide,12,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.044742,51.368955
 Korte Heide,14,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.044382,51.366142
 Korte Heide,16,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.042164,51.365258
-Korte Heide,18,a,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.038811,51.365537
 Korte Heide,18,B,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.040279,51.364241
+Korte Heide,18,a,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.038811,51.365537
 Korte Heide,18,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.039923,51.364704
 Korte Heide,20,,,5993NX,Maasbree,Peel en Maas,Limburg,VBO,6.039122,51.364391
 Sevenumseweg,1,a,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.055804,51.360149
+Sevenumseweg,1,,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.056086,51.359783
 Sevenumseweg,2,,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.056052,51.360380
 Sevenumseweg,3,,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.055451,51.360600
 Sevenumseweg,4,,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.055648,51.361108
@@ -2175,9 +2180,9 @@ Sevenumseweg,13,,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.053212,51.364186
 Sevenumseweg,15,,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.053104,51.364428
 Sevenumseweg,17,,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.052947,51.364724
 Sevenumseweg,19,,,5993NZ,Maasbree,Peel en Maas,Limburg,VBO,6.052805,51.364985
+Rozendaal,1,C,,5993PA,Maasbree,Peel en Maas,Limburg,VBO,6.050843,51.370385
 Rozendaal,1,a,,5993PA,Maasbree,Peel en Maas,Limburg,VBO,6.051008,51.370744
 Rozendaal,1,b,,5993PA,Maasbree,Peel en Maas,Limburg,VBO,6.050935,51.374111
-Rozendaal,1,C,,5993PA,Maasbree,Peel en Maas,Limburg,VBO,6.050843,51.370385
 Rozendaal,1,,,5993PA,Maasbree,Peel en Maas,Limburg,VBO,6.051026,51.370221
 Rozendaal,2,b,,5993PA,Maasbree,Peel en Maas,Limburg,VBO,6.049491,51.374554
 Rozendaal,2,,,5993PA,Maasbree,Peel en Maas,Limburg,VBO,6.050935,51.374111
@@ -2404,8 +2409,8 @@ Dubbroek,12,,,5993PN,Maasbree,Peel en Maas,Limburg,VBO,6.077266,51.352293
 Dubbroek,13,,,5993PN,Maasbree,Peel en Maas,Limburg,VBO,6.076524,51.351391
 Dubbroek,14,,,5993PN,Maasbree,Peel en Maas,Limburg,VBO,6.075449,51.349920
 Dubbroek,15,,,5993PN,Maasbree,Peel en Maas,Limburg,VBO,6.075182,51.349729
-Kerkdijk,1,a,,5993PP,Maasbree,Peel en Maas,Limburg,VBO,6.058738,51.354786
 Kerkdijk,1,B,,5993PP,Maasbree,Peel en Maas,Limburg,VBO,6.057949,51.354556
+Kerkdijk,1,a,,5993PP,Maasbree,Peel en Maas,Limburg,VBO,6.058738,51.354786
 Kerkdijk,1,,,5993PP,Maasbree,Peel en Maas,Limburg,VBO,6.058723,51.354260
 Kerkdijk,2,,,5993PP,Maasbree,Peel en Maas,Limburg,VBO,6.059273,51.354065
 Kerkdijk,3,,,5993PP,Maasbree,Peel en Maas,Limburg,VBO,6.059171,51.352378
@@ -2429,9 +2434,9 @@ Rinkesfort,3,,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.054884,51.340503
 Rinkesfort,4,,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.053897,51.340889
 Rinkesfort,5,,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.045942,51.341485
 Rinkesfort,6,,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.048350,51.340848
+Rinkesfort,7,C,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.053516,51.338548
 Rinkesfort,7,a,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.054196,51.338855
 Rinkesfort,7,b,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.052809,51.340409
-Rinkesfort,7,C,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.053516,51.338548
 Rinkesfort,7,,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.051337,51.340294
 Rinkesfort,8,,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.052237,51.338218
 Rinkesfort,9,,,5993PV,Maasbree,Peel en Maas,Limburg,VBO,6.051635,51.336012
@@ -2496,9 +2501,9 @@ Oude Heldenseweg,13,,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.039355,51.35040
 Oude Heldenseweg,14,A,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.037843,51.350142
 Oude Heldenseweg,14,,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.037843,51.350142
 Oude Heldenseweg,15,,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.033511,51.350208
+Oude Heldenseweg,16,C,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.031953,51.350442
 Oude Heldenseweg,16,a,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.031127,51.349380
 Oude Heldenseweg,16,b,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.029335,51.348805
-Oude Heldenseweg,16,C,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.031953,51.350442
 Oude Heldenseweg,16,,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.032038,51.350071
 Oude Heldenseweg,17,,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.029335,51.348805
 Oude Heldenseweg,18,,,5993RA,Maasbree,Peel en Maas,Limburg,VBO,6.026307,51.348652

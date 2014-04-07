@@ -65,7 +65,8 @@ Wachtpoststraat,12,,,5914AD,Venlo,Venlo,Limburg,VBO,6.180990,51.374055
 Wachtpoststraat,14,,,5914AD,Venlo,Venlo,Limburg,VBO,6.181043,51.374095
 Wachtpoststraat,16,,,5914AD,Venlo,Venlo,Limburg,VBO,6.181095,51.374135
 Wachtpoststraat,18,,,5914AD,Venlo,Venlo,Limburg,VBO,6.181182,51.374161
-Wachtpoststraat,20,,,5914AD,Venlo,Venlo,Limburg,VBO,6.181317,51.374195
+Wachtpoststraat,20,A,,5914AD,Venlo,Venlo,Limburg,VBO,6.181318,51.374184
+Wachtpoststraat,20,,,5914AD,Venlo,Venlo,Limburg,VBO,6.181269,51.374175
 Wachtpoststraat,79,,,5914AE,Venlo,Venlo,Limburg,VBO,6.181536,51.374653
 Wachtpoststraat,81,,,5914AE,Venlo,Venlo,Limburg,VBO,6.181406,51.374716
 Wachtpoststraat,83,,,5914AE,Venlo,Venlo,Limburg,VBO,6.181333,51.374798
@@ -725,8 +726,7 @@ Bisschop Hoensbroeckstraat,68,,,5914BV,Venlo,Venlo,Limburg,VBO,6.170590,51.38215
 Bisschop Hoensbroeckstraat,70,,,5914BV,Venlo,Venlo,Limburg,VBO,6.170449,51.382108
 Bisschop Hoensbroeckstraat,72,,,5914BV,Venlo,Venlo,Limburg,VBO,6.170352,51.382071
 Bisschop Hoensbroeckstraat,74,,,5914BV,Venlo,Venlo,Limburg,VBO,6.170270,51.382040
-Industriestraat,6,,,5914BW,Venlo,Venlo,Limburg,VBO,6.169271,51.385112
-Industriestraat,12,,,5914BW,Venlo,Venlo,Limburg,VBO,6.169994,51.385128
+Industriestraat,12,,,5914BW,Venlo,Venlo,Limburg,VBO,6.169754,51.385154
 Sint Urbanusweg,9,,,5914CA,Venlo,Venlo,Limburg,VBO,6.167035,51.379265
 Sint Urbanusweg,11,,,5914CA,Venlo,Venlo,Limburg,VBO,6.166972,51.379419
 Sint Urbanusweg,17,,,5914CA,Venlo,Venlo,Limburg,VBO,6.167513,51.383301
@@ -1679,8 +1679,8 @@ Karbindersstraat,31,,,5914NT,Venlo,Venlo,Limburg,VBO,6.173736,51.384686
 Karbindersstraat,33,,,5914NT,Venlo,Venlo,Limburg,VBO,6.173806,51.384721
 Karbindersstraat,35,,,5914NT,Venlo,Venlo,Limburg,VBO,6.173877,51.384755
 Karbindersstraat,8001,,,5914NT,Venlo,Venlo,Limburg,VBO,6.175123,51.385061
-Karbindersstraat,8003,,,5914NT,Venlo,Venlo,Limburg,VBO,6.175182,51.385018
-Karbindersstraat,8005,,,5914NT,Venlo,Venlo,Limburg,VBO,6.175242,51.384972
+Karbindersstraat,8003,,,5914NT,Venlo,Venlo,Limburg,VBO,6.175167,51.385023
+Karbindersstraat,8005,,,5914NT,Venlo,Venlo,Limburg,VBO,6.175216,51.384977
 Karbindersstraat,8007,,,5914NT,Venlo,Venlo,Limburg,VBO,6.175324,51.384940
 Karbindersstraat,37,,,5914NV,Venlo,Venlo,Limburg,VBO,6.174083,51.384855
 Karbindersstraat,39,,,5914NV,Venlo,Venlo,Limburg,VBO,6.174158,51.384892
@@ -1717,10 +1717,10 @@ Karbindersstraat,14,,,5914NW,Venlo,Venlo,Limburg,VBO,6.171989,51.384019
 Karbindersstraat,16,,,5914NW,Venlo,Venlo,Limburg,VBO,6.172122,51.384041
 Karbindersstraat,18,,,5914NW,Venlo,Venlo,Limburg,VBO,6.172236,51.384049
 Karbindersstraat,20,,,5914NW,Venlo,Venlo,Limburg,VBO,6.172360,51.384063
-Karbindersstraat,8000,,,5914NW,Venlo,Venlo,Limburg,VBO,6.175103,51.385076
+Karbindersstraat,8000,,,5914NW,Venlo,Venlo,Limburg,VBO,6.175085,51.385082
 Karbindersstraat,8002,,,5914NW,Venlo,Venlo,Limburg,VBO,6.175150,51.385043
-Karbindersstraat,8004,,,5914NW,Venlo,Venlo,Limburg,VBO,6.175211,51.384994
-Karbindersstraat,8006,,,5914NW,Venlo,Venlo,Limburg,VBO,6.175282,51.384945
+Karbindersstraat,8004,,,5914NW,Venlo,Venlo,Limburg,VBO,6.175196,51.385000
+Karbindersstraat,8006,,,5914NW,Venlo,Venlo,Limburg,VBO,6.175255,51.384951
 Karbindersstraat,8008,,,5914NW,Venlo,Venlo,Limburg,VBO,6.175371,51.384956
 Karbindersstraat,44,,,5914NX,Venlo,Venlo,Limburg,VBO,6.173529,51.384323
 Karbindersstraat,46,,,5914NX,Venlo,Venlo,Limburg,VBO,6.173654,51.384384
@@ -2127,7 +2127,7 @@ Dokter Blumenkampstraat,4,K,6,5914PW,Venlo,Venlo,Limburg,VBO,6.172561,51.379342
 Dokter Blumenkampstraat,4,K,7,5914PW,Venlo,Venlo,Limburg,VBO,6.172541,51.379245
 Dokter Blumenkampstraat,4,K,8,5914PW,Venlo,Venlo,Limburg,VBO,6.172546,51.379318
 Dokter Blumenkampstraat,4,K,9,5914PW,Venlo,Venlo,Limburg,VBO,6.172526,51.379219
-Dokter Blumenkampstraat,4,,,5914PW,Venlo,Venlo,Limburg,VBO,6.172472,51.379152
+Dokter Blumenkampstraat,4,,,5914PW,Venlo,Venlo,Limburg,VBO,6.172714,51.379136
 Dokter Blumenkampstraat,8,,,5914PW,Venlo,Venlo,Limburg,VBO,6.171850,51.379243
 Dokter Blumenkampstraat,10,,,5914PW,Venlo,Venlo,Limburg,VBO,6.171667,51.379299
 Dokter Blumenkampstraat,12,,,5914PW,Venlo,Venlo,Limburg,VBO,6.171509,51.379336
@@ -3094,16 +3094,16 @@ Rembrandtstraat,8,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179644,51.383504
 Rembrandtstraat,9,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179581,51.383563
 Rembrandtstraat,10,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179555,51.383587
 Rembrandtstraat,11,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179523,51.383616
-Rembrandtstraat,12,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179491,51.383646
+Rembrandtstraat,12,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179456,51.383650
 Rembrandtstraat,13,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179459,51.383676
 Rembrandtstraat,14,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179427,51.383705
-Rembrandtstraat,15,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179395,51.383735
-Rembrandtstraat,16,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179364,51.383764
-Rembrandtstraat,17,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179332,51.383794
+Rembrandtstraat,15,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179362,51.383747
+Rembrandtstraat,16,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179319,51.383775
+Rembrandtstraat,17,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179281,51.383806
 Rembrandtstraat,18,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179237,51.383883
 Rembrandtstraat,19,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179211,51.383909
 Rembrandtstraat,20,,,5914TE,Venlo,Venlo,Limburg,VBO,6.179177,51.383943
-Rembrandtstraat,21,,,5914TG,Venlo,Venlo,Limburg,VBO,6.179143,51.383976
+Rembrandtstraat,21,,,5914TG,Venlo,Venlo,Limburg,VBO,6.179102,51.383987
 Rembrandtstraat,22,,,5914TG,Venlo,Venlo,Limburg,VBO,6.179109,51.384010
 Rembrandtstraat,23,,,5914TG,Venlo,Venlo,Limburg,VBO,6.179075,51.384043
 Rembrandtstraat,24,,,5914TG,Venlo,Venlo,Limburg,VBO,6.179041,51.384077
@@ -3112,7 +3112,7 @@ Rembrandtstraat,26,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178957,51.384153
 Rembrandtstraat,27,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178931,51.384185
 Rembrandtstraat,28,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178905,51.384211
 Rembrandtstraat,29,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178871,51.384245
-Rembrandtstraat,30,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178837,51.384279
+Rembrandtstraat,30,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178786,51.384282
 Rembrandtstraat,31,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178803,51.384312
 Rembrandtstraat,32,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178769,51.384346
 Rembrandtstraat,33,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178735,51.384380
@@ -3121,7 +3121,7 @@ Rembrandtstraat,35,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178652,51.384458
 Rembrandtstraat,36,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178591,51.384525
 Rembrandtstraat,37,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178568,51.384552
 Rembrandtstraat,38,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178537,51.384587
-Rembrandtstraat,39,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178506,51.384622
+Rembrandtstraat,39,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178456,51.384630
 Rembrandtstraat,40,,,5914TG,Venlo,Venlo,Limburg,VBO,6.178475,51.384656
 Rembrandtstraat,41,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178444,51.384691
 Rembrandtstraat,42,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178414,51.384726
@@ -3130,7 +3130,7 @@ Rembrandtstraat,44,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178337,51.384806
 Rembrandtstraat,45,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178314,51.384838
 Rembrandtstraat,46,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178290,51.384865
 Rembrandtstraat,47,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178260,51.384900
-Rembrandtstraat,48,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178229,51.384935
+Rembrandtstraat,48,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178170,51.384942
 Rembrandtstraat,49,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178198,51.384969
 Rembrandtstraat,50,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178167,51.385004
 Rembrandtstraat,51,,,5914TH,Venlo,Venlo,Limburg,VBO,6.178136,51.385039

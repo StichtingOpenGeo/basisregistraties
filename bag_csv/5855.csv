@@ -54,6 +54,7 @@ Eldershof,45,,,5855AB,Well L,Bergen (L.),Limburg,VBO,6.097503,51.550403
 Eldershof,46,,,5855AB,Well L,Bergen (L.),Limburg,VBO,6.097435,51.550331
 Knikkerdorp,2,,,5855AC,Well L,Bergen (L.),Limburg,VBO,6.098695,51.553805
 Knikkerdorp,4,,,5855AC,Well L,Bergen (L.),Limburg,VBO,6.115938,51.546496
+Knikkerdorp,6,a,,5855AC,Well L,Bergen (L.),Limburg,VBO,6.116919,51.544360
 Knikkerdorp,6,,,5855AC,Well L,Bergen (L.),Limburg,VBO,6.116299,51.544606
 Knikkerdorp,8,,,5855AC,Well L,Bergen (L.),Limburg,VBO,6.117441,51.544299
 Knikkerdorp,10,,,5855AC,Well L,Bergen (L.),Limburg,VBO,6.117940,51.543749
@@ -77,17 +78,16 @@ Kasteellaan,19,,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.093102,51.555305
 Kasteellaan,23,,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.093274,51.554952
 Kasteellaan,25,,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.092641,51.555157
 Kasteellaan,27,,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.092080,51.554676
-Kasteellaan,33,,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.089879,51.551107
 Kasteellaan,35,a,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.089189,51.550612
 Kasteellaan,35,b,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.089056,51.550456
-Kasteellaan,35,,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.089685,51.550962
 Kasteellaan,37,,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.088421,51.549944
 Kasteellaan,39,,,5855AD,Well L,Bergen (L.),Limburg,VBO,6.088130,51.549703
 Kasteellaan,4,,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.093389,51.556601
 Kasteellaan,8,a,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.092807,51.556106
 Kasteellaan,8,,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.093003,51.556266
 Kasteellaan,10,,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.092484,51.555866
-Kasteellaan,12,a,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.092249,51.555601
+Kasteellaan,12,a,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.092264,51.555581
+Kasteellaan,12,b,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.092121,51.555710
 Kasteellaan,12,,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.092400,51.555750
 Kasteellaan,14,a,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.091464,51.554917
 Kasteellaan,14,,,5855AE,Well L,Bergen (L.),Limburg,VBO,6.091809,51.555247
@@ -391,6 +391,8 @@ Papenbeek,97,,,5855BC,Well L,Bergen (L.),Limburg,VBO,6.084305,51.558406
 Papenbeek,99,,,5855BC,Well L,Bergen (L.),Limburg,VBO,6.084115,51.558481
 Papenbeek,101,,,5855BC,Well L,Bergen (L.),Limburg,VBO,6.083946,51.558555
 Papenbeek,103,,,5855BC,Well L,Bergen (L.),Limburg,VBO,6.083754,51.558633
+Papenbeek,2,a,,5855BD,Well L,Bergen (L.),Limburg,VBO,6.092032,51.555608
+Papenbeek,2,,,5855BD,Well L,Bergen (L.),Limburg,VBO,6.092191,51.555548
 Papenbeek,4,,,5855BD,Well L,Bergen (L.),Limburg,VBO,6.091808,51.555652
 Papenbeek,6,,,5855BD,Well L,Bergen (L.),Limburg,VBO,6.091584,51.555712
 Papenbeek,8,,,5855BD,Well L,Bergen (L.),Limburg,VBO,6.091456,51.555750
@@ -951,6 +953,9 @@ De Kamp,5,,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.060444,51.567496
 De Kamp,6,a,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.055123,51.569106
 De Kamp,6,b,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.055645,51.568645
 De Kamp,6,,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.054744,51.571679
+De Kamp,7,a,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.063636,51.564126
+De Kamp,7,b,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.063869,51.564031
+De Kamp,7,c,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.063942,51.564277
 De Kamp,7,,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.063869,51.564661
 De Kamp,8,,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.056608,51.567838
 De Kamp,10,,,5855EG,Well L,Bergen (L.),Limburg,VBO,6.057531,51.566309
@@ -1025,7 +1030,7 @@ Wezerweg,10,,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.110456,51.568049
 Wezerweg,12,,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.111610,51.568774
 Wezerweg,14,a,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.116018,51.574068
 Wezerweg,14,,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.112792,51.570117
-Wezerweg,16,a,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.120649,51.572764
+Wezerweg,16,a,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.121089,51.572520
 Wezerweg,18,,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.116805,51.574952
 Wezerweg,20,,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.117928,51.576426
 Wezerweg,22,,,5855EN,Well L,Bergen (L.),Limburg,VBO,6.118348,51.576958

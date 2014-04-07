@@ -2,12 +2,12 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 Spoorsingel,1,A,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.979693,50.890429
 Spoorsingel,1,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.981299,50.891016
 Spoorsingel,2,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978668,50.890628
-Spoorsingel,3,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.983442,50.889937
 Spoorsingel,4,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978507,50.890686
 Spoorsingel,6,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978507,50.890686
 Spoorsingel,8,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978507,50.890686
 Spoorsingel,10,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978245,50.890826
 Spoorsingel,12,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978245,50.890826
+Spoorsingel,14,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978245,50.890826
 Spoorsingel,16,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978245,50.890826
 Spoorsingel,18,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978245,50.890826
 Spoorsingel,55,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.978273,50.890356
@@ -21,6 +21,7 @@ Spoorsingel,71,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.976021,50.891573
 Spoorsingel,73,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.976021,50.891573
 Spoorsingel,75,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.976021,50.891573
 Spoorsingel,77,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.976021,50.891573
+Spoorsingel,81,,,6412AA,Heerlen,Heerlen,Limburg,VBO,5.975052,50.891763
 Spoorsingel,20,,,6412AB,Heerlen,Heerlen,Limburg,VBO,5.978245,50.890826
 Spoorsingel,22,,,6412AB,Heerlen,Heerlen,Limburg,VBO,5.978245,50.890826
 Spoorsingel,24,,,6412AB,Heerlen,Heerlen,Limburg,VBO,5.978245,50.890826
@@ -139,7 +140,7 @@ Juliana van Stolbergstraat,9,,,6412AJ,Heerlen,Heerlen,Limburg,VBO,5.982593,50.89
 Juliana van Stolbergstraat,11,,,6412AJ,Heerlen,Heerlen,Limburg,VBO,5.982723,50.890950
 Juliana van Stolbergstraat,13,,,6412AJ,Heerlen,Heerlen,Limburg,VBO,5.982844,50.890953
 Gringelstraat,3,A,,6412AK,Heerlen,Heerlen,Limburg,VBO,5.979870,50.890597
-Gringelstraat,3,B,tijd,6412AK,Heerlen,Heerlen,Limburg,VBO,5.979859,50.890624
+Gringelstraat,3,B,,6412AK,Heerlen,Heerlen,Limburg,VBO,5.979859,50.890624
 Gringelstraat,3,,,6412AK,Heerlen,Heerlen,Limburg,VBO,5.979877,50.890592
 Gringelstraat,5,A,,6412AK,Heerlen,Heerlen,Limburg,VBO,5.979980,50.890699
 Gringelstraat,5,B,,6412AK,Heerlen,Heerlen,Limburg,VBO,5.979980,50.890699
@@ -233,6 +234,7 @@ Willemstraat,95,,,6412AP,Heerlen,Heerlen,Limburg,VBO,5.978348,50.891578
 Willemstraat,97,,,6412AP,Heerlen,Heerlen,Limburg,VBO,5.978320,50.891687
 Willemstraat,99,,,6412AP,Heerlen,Heerlen,Limburg,VBO,5.978270,50.891678
 Willemstraat,101,,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.978186,50.891813
+Willemstraat,103,,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.978186,50.891813
 Willemstraat,105,,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.978199,50.891909
 Willemstraat,107,,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.978134,50.891971
 Willemstraat,109,,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.977861,50.891728
@@ -250,10 +252,10 @@ Willemstraat,123,A,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.977605,50.892344
 Willemstraat,123,B,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.977565,50.892331
 Willemstraat,123,C,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.977524,50.892312
 Willemstraat,123,,,6412AR,Heerlen,Heerlen,Limburg,VBO,5.977645,50.892359
-Willemstraat,32,A,tijd,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979386,50.890451
-Willemstraat,32,,tijd,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979321,50.890440
-Willemstraat,34,A,tijd,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979282,50.890498
-Willemstraat,34,B,tijd,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979359,50.890499
+Willemstraat,32,A,,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979386,50.890451
+Willemstraat,32,,,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979321,50.890440
+Willemstraat,34,A,,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979282,50.890498
+Willemstraat,34,B,,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979359,50.890499
 Willemstraat,34,,,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979298,50.890473
 Willemstraat,36,A,,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979315,50.890565
 Willemstraat,36,B,,6412AS,Heerlen,Heerlen,Limburg,VBO,5.979315,50.890565
@@ -362,7 +364,76 @@ Kempkensweg,34,F,,6412AW,Heerlen,Heerlen,Limburg,VBO,5.975479,50.892152
 Kempkensweg,34,,,6412AW,Heerlen,Heerlen,Limburg,VBO,5.975455,50.892191
 Robroekergats,71,,,6412AX,Heerlen,Heerlen,Limburg,VBO,5.978438,50.891133
 Robroekergats,73,,,6412AX,Heerlen,Heerlen,Limburg,VBO,5.978308,50.891096
+Robroekergats,77,,,6412AX,Heerlen,Heerlen,Limburg,VBO,5.978274,50.891204
 Robroekergats,79,,,6412AX,Heerlen,Heerlen,Limburg,VBO,5.978274,50.891204
+Maanplein,1,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974443,50.891821
+Maanplein,2,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974443,50.891816
+Maanplein,3,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974449,50.891816
+Maanplein,4,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974454,50.891816
+Maanplein,5,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974444,50.891809
+Maanplein,6,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974450,50.891809
+Maanplein,7,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974455,50.891809
+Maanplein,8,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974445,50.891803
+Maanplein,9,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974451,50.891803
+Maanplein,10,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974446,50.891797
+Maanplein,11,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974453,50.891798
+Maanplein,12,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974505,50.891844
+Maanplein,14,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974648,50.891866
+Maanplein,15,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974648,50.891862
+Maanplein,16,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974653,50.891861
+Maanplein,17,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974659,50.891861
+Maanplein,18,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974648,50.891858
+Maanplein,19,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974654,50.891857
+Maanplein,20,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974660,50.891857
+Maanplein,21,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974648,50.891853
+Maanplein,22,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974655,50.891853
+Maanplein,23,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974661,50.891853
+Maanplein,24,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974668,50.891852
+Maanplein,25,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974673,50.891852
+Maanplein,26,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974680,50.891852
+Maanplein,27,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974648,50.891848
+Maanplein,28,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974656,50.891848
+Maanplein,29,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974710,50.891865
+Maanplein,30,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974853,50.891842
+Maanplein,31,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974852,50.891838
+Maanplein,32,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974859,50.891835
+Maanplein,33,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974909,50.891819
+Maanplein,34,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974945,50.891796
+Maanplein,35,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974940,50.891793
+Maanplein,36,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974945,50.891789
+Maanplein,37,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974935,50.891790
+Maanplein,38,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974941,50.891786
+Maanplein,39,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974949,50.891783
+Maanplein,40,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974930,50.891785
+Maanplein,41,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974936,50.891781
+Maanplein,42,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974945,50.891777
+Maanplein,43,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974926,50.891782
+Maanplein,44,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974933,50.891778
+Maanplein,45,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974941,50.891774
+Maanplein,46,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974923,50.891779
+Maanplein,47,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974930,50.891775
+Maanplein,48,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974938,50.891771
+Maanplein,49,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974919,50.891776
+Maanplein,50,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974927,50.891772
+Maanplein,51,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974985,50.891760
+Maanplein,52,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974872,50.891362
+Maanplein,53,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974397,50.891456
+Maanplein,54,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974341,50.891466
+Maanplein,55,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.974208,50.891482
+Maanplein,60,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973781,50.891718
+Maanplein,65,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973807,50.891743
+Maanplein,66,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973811,50.891764
+Maanplein,67,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973819,50.891786
+Maanplein,68,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973830,50.891808
+Maanplein,69,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973817,50.891742
+Maanplein,70,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973819,50.891763
+Maanplein,71,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973827,50.891784
+Maanplein,72,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973837,50.891807
+Maanplein,73,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973825,50.891741
+Maanplein,74,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973828,50.891761
+Maanplein,75,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973834,50.891783
+Maanplein,76,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973832,50.891741
+Maanplein,77,,,6412AZ,Heerlen,Heerlen,Limburg,VBO,5.973850,50.891912
 Grasbroekerweg,3,A,,6412BA,Heerlen,Heerlen,Limburg,VBO,5.975629,50.893818
 Grasbroekerweg,3,B,,6412BA,Heerlen,Heerlen,Limburg,VBO,5.975629,50.893818
 Grasbroekerweg,3,C,,6412BA,Heerlen,Heerlen,Limburg,VBO,5.975629,50.893818
@@ -517,7 +588,6 @@ Grasbroekerweg,150,,,6412BJ,Heerlen,Heerlen,Limburg,VBO,5.972940,50.898418
 Grasbroekerweg,152,,,6412BJ,Heerlen,Heerlen,Limburg,VBO,5.972909,50.898468
 Grasbroekerweg,154,,,6412BJ,Heerlen,Heerlen,Limburg,VBO,5.972877,50.898520
 Grasbroekerweg,156,,,6412BJ,Heerlen,Heerlen,Limburg,VBO,5.972836,50.898583
-Grasbroekerweg,158,,,6412BJ,Heerlen,Heerlen,Limburg,VBO,5.972496,50.898949
 Grasbroekerweg,160,,,6412BJ,Heerlen,Heerlen,Limburg,VBO,5.972400,50.899100
 Grasbroekerweg,162,,,6412BJ,Heerlen,Heerlen,Limburg,VBO,5.972269,50.899159
 Grasbroekerweg,164,,,6412BJ,Heerlen,Heerlen,Limburg,VBO,5.972162,50.899213
@@ -1021,8 +1091,8 @@ Sittarderweg,160,A,,6412CM,Heerlen,Heerlen,Limburg,VBO,5.971269,50.901734
 Sittarderweg,160,,,6412CM,Heerlen,Heerlen,Limburg,VBO,5.971288,50.901668
 Sittarderweg,162,A,,6412CM,Heerlen,Heerlen,Limburg,VBO,5.971322,50.901815
 Sittarderweg,162,,,6412CM,Heerlen,Heerlen,Limburg,VBO,5.971255,50.901815
+Aurora,287,,,6412CN,Heerlen,Heerlen,Limburg,VBO,5.974875,50.893375
 Kloosterweg,1,,,6412CN,Heerlen,Heerlen,Limburg,VBO,5.972610,50.892050
-Kloosterweg,11,,,6412CN,Heerlen,Heerlen,Limburg,VBO,5.971508,50.895237
 Kloosterweg,22,,,6412CN,Heerlen,Heerlen,Limburg,VBO,5.972739,50.893328
 Kloosterweg,24,,,6412CN,Heerlen,Heerlen,Limburg,VBO,5.972195,50.894114
 Kloosterweg,26,,,6412CN,Heerlen,Heerlen,Limburg,VBO,5.972161,50.894375
@@ -1476,7 +1546,6 @@ Zeskant,213,,,6412DX,Heerlen,Heerlen,Limburg,VBO,5.962388,50.899860
 Zeskant,215,,,6412DX,Heerlen,Heerlen,Limburg,VBO,5.962311,50.899908
 Zeskant,217,,,6412DX,Heerlen,Heerlen,Limburg,VBO,5.962249,50.899877
 Zeskant,219,,,6412DX,Heerlen,Heerlen,Limburg,VBO,5.962173,50.899909
-Zeskant,221,A,,6412DX,Heerlen,Heerlen,Limburg,VBO,5.961811,50.899895
 Zeskant,221,,,6412DX,Heerlen,Heerlen,Limburg,VBO,5.962104,50.899870
 Zeskant,223,,,6412DZ,Heerlen,Heerlen,Limburg,VBO,5.961404,50.899714
 Zeskant,225,,,6412DZ,Heerlen,Heerlen,Limburg,VBO,5.961463,50.899754
@@ -2080,6 +2149,85 @@ Aurora,225,,,6412GL,Heerlen,Heerlen,Limburg,VBO,5.974620,50.892492
 Aurora,226,,,6412GL,Heerlen,Heerlen,Limburg,VBO,5.974620,50.892492
 Aurora,227,,,6412GL,Heerlen,Heerlen,Limburg,VBO,5.974620,50.892492
 Aurora,228,,,6412GL,Heerlen,Heerlen,Limburg,VBO,5.974620,50.892492
+Aurora,229,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974422,50.892986
+Aurora,230,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974396,50.893023
+Aurora,231,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974462,50.893041
+Aurora,232,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974482,50.892999
+Aurora,233,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974405,50.892984
+Aurora,234,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974381,50.893019
+Aurora,235,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974479,50.893046
+Aurora,236,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974500,50.893003
+Aurora,237,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974390,50.892980
+Aurora,238,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974368,50.893016
+Aurora,239,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974494,50.893050
+Aurora,240,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974516,50.893007
+Aurora,241,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974377,50.892975
+Aurora,242,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974353,50.893014
+Aurora,243,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974511,50.893056
+Aurora,244,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974530,50.893012
+Aurora,245,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974437,50.892968
+Aurora,246,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974389,50.893039
+Aurora,247,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974451,50.893055
+Aurora,248,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974498,50.892981
+Aurora,249,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974421,50.892967
+Aurora,250,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974371,50.893035
+Aurora,251,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974472,50.893058
+Aurora,252,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974516,50.892986
+Aurora,253,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974408,50.892961
+Aurora,254,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974360,50.893031
+Aurora,255,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974488,50.893064
+Aurora,256,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974533,50.892991
+Aurora,257,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974396,50.892957
+Aurora,258,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974347,50.893027
+Aurora,259,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974506,50.893068
+Aurora,260,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974551,50.892996
+Aurora,261,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974453,50.892958
+Aurora,262,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974382,50.893051
+Aurora,263,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974442,50.893065
+Aurora,264,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974505,50.892969
+Aurora,265,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974440,50.892955
+Aurora,266,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974367,50.893049
+Aurora,267,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974461,50.893068
+Aurora,268,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974528,50.892973
+Aurora,269,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974429,50.892950
+Aurora,270,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974356,50.893047
+Aurora,271,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974479,50.893074
+Aurora,272,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974547,50.892977
+Aurora,273,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974419,50.892948
+Aurora,274,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974346,50.893043
+Aurora,275,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974495,50.893078
+Aurora,276,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974566,50.892982
+Aurora,277,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974407,50.892944
+Aurora,278,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974335,50.893041
+Aurora,279,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974511,50.893083
+Aurora,280,,,6412GM,Heerlen,Heerlen,Limburg,VBO,5.974579,50.892987
+Aurora,281,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974824,50.893315
+Aurora,282,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974794,50.893354
+Aurora,283,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974858,50.893371
+Aurora,284,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974891,50.893331
+Aurora,285,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974809,50.893312
+Aurora,286,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974780,50.893351
+Aurora,288,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974909,50.893335
+Aurora,289,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974797,50.893310
+Aurora,290,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974770,50.893348
+Aurora,291,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974888,50.893379
+Aurora,292,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974923,50.893338
+Aurora,293,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974836,50.893306
+Aurora,294,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974786,50.893364
+Aurora,295,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974852,50.893377
+Aurora,296,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974900,50.893321
+Aurora,297,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974824,50.893303
+Aurora,298,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974773,50.893361
+Aurora,299,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974870,50.893383
+Aurora,300,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974918,50.893324
+Aurora,301,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974808,50.893299
+Aurora,302,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974762,50.893358
+Aurora,303,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974885,50.893387
+Aurora,304,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974937,50.893329
+Aurora,305,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974793,50.893296
+Aurora,306,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974749,50.893353
+Aurora,307,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974903,50.893391
+Aurora,308,,,6412GN,Heerlen,Heerlen,Limburg,VBO,5.974955,50.893334
 Zeswegenlaan,1,,,6412HA,Heerlen,Heerlen,Limburg,VBO,5.960448,50.900510
 Zeswegenlaan,2,,,6412HA,Heerlen,Heerlen,Limburg,VBO,5.960442,50.900557
 Zeswegenlaan,3,,,6412HA,Heerlen,Heerlen,Limburg,VBO,5.960436,50.900609
@@ -2800,7 +2948,6 @@ Carboonstraat,123,,,6412PB,Heerlen,Heerlen,Limburg,VBO,5.962487,50.897435
 Carboonstraat,125,,,6412PB,Heerlen,Heerlen,Limburg,VBO,5.962455,50.897389
 Carboonstraat,127,,,6412PB,Heerlen,Heerlen,Limburg,VBO,5.962423,50.897347
 Beersdalweg,2,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.939431,50.904018
-Beersdalweg,56,A,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.953552,50.905100
 Beersdalweg,56,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.953250,50.905232
 Beersdalweg,58,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.953902,50.905050
 Beersdalweg,62,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.954594,50.904882
@@ -2816,7 +2963,6 @@ Beersdalweg,95,B,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.959075,50.902944
 Beersdalweg,95,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.960309,50.902551
 Beersdalweg,100,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.958725,50.903751
 Beersdalweg,104,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.960223,50.903162
-Beersdalweg,105,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.950133,50.905363
 Beersdalweg,108,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.960984,50.902938
 Beersdalweg,110,A,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.961607,50.902851
 Beersdalweg,110,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.961576,50.902759
@@ -2824,6 +2970,7 @@ Beersdalweg,115,,,6412PE,Heerlen,Heerlen,Limburg,VBO,5.940329,50.903886
 Vrank,4,,,6412PG,Heerlen,Heerlen,Limburg,VBO,5.955522,50.904843
 Vrank,6,,,6412PG,Heerlen,Heerlen,Limburg,VBO,5.955632,50.904671
 Vrank,7,,,6412PG,Heerlen,Heerlen,Limburg,VBO,5.955722,50.904714
+Wijngaardsweg,2,A,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.940147,50.904773
 Wijngaardsweg,2,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.940147,50.904773
 Wijngaardsweg,4,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.940382,50.904914
 Wijngaardsweg,6,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.940834,50.905026
@@ -2835,11 +2982,11 @@ Wijngaardsweg,16,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.944037,50.906605
 Wijngaardsweg,18,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.944336,50.906216
 Wijngaardsweg,20,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.944546,50.906016
 Wijngaardsweg,22,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.945824,50.906274
-Wijngaardsweg,28,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.944358,50.907020
+Wijngaardsweg,28,A,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.944557,50.906863
+Wijngaardsweg,28,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.944204,50.907155
 Wijngaardsweg,30,A,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.944998,50.907528
 Wijngaardsweg,30,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.944584,50.907258
 Wijngaardsweg,32,A,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.945250,50.907538
-Wijngaardsweg,32,B,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.945269,50.907772
 Wijngaardsweg,32,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.945166,50.907608
 Wijngaardsweg,34,A,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.945682,50.907384
 Wijngaardsweg,34,B,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.945682,50.907384
@@ -2866,6 +3013,7 @@ Wijngaardsweg,60,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.946840,50.908034
 Wijngaardsweg,62,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.946700,50.908143
 Wijngaardsweg,64,,,6412PJ,Heerlen,Heerlen,Limburg,VBO,5.947398,50.907945
 Koningsbeemd,7,,,6412PK,Heerlen,Heerlen,Limburg,VBO,5.948075,50.908892
+Koningsbeemd,8,A,,6412PK,Heerlen,Heerlen,Limburg,VBO,5.948102,50.908748
 Koningsbeemd,8,,,6412PK,Heerlen,Heerlen,Limburg,VBO,5.948228,50.908781
 Koningsbeemd,9,,,6412PK,Heerlen,Heerlen,Limburg,VBO,5.948384,50.908588
 Koningsbeemd,10,,,6412PK,Heerlen,Heerlen,Limburg,VBO,5.948482,50.908469
@@ -2889,6 +3037,7 @@ In de Cramer,90,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
 In de Cramer,92,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
 In de Cramer,94,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
 In de Cramer,96,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
+In de Cramer,98,A,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
 In de Cramer,98,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
 In de Cramer,100,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
 In de Cramer,102,A,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950259,50.897950
@@ -2897,6 +3046,7 @@ In de Cramer,104,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
 In de Cramer,106,A,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950022,50.898014
 In de Cramer,106,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
 In de Cramer,108,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950451,50.897524
+In de Cramer,125,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.950102,50.896049
 In de Cramer,140,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.947242,50.897785
 In de Cramer,142,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.945200,50.899386
 In de Cramer,146,A,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.942781,50.899420
@@ -2910,16 +3060,13 @@ In de Cramer,150,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941447,50.899924
 In de Cramer,152,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941665,50.900167
 In de Cramer,154,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941541,50.900518
 In de Cramer,156,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941082,50.900339
+In de Cramer,158,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941082,50.900339
 In de Cramer,160,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.940642,50.900476
 In de Cramer,162,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.942965,50.900277
 In de Cramer,164,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.942704,50.900382
 In de Cramer,166,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.942428,50.900480
-In de Cramer,168,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.942208,50.900550
 In de Cramer,169,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.942704,50.898403
-In de Cramer,170,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941954,50.900679
-In de Cramer,172,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941731,50.900759
-In de Cramer,174,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941464,50.900855
-In de Cramer,176,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941241,50.900935
+In de Cramer,172,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.941759,50.900781
 In de Cramer,178,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.940973,50.901031
 In de Cramer,180,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.940667,50.901153
 In de Cramer,182,,,6412PM,Heerlen,Heerlen,Limburg,VBO,5.940413,50.900871
@@ -2982,7 +3129,8 @@ Prikkenis,1,,,6412PT,Heerlen,Heerlen,Limburg,VBO,5.943259,50.893487
 Esschenweg,14,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.933579,50.900771
 Esschenweg,16,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.933404,50.900828
 Esschenweg,18,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.933339,50.900869
-Esschenweg,46,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.932127,50.901659
+Esschenweg,46,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.932192,50.901682
+Esschenweg,48,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.932075,50.901657
 Esschenweg,62,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.931572,50.902019
 Esschenweg,68,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.931315,50.902181
 Esschenweg,70,,,6412PV,Heerlen,Heerlen,Limburg,VBO,5.931255,50.902223
@@ -3013,6 +3161,7 @@ Huskensweg,29,,,6412SB,Heerlen,Heerlen,Limburg,VBO,5.969433,50.896531
 Huskensweg,31,,,6412SB,Heerlen,Heerlen,Limburg,VBO,5.969438,50.896590
 Huskensweg,33,,,6412SB,Heerlen,Heerlen,Limburg,VBO,5.968948,50.896896
 Huskensweg,35,,,6412SB,Heerlen,Heerlen,Limburg,VBO,5.968627,50.897045
+Huskensweg,37,A,,6412SB,Heerlen,Heerlen,Limburg,VBO,5.967391,50.898121
 Huskensweg,37,,,6412SB,Heerlen,Heerlen,Limburg,VBO,5.967538,50.897903
 Huskensweg,41,,,6412SB,Heerlen,Heerlen,Limburg,VBO,5.967297,50.898285
 Huskensweg,43,,,6412SB,Heerlen,Heerlen,Limburg,VBO,5.967266,50.898328
@@ -3135,7 +3284,6 @@ Huskensweg,76,,,6412SJ,Heerlen,Heerlen,Limburg,VBO,5.966709,50.899746
 Huskensweg,78,,,6412SJ,Heerlen,Heerlen,Limburg,VBO,5.966569,50.899881
 Huskensweg,80,,,6412SJ,Heerlen,Heerlen,Limburg,VBO,5.966530,50.899925
 Huskensweg,82,,,6412SJ,Heerlen,Heerlen,Limburg,VBO,5.966435,50.900032
-Huskensweg,84,A,,6412SJ,Heerlen,Heerlen,Limburg,VBO,5.965776,50.901040
 Huskensweg,84,,,6412SJ,Heerlen,Heerlen,Limburg,VBO,5.966397,50.900074
 Huskensweg,86,,,6412SJ,Heerlen,Heerlen,Limburg,VBO,5.965129,50.901237
 Huskensweg,88,A,,6412SJ,Heerlen,Heerlen,Limburg,VBO,5.964727,50.901456
@@ -3498,7 +3646,6 @@ Graham Bellstraat,38,,,6412TP,Heerlen,Heerlen,Limburg,VBO,5.974680,50.898723
 Graham Bellstraat,40,,,6412TP,Heerlen,Heerlen,Limburg,VBO,5.974767,50.898683
 Graham Bellstraat,42,,,6412TP,Heerlen,Heerlen,Limburg,VBO,5.974839,50.898648
 Graham Bellstraat,44,,,6412TP,Heerlen,Heerlen,Limburg,VBO,5.974908,50.898619
-Graham Bellstraat,46,,,6412TP,Heerlen,Heerlen,Limburg,VBO,5.975531,50.898347
 Edisonstraat,1,,,6412TR,Heerlen,Heerlen,Limburg,VBO,5.972513,50.899051
 Edisonstraat,3,,,6412TR,Heerlen,Heerlen,Limburg,VBO,5.972546,50.899097
 Edisonstraat,5,,,6412TR,Heerlen,Heerlen,Limburg,VBO,5.972663,50.899226
@@ -3762,14 +3909,10 @@ Meezenbroekerweg,7,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978989,50.895092
 Meezenbroekerweg,8,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978029,50.892898
 Meezenbroekerweg,9,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.979031,50.895140
 Meezenbroekerweg,10,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978058,50.892950
-Meezenbroekerweg,12,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978319,50.893067
 Meezenbroekerweg,12,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978411,50.893274
-Meezenbroekerweg,14,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978357,50.893136
 Meezenbroekerweg,14,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978408,50.893246
 Meezenbroekerweg,16,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978390,50.893222
-Meezenbroekerweg,16,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978395,50.893210
 Meezenbroekerweg,18,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978376,50.893192
-Meezenbroekerweg,18,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978431,50.893277
 Meezenbroekerweg,20,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978367,50.893164
 Meezenbroekerweg,22,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978356,50.893141
 Meezenbroekerweg,24,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978344,50.893120
@@ -3780,6 +3923,7 @@ Meezenbroekerweg,48,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978798,50.894345
 Meezenbroekerweg,50,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978830,50.894412
 Meezenbroekerweg,52,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.978875,50.894462
 Meezenbroekerweg,58,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.979015,50.894642
+Meezenbroekerweg,60,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.979015,50.894642
 Meezenbroekerweg,62,,,6412VK,Heerlen,Heerlen,Limburg,VBO,5.979092,50.894720
 Meezenbroekerweg,70,,,6412VL,Heerlen,Heerlen,Limburg,VBO,5.979445,50.895099
 Meezenbroekerweg,72,,,6412VL,Heerlen,Heerlen,Limburg,VBO,5.979536,50.895210
@@ -4144,8 +4288,8 @@ Citrusstraat,14,,,6412WL,Heerlen,Heerlen,Limburg,VBO,5.980101,50.893319
 Citrusstraat,16,,,6412WL,Heerlen,Heerlen,Limburg,VBO,5.980144,50.893326
 Citrusstraat,18,,,6412WL,Heerlen,Heerlen,Limburg,VBO,5.980104,50.893373
 Elfmorgenstraat,5,,,6412XB,Heerlen,Heerlen,Limburg,VBO,5.978348,50.892808
-Elfmorgenstraat,7,,,6412XB,Heerlen,Heerlen,Limburg,VBO,5.978429,50.892820
-Elfmorgenstraat,9,A,,6412XB,Heerlen,Heerlen,Limburg,VBO,5.978882,50.892860
+Elfmorgenstraat,7,A,,6412XB,Heerlen,Heerlen,Limburg,VBO,5.978462,50.892790
+Elfmorgenstraat,7,,,6412XB,Heerlen,Heerlen,Limburg,VBO,5.978437,50.892788
 Elfmorgenstraat,9,,,6412XB,Heerlen,Heerlen,Limburg,VBO,5.978500,50.892831
 Elfmorgenstraat,11,,,6412XB,Heerlen,Heerlen,Limburg,VBO,5.979244,50.892993
 Elfmorgenstraat,13,,,6412XB,Heerlen,Heerlen,Limburg,VBO,5.979316,50.893007
@@ -4213,7 +4357,13 @@ Oude Kerkstraat,19,A,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980853,50.892471
 Oude Kerkstraat,19,,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980854,50.892426
 Oude Kerkstraat,21,,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980850,50.892527
 Oude Kerkstraat,25,,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980788,50.892770
-Oude Kerkstraat,27,,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980796,50.892882
+Oude Kerkstraat,27,A,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980700,50.892838
+Oude Kerkstraat,27,B,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980604,50.892837
+Oude Kerkstraat,27,C,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980798,50.892853
+Oude Kerkstraat,27,D,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980786,50.892901
+Oude Kerkstraat,27,E,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980767,50.892867
+Oude Kerkstraat,27,,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980825,50.892852
+Oude Kerkstraat,29,,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980827,50.892898
 Oude Kerkstraat,31,A,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980702,50.892962
 Oude Kerkstraat,31,,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980772,50.892978
 Oude Kerkstraat,35,,,6412XD,Heerlen,Heerlen,Limburg,VBO,5.980708,50.893293
@@ -4536,6 +4686,7 @@ Trompenburgstraat,5,,,6412ZH,Heerlen,Heerlen,Limburg,VBO,5.945639,50.901209
 Trompenburgstraat,12,,,6412ZH,Heerlen,Heerlen,Limburg,VBO,5.942369,50.902915
 Trompenburgstraat,14,,,6412ZH,Heerlen,Heerlen,Limburg,VBO,5.940706,50.903566
 Terhoevenderweg,95,,,6412ZJ,Heerlen,Heerlen,Limburg,VBO,5.947708,50.903294
+Terhoevenderweg,96,A,,6412ZJ,Heerlen,Heerlen,Limburg,VBO,5.948621,50.903184
 Terhoevenderweg,96,,,6412ZJ,Heerlen,Heerlen,Limburg,VBO,5.948621,50.903184
 Terhoevenderweg,97,,,6412ZJ,Heerlen,Heerlen,Limburg,VBO,5.947688,50.904298
 Terhoevenderweg,98,,,6412ZJ,Heerlen,Heerlen,Limburg,VBO,5.948814,50.904246
@@ -4564,7 +4715,6 @@ Breukerweg,196,B,,6412ZL,Heerlen,Heerlen,Limburg,VBO,5.944873,50.904698
 Breukerweg,196,C,,6412ZL,Heerlen,Heerlen,Limburg,VBO,5.944844,50.904754
 Breukerweg,196,,,6412ZL,Heerlen,Heerlen,Limburg,VBO,5.945820,50.905044
 Breukerweg,198,,,6412ZL,Heerlen,Heerlen,Limburg,VBO,5.944311,50.904784
-Breukerweg,200,A,,6412ZL,Heerlen,Heerlen,Limburg,VBO,5.943620,50.904753
 Breukerweg,200,,,6412ZL,Heerlen,Heerlen,Limburg,VBO,5.943602,50.904920
 Duikerstraat,1,,,6412ZN,Heerlen,Heerlen,Limburg,VBO,5.952315,50.900128
 Duikerstraat,3,,,6412ZN,Heerlen,Heerlen,Limburg,VBO,5.952244,50.900154

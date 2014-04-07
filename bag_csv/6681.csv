@@ -180,7 +180,6 @@ van Ambestraat,37,,,6681AK,Bemmel,Lingewaard,Gelderland,VBO,5.891185,51.890613
 van Ambestraat,4,,,6681AL,Bemmel,Lingewaard,Gelderland,VBO,5.896809,51.891127
 van Ambestraat,6,,,6681AL,Bemmel,Lingewaard,Gelderland,VBO,5.896585,51.891174
 van Ambestraat,8,,,6681AL,Bemmel,Lingewaard,Gelderland,VBO,5.896370,51.891213
-van Ambestraat,10,,,6681AL,Bemmel,Lingewaard,Gelderland,VBO,5.896106,51.891248
 van Ambestraat,10,,,6681AL,Bemmel,Lingewaard,Gelderland,VBO,5.896140,51.891263
 van Ambestraat,12,,,6681AL,Bemmel,Lingewaard,Gelderland,VBO,5.895903,51.891258
 van Ambestraat,14,,,6681AL,Bemmel,Lingewaard,Gelderland,VBO,5.895787,51.891267
@@ -494,6 +493,7 @@ Kinkelenburglaan,2,,,6681BJ,Bemmel,Lingewaard,Gelderland,VBO,5.896648,51.890293
 Kinkelenburglaan,4,,,6681BJ,Bemmel,Lingewaard,Gelderland,VBO,5.896183,51.890286
 Kinkelenburglaan,6,,,6681BJ,Bemmel,Lingewaard,Gelderland,VBO,5.895048,51.890102
 Kinkelenburglaan,8,,,6681BJ,Bemmel,Lingewaard,Gelderland,VBO,5.895504,51.889336
+Kinkelenburglaan,8,,,6681BJ,Bemmel,Lingewaard,Gelderland,VBO,5.895524,51.889385
 Kinkelenburglaan,10,a,,6681BJ,Bemmel,Lingewaard,Gelderland,VBO,5.895661,51.889084
 Kinkelenburglaan,10,b,,6681BJ,Bemmel,Lingewaard,Gelderland,VBO,5.895806,51.889065
 Kinkelenburglaan,10,,,6681BJ,Bemmel,Lingewaard,Gelderland,VBO,5.895968,51.889280
@@ -585,7 +585,9 @@ Dorpsstraat,45,,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.898095,51.891106
 Dorpsstraat,47,,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897967,51.891032
 Dorpsstraat,49,,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897918,51.891002
 Dorpsstraat,55,,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897738,51.890872
-Dorpsstraat,57,a,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897595,51.890766
+Dorpsstraat,57,a,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897595,51.890785
+Dorpsstraat,57,b,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897678,51.890753
+Dorpsstraat,57,c,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897602,51.890750
 Dorpsstraat,57,,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897623,51.890797
 Dorpsstraat,59,,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897564,51.890610
 Dorpsstraat,61,a,,6681BL,Bemmel,Lingewaard,Gelderland,VBO,5.897650,51.890529
@@ -1040,13 +1042,6 @@ Drieske,4,,,6681CX,Bemmel,Lingewaard,Gelderland,VBO,5.917507,51.892768
 Drieske,5,,,6681CX,Bemmel,Lingewaard,Gelderland,VBO,5.916226,51.892615
 Drieske,7,,,6681CX,Bemmel,Lingewaard,Gelderland,VBO,5.915782,51.892421
 Van Nispenlaan,2,,,6681CZ,Bemmel,Lingewaard,Gelderland,VBO,5.918661,51.892268
-de Heister,2,a,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913328,51.894372
-de Heister,2,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913300,51.894606
-de Heister,4,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913326,51.894183
-de Heister,6,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913323,51.893913
-de Heister,8,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913350,51.893707
-de Heister,10,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913347,51.893491
-de Heister,12,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913374,51.893284
 Papenstraat,5,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.906030,51.895159
 Papenstraat,7,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.906335,51.895158
 Papenstraat,9,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.906640,51.895166
@@ -1066,6 +1061,13 @@ Papenstraat,41,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.909231,51.895329
 Papenstraat,43,a,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.909741,51.895345
 Papenstraat,43,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.909620,51.895332
 Papenstraat,45,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.910289,51.895356
+de Heister,2,a,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913328,51.894372
+de Heister,2,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913300,51.894606
+de Heister,4,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913326,51.894183
+de Heister,6,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913323,51.893913
+de Heister,8,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913350,51.893707
+de Heister,10,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913347,51.893491
+de Heister,12,,,6681DA,Bemmel,Lingewaard,Gelderland,VBO,5.913374,51.893284
 Papenstraat,2,,,6681DB,Bemmel,Lingewaard,Gelderland,VBO,5.905714,51.894791
 Papenstraat,4,,,6681DB,Bemmel,Lingewaard,Gelderland,VBO,5.905793,51.894792
 Papenstraat,6,,,6681DB,Bemmel,Lingewaard,Gelderland,VBO,5.906017,51.894810
@@ -1345,6 +1347,7 @@ Plakselaan,22,,,6681DS,Bemmel,Lingewaard,Gelderland,STA,5.888498,51.898473
 Plakselaan,26,,,6681DS,Bemmel,Lingewaard,Gelderland,STA,5.888231,51.898469
 Plakselaan,30,,,6681DS,Bemmel,Lingewaard,Gelderland,STA,5.888015,51.898468
 Kattenleger,1,,,6681DT,Bemmel,Lingewaard,Gelderland,VBO,5.890903,51.905301
+Kattenleger,2,,,6681DT,Bemmel,Lingewaard,Gelderland,VBO,5.890600,51.906005
 Kattenleger,3,,,6681DT,Bemmel,Lingewaard,Gelderland,VBO,5.890521,51.905337
 Kattenleger,5,,,6681DT,Bemmel,Lingewaard,Gelderland,VBO,5.890061,51.905305
 Kattenleger,6,,,6681DT,Bemmel,Lingewaard,Gelderland,VBO,5.882005,51.906121
@@ -2452,7 +2455,8 @@ Vossenpels,48,,,6681KE,Bemmel,Lingewaard,Gelderland,VBO,5.877900,51.874930
 Vossenpels,52,a,,6681KE,Bemmel,Lingewaard,Gelderland,VBO,5.878316,51.875792
 Vossenpels,52,,,6681KE,Bemmel,Lingewaard,Gelderland,VBO,5.877575,51.875723
 Vossenpels,54,,,6681KE,Bemmel,Lingewaard,Gelderland,VBO,5.877607,51.876001
-Doornik,1,,,6681KG,Bemmel,Lingewaard,Gelderland,VBO,5.883535,51.872261
+Doornik,1,a,,6681KG,Bemmel,Lingewaard,Gelderland,VBO,5.883554,51.872199
+Doornik,1,,,6681KG,Bemmel,Lingewaard,Gelderland,VBO,5.884248,51.872052
 Doornik,3,,,6681KG,Bemmel,Lingewaard,Gelderland,VBO,5.882000,51.872693
 Doornik,4,,,6681KG,Bemmel,Lingewaard,Gelderland,VBO,5.880448,51.872852
 Doornik,7,a,,6681KG,Bemmel,Lingewaard,Gelderland,VBO,5.879998,51.872457
@@ -2537,7 +2541,7 @@ Dikelsestraat,7,,,6681LD,Bemmel,Lingewaard,Gelderland,VBO,5.895910,51.904957
 Dikelsestraat,9,,,6681LD,Bemmel,Lingewaard,Gelderland,VBO,5.894374,51.902509
 Dikelsestraat,14,,,6681LD,Bemmel,Lingewaard,Gelderland,VBO,5.894801,51.905563
 Dikelsestraat,16,,,6681LD,Bemmel,Lingewaard,Gelderland,VBO,5.891941,51.905773
-de Vergert,1,,,6681LE,Bemmel,Lingewaard,Gelderland,VBO,5.890838,51.905904
+de Vergert,1,,,6681LE,Bemmel,Lingewaard,Gelderland,VBO,5.890852,51.905878
 de Vergert,4,,,6681LE,Bemmel,Lingewaard,Gelderland,VBO,5.891958,51.906016
 de Vergert,10,,,6681LE,Bemmel,Lingewaard,Gelderland,VBO,5.891593,51.907177
 de Vergert,12,,,6681LE,Bemmel,Lingewaard,Gelderland,VBO,5.892009,51.907975
@@ -3777,6 +3781,7 @@ Azalealaan,11,a,,6681RH,Bemmel,Lingewaard,Gelderland,VBO,5.896964,51.927437
 Azalealaan,11,,,6681RH,Bemmel,Lingewaard,Gelderland,VBO,5.895992,51.926764
 Azalealaan,12,,,6681RJ,Bemmel,Lingewaard,Gelderland,VBO,5.902721,51.925320
 Azalealaan,14,,,6681RJ,Bemmel,Lingewaard,Gelderland,VBO,5.902447,51.925467
+Veronica,2,,,6681RK,Bemmel,Lingewaard,Gelderland,VBO,5.912846,51.917944
 Veronica,7,,,6681RK,Bemmel,Lingewaard,Gelderland,VBO,5.910562,51.915274
 Lobelia,3,,,6681RL,Bemmel,Lingewaard,Gelderland,VBO,5.915005,51.919748
 Meander,1,,,6681TA,Bemmel,Lingewaard,Gelderland,VBO,5.914659,51.890123
@@ -4844,6 +4849,78 @@ Gouden Appel,108,,,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903285,51.893406
 Gouden Appel,110,,,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903293,51.893472
 Gouden Appel,112,,,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903292,51.893550
 Gouden Appel,114,,,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903289,51.893615
+Gouden Appel,120,k,1,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903675,51.893689
+Gouden Appel,120,k,10,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904095,51.893377
+Gouden Appel,120,k,101,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903675,51.893706
+Gouden Appel,120,k,102,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903792,51.893706
+Gouden Appel,120,k,103,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903907,51.893704
+Gouden Appel,120,k,104,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903957,51.893656
+Gouden Appel,120,k,105,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903956,51.893603
+Gouden Appel,120,k,106,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903956,51.893551
+Gouden Appel,120,k,107,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903956,51.893498
+Gouden Appel,120,k,108,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903956,51.893446
+Gouden Appel,120,k,109,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903953,51.893393
+Gouden Appel,120,k,11,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904095,51.893429
+Gouden Appel,120,k,110,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904095,51.893393
+Gouden Appel,120,k,111,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904095,51.893446
+Gouden Appel,120,k,112,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904096,51.893498
+Gouden Appel,120,k,113,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904096,51.893551
+Gouden Appel,120,k,114,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904097,51.893603
+Gouden Appel,120,k,115,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904099,51.893655
+Gouden Appel,120,k,116,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904170,51.893704
+Gouden Appel,120,k,117,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904286,51.893703
+Gouden Appel,120,k,118,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904402,51.893701
+Gouden Appel,120,k,119,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904519,51.893701
+Gouden Appel,120,k,12,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904096,51.893482
+Gouden Appel,120,k,120,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904636,51.893700
+Gouden Appel,120,k,121,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904665,51.893650
+Gouden Appel,120,k,122,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904663,51.893598
+Gouden Appel,120,k,123,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904663,51.893545
+Gouden Appel,120,k,124,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904662,51.893493
+Gouden Appel,120,k,125,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904661,51.893440
+Gouden Appel,120,k,126,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904661,51.893388
+Gouden Appel,120,k,13,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904096,51.893534
+Gouden Appel,120,k,14,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904097,51.893587
+Gouden Appel,120,k,15,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904098,51.893638
+Gouden Appel,120,k,2,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903792,51.893689
+Gouden Appel,120,k,201,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903674,51.893722
+Gouden Appel,120,k,202,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903790,51.893720
+Gouden Appel,120,k,203,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903907,51.893722
+Gouden Appel,120,k,204,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903957,51.893672
+Gouden Appel,120,k,205,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903956,51.893620
+Gouden Appel,120,k,206,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903955,51.893567
+Gouden Appel,120,k,207,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903956,51.893514
+Gouden Appel,120,k,208,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903955,51.893462
+Gouden Appel,120,k,209,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903954,51.893410
+Gouden Appel,120,k,21,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904665,51.893633
+Gouden Appel,120,k,210,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904095,51.893409
+Gouden Appel,120,k,211,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904095,51.893461
+Gouden Appel,120,k,212,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904096,51.893514
+Gouden Appel,120,k,213,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904097,51.893566
+Gouden Appel,120,k,214,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904097,51.893619
+Gouden Appel,120,k,215,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904098,51.893672
+Gouden Appel,120,k,216,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904170,51.893720
+Gouden Appel,120,k,217,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904286,51.893719
+Gouden Appel,120,k,218,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904403,51.893719
+Gouden Appel,120,k,219,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904517,51.893719
+Gouden Appel,120,k,22,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904663,51.893581
+Gouden Appel,120,k,220,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904635,51.893718
+Gouden Appel,120,k,221,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904665,51.893666
+Gouden Appel,120,k,222,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904663,51.893614
+Gouden Appel,120,k,223,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904663,51.893561
+Gouden Appel,120,k,224,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904662,51.893509
+Gouden Appel,120,k,225,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904661,51.893456
+Gouden Appel,120,k,226,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904661,51.893404
+Gouden Appel,120,k,23,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904663,51.893529
+Gouden Appel,120,k,24,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904662,51.893477
+Gouden Appel,120,k,25,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904661,51.893425
+Gouden Appel,120,k,26,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904659,51.893371
+Gouden Appel,120,k,4,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903957,51.893640
+Gouden Appel,120,k,5,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903957,51.893587
+Gouden Appel,120,k,6,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903955,51.893534
+Gouden Appel,120,k,7,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903954,51.893483
+Gouden Appel,120,k,8,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903954,51.893430
+Gouden Appel,120,k,9,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.903954,51.893377
 Gouden Appel,120,,,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904415,51.894076
 Gouden Appel,122,,,6681WP,Bemmel,Lingewaard,Gelderland,VBO,5.904408,51.893931
 Oostervelden,41,,,6681WR,Bemmel,Lingewaard,Gelderland,VBO,5.906638,51.893701

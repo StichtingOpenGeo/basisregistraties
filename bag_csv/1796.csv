@@ -1,16 +1,16 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Badweg,2,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762534,53.100126
 Badweg,3,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762301,53.099886
-Badweg,8,A,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762155,53.100231
 Badweg,8,A,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762417,53.100424
-Badweg,8,B,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762217,53.100213
+Badweg,8,A,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762155,53.100231
 Badweg,8,B,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762451,53.100472
+Badweg,8,B,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762217,53.100213
 Badweg,8,C,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762489,53.100513
 Badweg,8,C,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762436,53.100410
 Badweg,8,D,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762421,53.100528
 Badweg,8,E,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762516,53.100505
-Badweg,8,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762320,53.100377
 Badweg,8,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762375,53.100378
+Badweg,8,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762320,53.100377
 Badweg,9,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762014,53.099852
 Badweg,10,A,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762128,53.100162
 Badweg,10,B,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.762275,53.100237
@@ -28,7 +28,7 @@ Badweg,31,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.758680,53.100770
 Badweg,32,A,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.759922,53.101205
 Badweg,32,B,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.759954,53.101254
 Badweg,32,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.759646,53.101038
-Badweg,33,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.757898,53.100666
+Badweg,33,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.758058,53.100802
 Badweg,34,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.759661,53.101029
 Badweg,36,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.759676,53.101020
 Badweg,38,,,1796AA,De Koog,Texel,Noord-Holland,VBO,4.759691,53.101011
@@ -255,7 +255,7 @@ Parnassiastraat,33,,,1796AG,De Koog,Texel,Noord-Holland,VBO,4.760248,53.097735
 Parnassiastraat,34,,,1796AG,De Koog,Texel,Noord-Holland,VBO,4.761777,53.098231
 Parnassiastraat,36,A,,1796AG,De Koog,Texel,Noord-Holland,VBO,4.761234,53.098124
 Parnassiastraat,36,,,1796AG,De Koog,Texel,Noord-Holland,VBO,4.761231,53.098161
-Brink,3,,,1796AH,De Koog,Texel,Noord-Holland,VBO,4.762444,53.096712
+Brink,3,,,1796AH,De Koog,Texel,Noord-Holland,VBO,4.762620,53.096722
 Brink,5,,,1796AH,De Koog,Texel,Noord-Holland,VBO,4.762322,53.096745
 Brink,7,A,,1796AH,De Koog,Texel,Noord-Holland,VBO,4.762159,53.096608
 Brink,7,,,1796AH,De Koog,Texel,Noord-Holland,VBO,4.762198,53.096740
@@ -539,7 +539,6 @@ Orchismient,35,,,1796AV,De Koog,Texel,Noord-Holland,VBO,4.759839,53.091995
 Orchismient,37,,,1796AV,De Koog,Texel,Noord-Holland,VBO,4.760084,53.091998
 Orchismient,39,,,1796AV,De Koog,Texel,Noord-Holland,VBO,4.760267,53.091820
 Orchismient,41,,,1796AV,De Koog,Texel,Noord-Holland,VBO,4.760177,53.091541
-Orchismient,43,A,,1796AW,De Koog,Texel,Noord-Holland,VBO,4.759823,53.091446
 Orchismient,43,,,1796AW,De Koog,Texel,Noord-Holland,VBO,4.759887,53.091460
 Orchismient,45,,,1796AW,De Koog,Texel,Noord-Holland,VBO,4.759517,53.091365
 Orchismient,47,,,1796AW,De Koog,Texel,Noord-Holland,VBO,4.759189,53.091288
@@ -686,6 +685,8 @@ Boodtlaan,43,A,,1796BD,De Koog,Texel,Noord-Holland,VBO,4.769620,53.104309
 Boodtlaan,43,,,1796BD,De Koog,Texel,Noord-Holland,VBO,4.769632,53.104337
 Boodtlaan,55,A,,1796BD,De Koog,Texel,Noord-Holland,VBO,4.771790,53.104182
 Boodtlaan,55,,,1796BD,De Koog,Texel,Noord-Holland,VBO,4.772368,53.104143
+Boodtlaan,57,,,1796BD,De Koog,Texel,Noord-Holland,VBO,4.768848,53.107021
+Boodtlaan,59,,,1796BD,De Koog,Texel,Noord-Holland,VBO,4.765084,53.110552
 Boodtlaan,4,A,,1796BE,De Koog,Texel,Noord-Holland,VBO,4.763227,53.100185
 Boodtlaan,4,B,,1796BE,De Koog,Texel,Noord-Holland,VBO,4.763257,53.100167
 Boodtlaan,4,C,,1796BE,De Koog,Texel,Noord-Holland,VBO,4.763227,53.100149
@@ -1051,7 +1052,6 @@ Stappeland,62,,,1796BV,De Koog,Texel,Noord-Holland,VBO,4.770406,53.099527
 Stappeland,64,,,1796BV,De Koog,Texel,Noord-Holland,VBO,4.770537,53.099786
 Stappeland,66,,,1796BV,De Koog,Texel,Noord-Holland,VBO,4.770649,53.099478
 Stappeland,68,,,1796BV,De Koog,Texel,Noord-Holland,VBO,4.770917,53.099417
-Stappeland,69,,,1796BV,De Koog,Texel,Noord-Holland,VBO,4.768947,53.100964
 Stappeland,70,,,1796BV,De Koog,Texel,Noord-Holland,VBO,4.769524,53.100793
 Stappeland,71,,,1796BV,De Koog,Texel,Noord-Holland,VBO,4.769218,53.101053
 Stappeland,72,,,1796BV,De Koog,Texel,Noord-Holland,VBO,4.769808,53.100762
@@ -1093,8 +1093,8 @@ Stappeland,107,,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.768440,53.100079
 Stappeland,108,,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.772084,53.099545
 Stappeland,109,A,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.767680,53.099809
 Stappeland,109,B,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.767626,53.099795
-Stappeland,109,,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.768168,53.099928
 Stappeland,109,,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.768103,53.099906
+Stappeland,109,,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.768168,53.099928
 Stappeland,110,,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.772290,53.099456
 Stappeland,111,,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.768071,53.100131
 Stappeland,112,,,1796BX,De Koog,Texel,Noord-Holland,VBO,4.772549,53.099346
@@ -1378,7 +1378,6 @@ Dorpsstraat,264,,,1796CJ,De Koog,Texel,Noord-Holland,VBO,4.765966,53.094187
 Dorpsstraat,268,,,1796CJ,De Koog,Texel,Noord-Holland,VBO,4.767378,53.093418
 Dorpsstraat,270,,,1796CJ,De Koog,Texel,Noord-Holland,VBO,4.767118,53.093387
 Pontweg,123,A,,1796MA,De Koog,Texel,Noord-Holland,VBO,4.771984,53.069696
-Pontweg,123,,,1796MA,De Koog,Texel,Noord-Holland,VBO,4.772625,53.069355
 Pontweg,125,,,1796MA,De Koog,Texel,Noord-Holland,VBO,4.771844,53.069406
 Pontweg,127,,,1796MA,De Koog,Texel,Noord-Holland,VBO,4.771669,53.071103
 Pontweg,133,A,,1796MA,De Koog,Texel,Noord-Holland,VBO,4.771954,53.071503
@@ -1449,8 +1448,8 @@ Pontweg,150,,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.772927,53.076575
 Pontweg,150,,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.774211,53.076562
 Pontweg,152,A,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.775220,53.079824
 Pontweg,152,,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.775290,53.079803
-Pontweg,160,,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.773520,53.082361
 Pontweg,160,,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.773128,53.082290
+Pontweg,160,,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.773520,53.082361
 Pontweg,162,,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.773830,53.082352
 Pontweg,162,,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.773227,53.082321
 Pontweg,164,A,,1796MD,De Koog,Texel,Noord-Holland,VBO,4.774080,53.082831
@@ -1572,6 +1571,7 @@ Maaikeduinweg,5,,,1796MN,De Koog,Texel,Noord-Holland,VBO,4.784228,53.100363
 Maaikeduinweg,7,A,,1796MN,De Koog,Texel,Noord-Holland,VBO,4.784411,53.099713
 Maaikeduinweg,7,B,,1796MN,De Koog,Texel,Noord-Holland,VBO,4.784934,53.099361
 Maaikeduinweg,7,,,1796MN,De Koog,Texel,Noord-Holland,VBO,4.784460,53.099445
+Maaikeduinweg,8,A,,1796MN,De Koog,Texel,Noord-Holland,VBO,4.783676,53.098121
 Maaikeduinweg,9,A,,1796MN,De Koog,Texel,Noord-Holland,VBO,4.785414,53.097238
 Maaikeduinweg,9,B,,1796MN,De Koog,Texel,Noord-Holland,VBO,4.785504,53.097248
 Maaikeduinweg,9,C,,1796MN,De Koog,Texel,Noord-Holland,VBO,4.785593,53.097257
@@ -2145,7 +2145,6 @@ Pelikaanweg,51,B,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759489,53.080844
 Pelikaanweg,51,C,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759435,53.080817
 Pelikaanweg,51,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759590,53.080838
 Pelikaanweg,53,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759536,53.080733
-Pelikaanweg,55,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759508,53.080565
 Pelikaanweg,55,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759474,53.080590
 Pelikaanweg,57,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760743,53.080624
 Pelikaanweg,59,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760720,53.080439
@@ -2155,13 +2154,13 @@ Pelikaanweg,65,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760041,53.080368
 Pelikaanweg,67,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759741,53.080288
 Pelikaanweg,69,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759490,53.080340
 Pelikaanweg,71,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759434,53.080121
-Pelikaanweg,73,A,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.761007,53.079755
+Pelikaanweg,73,A,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.761050,53.079743
 Pelikaanweg,73,B,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760444,53.079741
-Pelikaanweg,73,C,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760412,53.079408
+Pelikaanweg,73,C,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760457,53.079411
 Pelikaanweg,73,D,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760060,53.079509
 Pelikaanweg,73,E,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.759935,53.079795
-Pelikaanweg,73,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760795,53.079546
-Pelikaanweg,73,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760149,53.079173
+Pelikaanweg,73,F,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760149,53.079173
+Pelikaanweg,73,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760801,53.079596
 Pelikaanweg,75,A,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760712,53.078883
 Pelikaanweg,75,,,1796NP,De Koog,Texel,Noord-Holland,VBO,4.760595,53.078730
 Pelikaanweg,8,A,,1796NR,De Koog,Texel,Noord-Holland,VBO,4.763424,53.081691
@@ -2301,7 +2300,7 @@ Californiëweg,59,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.760279,53.074898
 Californiëweg,61,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.760018,53.074899
 Californiëweg,63,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.759580,53.074506
 Californiëweg,65,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.759953,53.074624
-Californiëweg,67,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.760301,53.074611
+Californiëweg,67,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.760294,53.074623
 Californiëweg,69,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.760637,53.074599
 Californiëweg,71,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.760975,53.074558
 Californiëweg,73,,,1796PB,De Koog,Texel,Noord-Holland,VBO,4.760971,53.074304
@@ -2532,7 +2531,6 @@ Californiëweg,118,,,1796PN,De Koog,Texel,Noord-Holland,VBO,4.760710,53.076238
 Californiëweg,120,,,1796PN,De Koog,Texel,Noord-Holland,VBO,4.760576,53.076029
 Californiëweg,122,,,1796PN,De Koog,Texel,Noord-Holland,VBO,4.760394,53.076251
 Californiëweg,124,,,1796PN,De Koog,Texel,Noord-Holland,VBO,4.760429,53.076451
-Californiëweg,126,,,1796PP,De Koog,Texel,Noord-Holland,VBO,4.760513,53.076718
 Californiëweg,126,,,1796PP,De Koog,Texel,Noord-Holland,VBO,4.760488,53.076712
 Californiëweg,128,,,1796PP,De Koog,Texel,Noord-Holland,VBO,4.760518,53.077011
 Californiëweg,130,B,,1796PP,De Koog,Texel,Noord-Holland,VBO,4.760558,53.077434

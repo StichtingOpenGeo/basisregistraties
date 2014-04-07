@@ -1,5 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Hereweg,126,,,9722AA,Groningen,Groningen,Groningen,VBO,6.576225,53.202751
+Hereweg,128,,,9722AA,Groningen,Groningen,Groningen,VBO,6.578542,53.202128
 Hereweg,130,,,9722AA,Groningen,Groningen,Groningen,VBO,6.577373,53.201646
 Hereweg,132,,,9722AA,Groningen,Groningen,Groningen,VBO,6.577510,53.201579
 Hereweg,134,,,9722AA,Groningen,Groningen,Groningen,VBO,6.577552,53.201539
@@ -593,7 +594,6 @@ Groenesteinlaan,5,,,9722BW,Groningen,Groningen,Groningen,VBO,6.583914,53.200390
 Groenesteinlaan,7,,,9722BW,Groningen,Groningen,Groningen,VBO,6.584086,53.200402
 Groenesteinlaan,9,,,9722BW,Groningen,Groningen,Groningen,VBO,6.584130,53.200404
 Groenesteinlaan,11,,,9722BW,Groningen,Groningen,Groningen,VBO,6.584171,53.200407
-Groenesteinlaan,13,,,9722BW,Groningen,Groningen,Groningen,VBO,6.585519,53.200453
 Groenesteinlaan,2,,,9722BX,Groningen,Groningen,Groningen,VBO,6.582980,53.200534
 Groenesteinlaan,4,,,9722BX,Groningen,Groningen,Groningen,VBO,6.583065,53.200541
 Groenesteinlaan,6,,,9722BX,Groningen,Groningen,Groningen,VBO,6.583150,53.200547
@@ -722,7 +722,6 @@ Haydnlaan,40,,,9722CJ,Groningen,Groningen,Groningen,VBO,6.584769,53.200680
 Haydnlaan,42,,,9722CJ,Groningen,Groningen,Groningen,VBO,6.584889,53.200414
 Haydnlaan,46,,,9722CJ,Groningen,Groningen,Groningen,VBO,6.585176,53.199597
 Haydnlaan,48,,,9722CJ,Groningen,Groningen,Groningen,VBO,6.585364,53.199011
-Haydnlaan,102,a,,9722CL,Groningen,Groningen,Groningen,VBO,6.585287,53.199130
 Haydnlaan,102,,,9722CL,Groningen,Groningen,Groningen,VBO,6.585419,53.198877
 Groenendaal,1,,,9722CM,Groningen,Groningen,Groningen,VBO,6.584572,53.201346
 Groenendaal,3,,,9722CM,Groningen,Groningen,Groningen,VBO,6.584660,53.201360
@@ -1002,7 +1001,7 @@ Helper Brink,33,,,9722EG,Groningen,Groningen,Groningen,VBO,6.582306,53.199452
 Helper Brink,35,a,,9722EG,Groningen,Groningen,Groningen,VBO,6.582370,53.199438
 Helper Brink,35,,,9722EG,Groningen,Groningen,Groningen,VBO,6.582362,53.199460
 Helper Brink,37,,,9722EH,Groningen,Groningen,Groningen,VBO,6.583017,53.199579
-Helper Brink,39,,,9722EH,Groningen,Groningen,Groningen,VBO,6.583017,53.199579
+Helper Brink,39,,,9722EH,Groningen,Groningen,Groningen,VBO,6.583067,53.199584
 Helper Brink,41,,,9722EH,Groningen,Groningen,Groningen,VBO,6.583240,53.199594
 Helper Brink,43,a,,9722EH,Groningen,Groningen,Groningen,VBO,6.583397,53.199568
 Helper Brink,43,b,,9722EH,Groningen,Groningen,Groningen,VBO,6.583402,53.199547
@@ -1026,7 +1025,105 @@ Helper Brink,55,,,9722EJ,Groningen,Groningen,Groningen,VBO,6.584161,53.199664
 Helper Brink,57,a,,9722EJ,Groningen,Groningen,Groningen,VBO,6.584320,53.199689
 Helper Brink,57,b,,9722EJ,Groningen,Groningen,Groningen,VBO,6.584366,53.199693
 Helper Brink,57,,,9722EJ,Groningen,Groningen,Groningen,VBO,6.584280,53.199685
-Helper Brink,59,,,9722EK,Groningen,Groningen,Groningen,VBO,6.586293,53.199617
+Helper Brink,59,a,,9722EK,Groningen,Groningen,Groningen,VBO,6.585707,53.199345
+Helper Brink,59,b,,9722EK,Groningen,Groningen,Groningen,VBO,6.585724,53.199291
+Helper Brink,59,c,,9722EK,Groningen,Groningen,Groningen,VBO,6.585740,53.199245
+Helper Brink,59,d,,9722EK,Groningen,Groningen,Groningen,VBO,6.585755,53.199199
+Helper Brink,59,,1,9722EK,Groningen,Groningen,Groningen,VBO,6.585860,53.199568
+Helper Brink,59,,10,9722EK,Groningen,Groningen,Groningen,VBO,6.586361,53.199629
+Helper Brink,59,,11,9722EK,Groningen,Groningen,Groningen,VBO,6.586419,53.199632
+Helper Brink,59,,12,9722EK,Groningen,Groningen,Groningen,VBO,6.586476,53.199640
+Helper Brink,59,,13,9722EK,Groningen,Groningen,Groningen,VBO,6.586526,53.199644
+Helper Brink,59,,14,9722EK,Groningen,Groningen,Groningen,VBO,6.585866,53.199539
+Helper Brink,59,,15,9722EK,Groningen,Groningen,Groningen,VBO,6.585934,53.199549
+Helper Brink,59,,16,9722EK,Groningen,Groningen,Groningen,VBO,6.586002,53.199555
+Helper Brink,59,,17,9722EK,Groningen,Groningen,Groningen,VBO,6.586061,53.199562
+Helper Brink,59,,18,9722EK,Groningen,Groningen,Groningen,VBO,6.586117,53.199570
+Helper Brink,59,,19,9722EK,Groningen,Groningen,Groningen,VBO,6.586181,53.199578
+Helper Brink,59,,2,9722EK,Groningen,Groningen,Groningen,VBO,6.585928,53.199576
+Helper Brink,59,,20,9722EK,Groningen,Groningen,Groningen,VBO,6.586246,53.199584
+Helper Brink,59,,21,9722EK,Groningen,Groningen,Groningen,VBO,6.586308,53.199590
+Helper Brink,59,,22,9722EK,Groningen,Groningen,Groningen,VBO,6.586369,53.199602
+Helper Brink,59,,23,9722EK,Groningen,Groningen,Groningen,VBO,6.586430,53.199600
+Helper Brink,59,,24,9722EK,Groningen,Groningen,Groningen,VBO,6.586491,53.199609
+Helper Brink,59,,25,9722EK,Groningen,Groningen,Groningen,VBO,6.586541,53.199614
+Helper Brink,59,,26,9722EK,Groningen,Groningen,Groningen,VBO,6.585874,53.199512
+Helper Brink,59,,27,9722EK,Groningen,Groningen,Groningen,VBO,6.585942,53.199521
+Helper Brink,59,,28,9722EK,Groningen,Groningen,Groningen,VBO,6.586008,53.199530
+Helper Brink,59,,29,9722EK,Groningen,Groningen,Groningen,VBO,6.586065,53.199538
+Helper Brink,59,,3,9722EK,Groningen,Groningen,Groningen,VBO,6.585994,53.199583
+Helper Brink,59,,30,9722EK,Groningen,Groningen,Groningen,VBO,6.586123,53.199543
+Helper Brink,59,,31,9722EK,Groningen,Groningen,Groningen,VBO,6.586187,53.199549
+Helper Brink,59,,32,9722EK,Groningen,Groningen,Groningen,VBO,6.586253,53.199560
+Helper Brink,59,,33,9722EK,Groningen,Groningen,Groningen,VBO,6.586320,53.199563
+Helper Brink,59,,34,9722EK,Groningen,Groningen,Groningen,VBO,6.586377,53.199571
+Helper Brink,59,,35,9722EK,Groningen,Groningen,Groningen,VBO,6.586443,53.199574
+Helper Brink,59,,36,9722EK,Groningen,Groningen,Groningen,VBO,6.586499,53.199582
+Helper Brink,59,,37,9722EK,Groningen,Groningen,Groningen,VBO,6.586549,53.199585
+Helper Brink,59,,38,9722EK,Groningen,Groningen,Groningen,VBO,6.585882,53.199482
+Helper Brink,59,,39,9722EK,Groningen,Groningen,Groningen,VBO,6.585948,53.199492
+Helper Brink,59,,4,9722EK,Groningen,Groningen,Groningen,VBO,6.586052,53.199589
+Helper Brink,59,,40,9722EK,Groningen,Groningen,Groningen,VBO,6.586018,53.199497
+Helper Brink,59,,41,9722EK,Groningen,Groningen,Groningen,VBO,6.586075,53.199503
+Helper Brink,59,,42,9722EK,Groningen,Groningen,Groningen,VBO,6.586134,53.199512
+Helper Brink,59,,43,9722EK,Groningen,Groningen,Groningen,VBO,6.586200,53.199519
+Helper Brink,59,,44,9722EK,Groningen,Groningen,Groningen,VBO,6.586265,53.199526
+Helper Brink,59,,45,9722EK,Groningen,Groningen,Groningen,VBO,6.586326,53.199533
+Helper Brink,59,,46,9722EK,Groningen,Groningen,Groningen,VBO,6.586385,53.199541
+Helper Brink,59,,47,9722EK,Groningen,Groningen,Groningen,VBO,6.586449,53.199548
+Helper Brink,59,,48,9722EK,Groningen,Groningen,Groningen,VBO,6.586510,53.199552
+Helper Brink,59,,49,9722EK,Groningen,Groningen,Groningen,VBO,6.586559,53.199557
+Helper Brink,59,,5,9722EK,Groningen,Groningen,Groningen,VBO,6.586105,53.199598
+Helper Brink,59,,50,9722EK,Groningen,Groningen,Groningen,VBO,6.585886,53.199449
+Helper Brink,59,,51,9722EK,Groningen,Groningen,Groningen,VBO,6.585956,53.199457
+Helper Brink,59,,52,9722EK,Groningen,Groningen,Groningen,VBO,6.586029,53.199467
+Helper Brink,59,,53,9722EK,Groningen,Groningen,Groningen,VBO,6.586088,53.199473
+Helper Brink,59,,54,9722EK,Groningen,Groningen,Groningen,VBO,6.586149,53.199483
+Helper Brink,59,,55,9722EK,Groningen,Groningen,Groningen,VBO,6.586208,53.199488
+Helper Brink,59,,56,9722EK,Groningen,Groningen,Groningen,VBO,6.586276,53.199494
+Helper Brink,59,,57,9722EK,Groningen,Groningen,Groningen,VBO,6.586339,53.199502
+Helper Brink,59,,58,9722EK,Groningen,Groningen,Groningen,VBO,6.586393,53.199508
+Helper Brink,59,,59,9722EK,Groningen,Groningen,Groningen,VBO,6.586459,53.199516
+Helper Brink,59,,6,9722EK,Groningen,Groningen,Groningen,VBO,6.586173,53.199605
+Helper Brink,59,,60,9722EK,Groningen,Groningen,Groningen,VBO,6.586518,53.199520
+Helper Brink,59,,61,9722EK,Groningen,Groningen,Groningen,VBO,6.586570,53.199524
+Helper Brink,59,,62,9722EK,Groningen,Groningen,Groningen,VBO,6.585894,53.199422
+Helper Brink,59,,63,9722EK,Groningen,Groningen,Groningen,VBO,6.585965,53.199431
+Helper Brink,59,,64,9722EK,Groningen,Groningen,Groningen,VBO,6.586039,53.199441
+Helper Brink,59,,65,9722EK,Groningen,Groningen,Groningen,VBO,6.586096,53.199446
+Helper Brink,59,,66,9722EK,Groningen,Groningen,Groningen,VBO,6.586159,53.199453
+Helper Brink,59,,67,9722EK,Groningen,Groningen,Groningen,VBO,6.586218,53.199465
+Helper Brink,59,,68,9722EK,Groningen,Groningen,Groningen,VBO,6.586284,53.199471
+Helper Brink,59,,69,9722EK,Groningen,Groningen,Groningen,VBO,6.586347,53.199475
+Helper Brink,59,,7,9722EK,Groningen,Groningen,Groningen,VBO,6.586682,53.199660
+Helper Brink,59,,70,9722EK,Groningen,Groningen,Groningen,VBO,6.586402,53.199485
+Helper Brink,59,,71,9722EK,Groningen,Groningen,Groningen,VBO,6.586463,53.199492
+Helper Brink,59,,72,9722EK,Groningen,Groningen,Groningen,VBO,6.586522,53.199493
+Helper Brink,59,,73,9722EK,Groningen,Groningen,Groningen,VBO,6.586576,53.199501
+Helper Brink,59,,74,9722EK,Groningen,Groningen,Groningen,VBO,6.585903,53.199396
+Helper Brink,59,,75,9722EK,Groningen,Groningen,Groningen,VBO,6.585971,53.199404
+Helper Brink,59,,76,9722EK,Groningen,Groningen,Groningen,VBO,6.586045,53.199415
+Helper Brink,59,,77,9722EK,Groningen,Groningen,Groningen,VBO,6.586104,53.199420
+Helper Brink,59,,78,9722EK,Groningen,Groningen,Groningen,VBO,6.586168,53.199429
+Helper Brink,59,,79,9722EK,Groningen,Groningen,Groningen,VBO,6.586222,53.199442
+Helper Brink,59,,8,9722EK,Groningen,Groningen,Groningen,VBO,6.586236,53.199614
+Helper Brink,59,,80,9722EK,Groningen,Groningen,Groningen,VBO,6.586292,53.199447
+Helper Brink,59,,81,9722EK,Groningen,Groningen,Groningen,VBO,6.586356,53.199450
+Helper Brink,59,,82,9722EK,Groningen,Groningen,Groningen,VBO,6.586412,53.199458
+Helper Brink,59,,83,9722EK,Groningen,Groningen,Groningen,VBO,6.586469,53.199467
+Helper Brink,59,,84,9722EK,Groningen,Groningen,Groningen,VBO,6.586526,53.199473
+Helper Brink,59,,85,9722EK,Groningen,Groningen,Groningen,VBO,6.586582,53.199478
+Helper Brink,59,,86,9722EK,Groningen,Groningen,Groningen,VBO,6.585909,53.199373
+Helper Brink,59,,87,9722EK,Groningen,Groningen,Groningen,VBO,6.585977,53.199383
+Helper Brink,59,,88,9722EK,Groningen,Groningen,Groningen,VBO,6.586052,53.199391
+Helper Brink,59,,89,9722EK,Groningen,Groningen,Groningen,VBO,6.586115,53.199398
+Helper Brink,59,,9,9722EK,Groningen,Groningen,Groningen,VBO,6.586297,53.199620
+Helper Brink,59,,90,9722EK,Groningen,Groningen,Groningen,VBO,6.586176,53.199410
+Helper Brink,59,,91,9722EK,Groningen,Groningen,Groningen,VBO,6.586235,53.199415
+Helper Brink,59,,92,9722EK,Groningen,Groningen,Groningen,VBO,6.586303,53.199424
+Helper Brink,59,,93,9722EK,Groningen,Groningen,Groningen,VBO,6.586366,53.199430
+Helper Brink,59,,,9722EK,Groningen,Groningen,Groningen,VBO,6.585939,53.199641
+Helper Brink,59,,,9722EK,Groningen,Groningen,Groningen,VBO,6.586616,53.199651
 Helper Brink,61,,101,9722EK,Groningen,Groningen,Groningen,VBO,6.587130,53.199719
 Helper Brink,61,,103,9722EK,Groningen,Groningen,Groningen,VBO,6.587136,53.199702
 Helper Brink,61,,104,9722EK,Groningen,Groningen,Groningen,VBO,6.587145,53.199685
@@ -1169,6 +1266,7 @@ Helper Brink,48,,,9722ER,Groningen,Groningen,Groningen,VBO,6.584231,53.200002
 Helper Brink,50,,,9722ER,Groningen,Groningen,Groningen,VBO,6.585399,53.200122
 Helper Kerkstraat,1,,,9722ES,Groningen,Groningen,Groningen,VBO,6.580156,53.198449
 Helper Kerkstraat,3,a,,9722ES,Groningen,Groningen,Groningen,VBO,6.580291,53.198439
+Helper Kerkstraat,3,,,9722ES,Groningen,Groningen,Groningen,VBO,6.580051,53.198366
 Helper Kerkstraat,5,,,9722ES,Groningen,Groningen,Groningen,VBO,6.580397,53.198456
 Helper Kerkstraat,7,,,9722ES,Groningen,Groningen,Groningen,VBO,6.580507,53.198475
 Helper Kerkstraat,9,,1,9722ES,Groningen,Groningen,Groningen,VBO,6.580627,53.198199
@@ -1563,6 +1661,7 @@ Emmastraat,16,,,9722EX,Groningen,Groningen,Groningen,VBO,6.581537,53.198001
 Emmastraat,18,,,9722EX,Groningen,Groningen,Groningen,VBO,6.581657,53.198028
 Emmastraat,20,a,,9722EX,Groningen,Groningen,Groningen,VBO,6.581760,53.198049
 Emmastraat,20,,,9722EX,Groningen,Groningen,Groningen,VBO,6.581719,53.198043
+Emmastraat,22,a,,9722EX,Groningen,Groningen,Groningen,VBO,6.581868,53.198075
 Emmastraat,22,a,,9722EX,Groningen,Groningen,Groningen,VBO,6.581868,53.198075
 Emmastraat,22,,,9722EX,Groningen,Groningen,Groningen,VBO,6.581829,53.198067
 Emmastraat,24,,,9722EX,Groningen,Groningen,Groningen,VBO,6.581923,53.198090
@@ -2536,8 +2635,8 @@ Chopinlaan,10,,6,9722KE,Groningen,Groningen,Groningen,VBO,6.588770,53.198409
 Chopinlaan,10,,7,9722KE,Groningen,Groningen,Groningen,VBO,6.588743,53.198473
 Chopinlaan,10,,8,9722KE,Groningen,Groningen,Groningen,VBO,6.588717,53.198551
 Chopinlaan,10,,9,9722KE,Groningen,Groningen,Groningen,VBO,6.588689,53.198626
-Chopinlaan,10,,,9722KE,Groningen,Groningen,Groningen,VBO,6.589116,53.198128
 Chopinlaan,10,,,9722KE,Groningen,Groningen,Groningen,VBO,6.588838,53.198275
+Chopinlaan,10,,,9722KE,Groningen,Groningen,Groningen,VBO,6.589116,53.198128
 Chopinlaan,12,,,9722KE,Groningen,Groningen,Groningen,VBO,6.589289,53.197873
 Chopinlaan,20,,,9722KH,Groningen,Groningen,Groningen,VBO,6.589261,53.197318
 Chopinlaan,22,,,9722KH,Groningen,Groningen,Groningen,VBO,6.589261,53.197305
@@ -3538,6 +3637,7 @@ Kamplaan,3,,,9722SG,Groningen,Groningen,Groningen,VBO,6.586543,53.189012
 Kamplaan,5,,,9722SG,Groningen,Groningen,Groningen,VBO,6.586751,53.189053
 Kamplaan,7,,,9722SG,Groningen,Groningen,Groningen,VBO,6.587171,53.189084
 Kamplaan,9,,,9722SG,Groningen,Groningen,Groningen,VBO,6.587284,53.189106
+Kamplaan,11,,,9722SG,Groningen,Groningen,Groningen,VBO,6.587601,53.189269
 Kamplaan,13,,,9722SG,Groningen,Groningen,Groningen,VBO,6.588815,53.189390
 Kamplaan,15,,,9722SG,Groningen,Groningen,Groningen,VBO,6.589460,53.189609
 Kamplaan,17,,,9722SG,Groningen,Groningen,Groningen,VBO,6.589674,53.189370
@@ -3595,7 +3695,7 @@ Esserweg,22,,,9722SN,Groningen,Groningen,Groningen,VBO,6.594088,53.189979
 Kempkensberg,1,,,9722TA,Groningen,Groningen,Groningen,VBO,6.579172,53.204680
 Kempkensberg,8,,,9722TB,Groningen,Groningen,Groningen,VBO,6.580927,53.204967
 Kempkensberg,12,,,9722TB,Groningen,Groningen,Groningen,VBO,6.579047,53.206058
-Kempkensberg,14,,,9722TB,Groningen,Groningen,Groningen,VBO,6.579923,53.204982
+Kempkensberg,14,,,9722TB,Groningen,Groningen,Groningen,VBO,6.580169,53.205362
 Goeman Borgesiuslaan,165,,,9722VA,Groningen,Groningen,Groningen,VBO,6.592388,53.192062
 Goeman Borgesiuslaan,167,,,9722VA,Groningen,Groningen,Groningen,VBO,6.592396,53.192045
 Goeman Borgesiuslaan,169,,,9722VA,Groningen,Groningen,Groningen,VBO,6.592403,53.192029

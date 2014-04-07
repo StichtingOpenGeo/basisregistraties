@@ -13,6 +13,7 @@ Noorderuitweg,31,,,1608EA,Wijdenes,Drechterland,Noord-Holland,VBO,5.162069,52.64
 Noorderuitweg,33,,,1608EA,Wijdenes,Drechterland,Noord-Holland,VBO,5.161747,52.646117
 Noorderuitweg,35,,,1608EA,Wijdenes,Drechterland,Noord-Holland,VBO,5.161439,52.645685
 Noorderuitweg,37,,,1608EA,Wijdenes,Drechterland,Noord-Holland,VBO,5.161205,52.645334
+Noorderuitweg,39,A,,1608EA,Wijdenes,Drechterland,Noord-Holland,VBO,5.161271,52.645062
 Noorderuitweg,39,,,1608EA,Wijdenes,Drechterland,Noord-Holland,VBO,5.161102,52.645082
 Noorderuitweg,41,,,1608EA,Wijdenes,Drechterland,Noord-Holland,VBO,5.160721,52.644551
 Noorderuitweg,43,,,1608EA,Wijdenes,Drechterland,Noord-Holland,VBO,5.160633,52.644371
@@ -157,7 +158,6 @@ Kerkbuurt,5,,,1608EK,Wijdenes,Drechterland,Noord-Holland,VBO,5.159876,52.642222
 Kerkbuurt,7,,,1608EK,Wijdenes,Drechterland,Noord-Holland,VBO,5.159685,52.642006
 Kerkbuurt,9,,,1608EK,Wijdenes,Drechterland,Noord-Holland,VBO,5.159450,52.641745
 Kerkbuurt,11,,,1608EK,Wijdenes,Drechterland,Noord-Holland,VBO,5.159363,52.641466
-Kerkbuurt,13,A,,1608EK,Wijdenes,Drechterland,Noord-Holland,VBO,5.159660,52.641125
 Kerkbuurt,13,,,1608EK,Wijdenes,Drechterland,Noord-Holland,VBO,5.159291,52.641097
 Kerkbuurt,15,,,1608EK,Wijdenes,Drechterland,Noord-Holland,VBO,5.159189,52.640782
 Kerkbuurt,17,,,1608EK,Wijdenes,Drechterland,Noord-Holland,VBO,5.159131,52.640629
@@ -351,7 +351,7 @@ Zuideruitweg,19,A,,1608ET,Wijdenes,Drechterland,Noord-Holland,VBO,5.157486,52.63
 Zuideruitweg,19,,,1608ET,Wijdenes,Drechterland,Noord-Holland,VBO,5.157445,52.632367
 Zuideruitweg,21,,,1608ET,Wijdenes,Drechterland,Noord-Holland,VBO,5.157389,52.631936
 Zuideruitweg,23,,,1608EV,Wijdenes,Drechterland,Noord-Holland,VBO,5.157525,52.631289
-Zuideruitweg,27,,,1608EV,Wijdenes,Drechterland,Noord-Holland,VBO,5.157616,52.630795
+Zuideruitweg,27,,,1608EV,Wijdenes,Drechterland,Noord-Holland,VBO,5.157548,52.630544
 Zuideruitweg,29,A,,1608EV,Wijdenes,Drechterland,Noord-Holland,VBO,5.157549,52.630398
 Zuideruitweg,29,,,1608EV,Wijdenes,Drechterland,Noord-Holland,VBO,5.157411,52.630453
 Zuideruitweg,31,,,1608EV,Wijdenes,Drechterland,Noord-Holland,VBO,5.157471,52.630255
@@ -600,6 +600,7 @@ Lekerweg,54,A,,1608MD,Wijdenes,Drechterland,Noord-Holland,VBO,5.177200,52.642805
 Lekerweg,54,,,1608MD,Wijdenes,Drechterland,Noord-Holland,VBO,5.177087,52.642523
 Lekerweg,56,,,1608MD,Wijdenes,Drechterland,Noord-Holland,VBO,5.176563,52.642475
 Lekerweg,58,,,1608MD,Wijdenes,Drechterland,Noord-Holland,VBO,5.176142,52.642404
+Lekerweg,60,B,,1608ME,Wijdenes,Drechterland,Noord-Holland,VBO,5.176068,52.642737
 Lekerweg,60,,,1608ME,Wijdenes,Drechterland,Noord-Holland,VBO,5.175654,52.642314
 Lekerweg,62,,,1608ME,Wijdenes,Drechterland,Noord-Holland,VBO,5.175403,52.642304
 Lekerweg,64,,,1608ME,Wijdenes,Drechterland,Noord-Holland,VBO,5.174827,52.642240
@@ -631,8 +632,8 @@ Zuiderdijk,40,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.169165,52.63115
 Zuiderdijk,41,A,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.168636,52.630600
 Zuiderdijk,41,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.169033,52.630924
 Zuiderdijk,43,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.151654,52.624131
-Zuiderdijk,44,A,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.148613,52.624171
-Zuiderdijk,44,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.149053,52.624268
+Zuiderdijk,44,A,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.148594,52.624207
+Zuiderdijk,44,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.148985,52.624268
 Zuiderdijk,45,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.145083,52.624155
 Zuiderdijk,46,A,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.143549,52.624817
 Zuiderdijk,46,B,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.143843,52.624126
@@ -641,4 +642,5 @@ Zuiderdijk,46,D,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.144535,52.6243
 Zuiderdijk,46,E,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.144557,52.624315
 Zuiderdijk,46,F,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.144495,52.624326
 Zuiderdijk,46,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.143219,52.624749
-Zuiderdijk,47,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.141823,52.623421
+Zuiderdijk,47,,A,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.141888,52.623443
+Zuiderdijk,47,,,1608MV,Wijdenes,Drechterland,Noord-Holland,VBO,5.141851,52.623505

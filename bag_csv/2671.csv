@@ -809,8 +809,9 @@ Grote Woerdlaan,25,,,2671CM,Naaldwijk,Westland,Zuid-Holland,VBO,4.207864,51.9998
 Grote Woerdlaan,29,,,2671CM,Naaldwijk,Westland,Zuid-Holland,VBO,4.203956,52.005389
 Grote Woerdlaan,31,,,2671CM,Naaldwijk,Westland,Zuid-Holland,VBO,4.202567,52.006356
 Grote Woerdlaan,33,,,2671CM,Naaldwijk,Westland,Zuid-Holland,VBO,4.201570,52.007066
-Ambachtstraat,1,A,,2671CN,Naaldwijk,Westland,Zuid-Holland,VBO,4.212460,51.999203
-Ambachtstraat,1,B,,2671CN,Naaldwijk,Westland,Zuid-Holland,VBO,4.212337,51.999136
+Ambachtstraat,1,A,,2671CN,Naaldwijk,Westland,Zuid-Holland,VBO,4.212542,51.999246
+Ambachtstraat,1,B,BU,2671CN,Naaldwijk,Westland,Zuid-Holland,VBO,4.212190,51.999072
+Ambachtstraat,1,B,,2671CN,Naaldwijk,Westland,Zuid-Holland,VBO,4.212436,51.999180
 Ambachtstraat,1,C,,2671CN,Naaldwijk,Westland,Zuid-Holland,VBO,4.212053,51.998995
 Ambachtstraat,1,,,2671CN,Naaldwijk,Westland,Zuid-Holland,VBO,4.212582,51.999258
 Ambachtstraat,2,A,,2671CN,Naaldwijk,Westland,Zuid-Holland,VBO,4.212243,51.999408
@@ -1006,7 +1007,6 @@ Industriestraat,48,,,2671CT,Naaldwijk,Westland,Zuid-Holland,VBO,4.208358,52.0025
 Industriestraat,50,A,,2671CT,Naaldwijk,Westland,Zuid-Holland,VBO,4.207701,52.002770
 Industriestraat,50,,,2671CT,Naaldwijk,Westland,Zuid-Holland,VBO,4.207792,52.002804
 Industriestraat,52,,,2671CT,Naaldwijk,Westland,Zuid-Holland,VBO,4.207562,52.003003
-Industriestraat,52,,,2671CT,Naaldwijk,Westland,Zuid-Holland,VBO,4.207569,52.002940
 Industriestraat,55,,,2671CT,Naaldwijk,Westland,Zuid-Holland,VBO,4.208686,52.001585
 Industriestraat,57,,,2671CT,Naaldwijk,Westland,Zuid-Holland,VBO,4.208179,52.001604
 Industriestraat,59,,,2671CT,Naaldwijk,Westland,Zuid-Holland,VBO,4.207845,52.001932
@@ -1074,6 +1074,7 @@ Hovenierstraat,1,,,2671DB,Naaldwijk,Westland,Zuid-Holland,VBO,4.211234,52.002289
 Hovenierstraat,3,,,2671DB,Naaldwijk,Westland,Zuid-Holland,VBO,4.211297,52.002334
 Hovenierstraat,5,,,2671DB,Naaldwijk,Westland,Zuid-Holland,VBO,4.211346,52.002370
 Hovenierstraat,7,,,2671DB,Naaldwijk,Westland,Zuid-Holland,VBO,4.211386,52.002399
+Hovenierstraat,9,,,2671DB,Naaldwijk,Westland,Zuid-Holland,VBO,4.211415,52.002416
 Hovenierstraat,11,,,2671DB,Naaldwijk,Westland,Zuid-Holland,VBO,4.211430,52.002430
 Hovenierstraat,13,,,2671DB,Naaldwijk,Westland,Zuid-Holland,VBO,4.211481,52.002467
 Hovenierstraat,15,,,2671DB,Naaldwijk,Westland,Zuid-Holland,VBO,4.211536,52.002507
@@ -1303,7 +1304,6 @@ Lange Broekweg,18,A,,2671DS,Naaldwijk,Westland,Zuid-Holland,VBO,4.225978,51.9888
 Lange Broekweg,18,B,,2671DS,Naaldwijk,Westland,Zuid-Holland,VBO,4.226109,51.988838
 Lange Broekweg,18,,,2671DS,Naaldwijk,Westland,Zuid-Holland,VBO,4.225543,51.988804
 Lange Broekweg,20,,,2671DS,Naaldwijk,Westland,Zuid-Holland,VBO,4.226173,51.988955
-Lange Broekweg,17,,,2671DT,Naaldwijk,Westland,Zuid-Holland,VBO,4.226500,51.989493
 Lange Broekweg,21,,,2671DT,Naaldwijk,Westland,Zuid-Holland,VBO,4.227091,51.989730
 Lange Broekweg,23,,,2671DT,Naaldwijk,Westland,Zuid-Holland,VBO,4.227933,51.989862
 Lange Broekweg,32,,,2671DT,Naaldwijk,Westland,Zuid-Holland,VBO,4.226964,51.989210
@@ -1666,8 +1666,8 @@ Molenstraat,6,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206428,51.993966
 Molenstraat,8,A,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206464,51.993993
 Molenstraat,8,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206403,51.993993
 Molenstraat,10,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206457,51.994064
-Molenstraat,14,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206492,51.994117
 Molenstraat,14,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206455,51.994262
+Molenstraat,14,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206492,51.994117
 Molenstraat,16,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206473,51.994300
 Molenstraat,18,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206516,51.994226
 Molenstraat,20,,,2671EX,Naaldwijk,Westland,Zuid-Holland,VBO,4.206576,51.994249
@@ -2113,8 +2113,6 @@ Havenplein,10,,,2671GV,Naaldwijk,Westland,Zuid-Holland,VBO,4.209234,51.993412
 Havenplein,11,,,2671GV,Naaldwijk,Westland,Zuid-Holland,VBO,4.209144,51.993370
 Havenplein,12,A,,2671GV,Naaldwijk,Westland,Zuid-Holland,VBO,4.208915,51.993377
 Havenplein,12,,,2671GV,Naaldwijk,Westland,Zuid-Holland,VBO,4.208820,51.993400
-Havenplein,13,,GA01,2671GV,Naaldwijk,Westland,Zuid-Holland,VBO,4.208610,51.993379
-Havenplein,13,,GA02,2671GV,Naaldwijk,Westland,Zuid-Holland,VBO,4.208647,51.993367
 Havenplein,13,,,2671GV,Naaldwijk,Westland,Zuid-Holland,VBO,4.208697,51.993341
 Stokdijkkade,1,,,2671GW,Naaldwijk,Westland,Zuid-Holland,VBO,4.209462,51.993964
 Stokdijkkade,2,,,2671GW,Naaldwijk,Westland,Zuid-Holland,VBO,4.209950,51.993747
@@ -2221,6 +2219,7 @@ Kerkstraat,19,,,2671HC,Naaldwijk,Westland,Zuid-Holland,VBO,4.209123,51.993278
 Kerkstraat,22,,,2671HC,Naaldwijk,Westland,Zuid-Holland,VBO,4.208901,51.993289
 Kerkstraat,23,,,2671HC,Naaldwijk,Westland,Zuid-Holland,VBO,4.208747,51.993247
 Kerkstraat,24,,,2671HC,Naaldwijk,Westland,Zuid-Holland,VBO,4.208669,51.993301
+Kerkstraat,27,,,2671HC,Naaldwijk,Westland,Zuid-Holland,VBO,4.208398,51.993281
 Kerklaan,1,,,2671HD,Naaldwijk,Westland,Zuid-Holland,VBO,4.208171,51.992495
 Kerklaan,2,A,,2671HD,Naaldwijk,Westland,Zuid-Holland,VBO,4.208328,51.992394
 Kerklaan,2,,,2671HD,Naaldwijk,Westland,Zuid-Holland,VBO,4.208328,51.992394
@@ -2433,7 +2432,7 @@ Van Tijnplein,3,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207110,51.994157
 Van Tijnplein,4,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207116,51.994142
 Van Tijnplein,5,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207132,51.994127
 Van Tijnplein,6,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207151,51.994106
-Van Tijnplein,7,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206459,51.993761
+Van Tijnplein,7,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207535,51.993912
 Van Tijnplein,8,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207171,51.994088
 Van Tijnplein,9,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207194,51.994073
 Van Tijnplein,10,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207207,51.994055
@@ -2454,9 +2453,13 @@ Van Tijnplein,23,A,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206875,51.99352
 Van Tijnplein,23,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206958,51.993437
 Van Tijnplein,24,A,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206939,51.993568
 Van Tijnplein,25,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206840,51.993620
+Van Tijnplein,27,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206448,51.993562
 Van Tijnplein,28,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206789,51.993799
+Van Tijnplein,29,B,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206492,51.994117
 Van Tijnplein,34,,,2671HP,Naaldwijk,Westland,Zuid-Holland,VBO,4.207151,51.994463
 Willem de Sitterstraat,3,,,2671HR,Naaldwijk,Westland,Zuid-Holland,VBO,4.206283,51.992241
+Willem de Sitterstraat,4,,,2671HR,Naaldwijk,Westland,Zuid-Holland,VBO,4.206704,51.992117
+Willem de Sitterstraat,5,,,2671HR,Naaldwijk,Westland,Zuid-Holland,VBO,4.206865,51.992188
 Verhagenplein,1,,,2671HS,Naaldwijk,Westland,Zuid-Holland,VBO,4.208673,51.991858
 Verhagenplein,2,A,,2671HS,Naaldwijk,Westland,Zuid-Holland,VBO,4.207504,51.991887
 Verhagenplein,2,B,,2671HS,Naaldwijk,Westland,Zuid-Holland,VBO,4.207576,51.991901
@@ -2740,14 +2743,18 @@ Herenstraat,2,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.207715,51.992597
 Herenstraat,4,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.207648,51.992640
 Herenstraat,6,B,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.207068,51.993163
 Herenstraat,6,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.207538,51.992716
+Herenstraat,8,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.206749,51.993351
 Herenstraat,10,A,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.207068,51.993163
 Herenstraat,12,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.206700,51.993442
 Herenstraat,14,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.206626,51.993521
 Herenstraat,16,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.206579,51.993558
+Herenstraat,18,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.206448,51.993562
+Herenstraat,20,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.206293,51.993623
 Herenstraat,22,,,2671JA,Naaldwijk,Westland,Zuid-Holland,VBO,4.206227,51.993659
 Poelkade,23,,,2671JB,Naaldwijk,Westland,Zuid-Holland,VBO,4.184804,51.998294
 Professor Holwerdalaan,52,,,2671JB,Naaldwijk,Westland,Zuid-Holland,VBO,4.203467,51.987354
 Professor Holwerdalaan,54,,,2671JB,Naaldwijk,Westland,Zuid-Holland,VBO,4.203421,51.987795
+Professor Holwerdalaan,56,,,2671JB,Naaldwijk,Westland,Zuid-Holland,VBO,4.203421,51.987795
 Willem van Hooffstraat,1,,,2671JC,Naaldwijk,Westland,Zuid-Holland,VBO,4.205707,51.991747
 Willem van Hooffstraat,2,,,2671JC,Naaldwijk,Westland,Zuid-Holland,VBO,4.204147,51.993159
 Willem van Hooffstraat,3,,,2671JC,Naaldwijk,Westland,Zuid-Holland,VBO,4.205678,51.991771
@@ -2876,9 +2883,10 @@ Prins Hendrikstraat,16,A,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.207003,51
 Prins Hendrikstraat,16,B,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206948,51.992232
 Prins Hendrikstraat,16,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206884,51.992316
 Prins Hendrikstraat,18,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206768,51.992261
-Prins Hendrikstraat,20,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206805,51.992165
-Prins Hendrikstraat,22,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206749,51.992139
-Prins Hendrikstraat,28,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206645,51.992177
+Prins Hendrikstraat,20,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206865,51.992188
+Prins Hendrikstraat,22,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206795,51.992159
+Prins Hendrikstraat,26,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206704,51.992117
+Prins Hendrikstraat,28,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206641,51.992096
 Prins Hendrikstraat,32,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206547,51.992109
 Prins Hendrikstraat,34,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206478,51.992086
 Prins Hendrikstraat,40,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206455,51.992000
@@ -2918,6 +2926,7 @@ Prins Hendrikstraat,78,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206020,51.
 's-Gravenzandseweg,27,,,2671JJ,Naaldwijk,Westland,Zuid-Holland,VBO,4.205069,51.991228
 's-Gravenzandseweg,29,,,2671JJ,Naaldwijk,Westland,Zuid-Holland,VBO,4.205004,51.991209
 's-Gravenzandseweg,31,,,2671JJ,Naaldwijk,Westland,Zuid-Holland,VBO,4.204925,51.991188
+'s-Gravenzandseweg,39,,,2671JJ,Naaldwijk,Westland,Zuid-Holland,VBO,4.204741,51.991154
 's-Gravenzandseweg,45,,,2671JK,Naaldwijk,Westland,Zuid-Holland,VBO,4.204367,51.990842
 's-Gravenzandseweg,47,,,2671JK,Naaldwijk,Westland,Zuid-Holland,VBO,4.204183,51.990800
 's-Gravenzandseweg,49,,,2671JK,Naaldwijk,Westland,Zuid-Holland,VBO,4.204001,51.990726
@@ -2981,8 +2990,8 @@ Prins Hendrikstraat,78,,,2671JH,Naaldwijk,Westland,Zuid-Holland,VBO,4.206020,51.
 's-Gravenzandseweg,149,,,2671JM,Naaldwijk,Westland,Zuid-Holland,VBO,4.197664,51.989418
 's-Gravenzandseweg,151,,,2671JM,Naaldwijk,Westland,Zuid-Holland,VBO,4.197690,51.989359
 's-Gravenzandseweg,153,,,2671JM,Naaldwijk,Westland,Zuid-Holland,VBO,4.197712,51.989306
-'s-Gravenzandseweg,155,A,,2671JM,Naaldwijk,Westland,Zuid-Holland,VBO,4.198083,51.989198
 's-Gravenzandseweg,155,A,,2671JM,Naaldwijk,Westland,Zuid-Holland,VBO,4.197964,51.989212
+'s-Gravenzandseweg,155,A,,2671JM,Naaldwijk,Westland,Zuid-Holland,VBO,4.198083,51.989198
 's-Gravenzandseweg,155,,,2671JM,Naaldwijk,Westland,Zuid-Holland,VBO,4.197763,51.989233
 's-Gravenzandseweg,14,,,2671JN,Naaldwijk,Westland,Zuid-Holland,VBO,4.205294,51.991598
 's-Gravenzandseweg,16,,,2671JN,Naaldwijk,Westland,Zuid-Holland,VBO,4.205131,51.991526
@@ -3667,7 +3676,6 @@ Rijnsburgerweg,114,,,2671LD,Naaldwijk,Westland,Zuid-Holland,VBO,4.181905,52.0098
 Rijnsburgerweg,120,,,2671LD,Naaldwijk,Westland,Zuid-Holland,VBO,4.180935,52.009939
 Rijnsburgerweg,130,,,2671LD,Naaldwijk,Westland,Zuid-Holland,VBO,4.180072,52.009450
 Baakwoning,1,A,,2671LE,Naaldwijk,Westland,Zuid-Holland,VBO,4.181829,52.003366
-Baakwoning,1,B,,2671LE,Naaldwijk,Westland,Zuid-Holland,VBO,4.183165,52.001482
 Baakwoning,1,,,2671LE,Naaldwijk,Westland,Zuid-Holland,VBO,4.183058,52.003577
 Baakwoning,2,,,2671LE,Naaldwijk,Westland,Zuid-Holland,VBO,4.184590,52.004053
 Baakwoning,3,A,,2671LE,Naaldwijk,Westland,Zuid-Holland,VBO,4.183004,52.005210
@@ -3942,7 +3950,7 @@ Opstalweg,29,A,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.188585,51.994273
 Opstalweg,29,,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.192601,51.995398
 Opstalweg,31,A,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.191579,51.995944
 Opstalweg,31,,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.191879,51.995779
-Opstalweg,33,A,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.192659,51.996493
+Opstalweg,33,B,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.192659,51.996493
 Opstalweg,33,C,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.192720,51.995570
 Opstalweg,33,,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.191436,51.996141
 Opstalweg,35,A,,2671LX,Naaldwijk,Westland,Zuid-Holland,VBO,4.193863,51.995543
@@ -4091,6 +4099,7 @@ Zuidweg,31,C,,2671MN,Naaldwijk,Westland,Zuid-Holland,VBO,4.207711,51.987635
 Zuidweg,31,,,2671MN,Naaldwijk,Westland,Zuid-Holland,VBO,4.207605,51.987822
 Zuidweg,33,A,,2671MN,Naaldwijk,Westland,Zuid-Holland,VBO,4.208122,51.987077
 Zuidweg,33,B,,2671MN,Naaldwijk,Westland,Zuid-Holland,VBO,4.208182,51.987118
+Zuidweg,33,C,,2671MN,Naaldwijk,Westland,Zuid-Holland,VBO,4.208783,51.986819
 Zuidweg,33,C,,2671MN,Naaldwijk,Westland,Zuid-Holland,VBO,4.208621,51.986847
 Zuidweg,33,,,2671MN,Naaldwijk,Westland,Zuid-Holland,VBO,4.207842,51.987551
 Zuidweg,34,,,2671MN,Naaldwijk,Westland,Zuid-Holland,VBO,4.206817,51.987975
@@ -4109,6 +4118,7 @@ Zuidweg,53,,,2671MP,Naaldwijk,Westland,Zuid-Holland,VBO,4.205020,51.985830
 Zuidweg,54,,,2671MP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206337,51.986293
 Zuidweg,56,,,2671MP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206143,51.986290
 Zuidweg,58,,,2671MP,Naaldwijk,Westland,Zuid-Holland,VBO,4.206052,51.986289
+Zuidweg,59,,,2671MP,Naaldwijk,Westland,Zuid-Holland,VBO,4.204993,51.985144
 Zuidweg,60,,,2671MP,Naaldwijk,Westland,Zuid-Holland,VBO,4.205869,51.986406
 Zuidweg,62,,,2671MP,Naaldwijk,Westland,Zuid-Holland,VBO,4.205496,51.986337
 Zuidweg,66,,,2671MP,Naaldwijk,Westland,Zuid-Holland,VBO,4.204837,51.986122
@@ -4131,9 +4141,9 @@ Galgeweg,12,,,2671MR,Naaldwijk,Westland,Zuid-Holland,VBO,4.197264,51.988760
 Galgeweg,16,,,2671MR,Naaldwijk,Westland,Zuid-Holland,VBO,4.200396,51.986470
 Galgeweg,18,,,2671MR,Naaldwijk,Westland,Zuid-Holland,VBO,4.201029,51.986429
 Galgeweg,25,,,2671MR,Naaldwijk,Westland,Zuid-Holland,VBO,4.204947,51.984484
-Galgeweg,1019,,vbo,2671MR,Naaldwijk,Westland,Zuid-Holland,VBO,4.191611,51.989313
 Galgeweg,58,,,2671MS,Naaldwijk,Westland,Zuid-Holland,VBO,4.209309,51.979532
 Galgeweg,60,,,2671MS,Naaldwijk,Westland,Zuid-Holland,VBO,4.211317,51.977450
+Galgeweg,62,A,,2671MS,Naaldwijk,Westland,Zuid-Holland,VBO,4.211628,51.977039
 Galgeweg,62,,,2671MS,Naaldwijk,Westland,Zuid-Holland,VBO,4.211798,51.976883
 Galgeweg,64,,,2671MS,Naaldwijk,Westland,Zuid-Holland,VBO,4.212330,51.976757
 Galgeweg,68,,,2671MS,Naaldwijk,Westland,Zuid-Holland,VBO,4.212450,51.976648
@@ -4575,6 +4585,7 @@ De Tuinen,70,,,2671NX,Naaldwijk,Westland,Zuid-Holland,VBO,4.205579,51.992737
 De Tuinen,72,,,2671NX,Naaldwijk,Westland,Zuid-Holland,VBO,4.205597,51.992724
 De Tuinen,75,,,2671NX,Naaldwijk,Westland,Zuid-Holland,VBO,4.205624,51.992705
 De Tuinen,78,,,2671NX,Naaldwijk,Westland,Zuid-Holland,VBO,4.205306,51.992471
+De Hoge Bomen,1,C,,2671NZ,Naaldwijk,Westland,Zuid-Holland,VBO,4.211006,51.982276
 De Hoge Bomen,1,,,2671NZ,Naaldwijk,Westland,Zuid-Holland,VBO,4.210322,51.982757
 De Hoge Bomen,2,,,2671NZ,Naaldwijk,Westland,Zuid-Holland,VBO,4.211518,51.981728
 De Hoge Bomen,3,A,,2671NZ,Naaldwijk,Westland,Zuid-Holland,VBO,4.211481,51.979628
@@ -5256,7 +5267,6 @@ Druivenstraat,99,,,2671SG,Naaldwijk,Westland,Zuid-Holland,VBO,4.214670,51.988172
 Druivenstraat,101,,,2671SG,Naaldwijk,Westland,Zuid-Holland,VBO,4.214514,51.988131
 Druivenstraat,103,,,2671SG,Naaldwijk,Westland,Zuid-Holland,VBO,4.214605,51.988146
 Druivenstraat,105,D,,2671SG,Naaldwijk,Westland,Zuid-Holland,VBO,4.214459,51.987865
-Druivenstraat,105,E,,2671SG,Naaldwijk,Westland,Zuid-Holland,VBO,4.214662,51.987489
 Druivenstraat,105,,,2671SG,Naaldwijk,Westland,Zuid-Holland,VBO,4.214434,51.988103
 Druivenstraat,107,,,2671SG,Naaldwijk,Westland,Zuid-Holland,VBO,4.214065,51.988086
 Druivenstraat,109,,,2671SG,Naaldwijk,Westland,Zuid-Holland,VBO,4.213980,51.988079
@@ -5970,7 +5980,7 @@ Verdilaan,3,B,,2671VW,Naaldwijk,Westland,Zuid-Holland,VBO,4.210199,51.994700
 Verdilaan,3,,,2671VW,Naaldwijk,Westland,Zuid-Holland,VBO,4.210225,51.994638
 Verdilaan,7,,,2671VW,Naaldwijk,Westland,Zuid-Holland,VBO,4.212598,51.993136
 Verdilaan,43,,,2671VW,Naaldwijk,Westland,Zuid-Holland,VBO,4.212108,51.993216
-Verdilaan,2,,,2671VX,Naaldwijk,Westland,Zuid-Holland,VBO,4.209679,51.994493
+Verdilaan,2,A,,2671VX,Naaldwijk,Westland,Zuid-Holland,VBO,4.209679,51.994493
 Verdilaan,4,,,2671VX,Naaldwijk,Westland,Zuid-Holland,VBO,4.210451,51.993314
 Verdilaan,6,,,2671VX,Naaldwijk,Westland,Zuid-Holland,VBO,4.211958,51.991535
 Verdilaan,8,,,2671VX,Naaldwijk,Westland,Zuid-Holland,VBO,4.211766,51.991373

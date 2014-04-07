@@ -199,8 +199,7 @@ Bergerothweg,52,,,6039AN,Stramproy,Weert,Limburg,VBO,5.714305,51.198046
 Bergerothweg,54,,,6039AN,Stramproy,Weert,Limburg,VBO,5.713992,51.198121
 Bergerothweg,56,,,6039AN,Stramproy,Weert,Limburg,VBO,5.713727,51.198355
 Bergerothweg,58,A,,6039AN,Stramproy,Weert,Limburg,VBO,5.712940,51.198302
-Bergerothweg,58,B,,6039AN,Stramproy,Weert,Limburg,VBO,5.713166,51.198346
-Bergerothweg,58,,,6039AN,Stramproy,Weert,Limburg,VBO,5.713305,51.198192
+Bergerothweg,58,,,6039AN,Stramproy,Weert,Limburg,VBO,5.713299,51.198194
 Bergerothweg,60,A,,6039AN,Stramproy,Weert,Limburg,VBO,5.712427,51.198453
 Bergerothweg,60,,,6039AN,Stramproy,Weert,Limburg,VBO,5.712624,51.198400
 Bergerothweg,62,,,6039AN,Stramproy,Weert,Limburg,VBO,5.712037,51.198739
@@ -1767,6 +1766,7 @@ Jeupenhof,6,,,6039GL,Stramproy,Weert,Limburg,VBO,5.713212,51.194553
 Jeupenhof,7,,,6039GL,Stramproy,Weert,Limburg,VBO,5.713302,51.194724
 Leitsstraat,1,,,6039GM,Stramproy,Weert,Limburg,VBO,5.712100,51.190217
 Leitsstraat,2,,,6039GM,Stramproy,Weert,Limburg,VBO,5.712238,51.190486
+Leitsstraat,3,,,6039GM,Stramproy,Weert,Limburg,VBO,5.711898,51.190172
 Leitsstraat,4,,,6039GM,Stramproy,Weert,Limburg,VBO,5.712024,51.190424
 Leitsstraat,6,,,6039GM,Stramproy,Weert,Limburg,VBO,5.711851,51.190388
 Leitsstraat,8,,,6039GM,Stramproy,Weert,Limburg,VBO,5.711654,51.190371
@@ -2040,6 +2040,7 @@ Torenroth,14,,,6039HA,Stramproy,Weert,Limburg,VBO,5.727366,51.192775
 Torenroth,15,,,6039HA,Stramproy,Weert,Limburg,VBO,5.727548,51.193117
 Torenroth,16,,,6039HA,Stramproy,Weert,Limburg,VBO,5.727613,51.192778
 Torenroth,17,,,6039HA,Stramproy,Weert,Limburg,VBO,5.727773,51.193029
+Burgemeester Smeijersweg,2,A,,6039HB,Stramproy,Weert,Limburg,VBO,5.726782,51.191717
 Burgemeester Smeijersweg,2,,,6039HB,Stramproy,Weert,Limburg,VBO,5.726741,51.191853
 Burgemeester Smeijersweg,4,,,6039HB,Stramproy,Weert,Limburg,VBO,5.726863,51.192138
 Burgemeester Smeijersweg,6,,,6039HB,Stramproy,Weert,Limburg,VBO,5.727060,51.192235
@@ -2057,7 +2058,6 @@ Amentstraat,5,,,6039RA,Stramproy,Weert,Limburg,VBO,5.720701,51.200061
 Amentstraat,6,A,,6039RA,Stramproy,Weert,Limburg,VBO,5.721660,51.199671
 Amentstraat,6,B,,6039RA,Stramproy,Weert,Limburg,VBO,5.721332,51.199916
 Amentstraat,6,C,,6039RA,Stramproy,Weert,Limburg,VBO,5.721210,51.200070
-Amentstraat,6,D,,6039RA,Stramproy,Weert,Limburg,VBO,5.721600,51.199762
 Amentstraat,6,,,6039RA,Stramproy,Weert,Limburg,VBO,5.721889,51.199071
 Amentstraat,8,,,6039RA,Stramproy,Weert,Limburg,VBO,5.720617,51.200925
 Amentstraat,9,,,6039RA,Stramproy,Weert,Limburg,VBO,5.720379,51.200311
@@ -2102,7 +2102,7 @@ Ellerweg,7,A,,6039RD,Stramproy,Weert,Limburg,VBO,5.744944,51.204544
 Ellerweg,7,,,6039RD,Stramproy,Weert,Limburg,VBO,5.744028,51.204028
 Ellerweg,8,,,6039RD,Stramproy,Weert,Limburg,VBO,5.747258,51.205049
 Ellerweg,9,,,6039RD,Stramproy,Weert,Limburg,VBO,5.746463,51.205228
-Ellerweg,10,,,6039RD,Stramproy,Weert,Limburg,VBO,5.749752,51.206457
+Ellerweg,10,,,6039RD,Stramproy,Weert,Limburg,VBO,5.749974,51.206307
 Ellerweg,11,,,6039RD,Stramproy,Weert,Limburg,VBO,5.749700,51.206746
 Ellerweg,12,,,6039RD,Stramproy,Weert,Limburg,VBO,5.751282,51.207104
 Ellerweg,14,,,6039RD,Stramproy,Weert,Limburg,VBO,5.751751,51.207242
@@ -2138,7 +2138,17 @@ Molenweg,6,,,6039RH,Stramproy,Weert,Limburg,VBO,5.725995,51.193726
 Molenweg,8,,,6039RH,Stramproy,Weert,Limburg,VBO,5.726159,51.193873
 Molenweg,10,,,6039RH,Stramproy,Weert,Limburg,VBO,5.726395,51.193954
 Molenweg,12,,,6039RH,Stramproy,Weert,Limburg,VBO,5.726664,51.194093
-Molenweg,14,,,6039RH,Stramproy,Weert,Limburg,VBO,5.727132,51.193985
+Molenweg,14,A,,6039RH,Stramproy,Weert,Limburg,VBO,5.726970,51.193945
+Molenweg,14,B,,6039RH,Stramproy,Weert,Limburg,VBO,5.726966,51.193875
+Molenweg,14,C,,6039RH,Stramproy,Weert,Limburg,VBO,5.727065,51.193772
+Molenweg,14,D,,6039RH,Stramproy,Weert,Limburg,VBO,5.727056,51.193689
+Molenweg,14,E,,6039RH,Stramproy,Weert,Limburg,VBO,5.727087,51.193586
+Molenweg,14,F,,6039RH,Stramproy,Weert,Limburg,VBO,5.727207,51.193581
+Molenweg,14,G,,6039RH,Stramproy,Weert,Limburg,VBO,5.727280,51.193681
+Molenweg,14,H,,6039RH,Stramproy,Weert,Limburg,VBO,5.727280,51.193766
+Molenweg,14,J,,6039RH,Stramproy,Weert,Limburg,VBO,5.727245,51.193867
+Molenweg,14,K,,6039RH,Stramproy,Weert,Limburg,VBO,5.727278,51.193937
+Molenweg,14,,,6039RH,Stramproy,Weert,Limburg,VBO,5.727078,51.193983
 Molenweg,16,,,6039RH,Stramproy,Weert,Limburg,VBO,5.727747,51.194407
 Molenweg,18,,,6039RH,Stramproy,Weert,Limburg,VBO,5.733730,51.196637
 Molenweg,20,,,6039RH,Stramproy,Weert,Limburg,VBO,5.738382,51.196593

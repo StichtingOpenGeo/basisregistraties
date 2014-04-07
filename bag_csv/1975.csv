@@ -30,6 +30,7 @@ Sluiseiland,67,,,1975AC,IJmuiden,Velsen,Noord-Holland,VBO,4.598074,52.465258
 Sluiseiland,68,,,1975AC,IJmuiden,Velsen,Noord-Holland,VBO,4.597935,52.465257
 Sluiseiland,69,,8000,1975AC,IJmuiden,Velsen,Noord-Holland,VBO,4.597620,52.465156
 Sluiseiland,69,,,1975AC,IJmuiden,Velsen,Noord-Holland,VBO,4.597793,52.465256
+Sluisplein,1,,,1975AE,IJmuiden,Velsen,Noord-Holland,VBO,4.591294,52.463822
 Sluisplein,3,,,1975AE,IJmuiden,Velsen,Noord-Holland,VBO,4.590830,52.463765
 Sluisplein,4,,,1975AE,IJmuiden,Velsen,Noord-Holland,VBO,4.592334,52.463306
 Sluisplein,5,,,1975AE,IJmuiden,Velsen,Noord-Holland,VBO,4.592332,52.463373
@@ -72,13 +73,13 @@ Kanaaldijk,230,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.595765,52.463221
 Kanaaldijk,231,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.595667,52.463223
 Kanaaldijk,232,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.594860,52.463155
 Kanaaldijk,238,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.594192,52.463321
-Kanaaldijk,241,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.593400,52.463393
-Kanaaldijk,242,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.593222,52.463396
+Zuidersluisweg,1,,,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.588536,52.464729
 Zuidersluisweg,1,,,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.588164,52.464739
 Zuidersluisweg,3,,,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.589861,52.464973
 Zuidersluisweg,5,,,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.590368,52.464860
 Zuidersluisweg,14,,8000,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.593247,52.464796
 Zuidersluisweg,14,,,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.594398,52.464809
+Middensluisweg,2,,,1975AL,IJmuiden,Velsen,Noord-Holland,VBO,4.606079,52.466750
 Middensluisweg,5,,,1975AL,IJmuiden,Velsen,Noord-Holland,VBO,4.596261,52.466615
 Noordersluisweg,1,,9000,1975AM,IJmuiden,Velsen,Noord-Holland,VBO,4.596181,52.471412
 Noordersluisweg,1,,,1975AM,IJmuiden,Velsen,Noord-Holland,VBO,4.603839,52.469066
@@ -107,7 +108,6 @@ Noordersluisweg,18,G,,1975AM,IJmuiden,Velsen,Noord-Holland,LIG,4.612752,52.46918
 Noordersluisweg,18,H,,1975AM,IJmuiden,Velsen,Noord-Holland,LIG,4.613352,52.469106
 Noordersluisweg,18,,,1975AM,IJmuiden,Velsen,Noord-Holland,LIG,4.608788,52.469371
 Noordersluisweg,20,,8000,1975AM,IJmuiden,Velsen,Noord-Holland,VBO,4.608994,52.469168
-Noordersluisweg,20,,,1975AM,IJmuiden,Velsen,Noord-Holland,VBO,4.609553,52.468249
 Noordersluisweg,30,,8000,1975AM,IJmuiden,Velsen,Noord-Holland,VBO,4.608780,52.468038
 Noordersluisweg,30,,,1975AM,IJmuiden,Velsen,Noord-Holland,VBO,4.608431,52.467928
 Kanaalstraat,1,,,1975BA,IJmuiden,Velsen,Noord-Holland,VBO,4.588129,52.463067
@@ -194,7 +194,7 @@ Kanaalstraat,40,,RD,1975BE,IJmuiden,Velsen,Noord-Holland,VBO,4.589893,52.462960
 Kanaalstraat,40,,,1975BE,IJmuiden,Velsen,Noord-Holland,VBO,4.589892,52.462979
 Kanaalstraat,44,,,1975BE,IJmuiden,Velsen,Noord-Holland,VBO,4.589979,52.462979
 Kanaalstraat,48,,,1975BE,IJmuiden,Velsen,Noord-Holland,VBO,4.590088,52.462980
-Kanaalstraat,50,,RD,1975BG,IJmuiden,Velsen,Noord-Holland,VBO,4.590372,52.462963
+Kanaalstraat,50,,RD,1975BG,IJmuiden,Velsen,Noord-Holland,VBO,4.590373,52.462963
 Kanaalstraat,50,,,1975BG,IJmuiden,Velsen,Noord-Holland,VBO,4.590359,52.462980
 Kanaalstraat,52,,RD,1975BG,IJmuiden,Velsen,Noord-Holland,VBO,4.590467,52.462965
 Kanaalstraat,52,,,1975BG,IJmuiden,Velsen,Noord-Holland,VBO,4.590465,52.462982
@@ -652,8 +652,6 @@ Bik- en Arnoldkade,15,A,,1975CG,IJmuiden,Velsen,Noord-Holland,VBO,4.589112,52.46
 Bik- en Arnoldkade,15,B,,1975CG,IJmuiden,Velsen,Noord-Holland,VBO,4.589112,52.461904
 Bik- en Arnoldkade,15,,,1975CG,IJmuiden,Velsen,Noord-Holland,VBO,4.589053,52.461867
 Bik- en Arnoldkade,18,,,1975CG,IJmuiden,Velsen,Noord-Holland,VBO,4.589937,52.461558
-Bik- en Arnoldkade,21,,,1975CH,IJmuiden,Velsen,Noord-Holland,VBO,4.590709,52.461253
-Bik- en Arnoldkade,22,,,1975CH,IJmuiden,Velsen,Noord-Holland,VBO,4.590760,52.461232
 Bik- en Arnoldkade,23,,,1975CH,IJmuiden,Velsen,Noord-Holland,VBO,4.590862,52.461193
 Bik- en Arnoldkade,24,,,1975CH,IJmuiden,Velsen,Noord-Holland,VBO,4.590970,52.461153
 Bik- en Arnoldkade,25,,,1975CH,IJmuiden,Velsen,Noord-Holland,VBO,4.591141,52.461086
@@ -1166,7 +1164,6 @@ Keizer Wilhelmstraat,1,,1033,1975EA,IJmuiden,Velsen,Noord-Holland,VBO,4.594991,5
 Keizer Wilhelmstraat,1,,1034,1975EA,IJmuiden,Velsen,Noord-Holland,VBO,4.594991,52.462592
 Keizer Wilhelmstraat,1,,1035,1975EA,IJmuiden,Velsen,Noord-Holland,VBO,4.594991,52.462556
 Keizer Wilhelmstraat,1,,,1975EA,IJmuiden,Velsen,Noord-Holland,VBO,4.594740,52.462598
-Keizer Wilhelmstraat,25,,,1975EA,IJmuiden,Velsen,Noord-Holland,VBO,4.594837,52.462220
 Keizer Wilhelmstraat,2,,8000,1975EB,IJmuiden,Velsen,Noord-Holland,VBO,4.594250,52.462525
 Keizer Wilhelmstraat,2,,,1975EB,IJmuiden,Velsen,Noord-Holland,VBO,4.594366,52.462499
 Keizer Wilhelmstraat,4,,8000,1975EB,IJmuiden,Velsen,Noord-Holland,VBO,4.594251,52.462472

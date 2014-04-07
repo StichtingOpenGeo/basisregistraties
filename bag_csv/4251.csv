@@ -1,6 +1,8 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Sasdijk,1,,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.897693,51.815334
 Sasdijk,2,,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.897284,51.815307
+Sasdijk,3,J,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896435,51.815048
+Sasdijk,3,Q,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896194,51.815073
 Sasdijk,3,a,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896740,51.815164
 Sasdijk,3,b,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896667,51.815120
 Sasdijk,3,c,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896647,51.815103
@@ -10,14 +12,12 @@ Sasdijk,3,f,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896642,51.815080
 Sasdijk,3,g,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896649,51.815156
 Sasdijk,3,h,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896663,51.815089
 Sasdijk,3,i,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896424,51.815122
-Sasdijk,3,J,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896435,51.815048
 Sasdijk,3,k,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896424,51.815061
 Sasdijk,3,l,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896429,51.815071
 Sasdijk,3,m,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896433,51.815156
 Sasdijk,3,n,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896408,51.815102
 Sasdijk,3,o,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896431,51.815085
 Sasdijk,3,p,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896221,51.815135
-Sasdijk,3,Q,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896194,51.815073
 Sasdijk,3,r,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896238,51.815174
 Sasdijk,3,s,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896225,51.815120
 Sasdijk,3,t,,4251AA,Werkendam,Werkendam,Noord-Brabant,VBO,4.896218,51.815087
@@ -504,7 +504,7 @@ van Heldenstraat,86,,,4251BT,Werkendam,Werkendam,Noord-Brabant,VBO,4.892620,51.8
 van Heldenstraat,88,,,4251BT,Werkendam,Werkendam,Noord-Brabant,VBO,4.892611,51.809191
 van Heldenstraat,90,,,4251BT,Werkendam,Werkendam,Noord-Brabant,VBO,4.892603,51.809146
 van Heldenstraat,92,,,4251BT,Werkendam,Werkendam,Noord-Brabant,VBO,4.892594,51.809101
-Bergseveld,17,a,,4251BV,Werkendam,Werkendam,Noord-Brabant,VBO,4.894162,51.812214
+Bergseveld,17,a,,4251BV,Werkendam,Werkendam,Noord-Brabant,VBO,4.893745,51.811766
 Bergseveld,17,,,4251BV,Werkendam,Werkendam,Noord-Brabant,VBO,4.894084,51.812164
 Bergseveld,19,,,4251BV,Werkendam,Werkendam,Noord-Brabant,VBO,4.894110,51.812329
 Bergseveld,21,,,4251BV,Werkendam,Werkendam,Noord-Brabant,VBO,4.894022,51.812331
@@ -556,8 +556,8 @@ Gedempte Haven,22,,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891725,51.814
 Gedempte Haven,23,,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891106,51.813985
 Gedempte Haven,24,a,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891477,51.814777
 Gedempte Haven,24,,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891743,51.814969
-Gedempte Haven,25,a,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891380,51.813919
 Gedempte Haven,25,B,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891345,51.813893
+Gedempte Haven,25,a,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891380,51.813919
 Gedempte Haven,25,,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891357,51.813962
 Gedempte Haven,26,,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891713,51.814956
 Gedempte Haven,28,,,4251CA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891723,51.814936
@@ -665,7 +665,7 @@ Hoogstraat,39,,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.894944,51.814051
 Kerkstraat,1,a,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.896707,51.813667
 Kerkstraat,1,,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.896660,51.813511
 Kerkstraat,2,a,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.896274,51.813630
-Kerkstraat,2,b,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.896204,51.813491
+Kerkstraat,2,b,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.896211,51.813574
 Kerkstraat,2,,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.896306,51.813703
 Kerkstraat,3,,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.896076,51.813390
 Kerkstraat,4,,,4251CH,Werkendam,Werkendam,Noord-Brabant,VBO,4.895961,51.813184
@@ -747,14 +747,15 @@ Hoogstraat,36,c,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.895173,51.814222
 Hoogstraat,36,d,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.895198,51.814254
 Hoogstraat,36,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.895234,51.814176
 Hoogstraat,38,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.895121,51.814182
-Hoogstraat,40,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.894534,51.814146
+Hoogstraat,40,A,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.894551,51.814206
+Hoogstraat,40,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.894527,51.814165
 Hoogstraat,42,a,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.894328,51.814166
 Hoogstraat,42,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.894359,51.814124
 Hoogstraat,44,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.894250,51.814111
 Hoogstraat,46,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.894144,51.814086
 Hoogstraat,48,a,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.893994,51.814102
-Hoogstraat,48,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.893988,51.814055
 Hoogstraat,48,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.893991,51.814054
+Hoogstraat,48,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.893988,51.814055
 Hoogstraat,50,,,4251CM,Werkendam,Werkendam,Noord-Brabant,VBO,4.893877,51.814040
 Hoogstraat,52,,,4251CN,Werkendam,Werkendam,Noord-Brabant,VBO,4.893744,51.814024
 Hoogstraat,56,,,4251CN,Werkendam,Werkendam,Noord-Brabant,VBO,4.893520,51.813994
@@ -793,7 +794,9 @@ Merwestraat,3,a,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895195,51.814348
 Merwestraat,3,,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895196,51.814386
 Merwestraat,4,a,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895050,51.814494
 Merwestraat,4,,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895049,51.814446
-Merwestraat,6,a,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895046,51.814547
+Merwestraat,6,A,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895101,51.814600
+Merwestraat,6,B,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895187,51.814608
+Merwestraat,6,C,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895311,51.814603
 Merwestraat,6,,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895052,51.814581
 Merwestraat,8,,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895110,51.814773
 Merwestraat,10,,,4251CR,Werkendam,Werkendam,Noord-Brabant,VBO,4.895077,51.815061
@@ -870,8 +873,8 @@ Kruisstraat,63,,,4251CV,Werkendam,Werkendam,Noord-Brabant,VBO,4.897943,51.815221
 Kruisstraat,65,a,,4251CV,Werkendam,Werkendam,Noord-Brabant,VBO,4.897996,51.815237
 Kruisstraat,65,b,,4251CV,Werkendam,Werkendam,Noord-Brabant,VBO,4.897995,51.815273
 Kruisstraat,65,,,4251CV,Werkendam,Werkendam,Noord-Brabant,VBO,4.897977,51.815232
-Kruisstraat,2,a,,4251CW,Werkendam,Werkendam,Noord-Brabant,VBO,4.896836,51.813874
 Kruisstraat,2,Z,22,4251CW,Werkendam,Werkendam,Noord-Brabant,VBO,4.896786,51.813899
+Kruisstraat,2,a,,4251CW,Werkendam,Werkendam,Noord-Brabant,VBO,4.896836,51.813874
 Kruisstraat,4,,,4251CW,Werkendam,Werkendam,Noord-Brabant,VBO,4.896872,51.813974
 Kruisstraat,8,,,4251CW,Werkendam,Werkendam,Noord-Brabant,VBO,4.896930,51.814022
 Kruisstraat,10,,,4251CW,Werkendam,Werkendam,Noord-Brabant,VBO,4.897004,51.814097
@@ -3072,7 +3075,7 @@ Vierlinghstraat,57,,,4251LC,Werkendam,Werkendam,Noord-Brabant,VBO,4.882704,51.79
 Vierlinghstraat,59,,,4251LC,Werkendam,Werkendam,Noord-Brabant,VBO,4.882115,51.799888
 Leemansstraat,1,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.881832,51.802534
 Leemansstraat,2,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.881059,51.801892
-Leemansstraat,7,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.881761,51.802237
+Leemansstraat,7,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.882464,51.802210
 Leemansstraat,9,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.881778,51.801780
 Leemansstraat,11,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.881802,51.801531
 Leemansstraat,13,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.882013,51.801167
@@ -3100,6 +3103,7 @@ Leemansstraat,41,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.879081,51.7997
 Leemansstraat,43,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.878395,51.799469
 Leemansstraat,45,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.878389,51.799596
 Leemansstraat,47,,,4251LD,Werkendam,Werkendam,Noord-Brabant,VBO,4.878289,51.799594
+Kraijenhoffstraat,1,,,4251LE,Werkendam,Werkendam,Noord-Brabant,VBO,4.882464,51.802210
 Kraijenhoffstraat,2,a,,4251LE,Werkendam,Werkendam,Noord-Brabant,VBO,4.882961,51.801834
 Kraijenhoffstraat,2,,,4251LE,Werkendam,Werkendam,Noord-Brabant,VBO,4.882947,51.801825
 Kraijenhoffstraat,4,,,4251LE,Werkendam,Werkendam,Noord-Brabant,VBO,4.883358,51.801745
@@ -3175,6 +3179,7 @@ Leeghwaterstraat,1,,,4251LM,Werkendam,Werkendam,Noord-Brabant,VBO,4.884851,51.80
 Leeghwaterstraat,2,,,4251LM,Werkendam,Werkendam,Noord-Brabant,VBO,4.884916,51.802794
 Leeghwaterstraat,3,a,,4251LM,Werkendam,Werkendam,Noord-Brabant,VBO,4.885161,51.803402
 Leeghwaterstraat,3,,,4251LM,Werkendam,Werkendam,Noord-Brabant,VBO,4.885137,51.803201
+Leeghwaterstraat,4,D,,4251LM,Werkendam,Werkendam,Noord-Brabant,VBO,4.885767,51.802494
 Leeghwaterstraat,4,a,,4251LM,Werkendam,Werkendam,Noord-Brabant,VBO,4.886101,51.802645
 Leeghwaterstraat,4,,,4251LM,Werkendam,Werkendam,Noord-Brabant,VBO,4.885794,51.802921
 Leeghwaterstraat,6,a,,4251LM,Werkendam,Werkendam,Noord-Brabant,VBO,4.886549,51.802928
@@ -3326,7 +3331,7 @@ Beverstaart,1,,,4251MA,Werkendam,Werkendam,Noord-Brabant,VBO,4.861182,51.796624
 Beverstaart,2,,,4251MA,Werkendam,Werkendam,Noord-Brabant,VBO,4.862322,51.797044
 Japesloot,1,a,,4251MB,Werkendam,Werkendam,Noord-Brabant,VBO,4.856132,51.795844
 Braspenning,1,,,4251MD,Werkendam,Werkendam,Noord-Brabant,VBO,4.841301,51.791399
-Braspenning,3,,,4251MD,Werkendam,Werkendam,Noord-Brabant,VBO,4.842624,51.787018
+Braspenning,1,,,4251MD,Werkendam,Werkendam,Noord-Brabant,VBO,4.841480,51.790309
 Bandijk,27,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.855716,51.795977
 Bandijk,28,a,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.840070,51.792618
 Bandijk,31,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.831938,51.791554
@@ -3337,13 +3342,13 @@ Bandijk,35,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.822741,51.792326
 Bandijk,36,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.822558,51.792210
 Bandijk,38,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.822419,51.792322
 Bandijk,39,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.822310,51.792330
-Muggenwaard,1,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.825018,51.787175
-Muggenwaard,2,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.830786,51.790944
 Muggenwaard,2,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.819022,51.782322
+Muggenwaard,2,,,4251ME,Werkendam,Werkendam,Noord-Brabant,VBO,4.830786,51.790944
 Bandijk,40,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.822164,51.792340
 Bandijk,41,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.822005,51.792363
 Bandijk,42,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.821792,51.792274
 Bandijk,43,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.821642,51.792392
+Bandijk,45,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.821127,51.791103
 Bandijk,46,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.820513,51.792370
 Bandijk,47,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.816174,51.792499
 Bandijk,48,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.815708,51.792649
@@ -3351,8 +3356,8 @@ Bandijk,49,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.807721,51.793151
 Bandijk,50,,,4251MG,Werkendam,Werkendam,Noord-Brabant,VBO,4.807270,51.793203
 Bandijk,55,a,,4251MH,Werkendam,Werkendam,Noord-Brabant,VBO,4.797609,51.793925
 Bandijk,55,,,4251MH,Werkendam,Werkendam,Noord-Brabant,VBO,4.797837,51.793784
-Kroonweg,1,,,4251MH,Werkendam,Werkendam,Noord-Brabant,VBO,4.803535,51.787856
 Kroonweg,1,,,4251MH,Werkendam,Werkendam,Noord-Brabant,VBO,4.803400,51.787767
+Kroonweg,1,,,4251MH,Werkendam,Werkendam,Noord-Brabant,VBO,4.803535,51.787856
 Kroonweg,2,,,4251MH,Werkendam,Werkendam,Noord-Brabant,VBO,4.801676,51.781980
 Kroonweg,3,,,4251MH,Werkendam,Werkendam,Noord-Brabant,VBO,4.807587,51.781501
 Kroonweg,4,,,4251MH,Werkendam,Werkendam,Noord-Brabant,VBO,4.806828,51.780806
@@ -3374,7 +3379,6 @@ Spieringsluis,6,,,4251MR,Werkendam,Werkendam,Noord-Brabant,VBO,4.761736,51.77815
 Spieringsluis,7,,,4251MR,Werkendam,Werkendam,Noord-Brabant,VBO,4.760464,51.776456
 Spieringsluis,8,,,4251MR,Werkendam,Werkendam,Noord-Brabant,VBO,4.761674,51.778053
 Spieringsluis,10,,,4251MR,Werkendam,Werkendam,Noord-Brabant,VBO,4.761226,51.777628
-Deeneplaatweg,1,,,4251MS,Werkendam,Werkendam,Noord-Brabant,VBO,4.759513,51.774558
 Deeneplaatweg,2,,,4251MS,Werkendam,Werkendam,Noord-Brabant,VBO,4.761140,51.760770
 Deeneplaatweg,3,a,,4251MS,Werkendam,Werkendam,Noord-Brabant,VBO,4.746033,51.755112
 Deeneplaatweg,3,,,4251MS,Werkendam,Werkendam,Noord-Brabant,VBO,4.754997,51.756072
@@ -3385,8 +3389,7 @@ Deeneplaatweg,999,a,,4251MS,Werkendam,Werkendam,Noord-Brabant,VBO,4.726432,51.73
 Hilweg,2,,,4251MT,Werkendam,Werkendam,Noord-Brabant,VBO,4.771792,51.765290
 Noorderklipweg,2,,,4251MV,Werkendam,Werkendam,Noord-Brabant,VBO,4.793552,51.758608
 Reugtweg,1,,,4251MX,Werkendam,Werkendam,Noord-Brabant,VBO,4.855402,51.762174
-Reugtweg,2,,,4251MX,Werkendam,Werkendam,Noord-Brabant,VBO,4.810295,51.758688
-Galeiweg,1,a,,4251MZ,Werkendam,Werkendam,Noord-Brabant,VBO,4.841816,51.783138
+Reugtweg,3,,,4251MX,Werkendam,Werkendam,Noord-Brabant,VBO,4.838655,51.761770
 Galeiweg,1,,,4251MZ,Werkendam,Werkendam,Noord-Brabant,VBO,4.835332,51.779051
 De Onderzand,1,,,4251NA,Werkendam,Werkendam,Noord-Brabant,VBO,4.839533,51.774578
 Bevertweg,1,,,4251NB,Werkendam,Werkendam,Noord-Brabant,VBO,4.836950,51.768401
@@ -3394,25 +3397,18 @@ Bevertweg,2,,,4251NB,Werkendam,Werkendam,Noord-Brabant,VBO,4.836974,51.767377
 Bevertweg,3,a,,4251NB,Werkendam,Werkendam,Noord-Brabant,VBO,4.856798,51.765620
 Bevertweg,3,,,4251NB,Werkendam,Werkendam,Noord-Brabant,VBO,4.857040,51.765964
 Zalmpje,1,,,4251NC,Werkendam,Werkendam,Noord-Brabant,VBO,4.821736,51.763538
-Zalmpje,2,,,4251NC,Werkendam,Werkendam,Noord-Brabant,VBO,4.822646,51.763528
 Nerzienweg,1,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.859943,51.780887
 Nerzienweg,2,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.859801,51.779966
 Nerzienweg,3,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.860635,51.774246
 Nerzienweg,5,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.855679,51.774001
 Nerzienweg,6,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857506,51.773767
-Nerzienweg,6,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857480,51.772864
 Nerzienweg,7,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857604,51.773646
-Nerzienweg,7,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857505,51.772827
-Nerzienweg,8,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857555,51.772757
-Nerzienweg,9,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857581,51.772721
-Nerzienweg,10,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857626,51.772656
-Nerzienweg,11,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857651,51.772620
-Nerzienweg,12,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857749,51.772403
 Nerzienweg,14,a,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857199,51.774216
 Nerzienweg,14,b,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.856989,51.771994
 Nerzienweg,14,c,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.858432,51.767158
 Nerzienweg,14,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857762,51.771671
 Nerzienweg,15,a,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.854764,51.768112
+Nerzienweg,15,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.857505,51.767994
 Nerzienweg,16,,,4251ND,Werkendam,Werkendam,Noord-Brabant,VBO,4.858106,51.773383
 Kooike,1,,,4251NE,Werkendam,Werkendam,Noord-Brabant,VBO,4.869055,51.779123
 Steurgat,1,a,,4251NG,Werkendam,Werkendam,Noord-Brabant,VBO,4.872883,51.800756
@@ -3488,7 +3484,7 @@ Beatrixhaven,32,,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.884399,51.81162
 Beatrixhaven,33,a,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.883338,51.811637
 Beatrixhaven,33,b,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.883544,51.811519
 Beatrixhaven,35,a,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.884398,51.812218
-Beatrixhaven,35,,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.884527,51.812054
+Beatrixhaven,35,,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.884490,51.812048
 Beatrixhaven,39,,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.885467,51.812043
 Beatrixhaven,41,,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.884655,51.812416
 Beatrixhaven,42,,,4251NK,Werkendam,Werkendam,Noord-Brabant,VBO,4.885026,51.812610
@@ -3502,16 +3498,16 @@ Biesboschhaven Noord,2,a,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.880806,
 Biesboschhaven Noord,2,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.880989,51.810346
 Biesboschhaven Noord,3,b,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.880029,51.809527
 Biesboschhaven Noord,3,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.880515,51.809609
-Biesboschhaven Noord,4,a,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.879659,51.809349
 Biesboschhaven Noord,4,B,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.878672,51.809312
+Biesboschhaven Noord,4,a,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.879659,51.809349
 Biesboschhaven Noord,4,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.880091,51.809939
 Biesboschhaven Noord,5,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.879371,51.809281
 Biesboschhaven Noord,7,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.877219,51.808562
 Biesboschhaven Noord,8,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.878729,51.808815
 Biesboschhaven Noord,10,a,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.877521,51.808085
 Biesboschhaven Noord,10,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.877442,51.808223
-Biesboschhaven Noord,12,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.876857,51.807707
 Biesboschhaven Noord,12,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.877335,51.808152
+Biesboschhaven Noord,12,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.876857,51.807707
 Biesboschhaven Noord,14,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.876479,51.807650
 Biesboschhaven Noord,16,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.876548,51.807605
 Biesboschhaven Noord,18,,,4251NL,Werkendam,Werkendam,Noord-Brabant,VBO,4.876617,51.807559
@@ -3521,9 +3517,9 @@ Biesboschhaven Zuid,1,,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.883611,51
 Biesboschhaven Zuid,2,b,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.882877,51.809075
 Biesboschhaven Zuid,2,,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.883115,51.809133
 Biesboschhaven Zuid,4,,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.882838,51.808871
+Biesboschhaven Zuid,5,C,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.882314,51.809160
 Biesboschhaven Zuid,5,a,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.882152,51.809129
 Biesboschhaven Zuid,5,b,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.882325,51.809244
-Biesboschhaven Zuid,5,C,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.882314,51.809160
 Biesboschhaven Zuid,6,,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.882421,51.808830
 Biesboschhaven Zuid,7,,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.881665,51.808621
 Biesboschhaven Zuid,8,,,4251NM,Werkendam,Werkendam,Noord-Brabant,VBO,4.881422,51.808479
@@ -3545,9 +3541,10 @@ Biesboschhaven Zuid,19,,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.879326,5
 Biesboschhaven Zuid,20,,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.879228,51.807114
 Biesboschhaven Zuid,21,,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.879224,51.806628
 Biesboschhaven Zuid,22,,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.878843,51.806952
+Biesboschhaven Zuid,23,A,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.878426,51.806554
 Biesboschhaven Zuid,23,,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.878589,51.806743
 Biesboschhaven Zuid,24,,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.878235,51.806611
-Biesboschhaven Zuid,25,,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.878100,51.806532
+Biesboschhaven Zuid,25,,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.878092,51.806513
 Biesboschhaven Zuid,29,a,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.877799,51.804888
 Biesboschhaven Zuid,29,b,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.877607,51.804912
 Biesboschhaven Zuid,30,a,,4251NN,Werkendam,Werkendam,Noord-Brabant,VBO,4.878017,51.804480
@@ -4121,14 +4118,14 @@ Raadhuislaan,2,,212,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897505,51.807
 Raadhuislaan,2,,213,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897520,51.807649
 Raadhuislaan,2,,214,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897534,51.807658
 Raadhuislaan,2,,215,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897548,51.807668
-Raadhuislaan,2,,216,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897563,51.807677
-Raadhuislaan,2,,217,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897577,51.807686
-Raadhuislaan,2,,218,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897592,51.807695
-Raadhuislaan,2,,219,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897606,51.807704
-Raadhuislaan,2,,220,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897620,51.807713
-Raadhuislaan,2,,301,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897635,51.807722
-Raadhuislaan,2,,302,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897649,51.807731
-Raadhuislaan,2,,303,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897664,51.807740
+Raadhuislaan,2,,216,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897443,51.807751
+Raadhuislaan,2,,217,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897728,51.807622
+Raadhuislaan,2,,218,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897483,51.807813
+Raadhuislaan,2,,219,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897710,51.807661
+Raadhuislaan,2,,220,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897404,51.807721
+Raadhuislaan,2,,301,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897782,51.807699
+Raadhuislaan,2,,302,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897864,51.807754
+Raadhuislaan,2,,303,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897509,51.807842
 Raadhuislaan,2,,304,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897678,51.807749
 Raadhuislaan,2,,305,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897692,51.807758
 Raadhuislaan,2,,306,4251VS,Werkendam,Werkendam,Noord-Brabant,VBO,4.897707,51.807767
@@ -4485,7 +4482,6 @@ Sleeuwijksedijk,51,,,4251XC,Werkendam,Werkendam,Noord-Brabant,VBO,4.901224,51.81
 Sleeuwijksedijk,52,,,4251XC,Werkendam,Werkendam,Noord-Brabant,VBO,4.901165,51.816543
 Sleeuwijksedijk,57,,,4251XC,Werkendam,Werkendam,Noord-Brabant,VBO,4.900936,51.816489
 Sleeuwijksedijk,58,a,,4251XC,Werkendam,Werkendam,Noord-Brabant,VBO,4.900730,51.816228
-Zuideveldlaan,5,,,4251XC,Dussen,Werkendam,Noord-Brabant,VBO,4.960749,51.733168
 Sleeuwijksedijk,60,,,4251XD,Werkendam,Werkendam,Noord-Brabant,VBO,4.900554,51.816187
 Sleeuwijksedijk,61,,,4251XD,Werkendam,Werkendam,Noord-Brabant,VBO,4.900154,51.816099
 Sleeuwijksedijk,63,,,4251XD,Werkendam,Werkendam,Noord-Brabant,VBO,4.899820,51.816016
@@ -4729,6 +4725,7 @@ Monnikenhoef,53,,,4251XX,Werkendam,Werkendam,Noord-Brabant,VBO,4.906188,51.80856
 Monnikenhoef,55,,,4251XX,Werkendam,Werkendam,Noord-Brabant,VBO,4.905857,51.808292
 Monnikenhoef,57,,,4251XX,Werkendam,Werkendam,Noord-Brabant,VBO,4.905694,51.808153
 Monnikenhoef,59,,,4251XX,Werkendam,Werkendam,Noord-Brabant,VBO,4.905595,51.808082
+Monnikenhoef,61,,,4251XX,Werkendam,Werkendam,Noord-Brabant,VBO,4.905395,51.807940
 Lange Wiep,2,,,4251XZ,Werkendam,Werkendam,Noord-Brabant,VBO,4.911898,51.809859
 Lange Wiep,4,,,4251XZ,Werkendam,Werkendam,Noord-Brabant,VBO,4.910518,51.810457
 Sigmondstraat,1,,,4251ZA,Werkendam,Werkendam,Noord-Brabant,VBO,4.891945,51.812574

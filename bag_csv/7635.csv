@@ -4,7 +4,6 @@ Noordweg,8,,,7635LA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.988788,52.46
 Aaksbergweg,1,,,7635LB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.982891,52.461488
 Aaksbergweg,6,,BEDR,7635LB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.988597,52.461797
 Aaksbergweg,6,,,7635LB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.988532,52.461892
-Rotmanweg,2,,,7635LC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.987030,52.455499
 Rotmanweg,7,,,7635LC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.977063,52.462708
 Rotmanweg,9,,,7635LC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976811,52.463070
 Schabosweg,3,,,7635LD,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.984390,52.456550
@@ -45,7 +44,8 @@ Hoofdstraat,26,,,7635LJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.977602,5
 Hoofdstraat,27,,,7635LJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.980059,52.451926
 Hoofdstraat,28,,,7635LJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.977781,52.440109
 Hoofdstraat,29,,,7635LJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.980236,52.451941
-Hoofdstraat,32,,,7635LJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.978504,52.448369
+Hoofdstraat,32,A,,7635LJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.978675,52.448462
+Hoofdstraat,32,,,7635LJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.978562,52.448361
 Hoofdstraat,34,,,7635LJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.978729,52.448887
 Seiseweg,4,,,7635LK,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.982895,52.446503
 Seiseweg,5,,,7635LK,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.985102,52.447759
@@ -130,6 +130,7 @@ Ottershagenweg,50,,,7635LT,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.97492
 Ottershagenweg,52,,,7635LT,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975376,52.426810
 Horstweg,4,,,7635LV,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.969695,52.420918
 Horstweg,8,,,7635LV,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.969675,52.423219
+Horstweg,8,,,7635LV,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.969486,52.423542
 Horstweg,12,,,7635LV,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.966805,52.422880
 Pastoor Brandtsstraat,1,,,7635LW,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976168,52.425505
 Pastoor Brandtsstraat,3,,,7635LW,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976344,52.425494
@@ -191,7 +192,9 @@ Dorpsstraat,51,A,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975474,
 Dorpsstraat,51,,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975459,52.426234
 Dorpsstraat,53,A,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975536,52.426350
 Dorpsstraat,53,,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975505,52.426305
-Dorpsstraat,55,,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975854,52.426588
+Dorpsstraat,55,A,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975830,52.426540
+Dorpsstraat,55,B,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975852,52.426601
+Dorpsstraat,55,,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975740,52.426612
 Dorpsstraat,57,,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975931,52.426704
 Dorpsstraat,59,,,7635NA,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975977,52.426748
 Dorpsstraat,61,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976250,52.426987
@@ -201,7 +204,7 @@ Dorpsstraat,69,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976629,5
 Dorpsstraat,71,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976587,52.427360
 Dorpsstraat,73,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976768,52.427484
 Dorpsstraat,75,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976834,52.427672
-Dorpsstraat,85,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976256,52.428381
+Dorpsstraat,85,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976283,52.428362
 Dorpsstraat,89,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975791,52.428531
 Dorpsstraat,91,,,7635NB,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975517,52.428696
 Dorpsstraat,14,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.973409,52.422387
@@ -212,6 +215,8 @@ Dorpsstraat,26,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975362,5
 Dorpsstraat,32,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976005,52.425058
 Dorpsstraat,34,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975816,52.425537
 Dorpsstraat,36,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975849,52.425644
+Dorpsstraat,38,A,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975849,52.425779
+Dorpsstraat,38,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975861,52.425731
 Dorpsstraat,40,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975860,52.425941
 Dorpsstraat,42,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975952,52.426057
 Dorpsstraat,44,,,7635NC,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.976045,52.426181
@@ -271,6 +276,7 @@ Breemorsweg,12,,B02,7635NH,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.99278
 Breemorsweg,12,,,7635NH,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.991751,52.425017
 Breemorsweg,14,,,7635NH,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.992120,52.424661
 Breemorsweg,16,,,7635NH,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.993329,52.423521
+Breemorsweg,17,,,7635NH,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.995029,52.422506
 Breemorsweg,17,,,7635NH,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.995054,52.422428
 Breemorsweg,19,,,7635NH,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.995165,52.422256
 Bergvennenweg,3,,,7635NJ,Lattrop-Breklenkamp,Dinkelland,Overijssel,VBO,6.975388,52.430819

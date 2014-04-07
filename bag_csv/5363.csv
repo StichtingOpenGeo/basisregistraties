@@ -111,6 +111,7 @@ Tweehuizerweg,2,,,5363SH,Velp,Grave,Noord-Brabant,VBO,5.708202,51.736790
 Tweehuizerweg,4,,,5363SH,Velp,Grave,Noord-Brabant,VBO,5.710460,51.736711
 Heistraat,1,,,5363SJ,Velp,Grave,Noord-Brabant,VBO,5.713538,51.743903
 Heistraat,2,,,5363SJ,Velp,Grave,Noord-Brabant,VBO,5.710920,51.738265
+Heistraat,3,,,5363SJ,Velp,Grave,Noord-Brabant,VBO,5.713470,51.744255
 Heistraat,4,,,5363SJ,Velp,Grave,Noord-Brabant,VBO,5.710657,51.737879
 Heistraat,7,,,5363SJ,Velp,Grave,Noord-Brabant,VBO,5.711000,51.739326
 Heistraat,9,,,5363SJ,Velp,Grave,Noord-Brabant,VBO,5.709605,51.738565
@@ -133,6 +134,7 @@ Valkhofscheweg,6,,,5363SN,Velp,Grave,Noord-Brabant,VBO,5.713594,51.743588
 Valkhofscheweg,8,,,5363SN,Velp,Grave,Noord-Brabant,VBO,5.712952,51.743453
 Valkhofscheweg,13,,,5363SN,Velp,Grave,Noord-Brabant,VBO,5.712988,51.743877
 Valkhofscheweg,15,,,5363SN,Velp,Grave,Noord-Brabant,VBO,5.712466,51.743861
+Valkhofscheweg,16,,,5363SN,Velp,Grave,Noord-Brabant,VBO,5.711048,51.743380
 Voskeschedwarsstraat,1,,,5363SP,Velp,Grave,Noord-Brabant,VBO,5.719484,51.741198
 Voskeschedwarsstraat,2,,,5363SP,Velp,Grave,Noord-Brabant,VBO,5.718071,51.742065
 Steegschenhofscheweg,1,a,,5363SR,Velp,Grave,Noord-Brabant,VBO,5.729034,51.748155
@@ -213,8 +215,6 @@ Tolschestraat,27,,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.716690,51.749233
 Tolschestraat,29,,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.716720,51.749323
 Tolschestraat,31,,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.716649,51.749602
 Tolschestraat,39,,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.716277,51.750241
-Tolschestraat,41,a,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.716062,51.750484
-Tolschestraat,41,,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.716119,51.750430
 Tolschestraat,43,,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.716006,51.750718
 Tolschestraat,45,,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.715717,51.750809
 Tolschestraat,47,,,5363TB,Velp,Grave,Noord-Brabant,VBO,5.715517,51.751187
@@ -318,7 +318,7 @@ Vogelenzangscheweg,9,,,5363TH,Velp,Grave,Noord-Brabant,VBO,5.720207,51.749043
 Vogelenzangscheweg,10,,,5363TH,Velp,Grave,Noord-Brabant,VBO,5.719713,51.748730
 Schotschestraat,1,a,,5363TJ,Velp,Grave,Noord-Brabant,VBO,5.713145,51.751670
 Schotschestraat,1,,,5363TJ,Velp,Grave,Noord-Brabant,VBO,5.714765,51.751396
-Schotschestraat,3,,,5363TJ,Velp,Grave,Noord-Brabant,VBO,5.711266,51.752160
+Schotschestraat,3,,,5363TJ,Velp,Grave,Noord-Brabant,VBO,5.711375,51.752216
 Schotschestraat,5,,,5363TJ,Velp,Grave,Noord-Brabant,VBO,5.710646,51.752522
 Schotschestraat,7,,,5363TJ,Velp,Grave,Noord-Brabant,VBO,5.709191,51.753568
 Grippensteinschestraat,1,,,5363TK,Velp,Grave,Noord-Brabant,VBO,5.717516,51.755262
@@ -348,6 +348,7 @@ Hoogveldscheweg,1,,,5363TM,Velp,Grave,Noord-Brabant,VBO,5.727895,51.752617
 Hoogveldscheweg,2,,,5363TM,Velp,Grave,Noord-Brabant,VBO,5.726257,51.750554
 Hoogveldscheweg,3,a,,5363TM,Velp,Grave,Noord-Brabant,VBO,5.727171,51.752655
 Hoogveldscheweg,3,,,5363TM,Velp,Grave,Noord-Brabant,VBO,5.727070,51.752682
+Hoogveldscheweg,4,a,,5363TM,Velp,Grave,Noord-Brabant,VBO,5.725070,51.751307
 Hoogveldscheweg,4,,,5363TM,Velp,Grave,Noord-Brabant,VBO,5.726716,51.751811
 Hoogveldscheweg,5,,,5363TM,Velp,Grave,Noord-Brabant,VBO,5.725709,51.752704
 Hoogveldscheweg,6,,,5363TM,Velp,Grave,Noord-Brabant,VBO,5.722811,51.752532
@@ -384,8 +385,8 @@ Hanenstraat,8,c,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.716425,51.760559
 Hanenstraat,8,,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.716456,51.760865
 Hanenstraat,9,,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.715904,51.760633
 Hanenstraat,10,,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.716046,51.760282
+Hanenstraat,12,a,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.715826,51.759776
 Hanenstraat,13,,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.715390,51.759582
-Hanenstraat,14,a,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.715822,51.759803
 Hanenstraat,14,,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.715693,51.759546
 Hanenstraat,15,,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.714923,51.759188
 Hanenstraat,16,,,5363TS,Velp,Grave,Noord-Brabant,VBO,5.715387,51.759205
@@ -396,13 +397,21 @@ Pannestaartweg,1,,,5363TT,Velp,Grave,Noord-Brabant,VBO,5.704887,51.761400
 Pannestaartweg,2,,,5363TT,Velp,Grave,Noord-Brabant,VBO,5.713877,51.760674
 Pannestaartweg,3,,,5363TT,Velp,Grave,Noord-Brabant,VBO,5.700773,51.761456
 Oude Maasdijk,2,,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.700176,51.760963
+Oude Maasdijk,4,a,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
+Oude Maasdijk,4,b,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
+Oude Maasdijk,4,c,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
+Oude Maasdijk,4,d,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
+Oude Maasdijk,4,e,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
+Oude Maasdijk,4,f,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
+Oude Maasdijk,4,g,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
+Oude Maasdijk,4,h,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
 Oude Maasdijk,4,,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.694312,51.759235
 Oude Maasdijk,6,,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.692846,51.758754
 Oude Maasdijk,8,,,5363TV,Velp,Grave,Noord-Brabant,VBO,5.691527,51.758631
 Bronkhorstweg,1,a,,5363TW,Velp,Grave,Noord-Brabant,VBO,5.722462,51.760129
 Bronkhorstweg,1,b,,5363TW,Velp,Grave,Noord-Brabant,VBO,5.722853,51.760083
 Bronkhorstweg,1,c,,5363TW,Velp,Grave,Noord-Brabant,VBO,5.723374,51.760009
-Bronkhorstweg,1,,,5363TW,Velp,Grave,Noord-Brabant,VBO,5.722187,51.760120
+Bronkhorstweg,1,,,5363TW,Velp,Grave,Noord-Brabant,VBO,5.722247,51.760185
 Bronkhorstweg,3,,,5363TW,Velp,Grave,Noord-Brabant,VBO,5.722028,51.760184
 Bronkhorstweg,5,a,,5363TW,Velp,Grave,Noord-Brabant,VBO,5.721680,51.760203
 Bronkhorstweg,5,,,5363TW,Velp,Grave,Noord-Brabant,VBO,5.721565,51.760221
@@ -546,6 +555,8 @@ Appèlplaats,2,,,5363VS,Velp,Grave,Noord-Brabant,VBO,5.729357,51.743013
 Veldartilleriestraat,1,,,5363VT,Velp,Grave,Noord-Brabant,VBO,5.728682,51.743689
 Veldartilleriestraat,2,,,5363VT,Velp,Grave,Noord-Brabant,VBO,5.728430,51.744158
 Stoottroepenweg,2,,,5363VV,Velp,Grave,Noord-Brabant,VBO,5.730305,51.743891
+Stoottroepenweg,4,,,5363VV,Velp,Grave,Noord-Brabant,VBO,5.731044,51.744318
+Stoottroepenweg,6,,,5363VV,Velp,Grave,Noord-Brabant,VBO,5.730905,51.744107
 Infanteriestraat,1,,,5363VW,Velp,Grave,Noord-Brabant,VBO,5.729744,51.744324
 Infanteriestraat,2,,,5363VW,Velp,Grave,Noord-Brabant,VBO,5.729818,51.744629
 Infanteriestraat,3,,,5363VW,Velp,Grave,Noord-Brabant,VBO,5.728829,51.744520

@@ -266,7 +266,7 @@ Dorpskant,4,,,7035AZ,Kilder,Montferland,Gelderland,VBO,6.232575,51.935528
 Dorpskant,6,,,7035AZ,Kilder,Montferland,Gelderland,VBO,6.232810,51.935623
 Dorpskant,8,,,7035AZ,Kilder,Montferland,Gelderland,VBO,6.232971,51.935660
 Dorpskant,10,,,7035AZ,Kilder,Montferland,Gelderland,VBO,6.233162,51.935784
-Cedric Mardonstraat,1,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228827,51.936337
+Cedric Mardonstraat,1,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228833,51.936337
 Cedric Mardonstraat,3,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228776,51.936281
 Cedric Mardonstraat,5,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228727,51.936229
 Cedric Mardonstraat,6,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228572,51.936391
@@ -282,7 +282,6 @@ Cedric Mardonstraat,18,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228028,51.93
 Cedric Mardonstraat,20,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228071,51.936457
 Cedric Mardonstraat,22,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228111,51.936501
 Cedric Mardonstraat,24,,,7035BA,Kilder,Montferland,Gelderland,VBO,6.228158,51.936546
-Kilderseveld,1,,,7035CA,Kilder,Montferland,Gelderland,VBO,6.218864,51.934882
 Kilderseveld,1,,,7035CA,Kilder,Montferland,Gelderland,VBO,6.218941,51.934917
 Kilderseveld,2,,,7035CA,Kilder,Montferland,Gelderland,VBO,6.220232,51.935670
 Kilderseveld,3,a,,7035CA,Kilder,Montferland,Gelderland,VBO,6.219535,51.935702
@@ -302,7 +301,7 @@ Rinkomsweg,12,b,,7035CB,Kilder,Montferland,Gelderland,VBO,6.215921,51.942397
 Rinkomsweg,12,,,7035CB,Kilder,Montferland,Gelderland,VBO,6.215604,51.941788
 Rinkomsweg,14,,,7035CB,Kilder,Montferland,Gelderland,VBO,6.215402,51.942625
 Rinkomsweg,16,,,7035CB,Kilder,Montferland,Gelderland,VBO,6.214627,51.942712
-Rinkomsweg,18,,RECH,7035CB,Kilder,Montferland,Gelderland,VBO,6.213680,51.942569
+Rinkomsweg,18,,a,7035CB,Kilder,Montferland,Gelderland,VBO,6.213680,51.942569
 Rinkomsweg,18,,,7035CB,Kilder,Montferland,Gelderland,VBO,6.213566,51.942467
 Rinkomsweg,20,,,7035CB,Kilder,Montferland,Gelderland,VBO,6.208608,51.942520
 Rinkomsweg,22,,,7035CB,Kilder,Montferland,Gelderland,VBO,6.208228,51.942442
@@ -320,7 +319,8 @@ Wehlseweg,7,,,7035CE,Kilder,Montferland,Gelderland,VBO,6.222282,51.943457
 Wehlseweg,10,,,7035CE,Kilder,Montferland,Gelderland,VBO,6.223279,51.943100
 Wehlseweg,12,,,7035CE,Kilder,Montferland,Gelderland,VBO,6.222948,51.944055
 Wehlseweg,14,,,7035CE,Kilder,Montferland,Gelderland,VBO,6.222459,51.944400
-Wehlseweg,1,,,7035CG,Kilder,Montferland,Gelderland,VBO,6.225318,51.940901
+Wehlseweg,1,a,,7035CG,Kilder,Montferland,Gelderland,VBO,6.225318,51.940901
+Wehlseweg,1,,,7035CG,Kilder,Montferland,Gelderland,VBO,6.225661,51.940760
 Wehlseweg,2,,,7035CG,Kilder,Montferland,Gelderland,VBO,6.227361,51.940527
 Wehlseweg,3,a,,7035CG,Kilder,Montferland,Gelderland,VBO,6.224268,51.941429
 Wehlseweg,3,,,7035CG,Kilder,Montferland,Gelderland,VBO,6.224268,51.941429
@@ -388,8 +388,8 @@ Doetinchemseweg,13,,,7035CR,Kilder,Montferland,Gelderland,VBO,6.246416,51.940668
 Doetinchemseweg,14,,,7035CR,Kilder,Montferland,Gelderland,VBO,6.247540,51.938637
 Doetinchemseweg,15,,,7035CR,Kilder,Montferland,Gelderland,VBO,6.247555,51.940929
 Doetinchemseweg,17,,,7035CR,Kilder,Montferland,Gelderland,VBO,6.248475,51.939601
-Oud Doetinchemseweg,1,a,,7035CR,Kilder,Montferland,Gelderland,VBO,6.251214,51.941388
-Oud Doetinchemseweg,1,,,7035CR,Kilder,Montferland,Gelderland,VBO,6.251537,51.941538
+Oud Doetinchemseweg,1,a,,7035CR,Kilder,Montferland,Gelderland,VBO,6.251211,51.941385
+Oud Doetinchemseweg,1,,,7035CR,Kilder,Montferland,Gelderland,VBO,6.251543,51.941538
 Oud Doetinchemseweg,2,,,7035CR,Kilder,Montferland,Gelderland,VBO,6.252192,51.941406
 Doetinchemseweg,16,,,7035CS,Kilder,Montferland,Gelderland,VBO,6.247845,51.938599
 Oud Doetinchemseweg,3,,,7035CS,Kilder,Montferland,Gelderland,VBO,6.251761,51.941790
@@ -412,7 +412,8 @@ Braamtseweg,15,a,,7035CT,Kilder,Montferland,Gelderland,VBO,6.258537,51.935005
 Braamtseweg,15,,,7035CT,Kilder,Montferland,Gelderland,VBO,6.258508,51.935024
 Braamtseweg,17,,,7035CT,Kilder,Montferland,Gelderland,VBO,6.260781,51.934503
 Julianaboom,9,,,7035CV,Kilder,Montferland,Gelderland,VBO,6.251844,51.936304
-Julianaboom,10,,,7035CV,Kilder,Montferland,Gelderland,VBO,6.250980,51.935241
+Julianaboom,10,a,,7035CV,Kilder,Montferland,Gelderland,VBO,6.251042,51.935194
+Julianaboom,10,,,7035CV,Kilder,Montferland,Gelderland,VBO,6.251042,51.935194
 Julianaboom,11,,,7035CV,Kilder,Montferland,Gelderland,VBO,6.252629,51.936325
 Julianaboom,12,,,7035CV,Kilder,Montferland,Gelderland,VBO,6.252355,51.935671
 Julianaboom,13,,,7035CV,Kilder,Montferland,Gelderland,VBO,6.253030,51.936763
@@ -432,7 +433,8 @@ Julianaboom,3,a,,7035CX,Kilder,Montferland,Gelderland,VBO,6.249284,51.935532
 Julianaboom,3,b,,7035CX,Kilder,Montferland,Gelderland,VBO,6.247268,51.935274
 Julianaboom,3,,,7035CX,Kilder,Montferland,Gelderland,VBO,6.247268,51.935274
 Julianaboom,4,,,7035CX,Kilder,Montferland,Gelderland,VBO,6.242977,51.935738
-Julianaboom,5,,,7035CX,Kilder,Montferland,Gelderland,VBO,6.248341,51.934901
+Julianaboom,5,a,,7035CX,Kilder,Montferland,Gelderland,VBO,6.248467,51.934844
+Julianaboom,5,,,7035CX,Kilder,Montferland,Gelderland,VBO,6.248467,51.934844
 Julianaboom,6,a,,7035CX,Kilder,Montferland,Gelderland,VBO,6.245083,51.934835
 Julianaboom,6,,,7035CX,Kilder,Montferland,Gelderland,VBO,6.246166,51.935195
 Julianaboom,8,a,,7035CX,Kilder,Montferland,Gelderland,VBO,6.249423,51.934461
@@ -473,6 +475,7 @@ Boskant,3,,,7035DG,Kilder,Montferland,Gelderland,VBO,6.232258,51.931818
 Boskant,4,,,7035DG,Kilder,Montferland,Gelderland,VBO,6.229091,51.933476
 Boskant,5,,,7035DG,Kilder,Montferland,Gelderland,VBO,6.231710,51.932046
 Boskant,7,a,,7035DG,Kilder,Montferland,Gelderland,VBO,6.231015,51.932204
+Boskant,7,b,,7035DG,Kilder,Montferland,Gelderland,VBO,6.230715,51.932071
 Boskant,7,,,7035DG,Kilder,Montferland,Gelderland,VBO,6.230958,51.932240
 Boskant,9,,,7035DG,Kilder,Montferland,Gelderland,VBO,6.230280,51.932524
 Hoge Eltenseweg,4,,,7035DH,Kilder,Montferland,Gelderland,VBO,6.231087,51.929857
@@ -611,7 +614,8 @@ Schuttersveld,14,,,7035DT,Kilder,Montferland,Gelderland,VBO,6.235502,51.934940
 Schuttersveld,16,,,7035DT,Kilder,Montferland,Gelderland,VBO,6.235679,51.935065
 Schuttersveld,18,,,7035DT,Kilder,Montferland,Gelderland,VBO,6.235943,51.935189
 Schuttersveld,20,,,7035DT,Kilder,Montferland,Gelderland,VBO,6.236134,51.935304
-Rozenpasweg,1,,,7035DZ,Kilder,Montferland,Gelderland,VBO,6.243364,51.943054
+Rozenpasweg,1,a,,7035DZ,Kilder,Montferland,Gelderland,VBO,6.243377,51.943054
+Rozenpasweg,1,,,7035DZ,Kilder,Montferland,Gelderland,VBO,6.243377,51.943054
 Rozenpasweg,3,,,7035DZ,Kilder,Montferland,Gelderland,VBO,6.249041,51.943440
 Rozenpasweg,5,,,7035DZ,Kilder,Montferland,Gelderland,VBO,6.250513,51.942741
 Rozenpasweg,7,,,7035DZ,Kilder,Montferland,Gelderland,VBO,6.250556,51.942705

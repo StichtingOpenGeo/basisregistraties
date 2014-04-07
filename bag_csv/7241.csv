@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Markt,1,,,7241AA,Lochem,Lochem,Gelderland,VBO,6.415224,52.161351
 Markt,2,,,7241AA,Lochem,Lochem,Gelderland,VBO,6.415471,52.161586
 Markt,3,t,,7241AA,Lochem,Lochem,Gelderland,VBO,6.414880,52.161395
 Markt,3,,,7241AA,Lochem,Lochem,Gelderland,VBO,6.415094,52.161649
@@ -105,7 +104,7 @@ Molenstraat,16,b,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417027,52.161812
 Molenstraat,16,c,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417027,52.161812
 Molenstraat,16,d,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417056,52.161812
 Molenstraat,16,,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417056,52.161794
-Molenstraat,18,,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417071,52.161821
+Molenstraat,18,,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417167,52.161871
 Molenstraat,20,,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417130,52.161856
 Molenstraat,22,,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417117,52.161888
 Molenstraat,24,a,,7241AE,Lochem,Lochem,Gelderland,VBO,6.417264,52.161927
@@ -131,6 +130,7 @@ Bierstraat,13,,,7241AG,Lochem,Lochem,Gelderland,VBO,6.416298,52.160972
 Bierstraat,15,,,7241AG,Lochem,Lochem,Gelderland,VBO,6.416394,52.160910
 Bierstraat,17,,,7241AG,Lochem,Lochem,Gelderland,VBO,6.416442,52.160884
 Bierstraat,19,,,7241AG,Lochem,Lochem,Gelderland,VBO,6.416393,52.160856
+Bierstraat,2,,,7241AH,Lochem,Lochem,Gelderland,VBO,6.415256,52.161342
 Bierstraat,4,,,7241AH,Lochem,Lochem,Gelderland,VBO,6.415342,52.161298
 Bierstraat,6,,,7241AH,Lochem,Lochem,Gelderland,VBO,6.415438,52.161255
 Bierstraat,8,,,7241AH,Lochem,Lochem,Gelderland,VBO,6.415507,52.161233
@@ -151,9 +151,9 @@ Bierstraat,38,,,7241AJ,Lochem,Lochem,Gelderland,VBO,6.416398,52.160654
 't Ei,5,,,7241AK,Lochem,Lochem,Gelderland,VBO,6.416910,52.161286
 't Ei,7,,,7241AK,Lochem,Lochem,Gelderland,VBO,6.417070,52.161149
 't Ei,10,,,7241AK,Lochem,Lochem,Gelderland,VBO,6.416495,52.161037
-'t Ei,13,,,7241AK,Lochem,Lochem,Gelderland,VBO,6.416634,52.160950
-'t Ei,14,,,7241AK,Lochem,Lochem,Gelderland,VBO,6.416495,52.160826
-'t Ei,15,,,7241AK,Lochem,Lochem,Gelderland,VBO,6.416756,52.160835
+'t Ei,14,a,,7241AK,Lochem,Lochem,Gelderland,VBO,6.416547,52.160856
+'t Ei,14,,,7241AK,Lochem,Lochem,Gelderland,VBO,6.416628,52.160925
+'t Ei,15,,,7241AK,Lochem,Lochem,Gelderland,VBO,6.416660,52.160783
 Hoogestraatje,1,,,7241AL,Lochem,Lochem,Gelderland,VBO,6.417103,52.161317
 Hoogestraatje,3,,,7241AL,Lochem,Lochem,Gelderland,VBO,6.417310,52.161387
 Hoogestraatje,5,,,7241AL,Lochem,Lochem,Gelderland,VBO,6.417339,52.161405
@@ -212,9 +212,76 @@ Oosterwal,15,,,7241AR,Lochem,Lochem,Gelderland,VBO,6.418210,52.161437
 Oosterwal,16,,,7241AR,Lochem,Lochem,Gelderland,VBO,6.418238,52.161396
 Oosterwal,17,,,7241AR,Lochem,Lochem,Gelderland,VBO,6.418296,52.161404
 Oosterwal,18,t,,7241AR,Lochem,Lochem,Gelderland,VBO,6.417993,52.161237
-Oosterwal,18,,F301,7241AR,Lochem,Lochem,Gelderland,VBO,6.418163,52.160900
-Oosterwal,18,,F304,7241AR,Lochem,Lochem,Gelderland,VBO,6.418262,52.160980
-Oosterwal,18,,,7241AR,Lochem,Lochem,Gelderland,VBO,6.417985,52.160974
+Oosterwal,18,,K007,7241AR,Lochem,Lochem,Gelderland,VBO,6.418412,52.161065
+Oosterwal,18,,K008,7241AR,Lochem,Lochem,Gelderland,VBO,6.418408,52.161097
+Oosterwal,18,,K009,7241AR,Lochem,Lochem,Gelderland,VBO,6.418402,52.161126
+Oosterwal,18,,K010,7241AR,Lochem,Lochem,Gelderland,VBO,6.418396,52.161155
+Oosterwal,18,,K011,7241AR,Lochem,Lochem,Gelderland,VBO,6.418388,52.161189
+Oosterwal,18,,K012,7241AR,Lochem,Lochem,Gelderland,VBO,6.418381,52.161225
+Oosterwal,18,,K016,7241AR,Lochem,Lochem,Gelderland,VBO,6.418238,52.161270
+Oosterwal,18,,K017,7241AR,Lochem,Lochem,Gelderland,VBO,6.418250,52.161230
+Oosterwal,18,,K018,7241AR,Lochem,Lochem,Gelderland,VBO,6.418264,52.161191
+Oosterwal,18,,K019,7241AR,Lochem,Lochem,Gelderland,VBO,6.418271,52.161150
+Oosterwal,18,,K048,7241AR,Lochem,Lochem,Gelderland,VBO,6.417820,52.161034
+Oosterwal,18,,K049,7241AR,Lochem,Lochem,Gelderland,VBO,6.417875,52.161010
+Oosterwal,18,,K050,7241AR,Lochem,Lochem,Gelderland,VBO,6.417932,52.160979
+Oosterwal,18,,K051,7241AR,Lochem,Lochem,Gelderland,VBO,6.418007,52.160946
+Oosterwal,18,,K052,7241AR,Lochem,Lochem,Gelderland,VBO,6.418080,52.160914
+Oosterwal,18,,K054,7241AR,Lochem,Lochem,Gelderland,VBO,6.418203,52.160896
+Oosterwal,18,,K101,7241AR,Lochem,Lochem,Gelderland,VBO,6.418171,52.160887
+Oosterwal,18,,K102,7241AR,Lochem,Lochem,Gelderland,VBO,6.418208,52.160923
+Oosterwal,18,,K103,7241AR,Lochem,Lochem,Gelderland,VBO,6.418255,52.160959
+Oosterwal,18,,K104,7241AR,Lochem,Lochem,Gelderland,VBO,6.418305,52.160990
+Oosterwal,18,,K106,7241AR,Lochem,Lochem,Gelderland,VBO,6.418391,52.161082
+Oosterwal,18,,K107,7241AR,Lochem,Lochem,Gelderland,VBO,6.418385,52.161111
+Oosterwal,18,,K108,7241AR,Lochem,Lochem,Gelderland,VBO,6.418377,52.161140
+Oosterwal,18,,K109,7241AR,Lochem,Lochem,Gelderland,VBO,6.418370,52.161168
+Oosterwal,18,,K110,7241AR,Lochem,Lochem,Gelderland,VBO,6.418361,52.161205
+Oosterwal,18,,K111,7241AR,Lochem,Lochem,Gelderland,VBO,6.418355,52.161243
+Oosterwal,18,,K114,7241AR,Lochem,Lochem,Gelderland,VBO,6.418251,52.161291
+Oosterwal,18,,K115,7241AR,Lochem,Lochem,Gelderland,VBO,6.418255,52.161255
+Oosterwal,18,,K116,7241AR,Lochem,Lochem,Gelderland,VBO,6.418266,52.161214
+Oosterwal,18,,K117,7241AR,Lochem,Lochem,Gelderland,VBO,6.418278,52.161173
+Oosterwal,18,,K141,7241AR,Lochem,Lochem,Gelderland,VBO,6.417799,52.161056
+Oosterwal,18,,K142,7241AR,Lochem,Lochem,Gelderland,VBO,6.417854,52.161031
+Oosterwal,18,,K143,7241AR,Lochem,Lochem,Gelderland,VBO,6.417913,52.161007
+Oosterwal,18,,K144,7241AR,Lochem,Lochem,Gelderland,VBO,6.417949,52.160989
+Oosterwal,18,,K145,7241AR,Lochem,Lochem,Gelderland,VBO,6.418044,52.160942
+Oosterwal,18,,K146,7241AR,Lochem,Lochem,Gelderland,VBO,6.418113,52.160914
+Oosterwal,18,,K201,7241AR,Lochem,Lochem,Gelderland,VBO,6.418170,52.160919
+Oosterwal,18,,K202,7241AR,Lochem,Lochem,Gelderland,VBO,6.418214,52.160950
+Oosterwal,18,,K203,7241AR,Lochem,Lochem,Gelderland,VBO,6.418256,52.160986
+Oosterwal,18,,K204,7241AR,Lochem,Lochem,Gelderland,VBO,6.418297,52.161014
+Oosterwal,18,,K206,7241AR,Lochem,Lochem,Gelderland,VBO,6.418374,52.161061
+Oosterwal,18,,K207,7241AR,Lochem,Lochem,Gelderland,VBO,6.418362,52.161095
+Oosterwal,18,,K208,7241AR,Lochem,Lochem,Gelderland,VBO,6.418352,52.161128
+Oosterwal,18,,K209,7241AR,Lochem,Lochem,Gelderland,VBO,6.418345,52.161158
+Oosterwal,18,,K210,7241AR,Lochem,Lochem,Gelderland,VBO,6.418339,52.161186
+Oosterwal,18,,K211,7241AR,Lochem,Lochem,Gelderland,VBO,6.418335,52.161224
+Oosterwal,18,,K214,7241AR,Lochem,Lochem,Gelderland,VBO,6.418272,52.161280
+Oosterwal,18,,K215,7241AR,Lochem,Lochem,Gelderland,VBO,6.418273,52.161243
+Oosterwal,18,,K216,7241AR,Lochem,Lochem,Gelderland,VBO,6.418285,52.161202
+Oosterwal,18,,K217,7241AR,Lochem,Lochem,Gelderland,VBO,6.418296,52.161154
+Oosterwal,18,,K232,7241AR,Lochem,Lochem,Gelderland,VBO,6.417900,52.161151
+Oosterwal,18,,K236,7241AR,Lochem,Lochem,Gelderland,VBO,6.417806,52.161080
+Oosterwal,18,,K237,7241AR,Lochem,Lochem,Gelderland,VBO,6.417837,52.161057
+Oosterwal,18,,K238,7241AR,Lochem,Lochem,Gelderland,VBO,6.417892,52.161031
+Oosterwal,18,,K239,7241AR,Lochem,Lochem,Gelderland,VBO,6.417949,52.161009
+Oosterwal,18,,K240,7241AR,Lochem,Lochem,Gelderland,VBO,6.418037,52.160964
+Oosterwal,18,,K241,7241AR,Lochem,Lochem,Gelderland,VBO,6.418095,52.160937
+Oosterwal,18,,K301,7241AR,Lochem,Lochem,Gelderland,VBO,6.418155,52.160957
+Oosterwal,18,,K304,7241AR,Lochem,Lochem,Gelderland,VBO,6.418217,52.161006
+Oosterwal,18,,K306,7241AR,Lochem,Lochem,Gelderland,VBO,6.418343,52.161071
+Oosterwal,18,,K307,7241AR,Lochem,Lochem,Gelderland,VBO,6.418332,52.161111
+Oosterwal,18,,K308,7241AR,Lochem,Lochem,Gelderland,VBO,6.418322,52.161145
+Oosterwal,18,,K309,7241AR,Lochem,Lochem,Gelderland,VBO,6.418319,52.161175
+Oosterwal,18,,K310,7241AR,Lochem,Lochem,Gelderland,VBO,6.418306,52.161250
+Oosterwal,18,,K325,7241AR,Lochem,Lochem,Gelderland,VBO,6.417861,52.161088
+Oosterwal,18,,K326,7241AR,Lochem,Lochem,Gelderland,VBO,6.417917,52.161061
+Oosterwal,18,,K327,7241AR,Lochem,Lochem,Gelderland,VBO,6.417981,52.161028
+Oosterwal,18,,K328,7241AR,Lochem,Lochem,Gelderland,VBO,6.418042,52.161000
+Oosterwal,18,,K329,7241AR,Lochem,Lochem,Gelderland,VBO,6.418098,52.160976
+Oosterwal,18,,,7241AR,Lochem,Lochem,Gelderland,VBO,6.418387,52.161004
 Oosterwal,20,a,,7241AR,Lochem,Lochem,Gelderland,VBO,6.418068,52.160679
 Oosterwal,20,b,,7241AR,Lochem,Lochem,Gelderland,VBO,6.418052,52.160644
 Oosterwal,20,c,,7241AR,Lochem,Lochem,Gelderland,VBO,6.418022,52.160599
@@ -295,6 +362,7 @@ Achterstraat,47,,,7241AV,Lochem,Lochem,Gelderland,VBO,6.414177,52.161163
 Achterstraat,49,,,7241AV,Lochem,Lochem,Gelderland,VBO,6.414104,52.161199
 Achterstraat,51,,,7241AV,Lochem,Lochem,Gelderland,VBO,6.413989,52.161245
 Achterstraat,53,,,7241AV,Lochem,Lochem,Gelderland,VBO,6.414017,52.161227
+Achterstraat,2,,,7241AW,Lochem,Lochem,Gelderland,VBO,6.415923,52.160905
 Achterstraat,6,a,,7241AW,Lochem,Lochem,Gelderland,VBO,6.414443,52.161313
 Achterstraat,6,,,7241AW,Lochem,Lochem,Gelderland,VBO,6.415750,52.160942
 Achterstraat,12,a,,7241AW,Lochem,Lochem,Gelderland,VBO,6.415259,52.161093
@@ -592,24 +660,24 @@ Noorderwal,22,g,,7241BL,Lochem,Lochem,Gelderland,VBO,6.414692,52.162587
 Noorderwal,22,h,,7241BL,Lochem,Lochem,Gelderland,VBO,6.414804,52.162371
 Noorderwal,22,j,,7241BL,Lochem,Lochem,Gelderland,VBO,6.414702,52.162399
 Noorderwal,23,,,7241BL,Lochem,Lochem,Gelderland,VBO,6.415349,52.162573
-Noorderwal,30,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416033,52.162441
+Noorderwal,30,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.415976,52.162439
 Noorderwal,30,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.415887,52.162451
-Noorderwal,31,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416034,52.162486
+Noorderwal,31,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.415992,52.162487
 Noorderwal,31,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.415903,52.162496
-Noorderwal,32,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416050,52.162522
+Noorderwal,32,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416008,52.162526
 Noorderwal,32,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.415918,52.162532
-Noorderwal,33,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416310,52.162412
+Noorderwal,33,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416252,52.162415
 Noorderwal,33,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416164,52.162422
-Noorderwal,34,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416326,52.162447
+Noorderwal,34,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416265,52.162458
 Noorderwal,34,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416165,52.162476
-Noorderwal,35,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416341,52.162492
+Noorderwal,35,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416276,52.162505
 Noorderwal,35,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416181,52.162512
 Noorderwal,36,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416500,52.162392
-Noorderwal,36,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416383,52.162402
+Noorderwal,36,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416425,52.162392
 Noorderwal,37,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416515,52.162437
-Noorderwal,37,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416399,52.162456
+Noorderwal,37,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416436,52.162434
 Noorderwal,38,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416531,52.162473
-Noorderwal,38,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416414,52.162483
+Noorderwal,38,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416451,52.162481
 Noorderwal,39,,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416791,52.162459
 Noorderwal,40,a,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416910,52.162424
 Noorderwal,40,b,,7241BL,Lochem,Lochem,Gelderland,VBO,6.416910,52.162424
@@ -628,18 +696,18 @@ Julianaweg,7,c,,7241BM,Lochem,Lochem,Gelderland,VBO,6.412599,52.163082
 Julianaweg,7,,,7241BM,Lochem,Lochem,Gelderland,VBO,6.412554,52.163073
 Julianaweg,9,,,7241BM,Lochem,Lochem,Gelderland,VBO,6.412994,52.163115
 Julianaweg,11,,,7241BM,Lochem,Lochem,Gelderland,VBO,6.413594,52.163145
-Westerbleek,1,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.412010,52.162296
-Westerbleek,2,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411951,52.162234
-Westerbleek,3,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411880,52.162351
-Westerbleek,4,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411820,52.162289
-Westerbleek,5,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411861,52.162154
-Westerbleek,6,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411786,52.162091
-Westerbleek,7,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411716,52.162229
-Westerbleek,8,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411627,52.162129
-Westerbleek,9,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411741,52.162029
-Westerbleek,10,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411681,52.161966
-Westerbleek,11,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411596,52.162084
-Westerbleek,12,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411537,52.162031
+Westerbleek,1,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.412012,52.162299
+Westerbleek,2,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411949,52.162238
+Westerbleek,3,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411950,52.162323
+Westerbleek,4,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411895,52.162260
+Westerbleek,5,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411867,52.162166
+Westerbleek,6,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411801,52.162098
+Westerbleek,7,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411814,52.162190
+Westerbleek,8,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411751,52.162118
+Westerbleek,9,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411750,52.162046
+Westerbleek,10,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411689,52.161983
+Westerbleek,11,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411701,52.162071
+Westerbleek,12,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411643,52.162000
 Westerbleek,13,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.411808,52.161407
 Westerbleek,14,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.412897,52.160495
 Westerbleek,16,,,7241BN,Lochem,Lochem,Gelderland,VBO,6.412966,52.160486
@@ -812,11 +880,11 @@ Vilderstraat,3,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413185,52.161234
 Vilderstraat,4,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413726,52.161257
 Vilderstraat,5,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413213,52.161216
 Vilderstraat,6,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413726,52.161275
-Vilderstraat,7,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413067,52.161217
+Vilderstraat,7,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413120,52.161240
 Vilderstraat,8,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413727,52.161301
-Vilderstraat,9,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413096,52.161199
+Vilderstraat,9,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413156,52.161217
 Vilderstraat,10,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413638,52.161266
-Vilderstraat,11,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413100,52.161206
+Vilderstraat,11,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413188,52.161199
 Vilderstraat,12,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413639,52.161284
 Vilderstraat,14,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413654,52.161302
 Vilderstraat,16,,,7241BZ,Lochem,Lochem,Gelderland,VBO,6.413646,52.161280
@@ -953,21 +1021,21 @@ Hoeflingweg,18,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.404523,52.164671
 Hoeflingweg,20,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.403969,52.164807
 Hoeflingweg,22,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.403525,52.164912
 Hoeflingweg,24,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.402879,52.165125
-Tramstraat,11,a,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411516,52.162417
-Tramstraat,11,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411543,52.162446
-Tramstraat,13,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411347,52.162485
+Tramstraat,11,a,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411506,52.162421
+Tramstraat,11,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411562,52.162448
+Tramstraat,13,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411362,52.162481
 Tramstraat,15,a,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411094,52.162475
 Tramstraat,15,b,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410933,52.162494
 Tramstraat,15,c,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411078,52.162439
 Tramstraat,15,d,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410918,52.162440
 Tramstraat,15,e,,7241CH,Lochem,Lochem,Gelderland,VBO,6.411048,52.162376
 Tramstraat,15,g,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410902,52.162405
-Tramstraat,17,a,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410787,52.162505
-Tramstraat,17,b,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410685,52.162505
-Tramstraat,17,c,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410772,52.162460
-Tramstraat,17,d,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410670,52.162470
-Tramstraat,17,e,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410756,52.162424
-Tramstraat,17,g,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410654,52.162434
+Tramstraat,17,a,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410845,52.162499
+Tramstraat,17,b,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410747,52.162506
+Tramstraat,17,c,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410840,52.162451
+Tramstraat,17,d,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410731,52.162465
+Tramstraat,17,e,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410826,52.162410
+Tramstraat,17,g,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410718,52.162429
 Tramstraat,19,a,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410566,52.162390
 Tramstraat,19,b,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410520,52.162300
 Tramstraat,19,c,,7241CH,Lochem,Lochem,Gelderland,VBO,6.410460,52.162238
@@ -1008,10 +1076,15 @@ Tramstraat,57,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.408186,52.163162
 Tramstraat,59,,,7241CH,Lochem,Lochem,Gelderland,VBO,6.408069,52.163213
 Hoeflingweg,1,,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404633,52.164086
 Hoeflingweg,3,,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404413,52.164339
-Hoeflingweg,5,,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404290,52.164311
+Hoeflingweg,5,a,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404299,52.164276
+Hoeflingweg,5,b,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404347,52.164269
+Hoeflingweg,5,c,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404271,52.164349
+Hoeflingweg,5,d,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404330,52.164335
+Hoeflingweg,5,e,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404383,52.164303
+Hoeflingweg,5,,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404248,52.164293
 Hoeflingweg,7,,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.404335,52.164407
 Hoeflingweg,9,,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.403686,52.164498
-Tramstraat,2,,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.411555,52.162944
+Tramstraat,2,,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.411517,52.162921
 Tramstraat,4,a,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.411523,52.162732
 Tramstraat,4,b,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.411497,52.162831
 Tramstraat,4,c,,7241CJ,Lochem,Lochem,Gelderland,VBO,6.411480,52.162741
@@ -1107,13 +1180,6 @@ Koedijk,44,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.402693,52.161830
 Koedijk,46,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.402404,52.161735
 Koedijk,48,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.402133,52.161658
 Koedijk,50,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.401820,52.161602
-Koedijk,56,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.398021,52.161581
-Koedijk,58,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.398381,52.161344
-Koedijk,60,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.398068,52.161508
-Koedijk,62,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.397980,52.161239
-Koedijk,64,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.397571,52.161224
-Koedijk,66,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.398201,52.161103
-Koedijk,76,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.397786,52.160208
 Koedijk,140,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.398067,52.159203
 Koedijk,142,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.397993,52.159180
 Koedijk,144,,,7241CL,Lochem,Lochem,Gelderland,VBO,6.397842,52.159133
@@ -1203,24 +1269,26 @@ Larenseweg,48,,,7241CN,Lochem,Lochem,Gelderland,VBO,6.402784,52.164686
 Larenseweg,50,,,7241CN,Lochem,Lochem,Gelderland,VBO,6.402678,52.164824
 Larenseweg,54,t,,7241CN,Lochem,Lochem,Gelderland,VBO,6.401573,52.164795
 Larenseweg,56,,,7241CN,Lochem,Lochem,Gelderland,VBO,6.401182,52.164893
-Larenseweg,58,,,7241CN,Lochem,Lochem,Gelderland,VBO,6.400252,52.164747
+Larenseweg,58,,,7241CN,Lochem,Lochem,Gelderland,VBO,6.400238,52.164786
+Larenseweg,60,,,7241CN,Lochem,Lochem,Gelderland,VBO,6.400419,52.164813
+Larenseweg,62,,,7241CN,Lochem,Lochem,Gelderland,VBO,6.400313,52.164732
 Haalmansweg,1,t,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408272,52.163704
 Haalmansweg,1,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408213,52.163930
 Haalmansweg,3,p,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408166,52.164190
 Haalmansweg,3,t,,7241CP,Lochem,Lochem,Gelderland,VBO,6.409122,52.165090
 Haalmansweg,5,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408511,52.165048
 Haalmansweg,7,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408671,52.165508
-Haalmansweg,14,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408591,52.163620
-Haalmansweg,16,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408693,52.163592
-Haalmansweg,18,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408622,52.163665
-Haalmansweg,20,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408767,52.163628
+Haalmansweg,14,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408583,52.163590
+Haalmansweg,16,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408654,52.163570
+Haalmansweg,18,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408610,52.163635
+Haalmansweg,20,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408682,52.163617
 Haalmansweg,22,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408637,52.163701
 Haalmansweg,24,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408797,52.163663
-Haalmansweg,26,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408711,52.163754
-Haalmansweg,28,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408827,52.163717
-Haalmansweg,30,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408561,52.163584
-Haalmansweg,32,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408707,52.163556
-Haalmansweg,34,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408766,52.163565
+Haalmansweg,26,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408712,52.163712
+Haalmansweg,28,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408815,52.163695
+Haalmansweg,30,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408869,52.163784
+Haalmansweg,32,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408875,52.163744
+Haalmansweg,34,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408801,52.163756
 Haalmansweg,36,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408785,52.163789
 Haalmansweg,42,,,7241CP,Lochem,Lochem,Gelderland,VBO,6.408853,52.164046
 Hanzeweg,1,a,,7241CR,Lochem,Lochem,Gelderland,VBO,6.420378,52.163877
@@ -1252,10 +1320,8 @@ Hanzeweg,15,t,,7241CS,Lochem,Lochem,Gelderland,VBO,6.410669,52.164995
 Hanzeweg,15,,,7241CS,Lochem,Lochem,Gelderland,VBO,6.410917,52.165327
 Hanzeweg,17,,,7241CS,Lochem,Lochem,Gelderland,VBO,6.409948,52.165349
 Hanzeweg,20,,,7241CS,Lochem,Lochem,Gelderland,VBO,6.408077,52.165539
-Hanzeweg,21,a,,7241CS,Lochem,Lochem,Gelderland,VBO,6.406858,52.165526
-Hanzeweg,21,c,,7241CS,Lochem,Lochem,Gelderland,VBO,6.406365,52.165320
 Hanzeweg,21,t,,7241CS,Lochem,Lochem,Gelderland,VBO,6.406266,52.165653
-Hanzeweg,21,,,7241CS,Lochem,Lochem,Gelderland,VBO,6.407520,52.165328
+Hanzeweg,21,,,7241CS,Lochem,Lochem,Gelderland,VBO,6.406866,52.165593
 Hanzeweg,22,,,7241CS,Lochem,Lochem,Gelderland,VBO,6.405918,52.165647
 Hanzeweg,23,a,,7241CS,Lochem,Lochem,Gelderland,VBO,6.405695,52.165425
 Hanzeweg,23,,,7241CS,Lochem,Lochem,Gelderland,VBO,6.405662,52.165661
@@ -1292,14 +1358,13 @@ Kwinkweerd,3,t,,7241CW,Lochem,Lochem,Gelderland,VBO,6.415814,52.167530
 Kwinkweerd,3,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.418138,52.167010
 Kwinkweerd,4,t,,7241CW,Lochem,Lochem,Gelderland,VBO,6.413336,52.167813
 Kwinkweerd,4,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.413706,52.167746
-Kwinkweerd,5,a,,7241CW,Lochem,Lochem,Gelderland,VBO,6.411632,52.167468
 Kwinkweerd,5,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.412438,52.167348
 Kwinkweerd,6,a,,7241CW,Lochem,Lochem,Gelderland,VBO,6.412150,52.167724
 Kwinkweerd,6,b,,7241CW,Lochem,Lochem,Gelderland,VBO,6.411817,52.167889
 Kwinkweerd,6,c,,7241CW,Lochem,Lochem,Gelderland,VBO,6.411732,52.168006
 Kwinkweerd,6,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.412150,52.167715
 Kwinkweerd,7,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.410988,52.166853
-Kwinkweerd,8,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.410691,52.167836
+Kwinkweerd,8,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.411029,52.168174
 Kwinkweerd,10,a,,7241CW,Lochem,Lochem,Gelderland,VBO,6.408713,52.168311
 Kwinkweerd,10,b,,7241CW,Lochem,Lochem,Gelderland,VBO,6.408509,52.168304
 Kwinkweerd,10,c,,7241CW,Lochem,Lochem,Gelderland,VBO,6.408305,52.168342
@@ -1321,7 +1386,7 @@ Kwinkweerd,19,t,,7241CW,Lochem,Lochem,Gelderland,VBO,6.395093,52.169118
 Kwinkweerd,19,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.395597,52.168972
 Kwinkweerd,20,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.394843,52.168962
 Kwinkweerd,21,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.394972,52.168942
-Kwinkweerd,54,t,,7241CW,Lochem,Lochem,Gelderland,VBO,6.410593,52.168052
+Kwinkweerd,54,t,,7241CW,Lochem,Lochem,Gelderland,VBO,6.410598,52.168041
 Kwinkweerd,62,a,,7241CW,Lochem,Lochem,Gelderland,VBO,6.409400,52.166706
 Kwinkweerd,62,,,7241CW,Lochem,Lochem,Gelderland,VBO,6.409177,52.168205
 Kwinkweerd,100,a,,7241CW,Lochem,Lochem,Gelderland,VBO,6.408477,52.168205
@@ -1536,7 +1601,10 @@ Nieuwstad,8,a,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415818,52.159441
 Nieuwstad,8,,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415849,52.159512
 Nieuwstad,14,a,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415593,52.159209
 Nieuwstad,14,,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415376,52.159292
-Nieuwstad,16,a,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415316,52.159247
+Nieuwstad,16,a,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415411,52.159201
+Nieuwstad,16,b,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415378,52.159225
+Nieuwstad,16,c,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415403,52.159246
+Nieuwstad,16,d,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415284,52.159276
 Nieuwstad,16,,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415534,52.159173
 Nieuwstad,18,,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415460,52.159120
 Nieuwstad,20,a,,7241DN,Lochem,Lochem,Gelderland,VBO,6.415371,52.159085
@@ -1711,15 +1779,15 @@ Pillinkstraat,30,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.418956,52.159167
 Pillinkstraat,32,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.418997,52.159227
 Pillinkstraat,34,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419086,52.159322
 Pillinkstraat,42,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419170,52.159499
-Pillinkstraat,44,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419113,52.159726
-Pillinkstraat,46,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.418876,52.159717
+Pillinkstraat,44,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419142,52.159717
+Pillinkstraat,46,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.418931,52.159756
 Pillinkstraat,48,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.418674,52.159741
 Pillinkstraat,50,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.418826,52.159945
 Pillinkstraat,52,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419035,52.159954
 Pillinkstraat,54,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419184,52.159907
 Pillinkstraat,56,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419354,52.160057
 Pillinkstraat,58,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419223,52.160076
-Pillinkstraat,60,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419034,52.160105
+Pillinkstraat,60,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.419171,52.160128
 Pillinkstraat,62,,,7241EG,Lochem,Lochem,Gelderland,VBO,6.418966,52.160163
 Emmastraat,1,,,7241EH,Lochem,Lochem,Gelderland,VBO,6.416776,52.159408
 Emmastraat,3,a,,7241EH,Lochem,Lochem,Gelderland,VBO,6.417125,52.159291
@@ -1765,22 +1833,22 @@ Emmastraat,6,,G03,7241EJ,Lochem,Lochem,Gelderland,VBO,6.415998,52.158588
 Emmastraat,6,,G04,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416025,52.158570
 Emmastraat,6,,G05,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416056,52.158553
 Emmastraat,6,,G06,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416089,52.158533
-Emmastraat,6,,G07,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416129,52.158510
-Emmastraat,6,,G08,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416160,52.158487
-Emmastraat,6,,G09,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416192,52.158474
-Emmastraat,6,,G10,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416224,52.158461
-Emmastraat,6,,G11,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416283,52.158436
-Emmastraat,6,,G12,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416381,52.158438
-Emmastraat,6,,G13,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416448,52.158472
-Emmastraat,6,,G14,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416471,52.158488
-Emmastraat,6,,G15,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416497,52.158502
-Emmastraat,6,,G16,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416515,52.158523
-Emmastraat,6,,G17,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416530,52.158543
-Emmastraat,6,,G18,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416553,52.158560
-Emmastraat,6,,G19,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416584,52.158574
-Emmastraat,6,,G20,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416596,52.158591
-Emmastraat,6,,G21,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416614,52.158611
-Emmastraat,6,,G22,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416636,52.158629
+Emmastraat,6,,G07,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416115,52.158522
+Emmastraat,6,,G08,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416147,52.158509
+Emmastraat,6,,G09,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416173,52.158493
+Emmastraat,6,,G10,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416204,52.158476
+Emmastraat,6,,G11,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416236,52.158463
+Emmastraat,6,,G12,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416285,52.158439
+Emmastraat,6,,G13,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416370,52.158426
+Emmastraat,6,,G14,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416421,52.158471
+Emmastraat,6,,G15,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416443,52.158488
+Emmastraat,6,,G16,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416467,52.158508
+Emmastraat,6,,G17,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416491,52.158527
+Emmastraat,6,,G18,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416515,52.158546
+Emmastraat,6,,G19,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416539,52.158569
+Emmastraat,6,,G20,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416565,52.158582
+Emmastraat,6,,G21,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416589,52.158603
+Emmastraat,6,,G22,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416611,52.158623
 Emmastraat,6,,,7241EJ,Lochem,Lochem,Gelderland,VBO,6.416809,52.159151
 Emmastraat,8,,,7241EJ,Lochem,Lochem,Gelderland,VBO,6.417066,52.159085
 Emmastraat,10,a,,7241EJ,Lochem,Lochem,Gelderland,VBO,6.417511,52.158716
@@ -1898,8 +1966,8 @@ Nieuweweg,30,,,7241EV,Lochem,Lochem,Gelderland,VBO,6.421970,52.158848
 Nieuweweg,32,,,7241EV,Lochem,Lochem,Gelderland,VBO,6.421966,52.158666
 Nieuweweg,34,,,7241EV,Lochem,Lochem,Gelderland,VBO,6.421960,52.158445
 Nieuweweg,38,a,,7241EW,Lochem,Lochem,Gelderland,VBO,6.421528,52.157780
-Nieuweweg,38,,,7241EW,Lochem,Lochem,Gelderland,VBO,6.421855,52.157929
 Nieuweweg,38,,,7241EW,Lochem,Lochem,Gelderland,VBO,6.421921,52.157913
+Nieuweweg,38,,,7241EW,Lochem,Lochem,Gelderland,VBO,6.421855,52.157929
 Nieuweweg,44,,,7241EW,Lochem,Lochem,Gelderland,VBO,6.421701,52.157498
 Nieuweweg,46,,,7241EW,Lochem,Lochem,Gelderland,VBO,6.421626,52.157429
 Nieuweweg,48,,,7241EW,Lochem,Lochem,Gelderland,VBO,6.421438,52.157260
@@ -1985,7 +2053,6 @@ Marinus Naefflaan,11,,,7241GC,Lochem,Lochem,Gelderland,VBO,6.428306,52.156868
 Marinus Naefflaan,2,,,7241GD,Lochem,Lochem,Gelderland,VBO,6.425169,52.157354
 Marinus Naefflaan,4,,,7241GD,Lochem,Lochem,Gelderland,VBO,6.425783,52.157006
 Marinus Naefflaan,16,,,7241GD,Lochem,Lochem,Gelderland,VBO,6.428203,52.155627
-Marinus Naefflaan,18,,,7241GD,Lochem,Lochem,Gelderland,VBO,6.428731,52.155691
 Marinus Naefflaan,18,,,7241GD,Lochem,Lochem,Gelderland,VBO,6.428875,52.155697
 Marinus Naefflaan,20,,,7241GD,Lochem,Lochem,Gelderland,VBO,6.429136,52.155842
 Marinus Naefflaan,24,a,,7241GD,Lochem,Lochem,Gelderland,VBO,6.429951,52.155721
@@ -2102,7 +2169,7 @@ Zwiepseweg,27,,,7241GM,Lochem,Lochem,Gelderland,VBO,6.416559,52.158169
 Zwiepseweg,29,,,7241GM,Lochem,Lochem,Gelderland,VBO,6.416791,52.158072
 Zwiepseweg,31,,,7241GN,Lochem,Lochem,Gelderland,VBO,6.416877,52.157901
 Zwiepseweg,33,,,7241GN,Lochem,Lochem,Gelderland,VBO,6.416965,52.157855
-Zwiepseweg,35,a,,7241GN,Lochem,Lochem,Gelderland,VBO,6.417053,52.157857
+Zwiepseweg,35,a,,7241GN,Lochem,Lochem,Gelderland,VBO,6.417215,52.157930
 Zwiepseweg,35,,,7241GN,Lochem,Lochem,Gelderland,VBO,6.417032,52.157828
 Zwiepseweg,39,,,7241GN,Lochem,Lochem,Gelderland,VBO,6.417180,52.157779
 Zwiepseweg,41,,,7241GN,Lochem,Lochem,Gelderland,VBO,6.417255,52.157746
@@ -2662,8 +2729,8 @@ Bosweg,32,,,7241JH,Lochem,Lochem,Gelderland,VBO,6.413668,52.154293
 Bosweg,34,,,7241JH,Lochem,Lochem,Gelderland,VBO,6.413327,52.154074
 Bosweg,36,,,7241JH,Lochem,Lochem,Gelderland,VBO,6.413148,52.153933
 Bosweg,37,,,7241JH,Lochem,Lochem,Gelderland,VBO,6.414273,52.154226
-Bosweg,41,,,7241JH,Lochem,Lochem,Gelderland,VBO,6.413961,52.153947
-Bosweg,43,,,7241JH,Lochem,Lochem,Gelderland,VBO,6.413898,52.153881
+Bosweg,41,,,7241JH,Lochem,Lochem,Gelderland,VBO,6.414044,52.153944
+Bosweg,43,,,7241JH,Lochem,Lochem,Gelderland,VBO,6.413984,52.153889
 Molenbelt,1,,G01,7241JJ,Lochem,Lochem,Gelderland,VBO,6.414517,52.155700
 Molenbelt,1,,G02,7241JJ,Lochem,Lochem,Gelderland,VBO,6.414546,52.155723
 Molenbelt,1,,G03,7241JJ,Lochem,Lochem,Gelderland,VBO,6.414571,52.155746
@@ -2686,6 +2753,9 @@ Molenbelt,29,,,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413613,52.155280
 Molenbelt,31,,,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413357,52.155346
 Molenbelt,33,,,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413286,52.155300
 Molenbelt,35,,,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413217,52.155256
+Molenbelt,37,,G01,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413669,52.154810
+Molenbelt,37,,G02,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413672,52.154836
+Molenbelt,37,,G03,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413726,52.154839
 Molenbelt,37,,,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413449,52.154805
 Molenbelt,39,,,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413384,52.154846
 Molenbelt,41,,,7241JJ,Lochem,Lochem,Gelderland,VBO,6.413321,52.154886
@@ -2730,9 +2800,9 @@ Molenbelt,22,,,7241JL,Lochem,Lochem,Gelderland,VBO,6.412297,52.155653
 Molenbelt,24,,,7241JL,Lochem,Lochem,Gelderland,VBO,6.412328,52.155951
 Molenbelt,26,,,7241JL,Lochem,Lochem,Gelderland,VBO,6.412774,52.156090
 Mooralaan,2,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.414668,52.153351
-Mooralaan,3,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.414501,52.153590
+Mooralaan,3,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.414439,52.153646
 Mooralaan,4,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.414792,52.153519
-Mooralaan,5,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.414623,52.153682
+Mooralaan,5,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.414499,52.153696
 Mooralaan,6,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.414856,52.153578
 Mooralaan,7,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.414723,52.153762
 Mooralaan,8,,,7241JM,Lochem,Lochem,Gelderland,VBO,6.415003,52.153661
@@ -2966,7 +3036,7 @@ Zutphenseweg,5,,,7241KN,Lochem,Lochem,Gelderland,VBO,6.413769,52.158061
 Zutphenseweg,7,,,7241KN,Lochem,Lochem,Gelderland,VBO,6.413699,52.158022
 Zutphenseweg,9,,,7241KN,Lochem,Lochem,Gelderland,VBO,6.413496,52.157798
 Zutphenseweg,11,,,7241KN,Lochem,Lochem,Gelderland,VBO,6.413499,52.157735
-Zutphenseweg,13,,,7241KN,Lochem,Lochem,Gelderland,VBO,6.411768,52.156815
+Zutphenseweg,13,,,7241KN,Lochem,Lochem,Gelderland,VBO,6.413553,52.157523
 Zutphenseweg,15,,,7241KN,Lochem,Lochem,Gelderland,VBO,6.411913,52.156769
 Zutphenseweg,17,a,,7241KN,Lochem,Lochem,Gelderland,VBO,6.411622,52.156744
 Zutphenseweg,17,,,7241KN,Lochem,Lochem,Gelderland,VBO,6.411549,52.156766
@@ -2992,7 +3062,21 @@ Zutphenseweg,73,,,7241KP,Lochem,Lochem,Gelderland,VBO,6.406768,52.153595
 Zutphenseweg,75,,,7241KP,Lochem,Lochem,Gelderland,VBO,6.406707,52.153565
 Zutphenseweg,91,a,,7241KP,Lochem,Lochem,Gelderland,VBO,6.403347,52.152047
 Zutphenseweg,91,b,,7241KP,Lochem,Lochem,Gelderland,VBO,6.403111,52.151443
-Zutphenseweg,91,,,7241KP,Lochem,Lochem,Gelderland,VBO,6.403616,52.152180
+Zutphenseweg,91,,K001,7241KP,Lochem,Lochem,Gelderland,VBO,6.403684,52.152169
+Zutphenseweg,91,,K002,7241KP,Lochem,Lochem,Gelderland,VBO,6.403692,52.152127
+Zutphenseweg,91,,K003,7241KP,Lochem,Lochem,Gelderland,VBO,6.403684,52.152094
+Zutphenseweg,91,,K004,7241KP,Lochem,Lochem,Gelderland,VBO,6.403670,52.152067
+Zutphenseweg,91,,K005,7241KP,Lochem,Lochem,Gelderland,VBO,6.403601,52.152073
+Zutphenseweg,91,,K006,7241KP,Lochem,Lochem,Gelderland,VBO,6.403854,52.151959
+Zutphenseweg,91,,K007,7241KP,Lochem,Lochem,Gelderland,VBO,6.403934,52.151948
+Zutphenseweg,91,,K008,7241KP,Lochem,Lochem,Gelderland,VBO,6.403997,52.152071
+Zutphenseweg,91,,K009,7241KP,Lochem,Lochem,Gelderland,VBO,6.403903,52.152086
+Zutphenseweg,91,,K010,7241KP,Lochem,Lochem,Gelderland,VBO,6.403861,52.151998
+Zutphenseweg,91,,K011,7241KP,Lochem,Lochem,Gelderland,VBO,6.403946,52.151985
+Zutphenseweg,91,,K012,7241KP,Lochem,Lochem,Gelderland,VBO,6.403971,52.152030
+Zutphenseweg,91,,K013,7241KP,Lochem,Lochem,Gelderland,VBO,6.403884,52.152043
+Zutphenseweg,91,,K014,7241KP,Lochem,Lochem,Gelderland,VBO,6.403535,52.152134
+Zutphenseweg,91,,,7241KP,Lochem,Lochem,Gelderland,VBO,6.403552,52.152184
 Zutphenseweg,93,,,7241KP,Lochem,Lochem,Gelderland,VBO,6.396510,52.149684
 Zutphenseweg,2,a,,7241KR,Lochem,Lochem,Gelderland,VBO,6.413850,52.158388
 Zutphenseweg,2,b,,7241KR,Lochem,Lochem,Gelderland,VBO,6.413245,52.158142
@@ -3235,7 +3319,7 @@ Aalsvoort,1,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.392173,52.168624
 Aalsvoort,2,a,,7241MA,Lochem,Lochem,Gelderland,VBO,6.391202,52.169001
 Aalsvoort,2,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.391405,52.168936
 Aalsvoort,3,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.390924,52.168967
-Aalsvoort,4,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.391326,52.168640
+Aalsvoort,4,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.390996,52.168396
 Aalsvoort,5,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.391818,52.168011
 Aalsvoort,14,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.389037,52.167786
 Aalsvoort,16,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.389098,52.168407
@@ -3277,7 +3361,7 @@ Aalsvoort,65,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.384951,52.167322
 Aalsvoort,66,a,,7241MA,Lochem,Lochem,Gelderland,VBO,6.384811,52.167498
 Aalsvoort,66,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.384803,52.167642
 Aalsvoort,67,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.384978,52.168067
-Aalsvoort,68,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.384641,52.168445
+Aalsvoort,68,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.384704,52.168332
 Aalsvoort,69,,,7241MA,Lochem,Lochem,Gelderland,VBO,6.384923,52.168800
 Aalsvoort,70,p,,7241MA,Lochem,Lochem,Gelderland,VBO,6.385107,52.168848
 Aalsvoort,71,p,,7241MB,Lochem,Lochem,Gelderland,VBO,6.383911,52.169162
@@ -3343,6 +3427,8 @@ Ampsenseweg,9,,,7241NA,Lochem,Lochem,Gelderland,VBO,6.397352,52.174738
 Ampsenseweg,11,a,,7241NA,Lochem,Lochem,Gelderland,VBO,6.403288,52.175270
 Ampsenseweg,11,,,7241NA,Lochem,Lochem,Gelderland,VBO,6.403222,52.175263
 Ampsenseweg,13,,,7241NA,Lochem,Lochem,Gelderland,VBO,6.404675,52.175465
+Ampsenseweg,2,a,,7241NB,Lochem,Lochem,Gelderland,VBO,6.392874,52.173641
+Ampsenseweg,2,b,,7241NB,Lochem,Lochem,Gelderland,VBO,6.393386,52.173769
 Ampsenseweg,2,t,,7241NB,Lochem,Lochem,Gelderland,VBO,6.390637,52.173779
 Ampsenseweg,4,,,7241NB,Lochem,Lochem,Gelderland,VBO,6.398658,52.174433
 Ampsenseweg,8,,,7241NB,Lochem,Lochem,Gelderland,VBO,6.401079,52.174499
@@ -3432,7 +3518,6 @@ Grote Drijfweg,16,,,7241NN,Lochem,Lochem,Gelderland,VBO,6.471401,52.182816
 Grote Drijfweg,18,a,,7241NN,Lochem,Lochem,Gelderland,VBO,6.472992,52.184051
 Grote Drijfweg,18,b,,7241NN,Lochem,Lochem,Gelderland,VBO,6.473716,52.184707
 Grote Drijfweg,18,,,7241NN,Lochem,Lochem,Gelderland,VBO,6.474197,52.184430
-Grote Drijfweg,18,,,7241NN,Lochem,Lochem,Gelderland,VBO,6.473467,52.184335
 Mogezompsweg,1,t,,7241NN,Lochem,Lochem,Gelderland,VBO,6.464263,52.173830
 Hagendijk,2,,,7241NP,Lochem,Lochem,Gelderland,VBO,6.447477,52.170063
 Middenweg,1,a,,7241NP,Lochem,Lochem,Gelderland,VBO,6.453673,52.175612
@@ -3589,7 +3674,7 @@ Zwiepseweg,135,,,7241PT,Lochem,Lochem,Gelderland,VBO,6.428498,52.153402
 Zwiepseweg,137,,,7241PT,Lochem,Lochem,Gelderland,VBO,6.432239,52.151852
 Zwiepseweg,139,,,7241PT,Lochem,Lochem,Gelderland,VBO,6.432930,52.151859
 Zwiepseweg,141,,,7241PT,Lochem,Lochem,Gelderland,VBO,6.436874,52.150891
-Zwiepseweg,143,a,,7241PT,Lochem,Lochem,Gelderland,VBO,6.441081,52.150508
+Zwiepseweg,143,a,,7241PT,Lochem,Lochem,Gelderland,VBO,6.442001,52.150623
 Zwiepseweg,143,,,7241PT,Lochem,Lochem,Gelderland,VBO,6.441120,52.150511
 Zwiepseweg,145,,,7241PT,Lochem,Lochem,Gelderland,VBO,6.445073,52.149894
 Zwiepseweg,147,,,7241PT,Lochem,Lochem,Gelderland,VBO,6.445286,52.149867
@@ -3616,6 +3701,7 @@ Zwiepseweg,148,,,7241PV,Lochem,Lochem,Gelderland,VBO,6.445261,52.149628
 Zwiepseweg,150,a,,7241PV,Lochem,Lochem,Gelderland,VBO,6.444464,52.148854
 Zwiepseweg,150,b,,7241PV,Lochem,Lochem,Gelderland,VBO,6.444810,52.148812
 Zwiepseweg,150,,,7241PV,Lochem,Lochem,Gelderland,VBO,6.444351,52.148883
+Zwiepseweg,152,a,,7241PV,Lochem,Lochem,Gelderland,VBO,6.445401,52.149294
 Zwiepseweg,152,,,7241PV,Lochem,Lochem,Gelderland,VBO,6.445524,52.148651
 Zwiepseweg,154,,,7241PV,Lochem,Lochem,Gelderland,VBO,6.445539,52.149552
 Zwiepseweg,156,a,,7241PV,Lochem,Lochem,Gelderland,VBO,6.446308,52.149122
@@ -3631,7 +3717,7 @@ De Cloese,1,,,7241PW,Lochem,Lochem,Gelderland,VBO,6.434462,52.153443
 De Cloese,3,,,7241PW,Lochem,Lochem,Gelderland,VBO,6.434904,52.152460
 De Cloese,4,,,7241PW,Lochem,Lochem,Gelderland,VBO,6.434813,52.152415
 De Cloese,5,,,7241PW,Lochem,Lochem,Gelderland,VBO,6.434777,52.152398
-De Cloese,7,,,7241PW,Lochem,Lochem,Gelderland,VBO,6.434122,52.152015
+De Cloese,7,,,7241PW,Lochem,Lochem,Gelderland,VBO,6.434284,52.151968
 De Cloese,8,a,,7241PW,Lochem,Lochem,Gelderland,VBO,6.434018,52.152144
 De Cloese,8,,,7241PW,Lochem,Lochem,Gelderland,VBO,6.433927,52.152098
 De Cloese,9,,,7241PW,Lochem,Lochem,Gelderland,VBO,6.433433,52.152372
@@ -3639,7 +3725,7 @@ Keppellaan,1,,,7241PX,Lochem,Lochem,Gelderland,VBO,6.436380,52.153353
 Keppellaan,2,a,,7241PX,Lochem,Lochem,Gelderland,VBO,6.439848,52.158932
 Keppellaan,2,,,7241PX,Lochem,Lochem,Gelderland,VBO,6.440187,52.159068
 Keppellaan,3,t,,7241PX,Lochem,Lochem,Gelderland,VBO,6.435279,52.152995
-Keppellaan,3,,,7241PX,Lochem,Lochem,Gelderland,VBO,6.434920,52.153214
+Keppellaan,3,,,7241PX,Lochem,Lochem,Gelderland,VBO,6.434566,52.153397
 Keppellaan,4,,,7241PX,Lochem,Lochem,Gelderland,VBO,6.436383,52.158741
 Keppellaan,6,,,7241PX,Lochem,Lochem,Gelderland,VBO,6.429985,52.153411
 Tusselerdijk,1,,,7241PZ,Lochem,Lochem,Gelderland,VBO,6.437204,52.162236
@@ -4009,6 +4095,7 @@ Ploegdijk,2,,H118,7241SC,Lochem,Lochem,Gelderland,VBO,6.381291,52.140142
 Ploegdijk,2,,H12,7241SC,Lochem,Lochem,Gelderland,VBO,6.381889,52.140101
 Ploegdijk,2,,H121,7241SC,Lochem,Lochem,Gelderland,VBO,6.381070,52.140072
 Ploegdijk,2,,H122,7241SC,Lochem,Lochem,Gelderland,VBO,6.380640,52.140025
+Ploegdijk,2,,H128,7241SC,Lochem,Lochem,Gelderland,VBO,6.379516,52.139791
 Ploegdijk,2,,H129,7241SC,Lochem,Lochem,Gelderland,VBO,6.379120,52.139729
 Ploegdijk,2,,H13,7241SC,Lochem,Lochem,Gelderland,VBO,6.382094,52.140126
 Ploegdijk,2,,H130,7241SC,Lochem,Lochem,Gelderland,VBO,6.378930,52.139748
@@ -4295,6 +4382,16 @@ Ploegdijk,2,,H725,7241SC,Lochem,Lochem,Gelderland,VBO,6.378354,52.138791
 Ploegdijk,2,,H726,7241SC,Lochem,Lochem,Gelderland,VBO,6.378367,52.138728
 Ploegdijk,2,,H727,7241SC,Lochem,Lochem,Gelderland,VBO,6.378409,52.138629
 Ploegdijk,2,,H728,7241SC,Lochem,Lochem,Gelderland,VBO,6.378436,52.138530
+Ploegdijk,2,,H729,7241SC,Lochem,Lochem,Gelderland,VBO,6.379054,52.139511
+Ploegdijk,2,,H730,7241SC,Lochem,Lochem,Gelderland,VBO,6.379273,52.139528
+Ploegdijk,2,,H731,7241SC,Lochem,Lochem,Gelderland,VBO,6.379439,52.139529
+Ploegdijk,2,,H732,7241SC,Lochem,Lochem,Gelderland,VBO,6.379632,52.139552
+Ploegdijk,2,,H733,7241SC,Lochem,Lochem,Gelderland,VBO,6.380041,52.139659
+Ploegdijk,2,,H734,7241SC,Lochem,Lochem,Gelderland,VBO,6.380249,52.139681
+Ploegdijk,2,,H735,7241SC,Lochem,Lochem,Gelderland,VBO,6.380481,52.139683
+Ploegdijk,2,,H736,7241SC,Lochem,Lochem,Gelderland,VBO,6.380679,52.139698
+Ploegdijk,2,,H737,7241SC,Lochem,Lochem,Gelderland,VBO,6.380909,52.139726
+Ploegdijk,2,,H738,7241SC,Lochem,Lochem,Gelderland,VBO,6.381189,52.139810
 Ploegdijk,2,,H74,7241SC,Lochem,Lochem,Gelderland,VBO,6.378226,52.140248
 Ploegdijk,2,,H75,7241SC,Lochem,Lochem,Gelderland,VBO,6.377977,52.140224
 Ploegdijk,2,,H76,7241SC,Lochem,Lochem,Gelderland,VBO,6.377684,52.140208
@@ -4307,6 +4404,7 @@ Ploegdijk,2,,H84,7241SC,Lochem,Lochem,Gelderland,VBO,6.377294,52.137757
 Ploegdijk,2,,H86,7241SC,Lochem,Lochem,Gelderland,VBO,6.378053,52.137733
 Ploegdijk,2,,H87,7241SC,Lochem,Lochem,Gelderland,VBO,6.377655,52.137584
 Ploegdijk,2,,H88,7241SC,Lochem,Lochem,Gelderland,VBO,6.377334,52.137604
+Ploegdijk,2,,H89,7241SC,Lochem,Lochem,Gelderland,VBO,6.378435,52.137532
 Ploegdijk,2,,H90,7241SC,Lochem,Lochem,Gelderland,VBO,6.378137,52.137571
 Ploegdijk,2,,H92,7241SC,Lochem,Lochem,Gelderland,VBO,6.377360,52.137442
 Ploegdijk,2,,H93,7241SC,Lochem,Lochem,Gelderland,VBO,6.378543,52.137441
@@ -4350,8 +4448,8 @@ Zutphenseweg,128,,,7241SG,Lochem,Lochem,Gelderland,VBO,6.349394,52.142531
 Tolzichtsdiekske,2,,,7241SH,Lochem,Lochem,Gelderland,VBO,6.346289,52.144286
 Boekhorstlaan,1,,,7241SJ,Lochem,Lochem,Gelderland,VBO,6.359256,52.151860
 Boekhorstlaan,2,,,7241SJ,Lochem,Lochem,Gelderland,VBO,6.358736,52.151576
-Boekhorstlaan,3,,,7241SJ,Lochem,Lochem,Gelderland,VBO,6.359647,52.150729
 Boekhorstlaan,3,,,7241SJ,Lochem,Lochem,Gelderland,VBO,6.359979,52.150717
+Boekhorstlaan,3,,,7241SJ,Lochem,Lochem,Gelderland,VBO,6.359647,52.150729
 Boekhorstlaan,4,,,7241SJ,Lochem,Lochem,Gelderland,VBO,6.358345,52.151515
 Boekhorstlaan,5,,,7241SJ,Lochem,Lochem,Gelderland,VBO,6.359660,52.150379
 Boekhorstlaan,6,,,7241SJ,Lochem,Lochem,Gelderland,VBO,6.358175,52.151535
@@ -4374,7 +4472,7 @@ Lageweg,8,t,,7241SK,Lochem,Lochem,Gelderland,VBO,6.358700,52.154613
 Lageweg,8,,,7241SK,Lochem,Lochem,Gelderland,VBO,6.361177,52.154950
 Daniël Willemsenpad,1,,,7241SL,Lochem,Lochem,Gelderland,VBO,6.394397,52.149055
 Daniël Willemsenpad,2,,,7241SL,Lochem,Lochem,Gelderland,VBO,6.392397,52.146798
-Daniël Willemsenpad,3,,,7241SL,Lochem,Lochem,Gelderland,VBO,6.394442,52.148972
+Daniël Willemsenpad,3,,,7241SL,Lochem,Lochem,Gelderland,VBO,6.394443,52.148934
 Klein Dochterense Schooldijk,1,,,7241SM,Lochem,Lochem,Gelderland,VBO,6.369503,52.148150
 Klein Dochterense Schooldijk,2,,,7241SM,Lochem,Lochem,Gelderland,VBO,6.369689,52.150154
 Klein Dochterense Schooldijk,4,,,7241SM,Lochem,Lochem,Gelderland,VBO,6.368545,52.150370
@@ -4448,7 +4546,8 @@ Lageweg,14,,,7241SZ,Lochem,Lochem,Gelderland,VBO,6.353903,52.155246
 Lageweg,16,,,7241SZ,Lochem,Lochem,Gelderland,VBO,6.350201,52.154444
 Oude Vordenseweg,1,,,7241TA,Lochem,Lochem,Gelderland,VBO,6.347596,52.152432
 Oude Vordenseweg,2,,,7241TA,Lochem,Lochem,Gelderland,VBO,6.347300,52.157408
-Oude Vordenseweg,3,,,7241TA,Lochem,Lochem,Gelderland,VBO,6.346355,52.152208
+Oude Vordenseweg,3,,a,7241TA,Lochem,Lochem,Gelderland,VBO,6.346509,52.152187
+Oude Vordenseweg,3,,,7241TA,Lochem,Lochem,Gelderland,VBO,6.346357,52.152239
 Velhorst,1,,,7241TB,Lochem,Lochem,Gelderland,VBO,6.328823,52.154992
 Velhorst,2,,,7241TB,Lochem,Lochem,Gelderland,VBO,6.332797,52.155356
 Velhorst,3,,,7241TB,Lochem,Lochem,Gelderland,VBO,6.334574,52.155661
@@ -4521,6 +4620,53 @@ Korenmolenweg,40,,,7241VC,Lochem,Lochem,Gelderland,VBO,6.396520,52.160267
 Korenmolenweg,42,,,7241VC,Lochem,Lochem,Gelderland,VBO,6.396515,52.160335
 Korenmolenweg,44,,,7241VC,Lochem,Lochem,Gelderland,VBO,6.396507,52.160458
 Korenmolenweg,46,,,7241VC,Lochem,Lochem,Gelderland,VBO,6.396502,52.160526
+Runmolenlaan,1,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397359,52.160488
+Runmolenlaan,2,,K001,7241VE,Lochem,Lochem,Gelderland,VBO,6.398273,52.159822
+Runmolenlaan,2,,K002,7241VE,Lochem,Lochem,Gelderland,VBO,6.398299,52.159773
+Runmolenlaan,2,,K003,7241VE,Lochem,Lochem,Gelderland,VBO,6.398411,52.159708
+Runmolenlaan,2,,K004,7241VE,Lochem,Lochem,Gelderland,VBO,6.398494,52.159730
+Runmolenlaan,2,,K005,7241VE,Lochem,Lochem,Gelderland,VBO,6.398470,52.159815
+Runmolenlaan,2,,K006,7241VE,Lochem,Lochem,Gelderland,VBO,6.398431,52.159858
+Runmolenlaan,2,,K007,7241VE,Lochem,Lochem,Gelderland,VBO,6.398081,52.160011
+Runmolenlaan,2,,K008,7241VE,Lochem,Lochem,Gelderland,VBO,6.397994,52.160014
+Runmolenlaan,2,,K009,7241VE,Lochem,Lochem,Gelderland,VBO,6.397858,52.160006
+Runmolenlaan,2,,K010,7241VE,Lochem,Lochem,Gelderland,VBO,6.397848,52.159953
+Runmolenlaan,2,,K011,7241VE,Lochem,Lochem,Gelderland,VBO,6.397982,52.159915
+Runmolenlaan,2,,K012,7241VE,Lochem,Lochem,Gelderland,VBO,6.398062,52.159914
+Runmolenlaan,2,,K101,7241VE,Lochem,Lochem,Gelderland,VBO,6.398323,52.159835
+Runmolenlaan,2,,K102,7241VE,Lochem,Lochem,Gelderland,VBO,6.398354,52.159786
+Runmolenlaan,2,,K103,7241VE,Lochem,Lochem,Gelderland,VBO,6.398389,52.159746
+Runmolenlaan,2,,K104,7241VE,Lochem,Lochem,Gelderland,VBO,6.398451,52.159763
+Runmolenlaan,2,,K105,7241VE,Lochem,Lochem,Gelderland,VBO,6.398410,52.159801
+Runmolenlaan,2,,K106,7241VE,Lochem,Lochem,Gelderland,VBO,6.398371,52.159852
+Runmolenlaan,2,,K107,7241VE,Lochem,Lochem,Gelderland,VBO,6.398072,52.159973
+Runmolenlaan,2,,K108,7241VE,Lochem,Lochem,Gelderland,VBO,6.397991,52.159982
+Runmolenlaan,2,,K109,7241VE,Lochem,Lochem,Gelderland,VBO,6.397924,52.159990
+Runmolenlaan,2,,K110,7241VE,Lochem,Lochem,Gelderland,VBO,6.397921,52.159957
+Runmolenlaan,2,,K111,7241VE,Lochem,Lochem,Gelderland,VBO,6.397986,52.159947
+Runmolenlaan,2,,K112,7241VE,Lochem,Lochem,Gelderland,VBO,6.398079,52.159943
+Runmolenlaan,2,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398196,52.159917
+Runmolenlaan,3,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397435,52.160488
+Runmolenlaan,4,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397462,52.160288
+Runmolenlaan,5,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397637,52.160490
+Runmolenlaan,6,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397548,52.160289
+Runmolenlaan,7,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397723,52.160498
+Runmolenlaan,8,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397632,52.160288
+Runmolenlaan,9,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397828,52.160501
+Runmolenlaan,10,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397722,52.160289
+Runmolenlaan,11,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397909,52.160504
+Runmolenlaan,12,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397927,52.160301
+Runmolenlaan,13,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398121,52.160502
+Runmolenlaan,14,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398011,52.160303
+Runmolenlaan,15,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398203,52.160505
+Runmolenlaan,16,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398098,52.160303
+Runmolenlaan,17,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397580,52.161163
+Runmolenlaan,18,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398184,52.160308
+Runmolenlaan,19,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398196,52.161109
+Runmolenlaan,21,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.397980,52.161239
+Runmolenlaan,23,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398302,52.161344
+Runmolenlaan,25,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398060,52.161502
+Runmolenlaan,27,,,7241VE,Lochem,Lochem,Gelderland,VBO,6.398296,52.161532
 Weidemolenlaan,2,,,7241VG,Lochem,Lochem,Gelderland,VBO,6.404631,52.162762
 Weidemolenlaan,4,,,7241VG,Lochem,Lochem,Gelderland,VBO,6.404536,52.162808
 Weidemolenlaan,5,,,7241VG,Lochem,Lochem,Gelderland,VBO,6.403757,52.162591

@@ -804,6 +804,7 @@ J.D. de Vriesstraat,69,,,9251CJ,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991610,
 J.D. de Vriesstraat,71,,,9251CJ,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991596,53.197413
 J.D. de Vriesstraat,73,,,9251CJ,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991581,53.197458
 J.D. de Vriesstraat,75,,,9251CJ,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991567,53.197512
+J.D. de Vriesstraat,1,A,,9251CK,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993022,53.192975
 J.D. de Vriesstraat,1,B,,9251CK,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993119,53.192975
 J.D. de Vriesstraat,1,,,9251CK,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993149,53.192921
 J.D. de Vriesstraat,2,A,,9251CK,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993437,53.193207
@@ -986,7 +987,7 @@ De Passaazje,1,,,9251CX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992497,53.19233
 De Passaazje,3,A,,9251CX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992570,53.192223
 De Passaazje,3,,,9251CX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992556,53.192241
 De Passaazje,4,,,9251CX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992271,53.192216
-De Passaazje,5,,,9251CX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992586,53.192232
+De Passaazje,5,,,9251CX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992539,53.192113
 De Passaazje,6,,,9251CX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992196,53.192180
 De Passaazje,8,,,9251CX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992314,53.192081
 Prins Willem-Alexanderstraat,2,,,9251DA,Burgum,Tytsjerksteradiel,Friesland,VBO,5.984038,53.188644
@@ -1102,8 +1103,10 @@ Schoolstraat,24,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991510,53.1923
 Schoolstraat,26,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991630,53.192354
 Schoolstraat,40,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991766,53.192488
 Schoolstraat,46,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991914,53.192370
+Schoolstraat,48,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992036,53.192414
 Schoolstraat,50,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992184,53.192378
-Schoolstraat,56,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992424,53.192466
+Schoolstraat,56,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992425,53.192518
+Schoolstraat,58,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992531,53.192525
 Schoolstraat,60,,,9251EC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992648,53.192420
 Schoolstraat,64,,,9251ED,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992904,53.192518
 Schoolstraat,68,,,9251ED,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993023,53.192499
@@ -1629,6 +1632,7 @@ Burgumerdaam,49,R,,9251GC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.994119,53.186
 Burgumerdaam,49,S,,9251GC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.994164,53.186347
 Burgumerdaam,49,T,,9251GC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.994209,53.186356
 Burgumerdaam,51,A,,9251GC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992409,53.186015
+Burgumerdaam,55,,,9251GC,Burgum,Tytsjerksteradiel,Friesland,VBO,5.994118,53.186082
 Burgumerdaam,2,,,9251GD,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991028,53.188906
 Burgumerdaam,4,,,9251GD,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991057,53.188834
 Burgumerdaam,6,,,9251GD,Burgum,Tytsjerksteradiel,Friesland,VBO,5.991071,53.188771
@@ -1686,7 +1690,77 @@ Prins Bernhardstraat,13,,,9251GK,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983561
 Prins Bernhardstraat,15,,,9251GK,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983486,53.188764
 Prins Bernhardstraat,17,,,9251GK,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983291,53.188738
 Prins Bernhardstraat,19,,,9251GK,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983216,53.188729
-Prins Bernhardstraat,74,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982771,53.189796
+Prins Bernhardstraat,74,,001,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982494,53.190351
+Prins Bernhardstraat,74,,002,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982477,53.190402
+Prins Bernhardstraat,74,,003,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982464,53.190445
+Prins Bernhardstraat,74,,004,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982446,53.190490
+Prins Bernhardstraat,74,,005,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982430,53.190538
+Prins Bernhardstraat,74,,006,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982705,53.190558
+Prins Bernhardstraat,74,,007,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982720,53.190502
+Prins Bernhardstraat,74,,008,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982742,53.190444
+Prins Bernhardstraat,74,,009,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982751,53.190396
+Prins Bernhardstraat,74,,010,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982770,53.190350
+Prins Bernhardstraat,74,,011,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982786,53.190311
+Prins Bernhardstraat,74,,101,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982960,53.189792
+Prins Bernhardstraat,74,,102,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982974,53.189749
+Prins Bernhardstraat,74,,103,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982980,53.189711
+Prins Bernhardstraat,74,,104,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982974,53.189678
+Prins Bernhardstraat,74,,105,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982985,53.189639
+Prins Bernhardstraat,74,,106,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982995,53.189609
+Prins Bernhardstraat,74,,107,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983005,53.189581
+Prins Bernhardstraat,74,,108,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983022,53.189533
+Prins Bernhardstraat,74,,109,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983038,53.189489
+Prins Bernhardstraat,74,,110,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982790,53.189409
+Prins Bernhardstraat,74,,111,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982776,53.189435
+Prins Bernhardstraat,74,,112,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982766,53.189469
+Prins Bernhardstraat,74,,113,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982757,53.189501
+Prins Bernhardstraat,74,,114,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982752,53.189531
+Prins Bernhardstraat,74,,115,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982738,53.189555
+Prins Bernhardstraat,74,,116,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982735,53.189587
+Prins Bernhardstraat,74,,117,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982729,53.189617
+Prins Bernhardstraat,74,,118,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982658,53.189866
+Prins Bernhardstraat,74,,119,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982648,53.189902
+Prins Bernhardstraat,74,,120,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982635,53.189959
+Prins Bernhardstraat,74,,121,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982620,53.190004
+Prins Bernhardstraat,74,,122,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982608,53.190052
+Prins Bernhardstraat,74,,123,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982603,53.190098
+Prins Bernhardstraat,74,,124,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982546,53.190326
+Prins Bernhardstraat,74,,125,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982549,53.190392
+Prins Bernhardstraat,74,,126,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982528,53.190442
+Prins Bernhardstraat,74,,127,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982515,53.190514
+Prins Bernhardstraat,74,,128,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982678,53.190523
+Prins Bernhardstraat,74,,129,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982698,53.190470
+Prins Bernhardstraat,74,,130,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982711,53.190421
+Prins Bernhardstraat,74,,131,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982794,53.190189
+Prins Bernhardstraat,74,,132,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982804,53.190144
+Prins Bernhardstraat,74,,133,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982822,53.190100
+Prins Bernhardstraat,74,,134,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982842,53.190058
+Prins Bernhardstraat,74,,135,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982850,53.190021
+Prins Bernhardstraat,74,,201,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982906,53.189772
+Prins Bernhardstraat,74,,202,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982914,53.189731
+Prins Bernhardstraat,74,,203,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982913,53.189663
+Prins Bernhardstraat,74,,204,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982920,53.189590
+Prins Bernhardstraat,74,,205,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982953,53.189523
+Prins Bernhardstraat,74,,206,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982898,53.189423
+Prins Bernhardstraat,74,,207,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982878,53.189472
+Prins Bernhardstraat,74,,208,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982862,53.189533
+Prins Bernhardstraat,74,,209,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982760,53.189823
+Prins Bernhardstraat,74,,210,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982750,53.189876
+Prins Bernhardstraat,74,,211,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982735,53.189923
+Prins Bernhardstraat,74,,212,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982723,53.189971
+Prins Bernhardstraat,74,,213,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982579,53.190421
+Prins Bernhardstraat,74,,214,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982565,53.190471
+Prins Bernhardstraat,74,,215,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982550,53.190529
+Prins Bernhardstraat,74,,216,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982652,53.190502
+Prins Bernhardstraat,74,,217,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982673,53.190453
+Prins Bernhardstraat,74,,218,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982676,53.190407
+Prins Bernhardstraat,74,,219,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982684,53.190355
+Prins Bernhardstraat,74,,220,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982749,53.190169
+Prins Bernhardstraat,74,,221,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982770,53.190117
+Prins Bernhardstraat,74,,222,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982782,53.190069
+Prins Bernhardstraat,74,,223,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982794,53.190027
+Prins Bernhardstraat,74,,224,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.982804,53.189994
+Prins Bernhardstraat,74,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983244,53.189795
 Prins Bernhardstraat,76,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.981817,53.191414
 Prins Bernhardstraat,78,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.981921,53.191378
 Prins Bernhardstraat,80,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.981743,53.191459
@@ -1711,35 +1785,61 @@ Prins Bernhardstraat,116,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.98155
 Prins Bernhardstraat,118,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.981539,53.191892
 Prins Bernhardstraat,120,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.981554,53.191874
 Prins Bernhardstraat,122,,,9251GM,Burgum,Tytsjerksteradiel,Friesland,VBO,5.981691,53.192071
+Prinses Christinastraat,1,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985400,53.191824
+Prinses Christinastraat,3,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985485,53.191834
+Prinses Christinastraat,5,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985411,53.191784
+Prinses Christinastraat,7,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985487,53.191794
+Prinses Christinastraat,9,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985418,53.191730
+Prinses Christinastraat,11,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985497,53.191744
+Prinses Christinastraat,13,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985364,53.191623
+Prinses Christinastraat,15,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985350,53.191598
+Prinses Christinastraat,17,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985388,53.191540
+Prinses Christinastraat,19,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985479,53.191654
+Prinses Christinastraat,21,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985476,53.191596
+Prinses Christinastraat,23,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985493,53.191536
+Prinses Christinastraat,25,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.984997,53.191612
+Prinses Christinastraat,27,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985010,53.191568
+Prinses Christinastraat,29,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985040,53.191521
+Prinses Christinastraat,31,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985116,53.191608
+Prinses Christinastraat,33,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985118,53.191577
+Prinses Christinastraat,35,,,9251GN,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985136,53.191519
+Prins Bernhardstraat,2,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987793,53.189852
 Prins Bernhardstraat,2,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987706,53.189902
+Prins Bernhardstraat,4,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987700,53.189854
 Prins Bernhardstraat,4,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987466,53.189903
 Prins Bernhardstraat,6,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987706,53.189938
+Prins Bernhardstraat,6,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987613,53.189848
 Prins Bernhardstraat,8,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987467,53.189930
+Prins Bernhardstraat,8,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987531,53.189844
 Prins Bernhardstraat,10,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987078,53.189986
+Prins Bernhardstraat,10,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987037,53.189913
 Prins Bernhardstraat,12,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986989,53.189996
+Prins Bernhardstraat,12,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986956,53.189915
+Prins Bernhardstraat,14,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986872,53.189910
 Prins Bernhardstraat,14,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986869,53.189996
 Prins Bernhardstraat,16,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986764,53.189988
+Prins Bernhardstraat,16,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986791,53.189910
 Prins Bernhardstraat,18,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986659,53.189988
+Prins Bernhardstraat,18,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986692,53.189909
 Prins Bernhardstraat,20,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986555,53.189989
+Prins Bernhardstraat,20,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986597,53.189907
+Prins Bernhardstraat,22,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986508,53.189902
 Prins Bernhardstraat,22,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986450,53.189980
+Prins Bernhardstraat,24,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986404,53.189901
 Prins Bernhardstraat,24,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986345,53.189981
 Prins Bernhardstraat,26,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986210,53.189964
-Prins Bernhardstraat,42,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985820,53.189858
-Prins Bernhardstraat,44,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985820,53.189894
-Prins Bernhardstraat,46,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985700,53.189849
-Prins Bernhardstraat,48,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985700,53.189876
-Prins Bernhardstraat,50,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985520,53.189841
-Prins Bernhardstraat,52,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985521,53.189877
-Prins Bernhardstraat,54,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985386,53.189842
-Prins Bernhardstraat,56,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985386,53.189869
-Prins Bernhardstraat,58,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985384,53.189725
-Prins Bernhardstraat,60,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985385,53.189752
-Prins Bernhardstraat,62,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985249,53.189717
-Prins Bernhardstraat,64,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985715,53.189876
-Prins Bernhardstraat,66,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985145,53.189708
-Prins Bernhardstraat,68,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985130,53.189744
-Prins Bernhardstraat,70,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985025,53.189709
-Prins Bernhardstraat,72,,,9251GR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985010,53.189727
+Prins Bernhardstraat,26,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986305,53.189899
+Prins Bernhardstraat,28,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986266,53.189888
+Prins Bernhardstraat,30,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985774,53.189819
+Prins Bernhardstraat,32,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985735,53.189801
+Prins Bernhardstraat,34,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985682,53.189775
+Prins Bernhardstraat,36,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985618,53.189757
+Prins Bernhardstraat,38,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985510,53.189729
+Prins Bernhardstraat,40,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985435,53.189703
+Prins Bernhardstraat,42,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985367,53.189682
+Prins Bernhardstraat,44,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985305,53.189656
+Prins Bernhardstraat,46,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985237,53.189638
+Prins Bernhardstraat,48,,,9251GP,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985121,53.189604
 Koningin Julianastraat,1,,,9251GS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986857,53.191290
 Koningin Julianastraat,3,,,9251GS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986752,53.191282
 Koningin Julianastraat,5,,,9251GS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.986483,53.191292
@@ -1780,24 +1880,6 @@ Prinses Beatrixstraat,12,,,9251GW,Burgum,Tytsjerksteradiel,Friesland,VBO,5.98746
 Prinses Beatrixstraat,14,,,9251GW,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987450,53.190910
 Prinses Beatrixstraat,16,,,9251GW,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987632,53.191062
 Prinses Beatrixstraat,18,,,9251GW,Burgum,Tytsjerksteradiel,Friesland,VBO,5.987500,53.191278
-Prinses Christinastraat,1,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985400,53.191824
-Prinses Christinastraat,3,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985485,53.191834
-Prinses Christinastraat,5,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985411,53.191784
-Prinses Christinastraat,7,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985487,53.191794
-Prinses Christinastraat,9,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985418,53.191730
-Prinses Christinastraat,11,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985497,53.191744
-Prinses Christinastraat,13,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985364,53.191623
-Prinses Christinastraat,15,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985350,53.191598
-Prinses Christinastraat,17,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985388,53.191540
-Prinses Christinastraat,19,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985479,53.191654
-Prinses Christinastraat,21,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985476,53.191596
-Prinses Christinastraat,23,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985493,53.191536
-Prinses Christinastraat,25,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.984997,53.191612
-Prinses Christinastraat,27,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985010,53.191568
-Prinses Christinastraat,29,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985040,53.191521
-Prinses Christinastraat,31,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985116,53.191608
-Prinses Christinastraat,33,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985118,53.191577
-Prinses Christinastraat,35,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985136,53.191519
 Prinses Irenestraat,1,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985734,53.190110
 Prinses Irenestraat,3,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985734,53.190173
 Prinses Irenestraat,5,,,9251GX,Burgum,Tytsjerksteradiel,Friesland,VBO,5.985721,53.190280
@@ -2517,7 +2599,8 @@ Markt,47,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992031,53.191937
 Markt,49,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992155,53.191806
 Markt,51,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992130,53.191853
 Markt,53,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992120,53.191899
-Markt,55,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992589,53.191851
+Markt,55,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992526,53.192002
+Markt,57,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992539,53.191955
 Markt,61,A,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992558,53.191938
 Markt,61,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992575,53.191894
 Markt,63,,,9251JR,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992713,53.191863
@@ -2589,6 +2672,41 @@ Markt,30,,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992113,53.190572
 Markt,32,,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992203,53.190580
 Markt,34,,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992308,53.190589
 Markt,36,,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992398,53.190606
+Markt,38,A,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993133,53.190535
+Markt,38,,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993016,53.190551
+Markt,40,,01,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993361,53.190747
+Markt,40,,02,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993269,53.190738
+Markt,40,,03,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993142,53.190724
+Markt,40,,04,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993031,53.190711
+Markt,40,,05,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992917,53.190701
+Markt,40,,06,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992798,53.190689
+Markt,40,,07,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992693,53.190674
+Markt,40,,08,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992831,53.190591
+Markt,40,,09,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992963,53.190606
+Markt,40,,10,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993117,53.190617
+Markt,40,,11,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993417,53.190574
+Markt,40,,12,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993463,53.190463
+Markt,40,,13,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993358,53.190724
+Markt,40,,14,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993269,53.190717
+Markt,40,,15,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993134,53.190700
+Markt,40,,16,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993024,53.190686
+Markt,40,,17,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992914,53.190677
+Markt,40,,18,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992798,53.190662
+Markt,40,,19,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992698,53.190648
+Markt,40,,20,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992815,53.190570
+Markt,40,,21,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992951,53.190586
+Markt,40,,22,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993102,53.190595
+Markt,40,,23,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993403,53.190547
+Markt,40,,24,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993428,53.190435
+Markt,40,,25,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993344,53.190700
+Markt,40,,26,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993258,53.190694
+Markt,40,,27,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993121,53.190681
+Markt,40,,28,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993015,53.190661
+Markt,40,,29,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992795,53.190641
+Markt,40,,30,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992803,53.190547
+Markt,40,,31,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.992938,53.190564
+Markt,40,,32,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993077,53.190576
+Markt,40,,33,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993209,53.190588
 Markt,42,,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993819,53.191313
 Markt,44,,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993910,53.191324
 Markt,50,,,9251JS,Burgum,Tytsjerksteradiel,Friesland,VBO,5.993828,53.191276
@@ -3353,12 +3471,15 @@ Menno van Coehoornweg,10,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.00559
 Menno van Coehoornweg,11,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.003213,53.205153
 Menno van Coehoornweg,12,A,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.006617,53.204390
 Menno van Coehoornweg,12,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.007183,53.204405
+Menno van Coehoornweg,13,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.005737,53.205209
 Menno van Coehoornweg,13,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.005534,53.205222
 Menno van Coehoornweg,14,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.012679,53.204628
 Menno van Coehoornweg,15,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.006865,53.205135
 Menno van Coehoornweg,16,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.013296,53.204841
+Menno van Coehoornweg,17,,01,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.008184,53.205593
+Menno van Coehoornweg,17,,02,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.008200,53.205499
+Menno van Coehoornweg,17,,03,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.008215,53.205407
 Menno van Coehoornweg,17,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.007850,53.204986
-Menno van Coehoornweg,18,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.013670,53.204866
 Menno van Coehoornweg,19,,,9251LV,Burgum,Tytsjerksteradiel,Friesland,VBO,6.009436,53.204959
 Tussendijken,1,,,9251LW,Burgum,Tytsjerksteradiel,Friesland,VBO,5.988365,53.199400
 Tussendijken,2,,,9251LW,Burgum,Tytsjerksteradiel,Friesland,VBO,5.989332,53.199248
@@ -3513,7 +3634,6 @@ Zomerweg,23,,,9251MG,Burgum,Tytsjerksteradiel,Friesland,VBO,5.977860,53.206269
 Zomerweg,27,,,9251MG,Burgum,Tytsjerksteradiel,Friesland,VBO,5.979402,53.206316
 Zomerweg,29,,,9251MG,Burgum,Tytsjerksteradiel,Friesland,VBO,5.980121,53.206303
 Zomerweg,31,,,9251MG,Burgum,Tytsjerksteradiel,Friesland,VBO,5.983074,53.206666
-Zomerweg,38,A,,9251MH,Burgum,Tytsjerksteradiel,Friesland,VBO,5.966974,53.205864
 Zomerweg,38,,,9251MH,Burgum,Tytsjerksteradiel,Friesland,VBO,5.960245,53.206283
 Zomerweg,40,,,9251MH,Burgum,Tytsjerksteradiel,Friesland,VBO,5.971327,53.205681
 Zomerweg,44,,,9251MH,Burgum,Tytsjerksteradiel,Friesland,VBO,5.971971,53.205750
@@ -3884,7 +4004,7 @@ De Bjirk,38,,,9251NJ,Burgum,Tytsjerksteradiel,Friesland,VBO,6.003438,53.187351
 De Bjirk,40,,,9251NJ,Burgum,Tytsjerksteradiel,Friesland,VBO,6.003720,53.187197
 De Bjirk,42,,,9251NJ,Burgum,Tytsjerksteradiel,Friesland,VBO,6.003960,53.187196
 De Boek,2,,,9251NK,Burgum,Tytsjerksteradiel,Friesland,VBO,6.005657,53.190817
-De Boek,4,,,9251NK,Burgum,Tytsjerksteradiel,Friesland,VBO,6.005686,53.190781
+De Boek,4,,,9251NK,Burgum,Tytsjerksteradiel,Friesland,VBO,6.005677,53.190778
 De Boek,5,,,9251NK,Burgum,Tytsjerksteradiel,Friesland,VBO,6.006826,53.190964
 De Boek,6,,,9251NK,Burgum,Tytsjerksteradiel,Friesland,VBO,6.006102,53.190554
 De Boek,7,,,9251NK,Burgum,Tytsjerksteradiel,Friesland,VBO,6.006871,53.190973

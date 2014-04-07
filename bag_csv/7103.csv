@@ -153,6 +153,7 @@ Generaal Berenschotweg,66,,I,7103AM,Winterswijk,Winterswijk,Gelderland,VBO,6.716
 Generaal Berenschotweg,66,,,7103AM,Winterswijk,Winterswijk,Gelderland,VBO,6.716095,51.979430
 Generaal Berenschotweg,68,,,7103AM,Winterswijk,Winterswijk,Gelderland,VBO,6.716536,51.979583
 Frans Halsstraat,1,,,7103AN,Winterswijk,Winterswijk,Gelderland,VBO,6.716699,51.978197
+Frans Halsstraat,2,b,,7103AN,Winterswijk,Winterswijk,Gelderland,VBO,6.717477,51.978340
 Frans Halsstraat,2,,I,7103AN,Winterswijk,Winterswijk,Gelderland,VBO,6.717383,51.978089
 Frans Halsstraat,2,,,7103AN,Winterswijk,Winterswijk,Gelderland,VBO,6.717206,51.978307
 Frans Halsstraat,3,,,7103AN,Winterswijk,Winterswijk,Gelderland,VBO,6.716595,51.978247
@@ -260,7 +261,6 @@ Ravenhorsterweg,50,,,7103AT,Winterswijk,Winterswijk,Gelderland,VBO,6.719393,51.9
 Jaspersweg,1,,,7103AV,Winterswijk,Winterswijk,Gelderland,VBO,6.704559,51.982163
 Jaspersweg,3,,,7103AV,Winterswijk,Winterswijk,Gelderland,VBO,6.707075,51.982593
 Jaspersweg,5,,,7103AV,Winterswijk,Winterswijk,Gelderland,VBO,6.708423,51.983820
-Jaspersweg,5,,,7103AV,Winterswijk,Winterswijk,Gelderland,VBO,6.707716,51.983098
 Jaspersweg,7,,,7103AV,Winterswijk,Winterswijk,Gelderland,VBO,6.707151,51.983307
 Jaspersweg,9,,,7103AV,Winterswijk,Winterswijk,Gelderland,VBO,6.704596,51.983315
 Jaspersweg,11,,,7103AV,Winterswijk,Winterswijk,Gelderland,VBO,6.703630,51.984278
@@ -1170,6 +1170,7 @@ Scheldestraat,34,,,7103EJ,Winterswijk,Winterswijk,Gelderland,VBO,6.734277,51.980
 Scheldestraat,36,,,7103EJ,Winterswijk,Winterswijk,Gelderland,VBO,6.734358,51.980139
 Scheldestraat,38,,,7103EJ,Winterswijk,Winterswijk,Gelderland,VBO,6.734516,51.980188
 Scheldestraat,40,,,7103EJ,Winterswijk,Winterswijk,Gelderland,VBO,6.734596,51.980209
+Watermolen,3,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.738612,51.976434
 Watermolen,9,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.737774,51.976011
 Watermolen,11,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.737681,51.976009
 Watermolen,13,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.737409,51.975995
@@ -1179,6 +1180,16 @@ Watermolen,19,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736968,51.975970
 Watermolen,21,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736734,51.975962
 Watermolen,23,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736638,51.975956
 Watermolen,25,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736541,51.975953
+Watermolen,27,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736666,51.976171
+Watermolen,29,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736640,51.976218
+Watermolen,31,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736655,51.976277
+Watermolen,33,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736647,51.976326
+Watermolen,35,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736640,51.976378
+Watermolen,37,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736633,51.976428
+Watermolen,39,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736622,51.976476
+Watermolen,41,,,7103EL,Winterswijk,Winterswijk,Gelderland,VBO,6.736615,51.976524
+Watermolen,4,,,7103EM,Winterswijk,Winterswijk,Gelderland,VBO,6.738202,51.976604
+Watermolen,6,,,7103EM,Winterswijk,Winterswijk,Gelderland,VBO,6.738018,51.976548
 Watermolen,10,,,7103EM,Winterswijk,Winterswijk,Gelderland,VBO,6.737153,51.976170
 Watermolen,12,,,7103EM,Winterswijk,Winterswijk,Gelderland,VBO,6.737068,51.976166
 Watermolen,14,,,7103EM,Winterswijk,Winterswijk,Gelderland,VBO,6.736986,51.976162
@@ -2398,7 +2409,9 @@ Burgemeester van Nispenstraat,24,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO
 Burgemeester van Nispenstraat,26,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO,6.720646,51.979267
 Burgemeester van Nispenstraat,28,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO,6.720500,51.979250
 Burgemeester van Nispenstraat,32,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO,6.719728,51.979906
+Burgemeester van Nispenstraat,34,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO,6.719728,51.979906
 Burgemeester van Nispenstraat,36,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO,6.719912,51.979527
+Burgemeester van Nispenstraat,38,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO,6.719912,51.979527
 Burgemeester van Nispenstraat,40,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO,6.719516,51.978947
 Burgemeester van Nispenstraat,42,,,7103WJ,Winterswijk,Winterswijk,Gelderland,VBO,6.719122,51.978924
 Roenhorststraat,1,,,7103WK,Winterswijk,Winterswijk,Gelderland,VBO,6.722495,51.978402
@@ -2715,6 +2728,7 @@ Vreesweg,1,,I,7103XJ,Winterswijk,Winterswijk,Gelderland,VBO,6.723215,51.978527
 Vreesweg,1,,II,7103XJ,Winterswijk,Winterswijk,Gelderland,VBO,6.723332,51.978526
 Vreesweg,1,,,7103XJ,Winterswijk,Winterswijk,Gelderland,VBO,6.723596,51.978595
 Vreesweg,2,,,7103XJ,Winterswijk,Winterswijk,Gelderland,VBO,6.723617,51.978325
+Vreesweg,3,,,7103XJ,Winterswijk,Winterswijk,Gelderland,VBO,6.723547,51.978808
 Vreesweg,3,,,7103XJ,Winterswijk,Winterswijk,Gelderland,VBO,6.723545,51.978856
 Vreesweg,4,,,7103XJ,Winterswijk,Winterswijk,Gelderland,VBO,6.723719,51.978333
 Vreesweg,5,,,7103XJ,Winterswijk,Winterswijk,Gelderland,VBO,6.723800,51.978611

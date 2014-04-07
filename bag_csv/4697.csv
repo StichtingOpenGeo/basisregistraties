@@ -16,11 +16,9 @@ Javadijk,58,,,4697BA,Sint-Annaland,Tholen,Zeeland,VBO,4.107662,51.599444
 Javadijk,60,,,4697BA,Sint-Annaland,Tholen,Zeeland,VBO,4.107841,51.599336
 Spuistraat,1,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.106709,51.602078
 Spuistraat,2,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.105922,51.601647
-Spuistraat,3,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.106125,51.601925
 Spuistraat,3,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.106874,51.601995
 Spuistraat,4,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.105976,51.601614
 Spuistraat,5,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.106991,51.601948
-Spuistraat,5,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.106381,51.601751
 Spuistraat,6,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.106028,51.601581
 Spuistraat,8,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.106075,51.601551
 Spuistraat,40,,,4697BB,Sint-Annaland,Tholen,Zeeland,VBO,4.106417,51.601208
@@ -253,6 +251,8 @@ Annewas,17,,,4697BX,Sint-Annaland,Tholen,Zeeland,VBO,4.106350,51.600769
 Annewas,19,,,4697BX,Sint-Annaland,Tholen,Zeeland,VBO,4.106468,51.600759
 Annewas,21,,,4697BX,Sint-Annaland,Tholen,Zeeland,VBO,4.106384,51.600805
 Annewas,23,,,4697BX,Sint-Annaland,Tholen,Zeeland,VBO,4.106451,51.600798
+Annewas,25,,,4697BX,Sint-Annaland,Tholen,Zeeland,VBO,4.106096,51.600823
+Annewas,27,,,4697BX,Sint-Annaland,Tholen,Zeeland,VBO,4.106499,51.600790
 De Heul,1,,,4697BZ,Sint-Annaland,Tholen,Zeeland,VBO,4.103558,51.596560
 De Heul,2,,,4697BZ,Sint-Annaland,Tholen,Zeeland,VBO,4.103431,51.596351
 De Heul,3,,,4697BZ,Sint-Annaland,Tholen,Zeeland,VBO,4.103698,51.596493
@@ -891,6 +891,7 @@ Noordstraat,13,,,4697EW,Sint-Annaland,Tholen,Zeeland,VBO,4.102771,51.602577
 Noordstraat,15,,,4697EW,Sint-Annaland,Tholen,Zeeland,VBO,4.102554,51.602695
 Noordstraat,17,,,4697EW,Sint-Annaland,Tholen,Zeeland,VBO,4.102444,51.602770
 Noordstraat,19,,,4697EW,Sint-Annaland,Tholen,Zeeland,VBO,4.102174,51.602717
+Noordstraat,21,,,4697EW,Sint-Annaland,Tholen,Zeeland,VBO,4.102182,51.602851
 Noordstraat,25,,,4697EW,Sint-Annaland,Tholen,Zeeland,VBO,4.102278,51.602903
 Noordstraat,27,,,4697EW,Sint-Annaland,Tholen,Zeeland,VBO,4.102013,51.603011
 Noordstraat,29,,,4697EW,Sint-Annaland,Tholen,Zeeland,VBO,4.101869,51.603078
@@ -1090,6 +1091,82 @@ F.M. Boogaardweg,5,,,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097248,51.599448
 F.M. Boogaardweg,6,,,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097853,51.599606
 F.M. Boogaardweg,7,,,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097100,51.599555
 F.M. Boogaardweg,9,,,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096911,51.599637
+F.M. Boogaardweg,10,,K001,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097272,51.600349
+F.M. Boogaardweg,10,,K002,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097292,51.600415
+F.M. Boogaardweg,10,,K003,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097312,51.600484
+F.M. Boogaardweg,10,,K004,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097500,51.600407
+F.M. Boogaardweg,10,,K005,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097309,51.600472
+F.M. Boogaardweg,10,,K006,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097521,51.600465
+F.M. Boogaardweg,10,,K007,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097327,51.600535
+F.M. Boogaardweg,10,,K008,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097537,51.600526
+F.M. Boogaardweg,10,,K009,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097406,51.600602
+F.M. Boogaardweg,10,,K010,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097605,51.600571
+F.M. Boogaardweg,10,,K011,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097436,51.600678
+F.M. Boogaardweg,10,,K012,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097636,51.600641
+F.M. Boogaardweg,10,,K013,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097451,51.600743
+F.M. Boogaardweg,10,,K014,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097658,51.600718
+F.M. Boogaardweg,10,,K015,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097073,51.600164
+F.M. Boogaardweg,10,,K016,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097173,51.600055
+F.M. Boogaardweg,10,,K017,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097029,51.600149
+F.M. Boogaardweg,10,,K018,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097125,51.600034
+F.M. Boogaardweg,10,,K019,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096979,51.600130
+F.M. Boogaardweg,10,,K020,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097079,51.600018
+F.M. Boogaardweg,10,,K021,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096919,51.600110
+F.M. Boogaardweg,10,,K022,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097019,51.600000
+F.M. Boogaardweg,10,,K023,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097374,51.599990
+F.M. Boogaardweg,10,,K024,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097541,51.599917
+F.M. Boogaardweg,10,,K025,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097334,51.599963
+F.M. Boogaardweg,10,,K026,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097516,51.599893
+F.M. Boogaardweg,10,,K027,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097307,51.599934
+F.M. Boogaardweg,10,,K028,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097484,51.599865
+F.M. Boogaardweg,10,,K029,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097277,51.599906
+F.M. Boogaardweg,10,,K030,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097449,51.599834
+F.M. Boogaardweg,10,,K101,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097313,51.600344
+F.M. Boogaardweg,10,,K102,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097446,51.600342
+F.M. Boogaardweg,10,,K103,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097333,51.600417
+F.M. Boogaardweg,10,,K104,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097467,51.600413
+F.M. Boogaardweg,10,,K105,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097342,51.600469
+F.M. Boogaardweg,10,,K106,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097481,51.600474
+F.M. Boogaardweg,10,,K107,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097362,51.600531
+F.M. Boogaardweg,10,,K108,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097503,51.600534
+F.M. Boogaardweg,10,,K109,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097443,51.600599
+F.M. Boogaardweg,10,,K110,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097563,51.600579
+F.M. Boogaardweg,10,,K111,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097471,51.600673
+F.M. Boogaardweg,10,,K112,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097597,51.600649
+F.M. Boogaardweg,10,,K113,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097496,51.600740
+F.M. Boogaardweg,10,,K114,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097621,51.600726
+F.M. Boogaardweg,10,,K115,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097277,51.600286
+F.M. Boogaardweg,10,,K116,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097192,51.600222
+F.M. Boogaardweg,10,,K117,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097071,51.600141
+F.M. Boogaardweg,10,,K118,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097130,51.600070
+F.M. Boogaardweg,10,,K119,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096968,51.600101
+F.M. Boogaardweg,10,,K120,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097032,51.600035
+F.M. Boogaardweg,10,,K121,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096862,51.600074
+F.M. Boogaardweg,10,,K122,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096887,51.599978
+F.M. Boogaardweg,10,,K123,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097236,51.600104
+F.M. Boogaardweg,10,,K124,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097369,51.600106
+F.M. Boogaardweg,10,,K201,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097348,51.600337
+F.M. Boogaardweg,10,,K202,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097404,51.600349
+F.M. Boogaardweg,10,,K203,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097368,51.600412
+F.M. Boogaardweg,10,,K204,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097432,51.600420
+F.M. Boogaardweg,10,,K205,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097377,51.600461
+F.M. Boogaardweg,10,,K206,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097445,51.600482
+F.M. Boogaardweg,10,,K207,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097398,51.600527
+F.M. Boogaardweg,10,,K208,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097472,51.600545
+F.M. Boogaardweg,10,,K209,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097477,51.600592
+F.M. Boogaardweg,10,,K210,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097533,51.600588
+F.M. Boogaardweg,10,,K211,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097503,51.600667
+F.M. Boogaardweg,10,,K212,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097565,51.600659
+F.M. Boogaardweg,10,,K213,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097529,51.600737
+F.M. Boogaardweg,10,,K214,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097577,51.600735
+F.M. Boogaardweg,10,,K215,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097297,51.600265
+F.M. Boogaardweg,10,,K216,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097256,51.600210
+F.M. Boogaardweg,10,,K217,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097089,51.600129
+F.M. Boogaardweg,10,,K218,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097109,51.600090
+F.M. Boogaardweg,10,,K219,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096997,51.600086
+F.M. Boogaardweg,10,,K220,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097014,51.600053
+F.M. Boogaardweg,10,,K221,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096879,51.600054
+F.M. Boogaardweg,10,,K222,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096871,51.599996
 F.M. Boogaardweg,10,,,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.097600,51.600069
 F.M. Boogaardweg,11,,,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096758,51.599706
 F.M. Boogaardweg,13,,,4697GM,Sint-Annaland,Tholen,Zeeland,VBO,4.096482,51.599787
@@ -1466,7 +1543,6 @@ Veilingweg,15,,,4697RB,Sint-Annaland,Tholen,Zeeland,VBO,4.108043,51.595461
 Veilingweg,17,,,4697RB,Sint-Annaland,Tholen,Zeeland,VBO,4.107312,51.595088
 Veilingweg,19,,,4697RB,Sint-Annaland,Tholen,Zeeland,VBO,4.107023,51.594756
 Joanna Mariapolder,5,,,4697RC,Sint-Annaland,Tholen,Zeeland,VBO,4.131069,51.589166
-Joanna Mariapolder,7,,,4697RC,Sint-Annaland,Tholen,Zeeland,VBO,4.129111,51.589323
 Joanna Mariapolder,7,,,4697RC,Sint-Annaland,Tholen,Zeeland,VBO,4.129076,51.589568
 Oostweg,1,,,4697RC,Sint-Annaland,Tholen,Zeeland,VBO,4.116237,51.592352
 Oostweg,3,,,4697RC,Sint-Annaland,Tholen,Zeeland,VBO,4.115584,51.591759
@@ -1561,7 +1637,7 @@ Nieuwlandseweg,126,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.102489,51.607005
 Nieuwlandseweg,128,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.102898,51.607603
 Nieuwlandseweg,130,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.103141,51.607586
 Nieuwlandseweg,132,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.103390,51.607628
-Nieuwlandseweg,136,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.103081,51.607694
+Nieuwlandseweg,136,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.103103,51.607755
 Nieuwlandseweg,140,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.103146,51.607869
 Nieuwlandseweg,142,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.102913,51.607847
 Nieuwlandseweg,144,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.102775,51.607955
@@ -1604,7 +1680,7 @@ Nieuwlandseweg,252,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.102046,51.609010
 Nieuwlandseweg,254,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101980,51.608860
 Nieuwlandseweg,256,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101899,51.608751
 Nieuwlandseweg,258,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101821,51.608642
-Nieuwlandseweg,260,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101644,51.608557
+Nieuwlandseweg,260,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101745,51.608544
 Nieuwlandseweg,262,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101668,51.608438
 Nieuwlandseweg,264,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101592,51.608318
 Nieuwlandseweg,266,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101480,51.608242
@@ -1618,7 +1694,6 @@ Nieuwlandseweg,286,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.100909,51.607174
 Nieuwlandseweg,290,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101297,51.607046
 Nieuwlandseweg,294,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101608,51.606863
 Nieuwlandseweg,296,,,4697RK,Sint-Annaland,Tholen,Zeeland,VBO,4.101781,51.606773
-Havenweg,4,,,4697RL,Sint-Annaland,Tholen,Zeeland,VBO,4.105040,51.604855
 Havenweg,8,a,,4697RL,Sint-Annaland,Tholen,Zeeland,VBO,4.105003,51.606471
 Havenweg,8,,,4697RL,Sint-Annaland,Tholen,Zeeland,VBO,4.105300,51.606394
 Havenweg,12,,,4697RL,Sint-Annaland,Tholen,Zeeland,VBO,4.106679,51.605799
@@ -1655,6 +1730,7 @@ Bronsgeestweg,9,,,4697RT,Sint-Annaland,Tholen,Zeeland,VBO,4.110147,51.594394
 Bronsgeestweg,11,,,4697RT,Sint-Annaland,Tholen,Zeeland,VBO,4.110441,51.594138
 Bronsgeestweg,13,,,4697RT,Sint-Annaland,Tholen,Zeeland,VBO,4.110489,51.594112
 Bronsgeestweg,14,,,4697RT,Sint-Annaland,Tholen,Zeeland,VBO,4.108535,51.594591
+Bronsgeestweg,15,,,4697RT,Sint-Annaland,Tholen,Zeeland,VBO,4.110540,51.594089
 Bronsgeestweg,16,,,4697RT,Sint-Annaland,Tholen,Zeeland,VBO,4.108973,51.594518
 Bronsgeestweg,18,,,4697RT,Sint-Annaland,Tholen,Zeeland,VBO,4.109153,51.594422
 Bronsgeestweg,20,a,,4697RT,Sint-Annaland,Tholen,Zeeland,VBO,4.109586,51.594056

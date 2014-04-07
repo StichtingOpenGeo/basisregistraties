@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Bedrijvenpark Twente,315,D,A05,7602AA,Almelo,Almelo,Overijssel,VBO,6.615290,52.374246
 Vriezenveenseweg,1,,,7602AA,Almelo,Almelo,Overijssel,VBO,6.669142,52.365192
 Vriezenveenseweg,7,,,7602AA,Almelo,Almelo,Overijssel,VBO,6.668624,52.366088
 Vriezenveenseweg,9,,,7602AA,Almelo,Almelo,Overijssel,VBO,6.668701,52.366204
@@ -931,6 +930,8 @@ Vissedijk,44,b,GA36,7602CR,Almelo,Almelo,Overijssel,VBO,6.657761,52.363095
 Vissedijk,44,b,GA37,7602CR,Almelo,Almelo,Overijssel,VBO,6.657804,52.363049
 Vissedijk,44,b,,7602CR,Almelo,Almelo,Overijssel,VBO,6.658154,52.363477
 Vissedijk,44,,,7602CR,Almelo,Almelo,Overijssel,VBO,6.658832,52.363596
+Slachthuiskade,1,,,7602CV,Almelo,Almelo,Overijssel,LIG,6.644932,52.363855
+Slachthuiskade,3,,,7602CV,Almelo,Almelo,Overijssel,LIG,6.642820,52.365414
 Slachthuiskade,8,b,,7602CV,Almelo,Almelo,Overijssel,VBO,6.644766,52.363593
 Slachthuiskade,16,,,7602CV,Almelo,Almelo,Overijssel,VBO,6.641679,52.365028
 Slachthuiskade,18,,,7602CV,Almelo,Almelo,Overijssel,VBO,6.642074,52.365464
@@ -993,6 +994,7 @@ Haven Noordzijde,89,c,,7602EG,Almelo,Almelo,Overijssel,VBO,6.650402,52.361430
 Haven Noordzijde,89,,,7602EG,Almelo,Almelo,Overijssel,VBO,6.651070,52.361189
 Haven Noordzijde,91,,,7602EG,Almelo,Almelo,Overijssel,VBO,6.650330,52.361512
 Haven Noordzijde,93,,,7602EG,Almelo,Almelo,Overijssel,VBO,6.650243,52.361530
+Haven Noordzijde,94,,,7602EG,Almelo,Almelo,Overijssel,LIG,6.648921,52.361805
 Haven Noordzijde,95,,,7602EG,Almelo,Almelo,Overijssel,VBO,6.650171,52.361567
 Haven Noordzijde,97,,,7602EG,Almelo,Almelo,Overijssel,VBO,6.650038,52.361569
 Haven Noordzijde,99,,,7602EG,Almelo,Almelo,Overijssel,VBO,6.649923,52.361624
@@ -1335,7 +1337,7 @@ Tijhofslaan,68,,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.665955,52.367735
 Tijhofslaan,70,,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.666031,52.367797
 Tijhofslaan,72,,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.666091,52.367850
 Tijhofslaan,74,a,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.666166,52.367894
-Tijhofslaan,74,,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.666151,52.367885
+Tijhofslaan,74,,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.666201,52.367871
 Tijhofslaan,76,,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.666211,52.367947
 Tijhofslaan,78,,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.666256,52.367983
 Tijhofslaan,80,,,7602HJ,Almelo,Almelo,Overijssel,VBO,6.666302,52.368027
@@ -1626,6 +1628,79 @@ Ootmarsumsestraat,89,e,,7602JS,Almelo,Almelo,Overijssel,VBO,6.669932,52.364096
 Ootmarsumsestraat,89,f,,7602JS,Almelo,Almelo,Overijssel,VBO,6.670153,52.364112
 Ootmarsumsestraat,89,g,,7602JS,Almelo,Almelo,Overijssel,VBO,6.670242,52.364147
 Ootmarsumsestraat,89,,,7602JS,Almelo,Almelo,Overijssel,VBO,6.669197,52.364059
+Roskamstraat,6,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669734,52.365847
+Roskamstraat,8,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668820,52.365884
+Roskamstraat,10,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668748,52.365674
+Roskamstraat,12,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668718,52.365906
+Roskamstraat,14,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668638,52.365683
+Roskamstraat,16,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668608,52.365922
+Roskamstraat,18,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668527,52.365689
+Roskamstraat,20,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668681,52.365448
+Roskamstraat,22,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668635,52.365265
+Roskamstraat,24,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668580,52.365469
+Roskamstraat,26,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668517,52.365287
+Roskamstraat,28,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668461,52.365488
+Roskamstraat,30,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668407,52.365298
+Roskamstraat,32,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668659,52.364998
+Roskamstraat,34,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668627,52.365061
+Roskamstraat,36,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668492,52.365037
+Roskamstraat,38,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668521,52.364977
+Roskamstraat,40,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668633,52.364823
+Roskamstraat,42,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668684,52.364771
+Roskamstraat,44,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668816,52.364811
+Roskamstraat,46,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668762,52.364872
+Roskamstraat,48,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668623,52.364991
+Roskamstraat,50,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668598,52.365055
+Roskamstraat,52,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668457,52.365032
+Roskamstraat,54,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668488,52.364973
+Roskamstraat,56,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668599,52.364814
+Roskamstraat,58,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668651,52.364763
+Roskamstraat,60,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668791,52.364804
+Roskamstraat,62,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668734,52.364866
+Roskamstraat,64,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668593,52.364987
+Roskamstraat,66,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668568,52.365050
+Roskamstraat,68,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668420,52.365027
+Roskamstraat,70,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668449,52.364969
+Roskamstraat,72,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668567,52.364806
+Roskamstraat,74,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668622,52.364755
+Roskamstraat,76,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668762,52.364795
+Roskamstraat,78,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668704,52.364857
+Roskamstraat,80,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668566,52.364983
+Roskamstraat,82,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668540,52.365045
+Roskamstraat,84,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668386,52.365021
+Roskamstraat,86,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668421,52.364965
+Roskamstraat,88,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668535,52.364798
+Roskamstraat,90,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668591,52.364746
+Roskamstraat,92,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668732,52.364785
+Roskamstraat,94,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668676,52.364847
+Roskamstraat,96,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669146,52.364684
+Roskamstraat,98,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669025,52.364709
+Roskamstraat,100,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668981,52.364622
+Roskamstraat,102,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669095,52.364601
+Roskamstraat,104,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669332,52.364559
+Roskamstraat,106,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669447,52.364551
+Roskamstraat,108,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669469,52.364648
+Roskamstraat,110,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669343,52.364659
+Roskamstraat,112,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669134,52.364665
+Roskamstraat,114,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669016,52.364689
+Roskamstraat,116,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668966,52.364604
+Roskamstraat,118,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669083,52.364583
+Roskamstraat,120,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669325,52.364537
+Roskamstraat,122,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669441,52.364531
+Roskamstraat,124,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669464,52.364629
+Roskamstraat,126,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669337,52.364638
+Roskamstraat,128,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669123,52.364646
+Roskamstraat,130,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669003,52.364668
+Roskamstraat,132,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668952,52.364586
+Roskamstraat,134,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669075,52.364566
+Roskamstraat,136,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669321,52.364513
+Roskamstraat,138,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669437,52.364507
+Roskamstraat,140,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669460,52.364607
+Roskamstraat,142,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669333,52.364614
+Roskamstraat,144,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669115,52.364628
+Roskamstraat,146,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668993,52.364649
+Roskamstraat,148,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.668941,52.364565
+Roskamstraat,150,,,7602JT,Almelo,Almelo,Overijssel,VBO,6.669063,52.364545
 Ootmarsumsestraat,91,,,7602JW,Almelo,Almelo,Overijssel,VBO,6.670479,52.364198
 Ootmarsumsestraat,93,,,7602JW,Almelo,Almelo,Overijssel,VBO,6.670569,52.364269
 Ootmarsumsestraat,95,a,,7602JW,Almelo,Almelo,Overijssel,VBO,6.670846,52.364423
@@ -1827,7 +1902,7 @@ Bedrijvenpark Twente,122,,,7602KE,Almelo,Almelo,Overijssel,VBO,6.615607,52.37791
 Bedrijvenpark Twente,123,,,7602KE,Almelo,Almelo,Overijssel,VBO,6.617838,52.376820
 Bedrijvenpark Twente,125,,,7602KE,Almelo,Almelo,Overijssel,VBO,6.616156,52.377592
 Bedrijvenpark Twente,127,,,7602KE,Almelo,Almelo,Overijssel,VBO,6.617150,52.377959
-Bedrijvenpark Twente,129,,,7602KE,Almelo,Almelo,Overijssel,VBO,6.618095,52.378678
+Bedrijvenpark Twente,129,,,7602KE,Almelo,Almelo,Overijssel,VBO,6.618304,52.378751
 Bedrijvenpark Twente,133,,,7602KE,Almelo,Almelo,Overijssel,VBO,6.619239,52.379124
 Bedrijvenpark Twente,138,a,,7602KE,Almelo,Almelo,Overijssel,VBO,6.620796,52.378828
 Bedrijvenpark Twente,138,b,,7602KE,Almelo,Almelo,Overijssel,VBO,6.620610,52.378735
@@ -1936,6 +2011,7 @@ Bedrijvenpark Twente,315,D,A01,7602KL,Almelo,Almelo,Overijssel,VBO,6.614050,52.3
 Bedrijvenpark Twente,315,D,A02,7602KL,Almelo,Almelo,Overijssel,VBO,6.612878,52.372422
 Bedrijvenpark Twente,315,D,A03,7602KL,Almelo,Almelo,Overijssel,VBO,6.614252,52.373016
 Bedrijvenpark Twente,315,D,A04,7602KL,Almelo,Almelo,Overijssel,VBO,6.615473,52.372146
+Bedrijvenpark Twente,315,D,A05,7602KL,Almelo,Almelo,Overijssel,VBO,6.615290,52.374246
 Bedrijvenpark Twente,315,D,A06,7602KL,Almelo,Almelo,Overijssel,VBO,6.616552,52.374842
 Bedrijvenpark Twente,315,D,A07,7602KL,Almelo,Almelo,Overijssel,VBO,6.613513,52.375545
 Bedrijvenpark Twente,315,D,A08,7602KL,Almelo,Almelo,Overijssel,VBO,6.614740,52.376186
@@ -2024,16 +2100,18 @@ Bedrijvenpark Twente,451,,,7602KM,Almelo,Almelo,Overijssel,VBO,6.607217,52.38047
 Bedrijvenpark Twente,454,,,7602KM,Almelo,Almelo,Overijssel,VBO,6.609339,52.380719
 Bedrijvenpark Twente Noord,83,,,7602KS,Almelo,Almelo,Overijssel,VBO,6.606531,52.386241
 Turfkade,1,,,7602PA,Almelo,Almelo,Overijssel,VBO,6.646800,52.363356
+Turfkade,3,,,7602PA,Almelo,Almelo,Overijssel,VBO,6.646445,52.363624
 Turfkade,9,,,7602PA,Almelo,Almelo,Overijssel,VBO,6.644721,52.365607
 Turfkade,13,,,7602PA,Almelo,Almelo,Overijssel,VBO,6.643295,52.366593
 Turfkade,15,,,7602PA,Almelo,Almelo,Overijssel,VBO,6.642535,52.367230
 Turfkade,17,,,7602PA,Almelo,Almelo,Overijssel,VBO,6.642254,52.367338
 Turfkade,27,a,,7602PB,Almelo,Almelo,Overijssel,VBO,6.641677,52.368066
-Turfkade,29,,traf,7602PB,Almelo,Almelo,Overijssel,VBO,6.641314,52.367982
 Turfkade,29,,traf,7602PB,Almelo,Almelo,Overijssel,VBO,6.641255,52.368188
+Turfkade,29,,traf,7602PB,Almelo,Almelo,Overijssel,VBO,6.641314,52.367982
 Van Weerden Poelmanweg,1,a,,7602PC,Almelo,Almelo,Overijssel,VBO,6.649433,52.373296
 Van Weerden Poelmanweg,1,b,,7602PC,Almelo,Almelo,Overijssel,VBO,6.648785,52.373779
-Van Weerden Poelmanweg,1,,,7602PC,Almelo,Almelo,Overijssel,VBO,6.649116,52.373542
+Van Weerden Poelmanweg,1,c,,7602PC,Almelo,Almelo,Overijssel,VBO,6.648947,52.373629
+Van Weerden Poelmanweg,1,,,7602PC,Almelo,Almelo,Overijssel,VBO,6.649269,52.373413
 Van Weerden Poelmanweg,2,,,7602PC,Almelo,Almelo,Overijssel,VBO,6.648508,52.373333
 Van Weerden Poelmanweg,3,,,7602PC,Almelo,Almelo,Overijssel,VBO,6.648156,52.374361
 Van Weerden Poelmanweg,4,,,7602PC,Almelo,Almelo,Overijssel,VBO,6.646873,52.374186
@@ -2096,6 +2174,7 @@ Bleskolksingel,3,b,,7602PE,Almelo,Almelo,Overijssel,VBO,6.651110,52.372901
 Bleskolksingel,3,,,7602PE,Almelo,Almelo,Overijssel,VBO,6.650811,52.373236
 Bleskolksingel,5,,,7602PE,Almelo,Almelo,Overijssel,VBO,6.651586,52.373606
 Bleskolksingel,7,,,7602PE,Almelo,Almelo,Overijssel,VBO,6.653786,52.374108
+Plesmanweg,2,,,7602PE,Almelo,Almelo,Overijssel,VBO,6.644721,52.365607
 Plesmanweg,6,,,7602PE,Almelo,Almelo,Overijssel,VBO,6.645437,52.368593
 Plesmanweg,12,,,7602PE,Almelo,Almelo,Overijssel,VBO,6.642097,52.370435
 Plesmanweg,14,,,7602PE,Almelo,Almelo,Overijssel,VBO,6.641703,52.371059
@@ -2154,6 +2233,7 @@ Van Riemsdijkweg,9,a,,7602PL,Almelo,Almelo,Overijssel,VBO,6.653249,52.368599
 Van Riemsdijkweg,9,,,7602PL,Almelo,Almelo,Overijssel,VBO,6.652422,52.368419
 Kloosterweg,2,a,,7602PM,Almelo,Almelo,Overijssel,VBO,6.650968,52.369972
 Kloosterweg,4,a,,7602PM,Almelo,Almelo,Overijssel,VBO,6.654831,52.372070
+Kloosterweg,4,b,,7602PM,Almelo,Almelo,Overijssel,VBO,6.653824,52.371656
 Kloosterweg,4,b,,7602PM,Almelo,Almelo,Overijssel,VBO,6.653923,52.371639
 Kloosterweg,4,c,,7602PM,Almelo,Almelo,Overijssel,VBO,6.655460,52.372483
 Kloosterweg,4,,,7602PM,Almelo,Almelo,Overijssel,VBO,6.653325,52.371277
@@ -2377,6 +2457,13 @@ Virulyweg,25,,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648967,52.377571
 Virulyweg,27,a,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648704,52.377741
 Virulyweg,27,b,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648629,52.377847
 Virulyweg,27,,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648978,52.377975
+Virulyweg,29,a,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648414,52.377950
+Virulyweg,29,b,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648464,52.377969
+Virulyweg,29,c,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648860,52.378207
+Virulyweg,29,d,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648897,52.378232
+Virulyweg,29,e,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648772,52.378287
+Virulyweg,29,f,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648805,52.378302
+Virulyweg,29,h,,7602RG,Almelo,Almelo,Overijssel,VBO,6.648343,52.378039
 Virulyweg,30,,,7602RG,Almelo,Almelo,Overijssel,VBO,6.647931,52.377806
 Virulyweg,32,,,7602RG,Almelo,Almelo,Overijssel,VBO,6.647415,52.377740
 Virulyweg,34,,,7602RG,Almelo,Almelo,Overijssel,VBO,6.647011,52.377555
@@ -2403,6 +2490,7 @@ Virulyweg,43,f,,7602RG,Almelo,Almelo,Overijssel,VBO,6.646959,52.378248
 Virulyweg,43,g,,7602RG,Almelo,Almelo,Overijssel,VBO,6.646916,52.378285
 Virulyweg,43,h,,7602RG,Almelo,Almelo,Overijssel,VBO,6.646873,52.378321
 Virulyweg,45,,,7602RG,Almelo,Almelo,Overijssel,VBO,6.646864,52.378015
+Virulyweg,49,,,7602RG,Almelo,Almelo,Overijssel,VBO,6.646667,52.377760
 Aaboerlaan,41,,,7602RJ,Almelo,Almelo,Overijssel,VBO,6.658333,52.381774
 Aaboerlaan,42,,,7602RJ,Almelo,Almelo,Overijssel,VBO,6.658302,52.381774
 Aaboerlaan,43,,,7602RJ,Almelo,Almelo,Overijssel,VBO,6.658305,52.381767

@@ -19,7 +19,8 @@ Kalf,33,E,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.818360,52.467972
 Kalf,33,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.823802,52.468178
 Kalf,35,A,ROOD,1509AB,Zaandam,Zaanstad,Noord-Holland,LIG,4.823089,52.468678
 Kalf,35,B,ROOD,1509AB,Zaandam,Zaanstad,Noord-Holland,LIG,4.823435,52.468709
-Kalf,37,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.824869,52.468731
+Kalf,37,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.824319,52.468794
+Kalf,39,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.824897,52.468778
 Kalf,41,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.825015,52.468849
 Kalf,43,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.825074,52.468885
 Kalf,45,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.825161,52.468984
@@ -29,6 +30,7 @@ Kalf,53,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.825481,52.469246
 Kalf,57,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.825672,52.469301
 Kalf,59,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.825759,52.469383
 Kalf,61,,,1509AB,Zaandam,Zaanstad,Noord-Holland,VBO,4.826138,52.469654
+Kalf,63,,ROOD,1509AB,Zaandam,Zaanstad,Noord-Holland,LIG,4.826465,52.470017
 Kalf R,1,,ROOD,1509AC,Zaandam,Zaanstad,Noord-Holland,LIG,4.829954,52.470603
 Kalf R,2,,ROOD,1509AC,Zaandam,Zaanstad,Noord-Holland,LIG,4.830203,52.470638
 Kalf R,3,,ROOD,1509AC,Zaandam,Zaanstad,Noord-Holland,LIG,4.830431,52.470669
@@ -94,10 +96,10 @@ Kalf,60,D,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.822762,52.466627
 Kalf,60,E,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.822806,52.466672
 Kalf,60,F,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.822835,52.466717
 Kalf,60,,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.822707,52.466493
-Kalf,62,a,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.822949,52.466837
-Kalf,62,b,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.823026,52.466896
 Kalf,62,C,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.823112,52.466934
 Kalf,62,D,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.823141,52.466979
+Kalf,62,a,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.822949,52.466837
+Kalf,62,b,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.823026,52.466896
 Kalf,70,,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.823199,52.467043
 Kalf,72,,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.823213,52.467079
 Kalf,74,,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.823301,52.467097
@@ -116,12 +118,10 @@ Kalf,100,,,1509AE,Zaandam,Zaanstad,Noord-Holland,VBO,4.825004,52.468588
 Kalf,102,,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.825195,52.468616
 Kalf,110,,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.825616,52.469049
 Kalf,112,,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.825659,52.469112
-Kalf,112,,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.825659,52.469112
 Kalf,114,B,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.825820,52.469203
 Kalf,114,C,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.825893,52.469239
 Kalf,114,D,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.825952,52.469276
 Kalf,114,E,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.826024,52.469330
-Kalf,114,,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.825718,52.469158
 Kalf,116,,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.826142,52.469375
 Kalf,118,,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.826244,52.469403
 Kalf,120,B,,1509AG,Zaandam,Zaanstad,Noord-Holland,VBO,4.826420,52.469476
@@ -247,8 +247,8 @@ Kalf,160,,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.830341,52.470141
 Kalf,162,,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.830341,52.470150
 Kalf,164,,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.830322,52.470483
 Kalf,168,,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.830557,52.470502
-Kalf,170,a,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.830853,52.470404
 Kalf,170,B,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.830924,52.470557
+Kalf,170,a,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.830853,52.470404
 Kalf,170,,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.830748,52.470520
 Kalf,172,,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.831086,52.470576
 Kalf,174,,,1509BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.831247,52.470631
@@ -500,6 +500,7 @@ Haaldersbroek,5,,,1509BM,Zaandam,Zaanstad,Noord-Holland,VBO,4.828179,52.471156
 Haaldersbroek,7,,,1509BM,Zaandam,Zaanstad,Noord-Holland,VBO,4.827956,52.471388
 Haaldersbroek,9,B,,1509BM,Zaandam,Zaanstad,Noord-Holland,VBO,4.827852,52.471469
 Haaldersbroek,9,C,,1509BM,Zaandam,Zaanstad,Noord-Holland,VBO,4.827822,52.471504
+Haaldersbroek,9,,,1509BM,Zaandam,Zaanstad,Noord-Holland,VBO,4.827956,52.471388
 Haaldersbroek,11,,,1509BM,Zaandam,Zaanstad,Noord-Holland,VBO,4.827732,52.471657
 Haaldersbroek,13,,,1509BM,Zaandam,Zaanstad,Noord-Holland,VBO,4.827363,52.471682
 Haaldersbroek,15,,,1509BM,Zaandam,Zaanstad,Noord-Holland,VBO,4.827474,52.471940
@@ -1781,6 +1782,7 @@ Amstelmeer,3,,,1509JS,Zaandam,Zaanstad,Noord-Holland,VBO,4.839324,52.468746
 Amstelmeer,4,,,1509JS,Zaandam,Zaanstad,Noord-Holland,VBO,4.839387,52.468749
 Amstelmeer,5,,,1509JS,Zaandam,Zaanstad,Noord-Holland,VBO,4.839470,52.468764
 Amstelmeer,6,A,,1509JS,Zaandam,Zaanstad,Noord-Holland,VBO,4.839303,52.468970
+Amstelmeer,7,,,1509JS,Zaandam,Zaanstad,Noord-Holland,VBO,4.840117,52.469510
 Zwartemeer,1,,,1509JT,Zaandam,Zaanstad,Noord-Holland,VBO,4.838653,52.467725
 Zwartemeer,2,,,1509JT,Zaandam,Zaanstad,Noord-Holland,VBO,4.838724,52.467732
 Zwartemeer,3,,,1509JT,Zaandam,Zaanstad,Noord-Holland,VBO,4.838808,52.467737
@@ -2069,6 +2071,7 @@ Drielse Wetering,62,,,1509KP,Zaandam,Zaanstad,Noord-Holland,VBO,4.835564,52.4678
 Drielse Wetering,63,,,1509KP,Zaandam,Zaanstad,Noord-Holland,VBO,4.835564,52.467874
 Drielse Wetering,64,,,1509KR,Zaandam,Zaanstad,Noord-Holland,VBO,4.834955,52.468347
 Drielse Wetering,65,,,1509KR,Zaandam,Zaanstad,Noord-Holland,VBO,4.835058,52.468339
+Drielse Wetering,66,,,1509KR,Zaandam,Zaanstad,Noord-Holland,VBO,4.835323,52.468331
 Drielse Wetering,68,,,1509KR,Zaandam,Zaanstad,Noord-Holland,VBO,4.835323,52.468331
 Drielse Wetering,70,,,1509KR,Zaandam,Zaanstad,Noord-Holland,VBO,4.835470,52.468314
 Drielse Wetering,71,,,1509KR,Zaandam,Zaanstad,Noord-Holland,VBO,4.835529,52.468305

@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Noorderheide,1,,,1251AA,Laren,Laren,Noord-Holland,VBO,5.225271,52.272663
 Noorderheide,2,,,1251AA,Laren,Laren,Noord-Holland,VBO,5.225207,52.272427
 Noorderheide,3,,,1251AA,Laren,Laren,Noord-Holland,VBO,5.224533,52.272343
 Tafelbergweg,1,,,1251AB,Laren,Laren,Noord-Holland,VBO,5.223178,52.259615
@@ -44,6 +43,7 @@ Tafelbergweg,34,,,1251AG,Laren,Laren,Noord-Holland,VBO,5.226486,52.266118
 Tafelbergweg,36,,,1251AG,Laren,Laren,Noord-Holland,VBO,5.225850,52.265913
 Tafelbergweg,40,,,1251AG,Laren,Laren,Noord-Holland,VBO,5.226241,52.267086
 Tafelbergweg,42,,,1251AG,Laren,Laren,Noord-Holland,VBO,5.226276,52.267337
+Tafelbergweg,44,,,1251AG,Laren,Laren,Noord-Holland,VBO,5.226330,52.267650
 Tafelbergweg,44,,,1251AG,Laren,Laren,Noord-Holland,VBO,5.226287,52.267646
 Koloniepad,1,,,1251AH,Laren,Laren,Noord-Holland,VBO,5.228807,52.265950
 Koloniepad,3,a,,1251AH,Laren,Laren,Noord-Holland,VBO,5.228163,52.266374
@@ -88,7 +88,6 @@ Raboes,10,,,1251AL,Laren,Laren,Noord-Holland,VBO,5.224199,52.268968
 Raboes,12,a,,1251AL,Laren,Laren,Noord-Holland,VBO,5.223253,52.268787
 Raboes,12,,,1251AL,Laren,Laren,Noord-Holland,VBO,5.223624,52.268996
 Raboes,14,a,,1251AL,Laren,Laren,Noord-Holland,VBO,5.221970,52.268709
-Raboes,14,,,1251AL,Laren,Laren,Noord-Holland,VBO,5.222664,52.268700
 Raboes,14,,,1251AL,Laren,Laren,Noord-Holland,VBO,5.222599,52.268685
 Raboes,16,,,1251AL,Laren,Laren,Noord-Holland,VBO,5.219607,52.269386
 Raboes,18,,,1251AL,Laren,Laren,Noord-Holland,VBO,5.218985,52.268944
@@ -96,14 +95,18 @@ Leemzeulder,5,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.223203,52.263030
 Leemzeulder,7,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.222924,52.263384
 Leemzeulder,9,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.222666,52.263597
 Leemzeulder,11,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.222491,52.263810
-Leemzeulder,21,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218569,52.265243
-Leemzeulder,23,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218475,52.265191
-Leemzeulder,25,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218383,52.265140
-Leemzeulder,27,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218290,52.265089
-Leemzeulder,29,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218199,52.265039
-Leemzeulder,31,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218109,52.264991
-Leemzeulder,33,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218014,52.264936
-Leemzeulder,35,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.219608,52.266195
+Leemzeulder,17,a,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218571,52.265261
+Leemzeulder,17,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218490,52.265201
+Leemzeulder,19,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218389,52.265155
+Leemzeulder,21,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218294,52.265104
+Leemzeulder,23,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218207,52.265054
+Leemzeulder,25,a,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218007,52.264954
+Leemzeulder,25,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218105,52.265006
+Leemzeulder,27,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.220217,52.266373
+Leemzeulder,29,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.219651,52.266170
+Leemzeulder,31,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.219134,52.265892
+Leemzeulder,33,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.218214,52.265905
+Leemzeulder,35,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.217551,52.265715
 Leemzeulder,37,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.217456,52.265983
 Leemzeulder,39,,,1251AM,Laren,Laren,Noord-Holland,VBO,5.217347,52.265955
 Leemzeulder,2,a,,1251AN,Laren,Laren,Noord-Holland,VBO,5.223752,52.263365
@@ -163,6 +166,8 @@ Wally Moesweg,14,,,1251AT,Laren,Laren,Noord-Holland,VBO,5.224699,52.261442
 Wally Moesweg,16,,,1251AT,Laren,Laren,Noord-Holland,VBO,5.224432,52.261511
 Wally Moesweg,18,,,1251AT,Laren,Laren,Noord-Holland,VBO,5.222519,52.261605
 Amersfoortsestraatweg,113,,,1251AV,Laren,Laren,Noord-Holland,VBO,5.204843,52.265786
+Amersfoortsestraatweg,115,,,1251AV,Laren,Laren,Noord-Holland,VBO,5.201715,52.261912
+Amersfoortsestraatweg,117,,,1251AV,Laren,Laren,Noord-Holland,VBO,5.202703,52.262829
 Naarderstraat,1,a,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223542,52.256911
 Naarderstraat,1,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223782,52.256916
 Naarderstraat,3,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223359,52.257035
@@ -173,16 +178,16 @@ Naarderstraat,7,c,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223076,52.257626
 Naarderstraat,7,d,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223349,52.257703
 Naarderstraat,7,,BOV,1251AW,Laren,Laren,Noord-Holland,VBO,5.223388,52.257705
 Naarderstraat,7,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223349,52.257703
-Naarderstraat,9,a,,1251AW,Laren,Laren,Noord-Holland,VBO,5.222836,52.257863
 Naarderstraat,9,,ged,1251AW,Laren,Laren,Noord-Holland,VBO,5.222960,52.257816
 Naarderstraat,9,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223353,52.257834
-Naarderstraat,11,a,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223315,52.257961
-Naarderstraat,11,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223270,52.257926
-Naarderstraat,13,a,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223335,52.257914
-Naarderstraat,13,b,,1251AW,Laren,Laren,Noord-Holland,VBO,5.222901,52.257931
-Naarderstraat,13,,Acht,1251AW,Laren,Laren,Noord-Holland,VBO,5.223244,52.257936
-Naarderstraat,13,,Voor,1251AW,Laren,Laren,Noord-Holland,VBO,5.223248,52.257936
-Naarderstraat,13,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223345,52.257949
+Naarderstraat,11,a,,1251AW,Laren,Laren,Noord-Holland,VBO,5.222871,52.257866
+Naarderstraat,11,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.222871,52.257834
+Naarderstraat,13,a,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223216,52.257944
+Naarderstraat,13,b,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223331,52.257956
+Naarderstraat,13,c,,1251AW,Laren,Laren,Noord-Holland,VBO,5.222898,52.257954
+Naarderstraat,13,d,,1251AW,Laren,Laren,Noord-Holland,VBO,5.222894,52.257918
+Naarderstraat,13,e,,1251AW,Laren,Laren,Noord-Holland,VBO,5.222812,52.257922
+Naarderstraat,13,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223340,52.257929
 Naarderstraat,9006,,,1251AW,Laren,Laren,Noord-Holland,VBO,5.223070,52.257863
 Naarderstraat,15,a,,1251AX,Laren,Laren,Noord-Holland,VBO,5.223290,52.258078
 Naarderstraat,15,,,1251AX,Laren,Laren,Noord-Holland,VBO,5.223325,52.257996
@@ -204,7 +209,9 @@ Naarderstraat,23,,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223170,52.258474
 Naarderstraat,25,a,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223152,52.258529
 Naarderstraat,25,,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223241,52.258533
 Naarderstraat,27,,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223179,52.258581
-Naarderstraat,29,,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223174,52.258624
+Naarderstraat,29,a,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223166,52.258641
+Naarderstraat,29,b,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223102,52.258631
+Naarderstraat,29,,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223223,52.258638
 Naarderstraat,31,a,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223162,52.258706
 Naarderstraat,31,b,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223045,52.258715
 Naarderstraat,31,c,,1251AZ,Laren,Laren,Noord-Holland,VBO,5.223248,52.258736
@@ -430,7 +437,6 @@ Cornelis Bakkerlaan,40,,,1251BR,Laren,Laren,Noord-Holland,VBO,5.223699,52.258226
 Oude Drift,1,,,1251BS,Laren,Laren,Noord-Holland,VBO,5.221566,52.259383
 Oude Drift,2,,,1251BS,Laren,Laren,Noord-Holland,VBO,5.221275,52.259770
 Oude Drift,3,,,1251BS,Laren,Laren,Noord-Holland,VBO,5.220763,52.259356
-Hein Keverweg,1,,,1251BT,Laren,Laren,Noord-Holland,VBO,5.220520,52.258896
 Hein Keverweg,3,,,1251BT,Laren,Laren,Noord-Holland,VBO,5.220900,52.259177
 Hein Keverweg,5,,,1251BT,Laren,Laren,Noord-Holland,VBO,5.220721,52.259626
 Hein Keverweg,7,,,1251BT,Laren,Laren,Noord-Holland,VBO,5.220604,52.259817
@@ -553,6 +559,9 @@ Steenbergen,5,,,1251CL,Laren,Laren,Noord-Holland,VBO,5.212300,52.257771
 Steenbergen,6,,,1251CL,Laren,Laren,Noord-Holland,VBO,5.211255,52.258238
 Steenbergen,8,,,1251CL,Laren,Laren,Noord-Holland,VBO,5.211522,52.258307
 Steenbergen,10,,,1251CL,Laren,Laren,Noord-Holland,VBO,5.211500,52.256960
+Werkdroger,1,b,,1251CM,Laren,Laren,Noord-Holland,VBO,5.218279,52.256907
+Werkdroger,1,c,,1251CM,Laren,Laren,Noord-Holland,VBO,5.218404,52.256860
+Werkdroger,1,d,,1251CM,Laren,Laren,Noord-Holland,VBO,5.218279,52.256874
 Werkdroger,1,,01,1251CM,Laren,Laren,Noord-Holland,VBO,5.217043,52.257766
 Werkdroger,1,,02,1251CM,Laren,Laren,Noord-Holland,VBO,5.217043,52.257766
 Werkdroger,1,,03,1251CM,Laren,Laren,Noord-Holland,VBO,5.217043,52.257766
@@ -648,7 +657,7 @@ Van Wulfenlaan,6,b,,1251CW,Laren,Laren,Noord-Holland,VBO,5.218791,52.253523
 Van Wulfenlaan,6,,,1251CW,Laren,Laren,Noord-Holland,VBO,5.219133,52.253489
 Van Wulfenlaan,8,a,,1251CW,Laren,Laren,Noord-Holland,VBO,5.218175,52.253656
 Van Wulfenlaan,8,b,,1251CW,Laren,Laren,Noord-Holland,VBO,5.217905,52.253682
-Van Wulfenlaan,8,,bis,1251CW,Laren,Laren,Noord-Holland,VBO,5.218507,52.253734
+Van Wulfenlaan,8,,bis,1251CW,Laren,Laren,Noord-Holland,VBO,5.218476,52.253716
 Van Wulfenlaan,8,,,1251CW,Laren,Laren,Noord-Holland,VBO,5.218605,52.253639
 Van Wulfenlaan,10,a,,1251CW,Laren,Laren,Noord-Holland,VBO,5.217224,52.253680
 Van Wulfenlaan,10,,,1251CW,Laren,Laren,Noord-Holland,VBO,5.217587,52.253619
@@ -807,7 +816,6 @@ Hoefloo,12,,,1251EB,Laren,Laren,Noord-Holland,VBO,5.214802,52.254145
 Hoefloo,14,,,1251EB,Laren,Laren,Noord-Holland,VBO,5.214402,52.254093
 Hoefloo,16,,,1251EB,Laren,Laren,Noord-Holland,VBO,5.214049,52.253880
 Hoefloo,18,,,1251EB,Laren,Laren,Noord-Holland,VBO,5.213462,52.254105
-Hoefloo,20,a,,1251EB,Laren,Laren,Noord-Holland,VBO,5.212624,52.254566
 Hoefloo,20,,,1251EB,Laren,Laren,Noord-Holland,VBO,5.213186,52.253822
 Hoefloo,22,a,,1251EB,Laren,Laren,Noord-Holland,VBO,5.212036,52.253958
 Hoefloo,22,,,1251EB,Laren,Laren,Noord-Holland,VBO,5.212476,52.253842
@@ -836,7 +844,7 @@ Grintbank,3,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.208078,52.255260
 Grintbank,5,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.207601,52.255175
 Grintbank,6,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.208059,52.255955
 Grintbank,7,a,,1251EE,Laren,Laren,Noord-Holland,VBO,5.206635,52.255020
-Grintbank,7,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.206133,52.255085
+Grintbank,7,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.206984,52.255139
 Grintbank,8,,bij,1251EE,Laren,Laren,Noord-Holland,VBO,5.207453,52.255809
 Grintbank,8,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.207413,52.255908
 Grintbank,9,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.205931,52.254965
@@ -845,7 +853,6 @@ Grintbank,11,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.205502,52.254797
 Grintbank,12,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.206231,52.255819
 Grintbank,14,a,,1251EE,Laren,Laren,Noord-Holland,VBO,5.204593,52.256008
 Grintbank,14,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.205296,52.255710
-Grintbank,14,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.205163,52.255598
 Grintbank,16,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.204081,52.255590
 Grintbank,18,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.204049,52.255295
 Grintbank,20,,,1251EE,Laren,Laren,Noord-Holland,VBO,5.203680,52.255891
@@ -854,6 +861,7 @@ Verlengde Houtweg,4,,,1251EG,Laren,Laren,Noord-Holland,VBO,5.208135,52.254994
 Verlengde Houtweg,5,,,1251EG,Laren,Laren,Noord-Holland,VBO,5.208621,52.254379
 Verlengde Houtweg,6,,,1251EG,Laren,Laren,Noord-Holland,VBO,5.207776,52.254778
 Verlengde Houtweg,7,,,1251EG,Laren,Laren,Noord-Holland,VBO,5.208077,52.254065
+Verlengde Houtweg,8,,,1251EG,Laren,Laren,Noord-Holland,VBO,5.207229,52.254590
 Verlengde Houtweg,10,,,1251EG,Laren,Laren,Noord-Holland,VBO,5.206151,52.254249
 Hart Nibbriglaan,2,,,1251EH,Laren,Laren,Noord-Holland,VBO,5.207392,52.252055
 Hart Nibbriglaan,4,,,1251EH,Laren,Laren,Noord-Holland,VBO,5.207235,52.251801
@@ -1117,8 +1125,8 @@ Noolseweg,32,,,1251GP,Laren,Laren,Noord-Holland,VBO,5.227750,52.264447
 Noolseweg,34,,,1251GP,Laren,Laren,Noord-Holland,VBO,5.227863,52.264682
 Noolseweg,36,,,1251GP,Laren,Laren,Noord-Holland,VBO,5.228376,52.265010
 Noolseweg,38,,,1251GP,Laren,Laren,Noord-Holland,VBO,5.228734,52.265115
-Noolseweg,40,,,1251GP,Laren,Laren,Noord-Holland,VBO,5.229003,52.265270
 Noolseweg,40,,,1251GP,Laren,Laren,Noord-Holland,VBO,5.228947,52.265310
+Noolseweg,40,,,1251GP,Laren,Laren,Noord-Holland,VBO,5.229003,52.265270
 Noolseweg,42,,,1251GP,Laren,Laren,Noord-Holland,VBO,5.229299,52.265454
 Standelkruid,1,a,,1251GR,Laren,Laren,Noord-Holland,VBO,5.228154,52.263278
 Standelkruid,2,,,1251GR,Laren,Laren,Noord-Holland,VBO,5.228251,52.263554
@@ -1593,7 +1601,6 @@ Lingenskamp,49,,nst,1251JJ,Laren,Laren,Noord-Holland,VBO,5.232729,52.259924
 Lingenskamp,49,,,1251JJ,Laren,Laren,Noord-Holland,VBO,5.232904,52.259969
 Lingenskamp,51,,,1251JJ,Laren,Laren,Noord-Holland,VBO,5.233758,52.260174
 Lingenskamp,2,,,1251JK,Laren,Laren,Noord-Holland,VBO,5.228527,52.258982
-Lingenskamp,2,,,1251JK,Laren,Laren,Noord-Holland,VBO,5.228533,52.259031
 Lingenskamp,4,,,1251JK,Laren,Laren,Noord-Holland,VBO,5.228878,52.258989
 Lingenskamp,6,,,1251JK,Laren,Laren,Noord-Holland,VBO,5.228976,52.258983
 Lingenskamp,8,,,1251JK,Laren,Laren,Noord-Holland,VBO,5.229233,52.258958
@@ -1862,7 +1869,6 @@ Velthuijsenlaan,4,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.220734,52.254281
 Velthuijsenlaan,6,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.220347,52.254234
 Velthuijsenlaan,8,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.220228,52.254244
 Velthuijsenlaan,10,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.219983,52.254280
-Velthuijsenlaan,12,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.219750,52.254315
 Velthuijsenlaan,12,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.219783,52.254293
 Velthuijsenlaan,14,a,,1251KL,Laren,Laren,Noord-Holland,VBO,5.219448,52.254338
 Velthuijsenlaan,14,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.219552,52.254328
@@ -1870,6 +1876,7 @@ Velthuijsenlaan,16,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.219101,52.254402
 Velthuijsenlaan,18,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.218815,52.254431
 Velthuijsenlaan,20,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.218707,52.254442
 Velthuijsenlaan,22,,,1251KL,Laren,Laren,Noord-Holland,VBO,5.218208,52.254412
+Klaaskampen,1,a,,1251KM,Laren,Laren,Noord-Holland,VBO,5.223961,52.256248
 Klaaskampen,1,b,,1251KM,Laren,Laren,Noord-Holland,VBO,5.223921,52.256168
 Klaaskampen,1,,,1251KM,Laren,Laren,Noord-Holland,VBO,5.223928,52.256384
 Klaaskampen,3,,,1251KM,Laren,Laren,Noord-Holland,VBO,5.224000,52.255983
@@ -1959,8 +1966,8 @@ Brink,33,,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226694,52.256001
 Brink,35,,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226795,52.255856
 Brink,37,a,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226992,52.255730
 Brink,37,,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226674,52.255624
-Brink,39,a,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226743,52.255603
 Brink,39,a,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226757,52.255585
+Brink,39,a,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226743,52.255603
 Brink,39,,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226707,52.255571
 Brink,41,,BOV,1251KT,Laren,Laren,Noord-Holland,VBO,5.226684,52.255542
 Brink,41,,,1251KT,Laren,Laren,Noord-Holland,VBO,5.226747,52.255557
@@ -2126,11 +2133,9 @@ Nieuweweg,3,,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225826,52.255555
 Nieuweweg,5,,VOOR,1251LG,Laren,Laren,Noord-Holland,VBO,5.225765,52.255456
 Nieuweweg,5,,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225745,52.255512
 Nieuweweg,7,,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225730,52.255540
-Nieuweweg,11,a,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225616,52.255394
-Nieuweweg,11,b,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225502,52.255380
-Nieuweweg,11,c,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225590,52.255467
-Nieuweweg,11,,won,1251LG,Laren,Laren,Noord-Holland,VBO,5.225705,52.255328
-Nieuweweg,11,,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225590,52.255467
+Nieuweweg,11,a,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225576,52.255433
+Nieuweweg,11,b,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225460,52.255429
+Nieuweweg,11,,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225694,52.255314
 Nieuweweg,13,,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225319,52.255383
 Nieuweweg,15,a,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225162,52.255406
 Nieuweweg,15,,,1251LG,Laren,Laren,Noord-Holland,VBO,5.225152,52.255420
@@ -2295,7 +2300,7 @@ Molenweg,7,,,1251LR,Laren,Laren,Noord-Holland,VBO,5.221737,52.254642
 Molenweg,9,,,1251LR,Laren,Laren,Noord-Holland,VBO,5.221708,52.254524
 Molenweg,11,,,1251LR,Laren,Laren,Noord-Holland,VBO,5.221706,52.254440
 Molenweg,13,,,1251LR,Laren,Laren,Noord-Holland,VBO,5.221681,52.254347
-Molenweg,15,a,,1251LR,Laren,Laren,Noord-Holland,VBO,5.222029,52.254112
+Molenweg,15,a,,1251LR,Laren,Laren,Noord-Holland,VBO,5.222029,52.254058
 Molenweg,17,a,,1251LR,Laren,Laren,Noord-Holland,VBO,5.222078,52.253886
 Molenweg,17,,,1251LR,Laren,Laren,Noord-Holland,VBO,5.222098,52.253967
 Molenweg,19,,,1251LR,Laren,Laren,Noord-Holland,VBO,5.222217,52.253778
@@ -2323,8 +2328,8 @@ Molenweg,2,b,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221534,52.254074
 Molenweg,2,,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221383,52.254563
 Molenweg,4,,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221655,52.253886
 Molenweg,6,,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221766,52.253622
-Molenweg,8,a,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221553,52.253484
 Molenweg,8,a,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221762,52.253439
+Molenweg,8,a,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221553,52.253484
 Molenweg,8,b,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221553,52.253484
 Molenweg,8,b,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221613,52.253520
 Molenweg,8,c,,1251LT,Laren,Laren,Noord-Holland,VBO,5.221598,52.253455
@@ -2362,7 +2367,7 @@ Molenaar,19,,,1251LV,Laren,Laren,Noord-Holland,VBO,5.222282,52.254049
 Molenaar,20,,,1251LV,Laren,Laren,Noord-Holland,VBO,5.222045,52.254416
 Molenaar,21,a,,1251LV,Laren,Laren,Noord-Holland,VBO,5.222198,52.254067
 Molenaar,21,,,1251LV,Laren,Laren,Noord-Holland,VBO,5.222154,52.254112
-Molenaar,23,,,1251LV,Laren,Laren,Noord-Holland,VBO,5.222112,52.254069
+Molenaar,23,,,1251LV,Laren,Laren,Noord-Holland,VBO,5.222054,52.254137
 Neuhuijsweg,1,a,,1251LW,Laren,Laren,Noord-Holland,VBO,5.222817,52.252602
 Neuhuijsweg,1,,,1251LW,Laren,Laren,Noord-Holland,VBO,5.222759,52.252783
 Neuhuijsweg,2,a,,1251LW,Laren,Laren,Noord-Holland,VBO,5.222000,52.252801
@@ -2437,42 +2442,10 @@ Pastoor Hendrikspark,43,,,1251MB,Laren,Laren,Noord-Holland,VBO,5.230825,52.25475
 Pastoor Hendrikspark,45,,,1251MB,Laren,Laren,Noord-Holland,VBO,5.230804,52.254798
 Pastoor Hendrikspark,47,,,1251MB,Laren,Laren,Noord-Holland,VBO,5.230816,52.254784
 Pastoor Hendrikspark,49,,,1251MB,Laren,Laren,Noord-Holland,VBO,5.230823,52.254664
-Pastoor Hendrikspark,51,,1,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,10,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,11,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,12,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,13,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,14,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,15,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,16,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,17,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,18,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,19,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,2,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,20,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,21,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,22,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,23,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,24,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,25,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,26,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,27,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,28,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,29,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,3,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,30,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,31,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,32,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,33,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,34,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,35,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,4,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,5,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,6,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,7,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,8,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,9,1251MC,Laren,Laren,Noord-Holland,VBO,5.231817,52.255057
-Pastoor Hendrikspark,51,,,1251MC,Laren,Laren,Noord-Holland,VBO,5.231807,52.255044
+Pastoor Hendrikspark,51,a,,1251MC,Laren,Laren,Noord-Holland,VBO,5.231703,52.255141
+Pastoor Hendrikspark,51,b,,1251MC,Laren,Laren,Noord-Holland,VBO,5.231794,52.255147
+Pastoor Hendrikspark,51,c,,1251MC,Laren,Laren,Noord-Holland,VBO,5.231750,52.254832
+Pastoor Hendrikspark,51,,,1251MC,Laren,Laren,Noord-Holland,VBO,5.231723,52.255055
 Pastoor Hendrikspark,55,,,1251MC,Laren,Laren,Noord-Holland,VBO,5.232348,52.255003
 Pastoor Hendrikspark,57,,,1251MC,Laren,Laren,Noord-Holland,VBO,5.232481,52.254668
 Pastoor Hendrikspark,59,,,1251MC,Laren,Laren,Noord-Holland,VBO,5.232385,52.254757
@@ -2590,7 +2563,7 @@ Eemnesserweg,15,a,,1251NA,Laren,Laren,Noord-Holland,VBO,5.228752,52.256144
 Eemnesserweg,15,,,1251NA,Laren,Laren,Noord-Holland,VBO,5.228754,52.256085
 Eemnesserweg,17,b,,1251NA,Laren,Laren,Noord-Holland,VBO,5.229250,52.255955
 Eemnesserweg,17,,,1251NA,Laren,Laren,Noord-Holland,VBO,5.229227,52.255860
-Eemnesserweg,19,a,,1251NA,Laren,Laren,Noord-Holland,VBO,5.229615,52.256316
+Eemnesserweg,19,a,,1251NA,Laren,Laren,Noord-Holland,VBO,5.229619,52.255882
 Eemnesserweg,19,b,,1251NA,Laren,Laren,Noord-Holland,VBO,5.229676,52.256321
 Eemnesserweg,19,c,,1251NA,Laren,Laren,Noord-Holland,VBO,5.229674,52.255849
 Eemnesserweg,19,d,,1251NA,Laren,Laren,Noord-Holland,VBO,5.229737,52.256323
@@ -2651,7 +2624,20 @@ Eemnesserweg,34,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.233030,52.255535
 Eemnesserweg,36,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.233135,52.255526
 Eemnesserweg,38,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.233246,52.255513
 Eemnesserweg,40,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.233364,52.255501
-Eemnesserweg,42,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.233476,52.255197
+Eemnesserweg,42,,k101,1251ND,Laren,Laren,Noord-Holland,VBO,5.234088,52.255173
+Eemnesserweg,42,,k128,1251ND,Laren,Laren,Noord-Holland,VBO,5.234072,52.255013
+Eemnesserweg,42,,k129,1251ND,Laren,Laren,Noord-Holland,VBO,5.234140,52.255010
+Eemnesserweg,42,,k130,1251ND,Laren,Laren,Noord-Holland,VBO,5.234030,52.254921
+Eemnesserweg,42,,k131,1251ND,Laren,Laren,Noord-Holland,VBO,5.234115,52.254915
+Eemnesserweg,42,,k201,1251ND,Laren,Laren,Noord-Holland,VBO,5.234080,52.255146
+Eemnesserweg,42,,k228,1251ND,Laren,Laren,Noord-Holland,VBO,5.234101,52.255004
+Eemnesserweg,42,,k229,1251ND,Laren,Laren,Noord-Holland,VBO,5.234091,52.254967
+Eemnesserweg,42,,k230,1251ND,Laren,Laren,Noord-Holland,VBO,5.234080,52.254940
+Eemnesserweg,42,,k27,1251ND,Laren,Laren,Noord-Holland,VBO,5.234189,52.255003
+Eemnesserweg,42,,k28,1251ND,Laren,Laren,Noord-Holland,VBO,5.234023,52.255020
+Eemnesserweg,42,,k29,1251ND,Laren,Laren,Noord-Holland,VBO,5.234165,52.254907
+Eemnesserweg,42,,k30,1251ND,Laren,Laren,Noord-Holland,VBO,5.233990,52.254925
+Eemnesserweg,42,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.233675,52.255193
 Eemnesserweg,46,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.234409,52.255391
 Eemnesserweg,48,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.234589,52.255372
 Eemnesserweg,50,,,1251ND,Laren,Laren,Noord-Holland,VBO,5.234704,52.255321
@@ -2827,14 +2813,14 @@ Middelwaarde,11,,G06,1251NR,Laren,Laren,Noord-Holland,VBO,5.241357,52.254144
 Middelwaarde,11,,G07,1251NR,Laren,Laren,Noord-Holland,VBO,5.241308,52.254160
 Middelwaarde,11,,G08,1251NR,Laren,Laren,Noord-Holland,VBO,5.241259,52.254170
 Middelwaarde,11,,G09,1251NR,Laren,Laren,Noord-Holland,VBO,5.241231,52.254189
+Middelwaarde,11,,G11,1251NR,Laren,Laren,Noord-Holland,VBO,5.241686,52.254262
+Middelwaarde,11,,G12,1251NR,Laren,Laren,Noord-Holland,VBO,5.241644,52.254273
+Middelwaarde,11,,G13,1251NR,Laren,Laren,Noord-Holland,VBO,5.241601,52.254280
+Middelwaarde,11,,G14,1251NR,Laren,Laren,Noord-Holland,VBO,5.241552,52.254275
+Middelwaarde,11,,G15,1251NR,Laren,Laren,Noord-Holland,VBO,5.241515,52.254293
+Middelwaarde,11,,G16,1251NR,Laren,Laren,Noord-Holland,VBO,5.241464,52.254285
+Middelwaarde,11,,G17,1251NR,Laren,Laren,Noord-Holland,VBO,5.241423,52.254297
 Middelwaarde,11,,,1251NR,Laren,Laren,Noord-Holland,VBO,5.241403,52.254050
-Middelwaarde,13,,G01,1251NR,Laren,Laren,Noord-Holland,VBO,5.241417,52.254269
-Middelwaarde,13,,G02,1251NR,Laren,Laren,Noord-Holland,VBO,5.241469,52.254294
-Middelwaarde,13,,G03,1251NR,Laren,Laren,Noord-Holland,VBO,5.241508,52.254263
-Middelwaarde,13,,G04,1251NR,Laren,Laren,Noord-Holland,VBO,5.241560,52.254285
-Middelwaarde,13,,G05,1251NR,Laren,Laren,Noord-Holland,VBO,5.241598,52.254270
-Middelwaarde,13,,G06,1251NR,Laren,Laren,Noord-Holland,VBO,5.241641,52.254256
-Middelwaarde,13,,G07,1251NR,Laren,Laren,Noord-Holland,VBO,5.241684,52.254274
 Middelwaarde,13,,,1251NR,Laren,Laren,Noord-Holland,VBO,5.241637,52.254343
 Middelwaarde,15,,,1251NR,Laren,Laren,Noord-Holland,VBO,5.241657,52.254393
 Middelwaarde,17,,,1251NR,Laren,Laren,Noord-Holland,VBO,5.241671,52.254442
@@ -3502,13 +3488,13 @@ Zevenend,37,,,1251RL,Laren,Laren,Noord-Holland,VBO,5.228880,52.252692
 Zevenend,39,,,1251RL,Laren,Laren,Noord-Holland,VBO,5.228903,52.252653
 Zevenend,43,,,1251RL,Laren,Laren,Noord-Holland,VBO,5.229672,52.252613
 Zevenend,45,a,,1251RL,Laren,Laren,Noord-Holland,VBO,5.229044,52.252189
+Zevenend,45,,II,1251RL,Laren,Laren,Noord-Holland,VBO,5.229861,52.252537
+Zevenend,45,,III,1251RL,Laren,Laren,Noord-Holland,VBO,5.229883,52.252551
+Zevenend,45,,IV,1251RL,Laren,Laren,Noord-Holland,VBO,5.229905,52.252564
 Zevenend,45,,Ia,1251RL,Laren,Laren,Noord-Holland,VBO,5.229773,52.252483
 Zevenend,45,,Ib,1251RL,Laren,Laren,Noord-Holland,VBO,5.229795,52.252497
 Zevenend,45,,Ic,1251RL,Laren,Laren,Noord-Holland,VBO,5.229817,52.252510
 Zevenend,45,,Id,1251RL,Laren,Laren,Noord-Holland,VBO,5.229839,52.252524
-Zevenend,45,,II,1251RL,Laren,Laren,Noord-Holland,VBO,5.229861,52.252537
-Zevenend,45,,III,1251RL,Laren,Laren,Noord-Holland,VBO,5.229883,52.252551
-Zevenend,45,,IV,1251RL,Laren,Laren,Noord-Holland,VBO,5.229905,52.252564
 Zevenend,47,a,,1251RL,Laren,Laren,Noord-Holland,VBO,5.229103,52.252136
 Zevenend,49,,,1251RL,Laren,Laren,Noord-Holland,VBO,5.229454,52.252127
 Zevenend,51,a,,1251RL,Laren,Laren,Noord-Holland,VBO,5.229334,52.251899
@@ -3546,6 +3532,8 @@ Zevenend,89,,,1251RM,Laren,Laren,Noord-Holland,VBO,5.230304,52.248746
 Zevenend,91,,,1251RM,Laren,Laren,Noord-Holland,VBO,5.230171,52.248718
 Zevenend,93,,,1251RM,Laren,Laren,Noord-Holland,VBO,5.229888,52.248562
 Zevenend,95,,,1251RM,Laren,Laren,Noord-Holland,VBO,5.229135,52.247997
+Zevenend,2,E,GED,1251RN,Laren,Laren,Noord-Holland,VBO,5.227008,52.254153
+Zevenend,2,E,RCHT,1251RN,Laren,Laren,Noord-Holland,VBO,5.227081,52.254145
 Zevenend,2,a,,1251RN,Laren,Laren,Noord-Holland,VBO,5.226903,52.254477
 Zevenend,2,b,,1251RN,Laren,Laren,Noord-Holland,VBO,5.226961,52.254368
 Zevenend,2,c,LNKS,1251RN,Laren,Laren,Noord-Holland,VBO,5.227007,52.254254
@@ -3554,8 +3542,6 @@ Zevenend,2,d,BOV,1251RN,Laren,Laren,Noord-Holland,VBO,5.227038,52.254198
 Zevenend,2,d,,1251RN,Laren,Laren,Noord-Holland,VBO,5.227041,52.254219
 Zevenend,2,e,BOV,1251RN,Laren,Laren,Noord-Holland,VBO,5.227019,52.254121
 Zevenend,2,e,,1251RN,Laren,Laren,Noord-Holland,VBO,5.226951,52.254135
-Zevenend,2,E,GED,1251RN,Laren,Laren,Noord-Holland,VBO,5.227008,52.254153
-Zevenend,2,E,RCHT,1251RN,Laren,Laren,Noord-Holland,VBO,5.227081,52.254145
 Zevenend,2,f,,1251RN,Laren,Laren,Noord-Holland,VBO,5.227197,52.254086
 Zevenend,2,g,,1251RN,Laren,Laren,Noord-Holland,VBO,5.227014,52.254021
 Zevenend,2,,,1251RN,Laren,Laren,Noord-Holland,VBO,5.226884,52.254274
@@ -3640,7 +3626,7 @@ Zijtak,45,,,1251RR,Laren,Laren,Noord-Holland,VBO,5.223191,52.250902
 Zijtak,47,,,1251RR,Laren,Laren,Noord-Holland,VBO,5.222921,52.251007
 Zijtak,2,,,1251RS,Laren,Laren,Noord-Holland,VBO,5.227150,52.253285
 Zijtak,4,a,,1251RS,Laren,Laren,Noord-Holland,VBO,5.226773,52.252990
-Zijtak,4,b,,1251RS,Laren,Laren,Noord-Holland,VBO,5.226307,52.253349
+Zijtak,4,b,,1251RS,Laren,Laren,Noord-Holland,VBO,5.226411,52.253358
 Zijtak,4,,,1251RS,Laren,Laren,Noord-Holland,VBO,5.226911,52.253050
 Zijtak,6,,,1251RS,Laren,Laren,Noord-Holland,VBO,5.226548,52.252832
 Zijtak,22,,,1251RS,Laren,Laren,Noord-Holland,VBO,5.225335,52.251786
@@ -4169,22 +4155,28 @@ Kostverloren,26,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.230524,52.247784
 Kostverloren,28,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.230318,52.247734
 Kostverloren,30,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.230233,52.247709
 Kostverloren,32,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.230150,52.247684
+Kostverloren,34,,G01,1251TP,Laren,Laren,Noord-Holland,VBO,5.229883,52.247788
+Kostverloren,34,,G02,1251TP,Laren,Laren,Noord-Holland,VBO,5.229844,52.247777
+Kostverloren,34,,G03,1251TP,Laren,Laren,Noord-Holland,VBO,5.229802,52.247766
+Kostverloren,34,,G04,1251TP,Laren,Laren,Noord-Holland,VBO,5.229761,52.247758
+Kostverloren,34,,G05,1251TP,Laren,Laren,Noord-Holland,VBO,5.229726,52.247746
+Kostverloren,34,,G06,1251TP,Laren,Laren,Noord-Holland,VBO,5.229684,52.247733
+Kostverloren,34,,G07,1251TP,Laren,Laren,Noord-Holland,VBO,5.229646,52.247722
+Kostverloren,34,,G08,1251TP,Laren,Laren,Noord-Holland,VBO,5.229623,52.247658
+Kostverloren,34,,G09,1251TP,Laren,Laren,Noord-Holland,VBO,5.229641,52.247630
+Kostverloren,34,,G10,1251TP,Laren,Laren,Noord-Holland,VBO,5.229660,52.247608
+Kostverloren,34,,G11,1251TP,Laren,Laren,Noord-Holland,VBO,5.229680,52.247584
+Kostverloren,34,,G12,1251TP,Laren,Laren,Noord-Holland,VBO,5.229700,52.247559
 Kostverloren,34,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.230063,52.247658
 Kostverloren,36,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229904,52.247524
 Kostverloren,38,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229943,52.247475
 Kostverloren,40,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229983,52.247425
-Kostverloren,9007,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229700,52.247558
-Kostverloren,9008,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229677,52.247582
-Kostverloren,9009,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229660,52.247606
-Kostverloren,9010,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229645,52.247630
-Kostverloren,9011,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229621,52.247652
-Kostverloren,9012,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229652,52.247722
-Kostverloren,9013,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229691,52.247734
-Kostverloren,9014,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229727,52.247745
-Kostverloren,9015,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229767,52.247755
-Kostverloren,9016,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229804,52.247760
-Kostverloren,9017,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229844,52.247773
-Kostverloren,9018,,,1251TP,Laren,Laren,Noord-Holland,VBO,5.229882,52.247785
+Kostverloren,42,,G01,1251TR,Laren,Laren,Noord-Holland,VBO,5.229938,52.247290
+Kostverloren,42,,G02,1251TR,Laren,Laren,Noord-Holland,VBO,5.229958,52.247260
+Kostverloren,42,,G03,1251TR,Laren,Laren,Noord-Holland,VBO,5.229979,52.247234
+Kostverloren,42,,G04,1251TR,Laren,Laren,Noord-Holland,VBO,5.229999,52.247205
+Kostverloren,42,,G05,1251TR,Laren,Laren,Noord-Holland,VBO,5.230021,52.247176
+Kostverloren,42,,G06,1251TR,Laren,Laren,Noord-Holland,VBO,5.230040,52.247149
 Kostverloren,42,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.230022,52.247376
 Kostverloren,44,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.230261,52.247336
 Kostverloren,46,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.230349,52.247342
@@ -4206,12 +4198,6 @@ Kostverloren,72,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.231003,52.246427
 Kostverloren,74,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.231039,52.246320
 Kostverloren,76,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.231063,52.246269
 Kostverloren,78,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.231166,52.246064
-Kostverloren,9001,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.230042,52.247147
-Kostverloren,9002,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.230023,52.247176
-Kostverloren,9003,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.230001,52.247203
-Kostverloren,9004,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.229980,52.247233
-Kostverloren,9005,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.229959,52.247260
-Kostverloren,9006,,,1251TR,Laren,Laren,Noord-Holland,VBO,5.229938,52.247289
 Lage Vuurscheweg,1,a,,1251TS,Laren,Laren,Noord-Holland,VBO,5.229344,52.247690
 Lage Vuurscheweg,1,,,1251TS,Laren,Laren,Noord-Holland,VBO,5.229327,52.247762
 Lage Vuurscheweg,3,,,1251TS,Laren,Laren,Noord-Holland,VBO,5.229439,52.247508
@@ -4507,7 +4493,6 @@ Smeekweg,86,,,1251VK,Laren,Laren,Noord-Holland,VBO,5.236424,52.246556
 Smeekweg,88,,,1251VK,Laren,Laren,Noord-Holland,VBO,5.236481,52.246519
 Smeekweg,90,,,1251VK,Laren,Laren,Noord-Holland,VBO,5.236535,52.246483
 Smeekweg,92,,,1251VK,Laren,Laren,Noord-Holland,VBO,5.236613,52.246467
-Smeekweg,98,,,1251VK,Laren,Laren,Noord-Holland,VBO,5.237278,52.246085
 Smeekweg,100,,,1251VK,Laren,Laren,Noord-Holland,VBO,5.237329,52.245774
 Smeekweg,102,,,1251VK,Laren,Laren,Noord-Holland,VBO,5.237614,52.245584
 Smeekweg,104,,,1251VK,Laren,Laren,Noord-Holland,VBO,5.237828,52.245358
@@ -5100,7 +5085,8 @@ Heideveldweg,43,,,1251XK,Laren,Laren,Noord-Holland,VBO,5.235296,52.251369
 Heideveldweg,45,,,1251XL,Laren,Laren,Noord-Holland,VBO,5.235383,52.251360
 Heideveldweg,47,a,,1251XL,Laren,Laren,Noord-Holland,VBO,5.235661,52.251341
 Heideveldweg,47,,,1251XL,Laren,Laren,Noord-Holland,VBO,5.235578,52.251350
-Heideveldweg,49,a,,1251XL,Laren,Laren,Noord-Holland,VBO,5.236411,52.251299
+Heideveldweg,49,a,,1251XL,Laren,Laren,Noord-Holland,VBO,5.236304,52.251269
+Heideveldweg,49,b,,1251XL,Laren,Laren,Noord-Holland,VBO,5.236437,52.251268
 Heideveldweg,49,,,1251XL,Laren,Laren,Noord-Holland,VBO,5.236246,52.251312
 Heideveldweg,51,,,1251XL,Laren,Laren,Noord-Holland,VBO,5.237420,52.251372
 Heideveldweg,53,,,1251XL,Laren,Laren,Noord-Holland,VBO,5.237771,52.251339
@@ -5622,9 +5608,6 @@ Ruiterweg,6,,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.230417,52.257785
 Ruiterweg,8,,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.230592,52.257823
 Ruiterweg,10,,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.230697,52.257812
 Ruiterweg,12,,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.231515,52.258040
-Ruiterweg,14,a,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.232783,52.258387
-Ruiterweg,14,b,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.232852,52.258425
-Ruiterweg,14,c,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.232906,52.258457
 Ruiterweg,14,G,01,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.232998,52.258176
 Ruiterweg,14,G,02,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.233035,52.258166
 Ruiterweg,14,G,03,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.233081,52.258150
@@ -5634,6 +5617,9 @@ Ruiterweg,14,G,06,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.233198,52.258117
 Ruiterweg,14,G,07,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.233235,52.258103
 Ruiterweg,14,G,08,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.233128,52.258326
 Ruiterweg,14,G,09,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.233171,52.258321
+Ruiterweg,14,a,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.232783,52.258387
+Ruiterweg,14,b,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.232852,52.258425
+Ruiterweg,14,c,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.232906,52.258457
 Ruiterweg,14,,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.232702,52.258344
 Ruiterweg,16,,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.233126,52.258523
 Ruiterweg,18,,,1251ZZ,Laren,Laren,Noord-Holland,VBO,5.233215,52.258551

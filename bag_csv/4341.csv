@@ -213,6 +213,7 @@ Steigerweg,1,,,4341AZ,Arnemuiden,Middelburg,Zeeland,STA,3.678463,51.502737
 Steigerweg,2,,,4341AZ,Arnemuiden,Middelburg,Zeeland,STA,3.678515,51.502824
 Steigerweg,3,,,4341AZ,Arnemuiden,Middelburg,Zeeland,STA,3.678565,51.502910
 Steigerweg,4,,,4341AZ,Arnemuiden,Middelburg,Zeeland,STA,3.678615,51.502995
+Steigerweg,7,,,4341AZ,Arnemuiden,Middelburg,Zeeland,VBO,3.681589,51.502956
 Molenweg,1,,,4341BA,Arnemuiden,Middelburg,Zeeland,VBO,3.670525,51.500849
 Molenweg,3,,,4341BA,Arnemuiden,Middelburg,Zeeland,VBO,3.670407,51.500856
 Molenweg,5,,,4341BA,Arnemuiden,Middelburg,Zeeland,VBO,3.670280,51.500866
@@ -236,8 +237,7 @@ Molenweg,39,,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.668829,51.500612
 Molenweg,41,,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.668741,51.500593
 Molenweg,43,,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.668649,51.500575
 Molenweg,47,,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.667894,51.500275
-Molenweg,53,A,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.666971,51.500164
-Molenweg,53,,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.666810,51.500135
+Molenweg,53,,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.667079,51.500038
 Molenweg,57,,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.666669,51.500094
 Molenweg,59,,,4341BB,Arnemuiden,Middelburg,Zeeland,VBO,3.666574,51.500075
 Molenweg,61,,,4341BC,Arnemuiden,Middelburg,Zeeland,VBO,3.666394,51.500030
@@ -431,6 +431,7 @@ Zuidwal,59,,,4341CH,Arnemuiden,Middelburg,Zeeland,VBO,3.672326,51.499413
 Zuidwal,61,A,,4341CH,Arnemuiden,Middelburg,Zeeland,VBO,3.672096,51.499410
 Zuidwal,61,,,4341CH,Arnemuiden,Middelburg,Zeeland,VBO,3.672182,51.499411
 Zuidwal,63,,,4341CH,Arnemuiden,Middelburg,Zeeland,VBO,3.672216,51.499173
+Zuidwal,2,A,,4341CJ,Arnemuiden,Middelburg,Zeeland,VBO,3.674293,51.499952
 Zuidwal,2,,,4341CJ,Arnemuiden,Middelburg,Zeeland,VBO,3.674731,51.499817
 Zuidwal,4,,,4341CJ,Arnemuiden,Middelburg,Zeeland,VBO,3.674158,51.499737
 Zuidwal,6,,,4341CJ,Arnemuiden,Middelburg,Zeeland,VBO,3.673927,51.499742
@@ -730,9 +731,7 @@ Noordstraat,22,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673376,51.500773
 Noordstraat,24,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673331,51.500828
 Noordstraat,26,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673288,51.500886
 Noordstraat,30,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673373,51.501005
-Noordstraat,32,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673228,51.500992
 Noordstraat,34,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673358,51.501027
-Noordstraat,36,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673212,51.501016
 Noordstraat,38,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673347,51.501050
 Noordstraat,40,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673057,51.501205
 Noordstraat,42,,,4341EN,Arnemuiden,Middelburg,Zeeland,VBO,3.673016,51.501280
@@ -784,7 +783,8 @@ Clasinastraat,43,,,4341ER,Arnemuiden,Middelburg,Zeeland,VBO,3.676511,51.500418
 Dokstraat,1,,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.677761,51.501397
 Dokstraat,2,,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.677403,51.500867
 Dokstraat,3,,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.678093,51.501494
-Dokstraat,4,,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.677637,51.500836
+Dokstraat,4,A,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.677612,51.500830
+Dokstraat,4,,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.677612,51.500830
 Dokstraat,5,,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.678011,51.501411
 Dokstraat,6,,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.677891,51.500811
 Dokstraat,7,,,4341ES,Arnemuiden,Middelburg,Zeeland,VBO,3.677991,51.501370
@@ -2242,6 +2242,7 @@ Oude Kleverskerkseweg,1,,,4341PD,Arnemuiden,Middelburg,Zeeland,VBO,3.661497,51.5
 Oude Kleverskerkseweg,2,,,4341PD,Arnemuiden,Middelburg,Zeeland,VBO,3.661048,51.517560
 Oude Kleverskerkseweg,3,,,4341PD,Arnemuiden,Middelburg,Zeeland,VBO,3.658536,51.515842
 Zandkreekplaatweg,30,,,4341PE,Arnemuiden,Middelburg,Zeeland,VBO,3.711853,51.512921
+Zoutketenweg,1,A,,4341PG,Arnemuiden,Middelburg,Zeeland,VBO,3.665351,51.502454
 Zoutketenweg,1,,,4341PG,Arnemuiden,Middelburg,Zeeland,VBO,3.664911,51.502370
 Ruilverkavelingsweg,1,,,4341PH,Arnemuiden,Middelburg,Zeeland,VBO,3.667083,51.519356
 Platteweg,1,,,4341PJ,Arnemuiden,Middelburg,Zeeland,VBO,3.675430,51.527016
@@ -2278,6 +2279,7 @@ Muidenweg,1,N,,4341PS,Arnemuiden,Middelburg,Zeeland,VBO,3.701716,51.512670
 Muidenweg,1,P,,4341PS,Arnemuiden,Middelburg,Zeeland,VBO,3.701523,51.512642
 Muidenweg,1,,,4341PS,Arnemuiden,Middelburg,Zeeland,VBO,3.701745,51.512697
 Oranjeplaat,1,A,,4341PT,Arnemuiden,Middelburg,Zeeland,VBO,3.703182,51.511776
+Oranjeplaat,1,A,,4341PT,Arnemuiden,Middelburg,Zeeland,VBO,3.703183,51.511730
 Oranjeplaat,1,B,,4341PT,Arnemuiden,Middelburg,Zeeland,VBO,3.703638,51.510787
 Oranjeplaat,1,,,4341PT,Arnemuiden,Middelburg,Zeeland,VBO,3.704121,51.510188
 Oranjeplaat,2,,,4341PT,Arnemuiden,Middelburg,Zeeland,VBO,3.704342,51.510065
@@ -2343,8 +2345,8 @@ Oranjeplaat,61,,,4341PW,Arnemuiden,Middelburg,Zeeland,VBO,3.704504,51.512297
 Oranjeplaat,62,,,4341PW,Arnemuiden,Middelburg,Zeeland,VBO,3.704724,51.512183
 Oranjeplaat,63,,,4341PW,Arnemuiden,Middelburg,Zeeland,VBO,3.704986,51.512115
 Muidenweg,3,A,,4341PX,Arnemuiden,Middelburg,Zeeland,VBO,3.708339,51.510719
-Muidenweg,3,,,4341PX,Arnemuiden,Middelburg,Zeeland,VBO,3.714754,51.510433
 Muidenweg,3,,,4341PX,Arnemuiden,Middelburg,Zeeland,VBO,3.709371,51.510629
+Muidenweg,3,,,4341PX,Arnemuiden,Middelburg,Zeeland,VBO,3.714754,51.510433
 Muidenweg,2,A,,4341PZ,Arnemuiden,Middelburg,Zeeland,VBO,3.703514,51.509918
 Muidenweg,2,,,4341PZ,Arnemuiden,Middelburg,Zeeland,VBO,3.703186,51.510276
 Muidenweg,4,,,4341PZ,Arnemuiden,Middelburg,Zeeland,VBO,3.702434,51.510023

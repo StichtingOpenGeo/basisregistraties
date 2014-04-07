@@ -383,6 +383,7 @@ Gelderse Rooslaan,14,A,,6841BE,Arnhem,Arnhem,Gelderland,VBO,5.903998,51.969482
 Gelderse Rooslaan,14,B,,6841BE,Arnhem,Arnhem,Gelderland,VBO,5.902107,51.970186
 Gelderse Rooslaan,14,,,6841BE,Arnhem,Arnhem,Gelderland,VBO,5.904549,51.969430
 Gelderse Rooslaan,18,,,6841BE,Arnhem,Arnhem,Gelderland,VBO,5.900674,51.970841
+Gelderse Rooslaan,20,,,6841BE,Arnhem,Arnhem,Gelderland,VBO,5.900674,51.970841
 Gelderse Rooslaan,40,,,6841BE,Arnhem,Arnhem,Gelderland,VBO,5.899435,51.971322
 Gelderse Rooslaan,71,,,6841BE,Arnhem,Arnhem,Gelderland,STA,5.896240,51.972032
 Gelderse Rooslaan,73,,,6841BE,Arnhem,Arnhem,Gelderland,STA,5.896351,51.972006
@@ -674,6 +675,7 @@ Hoefbladlaan,8,,3,6841CD,Arnhem,Arnhem,Gelderland,VBO,5.902986,51.968786
 Hoefbladlaan,10,,1,6841CD,Arnhem,Arnhem,Gelderland,VBO,5.902997,51.968801
 Hoefbladlaan,10,,2,6841CD,Arnhem,Arnhem,Gelderland,VBO,5.903013,51.968813
 Hoefbladlaan,10,,3,6841CD,Arnhem,Arnhem,Gelderland,VBO,5.903027,51.968826
+Hoefbladlaan,12,,,6841CD,Arnhem,Arnhem,Gelderland,VBO,5.902927,51.968753
 Hoefbladlaan,14,,,6841CD,Arnhem,Arnhem,Gelderland,VBO,5.902709,51.968851
 Hoefbladlaan,16,,1,6841CD,Arnhem,Arnhem,Gelderland,VBO,5.902737,51.968858
 Hoefbladlaan,16,,2,6841CD,Arnhem,Arnhem,Gelderland,VBO,5.902752,51.968870
@@ -857,8 +859,6 @@ Violierlaan,28,,,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900928,51.967808
 Violierlaan,30,,,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900870,51.967767
 Violierlaan,32,,,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900812,51.967727
 Violierlaan,34,,,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900753,51.967687
-Violierlaan,36,,BE,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900695,51.967646
-Violierlaan,36,,BO,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900676,51.967656
 Violierlaan,36,,,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900676,51.967656
 Violierlaan,38,,,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900636,51.967606
 Violierlaan,40,,,6841CS,Arnhem,Arnhem,Gelderland,VBO,5.900578,51.967566
@@ -1050,7 +1050,9 @@ Dovenetellaan,53,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.901451,51.968882
 Dovenetellaan,55,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.901314,51.968799
 Dovenetellaan,57,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.901250,51.968752
 Dovenetellaan,59,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.901187,51.968705
+Dovenetellaan,61,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.901079,51.968626
 Dovenetellaan,63,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.901079,51.968626
+Dovenetellaan,65,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.900959,51.968533
 Dovenetellaan,67,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.900959,51.968533
 Dovenetellaan,69,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.900871,51.968471
 Dovenetellaan,71,,,6841EB,Arnhem,Arnhem,Gelderland,VBO,5.900807,51.968424
@@ -1528,7 +1530,7 @@ De Praets,25,,,6841HD,Arnhem,Arnhem,Gelderland,VBO,5.897562,51.978981
 De Praets,27,,,6841HD,Arnhem,Arnhem,Gelderland,VBO,5.897505,51.978988
 De Praets,33,,,6841HD,Arnhem,Arnhem,Gelderland,VBO,5.897892,51.979133
 De Praets,35,,1,6841HD,Arnhem,Arnhem,Gelderland,VBO,5.897919,51.979088
-De Praets,35,,,6841HD,Arnhem,Arnhem,Gelderland,VBO,5.897909,51.979076
+De Praets,35,,,6841HD,Arnhem,Arnhem,Gelderland,VBO,5.897978,51.979162
 Stadsblokkenweg,1,,,6841HG,Arnhem,Arnhem,Gelderland,VBO,5.900179,51.977504
 Stadsblokkenweg,7,,,6841HG,Arnhem,Arnhem,Gelderland,LIG,5.904874,51.975690
 Stadsblokkenweg,9,,,6841HG,Arnhem,Arnhem,Gelderland,LIG,5.905265,51.975529
@@ -1562,8 +1564,8 @@ Haven van Coers,19,,,6841HH,Arnhem,Arnhem,Gelderland,LIG,5.901320,51.976893
 Drielsedijk,13,A,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.876542,51.967296
 Drielsedijk,13,,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.876532,51.967318
 Drielsedijk,15,A,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.868498,51.968286
-Drielsedijk,15,B,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.866027,51.967879
-Drielsedijk,15,,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.865803,51.968071
+Drielsedijk,15,B,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.865996,51.967877
+Drielsedijk,15,,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.865809,51.968095
 Drielsedijk,17,A,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.861106,51.967557
 Drielsedijk,17,B,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.860806,51.967606
 Drielsedijk,17,C,,6841HJ,Arnhem,Arnhem,Gelderland,VBO,5.861525,51.967643

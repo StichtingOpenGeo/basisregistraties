@@ -245,7 +245,8 @@ Hoofdstraat W,121,,,9951AR,Winsum,Winsum,Groningen,VBO,6.518265,53.326994
 Hoofdstraat W,123,,,9951AR,Winsum,Winsum,Groningen,VBO,6.518248,53.326922
 Hoofdstraat W,125,,,9951AR,Winsum,Winsum,Groningen,VBO,6.518262,53.326868
 Stationsweg,1,,,9951BA,Winsum,Winsum,Groningen,VBO,6.516719,53.329839
-Stationsweg,2,,,9951BA,Winsum,Winsum,Groningen,VBO,6.516400,53.329123
+Stationsweg,2,a,,9951BA,Winsum,Winsum,Groningen,VBO,6.516479,53.329316
+Stationsweg,2,,,9951BA,Winsum,Winsum,Groningen,VBO,6.516390,53.329230
 Stationsweg,3,,,9951BA,Winsum,Winsum,Groningen,VBO,6.516943,53.329810
 Stationsweg,4,,,9951BA,Winsum,Winsum,Groningen,VBO,6.516778,53.329227
 Stationsweg,5,,,9951BA,Winsum,Winsum,Groningen,VBO,6.517169,53.329843
@@ -371,8 +372,8 @@ Borgweg,36,,,9951BG,Winsum,Winsum,Groningen,VBO,6.517185,53.328729
 Borgweg,38,,,9951BG,Winsum,Winsum,Groningen,VBO,6.517051,53.328200
 Borgweg,40,,,9951BG,Winsum,Winsum,Groningen,VBO,6.517157,53.328217
 Borgweg,42,,,9951BG,Winsum,Winsum,Groningen,VBO,6.517337,53.328224
-Borgweg,44,a,,9951BG,Winsum,Winsum,Groningen,VBO,6.517569,53.327917
 Borgweg,44,T,,9951BG,Winsum,Winsum,Groningen,VBO,6.517548,53.327674
+Borgweg,44,a,,9951BG,Winsum,Winsum,Groningen,VBO,6.517569,53.327917
 Borgweg,44,,,9951BG,Winsum,Winsum,Groningen,VBO,6.517442,53.328232
 Borgweg,46,,,9951BG,Winsum,Winsum,Groningen,VBO,6.518501,53.327980
 Borgweg,48,k,005,9951BG,Winsum,Winsum,Groningen,VBO,6.518599,53.327414
@@ -408,6 +409,7 @@ Borgweg,48,k,119,9951BG,Winsum,Winsum,Groningen,VBO,6.518609,53.327306
 Borgweg,48,k,120,9951BG,Winsum,Winsum,Groningen,VBO,6.518605,53.327287
 Borgweg,48,k,121,9951BG,Winsum,Winsum,Groningen,VBO,6.518602,53.327266
 Borgweg,48,k,122,9951BG,Winsum,Winsum,Groningen,VBO,6.518603,53.327246
+Borgweg,48,k,123,9951BG,Winsum,Winsum,Groningen,VBO,6.518658,53.327374
 Borgweg,48,k,124,9951BG,Winsum,Winsum,Groningen,VBO,6.518655,53.327356
 Borgweg,48,k,125,9951BG,Winsum,Winsum,Groningen,VBO,6.518648,53.327338
 Borgweg,48,k,126,9951BG,Winsum,Winsum,Groningen,VBO,6.518644,53.327311
@@ -985,8 +987,8 @@ Westerstraat,27,,,9951EM,Winsum,Winsum,Groningen,VBO,6.513405,53.332844
 Westerstraat,31,,,9951EM,Winsum,Winsum,Groningen,VBO,6.513211,53.332891
 Westerstraat,33,,,9951EM,Winsum,Winsum,Groningen,VBO,6.513093,53.332964
 Westerstraat,35,,,9951EM,Winsum,Winsum,Groningen,VBO,6.512973,53.332956
-Westerstraat,37,a,,9951EM,Winsum,Winsum,Groningen,VBO,6.512837,53.332939
 Westerstraat,37,B,,9951EM,Winsum,Winsum,Groningen,VBO,6.512900,53.332938
+Westerstraat,37,a,,9951EM,Winsum,Winsum,Groningen,VBO,6.512837,53.332939
 Westerstraat,37,,,9951EM,Winsum,Winsum,Groningen,VBO,6.512762,53.332949
 Westerstraat,39,,,9951EM,Winsum,Winsum,Groningen,VBO,6.512567,53.332960
 Westerstraat,43,,,9951EM,Winsum,Winsum,Groningen,VBO,6.512384,53.332827
@@ -1780,7 +1782,6 @@ Tichelwerk,22,,,9951JG,Winsum,Winsum,Groningen,VBO,6.524710,53.329476
 Tichelwerk,24,,,9951JG,Winsum,Winsum,Groningen,VBO,6.524697,53.329548
 Tichelwerk,26,,,9951JG,Winsum,Winsum,Groningen,VBO,6.524683,53.329593
 Tichelwerk,28,,,9951JG,Winsum,Winsum,Groningen,VBO,6.524670,53.329665
-Hamrik,2,,,9951JH,Winsum,Winsum,Groningen,VBO,6.521779,53.328758
 Hamrik,3,,,9951JH,Winsum,Winsum,Groningen,VBO,6.523334,53.330217
 Hamrik,4,a,,9951JH,Winsum,Winsum,Groningen,VBO,6.522353,53.327773
 Hamrik,4,,,9951JH,Winsum,Winsum,Groningen,VBO,6.521578,53.327969
@@ -2910,6 +2911,8 @@ K. ter Laanstraat,23,,,9951NN,Winsum,Winsum,Groningen,VBO,6.529405,53.338100
 K. ter Laanstraat,25,,,9951NN,Winsum,Winsum,Groningen,VBO,6.529340,53.338255
 K. ter Laanstraat,27,,,9951NN,Winsum,Winsum,Groningen,VBO,6.529475,53.338466
 K. ter Laanstraat,31,,,9951NN,Winsum,Winsum,Groningen,VBO,6.530105,53.338469
+K. ter Laanstraat,33,,,9951NN,Winsum,Winsum,Groningen,VBO,6.530440,53.338449
+K. ter Laanstraat,35,,,9951NN,Winsum,Winsum,Groningen,VBO,6.530750,53.338438
 Ringoven,1,,,9951SB,Winsum,Winsum,Groningen,VBO,6.565470,53.334797
 Ringoven,2,a,,9951SB,Winsum,Winsum,Groningen,VBO,6.564933,53.334777
 Ringoven,2,,,9951SB,Winsum,Winsum,Groningen,VBO,6.564919,53.334256
@@ -2936,8 +2939,7 @@ Lombok,8,,,9951SC,Winsum,Winsum,Groningen,VBO,6.528889,53.331413
 Lombok,9,,,9951SC,Winsum,Winsum,Groningen,VBO,6.528172,53.332678
 Lombok,10,T,,9951SC,Winsum,Winsum,Groningen,VBO,6.530121,53.331437
 Lombok,10,,,9951SC,Winsum,Winsum,Groningen,VBO,6.529295,53.331436
-Lombok,11,A,,9951SC,Winsum,Winsum,Groningen,VBO,6.528359,53.332353
-Lombok,11,,,9951SC,Winsum,Winsum,Groningen,VBO,6.528652,53.332646
+Lombok,11,,,9951SC,Winsum,Winsum,Groningen,VBO,6.528359,53.332353
 Lombok,13,T,,9951SC,Winsum,Winsum,Groningen,VBO,6.528951,53.332599
 Lombok,15,,,9951SC,Winsum,Winsum,Groningen,VBO,6.529625,53.332556
 Lombok,17,a,,9951SC,Winsum,Winsum,Groningen,VBO,6.528977,53.332473
@@ -2968,9 +2970,9 @@ Trekweg naar Onderdendam,30,,,9951SE,Winsum,Winsum,Groningen,VBO,6.561260,53.334
 Trekweg naar Onderdendam,31,,,9951SE,Winsum,Winsum,Groningen,VBO,6.562812,53.334636
 Trekweg naar Onderdendam,32,T,,9951SE,Winsum,Winsum,Groningen,VBO,6.567565,53.334940
 Trekweg naar Onderdendam,32,,,9951SE,Winsum,Winsum,Groningen,VBO,6.567721,53.334606
+Netlaan,1,C,,9951SG,Winsum,Winsum,Groningen,VBO,6.534395,53.331298
 Netlaan,1,a,,9951SG,Winsum,Winsum,Groningen,VBO,6.535663,53.330998
 Netlaan,1,b,,9951SG,Winsum,Winsum,Groningen,VBO,6.532162,53.329720
-Netlaan,1,C,,9951SG,Winsum,Winsum,Groningen,VBO,6.534395,53.331298
 Netlaan,1,,,9951SG,Winsum,Winsum,Groningen,VBO,6.533942,53.331203
 Netlaan,2,,,9951SG,Winsum,Winsum,Groningen,VBO,6.535054,53.329548
 Netlaan,3,,,9951SG,Winsum,Winsum,Groningen,VBO,6.541486,53.327033
@@ -3004,6 +3006,7 @@ Het Aanleg,13,a,,9951SJ,Winsum,Winsum,Groningen,VBO,6.506353,53.334725
 Het Aanleg,13,b,,9951SJ,Winsum,Winsum,Groningen,VBO,6.506082,53.334674
 Het Aanleg,13,,,9951SJ,Winsum,Winsum,Groningen,VBO,6.506123,53.335087
 Het Aanleg,14,,,9951SJ,Winsum,Winsum,Groningen,VBO,6.506212,53.335625
+Het Aanleg,15,,,9951SJ,Winsum,Winsum,Groningen,VBO,6.505538,53.335022
 Het Aanleg,18,A,,9951SJ,Winsum,Winsum,Groningen,VBO,6.505302,53.335562
 Het Aanleg,18,b,,9951SJ,Winsum,Winsum,Groningen,VBO,6.505237,53.335679
 Het Aanleg,18,c,,9951SJ,Winsum,Winsum,Groningen,VBO,6.505174,53.335801
@@ -3028,7 +3031,7 @@ Ranumerweg,20,,,9951ST,Winsum,Winsum,Groningen,VBO,6.511655,53.337668
 Ranum,1,T,,9951TA,Winsum,Winsum,Groningen,VBO,6.506778,53.342404
 Ranum,1,,,9951TA,Winsum,Winsum,Groningen,VBO,6.505817,53.342988
 Ranum,2,,,9951TA,Winsum,Winsum,Groningen,VBO,6.504411,53.343163
-Ranum,3,,,9951TA,Winsum,Winsum,Groningen,VBO,6.509682,53.343797
+Ranum,3,,,9951TA,Winsum,Winsum,Groningen,VBO,6.509810,53.344016
 Ranum,6,,,9951TA,Winsum,Winsum,Groningen,VBO,6.511028,53.343587
 Ranum,7,,,9951TA,Winsum,Winsum,Groningen,VBO,6.507999,53.344882
 Ranum,8,,,9951TA,Winsum,Winsum,Groningen,VBO,6.507012,53.347362
@@ -3062,7 +3065,6 @@ Onderdendamsterweg,44,,,9951TD,Winsum,Winsum,Groningen,VBO,6.523052,53.336033
 Onderdendamsterweg,45,,,9951TD,Winsum,Winsum,Groningen,VBO,6.529702,53.340535
 Onderdendamsterweg,46,,,9951TD,Winsum,Winsum,Groningen,VBO,6.540526,53.341070
 Onderdendamsterweg,47,,,9951TD,Winsum,Winsum,Groningen,VBO,6.543922,53.334459
-Onderdendamsterweg,49,a,,9951TD,Winsum,Winsum,Groningen,VBO,6.548442,53.335620
 Onderdendamsterweg,49,,,9951TD,Winsum,Winsum,Groningen,VBO,6.548026,53.335786
 Onderdendamsterweg,51,T,,9951TD,Winsum,Winsum,Groningen,VBO,6.547895,53.334817
 Onderdendamsterweg,51,,,9951TD,Winsum,Winsum,Groningen,VBO,6.548901,53.334816
@@ -3106,9 +3108,9 @@ Schouwerzijlsterweg,6,,,9951TG,Winsum,Winsum,Groningen,VBO,6.509585,53.332583
 Schouwerzijlsterweg,8,a,,9951TG,Winsum,Winsum,Groningen,VBO,6.505285,53.332875
 Schouwerzijlsterweg,9,,,9951TG,Winsum,Winsum,Groningen,VBO,6.504867,53.332969
 Schouwerzijlsterweg,10,,,9951TG,Winsum,Winsum,Groningen,VBO,6.503474,53.333117
+Schouwerzijlsterweg,11,C,,9951TG,Winsum,Winsum,Groningen,VBO,6.504501,53.333898
 Schouwerzijlsterweg,11,a,,9951TG,Winsum,Winsum,Groningen,VBO,6.504417,53.334168
 Schouwerzijlsterweg,11,b,,9951TG,Winsum,Winsum,Groningen,VBO,6.503998,53.334792
-Schouwerzijlsterweg,11,C,,9951TG,Winsum,Winsum,Groningen,VBO,6.504501,53.333898
 Schouwerzijlsterweg,11,d,,9951TG,Winsum,Winsum,Groningen,VBO,6.505820,53.333712
 Schouwerzijlsterweg,11,e,,9951TG,Winsum,Winsum,Groningen,VBO,6.505765,53.333708
 Schouwerzijlsterweg,11,f,,9951TG,Winsum,Winsum,Groningen,VBO,6.505717,53.333702
@@ -3158,14 +3160,13 @@ Zuiderparklaan,10,,,9951TL,Winsum,Winsum,Groningen,VBO,6.515859,53.325677
 Wierdaweg,2,B,,9951TM,Winsum,Winsum,Groningen,VBO,6.511870,53.329246
 Wierdaweg,2,C,,9951TM,Winsum,Winsum,Groningen,VBO,6.510557,53.328962
 Wierdaweg,2,d,,9951TM,Winsum,Winsum,Groningen,VBO,6.512408,53.328594
-Wierdaweg,2,,,9951TM,Winsum,Winsum,Groningen,VBO,6.511499,53.330553
 Wierdaweg,4,a,,9951TM,Winsum,Winsum,Groningen,VBO,6.512869,53.327844
 Wierdaweg,4,,,9951TM,Winsum,Winsum,Groningen,VBO,6.512934,53.328014
 Wierdaweg,6,,,9951TM,Winsum,Winsum,Groningen,VBO,6.513001,53.327735
 Wierdaweg,8,,,9951TM,Winsum,Winsum,Groningen,VBO,6.512560,53.327505
 Wierdaweg,10,,,9951TM,Winsum,Winsum,Groningen,VBO,6.513223,53.327598
 Wierdaweg,12,,,9951TM,Winsum,Winsum,Groningen,VBO,6.513236,53.327526
-Wierdaweg,14,b,,9951TM,Winsum,Winsum,Groningen,VBO,6.516556,53.324206
+Wierdaweg,14,b,,9951TM,Winsum,Winsum,Groningen,VBO,6.513676,53.326115
 Wierdaweg,14,,,9951TM,Winsum,Winsum,Groningen,VBO,6.513157,53.327383
 Schilligeham,1,T,,9951TN,Winsum,Winsum,Groningen,VBO,6.504425,53.329253
 Schilligeham,1,,,9951TN,Winsum,Winsum,Groningen,VBO,6.505651,53.327902
@@ -3426,7 +3427,7 @@ De Schans,23,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526058,53.324817
 De Schans,25,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526119,53.324862
 De Schans,27,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526165,53.324897
 De Schans,29,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526241,53.324941
-De Schans,31,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526411,53.325102
+De Schans,31,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526423,53.325113
 De Schans,33,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526457,53.325164
 De Schans,35,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526503,53.325208
 De Schans,37,,,9951VJ,Winsum,Winsum,Groningen,VBO,6.526536,53.325289

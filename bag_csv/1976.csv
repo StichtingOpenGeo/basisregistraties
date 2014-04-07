@@ -179,6 +179,7 @@ Cornwallstraat,1,,,1976BD,IJmuiden,Velsen,Noord-Holland,VBO,4.584898,52.454388
 Cornwallstraat,2,A,,1976BD,IJmuiden,Velsen,Noord-Holland,VBO,4.584665,52.453953
 Cornwallstraat,2,B,,1976BD,IJmuiden,Velsen,Noord-Holland,VBO,4.584174,52.454185
 Cornwallstraat,2,,,1976BD,IJmuiden,Velsen,Noord-Holland,VBO,4.584655,52.454333
+Cornwallstraat,4,,,1976BD,IJmuiden,Velsen,Noord-Holland,VBO,4.584595,52.453858
 Cornwallstraat,5,,0001,1976BD,IJmuiden,Velsen,Noord-Holland,VBO,4.584890,52.454128
 Cornwallstraat,5,,0002,1976BD,IJmuiden,Velsen,Noord-Holland,VBO,4.584935,52.454127
 Cornwallstraat,5,,0003,1976BD,IJmuiden,Velsen,Noord-Holland,VBO,4.584990,52.454125
@@ -447,7 +448,6 @@ Zandvoortstraat,110,,,1976BN,IJmuiden,Velsen,Noord-Holland,VBO,4.574455,52.45657
 Egmondstraat,2,,,1976BR,IJmuiden,Velsen,Noord-Holland,VBO,4.576482,52.457237
 Egmondstraat,4,,,1976BR,IJmuiden,Velsen,Noord-Holland,VBO,4.576467,52.456923
 Egmondstraat,6,,,1976BR,IJmuiden,Velsen,Noord-Holland,VBO,4.576258,52.456478
-Egmondstraat,8,,,1976BR,IJmuiden,Velsen,Noord-Holland,VBO,4.576423,52.456047
 Egmondstraat,10,,,1976BR,IJmuiden,Velsen,Noord-Holland,VBO,4.576234,52.455831
 Egmondstraat,12,,,1976BR,IJmuiden,Velsen,Noord-Holland,VBO,4.576145,52.455579
 Egmondstraat,16,,,1976BR,IJmuiden,Velsen,Noord-Holland,VBO,4.576138,52.455461
@@ -480,6 +480,7 @@ Strandweg,20,G,,1976BS,IJmuiden,Velsen,Noord-Holland,VBO,4.581723,52.456205
 Strandweg,20,H,,1976BS,IJmuiden,Velsen,Noord-Holland,VBO,4.581721,52.456147
 Strandweg,80,,,1976BS,IJmuiden,Velsen,Noord-Holland,VBO,4.583694,52.456116
 Seinpostweg,15,,,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.576457,52.462472
+Seinpostweg,19,,,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.574963,52.462210
 Seinpostweg,23,,8000,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.575469,52.462027
 Seinpostweg,24,,,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.574911,52.461971
 Seinpostweg,25,,,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.575021,52.461949
@@ -501,9 +502,8 @@ Seinpostweg,39,B,,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.574280,52.460846
 Seinpostweg,40,,,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.573593,52.460727
 Seinpostweg,42,,,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.573942,52.460723
 Seinpostweg,80,,,1976BT,IJmuiden,Velsen,Noord-Holland,VBO,4.576176,52.461742
-Westerduinweg,1,A,,1976BV,IJmuiden,Velsen,Noord-Holland,VBO,4.576945,52.462075
 Westerduinweg,1,,,1976BV,IJmuiden,Velsen,Noord-Holland,VBO,4.577321,52.461898
-Westerduinweg,3,,,1976BV,IJmuiden,Velsen,Noord-Holland,VBO,4.578293,52.462395
+Westerduinweg,3,,,1976BV,IJmuiden,Velsen,Noord-Holland,VBO,4.578001,52.462266
 Westerduinweg,4,,8000,1976BV,IJmuiden,Velsen,Noord-Holland,VBO,4.576906,52.459797
 Westerduinweg,4,,,1976BV,IJmuiden,Velsen,Noord-Holland,VBO,4.577691,52.460621
 Westerduinweg,5,A,,1976BV,IJmuiden,Velsen,Noord-Holland,VBO,4.579291,52.459652
@@ -659,7 +659,6 @@ Trawlerkade,46,A,,1976CB,IJmuiden,Velsen,Noord-Holland,VBO,4.589389,52.459071
 Trawlerkade,46,B,,1976CB,IJmuiden,Velsen,Noord-Holland,VBO,4.589343,52.459088
 Trawlerkade,46,C,,1976CB,IJmuiden,Velsen,Noord-Holland,VBO,4.589375,52.459055
 Trawlerkade,46,D,,1976CB,IJmuiden,Velsen,Noord-Holland,VBO,4.589327,52.459074
-Trawlerkade,46,E,,1976CB,IJmuiden,Velsen,Noord-Holland,VBO,4.589446,52.459029
 Trawlerkade,46,,,1976CB,IJmuiden,Velsen,Noord-Holland,VBO,4.589378,52.459097
 Trawlerkade,48,,,1976CB,IJmuiden,Velsen,Noord-Holland,VBO,4.589470,52.459061
 Trawlerkade,50,,,1976CB,IJmuiden,Velsen,Noord-Holland,VBO,4.589456,52.459046
@@ -884,12 +883,11 @@ Industriestraat,23,,,1976CS,IJmuiden,Velsen,Noord-Holland,VBO,4.586720,52.458609
 Industriestraat,25,,,1976CS,IJmuiden,Velsen,Noord-Holland,VBO,4.586982,52.458509
 Industriestraat,27,A,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.587776,52.458209
 Industriestraat,27,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.587645,52.458261
-Industriestraat,29,A,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.587963,52.458139
-Industriestraat,29,B,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.588022,52.458117
 Industriestraat,29,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.587912,52.458158
+Industriestraat,31,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.588022,52.458117
 Industriestraat,33,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.588088,52.458091
 Industriestraat,35,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.588177,52.458058
-Industriestraat,37,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.588318,52.458004
+Industriestraat,37,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.588318,52.458003
 Industriestraat,39,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.588650,52.457879
 Industriestraat,45,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.588951,52.457764
 Industriestraat,47,,,1976CT,IJmuiden,Velsen,Noord-Holland,VBO,4.589150,52.457736
@@ -1044,7 +1042,7 @@ Vissershavenstraat,11,,,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.596843,52.460
 Vissershavenstraat,13,,,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.596809,52.460109
 Vissershavenstraat,15,,,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.596811,52.460043
 Vissershavenstraat,35,,,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.596694,52.459418
-Vissershavenstraat,41,,0001,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.597461,52.459670
+Vissershavenstraat,41,,0001,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.597461,52.459671
 Vissershavenstraat,41,,0003,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.597635,52.459619
 Vissershavenstraat,41,,0004,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.597722,52.459507
 Vissershavenstraat,42,,,1976DB,IJmuiden,Velsen,Noord-Holland,VBO,4.596147,52.459127
@@ -1089,8 +1087,6 @@ Halkade,34,,,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.590275,52.460962
 Halkade,35,,,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.597249,52.458673
 Halkade,36,,,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.590449,52.460900
 Halkade,42,,8000,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.591005,52.460253
-Halkade,44,,,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.590756,52.460793
-Halkade,48,,,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.590891,52.460745
 Halkade,50,,,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.591108,52.460668
 Halkade,56,,,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.591336,52.460587
 Halkade,62,,,1976DC,IJmuiden,Velsen,Noord-Holland,VBO,4.591508,52.460527
@@ -1298,6 +1294,8 @@ Kennemerboulevard,734,,,1976ES,IJmuiden,Velsen,Noord-Holland,VBO,4.557600,52.460
 Kennemerboulevard,738,,,1976ES,IJmuiden,Velsen,Noord-Holland,VBO,4.557567,52.460404
 Kennemerboulevard,740,,,1976ES,IJmuiden,Velsen,Noord-Holland,VBO,4.557531,52.460479
 Kennemerboulevard,760,,,1976ET,IJmuiden,Velsen,Noord-Holland,VBO,4.557565,52.460341
+Vlissingenstraat,41,,,1976EV,IJmuiden,Velsen,Noord-Holland,VBO,4.573533,52.462294
+Vlissingenstraat,43,,,1976EV,IJmuiden,Velsen,Noord-Holland,VBO,4.573095,52.462241
 Breskensstraat,2,,,1976EX,IJmuiden,Velsen,Noord-Holland,VBO,4.572790,52.461197
 Kennemerstrand,160,,,1976GA,IJmuiden,Velsen,Noord-Holland,VBO,4.557825,52.457003
 Kennemerstrand,172,,8000,1976GA,IJmuiden,Velsen,Noord-Holland,VBO,4.557897,52.456925

@@ -1,4 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
+Schoolstraat,1,,,9461AA,Gieten,Aa en Hunze,Drenthe,VBO,6.764440,53.005780
 Schoolstraat,5,,,9461AA,Gieten,Aa en Hunze,Drenthe,VBO,6.764889,53.005881
 Schoolstraat,7,,,9461AA,Gieten,Aa en Hunze,Drenthe,VBO,6.764964,53.005907
 Schoolstraat,9,,,9461AA,Gieten,Aa en Hunze,Drenthe,VBO,6.765083,53.005915
@@ -25,8 +26,6 @@ Schoolstraat,12,c,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.765594,53.005558
 Schoolstraat,12,,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.765552,53.005649
 Schoolstraat,14,,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.765715,53.005638
 Schoolstraat,16,,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.765894,53.005645
-Schoolstraat,18,a,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.766129,53.005684
-Schoolstraat,18,,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.766014,53.005661
 Schoolstraat,20,a,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.766521,53.005747
 Schoolstraat,20,,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.766426,53.005743
 Schoolstraat,22,,,9461AB,Gieten,Aa en Hunze,Drenthe,VBO,6.766881,53.005759
@@ -244,6 +243,8 @@ Wemenweg,16,,,9461AZ,Gieten,Aa en Hunze,Drenthe,VBO,6.766083,53.005490
 Wemenweg,17,,,9461AZ,Gieten,Aa en Hunze,Drenthe,VBO,6.766868,53.004402
 Wemenweg,18,,,9461AZ,Gieten,Aa en Hunze,Drenthe,VBO,6.766111,53.005436
 Wemenweg,19,,,9461AZ,Gieten,Aa en Hunze,Drenthe,VBO,6.766881,53.004339
+Wemenweg,20,,,9461AZ,Gieten,Aa en Hunze,Drenthe,VBO,6.766129,53.005684
+Wemenweg,22,,,9461AZ,Gieten,Aa en Hunze,Drenthe,VBO,6.766014,53.005661
 Eexterweg,1,,,9461BA,Gieten,Aa en Hunze,Drenthe,VBO,6.763366,53.005314
 Eexterweg,3,,,9461BA,Gieten,Aa en Hunze,Drenthe,VBO,6.763322,53.005324
 Eexterweg,5,,,9461BA,Gieten,Aa en Hunze,Drenthe,VBO,6.763277,53.005324
@@ -1074,11 +1075,8 @@ Stationsstraat,37,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.764722,53.002018
 Stationsstraat,39,a,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.764830,53.001948
 Stationsstraat,39,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.764764,53.001955
 Stationsstraat,43,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765215,53.001599
-Stationsstraat,45,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765179,53.001320
-Stationsstraat,47,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765231,53.001257
-Stationsstraat,49,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765304,53.001158
-Stationsstraat,51,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765388,53.001059
-Stationsstraat,53,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765450,53.000972
+Stationsstraat,45,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765286,53.001204
+Stationsstraat,51,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765419,53.001020
 Stationsstraat,55,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765525,53.000886
 Stationsstraat,57,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765202,53.001388
 Stationsstraat,59,,,9461GR,Gieten,Aa en Hunze,Drenthe,VBO,6.765265,53.001312
@@ -1465,7 +1463,6 @@ Boddeveld,1,,42,9461JA,Gieten,Aa en Hunze,Drenthe,VBO,6.765683,53.004930
 Boddeveld,1,,6,9461JA,Gieten,Aa en Hunze,Drenthe,VBO,6.765449,53.004914
 Boddeveld,1,,8,9461JA,Gieten,Aa en Hunze,Drenthe,VBO,6.765448,53.004944
 Boddeveld,1,,,9461JA,Gieten,Aa en Hunze,Drenthe,VBO,6.765668,53.004773
-Boddeveld,1,,,9461JA,Gieten,Aa en Hunze,Drenthe,VBO,6.765628,53.004300
 Boddeveld,3,,,9461JA,Gieten,Aa en Hunze,Drenthe,VBO,6.766876,53.004169
 Boddeveld,5,,,9461JA,Gieten,Aa en Hunze,Drenthe,VBO,6.766995,53.004176
 Boddeveld,7,,,9461JA,Gieten,Aa en Hunze,Drenthe,VBO,6.767100,53.004184
@@ -2527,6 +2524,7 @@ Oelenboom,8,,,9461VA,Gieten,Aa en Hunze,Drenthe,VBO,6.754551,53.000284
 Oelenboom,9,,,9461VA,Gieten,Aa en Hunze,Drenthe,VBO,6.761674,52.999384
 Oelenboom,10,,,9461VA,Gieten,Aa en Hunze,Drenthe,VBO,6.759478,52.998735
 Oelenboom,11,,,9461VA,Gieten,Aa en Hunze,Drenthe,VBO,6.762432,52.999349
+Oelenboom,12,,,9461VA,Gieten,Aa en Hunze,Drenthe,VBO,6.760242,52.998704
 Oelenboom,13,,,9461VA,Gieten,Aa en Hunze,Drenthe,VBO,6.762984,52.999478
 Oelenboom,15,,,9461VA,Gieten,Aa en Hunze,Drenthe,VBO,6.763203,52.999690
 Vlaskamp,1,,,9461VB,Gieten,Aa en Hunze,Drenthe,VBO,6.761082,52.995275

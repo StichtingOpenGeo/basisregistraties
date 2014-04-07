@@ -203,7 +203,6 @@ De Zuid,27,,,8251BG,Dronten,Dronten,Flevoland,VBO,5.719340,52.516692
 De Zuid,29,,,8251BG,Dronten,Dronten,Flevoland,VBO,5.717297,52.513292
 De Zuid,31,,,8251BG,Dronten,Dronten,Flevoland,VBO,5.715322,52.510732
 De Zuid,41,,,8251BG,Dronten,Dronten,Flevoland,VBO,5.709739,52.511165
-De Vecht,30,,,8251BH,Dronten,Dronten,Flevoland,VBO,5.705941,52.542082
 De Zuid,2,,,8251BH,Dronten,Dronten,Flevoland,VBO,5.715219,52.523383
 De Zuid,12,,,8251BH,Dronten,Dronten,Flevoland,VBO,5.714979,52.520614
 De Zuid,14,,,8251BH,Dronten,Dronten,Flevoland,VBO,5.714962,52.520344
@@ -685,6 +684,7 @@ Harpoenierstraat,32,,,8251CN,Dronten,Dronten,Flevoland,VBO,5.718423,52.522015
 Walvisstraat,1,A,,8251CP,Dronten,Dronten,Flevoland,VBO,5.716366,52.523142
 Walvisstraat,1,B,,8251CP,Dronten,Dronten,Flevoland,VBO,5.716427,52.523144
 Walvisstraat,1,C,,8251CP,Dronten,Dronten,Flevoland,VBO,5.716471,52.523135
+Walvisstraat,1,,,8251CP,Dronten,Dronten,Flevoland,VBO,5.716263,52.523175
 Walvisstraat,3,B,,8251CP,Dronten,Dronten,Flevoland,VBO,5.716722,52.523108
 Walvisstraat,3,C,,8251CP,Dronten,Dronten,Flevoland,VBO,5.716751,52.523108
 Walvisstraat,3,D,,8251CP,Dronten,Dronten,Flevoland,VBO,5.716810,52.523107
@@ -1469,7 +1469,7 @@ Het Ruim,70,,,8251EP,Dronten,Dronten,Flevoland,VBO,5.718566,52.524322
 De Rede,1,,,8251ER,Dronten,Dronten,Flevoland,VBO,5.716505,52.523737
 De Rede,49,,,8251ES,Dronten,Dronten,Flevoland,VBO,5.717286,52.524201
 De Rede,2,,,8251EV,Dronten,Dronten,Flevoland,VBO,5.716135,52.523514
-De Rede,6,,,8251EV,Dronten,Dronten,Flevoland,VBO,5.716283,52.523513
+De Rede,6,,,8251EV,Dronten,Dronten,Flevoland,VBO,5.716291,52.523484
 De Rede,8,,,8251EV,Dronten,Dronten,Flevoland,VBO,5.716356,52.523513
 De Rede,12,,,8251EV,Dronten,Dronten,Flevoland,VBO,5.716504,52.523504
 De Rede,14,,,8251EV,Dronten,Dronten,Flevoland,VBO,5.716592,52.523485
@@ -1540,6 +1540,7 @@ Educalaan,18,,,8251GC,Dronten,Dronten,Flevoland,VBO,5.710285,52.525417
 Educalaan,20,,,8251GC,Dronten,Dronten,Flevoland,VBO,5.710093,52.525310
 Educalaan,23,,,8251GC,Dronten,Dronten,Flevoland,VBO,5.705864,52.525411
 Educalaan,25,A,,8251GC,Dronten,Dronten,Flevoland,VBO,5.705395,52.525718
+Educalaan,25,B,,8251GC,Dronten,Dronten,Flevoland,LIG,5.705000,52.526129
 Educalaan,25,,,8251GC,Dronten,Dronten,Flevoland,VBO,5.705572,52.525762
 Educalaan,26,A,,8251GC,Dronten,Dronten,Flevoland,VBO,5.706715,52.524834
 Educalaan,26,,,8251GC,Dronten,Dronten,Flevoland,VBO,5.706789,52.524860
@@ -2551,6 +2552,7 @@ Handelsweg-noord,36,,,8251JT,Dronten,Dronten,Flevoland,VBO,5.720652,52.536254
 Handelsweg-noord,42,,,8251JT,Dronten,Dronten,Flevoland,VBO,5.722329,52.537831
 Handelsweg-noord,52,,,8251JT,Dronten,Dronten,Flevoland,VBO,5.723250,52.538700
 Handelsweg-noord,56,,,8251JT,Dronten,Dronten,Flevoland,VBO,5.723681,52.539157
+Handelsweg-zuid,2,A,,8251JT,Dronten,Dronten,Flevoland,LIG,5.718789,52.530901
 Handelsweg-zuid,2,,,8251JT,Dronten,Dronten,Flevoland,VBO,5.718757,52.531280
 Handelsweg-zuid,6,,,8251JT,Dronten,Dronten,Flevoland,VBO,5.718788,52.531379
 Staalwijk,2,A,,8251JX,Dronten,Dronten,Flevoland,VBO,5.728596,52.536285
@@ -3022,6 +3024,8 @@ De Kaapstander,56,,,8251LJ,Dronten,Dronten,Flevoland,VBO,5.725528,52.518661
 De Kaapstander,58,,,8251LJ,Dronten,Dronten,Flevoland,VBO,5.725454,52.518661
 De Kaapstander,60,,,8251LJ,Dronten,Dronten,Flevoland,VBO,5.725351,52.518680
 De Kaapstander,62,,,8251LJ,Dronten,Dronten,Flevoland,VBO,5.725205,52.518815
+Eindhovenschelaan,7,,,8251LJ,Dronten,Dronten,Flevoland,VBO,5.708257,52.500035
+Eindhovenschelaan,9,,,8251LJ,Dronten,Dronten,Flevoland,VBO,5.708132,52.499832
 De Kaapstander,1,,,8251LK,Dronten,Dronten,Flevoland,VBO,5.728143,52.519651
 De Kaapstander,3,,,8251LK,Dronten,Dronten,Flevoland,VBO,5.728113,52.519481
 De Kaapstander,5,,,8251LK,Dronten,Dronten,Flevoland,VBO,5.728215,52.519390
@@ -3251,26 +3255,20 @@ Het Hogerhuis,21,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729472,52.519962
 Het Hogerhuis,22,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729472,52.519935
 Het Hogerhuis,23,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729457,52.519899
 Het Hogerhuis,24,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729456,52.519863
-Het Hogerhuis,25,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729396,52.519838
-Het Hogerhuis,25,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729448,52.519837
-Het Hogerhuis,26,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729384,52.519811
-Het Hogerhuis,26,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729442,52.519812
+Het Hogerhuis,25,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729380,52.519851
+Het Hogerhuis,26,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729413,52.519821
 Het Hogerhuis,27,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729378,52.519786
 Het Hogerhuis,27,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729439,52.519785
-Het Hogerhuis,28,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729376,52.519755
-Het Hogerhuis,28,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729436,52.519756
+Het Hogerhuis,28,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729406,52.519765
 Het Hogerhuis,29,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729411,52.519728
 Het Hogerhuis,30,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729280,52.519873
 Het Hogerhuis,31,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729236,52.519891
 Het Hogerhuis,32,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729295,52.519917
 Het Hogerhuis,33,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729224,52.519921
 Het Hogerhuis,33,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729257,52.519937
-Het Hogerhuis,34,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729231,52.519967
-Het Hogerhuis,34,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729288,52.519965
-Het Hogerhuis,35,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729239,52.519988
-Het Hogerhuis,35,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729293,52.519986
-Het Hogerhuis,36,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729242,52.520008
-Het Hogerhuis,36,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729296,52.520007
+Het Hogerhuis,34,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729291,52.519954
+Het Hogerhuis,35,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729267,52.519965
+Het Hogerhuis,36,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729288,52.519985
 Het Hogerhuis,37,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729243,52.520028
 Het Hogerhuis,37,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729301,52.520024
 Het Hogerhuis,38,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729247,52.520048
@@ -3284,14 +3282,11 @@ Het Hogerhuis,43,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729307,52.519657
 Het Hogerhuis,44,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729219,52.519675
 Het Hogerhuis,45,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729168,52.519686
 Het Hogerhuis,45,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729167,52.519669
-Het Hogerhuis,46,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729120,52.519690
-Het Hogerhuis,46,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729123,52.519672
-Het Hogerhuis,47,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729073,52.519694
-Het Hogerhuis,47,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729079,52.519674
+Het Hogerhuis,46,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729139,52.519687
+Het Hogerhuis,47,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729092,52.519658
 Het Hogerhuis,48,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729032,52.519696
 Het Hogerhuis,48,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729039,52.519647
-Het Hogerhuis,49,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729555,52.519623
-Het Hogerhuis,49,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729563,52.519602
+Het Hogerhuis,49,,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729535,52.519631
 Het Hogerhuis,50,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729505,52.519626
 Het Hogerhuis,50,R,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729514,52.519606
 Het Hogerhuis,51,L,,8251LZ,Dronten,Dronten,Flevoland,VBO,5.729451,52.519627
@@ -4335,7 +4330,6 @@ Rendierweg,32,,,8251PD,Dronten,Dronten,Flevoland,VBO,5.715883,52.558906
 Rendierweg,38,,,8251PD,Dronten,Dronten,Flevoland,VBO,5.709122,52.551834
 Rendierweg,40,,,8251PD,Dronten,Dronten,Flevoland,VBO,5.707115,52.549548
 Rendierweg,44,,,8251PD,Dronten,Dronten,Flevoland,VBO,5.701785,52.544376
-Rendierweg,46,,,8251PD,Dronten,Dronten,Flevoland,VBO,5.697009,52.540093
 Rendierweg,5,,,8251PE,Dronten,Dronten,Flevoland,VBO,5.735692,52.578137
 Rendierweg,7,,,8251PE,Dronten,Dronten,Flevoland,VBO,5.734830,52.577267
 Rendierweg,11,,,8251PE,Dronten,Dronten,Flevoland,VBO,5.730056,52.572428
@@ -4357,6 +4351,7 @@ Van der Plasschelaan,6,,,8251PG,Dronten,Dronten,Flevoland,VBO,5.730429,52.550228
 Van der Plasschelaan,8,,,8251PG,Dronten,Dronten,Flevoland,VBO,5.726224,52.545918
 Van der Plasschelaan,10,,,8251PG,Dronten,Dronten,Flevoland,VBO,5.726337,52.545315
 Van der Plasschelaan,12,,,8251PG,Dronten,Dronten,Flevoland,VBO,5.730630,52.543883
+De Vecht,30,,,8251PH,Dronten,Dronten,Flevoland,VBO,5.705941,52.542082
 Sprengerlaan,1,,,8251PH,Dronten,Dronten,Flevoland,VBO,5.725943,52.555427
 Sprengerlaan,2,,,8251PH,Dronten,Dronten,Flevoland,VBO,5.722237,52.556741
 Sprengerlaan,3,,,8251PH,Dronten,Dronten,Flevoland,VBO,5.721855,52.551071
@@ -4379,7 +4374,7 @@ Colijnweg,21,,,8251PJ,Dronten,Dronten,Flevoland,VBO,5.734745,52.540660
 Colijnweg,23,,,8251PJ,Dronten,Dronten,Flevoland,VBO,5.733868,52.538971
 Colijnweg,2,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.751773,52.573931
 Colijnweg,4,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.755223,52.566931
-Colijnweg,8,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.753050,52.561422
+Colijnweg,8,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.753070,52.561575
 Colijnweg,10,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.750701,52.559101
 Colijnweg,12,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.748500,52.556816
 Colijnweg,14,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.746448,52.554711
@@ -4387,6 +4382,7 @@ Colijnweg,16,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.745571,52.553853
 Colijnweg,22,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.737333,52.545112
 Colijnweg,24,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.736991,52.544763
 Colijnweg,26,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.733241,52.540343
+Colijnweg,28,,,8251PK,Dronten,Dronten,Flevoland,VBO,5.732871,52.539877
 Oude Dronterweg,3,,,8251PL,Dronten,Dronten,Flevoland,VBO,5.687692,52.518269
 Oude Dronterweg,5,,,8251PL,Dronten,Dronten,Flevoland,VBO,5.687706,52.518187
 Vossemeerdijk,1,A,,8251PM,Dronten,Dronten,Flevoland,VBO,5.758275,52.579279
@@ -4416,8 +4412,8 @@ Vossemeerdijk,22,,,8251PN,Dronten,Dronten,Flevoland,VBO,5.833416,52.555287
 Vossemeerdijk,24,,,8251PN,Dronten,Dronten,Flevoland,VBO,5.833366,52.555127
 Vossemeerdijk,26,,,8251PN,Dronten,Dronten,Flevoland,VBO,5.833405,52.554984
 Vossemeerdijk,28,,,8251PN,Dronten,Dronten,Flevoland,VBO,5.833513,52.554878
-Vossemeerdijk,30,A,,8251PN,Dronten,Dronten,Flevoland,VBO,5.842784,52.555200
 Vossemeerdijk,30,A,,8251PN,Dronten,Dronten,Flevoland,VBO,5.842568,52.555101
+Vossemeerdijk,30,A,,8251PN,Dronten,Dronten,Flevoland,VBO,5.842784,52.555200
 Vossemeerdijk,30,,,8251PN,Dronten,Dronten,Flevoland,VBO,5.842883,52.555568
 Vossemeerdijk,34,,,8251PN,Dronten,Dronten,Flevoland,VBO,5.847436,52.552533
 Vossemeerdijk,40,C,,8251PN,Dronten,Dronten,Flevoland,VBO,5.849025,52.545300
@@ -4462,11 +4458,8 @@ Vossemeerdijk,40,,132,8251PN,Dronten,Dronten,Flevoland,VBO,5.846054,52.547398
 Vossemeerdijk,40,,133,8251PN,Dronten,Dronten,Flevoland,VBO,5.846549,52.547553
 Vossemeerdijk,40,,134,8251PN,Dronten,Dronten,Flevoland,VBO,5.846121,52.547459
 Vossemeerdijk,40,,14,8251PN,Dronten,Dronten,Flevoland,VBO,5.848688,52.546843
-Vossemeerdijk,40,,14,8251PN,Dronten,Dronten,Flevoland,VBO,5.846224,52.545946
-Vossemeerdijk,40,,15,8251PN,Dronten,Dronten,Flevoland,VBO,5.846498,52.545877
 Vossemeerdijk,40,,15,8251PN,Dronten,Dronten,Flevoland,VBO,5.849130,52.546756
 Vossemeerdijk,40,,16,8251PN,Dronten,Dronten,Flevoland,VBO,5.848829,52.546992
-Vossemeerdijk,40,,16,8251PN,Dronten,Dronten,Flevoland,VBO,5.846796,52.545939
 Vossemeerdijk,40,,17,8251PN,Dronten,Dronten,Flevoland,VBO,5.849302,52.546875
 Vossemeerdijk,40,,18,8251PN,Dronten,Dronten,Flevoland,VBO,5.849117,52.547017
 Vossemeerdijk,40,,19,8251PN,Dronten,Dronten,Flevoland,VBO,5.849654,52.547037
@@ -4787,6 +4780,7 @@ Hondweg,8,,,8251RA,Dronten,Dronten,Flevoland,VBO,5.787125,52.529919
 Hondweg,11,,,8251RA,Dronten,Dronten,Flevoland,VBO,5.787946,52.529467
 Hondweg,16,,,8251RB,Dronten,Dronten,Flevoland,VBO,5.784771,52.522189
 Hondweg,18,,,8251RB,Dronten,Dronten,Flevoland,VBO,5.783984,52.519792
+Hondweg,19,,,8251RB,Dronten,Dronten,Flevoland,VBO,5.785393,52.521323
 Hondweg,19,,,8251RB,Dronten,Dronten,Flevoland,VBO,5.785412,52.521351
 Hondweg,20,,,8251RB,Dronten,Dronten,Flevoland,VBO,5.782379,52.514980
 Hondweg,23,,,8251RB,Dronten,Dronten,Flevoland,VBO,5.784564,52.518784
@@ -4844,6 +4838,7 @@ Elburgerweg,15,,,8251RJ,Dronten,Dronten,Flevoland,VBO,5.789373,52.501718
 Elburgerweg,30,,,8251RJ,Dronten,Dronten,Flevoland,VBO,5.805397,52.473739
 Elburgerweg,36,,,8251RJ,Dronten,Dronten,Flevoland,VBO,5.804585,52.468799
 Olsterweg,1,,,8251RK,Dronten,Dronten,Flevoland,VBO,5.785250,52.498488
+Olsterweg,1,,,8251RK,Dronten,Dronten,Flevoland,VBO,5.785993,52.499013
 Olsterweg,3,,,8251RK,Dronten,Dronten,Flevoland,VBO,5.784731,52.498130
 Olsterweg,5,,,8251RK,Dronten,Dronten,Flevoland,VBO,5.779260,52.493942
 Olsterweg,7,,,8251RK,Dronten,Dronten,Flevoland,VBO,5.778164,52.493164
@@ -4871,6 +4866,7 @@ Garnaalweg,4,,,8251RN,Dronten,Dronten,Flevoland,VBO,5.721779,52.488636
 Garnaalweg,5,A,,8251RN,Dronten,Dronten,Flevoland,VBO,5.724084,52.489059
 Garnaalweg,5,,,8251RN,Dronten,Dronten,Flevoland,VBO,5.723782,52.488711
 Spieringweg,1,,,8251RP,Dronten,Dronten,Flevoland,VBO,5.731692,52.506160
+Spieringweg,2,,,8251RP,Dronten,Dronten,Flevoland,VBO,5.731577,52.505629
 Spieringweg,2,,,8251RP,Dronten,Dronten,Flevoland,VBO,5.731482,52.505648
 Spieringweg,3,,,8251RP,Dronten,Dronten,Flevoland,VBO,5.736499,52.504942
 Spieringweg,4,,,8251RP,Dronten,Dronten,Flevoland,VBO,5.736009,52.504485
@@ -5054,8 +5050,8 @@ De West,1,,181,8251ST,Dronten,Dronten,Flevoland,VBO,5.689769,52.522492
 De West,1,,182,8251ST,Dronten,Dronten,Flevoland,VBO,5.689931,52.522528
 De West,1,,183,8251ST,Dronten,Dronten,Flevoland,VBO,5.690106,52.522475
 De West,1,,184,8251ST,Dronten,Dronten,Flevoland,VBO,5.690258,52.522482
-De West,1,,184A,8251ST,Dronten,Dronten,Flevoland,VBO,5.690478,52.522476
 De West,1,,184A,8251ST,Dronten,Dronten,Flevoland,VBO,5.690492,52.522480
+De West,1,,184A,8251ST,Dronten,Dronten,Flevoland,VBO,5.690478,52.522476
 De West,1,,185A,8251ST,Dronten,Dronten,Flevoland,VBO,5.690546,52.522680
 De West,1,,185B,8251ST,Dronten,Dronten,Flevoland,VBO,5.690662,52.522562
 De West,1,,185D,8251ST,Dronten,Dronten,Flevoland,VBO,5.690682,52.522434

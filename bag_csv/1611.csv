@@ -1,7 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Hoofdstraat,15,a,,1611AA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.235461,52.697900
 Hoofdstraat,15,b,,1611AA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.235534,52.698070
-Hoofdstraat,15,,,1611AA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.235447,52.697702
 Hoofdstraat,17,,,1611AA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.235728,52.697729
 Hoofdstraat,21,,,1611AB,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.236083,52.697721
 Hoofdstraat,25,,,1611AB,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.236579,52.697752
@@ -35,6 +34,7 @@ Hoofdstraat,113,,,1611AC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.242709,52.
 Hoofdstraat,115,,,1611AC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.242871,52.698124
 Hoofdstraat,117,,,1611AC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.242975,52.698134
 Hoofdstraat,119,,,1611AC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.243211,52.698188
+Hoofdstraat,123,,,1611AD,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.243500,52.698226
 Hoofdstraat,125,,,1611AD,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.243685,52.698179
 Hoofdstraat,127,,,1611AD,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.243907,52.698180
 Hoofdstraat,129,,,1611AD,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.244025,52.698198
@@ -186,7 +186,8 @@ Hoofdstraat,176,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.246480,52.
 Hoofdstraat,180,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.246628,52.698345
 Hoofdstraat,182,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.246746,52.698372
 Hoofdstraat,184,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.246909,52.698381
-Hoofdstraat,186,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.247175,52.698408
+Hoofdstraat,186,a,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.247108,52.698398
+Hoofdstraat,186,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.247211,52.698408
 Hoofdstraat,188,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.247367,52.698435
 Hoofdstraat,194,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.247530,52.698462
 Hoofdstraat,196,,,1611AM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.247678,52.698454
@@ -206,10 +207,10 @@ Hoofdstraat,244,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250798,52.
 Hoofdstraat,246,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251153,52.698862
 Hoofdstraat,248,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251330,52.698862
 Hoofdstraat,250,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251419,52.698880
-Hoofdstraat,252,a,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251567,52.698854
+Hoofdstraat,252,a,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251561,52.698883
 Hoofdstraat,252,b,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251508,52.698854
 Hoofdstraat,252,c,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251567,52.698854
-Hoofdstraat,252,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251508,52.698854
+Hoofdstraat,252,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251495,52.698881
 Hoofdstraat,254,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251671,52.698890
 Hoofdstraat,260,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252500,52.698675
 Hoofdstraat,262,,,1611AN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252781,52.698711
@@ -227,7 +228,6 @@ Hoofdstraat,292,,,1611AP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.255175,52.
 Hoofdstraat,296,,,1611AP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.255294,52.699325
 Hoofdstraat,298,,,1611AP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.255486,52.699307
 Hoofdstraat,300,,,1611AP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.255782,52.699353
-Hoofdstraat,302,,,1611AP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.255974,52.699380
 Hoofdstraat,302,,,1611AP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.255993,52.699351
 Hoofdstraat,306,,,1611AP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.256388,52.699371
 Hoofdstraat,308,,,1611AP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.256699,52.699390
@@ -461,6 +461,51 @@ Burgemeester Boonlaan,8,s,,1611BH,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.2
 Burgemeester Boonlaan,10,,,1611BH,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.248865,52.697134
 Burgemeester Boonlaan,12,,,1611BH,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.248866,52.697062
 Burgemeester Boonlaan,14,,,1611BH,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.248866,52.697008
+Gezinspaviljoen,1,k,010,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250745,52.697036
+Gezinspaviljoen,1,k,011,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249791,52.697536
+Gezinspaviljoen,1,k,012,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250680,52.697065
+Gezinspaviljoen,1,k,013,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249849,52.697502
+Gezinspaviljoen,1,k,014,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250618,52.697096
+Gezinspaviljoen,1,k,015,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249908,52.697466
+Gezinspaviljoen,1,k,016,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250559,52.697129
+Gezinspaviljoen,1,k,017,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249971,52.697435
+Gezinspaviljoen,1,k,018,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250505,52.697163
+Gezinspaviljoen,1,k,019,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250029,52.697407
+Gezinspaviljoen,1,k,020,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250438,52.697194
+Gezinspaviljoen,1,k,021,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250092,52.697375
+Gezinspaviljoen,1,k,022,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250382,52.697221
+Gezinspaviljoen,1,k,023,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250153,52.697347
+Gezinspaviljoen,1,k,110,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250779,52.697059
+Gezinspaviljoen,1,k,111,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249820,52.697559
+Gezinspaviljoen,1,k,112,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250713,52.697090
+Gezinspaviljoen,1,k,113,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249884,52.697523
+Gezinspaviljoen,1,k,114,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250652,52.697122
+Gezinspaviljoen,1,k,115,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249943,52.697492
+Gezinspaviljoen,1,k,116,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250593,52.697153
+Gezinspaviljoen,1,k,117,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250003,52.697461
+Gezinspaviljoen,1,k,118,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250531,52.697185
+Gezinspaviljoen,1,k,119,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250064,52.697429
+Gezinspaviljoen,1,k,120,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250470,52.697217
+Gezinspaviljoen,1,k,121,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250124,52.697398
+Gezinspaviljoen,1,k,122,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250419,52.697244
+Gezinspaviljoen,1,k,123,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250185,52.697366
+Gezinspaviljoen,1,k,124,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250359,52.697275
+Gezinspaviljoen,1,k,125,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250245,52.697335
+Gezinspaviljoen,1,k,212,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250766,52.697120
+Gezinspaviljoen,1,k,213,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249920,52.697549
+Gezinspaviljoen,1,k,214,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250699,52.697154
+Gezinspaviljoen,1,k,215,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249981,52.697521
+Gezinspaviljoen,1,k,216,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250634,52.697180
+Gezinspaviljoen,1,k,217,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250045,52.697488
+Gezinspaviljoen,1,k,218,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250572,52.697217
+Gezinspaviljoen,1,k,219,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250095,52.697457
+Gezinspaviljoen,1,k,220,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250512,52.697244
+Gezinspaviljoen,1,k,221,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250158,52.697426
+Gezinspaviljoen,1,k,222,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250463,52.697277
+Gezinspaviljoen,1,k,223,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250226,52.697394
+Gezinspaviljoen,1,k,224,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250392,52.697306
+Gezinspaviljoen,1,k,225,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250293,52.697368
+Gezinspaviljoen,1,,,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250263,52.697274
 Gezinspaviljoen,4,,,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250737,52.696652
 Gezinspaviljoen,5,,,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249205,52.697485
 Gezinspaviljoen,6,,,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250605,52.696640
@@ -487,51 +532,6 @@ Gezinspaviljoen,26,,,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250848,
 Gezinspaviljoen,27,,,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249396,52.697511
 Gezinspaviljoen,28,,,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250850,52.696830
 Gezinspaviljoen,30,,,1611BJ,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250853,52.696746
-Gezinspaviljoen,1,k,010,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250745,52.697036
-Gezinspaviljoen,1,k,011,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249791,52.697536
-Gezinspaviljoen,1,k,012,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250680,52.697065
-Gezinspaviljoen,1,k,013,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249849,52.697502
-Gezinspaviljoen,1,k,014,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250618,52.697096
-Gezinspaviljoen,1,k,015,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249908,52.697466
-Gezinspaviljoen,1,k,016,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250559,52.697129
-Gezinspaviljoen,1,k,017,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249971,52.697435
-Gezinspaviljoen,1,k,018,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250505,52.697163
-Gezinspaviljoen,1,k,019,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250029,52.697407
-Gezinspaviljoen,1,k,020,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250438,52.697194
-Gezinspaviljoen,1,k,021,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250092,52.697375
-Gezinspaviljoen,1,k,022,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250382,52.697221
-Gezinspaviljoen,1,k,023,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250153,52.697347
-Gezinspaviljoen,1,k,110,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250779,52.697059
-Gezinspaviljoen,1,k,111,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249820,52.697559
-Gezinspaviljoen,1,k,112,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250713,52.697090
-Gezinspaviljoen,1,k,113,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249884,52.697523
-Gezinspaviljoen,1,k,114,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250652,52.697122
-Gezinspaviljoen,1,k,115,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249943,52.697492
-Gezinspaviljoen,1,k,116,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250593,52.697153
-Gezinspaviljoen,1,k,117,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250003,52.697461
-Gezinspaviljoen,1,k,118,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250531,52.697185
-Gezinspaviljoen,1,k,119,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250064,52.697429
-Gezinspaviljoen,1,k,120,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250470,52.697217
-Gezinspaviljoen,1,k,121,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250124,52.697398
-Gezinspaviljoen,1,k,122,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250419,52.697244
-Gezinspaviljoen,1,k,123,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250185,52.697366
-Gezinspaviljoen,1,k,124,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250359,52.697275
-Gezinspaviljoen,1,k,125,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250245,52.697335
-Gezinspaviljoen,1,k,212,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250766,52.697120
-Gezinspaviljoen,1,k,213,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249920,52.697549
-Gezinspaviljoen,1,k,214,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250699,52.697154
-Gezinspaviljoen,1,k,215,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249981,52.697521
-Gezinspaviljoen,1,k,216,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250634,52.697180
-Gezinspaviljoen,1,k,217,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250045,52.697488
-Gezinspaviljoen,1,k,218,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250572,52.697217
-Gezinspaviljoen,1,k,219,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250095,52.697457
-Gezinspaviljoen,1,k,220,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250512,52.697244
-Gezinspaviljoen,1,k,221,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250158,52.697426
-Gezinspaviljoen,1,k,222,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250463,52.697277
-Gezinspaviljoen,1,k,223,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250226,52.697394
-Gezinspaviljoen,1,k,224,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250392,52.697306
-Gezinspaviljoen,1,k,225,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250293,52.697368
-Gezinspaviljoen,1,,,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250263,52.697274
 Klaas Laanstraat,1,,,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249030,52.696577
 Klaas Laanstraat,3,,,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.248838,52.696541
 Klaas Laanstraat,5,,,1611BK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.248645,52.696532
@@ -620,11 +620,12 @@ Spoorsingel,140,,,1611BM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.239950,52.
 Veilingweg,1,,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251340,52.701007
 Veilingweg,3,a,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250559,52.699625
 Veilingweg,3,b,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250727,52.699338
-Veilingweg,3,c,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250827,52.699281
+Veilingweg,3,c,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250560,52.699248
 Veilingweg,3,d,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250638,52.702609
 Veilingweg,3,,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251136,52.699662
 Veilingweg,5,,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252047,52.706241
 Veilingweg,17,,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250962,52.710968
+Veilingweg,20,a,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.248370,52.715033
 Veilingweg,20,,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.248574,52.714577
 Veilingweg,21,a,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251218,52.710270
 Veilingweg,21,b,,1611BN,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251286,52.710304
@@ -721,7 +722,6 @@ Geerling,15,,,1611BT,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.236849,52.7115
 Geerling,17,a,,1611BT,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.234666,52.711397
 Geerling,17,,,1611BT,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.235132,52.711559
 Geerling,19,,,1611BT,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.232588,52.711394
-Veilingweg,20,a,,1611BT,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.248370,52.715033
 Zonnedauw,1,,,1611BV,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.237286,52.696329
 Zonnedauw,3,,,1611BV,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.237285,52.696419
 Zonnedauw,5,,,1611BV,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.237285,52.696482
@@ -1045,10 +1045,10 @@ Broekerhavenweg,200,b,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.25268
 Broekerhavenweg,200,c,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252684,52.691710
 Broekerhavenweg,200,d,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252447,52.691701
 Broekerhavenweg,200,e,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252314,52.691701
-Broekerhavenweg,200,f,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252683,52.691845
-Broekerhavenweg,200,g,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252683,52.691791
-Broekerhavenweg,200,h,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252684,52.691755
-Broekerhavenweg,200,i,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252684,52.691710
+Broekerhavenweg,200,f,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252612,52.691845
+Broekerhavenweg,200,g,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252619,52.691790
+Broekerhavenweg,200,h,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252620,52.691753
+Broekerhavenweg,200,i,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252620,52.691708
 Broekerhavenweg,200,,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252683,52.691845
 Broekerhavenweg,204,,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252714,52.691638
 Broekerhavenweg,206,,,1611CK,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252714,52.691584
@@ -1089,6 +1089,8 @@ Peperstraat,11,,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253166,52.6
 Peperstraat,13,,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253180,52.688862
 Peperstraat,15,,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253181,52.688808
 Peperstraat,19,,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253299,52.688718
+Peperstraat,21,a,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253310,52.688575
+Peperstraat,21,b,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253366,52.688576
 Peperstraat,21,,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253241,52.688574
 Peperstraat,23,,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253211,52.688529
 Peperstraat,25,,,1611CM,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253211,52.688467
@@ -3346,7 +3348,8 @@ Middenweg,4,,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.238191,52.6953
 Middenweg,5,,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.237154,52.695889
 Middenweg,6,a,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.238472,52.695423
 Middenweg,6,,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.238294,52.695432
-Middenweg,7,,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.238130,52.696016
+Middenweg,7,a,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.238167,52.695951
+Middenweg,7,,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.237782,52.695911
 Middenweg,8,,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.238635,52.695396
 Middenweg,9,,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.239595,52.695757
 Middenweg,10,,,1611KP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.238783,52.695396
@@ -3956,7 +3959,7 @@ Zuiderdijk,1,b,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252906,52.68
 Zuiderdijk,1,,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.256394,52.687311
 Zuiderdijk,2,,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251942,52.687468
 Zuiderdijk,3,,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.247288,52.686096
-Zuiderdijk,5,,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.246461,52.685906
+Zuiderdijk,5,,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.246641,52.685901
 Zuiderdijk,6,,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.253259,52.687406
 Zuiderdijk,7,,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.246495,52.685898
 Zuiderdijk,8,,,1611MC,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.252356,52.687558
@@ -4492,30 +4495,30 @@ Watermolenweg,40,,,1611XP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.244440,52
 Watermolenweg,42,,,1611XP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.244455,52.693255
 Watermolenweg,44,,,1611XP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.244455,52.693318
 Watermolenweg,46,,,1611XP,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.244455,52.693372
-La Reinelaan,1,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251397,52.691691
+La Reinelaan,1,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251393,52.691747
 La Reinelaan,3,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251397,52.691691
-La Reinelaan,5,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251338,52.691682
-La Reinelaan,7,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251338,52.691682
-La Reinelaan,9,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251249,52.691682
-La Reinelaan,11,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251249,52.691682
-La Reinelaan,13,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251175,52.691682
-La Reinelaan,15,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251175,52.691682
-La Reinelaan,17,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251101,52.691672
-La Reinelaan,19,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251101,52.691672
-La Reinelaan,21,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251027,52.691672
-La Reinelaan,23,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251027,52.691672
-La Reinelaan,25,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250953,52.691672
-La Reinelaan,27,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250953,52.691672
-La Reinelaan,29,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250879,52.691672
-La Reinelaan,31,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250879,52.691672
-La Reinelaan,33,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250791,52.691663
-La Reinelaan,35,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250791,52.691663
-La Reinelaan,37,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250717,52.691663
-La Reinelaan,39,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250717,52.691663
-La Reinelaan,41,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250643,52.691663
-La Reinelaan,43,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250643,52.691663
-La Reinelaan,45,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250569,52.691663
-La Reinelaan,47,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250569,52.691663
+La Reinelaan,5,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251325,52.691689
+La Reinelaan,7,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251319,52.691745
+La Reinelaan,9,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251241,52.691741
+La Reinelaan,11,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251248,52.691687
+La Reinelaan,13,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251163,52.691684
+La Reinelaan,15,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251159,52.691738
+La Reinelaan,17,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251081,52.691740
+La Reinelaan,19,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251084,52.691681
+La Reinelaan,21,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251006,52.691680
+La Reinelaan,23,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.251004,52.691738
+La Reinelaan,25,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250929,52.691736
+La Reinelaan,27,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250936,52.691678
+La Reinelaan,29,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250854,52.691675
+La Reinelaan,31,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250850,52.691732
+La Reinelaan,33,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250772,52.691730
+La Reinelaan,35,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250779,52.691673
+La Reinelaan,37,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250700,52.691671
+La Reinelaan,39,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250693,52.691727
+La Reinelaan,41,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250621,52.691724
+La Reinelaan,43,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250623,52.691669
+La Reinelaan,45,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250561,52.691668
+La Reinelaan,47,,,1611ZA,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.250558,52.691723
 La Reinelaan,49,,,1611ZB,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249696,52.691734
 La Reinelaan,51,,,1611ZB,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249607,52.691734
 La Reinelaan,53,,,1611ZB,Bovenkarspel,Stede Broec,Noord-Holland,VBO,5.249509,52.691718

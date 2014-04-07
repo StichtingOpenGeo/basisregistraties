@@ -28,13 +28,13 @@ Oosteinderweg,47,,,1687AA,Wognum,Medemblik,Noord-Holland,VBO,5.037872,52.683033
 Oosteinderweg,51,,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.038242,52.683007
 Oosteinderweg,53,,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.038419,52.683052
 Oosteinderweg,55,,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.038552,52.683062
-Oosteinderweg,57,a,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.039481,52.683388
-Oosteinderweg,57,b,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.039717,52.683451
 Oosteinderweg,57,C,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.038611,52.684780
 Oosteinderweg,57,D,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.038782,52.684797
 Oosteinderweg,57,E,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.039058,52.684822
 Oosteinderweg,57,F,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.039224,52.684833
 Oosteinderweg,57,G,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.039390,52.684854
+Oosteinderweg,57,a,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.039481,52.683388
+Oosteinderweg,57,b,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.039717,52.683451
 Oosteinderweg,57,,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.038950,52.683243
 Oosteinderweg,59,,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.040012,52.683506
 Oosteinderweg,61,,,1687AB,Wognum,Medemblik,Noord-Holland,VBO,5.040410,52.683669
@@ -231,8 +231,8 @@ Kerkstraat,10,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.025039,52.680900
 Kerkstraat,18,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.024799,52.681259
 Kerkstraat,20,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.024739,52.681358
 Kerkstraat,22,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.024635,52.681501
-Kerkstraat,24,a,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.024052,52.682156
 Kerkstraat,24,B,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.024277,52.682073
+Kerkstraat,24,a,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.024052,52.682156
 Kerkstraat,24,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.024172,52.682039
 Kerkstraat,26,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023918,52.682308
 Kerkstraat,28,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023595,52.682539
@@ -240,9 +240,9 @@ Kerkstraat,30,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023575,52.682693
 Kerkstraat,32,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023427,52.682738
 Kerkstraat,34,a,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023259,52.682979
 Kerkstraat,34,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023381,52.682827
+Kerkstraat,36,C,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023025,52.683323
 Kerkstraat,36,a,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.022963,52.683312
 Kerkstraat,36,b,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.022967,52.683286
-Kerkstraat,36,C,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023025,52.683323
 Kerkstraat,36,,,1687AR,Wognum,Medemblik,Noord-Holland,VBO,5.023246,52.683133
 Kerkstraat,38,,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.022666,52.683526
 Kerkstraat,40,,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.022577,52.683580
@@ -258,7 +258,8 @@ Kerkstraat,56,a,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.021427,52.684844
 Kerkstraat,56,,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.021502,52.684790
 Kerkstraat,58,A,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.021071,52.685267
 Kerkstraat,58,,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.021322,52.685086
-Kerkstraat,70,,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.020190,52.686062
+Kerkstraat,70,A,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.020556,52.686126
+Kerkstraat,70,,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.020304,52.686054
 Kerkstraat,72,,,1687AS,Wognum,Medemblik,Noord-Holland,VBO,5.019949,52.686295
 Kerkstraat,74,,,1687AT,Wognum,Medemblik,Noord-Holland,VBO,5.019592,52.686860
 Kerkstraat,76,,,1687AT,Wognum,Medemblik,Noord-Holland,VBO,5.019517,52.686941
@@ -341,9 +342,9 @@ Nieuweweg,20,a,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027718,52.684153
 Nieuweweg,20,b,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027672,52.684350
 Nieuweweg,20,,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027720,52.683892
 Nieuweweg,22,,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027641,52.684539
+Nieuweweg,24,C,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027212,52.693308
 Nieuweweg,24,a,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027990,52.690896
 Nieuweweg,24,b,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.026332,52.693487
-Nieuweweg,24,C,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027212,52.693308
 Nieuweweg,24,,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027772,52.684809
 Nieuweweg,26,,,1687BA,Wognum,Medemblik,Noord-Holland,VBO,5.027823,52.697265
 Emmalaan,1,,,1687BB,Wognum,Medemblik,Noord-Holland,VBO,5.028308,52.682564
@@ -725,7 +726,6 @@ Sweelinckhof,64,,,1687BX,Wognum,Medemblik,Noord-Holland,VBO,5.026401,52.686221
 Sweelinckhof,65,,,1687BX,Wognum,Medemblik,Noord-Holland,VBO,5.026343,52.686277
 Grietje Slagterlaan,1,a,,1687CA,Wognum,Medemblik,Noord-Holland,VBO,5.026913,52.686545
 Grietje Slagterlaan,1,c,,1687CA,Wognum,Medemblik,Noord-Holland,VBO,5.026720,52.686490
-Grietje Slagterlaan,1,,,1687CA,Wognum,Medemblik,Noord-Holland,VBO,5.026307,52.686791
 Grietje Slagterlaan,3,,,1687CA,Wognum,Medemblik,Noord-Holland,VBO,5.026841,52.687045
 Grietje Slagterlaan,5,,,1687CA,Wognum,Medemblik,Noord-Holland,VBO,5.026355,52.688103
 Grietje Slagterlaan,7,,,1687CA,Wognum,Medemblik,Noord-Holland,VBO,5.026190,52.688408
@@ -979,8 +979,8 @@ Lekermeer,7,,,1687PB,Wognum,Medemblik,Noord-Holland,VBO,5.007920,52.670072
 Lekermeer,8,,,1687PB,Wognum,Medemblik,Noord-Holland,VBO,5.004160,52.670617
 Lekermeer,9,,,1687PB,Wognum,Medemblik,Noord-Holland,VBO,5.009566,52.669511
 Lekermeer,10,,,1687PB,Wognum,Medemblik,Noord-Holland,VBO,5.003731,52.670687
-Lekermeer,11,a,,1687PB,Wognum,Medemblik,Noord-Holland,VBO,5.018116,52.667057
 Lekermeer,11,B,,1687PB,Wognum,Medemblik,Noord-Holland,VBO,5.017948,52.666548
+Lekermeer,11,a,,1687PB,Wognum,Medemblik,Noord-Holland,VBO,5.018116,52.667057
 Lekermeer,11,,,1687PB,Wognum,Medemblik,Noord-Holland,VBO,5.017438,52.666857
 Grote Zomerdijk,1,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.012483,52.675883
 Grote Zomerdijk,2,a,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.011201,52.680507
@@ -999,8 +999,8 @@ Grote Zomerdijk,8,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.007957,52.682869
 Grote Zomerdijk,9,A,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.009318,52.681244
 Grote Zomerdijk,9,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.009611,52.681464
 Grote Zomerdijk,10,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,4.997041,52.682499
-Grote Zomerdijk,11,a,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.008035,52.682420
 Grote Zomerdijk,11,B,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.007078,52.681524
+Grote Zomerdijk,11,a,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.008035,52.682420
 Grote Zomerdijk,11,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,5.008658,52.682161
 Grote Zomerdijk,12,A,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,4.991490,52.681178
 Grote Zomerdijk,12,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,4.992149,52.681236
@@ -1016,7 +1016,6 @@ Grote Zomerdijk,21,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,4.997702,52.68199
 Grote Zomerdijk,23,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,4.997465,52.682026
 Grote Zomerdijk,25,A,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,4.996713,52.681913
 Grote Zomerdijk,25,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,4.996848,52.681913
-Grote Zomerdijk,25,,,1687PE,Wognum,Medemblik,Noord-Holland,VBO,4.996875,52.681935
 Grote Zomerdijk,27,,,1687PG,Wognum,Medemblik,Noord-Holland,VBO,4.995190,52.681776
 Grote Zomerdijk,29,,,1687PG,Wognum,Medemblik,Noord-Holland,VBO,4.994984,52.681677
 Grote Zomerdijk,31,,,1687PG,Wognum,Medemblik,Noord-Holland,VBO,4.994748,52.681658
@@ -1089,6 +1088,7 @@ Westeinderweg,9,b,,1687PK,Wognum,Medemblik,Noord-Holland,VBO,5.011610,52.689667
 Westeinderweg,9,,,1687PK,Wognum,Medemblik,Noord-Holland,VBO,5.012348,52.689920
 Westeinderweg,10,a,,1687PK,Wognum,Medemblik,Noord-Holland,VBO,5.007443,52.691073
 Westeinderweg,10,,,1687PK,Wognum,Medemblik,Noord-Holland,VBO,5.008226,52.691174
+Westeinderweg,11,B,,1687PK,Wognum,Medemblik,Noord-Holland,VBO,5.009664,52.690466
 Westeinderweg,11,a,,1687PK,Wognum,Medemblik,Noord-Holland,VBO,5.010629,52.690301
 Westeinderweg,11,b,,1687PK,Wognum,Medemblik,Noord-Holland,VBO,5.008716,52.690030
 Westeinderweg,11,,,1687PK,Wognum,Medemblik,Noord-Holland,VBO,5.011608,52.690043
@@ -1136,9 +1136,9 @@ Westeinderweg,51,,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.993632,52.690614
 Westeinderweg,53,,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.993485,52.690596
 Westeinderweg,57,,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.992420,52.690548
 Westeinderweg,59,,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.991828,52.690608
-Westeinderweg,61,a,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.991339,52.690579
 Westeinderweg,61,B,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.990847,52.690372
 Westeinderweg,61,C,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.990865,52.690511
+Westeinderweg,61,a,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.991339,52.690579
 Westeinderweg,61,,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.991447,52.690570
 Westeinderweg,63,,,1687PM,Wognum,Medemblik,Noord-Holland,VBO,4.990363,52.690711
 Wadway,1,a,,1687PN,Wognum,Medemblik,Noord-Holland,VBO,4.989742,52.690691
@@ -1151,7 +1151,6 @@ Wadway,9,a,,1687PN,Wognum,Medemblik,Noord-Holland,VBO,4.985097,52.690746
 Wadway,9,,,1687PN,Wognum,Medemblik,Noord-Holland,VBO,4.985102,52.690848
 Wadway,11,,,1687PN,Wognum,Medemblik,Noord-Holland,VBO,4.984834,52.690629
 Wadway,13,,,1687PN,Wognum,Medemblik,Noord-Holland,VBO,4.984104,52.690851
-Wadway,1,B,,1687PP,Wognum,Medemblik,Noord-Holland,VBO,4.989446,52.690705
 Wadway,2,,,1687PP,Wognum,Medemblik,Noord-Holland,VBO,4.989393,52.691065
 Wadway,4,,,1687PP,Wognum,Medemblik,Noord-Holland,VBO,4.988925,52.691111
 Wadway,6,,,1687PP,Wognum,Medemblik,Noord-Holland,VBO,4.988703,52.691074
@@ -1189,7 +1188,7 @@ Conferencelaan,17,,,1687RA,Wognum,Medemblik,Noord-Holland,VBO,5.013473,52.685708
 Conferencelaan,19,,,1687RA,Wognum,Medemblik,Noord-Holland,VBO,5.013232,52.685951
 Conferencelaan,32,,,1687RA,Wognum,Medemblik,Noord-Holland,VBO,5.013734,52.686921
 Conferencelaan,34,,,1687RA,Wognum,Medemblik,Noord-Holland,VBO,5.013585,52.686985
-Saint Rémylaan,17,,,1687RC,Wognum,Medemblik,Noord-Holland,VBO,5.015190,52.687769
+Saint Rémylaan,17,,,1687RC,Wognum,Medemblik,Noord-Holland,VBO,5.015005,52.687695
 Saint Rémylaan,19,,,1687RC,Wognum,Medemblik,Noord-Holland,VBO,5.014940,52.687846
 Saint Rémylaan,21,,,1687RC,Wognum,Medemblik,Noord-Holland,VBO,5.014779,52.687899
 Saint Rémylaan,32,,,1687RC,Wognum,Medemblik,Noord-Holland,VBO,5.014830,52.688063
@@ -1202,11 +1201,15 @@ Comicelaan,1,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.012818,52.687293
 Comicelaan,2,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.013677,52.687284
 Comicelaan,3,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.012859,52.687344
 Comicelaan,4,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.013771,52.687371
+Comicelaan,5,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.013010,52.687426
+Comicelaan,7,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.013058,52.687475
 Comicelaan,8,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.014024,52.687609
+Comicelaan,9,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.013177,52.687592
 Comicelaan,10,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.014118,52.687667
+Comicelaan,11,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.013210,52.687642
 Comicelaan,13,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.013270,52.687801
 Comicelaan,15,,,1687RG,Wognum,Medemblik,Noord-Holland,VBO,5.013382,52.687898
-Clappslaan,1,,,1687RH,Wognum,Medemblik,Noord-Holland,VBO,5.010075,52.687051
+Clappslaan,1,,,1687RH,Wognum,Medemblik,Noord-Holland,VBO,5.010224,52.686975
 Gieser Wildemanlaan,1,,,1687RJ,Wognum,Medemblik,Noord-Holland,VBO,5.013397,52.684473
 Gieser Wildemanlaan,2,,,1687RJ,Wognum,Medemblik,Noord-Holland,VBO,5.013861,52.684623
 Gieser Wildemanlaan,3,,,1687RJ,Wognum,Medemblik,Noord-Holland,VBO,5.013325,52.684538
@@ -1256,6 +1259,7 @@ Bonne Louiselaan,25,,,1687RK,Wognum,Medemblik,Noord-Holland,VBO,5.012120,52.6851
 Bonne Louiselaan,26,,,1687RK,Wognum,Medemblik,Noord-Holland,VBO,5.012562,52.684644
 Bonne Louiselaan,27,,,1687RK,Wognum,Medemblik,Noord-Holland,VBO,5.012259,52.685282
 Bonne Louiselaan,28,,,1687RK,Wognum,Medemblik,Noord-Holland,VBO,5.012771,52.684744
+Bonne Louiselaan,29,,,1687RK,Wognum,Medemblik,Noord-Holland,VBO,5.012399,52.685394
 Bonne Louiselaan,30,,,1687RK,Wognum,Medemblik,Noord-Holland,VBO,5.012979,52.684837
 Het Bon,1,,,1687TA,Wognum,Medemblik,Noord-Holland,VBO,5.020864,52.681499
 Het Bon,3,,,1687TA,Wognum,Medemblik,Noord-Holland,VBO,5.020879,52.681454

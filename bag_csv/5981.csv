@@ -137,8 +137,8 @@ Steenstraat,66,,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.964842,51.333925
 Steenstraat,68,,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.964594,51.333852
 Steenstraat,70,,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.964314,51.333776
 Steenstraat,72,,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.964182,51.333769
-Steenstraat,74,A,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.963978,51.333741
 Steenstraat,74,A,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.963993,51.333793
+Steenstraat,74,A,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.963978,51.333741
 Steenstraat,76,A,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.962886,51.333699
 Steenstraat,76,,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.963180,51.333734
 Steenstraat,78,,,5981AG,Panningen,Peel en Maas,Limburg,VBO,5.962776,51.333698
@@ -211,7 +211,6 @@ Schoolstraat,15,A,308,5981AH,Panningen,Peel en Maas,Limburg,VBO,5.977627,51.3289
 Schoolstraat,15,A,309,5981AH,Panningen,Peel en Maas,Limburg,VBO,5.977703,51.328938
 Schoolstraat,15,A,310,5981AH,Panningen,Peel en Maas,Limburg,VBO,5.977734,51.328957
 Schoolstraat,15,,,5981AH,Panningen,Peel en Maas,Limburg,VBO,5.977831,51.329023
-Schoolstraat,15,,,5981AH,Panningen,Peel en Maas,Limburg,VBO,5.977830,51.329024
 Schoolstraat,19,A,,5981AH,Panningen,Peel en Maas,Limburg,VBO,5.976404,51.329712
 Schoolstraat,19,B,,5981AH,Panningen,Peel en Maas,Limburg,VBO,5.976404,51.329712
 Schoolstraat,19,C,,5981AH,Panningen,Peel en Maas,Limburg,VBO,5.976404,51.329712
@@ -361,14 +360,16 @@ Ringovenstraat,54,,,5981AL,Panningen,Peel en Maas,Limburg,VBO,5.973522,51.326870
 Ringovenstraat,56,,,5981AL,Panningen,Peel en Maas,Limburg,VBO,5.973511,51.326816
 Ringovenstraat,58,,,5981AL,Panningen,Peel en Maas,Limburg,VBO,5.973524,51.326691
 Markt,1,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979212,51.329122
-Markt,2,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979596,51.328809
+Markt,2,A,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979588,51.328793
+Markt,2,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979598,51.328809
 Markt,3,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979303,51.329094
 Markt,4,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979596,51.328809
 Markt,5,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979303,51.329094
 Markt,6,A,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979674,51.328800
 Markt,6,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979674,51.328798
 Markt,7,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979480,51.329024
-Markt,8,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979759,51.328784
+Markt,8,A,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979753,51.328767
+Markt,8,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979761,51.328785
 Markt,10,A,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979852,51.328747
 Markt,10,,,5981AM,Panningen,Peel en Maas,Limburg,VBO,5.979850,51.328770
 Markt,11,,,5981AN,Panningen,Peel en Maas,Limburg,VBO,5.979480,51.329024
@@ -803,7 +804,6 @@ Raadhuisstraat,120,,,5981BJ,Panningen,Peel en Maas,Limburg,VBO,5.980584,51.32714
 Raadhuisstraat,122,,,5981BJ,Panningen,Peel en Maas,Limburg,VBO,5.980554,51.327159
 Raadhuisstraat,124,,,5981BJ,Panningen,Peel en Maas,Limburg,VBO,5.980522,51.327094
 Raadhuisstraat,128,,,5981BJ,Panningen,Peel en Maas,Limburg,VBO,5.980483,51.327046
-Raadhuisstraat,130,A,,5981BJ,Panningen,Peel en Maas,Limburg,VBO,5.980405,51.326963
 Raadhuisstraat,130,,,5981BJ,Panningen,Peel en Maas,Limburg,VBO,5.980447,51.327027
 Raadhuisstraat,132,,,5981BJ,Panningen,Peel en Maas,Limburg,VBO,5.980084,51.326618
 Raadhuisstraat,134,,,5981BJ,Panningen,Peel en Maas,Limburg,VBO,5.979571,51.326623
@@ -1203,6 +1203,7 @@ Ruijsstraat,8,,,5981CM,Panningen,Peel en Maas,Limburg,VBO,5.983390,51.328034
 Ruijsstraat,10,,,5981CM,Panningen,Peel en Maas,Limburg,VBO,5.983489,51.327952
 Ruijsstraat,12,,,5981CM,Panningen,Peel en Maas,Limburg,VBO,5.983719,51.327887
 Ruijsstraat,14,,,5981CM,Panningen,Peel en Maas,Limburg,VBO,5.984014,51.327844
+Ruijsstraat,14,,,5981CM,Panningen,Peel en Maas,Limburg,VBO,5.983943,51.327814
 Ruijsstraat,16,,,5981CM,Panningen,Peel en Maas,Limburg,VBO,5.984107,51.327800
 Ruijsstraat,18,,,5981CM,Panningen,Peel en Maas,Limburg,VBO,5.984261,51.327636
 Ruijsstraat,20,,,5981CM,Panningen,Peel en Maas,Limburg,VBO,5.984373,51.327489
@@ -2308,6 +2309,7 @@ Loosteeg,14,D,,5981NH,Panningen,Peel en Maas,Limburg,VBO,5.989313,51.336117
 Loosteeg,14,E,,5981NH,Panningen,Peel en Maas,Limburg,VBO,5.989313,51.336117
 Loosteeg,14,,,5981NH,Panningen,Peel en Maas,Limburg,VBO,5.989007,51.334218
 Loosteeg,15,A,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.989583,51.336930
+Loosteeg,15,B,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.989577,51.336824
 Loosteeg,15,,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.989408,51.334494
 Loosteeg,16,,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.989559,51.337293
 Loosteeg,17,,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.989503,51.337953
@@ -2321,27 +2323,28 @@ Loosteeg,23,,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.992144,51.342128
 Loosteeg,24,,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.992444,51.343069
 Loosteeg,26,,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.993006,51.343737
 Loosteeg,31,,,5981NJ,Panningen,Peel en Maas,Limburg,VBO,5.997307,51.347493
-Industrieterrein Panningen,1,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.987249,51.334934
 Industrieterrein Panningen,1,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.987505,51.334940
 Industrieterrein Panningen,4,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.987317,51.336173
 Industrieterrein Panningen,4,B,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.988196,51.335444
 Industrieterrein Panningen,4,C,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.987041,51.335368
 Industrieterrein Panningen,4,D,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.986907,51.336089
 Industrieterrein Panningen,4,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.988084,51.335963
-Industrieterrein Panningen,7,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.985510,51.334814
-Industrieterrein Panningen,7,B,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.985407,51.333777
 Industrieterrein Panningen,7,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.984478,51.334700
 Industrieterrein Panningen,8,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983501,51.335006
 Industrieterrein Panningen,9,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983367,51.334519
 Industrieterrein Panningen,9,B,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983367,51.334519
 Industrieterrein Panningen,9,C,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983367,51.334519
-Industrieterrein Panningen,9,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983123,51.334279
+Industrieterrein Panningen,9,D,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983123,51.334279
+Industrieterrein Panningen,9,E,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983215,51.333998
+Industrieterrein Panningen,9,F,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983903,51.334542
+Industrieterrein Panningen,9,G,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983443,51.333389
+Industrieterrein Panningen,9,H,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983324,51.333688
 Industrieterrein Panningen,10,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.981096,51.334764
 Industrieterrein Panningen,11,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.982346,51.333212
 Industrieterrein Panningen,11,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.981992,51.334436
 Industrieterrein Panningen,12,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.989285,51.336543
 Industrieterrein Panningen,12,B,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.988933,51.336460
-Industrieterrein Panningen,12,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.988848,51.336840
+Industrieterrein Panningen,12,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.989389,51.336827
 Industrieterrein Panningen,13,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.980337,51.334334
 Industrieterrein Panningen,14,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.988848,51.336840
 Industrieterrein Panningen,14,B,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.985464,51.336527
@@ -2349,6 +2352,9 @@ Industrieterrein Panningen,14,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.9882
 Industrieterrein Panningen,15,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.984895,51.336476
 Industrieterrein Panningen,17,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.984318,51.335790
 Industrieterrein Panningen,17,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.983862,51.336371
+Industrieterrein Panningen,18,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.987687,51.336926
+Industrieterrein Panningen,18,B,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.987687,51.336926
+Industrieterrein Panningen,18,C,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.987687,51.336926
 Industrieterrein Panningen,18,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.987687,51.336926
 Industrieterrein Panningen,19,A,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.982041,51.336009
 Industrieterrein Panningen,19,,,5981NK,Panningen,Peel en Maas,Limburg,VBO,5.982324,51.336163
@@ -2508,6 +2514,7 @@ Heide,6,,BU25,5981NX,Panningen,Peel en Maas,Limburg,VBO,5.962205,51.347732
 Heide,6,,BU26,5981NX,Panningen,Peel en Maas,Limburg,VBO,5.961932,51.347668
 Heide,6,,BU27,5981NX,Panningen,Peel en Maas,Limburg,VBO,5.961665,51.347601
 Heide,6,,,5981NX,Panningen,Peel en Maas,Limburg,VBO,5.960743,51.348679
+Maasbreeseweg,3,,,5981NZ,Panningen,Peel en Maas,Limburg,VBO,5.990670,51.335695
 Maasbreeseweg,5,,,5981NZ,Panningen,Peel en Maas,Limburg,VBO,5.991198,51.335417
 Maasbreeseweg,15,,,5981NZ,Panningen,Peel en Maas,Limburg,VBO,5.992978,51.335563
 Maasbreeseweg,23,,,5981NZ,Panningen,Peel en Maas,Limburg,VBO,5.993288,51.334625
@@ -2566,7 +2573,6 @@ Ninnesweg,2,,,5981PC,Panningen,Peel en Maas,Limburg,VBO,5.972931,51.331096
 Ninnesweg,4,,,5981PC,Panningen,Peel en Maas,Limburg,VBO,5.973048,51.331178
 Ninnesweg,6,,,5981PC,Panningen,Peel en Maas,Limburg,VBO,5.973099,51.331216
 Ninnesweg,8,,,5981PC,Panningen,Peel en Maas,Limburg,VBO,5.973374,51.331319
-Ninnesweg,10,,,5981PC,Panningen,Peel en Maas,Limburg,VBO,5.973822,51.331982
 Ninnesweg,14,,,5981PC,Panningen,Peel en Maas,Limburg,VBO,5.975058,51.333511
 Ninnesweg,16,,,5981PC,Panningen,Peel en Maas,Limburg,VBO,5.975404,51.334123
 Ninnesweg,20,,,5981PC,Panningen,Peel en Maas,Limburg,VBO,5.975318,51.334244
@@ -2699,6 +2705,10 @@ Zelen,35,,,5981PM,Panningen,Peel en Maas,Limburg,VBO,5.958302,51.325640
 Zelen,37,,,5981PM,Panningen,Peel en Maas,Limburg,VBO,5.956242,51.325364
 Zelen,41,,,5981PM,Panningen,Peel en Maas,Limburg,VBO,5.954930,51.326437
 Zelen,2,A,,5981PN,Panningen,Peel en Maas,Limburg,VBO,5.970762,51.324860
+Zelen,2,B,,5981PN,Panningen,Peel en Maas,Limburg,VBO,5.970762,51.324860
+Zelen,2,C,,5981PN,Panningen,Peel en Maas,Limburg,VBO,5.970762,51.324860
+Zelen,2,D,,5981PN,Panningen,Peel en Maas,Limburg,VBO,5.970762,51.324860
+Zelen,2,E,,5981PN,Panningen,Peel en Maas,Limburg,VBO,5.970762,51.324860
 Zelen,2,F,,5981PN,Panningen,Peel en Maas,Limburg,VBO,5.970624,51.324928
 Zelen,2,,,5981PN,Panningen,Peel en Maas,Limburg,VBO,5.970926,51.324810
 Zelen,4,,,5981PN,Panningen,Peel en Maas,Limburg,VBO,5.970393,51.325034
@@ -2769,6 +2779,15 @@ Everlopad,4,A,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963940,51.334073
 Everlopad,6,A,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963940,51.334170
 Everlopad,8,A,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.964046,51.334328
 Everlopad,10,A,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.964257,51.334437
+Everlopad,15,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963358,51.334517
+Everlopad,17,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963320,51.334533
+Everlopad,19,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963289,51.334549
+Everlopad,21,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963251,51.334560
+Everlopad,23,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963219,51.334575
+Everlopad,25,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963408,51.334610
+Everlopad,27,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963370,51.334625
+Everlopad,29,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963339,51.334641
+Everlopad,31,,,5981SC,Panningen,Peel en Maas,Limburg,VBO,5.963301,51.334654
 Pachtersweg,1,,,5981SX,Panningen,Peel en Maas,Limburg,VBO,5.985041,51.331320
 Pachtersweg,2,,,5981SX,Panningen,Peel en Maas,Limburg,VBO,5.984559,51.331346
 Pachtersweg,3,,,5981SX,Panningen,Peel en Maas,Limburg,VBO,5.985046,51.331268
@@ -2790,7 +2809,27 @@ Loenhofstraat,1,,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.983970,51.331598
 Loenhofstraat,3,,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.984226,51.331605
 Loenhofstraat,6,,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985438,51.331339
 Loenhofstraat,8,,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985521,51.331350
+Loenhofstraat,9,A,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985297,51.331536
+Loenhofstraat,9,B,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985373,51.331551
+Loenhofstraat,9,C,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985441,51.331566
+Loenhofstraat,9,D,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985548,51.331587
+Loenhofstraat,9,E,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985633,51.331605
+Loenhofstraat,9,F,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985706,51.331619
+Loenhofstraat,9,G,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985272,51.331544
+Loenhofstraat,9,H,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985715,51.331636
 Loenhofstraat,10,,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985697,51.331389
+Loenhofstraat,11,A,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985274,51.331597
+Loenhofstraat,11,B,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985346,51.331609
+Loenhofstraat,11,C,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985422,51.331621
+Loenhofstraat,11,D,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985521,51.331643
+Loenhofstraat,11,E,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985610,51.331657
+Loenhofstraat,11,F,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985677,51.331666
+Loenhofstraat,11,G,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985283,51.331576
+Loenhofstraat,11,H,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985355,51.331586
+Loenhofstraat,11,K,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985433,51.331601
+Loenhofstraat,11,L,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985534,51.331619
+Loenhofstraat,11,M,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985625,51.331638
+Loenhofstraat,11,N,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985684,51.331644
 Loenhofstraat,12,,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.985873,51.331435
 Loenhofstraat,14,,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.986062,51.331484
 Loenhofstraat,16,,,5981SZ,Panningen,Peel en Maas,Limburg,VBO,5.986140,51.331512
@@ -2921,6 +2960,7 @@ Patersstraat,13,,,5981TP,Panningen,Peel en Maas,Limburg,VBO,5.979672,51.327321
 Patersstraat,15,,,5981TP,Panningen,Peel en Maas,Limburg,VBO,5.979803,51.327256
 Patersstraat,17,,,5981TP,Panningen,Peel en Maas,Limburg,VBO,5.979957,51.327182
 Patersstraat,19,,,5981TP,Panningen,Peel en Maas,Limburg,VBO,5.980117,51.327104
+Patersstraat,21,A,,5981TP,Panningen,Peel en Maas,Limburg,VBO,5.980405,51.326963
 Patersstraat,21,,,5981TP,Panningen,Peel en Maas,Limburg,VBO,5.980225,51.327055
 Patersstraat,23,,,5981TP,Panningen,Peel en Maas,Limburg,VBO,5.981054,51.326633
 Patersstraat,25,,,5981TR,Panningen,Peel en Maas,Limburg,VBO,5.981198,51.326563
@@ -3404,7 +3444,6 @@ Piushof,85,B,2,5981VW,Panningen,Peel en Maas,Limburg,VBO,5.978217,51.322608
 Piushof,85,B,3,5981VW,Panningen,Peel en Maas,Limburg,VBO,5.978304,51.322829
 Piushof,85,B,4,5981VW,Panningen,Peel en Maas,Limburg,VBO,5.977993,51.322409
 Piushof,85,B,5,5981VW,Panningen,Peel en Maas,Limburg,VBO,5.978275,51.322817
-Piushof,85,,,5981VW,Panningen,Peel en Maas,Limburg,VBO,5.977519,51.322514
 Piushof,85,,,5981VW,Panningen,Peel en Maas,Limburg,VBO,5.977518,51.322514
 Piushof,87,,,5981VW,Panningen,Peel en Maas,Limburg,VBO,5.977947,51.323284
 Piushof,89,,,5981VW,Panningen,Peel en Maas,Limburg,VBO,5.977529,51.321868
@@ -3699,6 +3738,7 @@ John F. Kennedylaan,205,,,5981WZ,Panningen,Peel en Maas,Limburg,VBO,5.969285,51.
 John F. Kennedylaan,209,,,5981WZ,Panningen,Peel en Maas,Limburg,VBO,5.968393,51.330018
 John F. Kennedylaan,211,,,5981WZ,Panningen,Peel en Maas,Limburg,VBO,5.968393,51.330018
 John F. Kennedylaan,231,,,5981WZ,Panningen,Peel en Maas,Limburg,VBO,5.968297,51.327980
+John F. Kennedylaan,233,,,5981WZ,Panningen,Peel en Maas,Limburg,VBO,5.968297,51.327980
 John F. Kennedylaan,235,,,5981WZ,Panningen,Peel en Maas,Limburg,VBO,5.968380,51.327472
 John F. Kennedylaan,237,,,5981WZ,Panningen,Peel en Maas,Limburg,VBO,5.968380,51.327472
 John F. Kennedylaan,239,,,5981WZ,Panningen,Peel en Maas,Limburg,VBO,5.968380,51.327472
@@ -3882,6 +3922,10 @@ Irenestraat,24,,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983935,51.330990
 Irenestraat,26,,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983932,51.331046
 Irenestraat,28,,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983926,51.331183
 Irenestraat,30,,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983923,51.331251
+Irenestraat,32,A,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983946,51.331367
+Irenestraat,32,B,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983946,51.331367
+Irenestraat,32,C,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983946,51.331367
+Irenestraat,32,D,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983946,51.331367
 Irenestraat,32,,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983946,51.331367
 Irenestraat,34,,,5981XL,Panningen,Peel en Maas,Limburg,VBO,5.983858,51.331626
 Bernhardstraat,1,,,5981XM,Panningen,Peel en Maas,Limburg,VBO,5.983492,51.330002
