@@ -511,6 +511,7 @@ Esweg,69,,,7811AV,Emmen,Emmen,Drenthe,VBO,6.890220,52.786534
 Esweg,70,,,7811AV,Emmen,Emmen,Drenthe,VBO,6.890304,52.786407
 Westenesscherstraat,1,,,7811AW,Emmen,Emmen,Drenthe,VBO,6.890879,52.786301
 Westenesscherstraat,2,A,,7811AW,Emmen,Emmen,Drenthe,VBO,6.890730,52.786321
+Westenesscherstraat,2,B,,7811AW,Emmen,Emmen,Drenthe,VBO,6.890767,52.786242
 Westenesscherstraat,2,,,7811AW,Emmen,Emmen,Drenthe,VBO,6.890765,52.786241
 Westenesscherstraat,3,,,7811AW,Emmen,Emmen,Drenthe,VBO,6.890669,52.786232
 Westenesscherstraat,4,,,7811AW,Emmen,Emmen,Drenthe,VBO,6.890448,52.786261
@@ -593,6 +594,7 @@ Marktplein,132,,,7811BA,Emmen,Emmen,Drenthe,VBO,6.893177,52.785885
 Marktplein,134,,,7811BA,Emmen,Emmen,Drenthe,VBO,6.893177,52.785885
 Marktplein,136,,,7811BA,Emmen,Emmen,Drenthe,VBO,6.893177,52.785885
 Marktplein,140,,,7811BA,Emmen,Emmen,Drenthe,VBO,6.892728,52.785765
+Marktplein,150,A,,7811BA,Emmen,Emmen,Drenthe,VBO,6.892090,52.785902
 Marktplein,150,B,,7811BA,Emmen,Emmen,Drenthe,VBO,6.892135,52.785865
 Marktplein,150,C,,7811BA,Emmen,Emmen,Drenthe,VBO,6.892185,52.785828
 Marktplein,150,,,7811BA,Emmen,Emmen,Drenthe,VBO,6.892067,52.785940
@@ -640,6 +642,7 @@ Weerdingerstraat,238,H,,7811CG,Emmen,Emmen,Drenthe,VBO,6.897261,52.790822
 Weerdingerstraat,238,K,,7811CG,Emmen,Emmen,Drenthe,VBO,6.897261,52.790822
 Weerdingerstraat,238,L,,7811CG,Emmen,Emmen,Drenthe,VBO,6.897261,52.790822
 Weerdingerstraat,238,,,7811CG,Emmen,Emmen,Drenthe,VBO,6.897201,52.790787
+Weerdingerstraat,241,,TR,7811CH,Emmen,Emmen,Drenthe,VBO,6.897121,52.790204
 Weerdingerstraat,241,,,7811CH,Emmen,Emmen,Drenthe,VBO,6.896744,52.790451
 Weerdingerstraat,242,,,7811CH,Emmen,Emmen,Drenthe,VBO,6.896504,52.790373
 Weerdingerstraat,245,I,,7811CJ,Emmen,Emmen,Drenthe,VBO,6.896019,52.790047
@@ -728,7 +731,6 @@ Notaris Oostingstraat,20,,,7811CT,Emmen,Emmen,Drenthe,VBO,6.894960,52.784263
 Notaris Oostingstraat,22,,,7811CT,Emmen,Emmen,Drenthe,VBO,6.894900,52.784246
 Notaris Oostingstraat,30,,,7811CT,Emmen,Emmen,Drenthe,VBO,6.894735,52.784185
 Notaris Oostingstraat,32,,,7811CT,Emmen,Emmen,Drenthe,VBO,6.894736,52.784221
-Weerdingerstraat,160,,TR,7811CV,Emmen,Emmen,Drenthe,VBO,6.907755,52.812148
 Weerdingerstraat,280,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.892711,52.788469
 Weerdingerstraat,281,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.892874,52.788474
 Weerdingerstraat,282,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.892643,52.788606
@@ -763,8 +765,6 @@ Weerdingerstraat,310,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.892851,52.788422
 Weerdingerstraat,311,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.892692,52.788542
 Weerdingerstraat,312,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.892763,52.788564
 Weerdingerstraat,313,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.892984,52.788363
-Weerdingerstraat,7941,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.897121,52.790204
-Weerdingerstraat,7953,,,7811CV,Emmen,Emmen,Drenthe,VBO,6.909407,52.807538
 Noorder Passage,25,,,7811CW,Emmen,Emmen,Drenthe,VBO,6.893803,52.788547
 Dalipassage,5,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893598,52.783781
 Dalipassage,9,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893594,52.783737
@@ -777,10 +777,10 @@ Dalipassage,41,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893755,52.782418
 Dalipassage,43,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893664,52.782374
 Dalipassage,45,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893637,52.782446
 Dalipassage,47,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893640,52.782527
-Dalipassage,53,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893797,52.782047
-Dalipassage,55,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893799,52.781997
-Dalipassage,57,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893797,52.781976
-Dalipassage,59,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893799,52.781872
+Dalipassage,53,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893794,52.782000
+Dalipassage,55,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.893803,52.782049
+Dalipassage,57,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.894054,52.781811
+Dalipassage,59,,,7811DA,Emmen,Emmen,Drenthe,VBO,6.894098,52.781850
 Dalipassage,2,,,7811DB,Emmen,Emmen,Drenthe,VBO,6.893279,52.783682
 Dalipassage,6,,,7811DB,Emmen,Emmen,Drenthe,VBO,6.893303,52.783933
 Dalipassage,8,,,7811DB,Emmen,Emmen,Drenthe,VBO,6.893359,52.783843
@@ -1753,7 +1753,6 @@ Kerkhoflaan,22,,,7811HG,Emmen,Emmen,Drenthe,VBO,6.902165,52.782131
 Kerkhoflaan,23,,,7811HG,Emmen,Emmen,Drenthe,VBO,6.902016,52.782115
 Kerkhoflaan,25,,,7811HG,Emmen,Emmen,Drenthe,VBO,6.900871,52.782022
 Kerkhoflaan,26,,,7811HG,Emmen,Emmen,Drenthe,VBO,6.900752,52.782005
-Kerkhoflaan,9999,,,7811HG,Emmen,Emmen,Drenthe,VBO,6.897412,52.781877
 Baander,1,,,7811HH,Emmen,Emmen,Drenthe,VBO,6.896033,52.781436
 Baander,3,,,7811HH,Emmen,Emmen,Drenthe,VBO,6.896108,52.781444
 Baander,5,,,7811HH,Emmen,Emmen,Drenthe,VBO,6.896182,52.781452
@@ -2074,7 +2073,6 @@ Wilhelminastraat,24,,,7811JB,Emmen,Emmen,Drenthe,VBO,6.896779,52.779845
 Wilhelminastraat,25,,,7811JB,Emmen,Emmen,Drenthe,VBO,6.896874,52.780014
 Wilhelminastraat,26,,,7811JB,Emmen,Emmen,Drenthe,VBO,6.896849,52.780167
 Wilhelminastraat,27,,,7811JB,Emmen,Emmen,Drenthe,VBO,6.896879,52.780158
-Marktplein,150,A,,7811JC,Emmen,Emmen,Drenthe,VBO,6.892090,52.785902
 Wilhelminastraat,28,,GED,7811JC,Emmen,Emmen,Drenthe,VBO,6.896988,52.780327
 Wilhelminastraat,28,,,7811JC,Emmen,Emmen,Drenthe,VBO,6.896885,52.780329
 Wilhelminastraat,31,,,7811JC,Emmen,Emmen,Drenthe,VBO,6.896893,52.780562
@@ -2363,8 +2361,8 @@ Julianastraat,340,,,7811JM,Emmen,Emmen,Drenthe,VBO,6.897539,52.779530
 Julianastraat,342,,,7811JM,Emmen,Emmen,Drenthe,VBO,6.897539,52.779530
 Julianastraat,344,,,7811JM,Emmen,Emmen,Drenthe,VBO,6.897539,52.779530
 Julianastraat,346,,,7811JM,Emmen,Emmen,Drenthe,VBO,6.897539,52.779530
+Julianastraat,348,,TR,7811JM,Emmen,Emmen,Drenthe,VBO,6.897400,52.779801
 Julianastraat,348,,,7811JM,Emmen,Emmen,Drenthe,VBO,6.897539,52.779530
-Julianastraat,79307,,,7811JM,Emmen,Emmen,Drenthe,VBO,6.897400,52.779801
 Wilhelminastraat,93,A,,7811JN,Emmen,Emmen,Drenthe,VBO,6.896182,52.778873
 Wilhelminastraat,93,,,7811JN,Emmen,Emmen,Drenthe,VBO,6.896183,52.778900
 Wilhelminastraat,94,A,,7811JN,Emmen,Emmen,Drenthe,VBO,6.896159,52.778783
@@ -2888,8 +2886,6 @@ De Meerakkers,24,,,7811LJ,Emmen,Emmen,Drenthe,VBO,6.897811,52.773666
 't Oude Loo,15,,,7811LK,Emmen,Emmen,Drenthe,VBO,6.896827,52.773921
 't Oude Loo,17,,,7811LK,Emmen,Emmen,Drenthe,VBO,6.896956,52.773794
 't Oude Loo,19,,,7811LK,Emmen,Emmen,Drenthe,VBO,6.897071,52.773693
-Kalkovenwijk WZ,17,,,7811LK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.065608,52.807985
-Kalkovenwijk WZ,19,,,7811LK,Emmer-Compascuum,Emmen,Drenthe,VBO,7.065428,52.807807
 't Oude Loo,2,,,7811LL,Emmen,Emmen,Drenthe,VBO,6.895016,52.774699
 't Oude Loo,4,,,7811LL,Emmen,Emmen,Drenthe,VBO,6.895073,52.774635
 't Oude Loo,6,,,7811LL,Emmen,Emmen,Drenthe,VBO,6.895216,52.774499
@@ -2992,6 +2988,7 @@ Noorderplein,102,,,7811MG,Emmen,Emmen,Drenthe,VBO,6.892617,52.788562
 Noorderplein,103,,,7811MG,Emmen,Emmen,Drenthe,VBO,6.893108,52.788169
 Noorderplein,104,,,7811MG,Emmen,Emmen,Drenthe,VBO,6.892675,52.788516
 Noorderplein,105,,,7811MG,Emmen,Emmen,Drenthe,VBO,6.893108,52.788169
+Noorderplein,106,,TR,7811MG,Emmen,Emmen,Drenthe,VBO,6.893146,52.788429
 Noorderplein,106,,,7811MG,Emmen,Emmen,Drenthe,VBO,6.892862,52.788343
 Noorderplein,107,,,7811MG,Emmen,Emmen,Drenthe,VBO,6.893108,52.788169
 Noorderplein,108,,,7811MG,Emmen,Emmen,Drenthe,VBO,6.893035,52.788215
@@ -3023,7 +3020,6 @@ Noorderplein,133,,,7811MH,Emmen,Emmen,Drenthe,VBO,6.892836,52.788451
 Noorderplein,134,,,7811MH,Emmen,Emmen,Drenthe,VBO,6.892836,52.788451
 Noorderplein,135,,,7811MH,Emmen,Emmen,Drenthe,VBO,6.892836,52.788451
 Noorderplein,136,,,7811MH,Emmen,Emmen,Drenthe,VBO,6.892836,52.788451
-Noorderplein,7935,,8,7811MH,Emmen,Emmen,Drenthe,VBO,6.893146,52.788429
 Westerstraat,148,,,7811MV,Emmen,Emmen,Drenthe,VBO,6.892193,52.787985
 Westerstraat,150,,,7811MV,Emmen,Emmen,Drenthe,VBO,6.892260,52.787236
 Westerstraat,152,,,7811MV,Emmen,Emmen,Drenthe,VBO,6.892260,52.787236
@@ -3054,16 +3050,15 @@ Westerstraat,180,,,7811MV,Emmen,Emmen,Drenthe,VBO,6.892260,52.787227
 Westerstraat,181,,,7811MV,Emmen,Emmen,Drenthe,VBO,6.892260,52.787227
 Westerstraat,182,,,7811MV,Emmen,Emmen,Drenthe,VBO,6.892260,52.787227
 Westerstraat,183,,,7811MV,Emmen,Emmen,Drenthe,VBO,6.892260,52.787227
-Westerstraat,201,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.891916,52.787223
-Westerstraat,202,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892060,52.786936
-Westerstraat,203,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.891961,52.786855
-Westerstraat,204,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892157,52.786559
-Westerstraat,205,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.891964,52.786444
+Westerstraat,202,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.891916,52.787223
+Westerstraat,204,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892060,52.786936
+Westerstraat,206,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.891961,52.786855
+Westerstraat,208,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.891963,52.786444
 Westerstraat,210,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892059,52.786936
-Westerstraat,211,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892012,52.786532
 Westerstraat,212,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892224,52.786456
-Westerstraat,220,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892360,52.786744
-Westerstraat,221,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892364,52.786673
+Westerstraat,214,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892012,52.786532
+Westerstraat,220,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892364,52.786673
+Westerstraat,222,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892360,52.786744
 Westerstraat,248,,,7811MZ,Emmen,Emmen,Drenthe,VBO,6.892030,52.786831
 Willinkplein,75,,,7811NA,Emmen,Emmen,Drenthe,VBO,6.893290,52.781830
 Willinkplein,77,,,7811NA,Emmen,Emmen,Drenthe,VBO,6.893290,52.781830

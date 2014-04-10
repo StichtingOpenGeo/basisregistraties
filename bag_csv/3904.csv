@@ -35,6 +35,7 @@ Patrimoniumlaan,49,,,3904AB,Veenendaal,Veenendaal,Utrecht,VBO,5.545096,52.019250
 Patrimoniumlaan,51,,,3904AB,Veenendaal,Veenendaal,Utrecht,VBO,5.545037,52.019278
 Patrimoniumlaan,53,,,3904AB,Veenendaal,Veenendaal,Utrecht,VBO,5.544911,52.019306
 Patrimoniumlaan,55,,,3904AB,Veenendaal,Veenendaal,Utrecht,VBO,5.544795,52.019340
+Patrimoniumlaan,55,,,3904AB,Veenendaal,Veenendaal,Utrecht,VBO,5.544799,52.019355
 Patrimoniumlaan,57,,,3904AB,Veenendaal,Veenendaal,Utrecht,VBO,5.544699,52.019356
 Patrimoniumlaan,59,,,3904AB,Veenendaal,Veenendaal,Utrecht,VBO,5.544622,52.019373
 Patrimoniumlaan,61,,,3904AB,Veenendaal,Veenendaal,Utrecht,VBO,5.544513,52.019400
@@ -2414,7 +2415,6 @@ Kerkewijk,262,,,3904JL,Veenendaal,Veenendaal,Utrecht,VBO,5.540090,52.007462
 Kerkewijk,264,,,3904JL,Veenendaal,Veenendaal,Utrecht,VBO,5.539945,52.007217
 Walenburg,1,,,3904JM,Veenendaal,Veenendaal,Utrecht,VBO,5.541620,52.011419
 Walenburg,2,,,3904JM,Veenendaal,Veenendaal,Utrecht,VBO,5.540930,52.011602
-Walenburg,2,,,3904JM,Veenendaal,Veenendaal,Utrecht,VBO,5.541002,52.011584
 Walenburg,3,,,3904JM,Veenendaal,Veenendaal,Utrecht,VBO,5.541485,52.011288
 Walenburg,4,,,3904JM,Veenendaal,Veenendaal,Utrecht,VBO,5.540726,52.011334
 Walenburg,5,,,3904JM,Veenendaal,Veenendaal,Utrecht,VBO,5.541372,52.011182
@@ -5425,12 +5425,43 @@ Bartholomeus van der Helststraat,28,,,3904XT,Veenendaal,Veenendaal,Utrecht,VBO,5
 Bartholomeus van der Helststraat,29,,,3904XT,Veenendaal,Veenendaal,Utrecht,VBO,5.541770,52.020689
 Bartholomeus van der Helststraat,31,,,3904XT,Veenendaal,Veenendaal,Utrecht,VBO,5.541796,52.020729
 David Tenierslaan,2,,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542876,52.023449
-David Tenierslaan,4,A,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542386,52.023675
-David Tenierslaan,4,B,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542680,52.023817
-David Tenierslaan,4,C,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542619,52.023767
-David Tenierslaan,4,D,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542745,52.024011
-David Tenierslaan,4,E,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542882,52.023929
-David Tenierslaan,4,,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542496,52.023596
+David Tenierslaan,4,A,1,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542606,52.023616
+David Tenierslaan,4,A,2,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542527,52.023609
+David Tenierslaan,4,A,3,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542461,52.023637
+David Tenierslaan,4,A,4,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542392,52.023677
+David Tenierslaan,4,A,5,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542342,52.023700
+David Tenierslaan,4,A,6,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542271,52.023733
+David Tenierslaan,4,A,7,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542227,52.023761
+David Tenierslaan,4,A,8,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542142,52.023795
+David Tenierslaan,4,B,3,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542740,52.023740
+David Tenierslaan,4,B,4,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542800,52.023780
+David Tenierslaan,4,C,1,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542646,52.023794
+David Tenierslaan,4,C,2,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542690,52.023829
+David Tenierslaan,4,C,3,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542715,52.023760
+David Tenierslaan,4,C,4,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542769,52.023793
+David Tenierslaan,4,D,3,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542938,52.023881
+David Tenierslaan,4,D,4,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542838,52.023926
+David Tenierslaan,4,D,5,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542768,52.023960
+David Tenierslaan,4,D,6,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542722,52.023987
+David Tenierslaan,4,D,7,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542641,52.024026
+David Tenierslaan,4,D,8,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542593,52.024045
+David Tenierslaan,4,D,9,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542518,52.024088
+David Tenierslaan,4,E,1,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.543013,52.023930
+David Tenierslaan,4,E,2,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542955,52.023904
+David Tenierslaan,4,E,3,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542884,52.023942
+David Tenierslaan,4,E,4,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542795,52.023980
+David Tenierslaan,4,E,5,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542747,52.024005
+David Tenierslaan,4,E,6,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542670,52.024041
+David Tenierslaan,4,E,7,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542618,52.024072
+David Tenierslaan,4,E,8,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542541,52.024108
+David Tenierslaan,4,,02,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542546,52.023586
+David Tenierslaan,4,,03,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542449,52.023615
+David Tenierslaan,4,,04,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542363,52.023656
+David Tenierslaan,4,,05,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542322,52.023680
+David Tenierslaan,4,,06,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542243,52.023716
+David Tenierslaan,4,,07,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542195,52.023742
+David Tenierslaan,4,,08,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542113,52.023779
+David Tenierslaan,4,,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542644,52.023821
 David Tenierslaan,6,A,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.542258,52.024287
 David Tenierslaan,6,,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.541896,52.023979
 David Tenierslaan,8,,,3904ZA,Veenendaal,Veenendaal,Utrecht,VBO,5.541529,52.024389

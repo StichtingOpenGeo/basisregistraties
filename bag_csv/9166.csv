@@ -175,7 +175,8 @@ Middenstreek,34,,,9166LN,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157904,
 Middenstreek,36,,,9166LN,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157779,53.478274
 Middenstreek,38,,,9166LP,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157583,53.478257
 Middenstreek,40,,,9166LP,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157448,53.478240
-Middenstreek,42,,,9166LP,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157176,53.478241
+Middenstreek,42,A,,9166LP,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157147,53.478314
+Middenstreek,42,,,9166LP,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157161,53.478233
 Middenstreek,44,,,9166LP,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157026,53.478233
 Middenstreek,46,,,9166LP,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.156921,53.478270
 Middenstreek,48,A,,9166LP,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.156801,53.478521
@@ -239,9 +240,8 @@ Voorstreek,1,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.158852,53.
 Voorstreek,3,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.158675,53.477661
 Voorstreek,5,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157946,53.477482
 Voorstreek,7,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.157795,53.477456
-Voorstreek,9,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.156453,53.477393
-Voorstreek,11,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.156396,53.477546
-Voorstreek,13,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.155909,53.477430
+Voorstreek,9,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.156394,53.477559
+Voorstreek,11,,,9166LV,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.155909,53.477424
 Voorstreek,6,A,,9166LW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.159674,53.478082
 Voorstreek,6,,,9166LW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.159823,53.478091
 Voorstreek,8,,,9166LW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.159508,53.478083
@@ -313,8 +313,8 @@ Badweg,7,,,9166NC,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.160778,53.4808
 Badweg,9,,,9166NC,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.160674,53.480942
 Badweg,11,,,9166NC,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.160541,53.481104
 Badweg,13,,,9166NC,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.160467,53.481141
-Badweg,17,A,,9166ND,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.159660,53.481538
 Badweg,17,A,,9166ND,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.159853,53.481369
+Badweg,17,A,,9166ND,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.159660,53.481538
 Badweg,17,B,,9166ND,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.159522,53.481456
 Badweg,17,C,,9166ND,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.159397,53.481262
 Badweg,17,,,9166ND,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.160218,53.481520
@@ -689,8 +689,8 @@ Langestreek om de Noord,33,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VB
 Langestreek om de Noord,35,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.155577,53.478944
 Langestreek om de Noord,36,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.156883,53.479519
 Langestreek om de Noord,38,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.156259,53.479155
-Langestreek om de Noord,40,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.155701,53.479140
 Langestreek om de Noord,40,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.155703,53.479167
+Langestreek om de Noord,40,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.155701,53.479140
 Langestreek om de Noord,42,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.155580,53.479078
 Langestreek om de Noord,44,,,9166NX,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.155566,53.479141
 Knuppeldam,2,A,,9166NZ,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.167244,53.479728
@@ -917,7 +917,7 @@ Reeweg,3,,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161720,53.4779
 Reeweg,5,,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161265,53.477820
 Reeweg,7,,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161729,53.477655
 Reeweg,9,,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161485,53.477450
-Reeweg,11,,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161691,53.477313
+Reeweg,11,,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161513,53.477286
 Reeweg,13,,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161524,53.477144
 Reeweg,15,A,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161734,53.477098
 Reeweg,15,,,9166PW,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.161553,53.477072
@@ -1057,8 +1057,8 @@ Zwarteduinenweg,11,,,9166RK,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.1495
 Zwarteduinenweg,12,,,9166RK,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.149570,53.480779
 Zwarteduinenweg,13,,,9166RK,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.149147,53.479838
 Zwarteduinenweg,14,,,9166RK,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.149280,53.480547
-Zwarteduinenweg,16,,,9166RK,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.148925,53.480299
 Zwarteduinenweg,16,,,9166RK,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.148928,53.480253
+Zwarteduinenweg,16,,,9166RK,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.148925,53.480299
 Zwarteduinenweg,18,,,9166RK,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.149286,53.482622
 Karrepad,1,,,9166RL,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.158940,53.482489
 Karrepad,2,,,9166RL,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.158627,53.482671
@@ -1298,7 +1298,12 @@ Heereweg,4,T,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.183911,53.4
 Heereweg,4,,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.184260,53.476772
 Heereweg,6,A,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.191555,53.477359
 Heereweg,6,,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.191425,53.477344
-Heereweg,8,,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.196006,53.477484
+Heereweg,8,A,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.196249,53.477545
+Heereweg,8,B,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.196399,53.477562
+Heereweg,8,C,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.196306,53.477374
+Heereweg,8,D,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.196493,53.476933
+Heereweg,8,E,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.196918,53.477109
+Heereweg,8,,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.195961,53.477493
 Heereweg,10,,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.208405,53.478415
 Heereweg,12,,,9166SE,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.208992,53.478402
 Willem Dijkstraat,1,,,9166SG,Schiermonnikoog,Schiermonnikoog,Friesland,VBO,6.163310,53.476765

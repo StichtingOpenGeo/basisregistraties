@@ -253,7 +253,6 @@ Lange Bedde,63,,,4834AM,Breda,Breda,Noord-Brabant,VBO,4.798056,51.576433
 Lange Bedde,65,,,4834AM,Breda,Breda,Noord-Brabant,VBO,4.798090,51.576452
 Lange Bedde,67,,,4834AM,Breda,Breda,Noord-Brabant,VBO,4.798122,51.576470
 Lange Bedde,69,,,4834AM,Breda,Breda,Noord-Brabant,VBO,4.798152,51.576489
-Lange Bedde,89,,CAI,4834AM,Breda,Breda,Noord-Brabant,VBO,4.797591,51.577249
 Lange Bedde,71,,,4834AN,Breda,Breda,Noord-Brabant,VBO,4.798118,51.576547
 Lange Bedde,73,,,4834AN,Breda,Breda,Noord-Brabant,VBO,4.798058,51.576586
 Lange Bedde,75,,,4834AN,Breda,Breda,Noord-Brabant,VBO,4.797996,51.576626
@@ -275,6 +274,7 @@ Lange Bedde,87,A,,4834AN,Breda,Breda,Noord-Brabant,VBO,4.797659,51.577058
 Lange Bedde,87,B,,4834AN,Breda,Breda,Noord-Brabant,VBO,4.797640,51.577088
 Lange Bedde,87,C,,4834AN,Breda,Breda,Noord-Brabant,VBO,4.797611,51.577066
 Lange Bedde,87,,,4834AN,Breda,Breda,Noord-Brabant,VBO,4.797682,51.577079
+Lange Bedde,89,,CAI,4834AN,Breda,Breda,Noord-Brabant,VBO,4.797591,51.577249
 Lange Bedde,89,,,4834AN,Breda,Breda,Noord-Brabant,VBO,4.797737,51.577281
 Lange Bedde,10,,,4834AP,Breda,Breda,Noord-Brabant,VBO,4.795968,51.575365
 Lange Bedde,12,,,4834AP,Breda,Breda,Noord-Brabant,VBO,4.796048,51.575388
@@ -808,8 +808,8 @@ Mastland,16,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.798286,51.573740
 Mastland,19,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799116,51.574341
 Mastland,20,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799657,51.574407
 Mastland,21,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799265,51.574372
-Mastland,23,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799369,51.574434
 Mastland,23,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799384,51.574496
+Mastland,23,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799369,51.574434
 Mastland,24,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799728,51.574449
 Mastland,25,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799559,51.574530
 Mastland,35,,,4834BM,Breda,Breda,Noord-Brabant,VBO,4.799967,51.574768
@@ -1106,8 +1106,8 @@ Valkenierslaan,220,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800147,51.574195
 Valkenierslaan,222,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800205,51.574230
 Valkenierslaan,224,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800275,51.574271
 Valkenierslaan,224,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800285,51.574297
-Valkenierslaan,226,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800332,51.574307
 Valkenierslaan,226,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800333,51.574336
+Valkenierslaan,226,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800332,51.574307
 Valkenierslaan,228,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800401,51.574344
 Valkenierslaan,230,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800458,51.574377
 Valkenierslaan,232,,,4834CM,Breda,Breda,Noord-Brabant,VBO,4.800514,51.574415
@@ -1500,8 +1500,8 @@ Hofwijkstraat,29,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805761,51.575240
 Hofwijkstraat,31,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805797,51.575226
 Hofwijkstraat,33,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805836,51.575212
 Hofwijkstraat,35,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805875,51.575194
-Hofwijkstraat,37,B,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805965,51.575154
-Hofwijkstraat,37,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805916,51.575176
+Hofwijkstraat,37,B,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805930,51.575169
+Hofwijkstraat,37,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805896,51.575185
 Hofwijkstraat,39,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.805959,51.575156
 Hofwijkstraat,41,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.806005,51.575203
 Hofwijkstraat,43,,,4834EK,Breda,Breda,Noord-Brabant,VBO,4.806061,51.575254
@@ -1854,12 +1854,6 @@ Doenradestraat,224,,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807718,51.576359
 Doenradestraat,226,,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807799,51.576295
 Doenradestraat,228,A,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807924,51.576191
 Doenradestraat,228,,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807879,51.576230
-Doenradestraat,256,A,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807902,51.576177
-Doenradestraat,284,A,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.808022,51.576209
-Doenradestraat,312,A,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.808008,51.576199
-Doenradestraat,340,A,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807990,51.576190
-Doenradestraat,368,A,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807974,51.576182
-Doenradestraat,396,A,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807954,51.576170
 Doenradestraat,430,,,4834GH,Breda,Breda,Noord-Brabant,VBO,4.807930,51.576156
 Overakkerstraat,99,,A1,4834GH,Breda,Breda,Noord-Brabant,VBO,4.798373,51.571536
 Overakkerstraat,99,,A2,4834GH,Breda,Breda,Noord-Brabant,VBO,4.798461,51.571475
@@ -1883,6 +1877,7 @@ Doenradestraat,248,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807569,51.576494
 Doenradestraat,250,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807650,51.576430
 Doenradestraat,252,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807730,51.576365
 Doenradestraat,254,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807811,51.576300
+Doenradestraat,256,A,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807902,51.576177
 Doenradestraat,256,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807891,51.576236
 Doenradestraat,258,A,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.806415,51.577043
 Doenradestraat,258,B,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.806528,51.577052
@@ -1899,6 +1894,7 @@ Doenradestraat,276,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807582,51.576501
 Doenradestraat,278,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807662,51.576436
 Doenradestraat,280,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807743,51.576371
 Doenradestraat,282,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807823,51.576307
+Doenradestraat,284,A,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.808022,51.576209
 Doenradestraat,284,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807904,51.576242
 Doenradestraat,286,A,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.806438,51.577037
 Doenradestraat,286,B,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.806447,51.577096
@@ -1915,6 +1911,7 @@ Doenradestraat,304,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807594,51.576506
 Doenradestraat,306,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807674,51.576442
 Doenradestraat,308,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807755,51.576377
 Doenradestraat,310,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807835,51.576312
+Doenradestraat,312,A,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.808008,51.576199
 Doenradestraat,312,,,4834GJ,Breda,Breda,Noord-Brabant,VBO,4.807916,51.576248
 Doenradestraat,314,A,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.806457,51.577033
 Doenradestraat,314,B,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.806465,51.577091
@@ -1931,6 +1928,7 @@ Doenradestraat,332,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807607,51.576513
 Doenradestraat,334,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807687,51.576448
 Doenradestraat,336,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807768,51.576383
 Doenradestraat,338,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807848,51.576319
+Doenradestraat,340,A,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807990,51.576190
 Doenradestraat,340,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807929,51.576254
 Doenradestraat,342,A,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.806476,51.577028
 Doenradestraat,342,B,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.806485,51.577083
@@ -1947,6 +1945,7 @@ Doenradestraat,360,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807619,51.576518
 Doenradestraat,362,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807699,51.576454
 Doenradestraat,364,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807780,51.576389
 Doenradestraat,366,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807860,51.576324
+Doenradestraat,368,A,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807974,51.576182
 Doenradestraat,368,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807941,51.576260
 Doenradestraat,370,A,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.806494,51.577022
 Doenradestraat,370,B,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.806502,51.577081
@@ -1963,6 +1962,7 @@ Doenradestraat,388,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807631,51.576525
 Doenradestraat,390,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807712,51.576460
 Doenradestraat,392,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807792,51.576395
 Doenradestraat,394,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807873,51.576331
+Doenradestraat,396,A,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807954,51.576170
 Doenradestraat,396,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.807954,51.576266
 Doenradestraat,398,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.806521,51.577076
 Doenradestraat,400,,,4834GK,Breda,Breda,Noord-Brabant,VBO,4.806512,51.577017
@@ -2314,7 +2314,7 @@ Wolfraadstraat,24,,,4834JA,Breda,Breda,Noord-Brabant,VBO,4.802429,51.573122
 Wolfraadstraat,25,,,4834JA,Breda,Breda,Noord-Brabant,VBO,4.802815,51.573250
 Wolfraadstraat,26,,,4834JA,Breda,Breda,Noord-Brabant,VBO,4.802499,51.573074
 Amstenradestraat,3,,,4834JB,Breda,Breda,Noord-Brabant,VBO,4.801370,51.573284
-Amstenradestraat,4,,,4834JB,Breda,Breda,Noord-Brabant,VBO,4.801095,51.573086
+Amstenradestraat,4,,,4834JB,Breda,Breda,Noord-Brabant,VBO,4.801063,51.573108
 Amstenradestraat,5,,,4834JB,Breda,Breda,Noord-Brabant,VBO,4.801436,51.573242
 Amstenradestraat,6,,,4834JB,Breda,Breda,Noord-Brabant,VBO,4.801144,51.573049
 Amstenradestraat,7,,,4834JB,Breda,Breda,Noord-Brabant,VBO,4.801488,51.573202
@@ -2394,13 +2394,13 @@ Hornstraat,3,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.799843,51.572432
 Hornstraat,4,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.799847,51.572050
 Hornstraat,5,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.799931,51.572369
 Hornstraat,6,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800205,51.571849
-Hornstraat,7,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800038,51.572296
+Hornstraat,7,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.799986,51.572341
 Hornstraat,8,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800557,51.571650
-Hornstraat,9,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800165,51.572205
+Hornstraat,9,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800041,51.572309
 Hornstraat,10,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800919,51.571442
-Hornstraat,11,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800266,51.572129
+Hornstraat,11,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800099,51.572268
 Hornstraat,12,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.801290,51.571230
-Hornstraat,13,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800142,51.572218
+Hornstraat,13,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800148,51.572230
 Hornstraat,15,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800202,51.572175
 Hornstraat,17,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800261,51.572133
 Hornstraat,21,,,4834JG,Breda,Breda,Noord-Brabant,VBO,4.800839,51.572238
@@ -4548,12 +4548,12 @@ Amerongenstraat,71,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809416,51.568299
 Amerongenstraat,73,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809470,51.568341
 Amerongenstraat,75,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809524,51.568384
 Amerongenstraat,77,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809578,51.568427
-Amerongenstraat,81,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809564,51.568731
-Amerongenstraat,83,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809634,51.568700
-Amerongenstraat,85,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809704,51.568668
-Amerongenstraat,87,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809774,51.568636
-Amerongenstraat,89,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809844,51.568605
-Amerongenstraat,91,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.809916,51.568573
+Amerongenstraat,81,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810004,51.568555
+Amerongenstraat,83,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810029,51.568577
+Amerongenstraat,85,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810054,51.568598
+Amerongenstraat,87,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810080,51.568620
+Amerongenstraat,89,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810105,51.568642
+Amerongenstraat,91,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810130,51.568664
 Amerongenstraat,93,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810175,51.568702
 Amerongenstraat,95,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810194,51.568721
 Amerongenstraat,97,,,4834RB,Breda,Breda,Noord-Brabant,VBO,4.810217,51.568739
@@ -5004,7 +5004,7 @@ Barbaralaan,3,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795389,51.566935
 Barbaralaan,5,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795383,51.566914
 Barbaralaan,7,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795379,51.566890
 Barbaralaan,9,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795373,51.566868
-Barbaralaan,11,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795374,51.566849
+Barbaralaan,11,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795369,51.566837
 Barbaralaan,15,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795399,51.566723
 Barbaralaan,17,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795396,51.566661
 Barbaralaan,19,,,4834SJ,Breda,Breda,Noord-Brabant,VBO,4.795388,51.566607
@@ -5469,18 +5469,18 @@ Allerheiligenweg,37,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794549,51.567871
 Allerheiligenweg,39,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794549,51.567819
 Allerheiligenweg,41,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794543,51.567764
 Allerheiligenweg,43,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794540,51.567695
-Allerheiligenweg,45,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794573,51.567591
-Allerheiligenweg,45,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794538,51.567597
-Allerheiligenweg,47,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794530,51.567543
-Allerheiligenweg,47,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794528,51.567547
-Allerheiligenweg,49,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794549,51.567492
-Allerheiligenweg,49,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794514,51.567493
-Allerheiligenweg,51,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794545,51.567028
-Allerheiligenweg,51,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794513,51.567031
-Allerheiligenweg,53,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794506,51.566977
-Allerheiligenweg,53,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794501,51.566979
-Allerheiligenweg,55,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794525,51.566927
-Allerheiligenweg,55,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794490,51.566928
+Allerheiligenweg,45,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794536,51.567586
+Allerheiligenweg,45,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794543,51.567609
+Allerheiligenweg,47,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794522,51.567534
+Allerheiligenweg,47,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794523,51.567557
+Allerheiligenweg,49,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794507,51.567483
+Allerheiligenweg,49,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794512,51.567506
+Allerheiligenweg,51,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794505,51.567020
+Allerheiligenweg,51,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794507,51.567045
+Allerheiligenweg,53,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794495,51.566972
+Allerheiligenweg,53,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794500,51.566994
+Allerheiligenweg,55,,BIS,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794479,51.566918
+Allerheiligenweg,55,,,4834TM,Breda,Breda,Noord-Brabant,VBO,4.794482,51.566943
 Allerheiligenweg,57,,,4834TN,Breda,Breda,Noord-Brabant,VBO,4.794490,51.566808
 Allerheiligenweg,59,,,4834TN,Breda,Breda,Noord-Brabant,VBO,4.794485,51.566748
 Allerheiligenweg,61,,,4834TN,Breda,Breda,Noord-Brabant,VBO,4.794481,51.566694
@@ -6129,15 +6129,15 @@ Jacobusstraat,13,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.797603,51.568159
 Jacobusstraat,14,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796997,51.568064
 Jacobusstraat,15,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.797541,51.568165
 Jacobusstraat,16,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796993,51.568025
-Jacobusstraat,18,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796985,51.567979
+Jacobusstraat,18,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796968,51.567960
 Jacobusstraat,19,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.797495,51.568174
-Jacobusstraat,20,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796973,51.567930
+Jacobusstraat,20,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796937,51.567904
 Jacobusstraat,21,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.797396,51.568121
 Jacobusstraat,22,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796959,51.567877
 Jacobusstraat,23,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.797387,51.568068
-Jacobusstraat,24,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796951,51.567821
+Jacobusstraat,24,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796949,51.567800
 Jacobusstraat,25,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.797381,51.568019
-Jacobusstraat,26,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796943,51.567764
+Jacobusstraat,26,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796927,51.567742
 Jacobusstraat,27,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.797371,51.567973
 Jacobusstraat,28,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.796933,51.567700
 Jacobusstraat,29,,,4834WL,Breda,Breda,Noord-Brabant,VBO,4.797359,51.567922
@@ -6176,8 +6176,8 @@ Andreasstraat,21,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796429,51.567935
 Andreasstraat,23,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796421,51.567881
 Andreasstraat,25,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796411,51.567819
 Andreasstraat,27,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796401,51.567752
-Andreasstraat,29,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796386,51.567684
-Andreasstraat,31,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796375,51.567619
+Andreasstraat,29,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796399,51.567718
+Andreasstraat,31,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796391,51.567677
 Andreasstraat,33,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796375,51.567617
 Andreasstraat,35,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796404,51.567535
 Andreasstraat,37,,,4834WN,Breda,Breda,Noord-Brabant,VBO,4.796333,51.567485
@@ -6194,8 +6194,8 @@ Andreasstraat,10,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.796184,51.568657
 Andreasstraat,12,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.796153,51.568587
 Andreasstraat,16,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.795905,51.568447
 Andreasstraat,18,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.795957,51.568441
-Andreasstraat,20,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.796008,51.568435
-Andreasstraat,22,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.796067,51.568429
+Andreasstraat,20,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.795992,51.568440
+Andreasstraat,22,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.796029,51.568432
 Andreasstraat,26,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.796122,51.568362
 Andreasstraat,28,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.796114,51.568315
 Andreasstraat,30,,,4834WP,Breda,Breda,Noord-Brabant,VBO,4.796106,51.568258
@@ -6783,8 +6783,8 @@ Fatimastraat,105,,,4834XT,Breda,Breda,Noord-Brabant,VBO,4.792646,51.571277
 Fatimastraat,107,,,4834XT,Breda,Breda,Noord-Brabant,VBO,4.792667,51.571252
 Fatimastraat,109,,,4834XT,Breda,Breda,Noord-Brabant,VBO,4.792683,51.571229
 Fatimastraat,111,,,4834XT,Breda,Breda,Noord-Brabant,VBO,4.792703,51.571202
-Viveslaan,1,,,4834XV,Breda,Breda,Noord-Brabant,VBO,4.792693,51.575207
 Viveslaan,1,,,4834XV,Breda,Breda,Noord-Brabant,VBO,4.792848,51.575192
+Viveslaan,1,,,4834XV,Breda,Breda,Noord-Brabant,VBO,4.792693,51.575207
 Viveslaan,3,,,4834XV,Breda,Breda,Noord-Brabant,VBO,4.793747,51.575187
 Viveslaan,5,,,4834XV,Breda,Breda,Noord-Brabant,VBO,4.795154,51.574736
 Viveslaan,7,,,4834XV,Breda,Breda,Noord-Brabant,VBO,4.795207,51.574688

@@ -3286,6 +3286,13 @@ Steve Bikostraat,40,,,7557LZ,Hengelo,Hengelo,Overijssel,VBO,6.819780,52.276223
 Steve Bikostraat,42,,,7557LZ,Hengelo,Hengelo,Overijssel,VBO,6.819830,52.276324
 Steve Bikostraat,44,,,7557LZ,Hengelo,Hengelo,Overijssel,VBO,6.819860,52.276376
 Elsmarsweg,1,,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.807880,52.267898
+Elsmarsweg,2,A,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808336,52.267334
+Elsmarsweg,2,B,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808295,52.267405
+Elsmarsweg,2,C,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808284,52.267460
+Elsmarsweg,2,D,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808247,52.267527
+Elsmarsweg,2,E,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808236,52.267581
+Elsmarsweg,2,F,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808199,52.267651
+Elsmarsweg,2,G,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808186,52.267705
 Elsmarsweg,2,,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808175,52.267874
 Elsmarsweg,3,,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.807870,52.267948
 Elsmarsweg,4,,,7557PA,Hengelo,Hengelo,Overijssel,VBO,6.808162,52.267932
@@ -3324,6 +3331,7 @@ Wielewaalstraat,10,,,7557PD,Hengelo,Hengelo,Overijssel,VBO,6.805921,52.267217
 Wielewaalstraat,11,,,7557PD,Hengelo,Hengelo,Overijssel,VBO,6.807682,52.267622
 Wielewaalstraat,13,,,7557PD,Hengelo,Hengelo,Overijssel,VBO,6.807785,52.267630
 Wielewaalstraat,15,,,7557PD,Hengelo,Hengelo,Overijssel,VBO,6.807887,52.267641
+Wielewaalstraat,17,,,7557PD,Hengelo,Hengelo,Overijssel,VBO,6.808358,52.267284
 Koekoekweg,1,,,7557PE,Hengelo,Hengelo,Overijssel,VBO,6.804764,52.266673
 Koekoekweg,3,,,7557PE,Hengelo,Hengelo,Overijssel,VBO,6.804897,52.266806
 Koekoekweg,17,,,7557PE,Hengelo,Hengelo,Overijssel,VBO,6.805191,52.267181
@@ -4631,21 +4639,13 @@ Andantehof,13,,I,7557VE,Hengelo,Hengelo,Overijssel,VBO,6.817591,52.272717
 Andantehof,13,,,7557VE,Hengelo,Hengelo,Overijssel,VBO,6.817662,52.272703
 Andantehof,15,,I,7557VE,Hengelo,Hengelo,Overijssel,VBO,6.817547,52.272777
 Andantehof,15,,,7557VE,Hengelo,Hengelo,Overijssel,VBO,6.817615,52.272773
-Johan Wagenaarstraat,1,,I,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818687,52.273085
 Johan Wagenaarstraat,1,,,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818630,52.273092
-Johan Wagenaarstraat,3,,I,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818727,52.273021
 Johan Wagenaarstraat,3,,,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818668,52.273036
-Johan Wagenaarstraat,5,,I,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818778,52.272948
 Johan Wagenaarstraat,5,,,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818717,52.272975
-Johan Wagenaarstraat,7,,I,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818827,52.272885
 Johan Wagenaarstraat,7,,,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818772,52.272906
-Johan Wagenaarstraat,9,,I,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818881,52.272817
 Johan Wagenaarstraat,9,,,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818820,52.272841
-Johan Wagenaarstraat,11,,I,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818923,52.272753
 Johan Wagenaarstraat,11,,,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818881,52.272771
-Johan Wagenaarstraat,13,,I,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818970,52.272688
 Johan Wagenaarstraat,13,,,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818927,52.272704
-Johan Wagenaarstraat,15,,I,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.819011,52.272626
 Johan Wagenaarstraat,15,,,7557VG,Hengelo,Hengelo,Overijssel,VBO,6.818970,52.272637
 Johan Wagenaarstraat,2,,I,7557VH,Hengelo,Hengelo,Overijssel,VBO,6.818055,52.273203
 Johan Wagenaarstraat,2,,II,7557VH,Hengelo,Hengelo,Overijssel,VBO,6.818005,52.273204
@@ -4666,27 +4666,19 @@ Johan Wagenaarstraat,12,,I,7557VH,Hengelo,Hengelo,Overijssel,VBO,6.818286,52.272
 Johan Wagenaarstraat,12,,II,7557VH,Hengelo,Hengelo,Overijssel,VBO,6.818245,52.272880
 Johan Wagenaarstraat,12,,,7557VH,Hengelo,Hengelo,Overijssel,VBO,6.818280,52.272909
 Johan Wagenaarstraat,20,,,7557VH,Hengelo,Hengelo,Overijssel,VBO,6.818425,52.272719
-Allegrohof,1,,I,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819444,52.272762
 Allegrohof,1,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819513,52.272757
 Allegrohof,2,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819614,52.273069
-Allegrohof,3,,I,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819400,52.272829
 Allegrohof,3,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819468,52.272821
 Allegrohof,4,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819700,52.273095
-Allegrohof,5,,I,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819349,52.272892
 Allegrohof,5,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819421,52.272886
 Allegrohof,6,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819771,52.273114
-Allegrohof,7,,I,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819307,52.272956
 Allegrohof,7,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819370,52.272949
 Allegrohof,8,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819854,52.273137
-Allegrohof,9,,I,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819252,52.273021
 Allegrohof,9,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819321,52.273014
 Allegrohof,10,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819933,52.273156
-Allegrohof,11,,I,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819209,52.273080
 Allegrohof,11,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819263,52.273095
 Allegrohof,12,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.820010,52.273178
-Allegrohof,13,,I,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819154,52.273153
 Allegrohof,13,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819218,52.273146
-Allegrohof,15,,I,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819102,52.273217
 Allegrohof,15,,,7557VJ,Hengelo,Hengelo,Overijssel,VBO,6.819170,52.273211
 Willem Pijperstraat,1,,,7557VK,Hengelo,Hengelo,Overijssel,VBO,6.820134,52.273496
 Willem Pijperstraat,3,,,7557VK,Hengelo,Hengelo,Overijssel,VBO,6.820179,52.273433

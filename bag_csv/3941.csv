@@ -473,7 +473,6 @@ Sterkenburgerlaan,6,r,20,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.299890,5
 Sterkenburgerlaan,6,r,21,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.299576,52.037387
 Sterkenburgerlaan,6,r,22,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.299267,52.037185
 Sterkenburgerlaan,6,r,23,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.299911,52.037987
-Sterkenburgerlaan,6,r,24,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.302492,52.037748
 Sterkenburgerlaan,6,r,25,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.302518,52.037848
 Sterkenburgerlaan,6,r,26,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.302676,52.038060
 Sterkenburgerlaan,6,r,27,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.302874,52.037993
@@ -485,6 +484,7 @@ Sterkenburgerlaan,6,r,5,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.301673,52
 Sterkenburgerlaan,6,r,6,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.301450,52.039048
 Sterkenburgerlaan,6,r,7,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.300876,52.038684
 Sterkenburgerlaan,6,r,8,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.301053,52.038392
+Sterkenburgerlaan,6,t,24,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.302492,52.037748
 Sterkenburgerlaan,6,,,3941BE,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.302658,52.037866
 Jan Ligthartlaan,1,,,3941BG,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.306721,52.039334
 Jan Ligthartlaan,2,,,3941BG,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.305717,52.038588
@@ -2179,10 +2179,18 @@ Dorpsstraat,23,x,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.343638,52.03437
 Dorpsstraat,23,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.343615,52.034123
 Dorpsstraat,25,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344285,52.034617
 Dorpsstraat,27,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344271,52.033907
-Dorpsstraat,29,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344424,52.033855
-Dorpsstraat,31,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344548,52.033916
-Dorpsstraat,33,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344650,52.033880
-Dorpsstraat,35,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344737,52.033871
+Dorpsstraat,29,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344551,52.033854
+Dorpsstraat,31,a,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344642,52.033858
+Dorpsstraat,31,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344664,52.033823
+Dorpsstraat,33,a,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344747,52.033844
+Dorpsstraat,33,b,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344636,52.033903
+Dorpsstraat,33,c,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344743,52.033906
+Dorpsstraat,33,d,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344632,52.033943
+Dorpsstraat,33,e,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344743,52.033943
+Dorpsstraat,33,g,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344628,52.033974
+Dorpsstraat,33,h,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344747,52.033980
+Dorpsstraat,33,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344742,52.033805
+Dorpsstraat,35,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344767,52.033881
 Dorpsstraat,37,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.344869,52.033853
 Dorpsstraat,39,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.345029,52.033836
 Dorpsstraat,41,,,3941JK,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.345160,52.033791
@@ -2291,9 +2299,9 @@ Vita Novalaan,6,,,3941JS,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.338759,52.03684
 Vita Novalaan,9,,,3941JS,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.338818,52.036449
 Vita Novalaan,11,,,3941JS,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.338614,52.036458
 Raadhuisplein,1,,,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.343798,52.033487
-Raadhuisplein,2,a,,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.342563,52.033465
+Raadhuisplein,2,a,,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.342525,52.033278
 Raadhuisplein,2,b,,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.342208,52.033630
-Raadhuisplein,2,c,,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.342563,52.033465
+Raadhuisplein,2,c,,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.342398,52.033407
 Raadhuisplein,2,g,1,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.343376,52.033490
 Raadhuisplein,2,g,2,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.342790,52.033366
 Raadhuisplein,2,,,3941JT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.342782,52.033523
@@ -3009,12 +3017,12 @@ Leersumsestraatweg,23,r,31,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.388854
 Leersumsestraatweg,23,r,32,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.388975,52.029981
 Leersumsestraatweg,23,r,33,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.388719,52.030123
 Leersumsestraatweg,23,r,34,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.389016,52.030144
-Leersumsestraatweg,23,r,35,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386142,52.028610
+Leersumsestraatweg,23,r,35,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.385575,52.028082
 Leersumsestraatweg,23,r,36,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.389194,52.030604
 Leersumsestraatweg,23,r,37,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386931,52.030763
 Leersumsestraatweg,23,r,38,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.388800,52.030577
 Leersumsestraatweg,23,r,39,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.388377,52.030555
-Leersumsestraatweg,23,r,4,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.385975,52.028740
+Leersumsestraatweg,23,r,4,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387141,52.027743
 Leersumsestraatweg,23,r,40,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.388279,52.030669
 Leersumsestraatweg,23,r,41,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.388294,52.030788
 Leersumsestraatweg,23,r,42,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387955,52.030822
@@ -3035,15 +3043,16 @@ Leersumsestraatweg,23,r,55,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.388792
 Leersumsestraatweg,23,r,56,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387495,52.027953
 Leersumsestraatweg,23,r,57,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387684,52.028198
 Leersumsestraatweg,23,r,58,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387259,52.028294
-Leersumsestraatweg,23,r,59,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387762,52.028343
+Leersumsestraatweg,23,r,59,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386919,52.027837
 Leersumsestraatweg,23,r,6,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386028,52.029002
 Leersumsestraatweg,23,r,60,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387376,52.028515
 Leersumsestraatweg,23,r,61,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387901,52.028652
-Leersumsestraatweg,23,r,62,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387959,52.028833
+Leersumsestraatweg,23,r,62,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387958,52.028834
 Leersumsestraatweg,23,r,64,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387316,52.029289
 Leersumsestraatweg,23,r,65,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387108,52.029158
 Leersumsestraatweg,23,r,66,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387150,52.028943
-Leersumsestraatweg,23,r,67,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386866,52.028678
+Leersumsestraatweg,23,r,67,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387477,52.027990
+Leersumsestraatweg,23,r,68,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386630,52.027957
 Leersumsestraatweg,23,r,69,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386553,52.028453
 Leersumsestraatweg,23,r,7,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386009,52.029160
 Leersumsestraatweg,23,r,70,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.386840,52.028425
@@ -3153,6 +3162,7 @@ Leersumsestraatweg,23,x,97,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387307
 Leersumsestraatweg,23,x,98,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387484,52.031248
 Leersumsestraatweg,23,x,99,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.387320,52.031274
 Leersumsestraatweg,23,x,h46,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.385160,52.027793
+Leersumsestraatweg,23,,,3941MN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.385665,52.027980
 Leersumsestraatweg,2,,,3941MP,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.356440,52.033516
 Leersumsestraatweg,4,,,3941MP,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.359383,52.033525
 Hoolweg,1,,,3941MR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.382774,52.022868
@@ -3667,6 +3677,12 @@ Sitiolaan,257,,,3941PM,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.350627,52.031231
 Sitiolaan,259,,,3941PM,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.350642,52.031249
 Sitiolaan,261,,,3941PM,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.350656,52.031267
 Sitiolaan,263,,,3941PM,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.350642,52.031195
+Sitiolaan,4,,30,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.348059,52.030568
+Sitiolaan,4,,31,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.347939,52.030568
+Sitiolaan,4,,32,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.348067,52.030438
+Sitiolaan,4,,33,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.348081,52.030374
+Sitiolaan,4,,34,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.347959,52.030283
+Sitiolaan,4,,35,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.348075,52.030279
 Sitiolaan,4,,,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.348015,52.030268
 Sitiolaan,6,,,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.348806,52.030664
 Sitiolaan,8,,,3941PN,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.348995,52.030664
@@ -3705,8 +3721,8 @@ Achterweg,6,,,3941PS,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.335956,52.028227
 Achterweg,8,,,3941PS,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.338521,52.027622
 Achterweg,10,,,3941PS,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.338829,52.026643
 Molenweg,2,,,3941PT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.339954,52.033370
-Molenweg,4,,,3941PT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.338900,52.033347
 Molenweg,4,,,3941PT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.339069,52.033388
+Molenweg,4,,,3941PT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.338900,52.033347
 Molenweg,7,,,3941PT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.336881,52.032787
 Molenweg,9,a,,3941PT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332285,52.029507
 Molenweg,9,b,,3941PT,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.331076,52.029230
@@ -3742,7 +3758,6 @@ Korte Molenweg,3,d,32e,3941PW,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.335901,52.
 Korte Molenweg,3,d,36,3941PW,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.334235,52.035094
 Korte Molenweg,3,d,37,3941PW,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.333190,52.034790
 Korte Molenweg,3,d,4,3941PW,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.329207,52.033640
-Korte Molenweg,3,d,40,3941PW,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.327841,52.035378
 Korte Molenweg,3,d,47,3941PW,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.330899,52.031296
 Korte Molenweg,3,d,51,3941PW,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.330903,52.032202
 Korte Molenweg,3,d,6,3941PW,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.330244,52.031938
@@ -4882,8 +4897,8 @@ Maarnse Bergweg,1,x,124,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.331590,52
 Maarnse Bergweg,1,x,125,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.331804,52.063189
 Maarnse Bergweg,1,x,126,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332039,52.063095
 Maarnse Bergweg,1,x,128,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332145,52.062799
-Maarnse Bergweg,1,x,129,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332208,52.063140
 Maarnse Bergweg,1,x,129,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332280,52.062721
+Maarnse Bergweg,1,x,129,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332208,52.063140
 Maarnse Bergweg,1,x,130,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332302,52.062938
 Maarnse Bergweg,1,x,131,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332465,52.063125
 Maarnse Bergweg,1,x,132,3941XR,Doorn,Utrechtse Heuvelrug,Utrecht,VBO,5.332768,52.062890

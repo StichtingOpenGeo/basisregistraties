@@ -16,7 +16,6 @@ Gelkenes,7,,,2964AB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.826698,51.926990
 Gelkenes,8,,,2964AB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.826761,51.927014
 Gelkenes,9,,,2964AB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.827010,51.926958
 Gelkenes,10,,,2964AB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828160,51.927111
-Gelkenes,10,,,2964AB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828257,51.927129
 Gelkenes,11,,,2964AB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828648,51.927310
 Gelkenes,12,,,2964AB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828530,51.927462
 Gelkenes,13,,,2964AB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.829307,51.928113
@@ -70,6 +69,7 @@ Gelkenes,54,a,,2964AD,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.845477,51.93881
 Gelkenes,54,,,2964AD,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.843687,51.938726
 Gelkenes,55,,,2964AD,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.845836,51.939048
 Gelkenes,56,,,2964AD,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.846419,51.938970
+Gelkenes,57,a,,2964AD,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.847356,51.939133
 Gelkenes,57,,,2964AD,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.846798,51.938970
 Gelkenes,58,a,,2964AD,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.848574,51.938971
 Gelkenes,58,,,2964AD,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.847378,51.939029
@@ -125,8 +125,8 @@ Voorstraat,43,a,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818385,51.925
 Voorstraat,43,,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818312,51.925170
 Voorstraat,45,a,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818584,51.925345
 Voorstraat,45,b,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818644,51.925385
-Voorstraat,45,,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818469,51.925309
 Voorstraat,45,,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818424,51.925277
+Voorstraat,45,,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818469,51.925309
 Voorstraat,47,,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818732,51.925446
 Voorstraat,49,a,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818888,51.925533
 Voorstraat,49,,,2964AJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.818797,51.925490
@@ -542,6 +542,7 @@ Graafland,35,,,2964BJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.835350,51.92223
 Graafland,36,,,2964BJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.836065,51.922151
 Graafland,37,,,2964BJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.836170,51.921774
 Graafland,38,a,,2964BJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.836908,51.922204
+Graafland,38,,,2964BJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.836524,51.922265
 Graafland,38,,,2964BJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.836530,51.922251
 Graafland,39,,,2964BJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.837671,51.922144
 Graafland,40,,,2964BJ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.837873,51.922139
@@ -1268,7 +1269,6 @@ Nachtegaalstraat,4,,,2964CR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828015,51
 Nachtegaalstraat,6,,,2964CR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828101,51.925584
 Nachtegaalstraat,8,,,2964CR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828169,51.925613
 Nachtegaalstraat,10,,,2964CR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828262,51.925600
-Nachtegaalstraat,10,,,2964CR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828262,51.925600
 Nachtegaalstraat,12,,,2964CR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828349,51.925592
 Nachtegaalstraat,14,,,2964CR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828422,51.925610
 Nachtegaalstraat,16,,,2964CR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828494,51.925620
@@ -1516,16 +1516,17 @@ Schoonhovenseveer,1,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.848651,5
 Schoonhovenseveer,3,a,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.850638,51.939992
 Schoonhovenseveer,3,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.850918,51.939773
 Schoonhovenseveer,5,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.851252,51.939810
-Schoonhovenseveer,7,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.851659,51.940028
+Schoonhovenseveer,7,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.851679,51.939981
 Schoonhovenseveer,9,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.851833,51.939840
+Schoonhovenseveer,11,a,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.851986,51.939842
 Schoonhovenseveer,11,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.851935,51.939849
 Schoonhovenseveer,13,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.852134,51.939868
 Schoonhovenseveer,15,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.852311,51.940049
 Schoonhovenseveer,19,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.852515,51.939951
 Schoonhovenseveer,21,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.852527,51.940149
 Schoonhovenseveer,25,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.852864,51.940006
-Schoonhovenseveer,27,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.853039,51.940116
 Schoonhovenseveer,27,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.853096,51.940043
+Schoonhovenseveer,27,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.853039,51.940116
 Schoonhovenseveer,29,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.853167,51.940188
 Schoonhovenseveer,31,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.853488,51.940187
 Schoonhovenseveer,33,,,2964GB,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.853669,51.940229
@@ -1801,11 +1802,18 @@ Wipmolen,27,,,2964HR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.835686,51.924060
 Wipmolen,29,,,2964HR,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.835760,51.924081
 Achtkanter,2,,,2964HS,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.836580,51.923433
 Achtkanter,3,,,2964HS,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.836073,51.923504
+Kleine Donk,2,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823780,51.922028
+Kleine Donk,4,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823734,51.922075
 Kleine Donk,5,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823302,51.922138
+Kleine Donk,6,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823694,51.922118
 Kleine Donk,7,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823266,51.922178
+Kleine Donk,8,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823645,51.922165
 Kleine Donk,9,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823212,51.922218
 Kleine Donk,11,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823082,51.922299
 Kleine Donk,13,,,2964HW,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823018,51.922359
+Grote Donk,1,,,2964HX,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823489,51.922302
+Grote Donk,3,,,2964HX,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823679,51.922392
+Grote Donk,5,,,2964HX,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.823744,51.922420
 Doorbraak,2,,,2964HZ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828187,51.923057
 Doorbraak,4,,,2964HZ,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.828342,51.922845
 Achterland,1,a,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.842197,51.905730
@@ -1832,8 +1840,8 @@ Achterland,15,a,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.861568,51.907
 Achterland,15,b,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.861904,51.907393
 Achterland,15,,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.860402,51.907350
 Achterland,16,,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.863176,51.907488
-Achterland,17,,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.863816,51.907410
 Achterland,17,,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.863497,51.907027
+Achterland,17,,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.863816,51.907410
 Achterland,18,,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.865921,51.907581
 Achterland,19,a,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.867322,51.907264
 Achterland,19,b,,2964LA,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.867195,51.907640
@@ -1867,8 +1875,8 @@ Peppelweg,1,,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.833855,51.912926
 Peppelweg,2,a,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.851435,51.914684
 Peppelweg,2,b,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.852269,51.914794
 Peppelweg,2,,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.851986,51.914763
-Peppelweg,3,a,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.839917,51.913532
 Peppelweg,3,a,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.839180,51.912928
+Peppelweg,3,a,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.839917,51.913532
 Peppelweg,3,,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.838401,51.913351
 Peppelweg,4,,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.859212,51.915820
 Peppelweg,6,,,2964LC,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.861691,51.916353
@@ -1979,7 +1987,7 @@ Edisonweg,18,,,2964LK,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.843486,51.93508
 Edisonweg,20,,,2964LK,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.843280,51.935226
 Huijgensweg,3,,,2964LL,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.846625,51.935178
 Stevinweg,1,a,,2964LM,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.845514,51.935783
-Stevinweg,3,a,,2964LM,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.845133,51.935426
+Stevinweg,3,a,,2964LM,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.845158,51.935327
 Stevinweg,3,,,2964LM,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.844636,51.935576
 Lorentzweg,1,,,2964LN,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.845805,51.936418
 Lorentzweg,2,a,,2964LN,Groot-Ammers,Molenwaard,Zuid-Holland,VBO,4.845021,51.936892
