@@ -115,7 +115,7 @@ Willem van Houtenstraat,106,,,3151AC,Hoek van Holland,Rotterdam,Zuid-Holland,VBO
 Kleine Schoolstraat,8,A,,3151AD,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133398,51.976529
 Kleine Schoolstraat,8,B,,3151AD,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133398,51.976529
 Kleine Schoolstraat,9,A,,3151AD,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133185,51.976583
-Kleine Schoolstraat,9,B,,3151AD,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133185,51.976583
+Kleine Schoolstraat,9,B,,3151AD,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132786,51.976335
 Prins Hendrikstraat,41,,,3151AE,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.138625,51.972608
 Prins Hendrikstraat,45,,,3151AE,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.138816,51.972824
 Prins Hendrikstraat,49,,,3151AE,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.139473,51.972786
@@ -853,9 +853,6 @@ De Cordesstraat,81,,,3151BJ,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133358
 De Cordesstraat,83,,,3151BJ,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133325,51.977979
 De Cordesstraat,85,,,3151BJ,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133293,51.977929
 De Cordesstraat,87,,,3151BJ,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133258,51.977877
-De Cordesstraat,11,B,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.134451,51.977016
-De Cordesstraat,11,C,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.134490,51.977003
-De Cordesstraat,11,D,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.134689,51.976911
 De Cordesstraat,89,A,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133635,51.977691
 De Cordesstraat,89,B,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133635,51.977691
 De Cordesstraat,89,C,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133635,51.977691
@@ -880,6 +877,9 @@ De Cordesstraat,101,,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.13390
 De Cordesstraat,103,,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133949,51.977360
 De Cordesstraat,105,,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133941,51.977298
 De Cordesstraat,107,,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133950,51.977219
+De Cordesstraat,111,B,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.134451,51.977016
+De Cordesstraat,111,C,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.134490,51.977003
+De Cordesstraat,111,D,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.134689,51.976911
 De Cordesstraat,111,,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.134232,51.977131
 De Cordesstraat,113,,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.135436,51.976470
 De Cordesstraat,115,,,3151BK,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.135519,51.976431
@@ -2512,8 +2512,8 @@ Stationsweg,10,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126347,51.
 Stationsweg,50,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124018,51.978273
 Stationsweg,52,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123885,51.978546
 Stationsweg,54,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123861,51.978590
-Stationsweg,56,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123524,51.978852
-Stationsweg,58,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123587,51.978819
+Stationsweg,56,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123607,51.978815
+Stationsweg,58,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123524,51.978852
 Stationsweg,60,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123326,51.978952
 Stationsweg,62,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123272,51.978982
 Stationsweg,64,,,3151HS,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123078,51.979082
@@ -3226,27 +3226,49 @@ Dokter Diamantlaan,42,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133
 Dokter Diamantlaan,43,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133113,51.991193
 Dokter Diamantlaan,44,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133620,51.991224
 Dokter Diamantlaan,45,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133074,51.991151
+Dokter Diamantlaan,46,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133467,51.991147
 Dokter Diamantlaan,47,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133029,51.991109
+Dokter Diamantlaan,48,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133421,51.991100
 Dokter Diamantlaan,49,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132987,51.991064
+Dokter Diamantlaan,50,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133334,51.991011
 Dokter Diamantlaan,51,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132955,51.991030
+Dokter Diamantlaan,52,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133285,51.990967
 Dokter Diamantlaan,53,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132583,51.990640
+Dokter Diamantlaan,54,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133204,51.990879
 Dokter Diamantlaan,55,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132539,51.990598
+Dokter Diamantlaan,56,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133152,51.990831
 Dokter Diamantlaan,57,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132498,51.990555
+Dokter Diamantlaan,58,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133067,51.990743
 Dokter Diamantlaan,59,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132456,51.990515
+Dokter Diamantlaan,60,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.133019,51.990699
 Dokter Diamantlaan,61,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132415,51.990474
+Dokter Diamantlaan,62,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132934,51.990608
 Dokter Diamantlaan,63,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132374,51.990431
+Dokter Diamantlaan,64,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132889,51.990563
 Dokter Diamantlaan,65,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132332,51.990387
+Dokter Diamantlaan,66,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132801,51.990478
 Dokter Diamantlaan,67,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132290,51.990346
+Dokter Diamantlaan,68,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132765,51.990435
 Dokter Diamantlaan,69,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132249,51.990304
+Dokter Diamantlaan,70,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132665,51.990342
 Dokter Diamantlaan,71,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132204,51.990265
+Dokter Diamantlaan,72,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132617,51.990293
 Dokter Diamantlaan,73,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131811,51.989855
+Dokter Diamantlaan,74,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132545,51.990208
 Dokter Diamantlaan,75,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131582,51.989639
+Dokter Diamantlaan,76,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132496,51.990162
 Dokter Diamantlaan,77,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131538,51.989594
+Dokter Diamantlaan,78,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132409,51.990074
 Dokter Diamantlaan,79,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131492,51.989551
+Dokter Diamantlaan,80,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132363,51.990026
 Dokter Diamantlaan,81,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131449,51.989504
+Dokter Diamantlaan,82,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132282,51.989937
 Dokter Diamantlaan,83,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131405,51.989461
+Dokter Diamantlaan,84,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132233,51.989888
 Dokter Diamantlaan,85,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131361,51.989417
+Dokter Diamantlaan,86,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132143,51.989805
 Dokter Diamantlaan,87,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131347,51.989403
+Dokter Diamantlaan,88,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132103,51.989758
 Dokter Diamantlaan,89,,,3151MB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131144,51.989168
 Leen van Ooijenlaan,3,,,3151MC,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.137108,51.991265
 Leen van Ooijenlaan,5,,,3151MC,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.136694,51.991410
@@ -3667,10 +3689,10 @@ Scheepvaartplein,40,,,3151NH,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.13489
 1e Scheepvaartstraat,20,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.132051,51.977550
 1e Scheepvaartstraat,22,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131990,51.977582
 1e Scheepvaartstraat,24,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131926,51.977616
-1e Scheepvaartstraat,26,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131635,51.977784
 1e Scheepvaartstraat,26,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131693,51.977774
-1e Scheepvaartstraat,28,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131613,51.977805
+1e Scheepvaartstraat,26,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131635,51.977784
 1e Scheepvaartstraat,28,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131579,51.977814
+1e Scheepvaartstraat,28,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131613,51.977805
 1e Scheepvaartstraat,30,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131560,51.977834
 1e Scheepvaartstraat,32,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131509,51.977864
 1e Scheepvaartstraat,34,,,3151NL,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.131451,51.977892
@@ -5000,7 +5022,7 @@ Wierstraat,101,C,K004,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12700
 Wierstraat,101,C,K005,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126939,51.989118
 Wierstraat,101,C,K006,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126904,51.989263
 Wierstraat,101,C,K007,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126841,51.989090
-Wierstraat,101,C,K008,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126802,51.989219
+Wierstraat,101,C,K008,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126795,51.989232
 Wierstraat,101,C,K009,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126733,51.989064
 Wierstraat,101,C,K010,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126683,51.989206
 Wierstraat,101,C,K011,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126634,51.989024
@@ -5021,7 +5043,7 @@ Wierstraat,101,D,K012,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12642
 Wierstraat,101,D,K014,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126312,51.989378
 Wierstraat,101,E,K001,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126860,51.989657
 Wierstraat,101,E,K002,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126765,51.989769
-Wierstraat,101,E,K003,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126780,51.989625
+Wierstraat,101,E,K003,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126776,51.989632
 Wierstraat,101,E,K004,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126649,51.989747
 Wierstraat,101,E,K005,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126669,51.989603
 Wierstraat,101,E,K006,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126565,51.989720
@@ -5098,13 +5120,13 @@ Wierstraat,101,H,K078,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12560
 Wierstraat,101,H,K079,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125166,51.989682
 Wierstraat,101,H,K080,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125410,51.989596
 Wierstraat,101,H,K081,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125051,51.989669
-Wierstraat,101,H,K083,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124924,51.989687
+Wierstraat,101,H,K083,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124937,51.989709
 Wierstraat,101,H,K085,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124813,51.989720
 Wierstraat,101,H,K086,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125319,51.989561
 Wierstraat,101,H,K087,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124582,51.989799
 Wierstraat,101,H,K089,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124479,51.989833
 Wierstraat,101,H,K090,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125137,51.989496
-Wierstraat,101,H,K091,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124379,51.989860
+Wierstraat,101,H,K091,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124386,51.989878
 Wierstraat,101,H,K092,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124903,51.989534
 Wierstraat,101,H,K093,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124265,51.989893
 Wierstraat,101,H,K095,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124159,51.989926
@@ -5158,7 +5180,7 @@ Wierstraat,101,L,K018,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12495
 Wierstraat,101,L,K020,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124998,51.990067
 Wierstraat,101,M,K001,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124615,51.990773
 Wierstraat,101,M,K002,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124758,51.990860
-Wierstraat,101,M,K003,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124672,51.990701
+Wierstraat,101,M,K003,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124690,51.990711
 Wierstraat,101,M,K004,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124860,51.990789
 Wierstraat,101,M,K009,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124840,51.990500
 Wierstraat,101,M,K010,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124988,51.990604
@@ -5179,7 +5201,7 @@ Wierstraat,101,P,K002,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12502
 Wierstraat,101,P,K003,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124951,51.990890
 Wierstraat,101,P,K004,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125112,51.990983
 Wierstraat,101,P,K007,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125035,51.990800
-Wierstraat,101,P,K008,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125197,51.990865
+Wierstraat,101,P,K008,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125206,51.990872
 Wierstraat,101,P,K009,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125090,51.990738
 Wierstraat,101,P,K011,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125130,51.990680
 Wierstraat,101,P,K012,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125290,51.990767
@@ -5243,7 +5265,7 @@ Wierstraat,101,R,K008,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12365
 Wierstraat,101,R,K009,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124000,51.990415
 Wierstraat,101,R,K010,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123730,51.990456
 Wierstraat,101,R,K011,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124088,51.990467
-Wierstraat,101,R,K012,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123818,51.990529
+Wierstraat,101,R,K012,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123821,51.990538
 Wierstraat,101,R,K013,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124147,51.990513
 Wierstraat,101,R,K015,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124224,51.990588
 Wierstraat,101,R,K016,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123957,51.990641
@@ -5283,7 +5305,7 @@ Wierstraat,101,S,K013,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12393
 Wierstraat,101,S,K014,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123738,51.990865
 Wierstraat,101,S,K016,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123813,51.990922
 Wierstraat,101,S,K017,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124058,51.990898
-Wierstraat,101,S,K018,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123896,51.991002
+Wierstraat,101,S,K018,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123897,51.991025
 Wierstraat,101,S,K022,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124018,51.991078
 Wierstraat,101,S,K023,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124192,51.991019
 Wierstraat,101,S,K025,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124285,51.991090
@@ -5301,7 +5323,7 @@ Wierstraat,101,S,K042,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12460
 Wierstraat,101,S,K045,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124991,51.991630
 Wierstraat,101,S,K046,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124693,51.991616
 Wierstraat,101,S,K047,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125120,51.991723
-Wierstraat,101,S,K048,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124743,51.991673
+Wierstraat,101,S,K048,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.124748,51.991693
 Wierstraat,101,S,K056,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.125047,51.991893
 Wierstraat,101,T,K002,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123231,51.990655
 Wierstraat,101,T,K004,3151VM,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.123300,51.990708
@@ -5623,7 +5645,7 @@ Wierstraat,100,F,K037,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12810
 Wierstraat,100,F,K039,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128154,51.990347
 Wierstraat,100,F,K041,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128196,51.990424
 Wierstraat,100,F,K043,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128244,51.990501
-Wierstraat,100,F,K045,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128282,51.990562
+Wierstraat,100,F,K045,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128291,51.990576
 Wierstraat,100,F,K047,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128336,51.990635
 Wierstraat,100,F,K049,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128375,51.990704
 Wierstraat,100,F,K051,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128418,51.990777
@@ -5673,7 +5695,7 @@ Wierstraat,100,K,K016,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12728
 Wierstraat,100,K,K017,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126639,51.991850
 Wierstraat,100,K,K018,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.127226,51.991655
 Wierstraat,100,K,K019,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126677,51.991778
-Wierstraat,100,K,K01A,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126910,51.988497
+Wierstraat,100,K,K01A,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.127596,51.992164
 Wierstraat,100,K,K020,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.127246,51.991736
 Wierstraat,100,K,K021,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.126760,51.991708
 Wierstraat,100,K,K022,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.127229,51.991846
@@ -5797,7 +5819,7 @@ Wierstraat,100,S,K011,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.12829
 Wierstraat,100,S,K013,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128377,51.993667
 Wierstraat,100,S,K015,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128454,51.993730
 Wierstraat,100,S,K017,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128530,51.993796
-Wierstraat,100,T,K001,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128175,51.994143
+Wierstraat,100,T,K001,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128210,51.994126
 Wierstraat,100,T,K002,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128407,51.994265
 Wierstraat,100,T,K004,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128314,51.994305
 Wierstraat,100,T,K005,3151VP,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.128084,51.994185
@@ -6072,6 +6094,7 @@ Dwarshaak,26,,,3151XB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.160290,51.96
 Dwarshaak,28,,,3151XB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.159676,51.970187
 Dwarshaak,30,,,3151XB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.159438,51.970190
 Dwarshaak,34,,,3151XB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.158180,51.970824
+Dwarshaak,36,,,3151XB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.157587,51.971012
 Dwarshaak,38,,,3151XB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.156873,51.971146
 Dwarshaak,40,,,3151XB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.155852,51.971341
 Dwarshaak,42,,,3151XB,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.155466,51.971335
@@ -6287,8 +6310,6 @@ Nieuwlandse Polderweg,22,,,3151XX,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.
 Nieuwlandse Polderweg,24,,,3151XX,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.143024,51.988250
 Nieuwlandse Polderweg,25,,,3151XX,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.142230,51.987964
 Noordlandseweg,4,,,3151XZ,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.134717,51.993080
-Bagijneland,22,,,3151ZA,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.148763,51.983448
-Bagijneland,24,B,,3151ZA,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.148592,51.983538
 Bagijneland,26,,,3151ZA,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.148143,51.983550
 Bagijneland,35,,,3151ZA,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.148155,51.983032
 Bagijneland,37,,,3151ZA,Hoek van Holland,Rotterdam,Zuid-Holland,VBO,4.148159,51.983026

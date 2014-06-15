@@ -47,6 +47,7 @@ Beulakerweg,63,a,,8355AC,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081064,52.74
 Beulakerweg,63,,,8355AC,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080991,52.749949
 Beulakerweg,65,,,8355AC,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080867,52.749608
 Beulakerweg,67,,,8355AC,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080759,52.749330
+Beulakerweg,67,,,8355AC,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081065,52.749409
 Beulakerweg,69,,,8355AC,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080682,52.749142
 Beulakerweg,71,,,8355AC,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080619,52.748936
 Beulakerweg,73,,,8355AC,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080294,52.748021
@@ -128,7 +129,6 @@ Beulakerweg,6,,,8355AH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.084362,52.7608
 Beulakerweg,8,a,,8355AH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.082656,52.756931
 Beulakerweg,8,,,8355AH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.083620,52.758813
 Beulakerweg,10,,,8355AH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081240,52.756908
-Beulakerweg,10,,,8355AH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081278,52.756859
 Beulakerweg,12,,,8355AH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081047,52.755404
 Beulakerweg,14,,,8355AH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.082382,52.755486
 Beulakerweg,16,,,8355AH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.082201,52.755280
@@ -599,8 +599,8 @@ Binnenpad,30,t,,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.088808,52.7251
 Binnenpad,30,,,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090029,52.725253
 Binnenpad,31,,,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090369,52.726123
 Binnenpad,32,,,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090039,52.724939
-Binnenpad,33,R,34,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091241,52.725656
 Binnenpad,33,a,,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091179,52.725867
+Binnenpad,33,R,34,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091241,52.725656
 Binnenpad,33,,,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090420,52.725934
 Binnenpad,35,,,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090379,52.725827
 Binnenpad,37,,,8355BR,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090391,52.725638
@@ -702,11 +702,6 @@ Binnenpad,52,,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.089818,52.72223
 Binnenpad,54,,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.089917,52.721929
 Binnenpad,56,,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.089124,52.721385
 Binnenpad,73,,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090366,52.722268
-Binnenpad,75,J,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.093474,52.722258
-Binnenpad,75,K,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.093771,52.722275
-Binnenpad,75,L,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.092902,52.722256
-Binnenpad,75,M,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.094229,52.722085
-Binnenpad,75,N,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.094515,52.722099
 Binnenpad,75,a,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091876,52.722277
 Binnenpad,75,b,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.092275,52.722247
 Binnenpad,75,c,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.092660,52.722245
@@ -716,6 +711,11 @@ Binnenpad,75,f,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.093293,52.7220
 Binnenpad,75,g,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.093693,52.722077
 Binnenpad,75,h,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.093149,52.722251
 Binnenpad,75,i,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.094789,52.722107
+Binnenpad,75,j,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.093474,52.722258
+Binnenpad,75,k,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.093771,52.722275
+Binnenpad,75,l,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.092902,52.722256
+Binnenpad,75,m,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.094229,52.722085
+Binnenpad,75,n,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.094515,52.722099
 Binnenpad,75,,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091033,52.722309
 Binnenpad,77,,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091015,52.722111
 Binnenpad,79,,,8355BT,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091725,52.722080
@@ -752,6 +752,7 @@ Binnenpad,105,,,8355BV,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090569,52.7210
 Binnenpad,107,,,8355BV,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091178,52.721220
 Binnenpad,109,,,8355BV,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091057,52.721032
 Binnenpad,111,,,8355BV,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090566,52.720901
+Binnenpad,113,R,29,8355BV,Giethoorn,Steenwijkerland,Overijssel,VBO,6.091216,52.720557
 Binnenpad,113,,,8355BV,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090548,52.720658
 Binnenpad,115,,,8355BV,Giethoorn,Steenwijkerland,Overijssel,VBO,6.090544,52.720415
 Binnenpad,117,a,,8355BV,Giethoorn,Steenwijkerland,Overijssel,VBO,6.092365,52.720536
@@ -894,7 +895,7 @@ Ds. T.O.Hylkemaweg,6,,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080309,
 Ds. T.O.Hylkemaweg,7,,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080449,52.722236
 Ds. T.O.Hylkemaweg,8,,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080700,52.722226
 Ds. T.O.Hylkemaweg,9,,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.080849,52.722261
-Ds. T.O.Hylkemaweg,10,a,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081203,52.722271
+Ds. T.O.Hylkemaweg,10,a,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081272,52.722115
 Ds. T.O.Hylkemaweg,10,,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081115,52.722259
 Ds. T.O.Hylkemaweg,11,,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081337,52.722267
 Ds. T.O.Hylkemaweg,12,a,,8355CD,Giethoorn,Steenwijkerland,Overijssel,VBO,6.081586,52.722104
@@ -985,6 +986,7 @@ Cornelisgracht,34,t,,8355CH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.055069,52
 Cornelisgracht,34,,,8355CH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.056980,52.722150
 Cornelisgracht,36,,,8355CH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.051747,52.725087
 Cornelisgracht,38,,,8355CH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.051798,52.726498
+Cornelisgracht,40,a,,8355CH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.052055,52.727838
 Cornelisgracht,40,,,8355CH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.051863,52.727836
 Cornelisgracht,42,,,8355CH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.052176,52.728949
 Cornelisgracht,44,t,,8355CH,Giethoorn,Steenwijkerland,Overijssel,VBO,6.051682,52.729660
@@ -1209,6 +1211,7 @@ Jonenweg,5,R,409,8355CN,Giethoorn,Steenwijkerland,Overijssel,VBO,6.069639,52.718
 Jonenweg,5,R,410,8355CN,Giethoorn,Steenwijkerland,Overijssel,VBO,6.069493,52.718420
 Jonenweg,5,R,411,8355CN,Giethoorn,Steenwijkerland,Overijssel,VBO,6.069395,52.718253
 Jonenweg,5,R,412,8355CN,Giethoorn,Steenwijkerland,Overijssel,VBO,6.069304,52.718115
+Jonenweg,5,R,413,8355CN,Giethoorn,Steenwijkerland,Overijssel,VBO,6.069254,52.718042
 Jonenweg,5,R,414,8355CN,Giethoorn,Steenwijkerland,Overijssel,VBO,6.069211,52.717944
 Jonenweg,5,R,415,8355CN,Giethoorn,Steenwijkerland,Overijssel,VBO,6.068898,52.717838
 Jonenweg,5,R,416,8355CN,Giethoorn,Steenwijkerland,Overijssel,VBO,6.068551,52.717726

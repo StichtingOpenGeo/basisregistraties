@@ -13,6 +13,8 @@ Nieuweweg,19,,,7948AA,Nijeveen,Meppel,Drenthe,VBO,6.164480,52.730242
 Nieuweweg,21,,,7948AA,Nijeveen,Meppel,Drenthe,VBO,6.164543,52.730145
 Nieuweweg,23,,,7948AA,Nijeveen,Meppel,Drenthe,VBO,6.164575,52.730095
 Nieuweweg,25,,,7948AA,Nijeveen,Meppel,Drenthe,VBO,6.164650,52.729979
+Nieuweweg,27,A,,7948AA,Nijeveen,Meppel,Drenthe,VBO,6.164926,52.729686
+Nieuweweg,27,,,7948AA,Nijeveen,Meppel,Drenthe,VBO,6.165097,52.729750
 Burg. van Veenlaan,1,,,7948AB,Nijeveen,Meppel,Drenthe,VBO,6.165025,52.732107
 Burg. van Veenlaan,3,,,7948AB,Nijeveen,Meppel,Drenthe,VBO,6.165116,52.731965
 Burg. van Veenlaan,5,A,,7948AB,Nijeveen,Meppel,Drenthe,VBO,6.165397,52.731885
@@ -85,8 +87,6 @@ Burg. Haitsmalaan,20,,,7948AE,Nijeveen,Meppel,Drenthe,VBO,6.165924,52.729917
 Burg. Haitsmalaan,22,,,7948AE,Nijeveen,Meppel,Drenthe,VBO,6.165827,52.729798
 Burg. Haitsmalaan,24,,,7948AE,Nijeveen,Meppel,Drenthe,VBO,6.165766,52.729760
 Burg. Haitsmalaan,26,,,7948AE,Nijeveen,Meppel,Drenthe,VBO,6.165623,52.729670
-Burg. Haitsmalaan,28,A,,7948AE,Nijeveen,Meppel,Drenthe,VBO,6.165130,52.729610
-Burg. Haitsmalaan,28,,,7948AE,Nijeveen,Meppel,Drenthe,VBO,6.165241,52.729461
 Griftestuk,1,,,7948AG,Nijeveen,Meppel,Drenthe,VBO,6.168455,52.729760
 Griftestuk,3,,,7948AG,Nijeveen,Meppel,Drenthe,VBO,6.168487,52.729708
 Griftestuk,5,,,7948AG,Nijeveen,Meppel,Drenthe,VBO,6.168575,52.729566
@@ -493,16 +493,16 @@ Dorpsstraat,9,,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.165219,52.732523
 Dorpsstraat,11,,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.165588,52.732557
 Dorpsstraat,13,,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.165842,52.732558
 Dorpsstraat,23,,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167402,52.733006
-Dorpsstraat,25,A,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167689,52.733133
-Dorpsstraat,25,B,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167659,52.733166
-Dorpsstraat,25,C,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167638,52.733196
-Dorpsstraat,25,D,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167617,52.733231
-Dorpsstraat,25,E,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167768,52.733134
-Dorpsstraat,25,F,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167750,52.733166
-Dorpsstraat,25,G,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167743,52.733191
-Dorpsstraat,25,H,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167715,52.733213
-Dorpsstraat,25,J,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167692,52.733247
-Dorpsstraat,25,,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167745,52.733094
+Dorpsstraat,25,A,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167827,52.733116
+Dorpsstraat,25,B,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167799,52.733110
+Dorpsstraat,25,C,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167799,52.733161
+Dorpsstraat,25,D,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167771,52.733155
+Dorpsstraat,25,E,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167771,52.733207
+Dorpsstraat,25,F,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167744,52.733201
+Dorpsstraat,25,G,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167743,52.733252
+Dorpsstraat,25,H,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167716,52.733246
+Dorpsstraat,25,J,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167716,52.733298
+Dorpsstraat,25,K,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167688,52.733292
 Dorpsstraat,27,A,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.167999,52.733237
 Dorpsstraat,27,,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.168066,52.733156
 Dorpsstraat,29,,,7948BL,Nijeveen,Meppel,Drenthe,VBO,6.168501,52.733303
@@ -1235,8 +1235,8 @@ Nijeveense Bovenboer,32,,,7948LG,Nijeveen,Meppel,Drenthe,VBO,6.178920,52.751260
 Nijeveense Bovenboer,34,,,7948LG,Nijeveen,Meppel,Drenthe,VBO,6.179633,52.751239
 Rijksweg,1,,,7948LH,Nijeveen,Meppel,Drenthe,VBO,6.184792,52.754967
 Rijksweg,5,,,7948LH,Nijeveen,Meppel,Drenthe,VBO,6.180059,52.763463
-Rijksweg,25,,,7948LH,Meppel,Meppel,Drenthe,VBO,6.203137,52.730267
 Rijksweg,25,,,7948LH,Meppel,Meppel,Drenthe,VBO,6.203092,52.730282
+Rijksweg,25,,,7948LH,Meppel,Meppel,Drenthe,VBO,6.203137,52.730267
 Rijksweg,26,,,7948LH,Meppel,Meppel,Drenthe,VBO,6.203782,52.730766
 Schoolweg,1,,,7948LJ,Nijeveen,Meppel,Drenthe,VBO,6.171332,52.770600
 Schoolweg,2,,,7948LJ,Nijeveen,Meppel,Drenthe,VBO,6.171510,52.769085

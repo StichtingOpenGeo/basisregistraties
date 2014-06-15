@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Reeverdijk,13,a,,7217LA,Harfsen,Lochem,Gelderland,VBO,6.266933,52.186864
 Reeverdijk,13,,,7217LA,Harfsen,Lochem,Gelderland,VBO,6.267115,52.186988
 Asselerweg,3,a,,7217MA,Harfsen,Lochem,Gelderland,VBO,6.305159,52.182270
 Asselerweg,3,,,7217MA,Harfsen,Lochem,Gelderland,VBO,6.305450,52.182032
@@ -105,7 +104,8 @@ Harfsense Steeg,23,,,7217MG,Harfsen,Lochem,Gelderland,VBO,6.293260,52.183423
 Harfsense Steeg,25,,,7217MG,Harfsen,Lochem,Gelderland,VBO,6.294342,52.180636
 Harfsense Steeg,27,,,7217MG,Harfsen,Lochem,Gelderland,VBO,6.295153,52.180597
 Harfsense Steeg,29,,,7217MG,Harfsen,Lochem,Gelderland,VBO,6.312284,52.181276
-Harfsense Steeg,32,,,7217MG,Harfsen,Lochem,Gelderland,VBO,6.288016,52.180077
+Harfsense Steeg,32,a,,7217MG,Harfsen,Lochem,Gelderland,VBO,6.288016,52.179884
+Harfsense Steeg,32,,,7217MG,Harfsen,Lochem,Gelderland,VBO,6.288014,52.180054
 Harfsense Steeg,34,,,7217MG,Harfsen,Lochem,Gelderland,VBO,6.289155,52.179317
 Harfsense Steeg,36,,,7217MH,Harfsen,Lochem,Gelderland,VBO,6.308616,52.179940
 Harfsense Steeg,38,,,7217MH,Harfsen,Lochem,Gelderland,VBO,6.315882,52.179825
@@ -668,7 +668,7 @@ Hulstweg,4,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.295032,52.207136
 Hulstweg,5,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.295621,52.206953
 Hulstweg,6,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.294192,52.206616
 Hulstweg,7,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.295619,52.206800
-Hulstweg,8,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.294514,52.206375
+Hulstweg,8,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.294697,52.206416
 Hulstweg,9,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.295618,52.206647
 Hulstweg,11,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.295614,52.206494
 Hulstweg,13,,,7217SZ,Harfsen,Lochem,Gelderland,VBO,6.295610,52.206324
@@ -739,6 +739,7 @@ Reeverweg,48,,,7217TG,Harfsen,Lochem,Gelderland,VBO,6.281929,52.193556
 Reeverweg,50,t,,7217TG,Harfsen,Lochem,Gelderland,VBO,6.283616,52.194048
 Reeverweg,52,,,7217TG,Harfsen,Lochem,Gelderland,VBO,6.277521,52.190514
 Schepersweg,2,a,,7217TH,Harfsen,Lochem,Gelderland,VBO,6.262425,52.205863
+Schepersweg,2,b,,7217TH,Harfsen,Lochem,Gelderland,VBO,6.262285,52.205660
 Schepersweg,2,,,7217TH,Harfsen,Lochem,Gelderland,VBO,6.262505,52.205945
 Schepersweg,3,t,,7217TH,Harfsen,Lochem,Gelderland,VBO,6.271433,52.204924
 Schepersweg,3,,,7217TH,Harfsen,Lochem,Gelderland,VBO,6.272090,52.204705

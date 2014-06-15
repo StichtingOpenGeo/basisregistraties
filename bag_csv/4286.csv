@@ -394,14 +394,6 @@ Van Hogendorpstraat,26,,,4286BK,Almkerk,Woudrichem,Noord-Brabant,VBO,4.966100,51
 Van Hogendorpstraat,28,,,4286BK,Almkerk,Woudrichem,Noord-Brabant,VBO,4.966160,51.773373
 Van Hogendorpstraat,30,,,4286BK,Almkerk,Woudrichem,Noord-Brabant,VBO,4.966220,51.773415
 Van Hogendorpstraat,32,,,4286BK,Almkerk,Woudrichem,Noord-Brabant,VBO,4.966280,51.773457
-Werf,2,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962922,51.771915
-Werf,4,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962849,51.771898
-Werf,6,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962778,51.771881
-Werf,8,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962706,51.771859
-Werf,10,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962623,51.771839
-Werf,12,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962549,51.771821
-Werf,14,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962476,51.771804
-Werf,16,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962402,51.771786
 de Borchgravestraat,1,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.963590,51.772427
 de Borchgravestraat,3,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.963490,51.772404
 de Borchgravestraat,5,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.963317,51.772363
@@ -421,6 +413,14 @@ de Borchgravestraat,31,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962130,51
 de Borchgravestraat,33,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962056,51.772064
 de Borchgravestraat,35,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.960950,51.771818
 de Borchgravestraat,37,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.960197,51.771629
+Werf,2,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962922,51.771915
+Werf,4,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962849,51.771898
+Werf,6,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962778,51.771881
+Werf,8,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962706,51.771859
+Werf,10,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962623,51.771839
+Werf,12,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962549,51.771821
+Werf,14,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962476,51.771804
+Werf,16,,,4286BL,Almkerk,Woudrichem,Noord-Brabant,VBO,4.962402,51.771786
 de Borchgravestraat,2,,,4286BM,Almkerk,Woudrichem,Noord-Brabant,VBO,4.963394,51.772747
 de Borchgravestraat,4,,,4286BM,Almkerk,Woudrichem,Noord-Brabant,VBO,4.963311,51.772727
 de Borchgravestraat,6,,,4286BM,Almkerk,Woudrichem,Noord-Brabant,VBO,4.963229,51.772708
@@ -1052,8 +1052,8 @@ Provincialeweg Noord,94,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939633,5
 Provincialeweg Noord,95,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939457,51.791554
 Provincialeweg Noord,96,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939940,51.789596
 Provincialeweg Noord,98,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939919,51.790215
-Provincialeweg Noord,100,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939683,51.791257
 Provincialeweg Noord,100,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939657,51.791273
+Provincialeweg Noord,100,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939683,51.791257
 Provincialeweg Noord,102,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939646,51.791431
 Provincialeweg Noord,106,,,4286ED,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939619,51.791647
 Provincialeweg Noord,97,,,4286EE,Almkerk,Woudrichem,Noord-Brabant,VBO,4.939441,51.791715
@@ -1335,6 +1335,7 @@ Vierspan,13,,,4286GN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.943656,51.770709
 Vierspan,15,,,4286GN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.943656,51.770760
 Vierspan,17,,,4286GN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.943658,51.770811
 Vierspan,19,,,4286GN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.943664,51.770858
+Draf,1,,,4286GS,Almkerk,Woudrichem,Noord-Brabant,VBO,4.948070,51.769157
 Woudrichemseweg,1,a,,4286LA,Almkerk,Woudrichem,Noord-Brabant,VBO,4.964090,51.772358
 Woudrichemseweg,1,b,,4286LA,Almkerk,Woudrichem,Noord-Brabant,VBO,4.964062,51.772405
 Woudrichemseweg,1,c,,4286LA,Almkerk,Woudrichem,Noord-Brabant,VBO,4.964003,51.772502
@@ -1488,8 +1489,8 @@ Hoekje,5,a,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.969914,51.771771
 Hoekje,5,,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.970656,51.771827
 Hoekje,7,a,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971949,51.772131
 Hoekje,7,b,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971992,51.771662
-Hoekje,7,c,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971262,51.771477
 Hoekje,7,c,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.972909,51.773030
+Hoekje,7,c,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971262,51.771477
 Hoekje,7,,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971281,51.771828
 Hoekje,8,a,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971600,51.772494
 Hoekje,8,,,4286LN,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971445,51.772333
@@ -1536,8 +1537,8 @@ Duijlweg,1,,,4286LX,Almkerk,Woudrichem,Noord-Brabant,VBO,4.968621,51.767895
 Duijlweg,2,,,4286LX,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971989,51.763261
 Duijlweg,4,,,4286LX,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971553,51.760250
 Duijlweg,4,,,4286LX,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971413,51.759849
-Duijlweg,6,,,4286LX,Almkerk,Woudrichem,Noord-Brabant,VBO,4.970723,51.759821
 Duijlweg,6,,,4286LX,Almkerk,Woudrichem,Noord-Brabant,VBO,4.971406,51.759879
+Duijlweg,6,,,4286LX,Almkerk,Woudrichem,Noord-Brabant,VBO,4.970723,51.759821
 Midgraaf,1,a,,4286LZ,Almkerk,Woudrichem,Noord-Brabant,VBO,4.934902,51.763342
 Midgraaf,3,a,,4286LZ,Almkerk,Woudrichem,Noord-Brabant,VBO,4.945619,51.760721
 Midgraaf,3,,,4286LZ,Almkerk,Woudrichem,Noord-Brabant,VBO,4.937310,51.762898

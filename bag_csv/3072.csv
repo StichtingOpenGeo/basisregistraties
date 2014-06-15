@@ -165,11 +165,12 @@ Veerlaan,11,,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.486238,51.901729
 Veerlaan,17,,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483165,51.902405
 Veerlaan,19,A,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.485450,51.901844
 Veerlaan,19,B,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.485463,51.901964
-Veerlaan,19,C,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.485476,51.902096
 Veerlaan,19,D,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.485469,51.902187
 Veerlaan,19,E,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484638,51.902217
 Veerlaan,19,F,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484281,51.902277
 Veerlaan,19,G,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483773,51.902298
+Veerlaan,21,A,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.485101,51.901873
+Veerlaan,21,B,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484800,51.901899
 Veerlaan,23,,,3072AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482252,51.902000
 Wilhelminakade,1,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493015,51.908661
 Wilhelminakade,3,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493015,51.908661
@@ -496,9 +497,9 @@ Wilhelminakade,681,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.488060,51.906
 Wilhelminakade,683,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.488060,51.906405
 Wilhelminakade,691,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487963,51.906335
 Wilhelminakade,693,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487889,51.906306
-Wilhelminakade,695,A,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487546,51.906370
-Wilhelminakade,695,C,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487499,51.906402
-Wilhelminakade,695,D,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487456,51.906431
+Wilhelminakade,695,A,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487563,51.906403
+Wilhelminakade,695,C,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487541,51.906419
+Wilhelminakade,695,D,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487522,51.906436
 Wilhelminakade,697,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487710,51.906671
 Wilhelminakade,699,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.487379,51.906115
 Wilhelminakade,701,,,3072AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.486110,51.905430
@@ -2530,6 +2531,7 @@ Freijapad,7,,,3072ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481302,51.898751
 Freijapad,8,,,3072ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481531,51.898804
 Wodanstraat,11,,,3072EV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483140,51.899022
 Wodanstraat,21,,,3072EV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483140,51.899022
+Walhallalaan,8,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482735,51.899228
 Walhallalaan,10,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482640,51.899216
 Walhallalaan,12,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482562,51.899200
 Walhallalaan,14,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482492,51.899170
@@ -2559,6 +2561,7 @@ Walhallalaan,64,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480019,51.898633
 Walhallalaan,66,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479865,51.898617
 Walhallalaan,68,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479785,51.898614
 Walhallalaan,70,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479679,51.898592
+Walhallalaan,76,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478997,51.898445
 Walhallalaan,78,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478879,51.898423
 Walhallalaan,80,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478821,51.898397
 Walhallalaan,82,,,3072EX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478760,51.898368
@@ -3130,7 +3133,69 @@ Maashaven O.z.,147,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496801,51.901
 Maashaven O.z.,148,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496801,51.901125
 Maashaven O.z.,149,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496801,51.901125
 Maashaven O.z.,150,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496801,51.901125
-Maashaven O.z.,151,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496795,51.901088
+Maashaven O.z.,151,,K001,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K002,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K101,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K102,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K103,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K104,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K105,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K106,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K108,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K109,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K110,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K111,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K112,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K113,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K114,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K115,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K116,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K117,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K118,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K119,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K120,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K121,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K124,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K125,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K126,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K127,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K128,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K129,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K130,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K131,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K132,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K133,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K201,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K202,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K203,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K204,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K205,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K206,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K208,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K209,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K210,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K211,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K212,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K213,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K214,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K215,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K216,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K217,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K218,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K219,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K220,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K221,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K224,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K225,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K226,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K227,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K228,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K229,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K230,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K231,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K232,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,K233,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
+Maashaven O.z.,151,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496796,51.901099
 Maashaven O.z.,152,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496732,51.901051
 Maashaven O.z.,153,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496720,51.900991
 Maashaven O.z.,154,,,3072HS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.496704,51.900924
@@ -3824,6 +3889,7 @@ Bundweg,65,,,3072JX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493571,51.902789
 Bundweg,67,,,3072JX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493403,51.902760
 Bundweg,69,,,3072JX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493220,51.902718
 Pudongstraat,3,,,3072JZ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493102,51.902848
+Brede Hilledijk,1,,,3072KA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.502008,51.904173
 Brede Hilledijk,3,,,3072KA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500672,51.903878
 Brede Hilledijk,5,,,3072KA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500567,51.903855
 Brede Hilledijk,7,,,3072KA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500464,51.903832
@@ -3978,8 +4044,8 @@ Brede Hilledijk,56,D,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499109,51.90
 Brede Hilledijk,58,A,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499008,51.902976
 Brede Hilledijk,58,B,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499037,51.902991
 Brede Hilledijk,58,B,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499008,51.902976
-Brede Hilledijk,58,C,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499008,51.902976
 Brede Hilledijk,58,C,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499037,51.902991
+Brede Hilledijk,58,C,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499008,51.902976
 Brede Hilledijk,58,D,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499037,51.902991
 Brede Hilledijk,60,A,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499008,51.902976
 Brede Hilledijk,60,B,,3072KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499008,51.902976
@@ -8207,8 +8273,8 @@ Bothastraat,83,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500846,51.902146
 Bothastraat,85,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500930,51.902093
 Bothastraat,87,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500429,51.902387
 Bothastraat,87,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500954,51.902077
-Bothastraat,89,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500429,51.902387
 Bothastraat,89,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.501013,51.902038
+Bothastraat,89,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500429,51.902387
 Bothastraat,91,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500429,51.902387
 Bothastraat,93,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500429,51.902387
 Bothastraat,95,,,3072XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500429,51.902387
@@ -8271,41 +8337,41 @@ Cronjéstraat,11,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498982,51.90269
 Cronjéstraat,13,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499006,51.902683
 Cronjéstraat,15,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499058,51.902649
 Cronjéstraat,15,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498832,51.902726
-Cronjéstraat,17,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499138,51.902588
 Cronjéstraat,17,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498832,51.902726
-Cronjéstraat,19,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499156,51.902571
+Cronjéstraat,17,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499138,51.902588
 Cronjéstraat,19,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498832,51.902726
+Cronjéstraat,19,,,3072XK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499156,51.902571
 Cronjéstraat,21,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498832,51.902726
 Cronjéstraat,21,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499209,51.902536
-Cronjéstraat,23,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499295,51.902476
 Cronjéstraat,23,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498832,51.902726
+Cronjéstraat,23,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499295,51.902476
 Cronjéstraat,25,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498832,51.902726
 Cronjéstraat,25,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499315,51.902463
-Cronjéstraat,27,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
 Cronjéstraat,27,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499365,51.902430
-Cronjéstraat,29,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499453,51.902371
+Cronjéstraat,27,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
 Cronjéstraat,29,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
-Cronjéstraat,31,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499472,51.902356
+Cronjéstraat,29,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499453,51.902371
 Cronjéstraat,31,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
-Cronjéstraat,33,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499522,51.902321
+Cronjéstraat,31,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499472,51.902356
 Cronjéstraat,33,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
+Cronjéstraat,33,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499522,51.902321
 Cronjéstraat,35,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
 Cronjéstraat,35,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499607,51.902262
-Cronjéstraat,37,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
 Cronjéstraat,37,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499626,51.902246
-Cronjéstraat,39,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
+Cronjéstraat,37,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
 Cronjéstraat,39,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499708,51.902186
+Cronjéstraat,39,,,3072XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498971,51.902631
 Cronjéstraat,41,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499048,51.902618
 Cronjéstraat,41,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499764,51.902152
-Cronjéstraat,43,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499781,51.902136
 Cronjéstraat,43,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499125,51.902606
-Cronjéstraat,45,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
+Cronjéstraat,43,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499781,51.902136
 Cronjéstraat,45,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499842,51.902103
-Cronjéstraat,47,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499892,51.902065
+Cronjéstraat,45,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
 Cronjéstraat,47,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
+Cronjéstraat,47,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499892,51.902065
 Cronjéstraat,49,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
-Cronjéstraat,51,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
 Cronjéstraat,51,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500125,51.901893
+Cronjéstraat,51,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
 Cronjéstraat,53,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
 Cronjéstraat,55,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
 Cronjéstraat,57,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499105,51.902540
@@ -8347,64 +8413,64 @@ Cronjéstraat,127,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499791,51.9020
 Cronjéstraat,129,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499791,51.902027
 Cronjéstraat,131,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499791,51.902027
 Cronjéstraat,133,,,3072XM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499791,51.902027
-Cronjéstraat,2,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498959,51.902973
 Cronjéstraat,2,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499048,51.902904
+Cronjéstraat,2,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.498959,51.902973
 Cronjéstraat,4,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499085,51.902860
-Cronjéstraat,6,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499178,51.902802
 Cronjéstraat,6,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499085,51.902860
+Cronjéstraat,6,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499178,51.902802
 Cronjéstraat,8,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499085,51.902860
 Cronjéstraat,8,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499238,51.902770
-Cronjéstraat,10,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499292,51.902734
 Cronjéstraat,10,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499124,51.902832
-Cronjéstraat,12,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499309,51.902716
+Cronjéstraat,10,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499292,51.902734
 Cronjéstraat,12,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499226,51.902761
-Cronjéstraat,14,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499359,51.902677
+Cronjéstraat,12,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499309,51.902716
 Cronjéstraat,14,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499252,51.902746
-Cronjéstraat,16,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499442,51.902618
+Cronjéstraat,14,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499359,51.902677
 Cronjéstraat,16,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499252,51.902746
-Cronjéstraat,18,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499498,51.902584
+Cronjéstraat,16,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499442,51.902618
 Cronjéstraat,18,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499252,51.902746
+Cronjéstraat,18,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499498,51.902584
 Cronjéstraat,20,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499252,51.902746
 Cronjéstraat,20,,,3072XN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499517,51.902569
 Cronjéstraat,22,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499252,51.902746
 Cronjéstraat,22,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499603,51.902514
 Cronjéstraat,24,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499620,51.902496
 Cronjéstraat,24,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499283,51.902722
-Cronjéstraat,26,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499697,51.902440
 Cronjéstraat,26,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499331,51.902688
-Cronjéstraat,28,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499724,51.902419
+Cronjéstraat,26,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499697,51.902440
 Cronjéstraat,28,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499372,51.902660
+Cronjéstraat,28,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499724,51.902419
 Cronjéstraat,30,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499372,51.902660
 Cronjéstraat,30,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499803,51.902367
-Cronjéstraat,32,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499828,51.902347
 Cronjéstraat,32,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499372,51.902660
-Cronjéstraat,34,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499905,51.902290
+Cronjéstraat,32,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499828,51.902347
 Cronjéstraat,34,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499372,51.902660
-Cronjéstraat,36,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499932,51.902273
+Cronjéstraat,34,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499905,51.902290
 Cronjéstraat,36,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499372,51.902660
+Cronjéstraat,36,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499932,51.902273
 Cronjéstraat,38,A,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499417,51.902628
 Cronjéstraat,38,B,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499417,51.902628
 Cronjéstraat,38,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500010,51.902222
-Cronjéstraat,40,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500036,51.902202
 Cronjéstraat,40,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499455,51.902600
-Cronjéstraat,42,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500117,51.902148
+Cronjéstraat,40,,,3072XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500036,51.902202
 Cronjéstraat,42,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499455,51.902600
-Cronjéstraat,44,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500168,51.902111
+Cronjéstraat,42,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500117,51.902148
 Cronjéstraat,44,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499483,51.902581
+Cronjéstraat,44,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500168,51.902111
 Cronjéstraat,46,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499504,51.902564
 Cronjéstraat,46,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500187,51.902096
-Cronjéstraat,48,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500272,51.902041
 Cronjéstraat,48,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499504,51.902564
-Cronjéstraat,50,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500295,51.902022
+Cronjéstraat,48,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500272,51.902041
 Cronjéstraat,50,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
+Cronjéstraat,50,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500295,51.902022
 Cronjéstraat,52,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
 Cronjéstraat,52,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500378,51.901968
-Cronjéstraat,54,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
 Cronjéstraat,54,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500434,51.901929
+Cronjéstraat,54,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
 Cronjéstraat,56,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
 Cronjéstraat,56,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500452,51.901915
-Cronjéstraat,58,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500618,51.901886
 Cronjéstraat,58,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
+Cronjéstraat,58,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.500618,51.901886
 Cronjéstraat,60,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
 Cronjéstraat,62,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
 Cronjéstraat,64,,,3072XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.499589,51.902507
@@ -8993,6 +9059,7 @@ Veerlaan,74,,,3072ZX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483069,51.901577
 Veerlaan,76,,,3072ZX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482993,51.901562
 Veerlaan,78,,,3072ZX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482918,51.901547
 Veerlaan,80,,,3072ZX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482847,51.901529
+Veerlaan,82,,,3072ZX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482774,51.901514
 Veerlaan,82,,,3072ZX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482774,51.901514
 Veerlaan,84,,,3072ZX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482682,51.901504
 Veerlaan,86,,,3072ZX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482620,51.901490

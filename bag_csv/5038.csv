@@ -48,10 +48,10 @@ Heuvelstraat,95,,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.085233,51.555647
 Heuvelstraat,97,,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.085180,51.555602
 Heuvelstraat,99,a,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.085077,51.555601
 Heuvelstraat,99,,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.085096,51.555577
-Heuvelstraat,101,a,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084952,51.555583
-Heuvelstraat,101,b,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084923,51.555574
-Heuvelstraat,101,c,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084893,51.555564
-Heuvelstraat,101,,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084982,51.555593
+Heuvelstraat,101,a,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084963,51.555563
+Heuvelstraat,101,b,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084944,51.555587
+Heuvelstraat,101,c,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084898,51.555514
+Heuvelstraat,101,,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084981,51.555539
 Heuvelstraat,103,,,5038AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.084789,51.555482
 Heuvelstraat,105,a,,5038AD,Tilburg,Tilburg,Noord-Brabant,VBO,5.084460,51.555477
 Heuvelstraat,105,b,,5038AD,Tilburg,Tilburg,Noord-Brabant,VBO,5.084492,51.555435
@@ -1340,12 +1340,12 @@ Heuvelring,33,,,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090789,51.559141
 Heuvelring,37,,,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090738,51.559070
 Heuvelring,39,,01,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090632,51.558996
 Heuvelring,39,,02,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090594,51.559009
-Heuvelring,39,,03,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090157,51.558964
 Heuvelring,39,,03,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090211,51.559006
-Heuvelring,39,,04,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090213,51.558983
+Heuvelring,39,,03,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090157,51.558964
 Heuvelring,39,,04,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090230,51.558968
-Heuvelring,39,,05,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090153,51.558991
+Heuvelring,39,,04,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090213,51.558983
 Heuvelring,39,,05,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090215,51.558959
+Heuvelring,39,,05,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090153,51.558991
 Heuvelring,39,,06,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090226,51.558995
 Heuvelring,39,,,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090670,51.558983
 Heuvelring,41,,,5038CJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.090577,51.558873
@@ -5768,9 +5768,9 @@ Hagelkruisplein,25,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.069775,51.559004
 Hagelkruisplein,26,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.069827,51.558987
 Hagelkruisplein,27,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.069889,51.558967
 Hagelkruisplein,28,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.069943,51.558948
-Hagelkruisplein,29,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.070023,51.558919
-Hagelkruisplein,30,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.070087,51.558896
-Hagelkruisplein,31,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.070149,51.558875
+Hagelkruisplein,29,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.070046,51.558952
+Hagelkruisplein,30,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.070114,51.558929
+Hagelkruisplein,31,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.070178,51.558907
 Hagelkruisplein,32,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.070225,51.558774
 Hagelkruisplein,34,,,5038ME,Tilburg,Tilburg,Noord-Brabant,VBO,5.069798,51.558794
 Prunusstraat,1,,,5038MG,Tilburg,Tilburg,Noord-Brabant,VBO,5.071423,51.559012
@@ -6166,6 +6166,43 @@ Bredaseweg,204,,51,5038NK,Tilburg,Tilburg,Noord-Brabant,VBO,5.069974,51.555513
 Bredaseweg,204,,52,5038NK,Tilburg,Tilburg,Noord-Brabant,VBO,5.069810,51.555526
 Bredaseweg,204,,53,5038NK,Tilburg,Tilburg,Noord-Brabant,VBO,5.069646,51.555538
 Bredaseweg,204,,,5038NK,Tilburg,Tilburg,Noord-Brabant,VBO,5.070050,51.555480
+Rooi Hartenpark,1,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070886,51.555605
+Rooi Hartenpark,2,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070876,51.555552
+Rooi Hartenpark,3,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070865,51.555498
+Rooi Hartenpark,4,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070854,51.555444
+Rooi Hartenpark,5,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070843,51.555265
+Rooi Hartenpark,6,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070928,51.555258
+Rooi Hartenpark,7,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.071014,51.555252
+Rooi Hartenpark,8,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.071099,51.555246
+Rooi Hartenpark,9,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.071185,51.555240
+Rooi Hartenpark,18,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.071226,51.555046
+Rooi Hartenpark,19,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.071142,51.555038
+Rooi Hartenpark,20,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.071057,51.555030
+Rooi Hartenpark,21,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070971,51.555021
+Rooi Hartenpark,22,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070887,51.555013
+Rooi Hartenpark,23,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070552,51.554976
+Rooi Hartenpark,24,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070543,51.554922
+Rooi Hartenpark,25,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070535,51.554869
+Rooi Hartenpark,26,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070527,51.554815
+Rooi Hartenpark,27,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070518,51.554762
+Rooi Hartenpark,28,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070510,51.554708
+Rooi Hartenpark,29,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070912,51.554670
+Rooi Hartenpark,30,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.071234,51.554702
+Rooi Hartenpark,31,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070603,51.554565
+Rooi Hartenpark,32,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070502,51.554561
+Rooi Hartenpark,33,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070407,51.554567
+Rooi Hartenpark,34,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070312,51.554572
+Rooi Hartenpark,35,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070217,51.554578
+Rooi Hartenpark,36,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070123,51.554584
+Rooi Hartenpark,37,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.070028,51.554590
+Rooi Hartenpark,38,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.069933,51.554595
+Rooi Hartenpark,39,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.069838,51.554601
+Rooi Hartenpark,40,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.069743,51.554607
+Rooi Hartenpark,41,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.069648,51.554613
+Rooi Hartenpark,42,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.069553,51.554618
+Rooi Hartenpark,43,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.069458,51.554624
+Rooi Hartenpark,44,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.069364,51.554630
+Rooi Hartenpark,45,,,5038NL,Tilburg,Tilburg,Noord-Brabant,VBO,5.069269,51.554635
 Bredaseweg,208,a,,5038NM,Tilburg,Tilburg,Noord-Brabant,VBO,5.068334,51.555763
 Bredaseweg,208,b,,5038NM,Tilburg,Tilburg,Noord-Brabant,VBO,5.068354,51.555705
 Bredaseweg,208,c,,5038NM,Tilburg,Tilburg,Noord-Brabant,VBO,5.068369,51.555660
@@ -7354,6 +7391,7 @@ Korte Tuinstraat,5,,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084927,51.556359
 Korte Tuinstraat,6,b,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.085186,51.555936
 Korte Tuinstraat,6,c,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.085147,51.555869
 Korte Tuinstraat,6,d,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.085105,51.555859
+Korte Tuinstraat,6,e,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.085180,51.555602
 Korte Tuinstraat,7,a,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084803,51.556333
 Korte Tuinstraat,7,b,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084777,51.556379
 Korte Tuinstraat,7,c,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084740,51.556456
@@ -7361,6 +7399,7 @@ Korte Tuinstraat,7,d,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084695,51.55653
 Korte Tuinstraat,7,e,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084664,51.556597
 Korte Tuinstraat,7,,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084769,51.556319
 Korte Tuinstraat,8,a,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084428,51.556107
+Korte Tuinstraat,8,,01,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084898,51.555514
 Korte Tuinstraat,8,,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084722,51.556176
 Korte Tuinstraat,9,,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084660,51.556291
 Korte Tuinstraat,10,,,5038SJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.084444,51.556082
@@ -9266,6 +9305,7 @@ Emmastraat,1,b,,5038WB,Tilburg,Tilburg,Noord-Brabant,VBO,5.089962,51.555843
 Emmastraat,3,a,,5038WB,Tilburg,Tilburg,Noord-Brabant,VBO,5.089834,51.555849
 Emmastraat,3,,,5038WB,Tilburg,Tilburg,Noord-Brabant,VBO,5.089846,51.555823
 Oranjestraat,6,,,5038WC,Tilburg,Tilburg,Noord-Brabant,VBO,5.089154,51.555274
+Paleisring,1,,,5038WD,Tilburg,Tilburg,Noord-Brabant,VBO,5.090178,51.555230
 Paleisring,7,,,5038WD,Tilburg,Tilburg,Noord-Brabant,VBO,5.089822,51.555315
 Paleisring,9,,,5038WD,Tilburg,Tilburg,Noord-Brabant,VBO,5.089697,51.555293
 Paleisring,13,,,5038WD,Tilburg,Tilburg,Noord-Brabant,VBO,5.089575,51.555272

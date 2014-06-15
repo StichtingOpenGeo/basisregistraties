@@ -53,8 +53,8 @@ Valkkogerweg,45,,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.770732,52.7740
 Valkkogerweg,46,a,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.770907,52.769944
 Valkkogerweg,46,t,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.771066,52.769756
 Valkkogerweg,46,,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.770668,52.770096
-Valkkogerweg,47,B,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.770016,52.773803
 Valkkogerweg,47,a,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.770245,52.773868
+Valkkogerweg,47,B,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.770016,52.773803
 Valkkogerweg,47,,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.770454,52.773962
 Valkkogerweg,48,a,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.771790,52.769713
 Valkkogerweg,48,,,1744GC,Sint Maarten,Schagen,Noord-Holland,VBO,4.771436,52.769348
@@ -108,7 +108,6 @@ Groenveldsdijk,34,a,,1744GE,Sint Maarten,Schagen,Noord-Holland,VBO,4.780841,52.7
 Groenveldsdijk,34,,,1744GE,Sint Maarten,Schagen,Noord-Holland,VBO,4.780721,52.767168
 Groenveldsdijk,35,,,1744GE,Sint Maarten,Schagen,Noord-Holland,VBO,4.784828,52.768518
 Groenveldsdijk,36,,,1744GE,Sint Maarten,Schagen,Noord-Holland,VBO,4.781405,52.767473
-Groenveldsdijk,38,,,1744GE,Sint Maarten,Schagen,Noord-Holland,VBO,4.781787,52.767650
 Groenveldsdijk,42,,,1744GE,Sint Maarten,Schagen,Noord-Holland,VBO,4.784553,52.769105
 Groenveldsdijk,44,,,1744GE,Sint Maarten,Schagen,Noord-Holland,VBO,4.785033,52.769444
 Sluiswegje,1,,,1744GG,Sint Maarten,Schagen,Noord-Holland,VBO,4.776543,52.764463
@@ -350,6 +349,7 @@ Rijperweg,38,,,1744HL,Sint Maarten,Schagen,Noord-Holland,VBO,4.748177,52.752945
 Rijperweg,40,,,1744HL,Sint Maarten,Schagen,Noord-Holland,VBO,4.747718,52.752869
 Rijperweg,42,,,1744HL,Sint Maarten,Schagen,Noord-Holland,VBO,4.747670,52.752522
 Rijperweg,44,a,,1744HL,Sint Maarten,Schagen,Noord-Holland,VBO,4.748133,52.751909
+Rijperweg,44,B,,1744HL,Sint Maarten,Schagen,Noord-Holland,VBO,4.747910,52.752053
 Rijperweg,44,,,1744HL,Sint Maarten,Schagen,Noord-Holland,VBO,4.747746,52.752211
 Rijperweg,46,,,1744HL,Sint Maarten,Schagen,Noord-Holland,VBO,4.747847,52.751728
 Rijperweg,48,a,,1744HL,Sint Maarten,Schagen,Noord-Holland,VBO,4.748229,52.751265
@@ -442,8 +442,8 @@ Burchtweg,1,,,1744JE,Sint Maarten,Schagen,Noord-Holland,VBO,4.719015,52.739829
 Burchtweg,3,,,1744JE,Sint Maarten,Schagen,Noord-Holland,VBO,4.718645,52.739137
 Burchtweg,5,,,1744JE,Sint Maarten,Schagen,Noord-Holland,VBO,4.718202,52.738176
 Burchtweg,7,,,1744JE,Sint Maarten,Schagen,Noord-Holland,VBO,4.717922,52.737827
+Burchtweg,9,A,,1744JE,Sint Maarten,Schagen,Noord-Holland,VBO,4.716813,52.735882
 Burchtweg,9,,,1744JE,Sint Maarten,Schagen,Noord-Holland,VBO,4.717070,52.736230
-Burchtweg,9,,,1744JE,Sint Maarten,Schagen,Noord-Holland,VBO,4.716791,52.735871
 Burchtweg,13,,,1744JE,Warmenhuizen,Schagen,Noord-Holland,VBO,4.716180,52.733863
 Heemtweg,1,,,1744JG,Sint Maarten,Schagen,Noord-Holland,VBO,4.723260,52.733747
 Hoge Buurt,1,t,,1744KA,Sint Maarten,Schagen,Noord-Holland,VBO,4.742031,52.774756
@@ -847,8 +847,8 @@ Lijsterbesweg,33,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.743946,52.770
 Lijsterbesweg,35,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.743926,52.770775
 Lijsterbesweg,37,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.743914,52.770618
 Lijsterbesweg,39,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.743810,52.770484
-Lijsterbesweg,41,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.744231,52.770137
-Lijsterbesweg,43,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.744360,52.770096
+Lijsterbesweg,41,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.744331,52.770094
+Lijsterbesweg,43,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.744421,52.770068
 Lijsterbesweg,45,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.744489,52.770055
 Lijsterbesweg,47,,,1744LK,Sint Maarten,Schagen,Noord-Holland,VBO,4.744618,52.770015
 Lijsterbesweg,2,,,1744LL,Sint Maarten,Schagen,Noord-Holland,VBO,4.746042,52.772177
@@ -929,7 +929,7 @@ Keuvel,20,,,1744LP,Sint Maarten,Schagen,Noord-Holland,VBO,4.745022,52.769088
 Kastanjelaan,1,,,1744LR,Sint Maarten,Schagen,Noord-Holland,VBO,4.743751,52.769751
 Kastanjelaan,2,a,,1744LR,Sint Maarten,Schagen,Noord-Holland,VBO,4.744173,52.770090
 Kastanjelaan,2,b,,1744LR,Sint Maarten,Schagen,Noord-Holland,VBO,4.744065,52.769986
-Kastanjelaan,2,,,1744LR,Sint Maarten,Schagen,Noord-Holland,VBO,4.744198,52.770128
+Kastanjelaan,2,,,1744LR,Sint Maarten,Schagen,Noord-Holland,VBO,4.744246,52.770137
 Kastanjelaan,3,,,1744LR,Sint Maarten,Schagen,Noord-Holland,VBO,4.743844,52.769715
 Kastanjelaan,4,,,1744LR,Sint Maarten,Schagen,Noord-Holland,VBO,4.743951,52.769958
 Kastanjelaan,5,,,1744LR,Sint Maarten,Schagen,Noord-Holland,VBO,4.743961,52.769673

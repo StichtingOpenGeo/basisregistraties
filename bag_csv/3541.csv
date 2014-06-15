@@ -13,6 +13,7 @@ Jan Wolkerssingel,21,,,3541AA,Utrecht,Utrecht,Utrecht,VBO,5.062370,52.093182
 Jan Wolkerssingel,23,,,3541AA,Utrecht,Utrecht,Utrecht,VBO,5.062444,52.093199
 Jan Wolkerssingel,25,,,3541AA,Utrecht,Utrecht,Utrecht,VBO,5.062471,52.093206
 Jan Wolkerssingel,319,,,3541AB,Utrecht,Utrecht,Utrecht,VBO,5.061273,52.097029
+Jan Wolkerssingel,321,,,3541AB,Utrecht,Utrecht,Utrecht,VBO,5.061206,52.097049
 Jan Wolkerssingel,323,,,3541AB,Utrecht,Utrecht,Utrecht,VBO,5.061115,52.097069
 Jan Wolkerssingel,325,,,3541AB,Utrecht,Utrecht,Utrecht,VBO,5.060977,52.097119
 Jan Wolkerssingel,327,,,3541AB,Utrecht,Utrecht,Utrecht,VBO,5.060889,52.097150
@@ -91,7 +92,6 @@ André Voltenlaan,59,,,3541AG,Utrecht,Utrecht,Utrecht,VBO,5.060363,52.095697
 André Voltenlaan,61,,,3541AG,Utrecht,Utrecht,Utrecht,VBO,5.060327,52.095661
 André Voltenlaan,63,,,3541AG,Utrecht,Utrecht,Utrecht,VBO,5.060290,52.095611
 André Voltenlaan,65,,,3541AG,Utrecht,Utrecht,Utrecht,VBO,5.060229,52.095542
-Jan Wolkerssingel,321,,,3541AK,Utrecht,Utrecht,Utrecht,VBO,5.061206,52.097049
 Prof. Jan Bronnerlaan,149,,,3541AK,Utrecht,Utrecht,Utrecht,VBO,5.058080,52.096928
 Prof. Jan Bronnerlaan,151,,,3541AK,Utrecht,Utrecht,Utrecht,VBO,5.058141,52.096895
 Prof. Jan Bronnerlaan,153,,,3541AK,Utrecht,Utrecht,Utrecht,VBO,5.058189,52.096868
@@ -528,6 +528,8 @@ Derde Oosterparklaan,6,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.067036,52.090169
 Derde Oosterparklaan,8,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.066998,52.090114
 Derde Oosterparklaan,10,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.066902,52.090008
 Derde Oosterparklaan,12,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.066859,52.089951
+Derde Oosterparklaan,14,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.068051,52.089694
+Derde Oosterparklaan,16,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.068176,52.089607
 Derde Oosterparklaan,18,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.068437,52.089422
 Derde Oosterparklaan,20,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.068566,52.089333
 Derde Oosterparklaan,22,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.068678,52.089260
@@ -535,6 +537,14 @@ Derde Oosterparklaan,24,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.068805,52.089175
 Derde Oosterparklaan,26,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.069090,52.088997
 Derde Oosterparklaan,28,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.069186,52.088912
 Derde Oosterparklaan,30,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.069325,52.088832
+Derde Oosterparklaan,34,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.069742,52.088557
+Derde Oosterparklaan,36,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.069867,52.088483
+Derde Oosterparklaan,38,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.069983,52.088404
+Derde Oosterparklaan,40,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.070108,52.088322
+Derde Oosterparklaan,50,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.073071,52.088507
+Derde Oosterparklaan,52,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.073148,52.088528
+Derde Oosterparklaan,54,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.073221,52.088538
+Derde Oosterparklaan,56,,,3541SB,Utrecht,Utrecht,Utrecht,VBO,5.073298,52.088553
 Derde Oosterparklaan,21,,,3541SC,Utrecht,Utrecht,Utrecht,VBO,5.072006,52.088600
 Derde Oosterparklaan,31,,,3541SC,Utrecht,Utrecht,Utrecht,VBO,5.068830,52.089538
 Derde Oosterparklaan,33,,,3541SC,Utrecht,Utrecht,Utrecht,VBO,5.068885,52.089503
@@ -544,6 +554,7 @@ Derde Oosterparklaan,39,,,3541SC,Utrecht,Utrecht,Utrecht,VBO,5.069099,52.089368
 Derde Oosterparklaan,41,,,3541SC,Utrecht,Utrecht,Utrecht,VBO,5.069140,52.089329
 Derde Oosterparklaan,43,,,3541SC,Utrecht,Utrecht,Utrecht,VBO,5.069193,52.089290
 Derde Oosterparklaan,45,,,3541SC,Utrecht,Utrecht,Utrecht,VBO,5.069246,52.089251
+Pimentweg,2,,,3541SG,Utrecht,Utrecht,Utrecht,VBO,5.068721,52.089019
 Oreganoweg,1,,,3541SK,Utrecht,Utrecht,Utrecht,VBO,5.068766,52.089584
 Oreganoweg,3,,,3541SK,Utrecht,Utrecht,Utrecht,VBO,5.068998,52.089696
 Oreganoweg,5,,,3541SK,Utrecht,Utrecht,Utrecht,VBO,5.069077,52.089727
@@ -560,7 +571,63 @@ Marjoleinweg,38,,,3541SM,Utrecht,Utrecht,Utrecht,VBO,5.069673,52.089722
 Marjoleinweg,40,,,3541SM,Utrecht,Utrecht,Utrecht,VBO,5.069728,52.089685
 Marjoleinweg,42,,,3541SM,Utrecht,Utrecht,Utrecht,VBO,5.069786,52.089649
 Marjoleinweg,44,,,3541SM,Utrecht,Utrecht,Utrecht,VBO,5.069858,52.089613
+Vanilleweg,51,,,3541TH,Utrecht,Utrecht,Utrecht,VBO,5.073649,52.087085
+Vanilleweg,53,,,3541TH,Utrecht,Utrecht,Utrecht,VBO,5.073725,52.087095
+Vanilleweg,55,,,3541TH,Utrecht,Utrecht,Utrecht,VBO,5.073805,52.087100
+Vanilleweg,57,,,3541TH,Utrecht,Utrecht,Utrecht,VBO,5.073882,52.087106
+Vanilleweg,59,,,3541TH,Utrecht,Utrecht,Utrecht,VBO,5.073959,52.087111
 Cacaoweg,1,,,3541TJ,Utrecht,Utrecht,Utrecht,VBO,5.072455,52.088867
+Palmsuikerweg,2,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073574,52.087303
+Palmsuikerweg,4,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073553,52.087350
+Palmsuikerweg,6,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073536,52.087391
+Palmsuikerweg,8,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073519,52.087438
+Palmsuikerweg,10,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073496,52.087488
+Palmsuikerweg,12,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073478,52.087535
+Palmsuikerweg,14,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073461,52.087586
+Palmsuikerweg,16,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073444,52.087632
+Palmsuikerweg,18,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073421,52.087679
+Palmsuikerweg,20,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073342,52.087895
+Palmsuikerweg,22,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073319,52.087940
+Palmsuikerweg,24,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073292,52.087991
+Palmsuikerweg,26,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073275,52.088038
+Palmsuikerweg,28,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073264,52.088090
+Palmsuikerweg,30,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073241,52.088131
+Palmsuikerweg,32,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073224,52.088176
+Palmsuikerweg,34,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073207,52.088227
+Palmsuikerweg,36,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073183,52.088273
+Palmsuikerweg,38,,,3541TK,Utrecht,Utrecht,Utrecht,VBO,5.073166,52.088320
+Valeriaanweg,1,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074232,52.087144
+Valeriaanweg,3,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074209,52.087196
+Valeriaanweg,5,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074198,52.087243
+Valeriaanweg,7,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074188,52.087288
+Valeriaanweg,9,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074164,52.087339
+Valeriaanweg,11,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074147,52.087385
+Valeriaanweg,13,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074124,52.087432
+Valeriaanweg,15,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074113,52.087487
+Valeriaanweg,17,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074106,52.087535
+Valeriaanweg,19,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074089,52.087576
+Valeriaanweg,21,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074072,52.087623
+Valeriaanweg,23,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074055,52.087668
+Valeriaanweg,25,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074038,52.087715
+Valeriaanweg,27,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074021,52.087767
+Valeriaanweg,29,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.074001,52.087812
+Valeriaanweg,31,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073977,52.087859
+Valeriaanweg,33,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073960,52.087909
+Valeriaanweg,35,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073943,52.087956
+Valeriaanweg,37,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073919,52.088001
+Valeriaanweg,39,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073899,52.088048
+Valeriaanweg,41,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073885,52.088089
+Valeriaanweg,43,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073865,52.088141
+Valeriaanweg,45,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073841,52.088192
+Valeriaanweg,47,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073824,52.088237
+Valeriaanweg,49,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073800,52.088285
+Valeriaanweg,51,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073780,52.088334
+Valeriaanweg,53,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073756,52.088379
+Valeriaanweg,55,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073739,52.088426
+Valeriaanweg,57,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073716,52.088474
+Valeriaanweg,59,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073695,52.088523
+Valeriaanweg,61,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073672,52.088566
+Valeriaanweg,63,,,3541TN,Utrecht,Utrecht,Utrecht,VBO,5.073655,52.088615
 Charlotte van Pallandthof,1,,,3541VH,Utrecht,Utrecht,Utrecht,VBO,5.060242,52.096921
 Charlotte van Pallandthof,2,,,3541VH,Utrecht,Utrecht,Utrecht,VBO,5.060478,52.096850
 Charlotte van Pallandthof,3,,,3541VH,Utrecht,Utrecht,Utrecht,VBO,5.060229,52.096905
