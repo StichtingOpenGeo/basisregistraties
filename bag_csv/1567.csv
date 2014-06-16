@@ -716,17 +716,18 @@ Witte Ring,95,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.741029,52.488371
 Witte Ring,96,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740775,52.489416
 Witte Ring,97,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740967,52.488400
 Witte Ring,98,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740732,52.489456
-Witte Ring,99,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740753,52.488572
+Witte Ring,99,A,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740750,52.488572
+Witte Ring,99,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740787,52.488532
 Witte Ring,100,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740695,52.489497
-Witte Ring,101,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740715,52.488616
+Witte Ring,101,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740712,52.488616
 Witte Ring,102,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740662,52.489539
-Witte Ring,103,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740686,52.488659
+Witte Ring,103,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740677,52.488660
 Witte Ring,104,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740626,52.489583
-Witte Ring,105,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740640,52.488702
+Witte Ring,105,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740642,52.488703
 Witte Ring,106,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740586,52.489624
 Witte Ring,107,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740609,52.488745
 Witte Ring,108,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740540,52.489666
-Witte Ring,109,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740575,52.488789
+Witte Ring,109,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740575,52.488792
 Witte Ring,110,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740956,52.489876
 Witte Ring,111,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740519,52.489081
 Witte Ring,113,,,1567CG,Assendelft,Zaanstad,Noord-Holland,VBO,4.740500,52.489133
@@ -765,7 +766,6 @@ Doornburgh,4,,,1567CL,Assendelft,Zaanstad,Noord-Holland,VBO,4.741074,52.487402
 Doornburgh,5,,,1567CL,Assendelft,Zaanstad,Noord-Holland,VBO,4.740966,52.487538
 Doornburgh,6,,,1567CL,Assendelft,Zaanstad,Noord-Holland,VBO,4.741244,52.487594
 Doornburgh,7,,,1567CL,Assendelft,Zaanstad,Noord-Holland,VBO,4.741469,52.487653
-Rupelmonde,8,,,1567CN,Assendelft,Zaanstad,Noord-Holland,VBO,4.740790,52.488531
 Sandwijck,9,,,1567CP,Assendelft,Zaanstad,Noord-Holland,VBO,4.740534,52.489039
 Trompenburgh,1,,,1567CS,Assendelft,Zaanstad,Noord-Holland,VBO,4.740169,52.489678
 Trompenburgh,2,,,1567CS,Assendelft,Zaanstad,Noord-Holland,VBO,4.739687,52.489616
@@ -2308,8 +2308,8 @@ Estafette,34,,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747349,52.492767
 Estafette,36,A,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747669,52.493011
 Estafette,36,B,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747625,52.492993
 Estafette,36,C,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747596,52.492984
-Estafette,36,D,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747554,52.492840
-Estafette,36,E,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747525,52.492821
+Estafette,36,D,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747557,52.492966
+Estafette,36,E,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747522,52.492949
 Estafette,36,F,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747479,52.492893
 Estafette,36,,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747274,52.492829
 Estafette,38,,,1567JM,Assendelft,Zaanstad,Noord-Holland,VBO,4.747259,52.492883
@@ -3215,21 +3215,31 @@ Kruier,22,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756343,52.493405
 Kruier,23,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756642,52.494087
 Kruier,24,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756434,52.493394
 Kruier,26,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756518,52.493392
-Kruier,28,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756886,52.493551
-Kruier,30,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756901,52.493619
-Kruier,32,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756910,52.493682
-Kruier,34,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756928,52.493749
-Kruier,36,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756941,52.493816
-Kruier,38,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756960,52.493883
-Kruier,40,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756972,52.493950
-Kruier,42,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756980,52.494016
-Kruier,44,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757374,52.494009
-Kruier,46,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757374,52.494081
-Kruier,48,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757360,52.494147
-Kruier,50,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757330,52.494207
-Kruier,52,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757252,52.494265
-Kruier,54,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757159,52.494306
-Kruier,56,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757059,52.494328
+Kruier,28,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756824,52.493532
+Kruier,30,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756830,52.493571
+Kruier,32,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756840,52.493613
+Kruier,34,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756852,52.493652
+Kruier,36,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756851,52.493694
+Kruier,38,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756862,52.493735
+Kruier,40,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.756935,52.493836
+Kruier,42,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757005,52.493848
+Kruier,44,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757064,52.493868
+Kruier,46,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757099,52.493904
+Kruier,48,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757150,52.493928
+Kruier,50,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757208,52.493955
+Kruier,52,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757249,52.493981
+Kruier,54,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757303,52.494009
+Kruier,56,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757353,52.494036
+Kruier,58,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757404,52.494057
+Kruier,60,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757639,52.494195
+Kruier,62,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757571,52.494206
+Kruier,64,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757510,52.494207
+Kruier,66,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757435,52.494219
+Kruier,68,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757285,52.494227
+Kruier,70,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757206,52.494230
+Kruier,72,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757144,52.494235
+Kruier,74,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757097,52.494245
+Kruier,76,,,1567LA,Assendelft,Zaanstad,Noord-Holland,VBO,4.757014,52.494250
 Conducteur,1,,,1567LB,Assendelft,Zaanstad,Noord-Holland,VBO,4.755762,52.493625
 Conducteur,2,,,1567LB,Assendelft,Zaanstad,Noord-Holland,VBO,4.756068,52.493599
 Conducteur,3,,,1567LB,Assendelft,Zaanstad,Noord-Holland,VBO,4.755779,52.493673

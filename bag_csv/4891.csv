@@ -33,7 +33,6 @@ Prins Bernhardstraat,5,,,4891AC,Rijsbergen,Zundert,Noord-Brabant,VBO,4.695962,51
 Prins Bernhardstraat,7,,,4891AC,Rijsbergen,Zundert,Noord-Brabant,VBO,4.695890,51.514030
 Prins Bernhardstraat,8,,,4891AC,Rijsbergen,Zundert,Noord-Brabant,VBO,4.696173,51.514347
 Prins Bernhardstraat,9,,,4891AC,Rijsbergen,Zundert,Noord-Brabant,VBO,4.695689,51.513993
-Prins Bernhardstraat,10,,,4891AC,Rijsbergen,Zundert,Noord-Brabant,VBO,4.695713,51.514317
 Prins Bernhardstraat,11,,,4891AC,Rijsbergen,Zundert,Noord-Brabant,VBO,4.695631,51.513984
 Prins Bernhardstraat,13,,,4891AC,Rijsbergen,Zundert,Noord-Brabant,VBO,4.695487,51.513974
 Prins Bernhardstraat,15,,,4891AC,Rijsbergen,Zundert,Noord-Brabant,VBO,4.695387,51.513965
@@ -181,12 +180,12 @@ Rubertstraat,1,b,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.694540,51.516014
 Rubertstraat,1,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.694893,51.516110
 Rubertstraat,2,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693957,51.516315
 Rubertstraat,3,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.694287,51.515875
-Rubertstraat,4,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693923,51.516260
 Rubertstraat,4,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693974,51.516197
-Rubertstraat,6,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693593,51.516100
+Rubertstraat,4,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693923,51.516260
 Rubertstraat,6,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693700,51.516126
-Rubertstraat,8,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693558,51.516029
+Rubertstraat,6,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693593,51.516100
 Rubertstraat,8,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693515,51.516082
+Rubertstraat,8,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693558,51.516029
 Rubertstraat,10,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693397,51.515975
 Rubertstraat,12,,,4891AN,Rijsbergen,Zundert,Noord-Brabant,VBO,4.693268,51.515912
 Gommersstraat,1,,,4891AP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.702169,51.519892
@@ -713,6 +712,7 @@ Antwerpseweg,75,,,4891CM,Rijsbergen,Zundert,Noord-Brabant,VBO,4.689221,51.501703
 Antwerpseweg,77,,BEDR,4891CM,Rijsbergen,Zundert,Noord-Brabant,VBO,4.689100,51.501404
 Antwerpseweg,77,,,4891CM,Rijsbergen,Zundert,Noord-Brabant,VBO,4.688964,51.501567
 Antwerpseweg,79,,,4891CM,Rijsbergen,Zundert,Noord-Brabant,VBO,4.688622,51.501367
+Antwerpseweg,81,a,,4891CM,Rijsbergen,Zundert,Noord-Brabant,VBO,4.687663,51.500324
 Antwerpseweg,81,,,4891CM,Rijsbergen,Zundert,Noord-Brabant,VBO,4.688401,51.500754
 Antwerpseweg,83,,,4891CM,Rijsbergen,Zundert,Noord-Brabant,VBO,4.687331,51.500083
 Antwerpseweg,85,,,4891CM,Rijsbergen,Zundert,Noord-Brabant,VBO,4.686850,51.499477
@@ -1099,8 +1099,8 @@ Leijakkerplein,4,,,4891NS,Rijsbergen,Zundert,Noord-Brabant,VBO,4.686674,51.51845
 't Hofke,1,,,4891NT,Rijsbergen,Zundert,Noord-Brabant,VBO,4.685758,51.518916
 't Hofke,2,,,4891NT,Rijsbergen,Zundert,Noord-Brabant,VBO,4.685844,51.518883
 't Hofke,2,,,4891NT,Rijsbergen,Zundert,Noord-Brabant,VBO,4.685414,51.518867
-'t Hofke,3,,,4891NT,Rijsbergen,Zundert,Noord-Brabant,VBO,4.685157,51.518677
 't Hofke,3,,,4891NT,Rijsbergen,Zundert,Noord-Brabant,VBO,4.685604,51.518620
+'t Hofke,3,,,4891NT,Rijsbergen,Zundert,Noord-Brabant,VBO,4.685157,51.518677
 't Hofke,4,,,4891NT,Rijsbergen,Zundert,Noord-Brabant,VBO,4.685504,51.518581
 Nieuwe Akker,1,,,4891NV,Rijsbergen,Zundert,Noord-Brabant,VBO,4.683640,51.518038
 Nieuwe Akker,2,,,4891NV,Rijsbergen,Zundert,Noord-Brabant,VBO,4.683582,51.518074
@@ -1406,8 +1406,8 @@ Zandstraat,39,,,4891PP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.732698,51.517038
 Boven Heining,1,,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.724890,51.508104
 Boven Heining,2,,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.729515,51.509011
 Boven Heining,3,a,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.730403,51.509376
-Boven Heining,3,,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.725508,51.508206
 Boven Heining,3,,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.725552,51.508325
+Boven Heining,3,,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.725508,51.508206
 Boven Heining,4,,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.732405,51.509387
 Boven Heining,5,,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.733709,51.510886
 Boven Heining,6,,,4891PR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.733402,51.510183
@@ -2599,6 +2599,7 @@ Pannenhoefsebaan,5,,,4891ZA,Rijsbergen,Zundert,Noord-Brabant,VBO,4.687262,51.513
 Pannenhoefsebaan,7,,,4891ZA,Rijsbergen,Zundert,Noord-Brabant,VBO,4.686169,51.513820
 Pannenhoefsebaan,11,,,4891ZA,Rijsbergen,Zundert,Noord-Brabant,VBO,4.682725,51.513826
 Pannenhoefsebaan,13,,,4891ZA,Rijsbergen,Zundert,Noord-Brabant,VBO,4.680699,51.513481
+Pannenhoefsebaan,15,,,4891ZA,Rijsbergen,Zundert,Noord-Brabant,VBO,4.680105,51.513299
 Pannenhoefsebaan,21,,,4891ZA,Rijsbergen,Zundert,Noord-Brabant,VBO,4.673326,51.513310
 Pannenhoefsebaan,23,,,4891ZA,Rijsbergen,Zundert,Noord-Brabant,VBO,4.672019,51.513051
 Pannenhoefsebaan,25,,,4891ZA,Rijsbergen,Zundert,Noord-Brabant,VBO,4.671070,51.512928
@@ -2656,8 +2657,8 @@ Hoefstraat,10,,,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.683219,51.516373
 Hoefstraat,12,,BEDR,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.682034,51.518183
 Hoefstraat,12,,,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.682027,51.518002
 Hoefstraat,13,,,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.681532,51.517414
-Hoefstraat,14,,,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.680935,51.519667
 Hoefstraat,14,,,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.680845,51.519730
+Hoefstraat,14,,,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.680935,51.519667
 Hoefstraat,15,,,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.681356,51.517633
 Hoefstraat,17,,,4891ZE,Rijsbergen,Zundert,Noord-Brabant,VBO,4.679116,51.520806
 Heistraat,1,a,,4891ZG,Rijsbergen,Zundert,Noord-Brabant,VBO,4.683179,51.509806
@@ -2682,8 +2683,8 @@ Nelleveldstraat,3,,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.676745,51.5083
 Nelleveldstraat,4,a,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.676243,51.509193
 Nelleveldstraat,4,b,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.675693,51.509361
 Nelleveldstraat,4,,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.676707,51.508971
-Nelleveldstraat,6,,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.673642,51.509085
 Nelleveldstraat,6,,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.673680,51.509106
+Nelleveldstraat,6,,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.673642,51.509085
 Nelleveldstraat,7,,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.671687,51.508500
 Nelleveldstraat,8,,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.671827,51.509697
 Nelleveldstraat,12,,,4891ZJ,Rijsbergen,Zundert,Noord-Brabant,VBO,4.670245,51.510451
@@ -2722,8 +2723,8 @@ Tiggeltsestraat,15,a,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.678775,51.50
 Tiggeltsestraat,15,,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.680427,51.505974
 Tiggeltsestraat,17,,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.680880,51.503693
 Tiggeltsestraat,19,,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.681084,51.503578
-Tiggeltsestraat,21,,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.679257,51.503004
 Tiggeltsestraat,21,,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.679451,51.502992
+Tiggeltsestraat,21,,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.679257,51.503004
 Tiggeltsestraat,23,,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.677880,51.503981
 Tiggeltsestraat,25,,,4891ZP,Rijsbergen,Zundert,Noord-Brabant,VBO,4.676893,51.501710
 Tiggeltsestraat,2,a,,4891ZR,Rijsbergen,Zundert,Noord-Brabant,VBO,4.690913,51.514378

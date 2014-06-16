@@ -15,8 +15,8 @@ de Weeldbaan,4,,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.928283,52.350496
 de Weeldbaan,5,,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.927761,52.350278
 de Weeldbaan,6,,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.928368,52.350405
 de Weeldbaan,7,A,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.928049,52.350143
-de Weeldbaan,7,,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.927962,52.350200
 de Weeldbaan,7,,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.928008,52.350185
+de Weeldbaan,7,,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.927962,52.350200
 de Weeldbaan,8,,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.928478,52.350215
 de Weeldbaan,9,,TEL,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.927826,52.350026
 de Weeldbaan,10,,,7596JB,Rossum,Dinkelland,Overijssel,VBO,6.928521,52.350169
@@ -49,7 +49,6 @@ Oldenzaalsestraat,10,,,7596KA,Rossum,Dinkelland,Overijssel,VBO,6.931282,52.34767
 Oldenzaalsestraat,12,,,7596KA,Rossum,Dinkelland,Overijssel,VBO,6.930365,52.346631
 Oldenzaalsestraat,16,,,7596KA,Rossum,Dinkelland,Overijssel,VBO,6.932324,52.337148
 Oldenzaalsestraat,18,A,,7596KA,Rossum,Dinkelland,Overijssel,VBO,6.931939,52.336602
-Oldenzaalsestraat,18,,,7596KA,Rossum,Dinkelland,Overijssel,VBO,6.931952,52.336569
 Oldenzaalsestraat,18,,,7596KA,Rossum,Dinkelland,Overijssel,VBO,6.932103,52.336561
 Oldenzaalsestraat,20,A,,7596KA,Rossum,Dinkelland,Overijssel,VBO,6.932365,52.336213
 Oldenzaalsestraat,20,,,7596KA,Rossum,Dinkelland,Overijssel,VBO,6.932408,52.336177
@@ -64,6 +63,7 @@ Oldenzaalsestraat,11,,,7596KB,Rossum,Dinkelland,Overijssel,VBO,6.934074,52.34018
 Oldenzaalsestraat,13,A,,7596KB,Rossum,Dinkelland,Overijssel,VBO,6.933635,52.339397
 Oldenzaalsestraat,13,,,7596KB,Rossum,Dinkelland,Overijssel,VBO,6.933653,52.339429
 Oldenzaalsestraat,15,,,7596KB,Rossum,Dinkelland,Overijssel,VBO,6.933477,52.338653
+Oldenzaalsestraat,15,,,7596KB,Rossum,Dinkelland,Overijssel,VBO,6.933829,52.338494
 Oldenzaalsestraat,17,A,,7596KB,Rossum,Dinkelland,Overijssel,VBO,6.933632,52.337903
 Oldenzaalsestraat,17,,,7596KB,Rossum,Dinkelland,Overijssel,VBO,6.933599,52.337932
 Oldenzaalsestraat,19,,TRAF,7596KB,Rossum,Dinkelland,Overijssel,VBO,6.933552,52.336171
@@ -114,6 +114,7 @@ Grotestraat,4,,,7596KE,Rossum,Dinkelland,Overijssel,VBO,6.926683,52.351362
 Grotestraat,6,,,7596KE,Rossum,Dinkelland,Overijssel,VBO,6.926404,52.351779
 Grotestraat,8,,,7596KE,Rossum,Dinkelland,Overijssel,VBO,6.926266,52.352023
 Grotestraat,12,,,7596KE,Rossum,Dinkelland,Overijssel,VBO,6.925771,52.352560
+Grotestraat,14,,,7596KE,Rossum,Dinkelland,Overijssel,VBO,6.925677,52.352718
 Grotestraat,16,,,7596KE,Rossum,Dinkelland,Overijssel,VBO,6.925565,52.352870
 Grotestraat,18,,,7596KE,Rossum,Dinkelland,Overijssel,VBO,6.925475,52.353005
 Grotestraat,20,,,7596KE,Rossum,Dinkelland,Overijssel,VBO,6.925417,52.353145
@@ -636,7 +637,6 @@ Twelweg,11,,,7596MD,Rossum,Dinkelland,Overijssel,VBO,6.943029,52.375005
 Twelweg,15,A,,7596MD,Rossum,Dinkelland,Overijssel,VBO,6.945565,52.379034
 Twelweg,15,,,7596MD,Rossum,Dinkelland,Overijssel,VBO,6.945266,52.378904
 Ekelhofsveldweg,4,A,,7596ME,Rossum,Dinkelland,Overijssel,VBO,6.957728,52.380629
-Ekelhofsveldweg,4,,,7596ME,Rossum,Dinkelland,Overijssel,VBO,6.957426,52.380496
 Ekelhofsveldweg,4,,,7596ME,Rossum,Dinkelland,Overijssel,VBO,6.957574,52.380607
 Ekelhofsveldweg,6,,,7596ME,Rossum,Dinkelland,Overijssel,VBO,6.954115,52.380333
 Ekelhofsveldweg,8,A,,7596ME,Rossum,Dinkelland,Overijssel,VBO,6.952613,52.384784
@@ -867,9 +867,7 @@ Lemseloseschoolweg,6,,,7596PD,Rossum,Dinkelland,Overijssel,VBO,6.910606,52.34571
 Lemseloseschoolweg,8,,,7596PD,Rossum,Dinkelland,Overijssel,VBO,6.908672,52.344529
 Tiethofweg,1,,,7596PE,Rossum,Dinkelland,Overijssel,VBO,6.915409,52.343679
 Tiethofweg,3,,,7596PE,Rossum,Dinkelland,Overijssel,VBO,6.915456,52.343354
-Tiethofweg,3,,,7596PE,Rossum,Dinkelland,Overijssel,VBO,6.915777,52.343287
 Tiethofweg,4,,,7596PE,Rossum,Dinkelland,Overijssel,VBO,6.913787,52.343827
-Tiethofweg,4,,,7596PE,Rossum,Dinkelland,Overijssel,VBO,6.913918,52.343851
 Tiethofweg,5,A,,7596PE,Rossum,Dinkelland,Overijssel,VBO,6.915734,52.342029
 Tiethofweg,5,,TRAF,7596PE,Rossum,Dinkelland,Overijssel,VBO,6.915061,52.342514
 Tiethofweg,5,,,7596PE,Rossum,Dinkelland,Overijssel,VBO,6.915364,52.342141

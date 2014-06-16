@@ -647,7 +647,6 @@ Burgemeester de Beaufortlaan,13,,,1391CK,Abcoude,De Ronde Venen,Utrecht,VBO,4.97
 Burgemeester de Beaufortlaan,14,,,1391CK,Abcoude,De Ronde Venen,Utrecht,VBO,4.972296,52.269364
 Burgemeester de Beaufortlaan,15,,,1391CK,Abcoude,De Ronde Venen,Utrecht,VBO,4.971718,52.269224
 Burgemeester de Beaufortlaan,16,,,1391CK,Abcoude,De Ronde Venen,Utrecht,VBO,4.972187,52.269396
-Koppeldijk,33,A,,1391CK,Abcoude,De Ronde Venen,Utrecht,VBO,4.975103,52.268059
 Burgemeester des Tombeweg,2,,,1391CL,Abcoude,De Ronde Venen,Utrecht,VBO,4.973299,52.269191
 Burgemeester des Tombeweg,4,,,1391CL,Abcoude,De Ronde Venen,Utrecht,VBO,4.973257,52.269135
 Burgemeester des Tombeweg,6,,,1391CL,Abcoude,De Ronde Venen,Utrecht,VBO,4.973188,52.269073
@@ -749,6 +748,7 @@ Koppeldijk,29,,,1391CX,Abcoude,De Ronde Venen,Utrecht,VBO,4.974738,52.268207
 Koppeldijk,31,A,,1391CX,Abcoude,De Ronde Venen,Utrecht,VBO,4.975018,52.268254
 Koppeldijk,31,B,,1391CX,Abcoude,De Ronde Venen,Utrecht,VBO,4.975065,52.268156
 Koppeldijk,31,,,1391CX,Abcoude,De Ronde Venen,Utrecht,VBO,4.974710,52.268135
+Koppeldijk,33,A,,1391CX,Abcoude,De Ronde Venen,Utrecht,VBO,4.975103,52.268059
 Koppeldijk,33,,,1391CX,Abcoude,De Ronde Venen,Utrecht,VBO,4.974766,52.268074
 Koppeldijk,35,,,1391CX,Abcoude,De Ronde Venen,Utrecht,VBO,4.974890,52.267943
 Koppeldijk,37,,,1391CX,Abcoude,De Ronde Venen,Utrecht,VBO,4.975080,52.267652
@@ -1129,7 +1129,7 @@ Stationsstraat,20,,,1391GN,Abcoude,De Ronde Venen,Utrecht,VBO,4.976145,52.271913
 Stationsstraat,22,,,1391GP,Abcoude,De Ronde Venen,Utrecht,VBO,4.976256,52.271944
 Stationsstraat,24,,,1391GP,Abcoude,De Ronde Venen,Utrecht,VBO,4.976371,52.271973
 Stationsstraat,26,,ben,1391GP,Abcoude,De Ronde Venen,Utrecht,VBO,4.976486,52.272031
-Stationsstraat,26,,,1391GP,Abcoude,De Ronde Venen,Utrecht,VBO,4.976492,52.271999
+Stationsstraat,26,,bov,1391GP,Abcoude,De Ronde Venen,Utrecht,VBO,4.976492,52.271999
 Stationsstraat,28,,,1391GP,Abcoude,De Ronde Venen,Utrecht,VBO,4.978266,52.272389
 Stationsstraat,32,,,1391GP,Abcoude,De Ronde Venen,Utrecht,VBO,4.979235,52.272740
 Stationsstraat,34,,,1391GP,Abcoude,De Ronde Venen,Utrecht,VBO,4.979318,52.272759
@@ -1311,8 +1311,8 @@ Meerweg,16,E,4,1391HH,Abcoude,De Ronde Venen,Utrecht,VBO,4.971598,52.273330
 Meerweg,18,,,1391HH,Abcoude,De Ronde Venen,Utrecht,VBO,4.971481,52.273405
 Meerweg,20,,,1391HH,Abcoude,De Ronde Venen,Utrecht,VBO,4.971373,52.273435
 Voetangelweg,1,,,1391HJ,Abcoude,De Ronde Venen,Utrecht,VBO,4.961577,52.276399
-Voetangelweg,2,A,,1391HJ,Abcoude,De Ronde Venen,Utrecht,VBO,4.961063,52.277496
 Voetangelweg,2,A,,1391HJ,Abcoude,De Ronde Venen,Utrecht,STA,4.960608,52.277307
+Voetangelweg,2,A,,1391HJ,Abcoude,De Ronde Venen,Utrecht,VBO,4.961063,52.277496
 Voetangelweg,2,B,,1391HJ,Abcoude,De Ronde Venen,Utrecht,VBO,4.960617,52.276993
 Voetangelweg,2,C,,1391HJ,Abcoude,De Ronde Venen,Utrecht,VBO,4.961248,52.277333
 Voetangelweg,2,,,1391HJ,Abcoude,De Ronde Venen,Utrecht,VBO,4.961443,52.277261
@@ -1515,8 +1515,8 @@ Hollandse Kade,18,,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.972957,52.279402
 Hollandse Kade,19,,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.973517,52.279834
 Hollandse Kade,20,,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.973594,52.279637
 Hollandse Kade,21,A,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.973754,52.279212
-Hollandse Kade,21,,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.973801,52.279225
 Hollandse Kade,21,,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.973864,52.279236
+Hollandse Kade,21,,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.973801,52.279225
 Hollandse Kade,22,,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.973953,52.279065
 Hollandse Kade,23,A,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.974077,52.278981
 Hollandse Kade,23,B,,1391JD,Abcoude,De Ronde Venen,Utrecht,VBO,4.974024,52.278828
@@ -1705,8 +1705,8 @@ Lange Coupure,1,,,1391KN,Abcoude,De Ronde Venen,Utrecht,VBO,4.982883,52.266705
 Lange Coupure,3,A,,1391KN,Abcoude,De Ronde Venen,Utrecht,VBO,4.987236,52.261726
 Lange Coupure,3,,,1391KN,Abcoude,De Ronde Venen,Utrecht,VBO,4.986340,52.261632
 Lange Coupure,5,,,1391KN,Abcoude,De Ronde Venen,Utrecht,VBO,4.987448,52.260657
-Oude Dijk,1,A,,1391KP,Abcoude,De Ronde Venen,Utrecht,VBO,4.981099,52.265981
 Oude Dijk,1,A,,1391KP,Abcoude,De Ronde Venen,Utrecht,VBO,4.981166,52.266252
+Oude Dijk,1,A,,1391KP,Abcoude,De Ronde Venen,Utrecht,VBO,4.981099,52.265981
 Oude Dijk,1,,,1391KP,Abcoude,De Ronde Venen,Utrecht,VBO,4.980256,52.266098
 Oude Dijk,3,,,1391KP,Abcoude,De Ronde Venen,Utrecht,VBO,4.980023,52.266031
 Oude Dijk,4,,,1391KP,Abcoude,De Ronde Venen,Utrecht,VBO,4.978256,52.263282

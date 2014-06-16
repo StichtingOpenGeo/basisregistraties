@@ -48,8 +48,7 @@ Apeldoornseweg,44,A,,8051AD,Hattem,Hattem,Gelderland,VBO,6.066065,52.457874
 Apeldoornseweg,44,,,8051AD,Hattem,Hattem,Gelderland,VBO,6.066118,52.457772
 Apeldoornseweg,46,,,8051AD,Hattem,Hattem,Gelderland,VBO,6.065758,52.456731
 Apeldoornseweg,48,,,8051AD,Hattem,Hattem,Gelderland,VBO,6.062599,52.455086
-Apeldoornseweg,50,A,,8051AD,Hattem,Hattem,Gelderland,VBO,6.067808,52.451397
-Apeldoornseweg,50,B,,8051AD,Hattem,Hattem,Gelderland,VBO,6.067711,52.451381
+Apeldoornseweg,50,A,,8051AD,Hattem,Hattem,Gelderland,VBO,6.067614,52.451357
 Apeldoornseweg,50,,,8051AD,Hattem,Hattem,Gelderland,VBO,6.067789,52.451352
 Lijsterbeslaan,2,A,,8051AE,Hattem,Hattem,Gelderland,VBO,6.066546,52.464628
 Lijsterbeslaan,2,,,8051AE,Hattem,Hattem,Gelderland,VBO,6.066452,52.464309
@@ -409,6 +408,7 @@ Hezenbergerweg,40,,,8051CH,Hattem,Hattem,Gelderland,VBO,6.072973,52.462797
 Hezenbergerweg,42,,,8051CH,Hattem,Hattem,Gelderland,VBO,6.073022,52.462769
 Hezenbergerweg,44,,,8051CH,Hattem,Hattem,Gelderland,VBO,6.073072,52.462741
 Hezenbergerweg,46,,,8051CH,Hattem,Hattem,Gelderland,VBO,6.073121,52.462712
+Opbroeksepad,1,,,8051CH,Hattem,Hattem,Gelderland,VBO,6.087332,52.463272
 Astraweg,1,,,8051CJ,Hattem,Hattem,Gelderland,VBO,6.075683,52.459830
 Astraweg,2,A,,8051CJ,Hattem,Hattem,Gelderland,VBO,6.074757,52.460447
 Astraweg,2,,,8051CJ,Hattem,Hattem,Gelderland,VBO,6.074094,52.460137
@@ -723,7 +723,7 @@ Nieuwstad,7,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.071928,52.472296
 Nieuwstad,9,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.071985,52.472218
 Nieuwstad,11,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.072049,52.472128
 Nieuwstad,13,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.072143,52.472048
-Nieuwstad,17,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.072222,52.471883
+Nieuwstad,17,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.072271,52.471961
 Nieuwstad,19,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.072288,52.471827
 Nieuwstad,21,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.072568,52.471716
 Nieuwstad,25,,,8051DK,Hattem,Hattem,Gelderland,VBO,6.072728,52.471622
@@ -959,6 +959,9 @@ Nieuweweg,24,,,8051ED,Hattem,Hattem,Gelderland,VBO,6.070990,52.472279
 Nieuweweg,26,,,8051ED,Hattem,Hattem,Gelderland,VBO,6.070955,52.472245
 Nieuweweg,28,A,,8051ED,Hattem,Hattem,Gelderland,VBO,6.070755,52.472211
 Nieuweweg,28,,,8051ED,Hattem,Hattem,Gelderland,VBO,6.070939,52.472175
+de Bleek,1,A,,8051EE,Hattem,Hattem,Gelderland,VBO,6.072465,52.473823
+de Bleek,1,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.072343,52.473803
+de Bleek,3,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.073500,52.473169
 Nieuweweg,30,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.070931,52.472119
 Nieuweweg,32,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.070806,52.472008
 Nieuweweg,34,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.070777,52.471887
@@ -967,9 +970,6 @@ Nieuweweg,38,A,,8051EE,Hattem,Hattem,Gelderland,VBO,6.070708,52.471614
 Nieuweweg,38,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.070683,52.471722
 Nieuweweg,42,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.070623,52.471435
 Nieuweweg,46,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.070522,52.471203
-de Bleek,1,A,,8051EE,Hattem,Hattem,Gelderland,VBO,6.072465,52.473823
-de Bleek,1,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.072343,52.473803
-de Bleek,3,,,8051EE,Hattem,Hattem,Gelderland,VBO,6.073500,52.473169
 Korte Walsteeg,2,,,8051EG,Hattem,Hattem,Gelderland,VBO,6.071777,52.474699
 Ridderstraat,1,I,,8051EG,Hattem,Hattem,Gelderland,VBO,6.070315,52.475221
 Ridderstraat,1,,,8051EG,Hattem,Hattem,Gelderland,VBO,6.070046,52.475186
@@ -1097,6 +1097,7 @@ Noordwal,15,,,8051ES,Hattem,Hattem,Gelderland,VBO,6.068546,52.475623
 Noordwal,19,,,8051ES,Hattem,Hattem,Gelderland,VBO,6.068325,52.475584
 Noordwal,23,,,8051ES,Hattem,Hattem,Gelderland,VBO,6.067966,52.475559
 Noordwal,25,,,8051ES,Hattem,Hattem,Gelderland,VBO,6.067931,52.475396
+Noordwal,27,,,8051ES,Hattem,Hattem,Gelderland,VBO,6.067762,52.475484
 Noordwal,31,,,8051ES,Hattem,Hattem,Gelderland,VBO,6.067265,52.475466
 Noordwal,33,,,8051ES,Hattem,Hattem,Gelderland,VBO,6.067091,52.475449
 Noordwal,35,,,8051ES,Hattem,Hattem,Gelderland,VBO,6.066979,52.475436
@@ -1135,7 +1136,7 @@ Gasthuissteeg,11,,,8051EX,Hattem,Hattem,Gelderland,VBO,6.068526,52.474926
 Markt,1,A,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.070220,52.474964
 Markt,1,,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.069865,52.474667
 Markt,2,A,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.069995,52.474374
-Markt,2,,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.070241,52.474365
+Markt,2,,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.070139,52.474365
 Markt,3,A,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.069597,52.474240
 Markt,3,B,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.069412,52.474223
 Markt,3,C,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.069412,52.474223
@@ -1148,7 +1149,7 @@ Markt,7,,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.069488,52.474389
 Markt,8,,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.069545,52.474558
 Markt,9,,,8051EZ,Hattem,Hattem,Gelderland,VBO,6.069559,52.474603
 Achterstraat,1,A,,8051GA,Hattem,Hattem,Gelderland,VBO,6.069531,52.475090
-Achterstraat,1,,,8051GA,Hattem,Hattem,Gelderland,VBO,6.069574,52.475088
+Achterstraat,1,B,,8051GA,Hattem,Hattem,Gelderland,VBO,6.069565,52.475057
 Achterstraat,3,A,,8051GA,Hattem,Hattem,Gelderland,VBO,6.069425,52.475066
 Achterstraat,3,,,8051GA,Hattem,Hattem,Gelderland,VBO,6.069434,52.475088
 Achterstraat,5,,,8051GA,Hattem,Hattem,Gelderland,VBO,6.069331,52.475088
@@ -1196,6 +1197,7 @@ Kruisstraat,3,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069613,52.474770
 Kruisstraat,5,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069614,52.474877
 Kruisstraat,7,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069663,52.474930
 Kruisstraat,9,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069678,52.474980
+Kruisstraat,11,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069682,52.475060
 Kruisstraat,13,A,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069732,52.475190
 Kruisstraat,13,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069749,52.475163
 Kruisstraat,15,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069765,52.475219
@@ -1207,7 +1209,6 @@ Kruisstraat,21,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069806,52.475414
 Kruisstraat,23,,,8051GD,Hattem,Hattem,Gelderland,VBO,6.069799,52.475484
 Kruisstraat,10,,,8051GE,Hattem,Hattem,Gelderland,VBO,6.069927,52.475064
 Kruisstraat,12,,,8051GE,Hattem,Hattem,Gelderland,VBO,6.069911,52.475200
-Kruisstraat,14,A,,8051GE,Hattem,Hattem,Gelderland,VBO,6.070029,52.475251
 Kruisstraat,14,,,8051GE,Hattem,Hattem,Gelderland,VBO,6.069925,52.475265
 Kruisstraat,16,A,,8051GE,Hattem,Hattem,Gelderland,VBO,6.070064,52.475303
 Kruisstraat,16,B,,8051GE,Hattem,Hattem,Gelderland,VBO,6.070076,52.475329
@@ -1228,8 +1229,7 @@ Kerkhofstraat,9,,,8051GG,Hattem,Hattem,Gelderland,VBO,6.070864,52.474462
 Kerkhofstraat,10,,,8051GG,Hattem,Hattem,Gelderland,VBO,6.071342,52.474380
 Kerkhofstraat,13,,,8051GG,Hattem,Hattem,Gelderland,VBO,6.071328,52.474568
 Kerkhofstraat,16,,,8051GG,Hattem,Hattem,Gelderland,VBO,6.071471,52.474521
-Kerkplein,1,A,,8051GH,Hattem,Hattem,Gelderland,VBO,6.069957,52.474298
-Kerkplein,1,,,8051GH,Hattem,Hattem,Gelderland,VBO,6.069959,52.474303
+Kerkplein,1,A,,8051GH,Hattem,Hattem,Gelderland,VBO,6.070042,52.474271
 Kerkplein,2,,,8051GH,Hattem,Hattem,Gelderland,VBO,6.069987,52.474164
 Kerkplein,4,,,8051GH,Hattem,Hattem,Gelderland,VBO,6.070092,52.474128
 Kerkplein,6,,,8051GH,Hattem,Hattem,Gelderland,VBO,6.070174,52.474103
@@ -1283,6 +1283,7 @@ Kerkstraat,22,,,8051GL,Hattem,Hattem,Gelderland,VBO,6.068305,52.474737
 Van Allerhof,1,,,8051GL,Hattem,Hattem,Gelderland,VBO,6.070396,52.473590
 Van Allerhof,3,,,8051GL,Hattem,Hattem,Gelderland,VBO,6.070451,52.473631
 Van Allerhof,5,,,8051GL,Hattem,Hattem,Gelderland,VBO,6.070525,52.473669
+de Steeg,1,,,8051GM,Hattem,Hattem,Gelderland,VBO,6.069240,52.474666
 Kerkstraat,26,,,8051GM,Hattem,Hattem,Gelderland,VBO,6.067999,52.474787
 Kerkstraat,28,,,8051GM,Hattem,Hattem,Gelderland,VBO,6.067885,52.474808
 Kerkstraat,30,A,,8051GM,Hattem,Hattem,Gelderland,VBO,6.067806,52.474826
@@ -1296,7 +1297,6 @@ Kerkstraat,38,,,8051GM,Hattem,Hattem,Gelderland,VBO,6.067317,52.474912
 Kerkstraat,40,A,,8051GM,Hattem,Hattem,Gelderland,VBO,6.067112,52.474997
 Kerkstraat,40,,,8051GM,Hattem,Hattem,Gelderland,VBO,6.067082,52.474952
 Kerkstraat,42,,,8051GM,Hattem,Hattem,Gelderland,VBO,6.067017,52.474962
-de Steeg,1,,,8051GM,Hattem,Hattem,Gelderland,VBO,6.069240,52.474666
 Korte Kerkstraat,1,,,8051GN,Hattem,Hattem,Gelderland,VBO,6.070300,52.474031
 Korte Kerkstraat,3,,,8051GN,Hattem,Hattem,Gelderland,VBO,6.070376,52.474008
 Korte Kerkstraat,4,,,8051GN,Hattem,Hattem,Gelderland,VBO,6.070236,52.473965
@@ -1655,7 +1655,7 @@ IJsselstraat,13,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.060504,52.479795
 IJsselstraat,15,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.060445,52.479772
 IJsselstraat,17,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.060363,52.479750
 IJsselstraat,19,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.060305,52.479736
-IJsselstraat,21,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.060192,52.479702
+IJsselstraat,21,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.060198,52.479701
 IJsselstraat,23,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.060079,52.479668
 IJsselstraat,25,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.060029,52.479648
 IJsselstraat,27,,,8051HM,Hattem,Hattem,Gelderland,VBO,6.059344,52.479511
@@ -2249,32 +2249,6 @@ Hilsdijk,28,,,8051KD,Hattem,Hattem,Gelderland,VBO,6.051470,52.477828
 Hilsdijk,34,,,8051KD,Hattem,Hattem,Gelderland,VBO,6.051114,52.477881
 Hilsdijk,36,,,8051KD,Hattem,Hattem,Gelderland,VBO,6.050199,52.477975
 Hilsdijk,38,,,8051KD,Hattem,Hattem,Gelderland,VBO,6.049971,52.478025
-Hilsdijk,40,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.049826,52.478073
-Hilsdijk,42,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.049780,52.478089
-Hilsdijk,44,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.049498,52.478186
-Hilsdijk,46,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.049165,52.478341
-Hilsdijk,48,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.048480,52.478463
-Hilsdijk,50,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.048226,52.478508
-Hilsdijk,54,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.048097,52.478590
-Hilsdijk,56,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.047882,52.478637
-Hilsdijk,58,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.047693,52.478718
-Hilsdijk,78,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046864,52.479362
-Hilsdijk,80,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046690,52.479458
-Hilsdijk,82,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046510,52.479551
-Hilsdijk,84,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046295,52.479640
-Hilsdijk,86,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046079,52.479716
-Hilsdijk,88,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.045838,52.479800
-Hilsdijk,90,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.044442,52.480320
-Hilsdijk,90,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.044674,52.480445
-Hilsdijk,92,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.043908,52.480597
-Hilsdijk,94,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.043284,52.480887
-Hilsdijk,96,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.042756,52.481016
-Hilsdijk,100,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.042136,52.481731
-Hilsdijk,102,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.041861,52.483136
-Hilsdijk,104,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.040509,52.484582
-Hilsdijk,106,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.040205,52.484881
-Hilsdijk,108,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.038916,52.486111
-Hilsdijk,110,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.038097,52.486242
 de Netelhorst,1,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.041176,52.484402
 de Netelhorst,2,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.041411,52.484142
 de Netelhorst,3,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.042230,52.485043
@@ -2297,6 +2271,32 @@ de Netelhorst,16,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.044323,52.485678
 de Netelhorst,17,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.044165,52.486095
 de Netelhorst,28,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.047300,52.486958
 de Netelhorst,30,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.047856,52.487040
+Hilsdijk,40,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.049826,52.478073
+Hilsdijk,42,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.049780,52.478089
+Hilsdijk,44,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.049498,52.478186
+Hilsdijk,46,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.049165,52.478341
+Hilsdijk,48,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.048480,52.478463
+Hilsdijk,50,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.048226,52.478508
+Hilsdijk,54,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.048097,52.478590
+Hilsdijk,56,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.047882,52.478637
+Hilsdijk,58,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.047693,52.478718
+Hilsdijk,78,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046864,52.479362
+Hilsdijk,80,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046690,52.479458
+Hilsdijk,82,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046510,52.479551
+Hilsdijk,84,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046295,52.479640
+Hilsdijk,86,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.046079,52.479716
+Hilsdijk,88,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.045838,52.479800
+Hilsdijk,90,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.044674,52.480445
+Hilsdijk,90,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.044442,52.480320
+Hilsdijk,92,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.043908,52.480597
+Hilsdijk,94,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.043284,52.480887
+Hilsdijk,96,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.042756,52.481016
+Hilsdijk,100,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.042136,52.481731
+Hilsdijk,102,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.041861,52.483136
+Hilsdijk,104,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.040509,52.484582
+Hilsdijk,106,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.040205,52.484881
+Hilsdijk,108,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.038916,52.486111
+Hilsdijk,110,,,8051KE,Hattem,Hattem,Gelderland,VBO,6.038097,52.486242
 Schipsweg,1,,,8051KG,Hattem,Hattem,Gelderland,VBO,6.039709,52.482816
 Schipsweg,2,,,8051KG,Hattem,Hattem,Gelderland,VBO,6.038226,52.482765
 Schipsweg,3,,,8051KG,Hattem,Hattem,Gelderland,VBO,6.039371,52.482527
@@ -2553,13 +2553,6 @@ de Meenthe,54,,,8051KV,Hattem,Hattem,Gelderland,VBO,6.050795,52.476051
 de Meenthe,56,,,8051KV,Hattem,Hattem,Gelderland,VBO,6.050752,52.475912
 de Meenthe,58,,,8051KV,Hattem,Hattem,Gelderland,VBO,6.050752,52.475863
 de Meenthe,60,,,8051KV,Hattem,Hattem,Gelderland,VBO,6.050752,52.475813
-Oude Kerkweg,1,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051728,52.474972
-Oude Kerkweg,3,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051818,52.474845
-Oude Kerkweg,5,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051800,52.474455
-Oude Kerkweg,7,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051714,52.474440
-Oude Kerkweg,9,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051534,52.474410
-Oude Kerkweg,31,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.042617,52.475287
-Oude Kerkweg,33,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.041487,52.475296
 de Hunze,2,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.049412,52.475923
 de Hunze,4,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.049437,52.475981
 de Hunze,6,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.049461,52.476039
@@ -2574,6 +2567,13 @@ de Hunze,22,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.049981,52.476367
 de Hunze,24,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.050069,52.476359
 de Hunze,26,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.050156,52.476350
 de Hunze,28,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.050198,52.476947
+Oude Kerkweg,1,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051728,52.474972
+Oude Kerkweg,3,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051818,52.474845
+Oude Kerkweg,5,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051800,52.474455
+Oude Kerkweg,7,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051714,52.474440
+Oude Kerkweg,9,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.051534,52.474410
+Oude Kerkweg,31,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.042617,52.475287
+Oude Kerkweg,33,,,8051KW,Hattem,Hattem,Gelderland,VBO,6.041487,52.475296
 Oude Kerkweg,4,A,,8051KX,Hattem,Hattem,Gelderland,VBO,6.050992,52.474435
 Oude Kerkweg,4,B,,8051KX,Hattem,Hattem,Gelderland,VBO,6.050964,52.474485
 Oude Kerkweg,4,,,8051KX,Hattem,Hattem,Gelderland,VBO,6.050952,52.474401
@@ -2596,17 +2596,6 @@ Oude Kerkweg,32,,,8051KX,Hattem,Hattem,Gelderland,VBO,6.044430,52.475166
 Oude Kerkweg,34,,,8051KX,Hattem,Hattem,Gelderland,VBO,6.043200,52.475453
 Oude Kerkweg,36,,,8051KX,Hattem,Hattem,Gelderland,VBO,6.042217,52.475522
 Oude Kerkweg,38,,,8051KX,Hattem,Hattem,Gelderland,VBO,6.042057,52.475539
-Oude Kerkweg,42,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041871,52.475453
-Oude Kerkweg,44,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041549,52.475590
-Oude Kerkweg,46,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041554,52.475688
-Oude Kerkweg,48,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041569,52.475772
-Oude Kerkweg,50,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041614,52.476140
-Oude Kerkweg,52,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041744,52.476352
-Oude Kerkweg,54,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041745,52.476445
-Oude Kerkweg,56,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041746,52.476566
-Oude Kerkweg,58,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041749,52.476655
-Oude Kerkweg,60,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041754,52.476782
-Oude Kerkweg,62,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041756,52.476872
 de Hunze,1,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.049151,52.476255
 de Hunze,3,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.049515,52.476583
 de Hunze,5,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.049623,52.476588
@@ -2630,6 +2619,17 @@ de Hunze,39,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.049969,52.477538
 de Hunze,41,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.049979,52.477585
 de Hunze,43,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.049989,52.477632
 de Hunze,45,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.049999,52.477678
+Oude Kerkweg,42,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041871,52.475453
+Oude Kerkweg,44,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041549,52.475590
+Oude Kerkweg,46,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041554,52.475688
+Oude Kerkweg,48,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041569,52.475772
+Oude Kerkweg,50,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041614,52.476140
+Oude Kerkweg,52,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041744,52.476352
+Oude Kerkweg,54,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041745,52.476445
+Oude Kerkweg,56,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041746,52.476566
+Oude Kerkweg,58,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041749,52.476655
+Oude Kerkweg,60,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041754,52.476782
+Oude Kerkweg,62,,,8051KZ,Hattem,Hattem,Gelderland,VBO,6.041756,52.476872
 Hessenweg,3,,,8051LA,Hattem,Hattem,Gelderland,VBO,6.054452,52.476416
 Hessenweg,5,,,8051LA,Hattem,Hattem,Gelderland,VBO,6.054198,52.476338
 Hessenweg,7,,,8051LA,Hattem,Hattem,Gelderland,VBO,6.053947,52.476203
@@ -3395,7 +3395,7 @@ Veldweg,18,A,,8051NR,Hattem,Hattem,Gelderland,VBO,6.059096,52.459700
 Veldweg,18,,,8051NR,Hattem,Hattem,Gelderland,VBO,6.059448,52.459930
 Veldweg,20,I,,8051NS,Hattem,Hattem,Gelderland,VBO,6.059424,52.457995
 Veldweg,20,,,8051NS,Hattem,Hattem,Gelderland,VBO,6.058680,52.458504
-Veldweg,22,,,8051NS,Hattem,Hattem,Gelderland,VBO,6.059421,52.457659
+Veldweg,22,,,8051NS,Hattem,Hattem,Gelderland,VBO,6.059344,52.457696
 Veldweg,24,,,8051NS,Hattem,Hattem,Gelderland,VBO,6.059400,52.457472
 Veldweg,28,,,8051NS,Hattem,Hattem,Gelderland,VBO,6.059404,52.457148
 Veldweg,30,,,8051NS,Hattem,Hattem,Gelderland,VBO,6.059383,52.456707
@@ -3587,9 +3587,7 @@ Prins Hendriklaan,7,,,8051PH,Hattem,Hattem,Gelderland,VBO,6.055713,52.454206
 Prins Hendriklaan,8,,,8051PH,Hattem,Hattem,Gelderland,VBO,6.054362,52.453330
 Prins Hendriklaan,9,,,8051PH,Hattem,Hattem,Gelderland,VBO,6.055285,52.453468
 Prins Hendriklaan,11,,,8051PH,Hattem,Hattem,Gelderland,VBO,6.055263,52.453012
-Burg Honcooplaan,1,A,,8051PJ,Hattem,Hattem,Gelderland,VBO,6.056303,52.451189
-Burg Honcooplaan,1,,1,8051PJ,Hattem,Hattem,Gelderland,VBO,6.056365,52.451137
-Burg Honcooplaan,1,,,8051PJ,Hattem,Hattem,Gelderland,VBO,6.056366,52.451248
+Burg Honcooplaan,1,,,8051PJ,Hattem,Hattem,Gelderland,VBO,6.056326,52.451232
 Burg Honcooplaan,2,,,8051PJ,Hattem,Hattem,Gelderland,VBO,6.058988,52.452505
 Burg Honcooplaan,6,,,8051PJ,Hattem,Hattem,Gelderland,VBO,6.056759,52.452550
 Burg Honcooplaan,8,,,8051PJ,Hattem,Hattem,Gelderland,VBO,6.055376,52.452594
@@ -3691,14 +3689,14 @@ Leemkuilen,6,,29,8051PW,Hattem,Hattem,Gelderland,VBO,6.041481,52.455670
 Leemkuilen,6,,3,8051PW,Hattem,Hattem,Gelderland,VBO,6.039502,52.455012
 Leemkuilen,6,,30,8051PW,Hattem,Hattem,Gelderland,VBO,6.042054,52.455873
 Leemkuilen,6,,31,8051PW,Hattem,Hattem,Gelderland,VBO,6.041319,52.455160
-Leemkuilen,6,,32,8051PW,Hattem,Hattem,Gelderland,VBO,6.038673,52.456208
-Leemkuilen,6,,33,8051PW,Hattem,Hattem,Gelderland,VBO,6.038597,52.456061
-Leemkuilen,6,,34,8051PW,Hattem,Hattem,Gelderland,VBO,6.038483,52.455941
-Leemkuilen,6,,35,8051PW,Hattem,Hattem,Gelderland,VBO,6.038359,52.455821
+Leemkuilen,6,,32,8051PW,Hattem,Hattem,Gelderland,VBO,6.038613,52.456316
+Leemkuilen,6,,33,8051PW,Hattem,Hattem,Gelderland,VBO,6.038519,52.456170
+Leemkuilen,6,,34,8051PW,Hattem,Hattem,Gelderland,VBO,6.038436,52.456028
+Leemkuilen,6,,35,8051PW,Hattem,Hattem,Gelderland,VBO,6.038396,52.455850
 Leemkuilen,6,,36,8051PW,Hattem,Hattem,Gelderland,VBO,6.038709,52.455704
 Leemkuilen,6,,37,8051PW,Hattem,Hattem,Gelderland,VBO,6.038821,52.455863
-Leemkuilen,6,,38,8051PW,Hattem,Hattem,Gelderland,VBO,6.038926,52.456041
-Leemkuilen,6,,39,8051PW,Hattem,Hattem,Gelderland,VBO,6.038987,52.456178
+Leemkuilen,6,,38,8051PW,Hattem,Hattem,Gelderland,VBO,6.038900,52.455980
+Leemkuilen,6,,39,8051PW,Hattem,Hattem,Gelderland,VBO,6.038916,52.456125
 Leemkuilen,6,,4,8051PW,Hattem,Hattem,Gelderland,VBO,6.041049,52.454613
 Leemkuilen,6,,5,8051PW,Hattem,Hattem,Gelderland,VBO,6.040904,52.454467
 Leemkuilen,6,,51,8051PW,Hattem,Hattem,Gelderland,VBO,6.037792,52.455708
@@ -4147,7 +4145,6 @@ Grote Gracht,31,,,8051VH,Hattem,Hattem,Gelderland,VBO,6.068486,52.473119
 Grote Gracht,33,,,8051VH,Hattem,Hattem,Gelderland,VBO,6.068344,52.473157
 Grote Gracht,35,,,8051VH,Hattem,Hattem,Gelderland,VBO,6.068116,52.473190
 Grote Gracht,45,,,8051VJ,Hattem,Hattem,Gelderland,VBO,6.067149,52.473615
-Grote Gracht,45,,,8051VJ,Hattem,Hattem,Gelderland,VBO,6.067185,52.473591
 Grote Gracht,47,,,8051VJ,Hattem,Hattem,Gelderland,VBO,6.067229,52.473799
 Grote Gracht,49,,,8051VJ,Hattem,Hattem,Gelderland,VBO,6.067043,52.473828
 Grote Gracht,51,,,8051VJ,Hattem,Hattem,Gelderland,VBO,6.066912,52.473918

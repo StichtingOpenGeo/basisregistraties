@@ -83,7 +83,8 @@ Dammersweg,15,,RD,1991AK,Velserbroek,Velsen,Noord-Holland,VBO,4.677184,52.430191
 Dammersweg,15,,,1991AK,Velserbroek,Velsen,Noord-Holland,VBO,4.677174,52.430456
 Dammersweg,31,,,1991AK,Velserbroek,Velsen,Noord-Holland,VBO,4.672407,52.428361
 Dammersweg,33,,,1991AK,Velserbroek,Velsen,Noord-Holland,VBO,4.672326,52.428100
-Westlaan,25,,,1991AL,Velserbroek,Velsen,Noord-Holland,VBO,4.662004,52.426190
+Westlaan,25,B,,1991AL,Velserbroek,Velsen,Noord-Holland,VBO,4.662040,52.426172
+Westlaan,25,,,1991AL,Velserbroek,Velsen,Noord-Holland,VBO,4.661971,52.426222
 Westlaan,35,,,1991AL,Velserbroek,Velsen,Noord-Holland,VBO,4.665452,52.425798
 Westlaan,41,A,,1991AL,Velserbroek,Velsen,Noord-Holland,VBO,4.673151,52.424505
 Westlaan,41,,,1991AL,Velserbroek,Velsen,Noord-Holland,VBO,4.673199,52.424493
@@ -140,6 +141,7 @@ Linie,31,,,1991AT,Velserbroek,Velsen,Noord-Holland,LIG,4.679945,52.423710
 Linie,32,,,1991AT,Velserbroek,Velsen,Noord-Holland,LIG,4.680039,52.423470
 Linie,33,,,1991AT,Velserbroek,Velsen,Noord-Holland,LIG,4.680139,52.423223
 Linie,34,,,1991AT,Velserbroek,Velsen,Noord-Holland,LIG,4.680219,52.423051
+Linie,35,,9000,1991AT,Velserbroek,Velsen,Noord-Holland,VBO,4.678441,52.422746
 Linie,35,,,1991AT,Velserbroek,Velsen,Noord-Holland,LIG,4.680299,52.422900
 Linie,36,,,1991AT,Velserbroek,Velsen,Noord-Holland,LIG,4.680064,52.422705
 Linie,37,A,,1991AT,Velserbroek,Velsen,Noord-Holland,LIG,4.680471,52.422514
@@ -476,7 +478,7 @@ Kerkenmaaijerskamp,35,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.658923,52.
 Kerkenmaaijerskamp,37,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.658865,52.439035
 Kerkenmaaijerskamp,39,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.658802,52.439003
 Kerkenmaaijerskamp,41,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.658739,52.438971
-Kerkenmaaijerskamp,43,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.657745,52.438442
+Kerkenmaaijerskamp,43,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.657746,52.438442
 Kerkenmaaijerskamp,45,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.657684,52.438411
 Kerkenmaaijerskamp,47,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.657624,52.438380
 Kerkenmaaijerskamp,49,,,1991BV,Velserbroek,Velsen,Noord-Holland,VBO,4.657563,52.438349
@@ -1639,11 +1641,19 @@ Waterweegbree,13,,,1991GV,Velserbroek,Velsen,Noord-Holland,VBO,4.653158,52.43359
 Waterweegbree,15,,,1991GV,Velserbroek,Velsen,Noord-Holland,VBO,4.653226,52.433558
 Waterviolier,1,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652135,52.433370
 Waterviolier,2,,,1991GW,Velserbroek,Velsen,Noord-Holland,STA,4.651852,52.433139
+Waterviolier,3,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652200,52.433343
 Waterviolier,4,,,1991GW,Velserbroek,Velsen,Noord-Holland,STA,4.651967,52.433094
+Waterviolier,5,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652270,52.433315
 Waterviolier,6,,,1991GW,Velserbroek,Velsen,Noord-Holland,STA,4.652084,52.433049
+Waterviolier,7,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652334,52.433288
 Waterviolier,8,,,1991GW,Velserbroek,Velsen,Noord-Holland,STA,4.652204,52.433002
+Waterviolier,9,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652399,52.433261
 Waterviolier,10,,,1991GW,Velserbroek,Velsen,Noord-Holland,STA,4.652327,52.432954
+Waterviolier,11,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652467,52.433233
 Waterviolier,12,,,1991GW,Velserbroek,Velsen,Noord-Holland,STA,4.652455,52.432904
+Waterviolier,13,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652532,52.433207
+Waterviolier,15,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652597,52.433180
+Waterviolier,17,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652662,52.433153
 Waterviolier,22,,,1991GW,Velserbroek,Velsen,Noord-Holland,VBO,4.652770,52.432854
 Florapad,17,,,1991GX,Velserbroek,Velsen,Noord-Holland,VBO,4.655792,52.431476
 Florapad,18,,,1991GX,Velserbroek,Velsen,Noord-Holland,VBO,4.655861,52.431449
@@ -3739,7 +3749,6 @@ Galle Promenade,5,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.658968,52.4347
 Galle Promenade,15,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659201,52.434585
 Galle Promenade,25,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659506,52.434448
 Galle Promenade,35,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659728,52.434214
-Galle Promenade,37,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659808,52.434156
 Galle Promenade,45,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659964,52.434045
 Galle Promenade,49,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.660122,52.433933
 Galle Promenade,55,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.660281,52.433856
@@ -4105,7 +4114,6 @@ Maan Bastion,468,,,1991RH,Velserbroek,Velsen,Noord-Holland,VBO,4.660933,52.43290
 Maan Bastion,470,,,1991RH,Velserbroek,Velsen,Noord-Holland,VBO,4.661064,52.432900
 Maan Bastion,472,,,1991RH,Velserbroek,Velsen,Noord-Holland,VBO,4.661186,52.432896
 Maan Bastion,476,,,1991RH,Velserbroek,Velsen,Noord-Holland,VBO,4.660822,52.433146
-Vestingplein,25,,,1991RK,Velserbroek,Velsen,Noord-Holland,VBO,4.660504,52.433877
 Vestingplein,58,A,,1991RK,Velserbroek,Velsen,Noord-Holland,VBO,4.661383,52.433462
 Vestingplein,58,,,1991RK,Velserbroek,Velsen,Noord-Holland,VBO,4.661157,52.433305
 Vestingplein,60,,,1991RK,Velserbroek,Velsen,Noord-Holland,VBO,4.661560,52.433579
@@ -5392,12 +5400,12 @@ De Zeiler,128,,,1991XD,Velserbroek,Velsen,Noord-Holland,VBO,4.660543,52.427622
 De Zeiler,130,,,1991XD,Velserbroek,Velsen,Noord-Holland,VBO,4.660603,52.427605
 De Zeiler,132,,,1991XD,Velserbroek,Velsen,Noord-Holland,VBO,4.660662,52.427589
 De Zeiler,134,,,1991XD,Velserbroek,Velsen,Noord-Holland,VBO,4.660722,52.427571
-De Zeiler,136,,,1991XD,Velserbroek,Velsen,Noord-Holland,VBO,4.660781,52.427555
+De Zeiler,136,,,1991XD,Velserbroek,Velsen,Noord-Holland,VBO,4.660782,52.427555
 De Zeiler,138,,,1991XD,Velserbroek,Velsen,Noord-Holland,VBO,4.660846,52.427538
 De Zeiler,144,,,1991XE,Velserbroek,Velsen,Noord-Holland,VBO,4.661178,52.427451
 De Zeiler,146,,,1991XE,Velserbroek,Velsen,Noord-Holland,VBO,4.661242,52.427435
 De Zeiler,148,,,1991XE,Velserbroek,Velsen,Noord-Holland,VBO,4.661305,52.427419
-De Zeiler,150,,,1991XE,Velserbroek,Velsen,Noord-Holland,VBO,4.661363,52.427405
+De Zeiler,150,,,1991XE,Velserbroek,Velsen,Noord-Holland,VBO,4.661363,52.427406
 De Zeiler,152,,,1991XE,Velserbroek,Velsen,Noord-Holland,VBO,4.661425,52.427391
 De Zeiler,154,,,1991XE,Velserbroek,Velsen,Noord-Holland,VBO,4.661486,52.427376
 De Zeiler,156,,,1991XE,Velserbroek,Velsen,Noord-Holland,VBO,4.661549,52.427362
