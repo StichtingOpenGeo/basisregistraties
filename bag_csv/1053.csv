@@ -47,8 +47,8 @@ De Clercqstraat,21,,H,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872902,52.3
 De Clercqstraat,23,,1,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872814,52.371352
 De Clercqstraat,23,,2,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872814,52.371352
 De Clercqstraat,23,,3,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872814,52.371352
-De Clercqstraat,23,,H,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872716,52.371335
 De Clercqstraat,23,,H,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872726,52.371334
+De Clercqstraat,23,,H,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872716,52.371335
 De Clercqstraat,25,,1,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872726,52.371334
 De Clercqstraat,25,,2,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872726,52.371334
 De Clercqstraat,25,,3,1053AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872726,52.371334
@@ -125,8 +125,8 @@ De Clercqstraat,73,,2,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869050,52.3
 De Clercqstraat,73,,3,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869050,52.370509
 De Clercqstraat,75,,1,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868977,52.370491
 De Clercqstraat,75,,2,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868977,52.370491
-De Clercqstraat,75,,3,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868994,52.370507
 De Clercqstraat,75,,3,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868977,52.370491
+De Clercqstraat,75,,3,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868994,52.370507
 De Clercqstraat,75,,4,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869001,52.370498
 De Clercqstraat,75,,H,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868977,52.370491
 De Clercqstraat,77,S,,1053AE,Amsterdam,Amsterdam,Noord-Holland,STA,4.868156,52.370329
@@ -134,6 +134,7 @@ De Clercqstraat,77,,,1053AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868860,52.37
 De Clercqstraat,79,,1,1053AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867952,52.370252
 De Clercqstraat,79,,2,1053AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867952,52.370252
 De Clercqstraat,79,,3,1053AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867952,52.370252
+De Clercqstraat,79,,H,1053AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867952,52.370252
 De Clercqstraat,79,,H,1053AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867952,52.370252
 De Clercqstraat,81,,1,1053AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867879,52.370243
 De Clercqstraat,81,,2,1053AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867879,52.370243
@@ -533,15 +534,13 @@ Wenslauerstraat,51,,,1053AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863878,52.36
 Wenslauerstraat,53,,,1053AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863835,52.367026
 Wenslauerstraat,55,,,1053AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863761,52.367016
 Wenslauerstraat,57,,,1053AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863703,52.366989
-Wenslauerstraat,59,,,1053AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863630,52.366971
 Wenslauerstraat,59,,,1053AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863610,52.367002
+Wenslauerstraat,59,,,1053AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863630,52.366971
 Wenslauerstraat,61,,1,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863586,52.366953
 Wenslauerstraat,61,,H,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863586,52.366953
 Wenslauerstraat,63,,,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863513,52.366943
-Wenslauerstraat,65,,,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863440,52.366925
 Wenslauerstraat,65,,,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863439,52.366934
 Wenslauerstraat,67,,,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863381,52.366907
-Wenslauerstraat,67,,,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863396,52.366907
 Wenslauerstraat,69,A,1,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863205,52.366870
 Wenslauerstraat,69,A,2,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863205,52.366870
 Wenslauerstraat,69,A,3,1053AX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863205,52.366870
@@ -745,8 +744,23 @@ Bellamystraat,11,,H,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866550,52.367
 Bellamystraat,13,,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866447,52.367118
 Bellamystraat,15,,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866447,52.367118
 Bellamystraat,17,,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866359,52.367100
-Bellamystraat,19,,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866242,52.367045
-Bellamystraat,21,,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866242,52.367045
+Bellamystraat,19,A,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866278,52.367085
+Bellamystraat,19,B,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866247,52.367080
+Bellamystraat,19,C,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866211,52.367073
+Bellamystraat,19,D,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866286,52.367065
+Bellamystraat,19,E,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866254,52.367064
+Bellamystraat,19,F,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866225,52.367059
+Bellamystraat,21,A,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866181,52.367063
+Bellamystraat,21,B,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866130,52.367054
+Bellamystraat,21,C,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866090,52.367042
+Bellamystraat,21,D,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866062,52.367029
+Bellamystraat,21,E,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866161,52.367046
+Bellamystraat,21,F,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866138,52.367036
+Bellamystraat,21,G,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866112,52.367028
+Bellamystraat,21,H,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866091,52.367018
+Bellamystraat,21,K,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866175,52.367032
+Bellamystraat,21,L,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866153,52.367026
+Bellamystraat,21,M,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866129,52.367015
 Bellamystraat,23,,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865994,52.366990
 Bellamystraat,25,A,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865935,52.366990
 Bellamystraat,25,B,,1053BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865935,52.366990
@@ -2021,8 +2035,8 @@ Kinkerstraat,51,,H,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873066,52.3673
 Kinkerstraat,53,A,1,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872861,52.367317
 Kinkerstraat,53,A,2,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872861,52.367317
 Kinkerstraat,53,A,3,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872861,52.367317
-Kinkerstraat,53,A,H,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872851,52.367310
 Kinkerstraat,53,A,H,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872861,52.367317
+Kinkerstraat,53,A,H,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872851,52.367310
 Kinkerstraat,53,A,O,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872861,52.367317
 Kinkerstraat,53,,1,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872905,52.367335
 Kinkerstraat,53,,2,1053DE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872905,52.367335
@@ -2614,11 +2628,10 @@ Kinkerstraat,146,,1,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868848,52.366
 Kinkerstraat,146,,2,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868848,52.366446
 Kinkerstraat,146,,3,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868848,52.366446
 Kinkerstraat,146,,H,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868856,52.366449
-Kinkerstraat,148,,1,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868775,52.366427
 Kinkerstraat,148,,1,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868781,52.366446
+Kinkerstraat,148,,1,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868775,52.366427
 Kinkerstraat,148,,2,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868775,52.366427
 Kinkerstraat,148,,3,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868775,52.366427
-Kinkerstraat,148,,H,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868802,52.366430
 Kinkerstraat,148,,H,1053EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868788,52.366427
 Kinkerstraat,150,,1,1053EH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868687,52.366409
 Kinkerstraat,150,,H,1053EH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868714,52.366411
@@ -3077,8 +3090,8 @@ Kinkerstraat,280,,4,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864266,52.365
 Kinkerstraat,280,,H,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864266,52.365302
 Kinkerstraat,282,,1,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864208,52.365284
 Kinkerstraat,282,,2,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864208,52.365284
-Kinkerstraat,282,,3,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864208,52.365284
 Kinkerstraat,282,,3,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864197,52.365304
+Kinkerstraat,282,,3,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864208,52.365284
 Kinkerstraat,282,,4,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864198,52.365299
 Kinkerstraat,282,,H,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864208,52.365284
 Kinkerstraat,284,,1,1053GB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864149,52.365274
@@ -3147,8 +3160,8 @@ Kinkerstraat,318,,3,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863197,52.365
 Kinkerstraat,318,,4,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863195,52.365059
 Kinkerstraat,320,,1,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863154,52.365027
 Kinkerstraat,320,,2,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863154,52.365027
-Kinkerstraat,320,,3,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863132,52.365040
 Kinkerstraat,320,,3,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863154,52.365027
+Kinkerstraat,320,,3,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863132,52.365040
 Kinkerstraat,320,,4,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863151,52.365044
 Kinkerstraat,320,,H,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863154,52.365027
 Kinkerstraat,322,,1,1053GD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863095,52.365018
@@ -3598,8 +3611,8 @@ Jacob van Lennepstraat,13,,2,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.8760
 Jacob van Lennepstraat,13,,H,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876096,52.366953
 Jacob van Lennepstraat,15,,1,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876034,52.366921
 Jacob van Lennepstraat,15,,1,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876022,52.366935
-Jacob van Lennepstraat,15,,2,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876044,52.366912
 Jacob van Lennepstraat,15,,2,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876022,52.366935
+Jacob van Lennepstraat,15,,2,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876044,52.366912
 Jacob van Lennepstraat,15,,3,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876054,52.366902
 Jacob van Lennepstraat,15,,O,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876022,52.366935
 Jacob van Lennepstraat,17,,1,1053HA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875949,52.366908
@@ -5085,6 +5098,7 @@ Bilderdijkstraat,108,,1,1053KZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870893,52
 Bilderdijkstraat,108,,2,1053KZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870893,52.368656
 Bilderdijkstraat,108,,3,1053KZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870893,52.368656
 Bilderdijkstraat,108,,H,1053KZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870893,52.368656
+Bilderdijkstraat,108,,H,1053KZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870893,52.368656
 Bilderdijkstraat,110,,1,1053KZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870923,52.368603
 Bilderdijkstraat,110,,2,1053KZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870923,52.368603
 Bilderdijkstraat,110,,3,1053KZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870923,52.368603
@@ -5438,6 +5452,7 @@ Nassaukade,166,,2,1053LL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874350,52.37064
 Nassaukade,166,,3,1053LL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874350,52.370649
 Nassaukade,166,,H,1053LL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874350,52.370649
 Nassaukade,167,,2,1053LL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874380,52.370586
+Nassaukade,167,,H,1053LL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874392,52.370589
 Nassaukade,168,,2,1053LL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874410,52.370541
 Nassaukade,168,,H,1053LL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874410,52.370541
 Nassaukade,169,,2,1053LL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874425,52.370478
@@ -5621,6 +5636,7 @@ Nassaukade,337,,3A,1053LV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876450,52.3680
 Nassaukade,337,,3V,1053LV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876450,52.368024
 Nassaukade,337,,H,1053LV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876450,52.368024
 Nassaukade,900,,,1053LV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876687,52.368326
+Nassaukade,900,,,1053LV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876688,52.368312
 Nassaukade,338,,1,1053LW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876465,52.367989
 Nassaukade,338,,2,1053LW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876465,52.367989
 Nassaukade,338,,3,1053LW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876465,52.367989
@@ -6404,13 +6420,13 @@ Jacob van Lennepkade,386,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.85977
 Jacob van Lennepkade,386,,2,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859779,52.362370
 Jacob van Lennepkade,386,,3,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859779,52.362370
 Jacob van Lennepkade,386,,H,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859789,52.362390
-Jacob van Lennepkade,388,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859735,52.362361
 Jacob van Lennepkade,388,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859716,52.362385
+Jacob van Lennepkade,388,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859735,52.362361
 Jacob van Lennepkade,388,,2,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859735,52.362361
 Jacob van Lennepkade,388,,3,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859735,52.362361
 Jacob van Lennepkade,388,,H,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859735,52.362361
-Jacob van Lennepkade,390,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859678,52.362379
 Jacob van Lennepkade,390,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859691,52.362352
+Jacob van Lennepkade,390,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859678,52.362379
 Jacob van Lennepkade,390,,2,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859691,52.362352
 Jacob van Lennepkade,390,,3,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859691,52.362352
 Jacob van Lennepkade,390,,4,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859653,52.362374
@@ -6425,8 +6441,8 @@ Jacob van Lennepkade,394,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.85957
 Jacob van Lennepkade,394,,2,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859574,52.362315
 Jacob van Lennepkade,394,,3,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859574,52.362315
 Jacob van Lennepkade,394,,H,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859574,52.362315
-Jacob van Lennepkade,396,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859489,52.362342
 Jacob van Lennepkade,396,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859501,52.362324
+Jacob van Lennepkade,396,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859489,52.362342
 Jacob van Lennepkade,396,,2,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859501,52.362324
 Jacob van Lennepkade,396,,3,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859501,52.362324
 Jacob van Lennepkade,396,,H,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
@@ -6435,16 +6451,16 @@ Jacob van Lennepkade,398,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.85944
 Jacob van Lennepkade,398,,1,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859427,52.362332
 Jacob van Lennepkade,398,,2,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859442,52.362315
 Jacob van Lennepkade,398,,3,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859442,52.362315
-Jacob van Lennepkade,398,,H,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
 Jacob van Lennepkade,398,,H,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859453,52.362286
-Jacob van Lennepkade,400,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
+Jacob van Lennepkade,398,,H,1053NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
 Jacob van Lennepkade,400,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859370,52.362315
+Jacob van Lennepkade,400,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
 Jacob van Lennepkade,400,,2,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
 Jacob van Lennepkade,400,,3,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
 Jacob van Lennepkade,400,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
 Jacob van Lennepkade,400,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859394,52.362271
-Jacob van Lennepkade,402,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859325,52.362278
 Jacob van Lennepkade,402,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859314,52.362297
+Jacob van Lennepkade,402,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859325,52.362278
 Jacob van Lennepkade,402,,2,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859325,52.362278
 Jacob van Lennepkade,402,,3,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859325,52.362278
 Jacob van Lennepkade,402,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859339,52.362258
@@ -6455,8 +6471,8 @@ Jacob van Lennepkade,404,,2,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.85926
 Jacob van Lennepkade,404,,3,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859267,52.362251
 Jacob van Lennepkade,404,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859282,52.362242
 Jacob van Lennepkade,404,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
-Jacob van Lennepkade,406,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859212,52.362241
 Jacob van Lennepkade,406,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859183,52.362272
+Jacob van Lennepkade,406,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859212,52.362241
 Jacob van Lennepkade,406,,2,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859210,52.362242
 Jacob van Lennepkade,406,,3,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859193,52.362251
 Jacob van Lennepkade,406,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
@@ -6464,8 +6480,8 @@ Jacob van Lennepkade,408,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.85914
 Jacob van Lennepkade,408,,1,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859133,52.362264
 Jacob van Lennepkade,408,,2,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859149,52.362241
 Jacob van Lennepkade,408,,3,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859149,52.362241
-Jacob van Lennepkade,408,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859167,52.362215
 Jacob van Lennepkade,408,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859383,52.362296
+Jacob van Lennepkade,408,,H,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859167,52.362215
 Jacob van Lennepkade,410,A,,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859106,52.362205
 Jacob van Lennepkade,410,B,,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859091,52.362223
 Jacob van Lennepkade,412,A,,1053NN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859003,52.362169
@@ -9418,8 +9434,8 @@ Hildebrandstraat,70,,,1053WB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865026,52.3
 Hildebrandstraat,72,,,1053WB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865026,52.364326
 Hildebrandstraat,74,,,1053WB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865026,52.364326
 Hildebrandstraat,76,,,1053WB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865026,52.364326
-Kwakersstraat,2,,1,1053WC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869087,52.368604
 Kwakersstraat,2,,1,1053WC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869080,52.368619
+Kwakersstraat,2,,1,1053WC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869087,52.368604
 Kwakersstraat,2,,2,1053WC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869087,52.368604
 Kwakersstraat,2,,3,1053WC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869087,52.368604
 Kwakersstraat,2,,H,1053WC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.869087,52.368604
@@ -10154,8 +10170,8 @@ Da Costakade,200,A,,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873616,52.366
 Da Costakade,200,,,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873616,52.366772
 Da Costakade,202,,,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873721,52.366638
 Da Costakade,204,A,,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873915,52.366351
-Da Costakade,204,,1,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873929,52.366351
 Da Costakade,204,,1,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873765,52.366593
+Da Costakade,204,,1,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873929,52.366351
 Da Costakade,204,,2,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873929,52.366351
 Da Costakade,204,,3,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873929,52.366351
 Da Costakade,204,,H,1053XH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873929,52.366351
@@ -10234,8 +10250,8 @@ Potgieterstraat,23,,3A,1053XP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874259,52.
 Potgieterstraat,23,,3V,1053XP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874259,52.369642
 Potgieterstraat,23,,4,1053XP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874259,52.369642
 Potgieterstraat,23,,5,1053XP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874257,52.369627
-Potgieterstraat,23,,H,1053XP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874279,52.369649
 Potgieterstraat,23,,H,1053XP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874259,52.369642
+Potgieterstraat,23,,H,1053XP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874279,52.369649
 Potgieterstraat,25,A,,1053XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874200,52.369615
 Potgieterstraat,25,B,,1053XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874200,52.369606
 Potgieterstraat,25,C,,1053XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874215,52.369588
@@ -10948,8 +10964,8 @@ Da Costastraat,110,C,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875594,52.3
 Da Costastraat,110,C,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875586,52.366619
 Da Costastraat,110,D,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875586,52.366619
 Da Costastraat,110,D,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875567,52.366623
-Da Costastraat,110,E,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875600,52.366628
 Da Costastraat,110,E,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875584,52.366664
+Da Costastraat,110,E,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875600,52.366628
 Da Costastraat,110,F,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875542,52.366609
 Da Costastraat,112,A,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875601,52.366565
 Da Costastraat,112,B,,1053ZT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875601,52.366574

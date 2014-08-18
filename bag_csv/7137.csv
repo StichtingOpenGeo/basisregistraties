@@ -121,10 +121,6 @@ Oude Lievelderweg,4,b,,7137MA,Lievelde,Oost Gelre,Gelderland,VBO,6.584250,52.003
 Oude Lievelderweg,4,,,7137MA,Lievelde,Oost Gelre,Gelderland,VBO,6.587042,52.004320
 Oude Lievelderweg,5,,,7137MA,Lievelde,Oost Gelre,Gelderland,VBO,6.587401,52.003480
 Oude Lievelderweg,6,,,7137MA,Lievelde,Oost Gelre,Gelderland,VBO,6.585833,52.001908
-de Stegge,4,a,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.585279,52.005569
-de Stegge,4,b,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.585156,52.005603
-de Stegge,4,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.585132,52.005621
-de Stegge,6,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.585767,52.005686
 Lievelderweg,81,a,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.584565,52.005168
 Lievelderweg,81,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.584646,52.005045
 Lievelderweg,83,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.589275,52.007200
@@ -144,6 +140,10 @@ Lievelderweg,100,a,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.586650,52.004933
 Lievelderweg,100,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.586544,52.004865
 Lievelderweg,101,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.592096,52.009162
 Lievelderweg,103,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.592136,52.009226
+de Stegge,4,a,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.585279,52.005569
+de Stegge,4,b,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.585156,52.005603
+de Stegge,4,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.585132,52.005621
+de Stegge,6,,,7137MB,Lievelde,Oost Gelre,Gelderland,VBO,6.585767,52.005686
 Kloezedijk,1,,,7137MC,Lievelde,Oost Gelre,Gelderland,VBO,6.590939,52.008136
 Kloezedijk,2,a,,7137MC,Lievelde,Oost Gelre,Gelderland,VBO,6.588490,52.008357
 Kloezedijk,2,,,7137MC,Lievelde,Oost Gelre,Gelderland,VBO,6.588419,52.008482
@@ -445,6 +445,17 @@ Lievelderweg,161,a,,7137NB,Lievelde,Oost Gelre,Gelderland,VBO,6.599564,52.026607
 Lievelderweg,161,b,,7137NB,Lievelde,Oost Gelre,Gelderland,VBO,6.602334,52.028180
 Lievelderweg,161,,,7137NB,Lievelde,Oost Gelre,Gelderland,VBO,6.597879,52.020874
 Lievelderweg,163,,,7137NB,Lievelde,Oost Gelre,Gelderland,VBO,6.604891,52.029654
+Koolmansdijk,2,a,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.579081,52.010968
+Koolmansdijk,2,b,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.578913,52.010972
+Koolmansdijk,2,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.580622,52.011087
+Koolmansdijk,4,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.576648,52.010739
+Koolmansdijk,6,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.576525,52.010768
+Koolmansdijk,8,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.570563,52.011892
+Koolmansdijk,10,a,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.570357,52.012862
+Koolmansdijk,10,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.570295,52.012897
+Koolmansdijk,12,a,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.568310,52.011379
+Koolmansdijk,12,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.568207,52.011468
+Koolmansdijk,14,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.547753,52.023276
 de Stegge,13,a,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.581115,52.010754
 de Stegge,13,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.580996,52.010716
 de Stegge,15,a,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.581962,52.010877
@@ -461,20 +472,13 @@ de Stegge,21,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.583127,52.012412
 de Stegge,23,a,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.583547,52.014653
 de Stegge,23,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.583066,52.014411
 de Stegge,25,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.585433,52.014107
-Koolmansdijk,2,a,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.579081,52.010968
-Koolmansdijk,2,b,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.578913,52.010972
-Koolmansdijk,2,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.580622,52.011087
-Koolmansdijk,4,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.576648,52.010739
-Koolmansdijk,6,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.576525,52.010768
-Koolmansdijk,8,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.570563,52.011892
-Koolmansdijk,10,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.570295,52.012897
-Koolmansdijk,12,a,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.568310,52.011379
-Koolmansdijk,12,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.568207,52.011468
-Koolmansdijk,14,,,7137NC,Lievelde,Oost Gelre,Gelderland,VBO,6.547753,52.023276
+Roolsdijk,1,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.574305,52.008046
+Smidjesdijk,2,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.576004,52.009224
 de Stegge,5,a,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.579593,52.006025
 de Stegge,5,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.580639,52.005772
 de Stegge,7,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.578241,52.006639
 de Stegge,8,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.580049,52.007598
+de Stegge,9,a,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.579582,52.006320
 de Stegge,9,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.579582,52.006320
 de Stegge,10,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.579990,52.007884
 de Stegge,11,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.580012,52.009713
@@ -483,8 +487,6 @@ de Stegge,12,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.580011,52.008308
 de Stegge,14,a,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.580469,52.009226
 de Stegge,14,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.580207,52.008965
 de Stegge,16,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.580944,52.009386
-Roolsdijk,1,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.574305,52.008046
-Smidjesdijk,2,,,7137ND,Lievelde,Oost Gelre,Gelderland,VBO,6.576004,52.009224
 Roolsdijk,2,,,7137NE,Lievelde,Oost Gelre,Gelderland,VBO,6.575641,52.005442
 Nieuwendijk,2,a,,7137NG,Lievelde,Oost Gelre,Gelderland,VBO,6.579247,52.005235
 Nieuwendijk,2,,,7137NG,Lievelde,Oost Gelre,Gelderland,VBO,6.579157,52.005234
@@ -638,6 +640,8 @@ Engelse Schans,6,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.592786,52.007140
 Engelse Schans,8,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.593089,52.007210
 Engelse Schans,12,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.593897,52.007192
 Engelse Schans,14,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.593882,52.006991
+Engelse Schans,24,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.594319,52.006939
+Engelse Schans,26,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.594273,52.007004
 Engelse Schans,30,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.595134,52.007082
 Engelse Schans,32,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.595237,52.007081
 Engelse Schans,34,,,7137SE,Lievelde,Oost Gelre,Gelderland,VBO,6.595397,52.007069

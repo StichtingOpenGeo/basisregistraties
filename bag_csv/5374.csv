@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Meerstraat,9,e,,5374AA,Heeswijk-Dinther,Bernheze,Noord-Brabant,VBO,5.470443,51.656035
 Runstraat,1,,,5374AA,Schaijk,Landerd,Noord-Brabant,VBO,5.631497,51.745831
 Runstraat,3,,,5374AA,Schaijk,Landerd,Noord-Brabant,VBO,5.631333,51.745990
 Runstraat,5,a,,5374AA,Schaijk,Landerd,Noord-Brabant,VBO,5.630818,51.746189
@@ -641,6 +640,7 @@ Pastoor van Winkelstraat,30,,,5374BJ,Schaijk,Landerd,Noord-Brabant,VBO,5.635226,
 Pastoor van Winkelstraat,32,,,5374BJ,Schaijk,Landerd,Noord-Brabant,VBO,5.635455,51.746079
 Pastoor van Winkelstraat,34,a,,5374BJ,Schaijk,Landerd,Noord-Brabant,VBO,5.635751,51.745921
 Pastoor van Winkelstraat,34,b,,5374BJ,Schaijk,Landerd,Noord-Brabant,VBO,5.635799,51.746084
+Pastoor van Winkelstraat,34,,b,5374BJ,Schaijk,Landerd,Noord-Brabant,VBO,5.635813,51.746084
 Pastoor van Winkelstraat,34,,,5374BJ,Schaijk,Landerd,Noord-Brabant,VBO,5.635663,51.746105
 Pastoor van Winkelstraat,36,,,5374BJ,Schaijk,Landerd,Noord-Brabant,VBO,5.635635,51.745938
 Pastoor van Winkelstraat,38,,,5374BK,Schaijk,Landerd,Noord-Brabant,VBO,5.636095,51.746049
@@ -725,6 +725,7 @@ Burgemeester van Rijckevorselstraat,22,,,5374BN,Schaijk,Landerd,Noord-Brabant,VB
 Burgemeester van Rijckevorselstraat,24,,,5374BN,Schaijk,Landerd,Noord-Brabant,VBO,5.635656,51.745517
 Burgemeester van Rijckevorselstraat,26,,,5374BN,Schaijk,Landerd,Noord-Brabant,VBO,5.635672,51.745599
 Burgemeester van Rijckevorselstraat,28,,,5374BN,Schaijk,Landerd,Noord-Brabant,VBO,5.635684,51.745675
+Burgemeester van Rijckevorselstraat,30,,,5374BN,Schaijk,Landerd,Noord-Brabant,VBO,5.635809,51.746013
 Jan Oliemeulenstraat,1,,,5374BP,Schaijk,Landerd,Noord-Brabant,VBO,5.634780,51.745031
 Jan Oliemeulenstraat,3,,,5374BP,Schaijk,Landerd,Noord-Brabant,VBO,5.634922,51.745039
 Jan Oliemeulenstraat,5,,,5374BP,Schaijk,Landerd,Noord-Brabant,VBO,5.635142,51.745052
@@ -862,8 +863,8 @@ Schutsboomstraat,9,,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632538,51.745270
 Schutsboomstraat,11,a,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632864,51.745054
 Schutsboomstraat,11,b,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.633017,51.745113
 Schutsboomstraat,11,,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632736,51.744988
-Schutsboomstraat,13,a,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632836,51.744896
 Schutsboomstraat,13,a,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632795,51.744876
+Schutsboomstraat,13,a,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632836,51.744896
 Schutsboomstraat,13,b,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632862,51.744933
 Schutsboomstraat,13,c,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632901,51.744891
 Schutsboomstraat,13,d,,5374CA,Schaijk,Landerd,Noord-Brabant,VBO,5.632920,51.744952
@@ -1239,6 +1240,7 @@ Akkerwinde,66,,,5374DB,Schaijk,Landerd,Noord-Brabant,VBO,5.637644,51.742046
 Akkerwinde,68,,,5374DB,Schaijk,Landerd,Noord-Brabant,VBO,5.637308,51.739824
 Akkerwinde,70,,,5374DB,Schaijk,Landerd,Noord-Brabant,VBO,5.637276,51.739696
 Akkerwinde,72,,,5374DB,Schaijk,Landerd,Noord-Brabant,VBO,5.637255,51.739547
+Akkerwinde,74,,,5374DB,Schaijk,Landerd,Noord-Brabant,VBO,5.637250,51.739421
 Herik,1,,,5374DC,Schaijk,Landerd,Noord-Brabant,VBO,5.639486,51.743712
 Herik,2,,,5374DC,Schaijk,Landerd,Noord-Brabant,VBO,5.639044,51.743316
 Herik,3,,,5374DC,Schaijk,Landerd,Noord-Brabant,VBO,5.639433,51.743519
@@ -1997,10 +1999,10 @@ Klumperstraat,8,c,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627904,51.746045
 Klumperstraat,8,d,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627839,51.746024
 Klumperstraat,8,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.628142,51.746121
 Klumperstraat,9,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627486,51.745620
-Klumperstraat,10,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627663,51.745964
+Klumperstraat,10,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627711,51.745980
 Klumperstraat,11,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627328,51.745568
 Klumperstraat,12,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627607,51.745945
-Klumperstraat,13,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627229,51.745536
+Klumperstraat,13,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627271,51.745550
 Klumperstraat,14,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627545,51.745925
 Klumperstraat,15,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627169,51.745515
 Klumperstraat,16,,,5374HK,Schaijk,Landerd,Noord-Brabant,VBO,5.627395,51.745876
@@ -2133,6 +2135,7 @@ Spijkerstraat,1,,,5374HW,Schaijk,Landerd,Noord-Brabant,VBO,5.619909,51.745871
 Spijkerstraat,2,,,5374HW,Schaijk,Landerd,Noord-Brabant,VBO,5.619164,51.746854
 Spijkerstraat,4,,,5374HW,Schaijk,Landerd,Noord-Brabant,VBO,5.619270,51.746619
 't Oliemeulen,1,,,5374HX,Schaijk,Landerd,Noord-Brabant,VBO,5.637110,51.752897
+'t Oliemeulen,2,,,5374HX,Schaijk,Landerd,Noord-Brabant,STA,5.637680,51.750512
 't Oliemeulen,6,,,5374HX,Schaijk,Landerd,Noord-Brabant,STA,5.638027,51.750485
 't Oliemeulen,8,,,5374HX,Schaijk,Landerd,Noord-Brabant,STA,5.637725,51.750785
 't Oliemeulen,12,,,5374HX,Schaijk,Landerd,Noord-Brabant,STA,5.638088,51.750759
@@ -2637,7 +2640,6 @@ Zandstraat,8,,,5374NB,Schaijk,Landerd,Noord-Brabant,VBO,5.626553,51.750398
 Zandstraat,10,,,5374NB,Schaijk,Landerd,Noord-Brabant,VBO,5.626316,51.750324
 Zandstraat,12,,,5374NB,Schaijk,Landerd,Noord-Brabant,VBO,5.625938,51.750184
 Zandstraat,14,,,5374NB,Schaijk,Landerd,Noord-Brabant,VBO,5.625787,51.750132
-Zandstraat,16,a,,5374NB,Schaijk,Landerd,Noord-Brabant,VBO,5.625048,51.750148
 Zandstraat,16,,,5374NB,Schaijk,Landerd,Noord-Brabant,VBO,5.625217,51.749976
 Zandstraat,18,,,5374NB,Schaijk,Landerd,Noord-Brabant,VBO,5.624414,51.749710
 Zandstraat,20,,,5374NB,Schaijk,Landerd,Noord-Brabant,VBO,5.623746,51.749460
@@ -2812,8 +2814,8 @@ Palmstraat,7,,,5374PC,Schaijk,Landerd,Noord-Brabant,VBO,5.603150,51.730938
 Palmstraat,8,,,5374PC,Schaijk,Landerd,Noord-Brabant,VBO,5.600679,51.729208
 Palmstraat,9,,,5374PC,Schaijk,Landerd,Noord-Brabant,VBO,5.603476,51.730505
 Koekampweg,1,,a,5374PD,Schaijk,Landerd,Noord-Brabant,VBO,5.590942,51.739762
-Koekampweg,1,,,5374PD,Schaijk,Landerd,Noord-Brabant,VBO,5.590779,51.739729
 Koekampweg,1,,,5374PD,Schaijk,Landerd,Noord-Brabant,VBO,5.590746,51.739723
+Koekampweg,1,,,5374PD,Schaijk,Landerd,Noord-Brabant,VBO,5.590779,51.739729
 Koekampweg,2,a,,5374PD,Schaijk,Landerd,Noord-Brabant,VBO,5.590738,51.737578
 Koekampweg,2,b,,5374PD,Schaijk,Landerd,Noord-Brabant,VBO,5.590320,51.737581
 Koekampweg,2,,,5374PD,Schaijk,Landerd,Noord-Brabant,VBO,5.591524,51.736376
@@ -2860,8 +2862,8 @@ Rijksweg,33,,,5374RA,Schaijk,Landerd,Noord-Brabant,VBO,5.661742,51.737393
 Rijksweg,4,,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.601306,51.733485
 Rijksweg,10,,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.613476,51.733789
 Rijksweg,12,,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.614004,51.733894
-Rijksweg,14,,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.617750,51.734077
-Rijksweg,16,,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.617770,51.734035
+Rijksweg,14,,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.617774,51.734012
+Rijksweg,16,,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.617888,51.734109
 Rijksweg,20,a,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.620874,51.735318
 Rijksweg,22,a,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.621406,51.735457
 Rijksweg,22,,,5374RB,Schaijk,Landerd,Noord-Brabant,VBO,5.621646,51.735563

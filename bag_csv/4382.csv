@@ -1431,6 +1431,7 @@ Koudekerkseweg,81,,W26,4382EJ,Vlissingen,Vlissingen,Zeeland,VBO,3.561629,51.4543
 Koudekerkseweg,81,,W27,4382EJ,Vlissingen,Vlissingen,Zeeland,VBO,3.561605,51.454298
 Koudekerkseweg,81,,W28,4382EJ,Vlissingen,Vlissingen,Zeeland,VBO,3.562045,51.454065
 Koudekerkseweg,81,,,4382EJ,Vlissingen,Vlissingen,Zeeland,VBO,3.562317,51.454037
+Koudekerkseweg,90,,,4382EK,Vlissingen,Vlissingen,Zeeland,VBO,3.564693,51.451367
 Koudekerkseweg,94,,,4382EK,Vlissingen,Vlissingen,Zeeland,VBO,3.564600,51.451902
 Koudekerkseweg,96,,,4382EK,Vlissingen,Vlissingen,Zeeland,VBO,3.564520,51.451967
 Koudekerkseweg,98,,,4382EK,Vlissingen,Vlissingen,Zeeland,VBO,3.564445,51.452050
@@ -1903,7 +1904,6 @@ Joost de Moorstraat,40,,,4382HL,Vlissingen,Vlissingen,Zeeland,VBO,3.566525,51.45
 Joost de Moorstraat,42,,,4382HL,Vlissingen,Vlissingen,Zeeland,VBO,3.566482,51.452200
 Joost de Moorstraat,44,,,4382HL,Vlissingen,Vlissingen,Zeeland,VBO,3.566436,51.452254
 Joost de Moorstraat,46,,,4382HL,Vlissingen,Vlissingen,Zeeland,VBO,3.566401,51.452297
-Hogeweg,2,,,4382HM,Vlissingen,Vlissingen,Zeeland,VBO,3.564693,51.451367
 Hogeweg,6,,,4382HM,Vlissingen,Vlissingen,Zeeland,VBO,3.566262,51.452508
 Hogeweg,8,,,4382HM,Vlissingen,Vlissingen,Zeeland,VBO,3.566276,51.452486
 Hogeweg,10,,,4382HM,Vlissingen,Vlissingen,Zeeland,VBO,3.566282,51.452460
@@ -3281,7 +3281,16 @@ Oude Industrieweg,13,b,,4382NH,Vlissingen,Vlissingen,Zeeland,VBO,3.580068,51.451
 Oude Industrieweg,13,,,4382NH,Vlissingen,Vlissingen,Zeeland,VBO,3.580258,51.451122
 Verholen Vliet,2,,,4382NJ,Vlissingen,Vlissingen,Zeeland,VBO,3.603960,51.450993
 Oosterhavenweg,6,,,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.600943,51.452946
-Oosterhavenweg,10,,,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.601304,51.450142
+Oosterhavenweg,10,D,002,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.602448,51.449780
+Oosterhavenweg,10,D,003,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.602709,51.450676
+Oosterhavenweg,10,D,006,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.601245,51.450765
+Oosterhavenweg,10,D,007,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.601313,51.450504
+Oosterhavenweg,10,D,008,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.602280,51.450395
+Oosterhavenweg,10,D,009,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.602260,51.451512
+Oosterhavenweg,10,D,012,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.601225,51.450912
+Oosterhavenweg,10,D,017,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.602623,51.451096
+Oosterhavenweg,10,D,024,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.601350,51.451434
+Oosterhavenweg,10,,,4382NK,Vlissingen,Vlissingen,Zeeland,VBO,3.601303,51.450140
 Oosterhavenweg,3,,,4382NL,Vlissingen,Vlissingen,Zeeland,VBO,3.600423,51.452125
 Oosterhavenweg,14,,,4382NL,Vlissingen,Vlissingen,Zeeland,VBO,3.601444,51.449360
 Oosterhavenweg,22,,,4382NL,Vlissingen,Vlissingen,Zeeland,VBO,3.602052,51.445129
@@ -3297,7 +3306,9 @@ Stationsplein,3,,,4382NN,Vlissingen,Vlissingen,Zeeland,VBO,3.595812,51.443971
 Stationsplein,5,,,4382NN,Vlissingen,Vlissingen,Zeeland,VBO,3.596003,51.443986
 Stationsplein,11,,,4382NN,Vlissingen,Vlissingen,Zeeland,VBO,3.595784,51.443237
 Stationsplein,19,,,4382NN,Vlissingen,Vlissingen,Zeeland,VBO,3.594934,51.443008
-Oostelijke Bermweg,20,,,4382NP,Vlissingen,Vlissingen,Zeeland,VBO,3.604001,51.449848
+Oostelijke Bermweg,20,D,B,4382NP,Vlissingen,Vlissingen,Zeeland,VBO,3.604197,51.450220
+Oostelijke Bermweg,20,D,C,4382NP,Vlissingen,Vlissingen,Zeeland,VBO,3.603890,51.449752
+Oostelijke Bermweg,20,,,4382NP,Vlissingen,Vlissingen,Zeeland,VBO,3.604001,51.449847
 Oostelijke Bermweg,50,,,4382NP,Vlissingen,Vlissingen,Zeeland,VBO,3.606702,51.442730
 Poortersweg,15,,,4382NP,Vlissingen,Vlissingen,Zeeland,VBO,3.601501,51.454434
 Poortersweg,17,,,4382NP,Vlissingen,Vlissingen,Zeeland,VBO,3.602192,51.454273
@@ -5121,11 +5132,11 @@ Visserijkade,29,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589643,51.445967
 Visserijkade,31,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589607,51.445868
 Visserijkade,33,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589575,51.445780
 Visserijkade,35,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589556,51.445724
-Visserijkade,37,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589567,51.445534
-Visserijkade,39,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589512,51.445380
-Visserijkade,41,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589465,51.445249
-Visserijkade,43,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589433,51.445161
-Visserijkade,45,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589401,51.445073
+Visserijkade,37,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589562,51.445534
+Visserijkade,39,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589507,51.445381
+Visserijkade,41,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589460,51.445249
+Visserijkade,43,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589428,51.445162
+Visserijkade,45,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.589396,51.445074
 Visserijkade,87,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.592354,51.447883
 Visserijkade,89,,,4382ZA,Vlissingen,Vlissingen,Zeeland,VBO,3.592526,51.447843
 Visserijkade,100,,,4382ZA,Vlissingen,Vlissingen,Zeeland,LIG,3.592988,51.446778
@@ -5142,5 +5153,5 @@ Eerste Binnenhavenweg,9,c,,4382ZG,Vlissingen,Vlissingen,Zeeland,VBO,3.590553,51.
 Eerste Binnenhavenweg,9,,,4382ZG,Vlissingen,Vlissingen,Zeeland,VBO,3.590680,51.446564
 Eerste Binnenhavenweg,11,,,4382ZG,Vlissingen,Vlissingen,Zeeland,VBO,3.590428,51.445865
 Eerste Binnenhavenweg,24,,,4382ZG,Vlissingen,Vlissingen,Zeeland,VBO,3.590084,51.445461
-Eerste Binnenhavenweg,26,,,4382ZG,Vlissingen,Vlissingen,Zeeland,VBO,3.590037,51.445329
-Eerste Binnenhavenweg,28,,,4382ZG,Vlissingen,Vlissingen,Zeeland,VBO,3.589958,51.445110
+Eerste Binnenhavenweg,26,,,4382ZG,Vlissingen,Vlissingen,Zeeland,VBO,3.590036,51.445329
+Eerste Binnenhavenweg,28,,,4382ZG,Vlissingen,Vlissingen,Zeeland,VBO,3.589957,51.445110

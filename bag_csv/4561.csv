@@ -389,8 +389,8 @@ Heijdenskwartier,6,,,4561BB,Hulst,Hulst,Zeeland,VBO,4.051789,51.282943
 Heijdenskwartier,7,,,4561BB,Hulst,Hulst,Zeeland,VBO,4.051526,51.282985
 Heijdenskwartier,8,,,4561BB,Hulst,Hulst,Zeeland,VBO,4.051817,51.282953
 Heijdenskwartier,9,,,4561BB,Hulst,Hulst,Zeeland,VBO,4.051504,51.283011
-Bierkaaistraat,2,,,4561BC,Hulst,Hulst,Zeeland,VBO,4.051805,51.281963
 Bierkaaistraat,2,,,4561BC,Hulst,Hulst,Zeeland,VBO,4.051779,51.281957
+Bierkaaistraat,2,,,4561BC,Hulst,Hulst,Zeeland,VBO,4.051805,51.281963
 Bierkaaistraat,4,,,4561BC,Hulst,Hulst,Zeeland,VBO,4.051715,51.282044
 Bierkaaistraat,6,,,4561BC,Hulst,Hulst,Zeeland,VBO,4.051655,51.282106
 Bierkaaistraat,8,,,4561BC,Hulst,Hulst,Zeeland,VBO,4.051597,51.282150
@@ -652,10 +652,10 @@ Broodmarkt,2,A,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053790,51.281498
 Broodmarkt,2,B,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053840,51.281438
 Broodmarkt,2,C,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053918,51.281372
 Broodmarkt,2,D,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053812,51.281482
-Broodmarkt,2,e,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053865,51.281419
 Broodmarkt,2,F,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053936,51.281354
 Broodmarkt,2,G,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053830,51.281464
 Broodmarkt,2,H,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053886,51.281399
+Broodmarkt,2,e,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053865,51.281419
 Broodmarkt,2,,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053806,51.281618
 Broodmarkt,3,,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053478,51.281560
 Broodmarkt,4,,,4561CC,Hulst,Hulst,Zeeland,VBO,4.053719,51.281644
@@ -671,13 +671,15 @@ Lange Nieuwstraat,5,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.053771,51.281312
 Lange Nieuwstraat,6,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054881,51.280606
 Lange Nieuwstraat,7,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.053727,51.281348
 Lange Nieuwstraat,8,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054823,51.280659
-Lange Nieuwstraat,10,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054817,51.280725
 Lange Nieuwstraat,10,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054808,51.280668
+Lange Nieuwstraat,10,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054817,51.280725
 Lange Nieuwstraat,12,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054843,51.280733
 Lange Nieuwstraat,12,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054778,51.280694
 Lange Nieuwstraat,16,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054661,51.280801
 Lange Nieuwstraat,18,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054385,51.280924
-Lange Nieuwstraat,22,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054355,51.280977
+Lange Nieuwstraat,22,a,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054331,51.280976
+Lange Nieuwstraat,22,b,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054332,51.281004
+Lange Nieuwstraat,22,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054346,51.280948
 Lange Nieuwstraat,24,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054267,51.281030
 Lange Nieuwstraat,26,A,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054217,51.281071
 Lange Nieuwstraat,26,,,4561CD,Hulst,Hulst,Zeeland,VBO,4.054251,51.281084
@@ -915,7 +917,7 @@ Steenpit,17,,,4561CT,Hulst,Hulst,Zeeland,VBO,4.057564,51.281023
 Steenpit,19,,,4561CT,Hulst,Hulst,Zeeland,VBO,4.057595,51.280960
 Steenpit,21,,,4561CT,Hulst,Hulst,Zeeland,VBO,4.057639,51.280925
 Tuinstraat,2,,,4561CT,Hulst,Hulst,Zeeland,VBO,4.056260,51.281008
-Tuinstraat,4,,,4561CT,Hulst,Hulst,Zeeland,VBO,4.056362,51.280955
+Tuinstraat,4,,,4561CT,Hulst,Hulst,Zeeland,VBO,4.056301,51.280962
 Tuinstraat,6,,,4561CT,Hulst,Hulst,Zeeland,VBO,4.056401,51.280917
 Tuinstraat,8,a,,4561CT,Hulst,Hulst,Zeeland,VBO,4.056484,51.280859
 Tuinstraat,8,,,4561CT,Hulst,Hulst,Zeeland,VBO,4.056441,51.280896
@@ -1018,24 +1020,34 @@ Minderbroedersstraat,4,,,4561DA,Hulst,Hulst,Zeeland,VBO,4.049485,51.280831
 Minderbroedersstraat,6,,,4561DA,Hulst,Hulst,Zeeland,VBO,4.049440,51.280894
 Minderbroedersstraat,16,,,4561DA,Hulst,Hulst,Zeeland,VBO,4.049409,51.280992
 De Sluys Kreek,1,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.056592,51.273579
-De Sluys Kreek,2,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058010,51.273996
+De Sluys Kreek,2,a,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057958,51.273979
+De Sluys Kreek,2,b,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058142,51.273966
+De Sluys Kreek,2,c,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058076,51.274018
+De Sluys Kreek,2,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057906,51.274029
 De Sluys Kreek,3,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.056803,51.273649
-De Sluys Kreek,4,a,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058006,51.273953
-De Sluys Kreek,4,b,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057948,51.274007
-De Sluys Kreek,4,c,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057883,51.274069
-De Sluys Kreek,4,d,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058267,51.273988
-De Sluys Kreek,4,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058058,51.273897
+De Sluys Kreek,4,a,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057963,51.273999
+De Sluys Kreek,4,b,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058052,51.273936
+De Sluys Kreek,4,c,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058107,51.273886
+De Sluys Kreek,4,d,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058242,51.273929
+De Sluys Kreek,4,e,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058146,51.273990
+De Sluys Kreek,4,f,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058084,51.274038
+De Sluys Kreek,4,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057926,51.274049
 De Sluys Kreek,5,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057008,51.273727
-De Sluys Kreek,6,a,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058056,51.273966
-De Sluys Kreek,6,b,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057991,51.274027
-De Sluys Kreek,6,c,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057930,51.274086
-De Sluys Kreek,6,d,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058312,51.274007
-De Sluys Kreek,6,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058091,51.273907
+De Sluys Kreek,6,a,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057978,51.274017
+De Sluys Kreek,6,b,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058060,51.273956
+De Sluys Kreek,6,c,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058117,51.273903
+De Sluys Kreek,6,d,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058245,51.273951
+De Sluys Kreek,6,e,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058154,51.274010
+De Sluys Kreek,6,f,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058094,51.274055
+De Sluys Kreek,6,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057950,51.274061
 De Sluys Kreek,7,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057064,51.273774
-De Sluys Kreek,8,a,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058093,51.273989
-De Sluys Kreek,8,b,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058035,51.274052
-De Sluys Kreek,8,c,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057972,51.274102
-De Sluys Kreek,8,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058121,51.273918
+De Sluys Kreek,8,a,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057994,51.274038
+De Sluys Kreek,8,b,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058069,51.273979
+De Sluys Kreek,8,c,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058132,51.273923
+De Sluys Kreek,8,d,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058262,51.273973
+De Sluys Kreek,8,e,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058169,51.274030
+De Sluys Kreek,8,f,,4561DT,Hulst,Hulst,Zeeland,VBO,4.058104,51.274075
+De Sluys Kreek,8,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057974,51.274079
 De Sluys Kreek,9,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057278,51.273847
 De Sluys Kreek,10,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057752,51.274194
 De Sluys Kreek,11,,,4561DT,Hulst,Hulst,Zeeland,VBO,4.057370,51.273880
@@ -1410,6 +1422,7 @@ Sint Marthaplein,4,,,4561EW,Hulst,Hulst,Zeeland,VBO,4.055756,51.279974
 Sint Marthaplein,5,,,4561EW,Hulst,Hulst,Zeeland,VBO,4.056367,51.280006
 Sint Marthaplein,6,,,4561EW,Hulst,Hulst,Zeeland,VBO,4.055835,51.279864
 Sint Marthaplein,8,,,4561EW,Hulst,Hulst,Zeeland,VBO,4.055766,51.280025
+Sint Marthaplein,9,,,4561EW,Hulst,Hulst,Zeeland,VBO,4.056148,51.279928
 Sint Marthaplein,10,,,4561EW,Hulst,Hulst,Zeeland,VBO,4.055794,51.279972
 Sint Marthaplein,11,,,4561EW,Hulst,Hulst,Zeeland,VBO,4.056038,51.279899
 Sint Marthaplein,12,,,4561EW,Hulst,Hulst,Zeeland,VBO,4.055866,51.279880
@@ -1683,8 +1696,8 @@ Steensedijk,52,,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048842,51.273398
 Steensedijk,54,,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048801,51.273344
 Steensedijk,56,,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048760,51.273272
 Steensedijk,58,,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048721,51.273154
-Steensedijk,60,a,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048643,51.273026
 Steensedijk,60,B,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048622,51.272972
+Steensedijk,60,a,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048643,51.273026
 Steensedijk,60,,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048679,51.273100
 Steensedijk,62,,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048585,51.272901
 Steensedijk,64,,,4561GN,Hulst,Hulst,Zeeland,VBO,4.048490,51.272702
@@ -2513,8 +2526,8 @@ Willem Alexanderstraat,1,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.052632,51.286459
 Willem Alexanderstraat,2,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.053044,51.286581
 Willem Alexanderstraat,3,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.052500,51.286584
 Willem Alexanderstraat,5,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.052367,51.286717
-Willem Alexanderstraat,6,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.052839,51.287253
 Willem Alexanderstraat,6,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.053395,51.287549
+Willem Alexanderstraat,6,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.052839,51.287253
 Willem Alexanderstraat,7,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.052262,51.286850
 Willem Alexanderstraat,8,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.052874,51.287523
 Willem Alexanderstraat,9,,,4561JX,Hulst,Hulst,Zeeland,VBO,4.052201,51.286994
@@ -2796,7 +2809,7 @@ Europaplein,10,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.049961,51.290051
 Europaplein,12,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.050032,51.290088
 Europaplein,14,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.050116,51.290134
 Europaplein,16,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.050202,51.290162
-Europaplein,18,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.050272,51.290226
+Europaplein,18,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.050585,51.290301
 Europaplein,20,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.050627,51.290320
 Europaplein,22,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.050752,51.290456
 Europaplein,24,,,4561KT,Hulst,Hulst,Zeeland,VBO,4.050837,51.290493
@@ -3994,18 +4007,17 @@ Afrikaweg,4,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.038998,51.272871
 Afrikaweg,5,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.037658,51.271642
 Afrikaweg,6,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.038367,51.272581
 Afrikaweg,7,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.037334,51.271441
-Afrikaweg,8,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.037521,51.272492
-Afrikaweg,10,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.037602,51.272071
+Afrikaweg,10,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.037406,51.271895
 Afrikaweg,12,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.036715,51.272027
 Afrikaweg,14,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.036255,51.271725
 Afrikaweg,18,,,4561PA,Hulst,Hulst,Zeeland,VBO,4.036077,51.271318
 Amerikaweg,1,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.039820,51.270750
 Amerikaweg,2,A,,4561PB,Hulst,Hulst,Zeeland,VBO,4.041382,51.270732
-Amerikaweg,2,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.041400,51.270607
+Amerikaweg,2,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.041006,51.270603
 Amerikaweg,3,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.039755,51.271283
 Amerikaweg,4,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.040920,51.270844
-Amerikaweg,5,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.039726,51.271403
 Amerikaweg,5,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.039581,51.271584
+Amerikaweg,5,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.039726,51.271403
 Amerikaweg,6,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.040770,51.271085
 Amerikaweg,7,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.039392,51.271644
 Amerikaweg,9,,,4561PB,Hulst,Hulst,Zeeland,VBO,4.039126,51.271911
@@ -4157,8 +4169,8 @@ Riet- en Wulfsdijkweg,12,,,4561PZ,Hulst,Hulst,Zeeland,VBO,3.996074,51.266262
 Riet- en Wulfsdijkweg,14,,,4561PZ,Hulst,Hulst,Zeeland,VBO,3.995599,51.266328
 Riet- en Wulfsdijkweg,20,,,4561PZ,Hulst,Hulst,Zeeland,VBO,3.992502,51.265446
 Riet- en Wulfsdijkweg,26,,,4561PZ,Hulst,Hulst,Zeeland,VBO,3.984199,51.263782
-Hogeweg,2,c,,4561RA,Hulst,Hulst,Zeeland,VBO,4.044415,51.269325
 Hogeweg,2,D,,4561RA,Hulst,Hulst,Zeeland,VBO,4.043977,51.269711
+Hogeweg,2,c,,4561RA,Hulst,Hulst,Zeeland,VBO,4.044415,51.269325
 Hogeweg,4,,,4561RA,Hulst,Hulst,Zeeland,VBO,4.043481,51.270019
 Hogeweg,6,,,4561RA,Hulst,Hulst,Zeeland,VBO,4.043171,51.270322
 Hogeweg,8,,,4561RA,Hulst,Hulst,Zeeland,VBO,4.043246,51.270700
@@ -4250,6 +4262,7 @@ Hogeweg,7,,,4561RN,Hulst,Hulst,Zeeland,VBO,4.043058,51.269078
 Hogeweg,9,,,4561RN,Hulst,Hulst,Zeeland,VBO,4.042641,51.269848
 Hogeweg,11,,,4561RN,Hulst,Hulst,Zeeland,VBO,4.042493,51.269981
 Hogeweg,13,,,4561RN,Hulst,Hulst,Zeeland,VBO,4.041797,51.270516
+Hogeweg,15,a,,4561RN,Hulst,Hulst,Zeeland,VBO,4.041723,51.271045
 Hogeweg,15,,,4561RN,Hulst,Hulst,Zeeland,VBO,4.041664,51.271118
 Hogeweg,17,A,,4561RN,Hulst,Hulst,Zeeland,VBO,4.041297,51.271675
 Hogeweg,17,,,4561RN,Hulst,Hulst,Zeeland,VBO,4.041409,51.271272
@@ -4418,8 +4431,8 @@ Galgenveld,3,,,4561SL,Hulst,Hulst,Zeeland,VBO,4.043306,51.296501
 Veldstraat,4,,,4561SM,Hulst,Hulst,Zeeland,VBO,4.075611,51.301550
 Veldstraat,6,,,4561SM,Hulst,Hulst,Zeeland,VBO,4.075946,51.301350
 Parallelweg West,2,,,4561SN,Hulst,Hulst,Zeeland,VBO,4.042954,51.300183
-Parallelweg West,4,,,4561SN,Hulst,Hulst,Zeeland,VBO,4.043772,51.298225
 Parallelweg West,4,,,4561SN,Hulst,Hulst,Zeeland,VBO,4.043819,51.298071
+Parallelweg West,4,,,4561SN,Hulst,Hulst,Zeeland,VBO,4.043772,51.298225
 Zoutestraat,63,A,,4561TA,Hulst,Hulst,Zeeland,VBO,4.065581,51.290805
 Zoutestraat,63,B,,4561TA,Hulst,Hulst,Zeeland,VBO,4.065978,51.290962
 Zoutestraat,63,,,4561TA,Hulst,Hulst,Zeeland,VBO,4.065113,51.290638
@@ -5287,7 +5300,7 @@ Zoutestraat,66,,,4561XC,Hulst,Hulst,Zeeland,VBO,4.059428,51.286447
 Zoutestraat,68,,,4561XC,Hulst,Hulst,Zeeland,VBO,4.059542,51.286484
 Zoutestraat,70,a,,4561XC,Hulst,Hulst,Zeeland,VBO,4.059844,51.286591
 Zoutestraat,70,,,4561XC,Hulst,Hulst,Zeeland,VBO,4.059669,51.286531
-Zoutestraat,72,,,4561XC,Hulst,Hulst,Zeeland,VBO,4.059844,51.286591
+Zoutestraat,72,,,4561XC,Hulst,Hulst,Zeeland,VBO,4.060592,51.285991
 Zoutestraat,74,,,4561XC,Hulst,Hulst,Zeeland,VBO,4.059952,51.286678
 Zoutestraat,76,,,4561XC,Hulst,Hulst,Zeeland,VBO,4.059993,51.286723
 Zoutestraat,78,,,4561XC,Hulst,Hulst,Zeeland,VBO,4.060050,51.286760

@@ -518,6 +518,7 @@ van Leeuwenhoekstraat,75,,,7908BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453170,52.72
 van Leeuwenhoekstraat,77,,,7908BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453169,52.722663
 van Leeuwenhoekstraat,79,,,7908BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453210,52.722537
 van Leeuwenhoekstraat,81,,,7908BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453223,52.722465
+van Leeuwenhoekstraat,83,,GV,7908BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.454134,52.722253
 van Leeuwenhoekstraat,85,,,7908BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453935,52.721910
 van Leeuwenhoekstraat,2,,,7908BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.457318,52.723479
 van Leeuwenhoekstraat,4,,,7908BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.457332,52.723425
@@ -823,8 +824,8 @@ Sloutersverlaat,8,,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452731,52.713778
 Sloutersverlaat,10,,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452670,52.713734
 Sloutersverlaat,12,,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452625,52.713698
 Sloutersverlaat,14,,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452624,52.713635
-Sloutersverlaat,16,a,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452533,52.713546
 Sloutersverlaat,16,T,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452455,52.713511
+Sloutersverlaat,16,a,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452533,52.713546
 Sloutersverlaat,16,,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452578,52.713591
 Sloutersverlaat,18,,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451300,52.713368
 Sloutersverlaat,20,,,7908DC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451240,52.713324
@@ -1386,7 +1387,6 @@ De Kaag,18,,02,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449075,52.715649
 De Kaag,18,,11,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449055,52.715702
 De Kaag,18,,12,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449113,52.715696
 De Kaag,18,,13,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449102,52.715633
-De Kaag,18,,,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449121,52.715662
 De Kaag,20,,01,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448863,52.715662
 De Kaag,20,,02,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448708,52.715663
 De Kaag,20,,03,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448543,52.715666
@@ -1399,7 +1399,6 @@ De Kaag,20,,16,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448594,52.715581
 De Kaag,20,,17,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448754,52.715580
 De Kaag,20,,18,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448834,52.715577
 De Kaag,20,,,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448868,52.715619
-De Kaag,22,,,7908EV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448542,52.715595
 Schuttevaer,49,,,7908GA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.450000,52.714054
 Schuttevaer,51,,,7908GA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449910,52.714019
 Schuttevaer,53,,,7908GA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449835,52.713975
@@ -1408,6 +1407,7 @@ Schuttevaer,57,,,7908GA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449671,52.713922
 Schuttevaer,59,,,7908GA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449596,52.713896
 Schuttevaer,61,,,7908GA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449507,52.713870
 Schuttevaer,63,,,7908GB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.447670,52.713649
+Schuttevaer,65,,GV,7908GB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448004,52.713696
 Schuttevaer,65,,,7908GB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.447670,52.713685
 Schuttevaer,67,,,7908GB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.447222,52.713639
 Schuttevaer,69,,,7908GB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.447119,52.713657
@@ -4386,41 +4386,7 @@ Het Loo,22,,,7908XD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452362,52.710030
 Het Loo,23,,,7908XD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453193,52.709772
 Het Loo,25,,,7908XD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452883,52.709699
 Het Loo,27,,,7908XD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452636,52.709670
-Edelhert,1,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452804,52.711471
-Edelhert,2,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.454523,52.711523
-Edelhert,3,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452790,52.711384
-Edelhert,4,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.454306,52.711550
-Edelhert,5,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452744,52.711297
-Edelhert,6,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.454105,52.711573
-Edelhert,7,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452684,52.711226
-Edelhert,8,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453924,52.711576
-Edelhert,9,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452414,52.711085
-Edelhert,10,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453710,52.711610
-Edelhert,11,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452310,52.711059
-Edelhert,12,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453527,52.711605
-Edelhert,13,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452144,52.711049
-Edelhert,14,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453312,52.711636
-Edelhert,16,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453131,52.711657
-Edelhert,18,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452920,52.711665
-Edelhert,20,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452752,52.711697
-Edelhert,22,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452562,52.711708
-Edelhert,24,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452369,52.711731
-Edelhert,26,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452161,52.711720
-Edelhert,28,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451986,52.711690
-Edelhert,30,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451862,52.711591
-Edelhert,32,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451860,52.711477
-Edelhert,34,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451849,52.711351
-Edelhert,36,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451812,52.711247
-Edelhert,38,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451847,52.711118
-Edelhert,40,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451809,52.711008
-Edelhert,42,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451800,52.710874
-Edelhert,44,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451779,52.710766
-Edelhert,46,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451794,52.710631
-Edelhert,48,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451758,52.710511
-Edelhert,50,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451782,52.710401
-Edelhert,52,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451752,52.710268
-Edelhert,54,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451710,52.710160
-Edelhert,56,,,7908XE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451747,52.710023
+Het Loo,31,,,7908XD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452044,52.709641
 Reekalf,1,,,7908XG,Hoogeveen,Hoogeveen,Drenthe,VBO,6.456192,52.711275
 Reekalf,2,,,7908XG,Hoogeveen,Hoogeveen,Drenthe,VBO,6.455851,52.711270
 Reekalf,3,,,7908XG,Hoogeveen,Hoogeveen,Drenthe,VBO,6.456158,52.711105
@@ -4452,7 +4418,6 @@ Eekhoorn,12,,,7908XH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.456662,52.710507
 Eekhoorn,14,,,7908XH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.456569,52.710364
 Eekhoorn,16,,,7908XH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.456300,52.710223
 Eekhoorn,20,,,7908XH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.454769,52.709967
-Damhert,1,,,7908XJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.455093,52.711479
 Damhert,2,,,7908XJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.457980,52.711187
 Damhert,3,,,7908XJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.455413,52.711489
 Damhert,4,,,7908XJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.457961,52.711017
@@ -4472,37 +4437,12 @@ Damhert,27,,,7908XJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.458321,52.711184
 Damhert,29,,,7908XJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.458302,52.711023
 Damhert,31,,,7908XJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.458298,52.710852
 Damhert,33,,,7908XJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.458220,52.710691
-Egel,1,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453776,52.711375
-Egel,2,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453446,52.711409
 Egel,3,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453757,52.711296
-Egel,4,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453448,52.711321
-Egel,5,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453735,52.711210
-Egel,6,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453413,52.711234
-Egel,7,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453694,52.711129
-Egel,8,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453367,52.711148
 Egel,9,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453639,52.711051
-Egel,10,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453311,52.711063
-Egel,11,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453580,52.710970
-Egel,12,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453236,52.710987
-Egel,13,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453510,52.710899
-Egel,14,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453140,52.710913
 Egel,15,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453426,52.710830
-Egel,16,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452877,52.710774
-Egel,17,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453341,52.710769
-Egel,18,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452744,52.710723
-Egel,19,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453120,52.710639
-Egel,20,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452608,52.710687
 Egel,21,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452998,52.710593
-Egel,22,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452451,52.710658
-Egel,23,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452881,52.710553
-Egel,24,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452296,52.710640
-Egel,25,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452769,52.710519
-Egel,26,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452143,52.710633
 Egel,27,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452643,52.710491
-Egel,29,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452511,52.710471
-Egel,31,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452381,52.710450
 Egel,33,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452250,52.710443
-Egel,35,,,7908XK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.452113,52.710446
 Eikepage,1,,,7908XL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.450218,52.709723
 Eikepage,3,,,7908XL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.450130,52.709729
 Eikepage,5,,,7908XL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.450050,52.709735
@@ -4518,16 +4458,11 @@ Eikepage,23,,,7908XL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.449044,52.709793
 Eikepage,25,,,7908XL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448960,52.709801
 Eikepage,27,,,7908XL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448883,52.709805
 Eikepage,29,,,7908XL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.448787,52.709808
-Boommarter,2,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451660,52.709678
-Boommarter,4,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451637,52.709558
 Boommarter,6,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451604,52.709409
-Boommarter,8,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451569,52.709254
 Boommarter,10,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451539,52.709130
-Boommarter,12,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451505,52.709001
 Boommarter,14,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451464,52.708850
 Boommarter,16,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451405,52.708715
 Boommarter,17,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.453931,52.709500
-Boommarter,18,,,7908XM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.451378,52.708554
 Citroenvlinder,1,,,7908XN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.447530,52.709852
 Citroenvlinder,3,,,7908XN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.447159,52.709810
 Citroenvlinder,5,,,7908XN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.447038,52.709695

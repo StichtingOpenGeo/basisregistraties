@@ -60,11 +60,6 @@ Dorpsstraat,60,,,4271AD,Dussen,Werkendam,Noord-Brabant,VBO,4.956448,51.731827
 Dorpsstraat,62,,,4271AD,Dussen,Werkendam,Noord-Brabant,VBO,4.955356,51.732215
 Dorpsstraat,64,,,4271AD,Dussen,Werkendam,Noord-Brabant,VBO,4.954807,51.732503
 Dorpsstraat,66,,,4271AD,Dussen,Werkendam,Noord-Brabant,VBO,4.954117,51.732608
-de Croix hof,2,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.966209,51.733270
-de Croix hof,4,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.965901,51.733315
-de Croix hof,6,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.965705,51.733236
-de Croix hof,8,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.965779,51.733109
-de Croix hof,10,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.966061,51.733061
 Molenkade,1,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.965332,51.731404
 Molenkade,5,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.964714,51.730904
 Molenkade,7,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.964571,51.730794
@@ -80,6 +75,11 @@ Molenkade,25,a,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.963532,51.729700
 Molenkade,25,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.963518,51.729691
 Molenkade,27,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.963512,51.729579
 Molenkade,33,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.963467,51.729472
+de Croix hof,2,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.966209,51.733270
+de Croix hof,4,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.965901,51.733315
+de Croix hof,6,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.965705,51.733236
+de Croix hof,8,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.965779,51.733109
+de Croix hof,10,,,4271AE,Dussen,Werkendam,Noord-Brabant,VBO,4.966061,51.733061
 Molenkade,6,,,4271AG,Dussen,Werkendam,Noord-Brabant,VBO,4.965603,51.732812
 Molenkade,10,,,4271AG,Dussen,Werkendam,Noord-Brabant,VBO,4.965065,51.731170
 Molenkade,12,,,4271AG,Dussen,Werkendam,Noord-Brabant,VBO,4.965421,51.732315
@@ -543,8 +543,8 @@ Korn,43,,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.955249,51.748727
 Korn,45,,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.955544,51.749327
 Korn,49,,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.955877,51.749935
 Korn,51,,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.955805,51.750128
-Korn,53,a,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.955955,51.750342
 Korn,53,B,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.955630,51.750430
+Korn,53,a,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.955955,51.750342
 Korn,53,,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.955789,51.750165
 Korn,55,,,4271BN,Dussen,Werkendam,Noord-Brabant,VBO,4.956234,51.750911
 Korn,4,,,4271BP,Dussen,Werkendam,Noord-Brabant,VBO,4.949616,51.738263
@@ -937,26 +937,28 @@ Landweg,1,,II,4271LX,Dussen,Werkendam,Noord-Brabant,VBO,4.991900,51.727763
 Landweg,1,,,4271LX,Dussen,Werkendam,Noord-Brabant,VBO,4.992025,51.727810
 Munsterkerk,5,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960334,51.730731
 Munsterkerk,5,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961081,51.730508
-Munsterkerk,5,c,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960973,51.730525
-Munsterkerk,5,e,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960866,51.730544
-Munsterkerk,5,g,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960615,51.730584
-Munsterkerk,5,h,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960483,51.730619
-Munsterkerk,5,j,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960380,51.730640
-Munsterkerk,5,k,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961162,51.730520
-Munsterkerk,5,l,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961082,51.730537
-Munsterkerk,5,m,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960976,51.730553
-Munsterkerk,5,n,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960875,51.730572
-Munsterkerk,7,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960635,51.730621
-Munsterkerk,7,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960508,51.730649
-Munsterkerk,7,c,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960395,51.730674
-Munsterkerk,7,e,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960310,51.730686
-Munsterkerk,7,g,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961173,51.730558
-Munsterkerk,7,h,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961094,51.730573
-Munsterkerk,7,j,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960987,51.730591
-Munsterkerk,7,k,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960883,51.730610
-Munsterkerk,7,l,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960651,51.730660
-Munsterkerk,7,m,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960522,51.730686
-Munsterkerk,7,n,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960407,51.730714
+Munsterkerk,7,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960973,51.730525
+Munsterkerk,7,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960866,51.730544
+Munsterkerk,9,,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960743,51.730561
+Munsterkerk,11,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960615,51.730584
+Munsterkerk,11,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960483,51.730619
+Munsterkerk,13,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960380,51.730640
+Munsterkerk,13,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961162,51.730520
+Munsterkerk,15,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961082,51.730537
+Munsterkerk,15,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960976,51.730553
+Munsterkerk,17,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960875,51.730572
+Munsterkerk,17,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960635,51.730621
+Munsterkerk,19,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960508,51.730649
+Munsterkerk,19,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960395,51.730674
+Munsterkerk,21,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960310,51.730686
+Munsterkerk,21,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961173,51.730558
+Munsterkerk,23,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.961094,51.730573
+Munsterkerk,23,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960987,51.730591
+Munsterkerk,25,,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960743,51.730561
+Munsterkerk,27,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960883,51.730610
+Munsterkerk,27,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960651,51.730660
+Munsterkerk,29,a,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960522,51.730686
+Munsterkerk,29,b,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960407,51.730714
 Munsterkerk,31,,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960139,51.730790
 Munsterkerk,33,,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.960064,51.730809
 Munsterkerk,35,,,4271XA,Dussen,Werkendam,Noord-Brabant,VBO,4.959985,51.730829

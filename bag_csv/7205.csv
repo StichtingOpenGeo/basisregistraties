@@ -154,9 +154,6 @@ Baankstraat,13,,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.182107,52.139433
 Baankstraat,17,,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.182018,52.139370
 Baankstraat,19,a,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181900,52.139317
 Baankstraat,19,,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181974,52.139344
-Baankstraat,21,a,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181797,52.139255
-Baankstraat,21,b,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181753,52.139237
-Baankstraat,21,c,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181694,52.139211
 Baankstraat,21,G,1,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181941,52.139146
 Baankstraat,21,G,10,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181985,52.139128
 Baankstraat,21,G,11,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181999,52.139101
@@ -170,6 +167,9 @@ Baankstraat,21,G,6,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181851,52.138994
 Baankstraat,21,G,7,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181837,52.139021
 Baankstraat,21,G,8,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181808,52.139039
 Baankstraat,21,G,9,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181794,52.139057
+Baankstraat,21,a,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181797,52.139255
+Baankstraat,21,b,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181753,52.139237
+Baankstraat,21,c,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181694,52.139211
 Baankstraat,21,,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181856,52.139291
 Baankstraat,25,,,7205AT,Zutphen,Zutphen,Gelderland,VBO,6.181458,52.139069
 Baankstraat,29,,,7205AV,Zutphen,Zutphen,Gelderland,VBO,6.181178,52.138918
@@ -322,8 +322,8 @@ Molenweg,16,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.181010,52.140128
 Molenweg,18,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.181082,52.140096
 Molenweg,20,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.181139,52.140059
 Molenweg,22,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.181183,52.140023
-Molenweg,24,a,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.180688,52.139724
 Molenweg,24,T,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.180603,52.139762
+Molenweg,24,a,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.180688,52.139724
 Molenweg,24,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.180828,52.139801
 Molenweg,26,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.180770,52.139846
 Molenweg,28,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.180727,52.139873
@@ -332,9 +332,9 @@ Molenweg,32,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.180611,52.139946
 Molenweg,36,a,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.179664,52.139242
 Molenweg,36,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.179079,52.139183
 Molenweg,38,,,7205BD,Zutphen,Zutphen,Gelderland,VBO,6.176405,52.139147
+Kruisstraat,1,G,1,7205BE,Zutphen,Zutphen,Gelderland,VBO,6.182464,52.143176
 Kruisstraat,1,a,,7205BE,Zutphen,Zutphen,Gelderland,VBO,6.182523,52.143115
 Kruisstraat,1,b,,7205BE,Zutphen,Zutphen,Gelderland,VBO,6.182454,52.143266
-Kruisstraat,1,G,1,7205BE,Zutphen,Zutphen,Gelderland,VBO,6.182464,52.143176
 Kruisstraat,1,,,7205BE,Zutphen,Zutphen,Gelderland,VBO,6.182610,52.143043
 Kruisstraat,5,,,7205BE,Zutphen,Zutphen,Gelderland,VBO,6.182437,52.142980
 Kruisstraat,7,,,7205BE,Zutphen,Zutphen,Gelderland,VBO,6.182359,52.142892
@@ -744,8 +744,8 @@ Vliegendijk,2,,,7205CJ,Zutphen,Zutphen,Gelderland,VBO,6.183625,52.143467
 Vliegendijk,4,a,,7205CJ,Zutphen,Zutphen,Gelderland,VBO,6.183701,52.143602
 Vliegendijk,4,,,7205CJ,Zutphen,Zutphen,Gelderland,VBO,6.183654,52.143449
 Vliegendijk,6,,,7205CJ,Zutphen,Zutphen,Gelderland,VBO,6.183659,52.143728
-Vliegendijk,14,a,,7205CJ,Zutphen,Zutphen,Gelderland,VBO,6.183578,52.144079
 Vliegendijk,14,T,,7205CJ,Zutphen,Zutphen,Gelderland,VBO,6.183565,52.144214
+Vliegendijk,14,a,,7205CJ,Zutphen,Zutphen,Gelderland,VBO,6.183578,52.144079
 Vliegendijk,16,,,7205CJ,Zutphen,Zutphen,Gelderland,VBO,6.183021,52.146437
 Weg naar Voorst,1,a,,7205CK,Zutphen,Zutphen,Gelderland,VBO,6.184067,52.141208
 Weg naar Voorst,1,c,,7205CK,Zutphen,Zutphen,Gelderland,VBO,6.184141,52.141271
@@ -935,8 +935,8 @@ Hoveniersweg,5,,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.175843,52.146216
 Hoveniersweg,6,,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.179635,52.145849
 Hoveniersweg,7,,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.173530,52.146762
 Hoveniersweg,8,,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.178528,52.146027
-Hoveniersweg,11,a,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.169071,52.147280
 Hoveniersweg,11,T,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.171697,52.147232
+Hoveniersweg,11,a,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.169071,52.147280
 Hoveniersweg,11,,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.170546,52.147393
 Hoveniersweg,12,a,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.173473,52.147187
 Hoveniersweg,12,,,7205DA,Zutphen,Zutphen,Gelderland,VBO,6.175223,52.146688

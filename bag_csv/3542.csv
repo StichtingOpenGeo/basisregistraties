@@ -41,6 +41,7 @@ Atoomweg,46,B,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.065521,52.106340
 Atoomweg,48,A,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.065681,52.107097
 Atoomweg,48,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.065699,52.106823
 Atoomweg,50,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.064990,52.107319
+Atoomweg,52,A,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.063601,52.107735
 Atoomweg,52,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.064149,52.107921
 Atoomweg,54,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.064099,52.108618
 Atoomweg,60,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.062176,52.110382
@@ -53,6 +54,7 @@ Atoomweg,100,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.053000,52.115385
 Atoomweg,111,T,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.046914,52.120569
 Atoomweg,111,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.046459,52.118279
 Atoomweg,114,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.053000,52.115385
+Atoomweg,115,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.046527,52.118240
 Atoomweg,116,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.053000,52.115385
 Atoomweg,118,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.053000,52.115385
 Atoomweg,120,,,3542AB,Utrecht,Utrecht,Utrecht,VBO,5.053000,52.115385
@@ -108,6 +110,7 @@ Elektronweg,34,,,3542AC,Utrecht,Utrecht,Utrecht,VBO,5.075307,52.099374
 Elektronweg,36,,,3542AC,Utrecht,Utrecht,Utrecht,VBO,5.075638,52.099360
 Elektronweg,38,,,3542AC,Utrecht,Utrecht,Utrecht,VBO,5.075593,52.099658
 Elektronweg,40,,,3542AC,Utrecht,Utrecht,Utrecht,VBO,5.075548,52.099835
+Atoomweg,52,B,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.063675,52.107417
 Reactorweg,1,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.068116,52.100541
 Reactorweg,3,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.068116,52.100541
 Reactorweg,5,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.067938,52.100844
@@ -120,7 +123,11 @@ Reactorweg,17,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.066220,52.102533
 Reactorweg,21,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.067376,52.103655
 Reactorweg,23,A,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.065735,52.104718
 Reactorweg,25,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.064085,52.104981
+Reactorweg,27,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.063308,52.105573
 Reactorweg,47,A,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.061865,52.107118
+Reactorweg,47,B,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.062906,52.106745
+Reactorweg,47,C,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.063279,52.106415
+Reactorweg,47,D,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.063827,52.106654
 Reactorweg,47,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.062183,52.106643
 Reactorweg,49,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.061909,52.108222
 Reactorweg,51,,,3542AD,Utrecht,Utrecht,Utrecht,VBO,5.061909,52.108222
@@ -233,6 +240,10 @@ Radonweg,6,,,3542AN,Utrecht,Utrecht,Utrecht,VBO,5.068024,52.101569
 Radonweg,7,,,3542AN,Utrecht,Utrecht,Utrecht,VBO,5.067862,52.101227
 Radonweg,8,,,3542AN,Utrecht,Utrecht,Utrecht,VBO,5.067846,52.101496
 Radonweg,10,,,3542AN,Utrecht,Utrecht,Utrecht,VBO,5.067356,52.101358
+Kanaaldijk,1,,,3542AP,Utrecht,Utrecht,Utrecht,VBO,5.054719,52.125065
+Kanaaldijk,3,,,3542AP,Utrecht,Utrecht,Utrecht,VBO,5.053847,52.124656
+Kanaaldijk,15,,,3542AP,Utrecht,Utrecht,Utrecht,VBO,5.057676,52.122427
+Kanaaldijk,18,,,3542AP,Utrecht,Utrecht,Utrecht,VBO,5.053443,52.124811
 Sophialaan,1,,,3542AR,Utrecht,Utrecht,Utrecht,VBO,5.074642,52.112689
 Sophialaan,2,,,3542AR,Utrecht,Utrecht,Utrecht,VBO,5.074674,52.113287
 Sophialaan,4,,,3542AR,Utrecht,Utrecht,Utrecht,VBO,5.074045,52.113050
@@ -309,6 +320,7 @@ Nautilusweg,22,,,3542AV,Utrecht,Utrecht,Utrecht,VBO,5.045555,52.116267
 Nautilusweg,30,,,3542AV,Utrecht,Utrecht,Utrecht,VBO,5.046204,52.115864
 Nautilusweg,36,,,3542AV,Utrecht,Utrecht,Utrecht,VBO,5.046341,52.115658
 Nautilusweg,50,,,3542AV,Utrecht,Utrecht,Utrecht,VBO,5.045740,52.115015
+Savannahweg,1,,,3542AW,Utrecht,Utrecht,Utrecht,VBO,5.044369,52.118290
 Savannahweg,3,,,3542AW,Utrecht,Utrecht,Utrecht,VBO,5.044200,52.118041
 Savannahweg,5,,,3542AW,Utrecht,Utrecht,Utrecht,VBO,5.044200,52.118041
 Savannahweg,8,,,3542AW,Utrecht,Utrecht,Utrecht,VBO,5.043786,52.117401
@@ -392,7 +404,6 @@ Niels Bohrweg,157,,,3542CA,Utrecht,Utrecht,Utrecht,VBO,5.049801,52.122214
 Niels Bohrweg,159,,,3542CA,Utrecht,Utrecht,Utrecht,VBO,5.049821,52.122227
 Niels Bohrweg,161,,,3542CA,Utrecht,Utrecht,Utrecht,VBO,5.050275,52.122475
 Niels Bohrweg,171,,,3542CA,Utrecht,Utrecht,Utrecht,VBO,5.050840,52.122880
-Niels Bohrweg,201,,,3542CA,Utrecht,Utrecht,Utrecht,VBO,5.054719,52.125065
 Fermiweg,10,A,,3542CB,Utrecht,Utrecht,Utrecht,VBO,5.052929,52.120134
 Fermiweg,10,,,3542CB,Utrecht,Utrecht,Utrecht,VBO,5.052742,52.120146
 Fermiweg,24,,,3542CB,Utrecht,Utrecht,Utrecht,VBO,5.053295,52.118301
@@ -686,6 +697,8 @@ Zonnebaan,11,,,3542EA,Utrecht,Utrecht,Utrecht,VBO,5.038683,52.117629
 Zonnebaan,13,,,3542EA,Utrecht,Utrecht,Utrecht,VBO,5.038683,52.117629
 Zonnebaan,15,,,3542EA,Utrecht,Utrecht,Utrecht,VBO,5.038683,52.117629
 Zonnebaan,17,,,3542EA,Utrecht,Utrecht,Utrecht,VBO,5.038683,52.117629
+Zonnebaan,19,,,3542EA,Utrecht,Utrecht,Utrecht,VBO,5.038799,52.117569
+Zonnebaan,21,,,3542EA,Utrecht,Utrecht,Utrecht,VBO,5.038906,52.117508
 Zonnebaan,23,,,3542EB,Utrecht,Utrecht,Utrecht,VBO,5.038400,52.118402
 Zonnebaan,25,,,3542EB,Utrecht,Utrecht,Utrecht,VBO,5.038163,52.118549
 Zonnebaan,27,A,,3542EB,Utrecht,Utrecht,Utrecht,VBO,5.037928,52.118696

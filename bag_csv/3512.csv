@@ -102,7 +102,9 @@ Voorstraat,17,,BS,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119325,52.094133
 Voorstraat,17,,,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119340,52.094142
 Voorstraat,19,,BS,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119463,52.094231
 Voorstraat,19,,,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119463,52.094231
-Voorstraat,21,,BS,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119512,52.094267
+Voorstraat,21,A,,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119519,52.094244
+Voorstraat,21,B,,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119544,52.094230
+Voorstraat,21,C,,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119564,52.094217
 Voorstraat,21,,,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119525,52.094277
 Voorstraat,23,A,,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119562,52.094287
 Voorstraat,23,B,,3512AH,Utrecht,Utrecht,Utrecht,VBO,5.119579,52.094274
@@ -658,8 +660,8 @@ Janskerkhof,24,,,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120496,52.093655
 Janskerkhof,25,A,,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120418,52.093524
 Janskerkhof,25,B,,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120403,52.093544
 Janskerkhof,25,C,,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120393,52.093573
-Janskerkhof,25,,1,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120659,52.093520
-Janskerkhof,25,,2,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120805,52.093502
+Janskerkhof,25,K,1,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120659,52.093520
+Janskerkhof,25,K,2,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120805,52.093502
 Janskerkhof,25,,,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.120445,52.093575
 Janskerkhof,26,,,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.121471,52.093262
 Janskerkhof,27,,,3512BN,Utrecht,Utrecht,Utrecht,VBO,5.122184,52.093297
@@ -1123,6 +1125,13 @@ Wittevrouwenstraat,28,C,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.124969,52.095130
 Wittevrouwenstraat,28,,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.124949,52.095133
 Wittevrouwenstraat,30,,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125020,52.095123
 Wittevrouwenstraat,32,,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125095,52.095116
+Wittevrouwenstraat,34,A,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125210,52.095107
+Wittevrouwenstraat,34,B,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125212,52.095121
+Wittevrouwenstraat,34,C,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125212,52.095136
+Wittevrouwenstraat,34,D,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125212,52.095151
+Wittevrouwenstraat,34,E,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125214,52.095165
+Wittevrouwenstraat,34,G,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125216,52.095180
+Wittevrouwenstraat,34,H,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125220,52.095197
 Wittevrouwenstraat,34,,BS,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125190,52.095106
 Wittevrouwenstraat,34,,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125169,52.095109
 Wittevrouwenstraat,36,A,,3512CV,Utrecht,Utrecht,Utrecht,VBO,5.125369,52.095322
@@ -2658,7 +2667,15 @@ Ridderhofstad,69,,,3512KL,Utrecht,Utrecht,Utrecht,VBO,5.126896,52.089302
 Ridderhofstad,71,,,3512KL,Utrecht,Utrecht,Utrecht,VBO,5.126916,52.089308
 Brigittenstraat,16,,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126461,52.088795
 Brigittenstraat,18,,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126792,52.088895
+Brigittenstraat,20,A,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126825,52.088944
+Brigittenstraat,20,B,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126794,52.088969
+Brigittenstraat,20,C,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126761,52.088999
+Brigittenstraat,20,D,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126896,52.088937
+Brigittenstraat,20,E,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126865,52.088962
+Brigittenstraat,20,G,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126830,52.088985
+Brigittenstraat,20,H,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126943,52.088956
 Brigittenstraat,20,,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.127008,52.088978
+Brigittenstraat,20,,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.126849,52.088922
 Brigittenstraat,22,,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.127112,52.089017
 Brigittenstraat,24,,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.127240,52.089064
 Bruntensteeg,1,,,3512KM,Utrecht,Utrecht,Utrecht,VBO,5.127397,52.088609
@@ -2762,8 +2779,8 @@ Hieronymusplantsoen,2,A,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126585,52.090865
 Hieronymusplantsoen,2,B,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126563,52.090896
 Hieronymusplantsoen,2,C,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126559,52.090867
 Hieronymusplantsoen,2,D,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126537,52.090883
-Hieronymusplantsoen,2,,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126606,52.090871
 Hieronymusplantsoen,2,,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126589,52.090893
+Hieronymusplantsoen,2,,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126606,52.090871
 Hieronymusplantsoen,3,,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126617,52.090745
 Hieronymusplantsoen,4,,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126946,52.090554
 Hieronymusplantsoen,5,,,3512KV,Utrecht,Utrecht,Utrecht,VBO,5.126952,52.090537
@@ -3096,6 +3113,8 @@ Zuilenstraat,1,A,,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124245,52.086767
 Zuilenstraat,1,,I,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124143,52.086729
 Zuilenstraat,1,,II,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124125,52.086722
 Zuilenstraat,1,,,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124162,52.086736
+Zuilenstraat,3,,A,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124331,52.086781
+Zuilenstraat,3,,B,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124348,52.086762
 Zuilenstraat,3,,BS,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124291,52.086783
 Zuilenstraat,3,,,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124271,52.086776
 Zuilenstraat,5,,,3512NA,Utrecht,Utrecht,Utrecht,VBO,5.124499,52.086864
@@ -4203,8 +4222,8 @@ Hemdsmouwsteeg,3,B,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.117823,52.094038
 Hemdsmouwsteeg,3,C,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.117829,52.093981
 Hemdsmouwsteeg,3,D,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.117839,52.093923
 Hemdsmouwsteeg,3,E,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.118074,52.093985
-Hemdsmouwsteeg,3,,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.117948,52.093923
 Hemdsmouwsteeg,3,,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.118122,52.093984
+Hemdsmouwsteeg,3,,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.117948,52.093923
 Loeff Berchmakerstraat,4,,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.118177,52.093811
 Loeff Berchmakerstraat,10,,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.118171,52.093945
 Loeff Berchmakerstraat,12,,,3512TD,Utrecht,Utrecht,Utrecht,VBO,5.118159,52.094015
@@ -4652,8 +4671,8 @@ Korte Lauwerstraat,12,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119038,52.095536
 Korte Lauwerstraat,13,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119214,52.095684
 Korte Lauwerstraat,14,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119038,52.095536
 Korte Lauwerstraat,15,A,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119205,52.095703
-Korte Lauwerstraat,15,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119200,52.095727
 Korte Lauwerstraat,15,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119202,52.095716
+Korte Lauwerstraat,15,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119200,52.095727
 Korte Lauwerstraat,16,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119038,52.095536
 Korte Lauwerstraat,17,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119190,52.095766
 Korte Lauwerstraat,18,,,3512VE,Utrecht,Utrecht,Utrecht,VBO,5.119038,52.095536
@@ -4888,8 +4907,8 @@ Van Asch van Wijckskade,18,,,3512VP,Utrecht,Utrecht,Utrecht,VBO,5.120330,52.0959
 Van Asch van Wijckskade,19,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.120740,52.096039
 Van Asch van Wijckskade,21,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.121171,52.096151
 Van Asch van Wijckskade,23,A,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.121258,52.096159
-Van Asch van Wijckskade,23,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.121197,52.096158
 Van Asch van Wijckskade,23,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.121252,52.096178
+Van Asch van Wijckskade,23,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.121197,52.096158
 Van Asch van Wijckskade,25,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.121607,52.096263
 Van Asch van Wijckskade,27,A,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122420,52.096478
 Van Asch van Wijckskade,27,B,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122420,52.096478

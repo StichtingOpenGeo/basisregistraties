@@ -571,13 +571,6 @@ Prinses Marijkestraat,3,,,8121BT,Olst,Olst-Wijhe,Overijssel,VBO,6.112512,52.3386
 Prinses Marijkestraat,4,,,8121BT,Olst,Olst-Wijhe,Overijssel,VBO,6.112197,52.338314
 Prinses Marijkestraat,6,,,8121BT,Olst,Olst-Wijhe,Overijssel,VBO,6.112433,52.338348
 Prinses Marijkestraat,8,,,8121BT,Olst,Olst-Wijhe,Overijssel,VBO,6.112755,52.338328
-de Gaarde,2,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.115908,52.334660
-de Gaarde,4,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116098,52.334587
-de Gaarde,6,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116273,52.334523
-de Gaarde,8,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116445,52.334288
-de Gaarde,10,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116796,52.334205
-de Gaarde,12,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116961,52.334411
-de Gaarde,14,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116456,52.334858
 Jan Hooglandstraat,1,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.114804,52.337102
 Jan Hooglandstraat,3,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.114891,52.337057
 Jan Hooglandstraat,5,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.114979,52.337011
@@ -591,6 +584,13 @@ Jan Hooglandstraat,31,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116995,52.336469
 Jan Hooglandstraat,33,t,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116817,52.336461
 Jan Hooglandstraat,33,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.117706,52.336371
 Jan Hooglandstraat,45,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.117542,52.335836
+de Gaarde,2,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.115908,52.334660
+de Gaarde,4,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116098,52.334587
+de Gaarde,6,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116273,52.334523
+de Gaarde,8,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116445,52.334288
+de Gaarde,10,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116796,52.334205
+de Gaarde,12,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116961,52.334411
+de Gaarde,14,,,8121BV,Olst,Olst-Wijhe,Overijssel,VBO,6.116456,52.334858
 Jan Hooglandstraat,47,,,8121BW,Olst,Olst-Wijhe,Overijssel,VBO,6.117600,52.335800
 Jan Hooglandstraat,49,,,8121BW,Olst,Olst-Wijhe,Overijssel,VBO,6.117716,52.335745
 Jan Hooglandstraat,51,,,8121BW,Olst,Olst-Wijhe,Overijssel,VBO,6.117774,52.335718
@@ -1286,8 +1286,8 @@ Zandweteringpad,1,,,8121DT,Olst,Olst-Wijhe,Overijssel,VBO,6.133110,52.321053
 Zandweteringpad,2,,,8121DT,Olst,Olst-Wijhe,Overijssel,VBO,6.129507,52.307333
 Zandweteringpad,3,,,8121DT,Olst,Olst-Wijhe,Overijssel,VBO,6.127548,52.315614
 Zandweteringpad,6,a,,8121DT,Olst,Olst-Wijhe,Overijssel,VBO,6.129695,52.306051
-Zandweteringpad,6,,,8121DT,Olst,Olst-Wijhe,Overijssel,VBO,6.129420,52.306406
 Zandweteringpad,6,,,8121DT,Olst,Olst-Wijhe,Overijssel,VBO,6.129229,52.304809
+Zandweteringpad,6,,,8121DT,Olst,Olst-Wijhe,Overijssel,VBO,6.129420,52.306406
 Zandweteringpad,8,,,8121DT,Olst,Olst-Wijhe,Overijssel,VBO,6.130543,52.304360
 Diepenveenseweg,1,a,,8121DV,Olst,Olst-Wijhe,Overijssel,VBO,6.124305,52.326105
 Diepenveenseweg,1,b,,8121DV,Olst,Olst-Wijhe,Overijssel,VBO,6.124305,52.326096
@@ -1643,6 +1643,7 @@ de Meente,16,a,,8121EV,Olst,Olst-Wijhe,Overijssel,VBO,6.114419,52.346740
 de Meente,16,b,,8121EV,Olst,Olst-Wijhe,Overijssel,VBO,6.114936,52.346916
 de Meente,16,c,,8121EV,Olst,Olst-Wijhe,Overijssel,VBO,6.115462,52.347084
 de Meente,16,d,,8121EV,Olst,Olst-Wijhe,Overijssel,VBO,6.115616,52.347132
+de Meente,16,,,8121EV,Olst,Olst-Wijhe,Overijssel,VBO,6.113427,52.344571
 de Meente,17,,,8121EV,Olst,Olst-Wijhe,Overijssel,VBO,6.111608,52.347153
 de Meente,19,,,8121EV,Olst,Olst-Wijhe,Overijssel,VBO,6.111233,52.347541
 de Meente,20,,,8121EV,Olst,Olst-Wijhe,Overijssel,VBO,6.114896,52.347381
@@ -1685,7 +1686,6 @@ Hazelaar,25,,,8121EW,Olst,Olst-Wijhe,Overijssel,VBO,6.113042,52.359457
 Hazelaar,27,,,8121EW,Olst,Olst-Wijhe,Overijssel,VBO,6.112982,52.359386
 Hazelaar,29,,,8121EW,Olst,Olst-Wijhe,Overijssel,VBO,6.112907,52.359251
 Hazelaar,31,,,8121EW,Olst,Olst-Wijhe,Overijssel,VBO,6.112891,52.359179
-de Meente,19,a,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.111343,52.348500
 Rozenkampsweg,1,,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.109325,52.347580
 Rozenkampsweg,2,,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.110907,52.348289
 Rozenkampsweg,7,t,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.110123,52.348827
@@ -1694,6 +1694,7 @@ Rozenkampsweg,13,,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.111121,52.348791
 Rozenkampsweg,17,,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.111312,52.348891
 Rozenkampsweg,23,,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.113400,52.349955
 Rozenkampsweg,29,,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.115490,52.350265
+de Meente,19,a,,8121EX,Olst,Olst-Wijhe,Overijssel,VBO,6.111343,52.348500
 Vennemanshoek,1,,,8121EZ,Olst,Olst-Wijhe,Overijssel,VBO,6.127306,52.330131
 Vennemanshoek,2,,,8121EZ,Olst,Olst-Wijhe,Overijssel,VBO,6.127846,52.329930
 Vennemanshoek,3,,,8121EZ,Olst,Olst-Wijhe,Overijssel,VBO,6.127409,52.330130
@@ -1979,16 +1980,6 @@ de Pas,91,g,3,8121GN,Olst,Olst-Wijhe,Overijssel,VBO,6.108773,52.334191
 de Pas,91,g,4,8121GN,Olst,Olst-Wijhe,Overijssel,VBO,6.108784,52.334215
 de Pas,91,g,5,8121GN,Olst,Olst-Wijhe,Overijssel,VBO,6.108794,52.334244
 de Pas,91,g,6,8121GN,Olst,Olst-Wijhe,Overijssel,VBO,6.108796,52.334268
-de Pas,2,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107362,52.334568
-de Pas,4,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107280,52.334578
-de Pas,6,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107177,52.334578
-de Pas,8,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107104,52.334597
-de Pas,10,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107002,52.334607
-de Pas,12,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106914,52.334607
-de Pas,14,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106731,52.334627
-de Pas,16,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106622,52.334635
-de Pas,18,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106529,52.334643
-de Pas,20,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106464,52.334661
 Kortricklaan,109,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106165,52.333551
 Kortricklaan,111,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106166,52.333596
 Kortricklaan,113,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106214,52.333639
@@ -1999,6 +1990,16 @@ Kortricklaan,121,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106639,52.333626
 Kortricklaan,123,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106638,52.333676
 Kortricklaan,125,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106644,52.333721
 Kortricklaan,127,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106647,52.333767
+de Pas,2,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107362,52.334568
+de Pas,4,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107280,52.334578
+de Pas,6,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107177,52.334578
+de Pas,8,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107104,52.334597
+de Pas,10,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.107002,52.334607
+de Pas,12,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106914,52.334607
+de Pas,14,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106731,52.334627
+de Pas,16,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106622,52.334635
+de Pas,18,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106529,52.334643
+de Pas,20,,,8121GP,Olst,Olst-Wijhe,Overijssel,VBO,6.106464,52.334661
 de Pas,22,,,8121GR,Olst,Olst-Wijhe,Overijssel,VBO,6.107277,52.334294
 de Pas,24,,,8121GR,Olst,Olst-Wijhe,Overijssel,VBO,6.107215,52.334299
 de Pas,26,,,8121GR,Olst,Olst-Wijhe,Overijssel,VBO,6.107098,52.334307
@@ -2721,6 +2722,7 @@ Jan Schamhartstraat,74,b,,8121PB,Olst,Olst-Wijhe,Overijssel,VBO,6.107698,52.3314
 Jan Schamhartstraat,74,c,,8121PB,Olst,Olst-Wijhe,Overijssel,VBO,6.107727,52.331212
 Jan Schamhartstraat,74,,,8121PB,Olst,Olst-Wijhe,Overijssel,VBO,6.107832,52.331840
 Jan Schamhartstraat,76,,,8121PB,Olst,Olst-Wijhe,Overijssel,VBO,6.107694,52.330261
+Jan Schamhartstraat,78,b,,8121PB,Olst,Olst-Wijhe,Overijssel,VBO,6.107582,52.329029
 Jan Schamhartstraat,78,,,8121PB,Olst,Olst-Wijhe,Overijssel,VBO,6.107484,52.329957
 Jan Schamhartstraat,80,,,8121PB,Olst,Olst-Wijhe,Overijssel,VBO,6.107595,52.328689
 Jan Schamhartstraat,82,,,8121PB,Olst,Olst-Wijhe,Overijssel,VBO,6.107683,52.328697
@@ -3044,7 +3046,7 @@ Oude Deventerweg,19,,,8121RK,Olst,Olst-Wijhe,Overijssel,VBO,6.182099,52.351293
 Oude Deventerweg,21,,,8121RK,Olst,Olst-Wijhe,Overijssel,VBO,6.183797,52.351865
 Boerhaar,61,,,8121RL,Olst,Olst-Wijhe,Overijssel,VBO,6.146346,52.363419
 Oude Deventerweg,2,a,,8121RL,Olst,Olst-Wijhe,Overijssel,VBO,6.179920,52.339645
-Oude Deventerweg,2,,,8121RL,Olst,Olst-Wijhe,Overijssel,VBO,6.180000,52.339867
+Oude Deventerweg,2,,,8121RL,Olst,Olst-Wijhe,Overijssel,VBO,6.180100,52.339906
 Oude Deventerweg,4,,,8121RL,Olst,Olst-Wijhe,Overijssel,VBO,6.180909,52.340551
 Oude Deventerweg,6,,,8121RL,Olst,Olst-Wijhe,Overijssel,VBO,6.179580,52.340892
 Oude Deventerweg,8,,,8121RL,Olst,Olst-Wijhe,Overijssel,VBO,6.180252,52.342371
@@ -3581,6 +3583,7 @@ Thorbeckestraat,88,,,8121ZD,Olst,Olst-Wijhe,Overijssel,VBO,6.114308,52.344469
 Thorbeckestraat,90,,,8121ZD,Olst,Olst-Wijhe,Overijssel,VBO,6.114215,52.344462
 Thorbeckestraat,92,,,8121ZD,Olst,Olst-Wijhe,Overijssel,VBO,6.114119,52.344466
 Thorbeckestraat,94,,,8121ZD,Olst,Olst-Wijhe,Overijssel,VBO,6.114015,52.344459
+Thorbeckestraat,96,,,8121ZD,Olst,Olst-Wijhe,Overijssel,VBO,6.113528,52.344571
 Van Oldenbarneveltstraat,1,,,8121ZE,Olst,Olst-Wijhe,Overijssel,VBO,6.114608,52.343533
 Van Oldenbarneveltstraat,3,,,8121ZE,Olst,Olst-Wijhe,Overijssel,VBO,6.114523,52.343529
 Van Oldenbarneveltstraat,5,,,8121ZE,Olst,Olst-Wijhe,Overijssel,VBO,6.114438,52.343529

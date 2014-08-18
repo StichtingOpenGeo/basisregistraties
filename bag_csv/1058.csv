@@ -183,9 +183,9 @@ Baarsjesweg,280,,1,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856194,52.3601
 Baarsjesweg,280,,2,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856194,52.360125
 Baarsjesweg,280,,3,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856194,52.360125
 Baarsjesweg,280,,H,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856194,52.360125
-Baarsjesweg,281,,1,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861299,52.366664
-Baarsjesweg,281,,2,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861299,52.366664
-Baarsjesweg,281,,3,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861299,52.366664
+Baarsjesweg,281,,1,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856132,52.360061
+Baarsjesweg,281,,2,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856094,52.360046
+Baarsjesweg,281,,3,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856104,52.360060
 Baarsjesweg,281,,H,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856122,52.360044
 Baarsjesweg,282,,1,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856108,52.360008
 Baarsjesweg,282,,2,1058AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856108,52.360008
@@ -691,8 +691,8 @@ Hoofdweg,23,,H,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853011,52.359895
 Hoofdweg,25,A,1,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.852987,52.360009
 Hoofdweg,25,A,2,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853017,52.359988
 Hoofdweg,25,A,3,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853002,52.359984
-Hoofdweg,25,A,H,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853010,52.360003
 Hoofdweg,25,A,H,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853008,52.360020
+Hoofdweg,25,A,H,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853010,52.360003
 Hoofdweg,25,,2,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853025,52.359949
 Hoofdweg,25,,H,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853025,52.359949
 Hoofdweg,27,,,1058AW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.852993,52.360200
@@ -5439,9 +5439,7 @@ Warmondstraat,111,,H,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849629,52.35
 Warmondstraat,113,,1,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849614,52.354316
 Warmondstraat,113,,2,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849614,52.354316
 Warmondstraat,113,,H,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849614,52.354316
-Warmondstraat,115,,1,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849615,52.354271
 Warmondstraat,115,,2,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849615,52.354271
-Warmondstraat,115,,H,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849615,52.354271
 Warmondstraat,115,,H,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849615,52.354250
 Warmondstraat,117,,1,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849630,52.354208
 Warmondstraat,117,,2,1058KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849630,52.354208
@@ -6620,12 +6618,14 @@ Hoofddorpweg,30,,H,1058PC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850754,52.3511
 Hoofddorpweg,32,,1,1058PC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850665,52.351157
 Hoofddorpweg,32,,2,1058PC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850665,52.351157
 Hoofddorpweg,32,,3,1058PC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850665,52.351157
+Hoofddorpweg,32,,H,1058PC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850619,52.351155
 Hoofddorpplein,4,,2,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850635,52.351256
 Hoofddorpplein,4,,3,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850635,52.351256
 Hoofddorpplein,4,,H,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850635,52.351256
 Hoofddorpplein,6,,2,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850634,52.351310
 Hoofddorpplein,6,,3,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850634,52.351310
 Hoofddorpplein,6,,H,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850634,52.351310
+Hoofddorpplein,8,,1,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850605,52.351363
 Hoofddorpplein,8,,2,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850604,52.351355
 Hoofddorpplein,8,,3,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850604,52.351355
 Hoofddorpplein,8,,H,1058PD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850604,52.351355
@@ -8418,6 +8418,7 @@ Van Rensselaerstraat,7,,H,1058XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857124,
 Van Rensselaerstraat,9,,1,1058XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856992,52.362142
 Van Rensselaerstraat,9,,2,1058XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856992,52.362142
 Van Rensselaerstraat,9,,3,1058XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856992,52.362142
+Van Rensselaerstraat,9,,,1058XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856996,52.362150
 Van Rensselaerstraat,11,,1,1058XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856919,52.362142
 Van Rensselaerstraat,11,,2,1058XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856919,52.362142
 Van Rensselaerstraat,11,,3,1058XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856919,52.362142

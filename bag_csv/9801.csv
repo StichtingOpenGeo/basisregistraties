@@ -97,6 +97,7 @@ Gastlaan,2,,,9801AL,Zuidhorn,Zuidhorn,Groningen,VBO,6.401567,53.252400
 Gastlaan,3,,,9801AL,Zuidhorn,Zuidhorn,Groningen,VBO,6.402252,53.252197
 Gastlaan,4,,,9801AL,Zuidhorn,Zuidhorn,Groningen,VBO,6.402020,53.252531
 Gastlaan,6,,,9801AL,Zuidhorn,Zuidhorn,Groningen,VBO,6.402246,53.252583
+Rijksstraatweg,1,,,9801AM,Zuidhorn,Zuidhorn,Groningen,VBO,6.407638,53.250225
 Rijksstraatweg,2,,,9801AM,Zuidhorn,Zuidhorn,Groningen,VBO,6.426160,53.243267
 Rijksstraatweg,3,,,9801AM,Zuidhorn,Zuidhorn,Groningen,VBO,6.405225,53.251210
 Rijksstraatweg,4,,,9801AM,Zuidhorn,Zuidhorn,Groningen,VBO,6.408505,53.248140
@@ -407,7 +408,7 @@ Julianalaan,14,,,9801BN,Zuidhorn,Zuidhorn,Groningen,VBO,6.413455,53.245092
 Julianalaan,16,,,9801BN,Zuidhorn,Zuidhorn,Groningen,VBO,6.413606,53.245118
 Julianalaan,18,,,9801BN,Zuidhorn,Zuidhorn,Groningen,VBO,6.413726,53.245135
 Julianalaan,20,,,9801BP,Zuidhorn,Zuidhorn,Groningen,VBO,6.413891,53.245160
-Julianalaan,22,,,9801BP,Zuidhorn,Zuidhorn,Groningen,VBO,6.413996,53.245178
+Julianalaan,22,,,9801BP,Zuidhorn,Zuidhorn,Groningen,VBO,6.413999,53.245149
 Julianalaan,24,,,9801BP,Zuidhorn,Zuidhorn,Groningen,VBO,6.414147,53.245221
 Julianalaan,26,,,9801BP,Zuidhorn,Zuidhorn,Groningen,VBO,6.414268,53.245238
 Julianalaan,28,,,9801BP,Zuidhorn,Zuidhorn,Groningen,VBO,6.414418,53.245255
@@ -529,7 +530,6 @@ Klinckemaburen,12,,,9801CC,Zuidhorn,Zuidhorn,Groningen,VBO,6.407922,53.240431
 Klinckemaburen,13,,,9801CC,Zuidhorn,Zuidhorn,Groningen,VBO,6.407853,53.240683
 Klinckemaburen,14,,,9801CC,Zuidhorn,Zuidhorn,Groningen,VBO,6.407545,53.240317
 Klinckemaburen,15,,,9801CC,Zuidhorn,Zuidhorn,Groningen,VBO,6.407657,53.240622
-Klinckemalaan,25,b,,9801CC,Zuidhorn,Zuidhorn,Groningen,VBO,6.410843,53.239786
 Holtweg,1,a,,9801CD,Zuidhorn,Zuidhorn,Groningen,VBO,6.406701,53.241385
 Holtweg,3,,,9801CD,Zuidhorn,Zuidhorn,Groningen,VBO,6.404345,53.239949
 Holtweg,5,,,9801CD,Zuidhorn,Zuidhorn,Groningen,VBO,6.406565,53.240694
@@ -558,7 +558,7 @@ Jellemaweg,27,,,9801CG,Zuidhorn,Zuidhorn,Groningen,VBO,6.404344,53.243723
 Jellemaweg,29,,,9801CG,Zuidhorn,Zuidhorn,Groningen,VBO,6.404447,53.243605
 Jellemaweg,31,,,9801CG,Zuidhorn,Zuidhorn,Groningen,VBO,6.404458,53.243471
 Jellemaweg,41,,,9801CH,Zuidhorn,Zuidhorn,Groningen,VBO,6.405336,53.242573
-Jellemaweg,47,,,9801CH,Zuidhorn,Zuidhorn,Groningen,VBO,6.405482,53.242393
+Jellemaweg,47,,,9801CH,Zuidhorn,Zuidhorn,Groningen,VBO,6.405586,53.242400
 Jellemaweg,53,,,9801CH,Zuidhorn,Zuidhorn,Groningen,VBO,6.405608,53.242023
 Jellemaweg,55,,,9801CH,Zuidhorn,Zuidhorn,Groningen,VBO,6.405800,53.241905
 Jellemaweg,57,,,9801CH,Zuidhorn,Zuidhorn,Groningen,VBO,6.405812,53.241788
@@ -1167,7 +1167,7 @@ van Wassenaerplein,2,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.396421,53.243763
 van Wassenaerplein,4,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.396316,53.243773
 van Wassenaerplein,6,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.396226,53.243765
 van Wassenaerplein,8,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.396136,53.243747
-van Wassenaerplein,10,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.396045,53.243694
+van Wassenaerplein,10,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.396032,53.243744
 van Wassenaerplein,12,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.395794,53.243867
 van Wassenaerplein,14,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.395825,53.243903
 van Wassenaerplein,16,,,9801GR,Zuidhorn,Zuidhorn,Groningen,VBO,6.395811,53.243966
@@ -1845,16 +1845,6 @@ Cort van der Lindenstraat,8,,,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396737,53
 Cort van der Lindenstraat,10,,,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396512,53.249612
 Cort van der Lindenstraat,12,,,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396422,53.249577
 Cort van der Lindenstraat,14,,,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396331,53.249560
-Cort van der Lindenstraat,15,g,a,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396627,53.249405
-Cort van der Lindenstraat,15,g,b,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396671,53.249359
-Cort van der Lindenstraat,15,g,c,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396657,53.249386
-Cort van der Lindenstraat,15,g,d,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396686,53.249332
-Cort van der Lindenstraat,15,g,e,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396613,53.249432
-Cort van der Lindenstraat,15,g,f,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396433,53.249397
-Cort van der Lindenstraat,15,g,g,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396418,53.249424
-Cort van der Lindenstraat,15,g,h,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396447,53.249370
-Cort van der Lindenstraat,15,g,i,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396475,53.249307
-Cort van der Lindenstraat,15,g,j,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396490,53.249289
 Cort van der Lindenstraat,16,,,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396226,53.249534
 Cort van der Lindenstraat,18,,,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396151,53.249516
 Cort van der Lindenstraat,20,,,9801KP,Zuidhorn,Zuidhorn,Groningen,VBO,6.396060,53.249499
@@ -1903,7 +1893,7 @@ Troelstraweg,12,,,9801KT,Zuidhorn,Zuidhorn,Groningen,VBO,6.395243,53.250423
 Troelstraweg,14,,,9801KT,Zuidhorn,Zuidhorn,Groningen,VBO,6.395216,53.250567
 Troelstraweg,16,,,9801KT,Zuidhorn,Zuidhorn,Groningen,VBO,6.395203,53.250621
 Heemskerkplein,1,,,9801KV,Zuidhorn,Zuidhorn,Groningen,VBO,6.394447,53.250977
-Heemskerkplein,2,,,9801KV,Zuidhorn,Zuidhorn,Groningen,VBO,6.394696,53.250760
+Heemskerkplein,2,,,9801KV,Zuidhorn,Zuidhorn,Groningen,VBO,6.394623,53.250779
 Heemskerkplein,3,,,9801KV,Zuidhorn,Zuidhorn,Groningen,VBO,6.395103,53.250837
 Heemskerkplein,4,,,9801KV,Zuidhorn,Zuidhorn,Groningen,VBO,6.395003,53.251072
 Heemskerkplein,5,,,9801KV,Zuidhorn,Zuidhorn,Groningen,VBO,6.394843,53.251262
@@ -2816,7 +2806,7 @@ van Starkenborghkan Zz,4,,,9801TA,Zuidhorn,Zuidhorn,Groningen,VBO,6.382977,53.25
 Hoendiep Westzijde,60,,,9801TB,Zuidhorn,Zuidhorn,Groningen,VBO,6.378771,53.252770
 Hoendiep Westzijde,64,,,9801TB,Zuidhorn,Zuidhorn,Groningen,VBO,6.378136,53.253171
 Hoendiep Westzijde,66,a,,9801TB,Zuidhorn,Zuidhorn,Groningen,VBO,6.350154,53.252177
-Hoendiep Westzijde,66,,,9801TB,Zuidhorn,Zuidhorn,Groningen,VBO,6.361019,53.253572
+Hoendiep Westzijde,66,,,9801TB,Zuidhorn,Zuidhorn,Groningen,VBO,6.360712,53.253588
 Hoendiep Westzijde,68,,,9801TB,Zuidhorn,Zuidhorn,Groningen,VBO,6.348882,53.252232
 Hoendiep Westzijde,70,,,9801TB,Zuidhorn,Zuidhorn,Groningen,VBO,6.346988,53.251977
 Gaweg,1,,,9801TC,Zuidhorn,Zuidhorn,Groningen,VBO,6.373320,53.251593
@@ -2878,6 +2868,7 @@ Atlasstraat,47,,,9801VA,Zuidhorn,Zuidhorn,Groningen,VBO,6.410255,53.247921
 Atlasstraat,49,,,9801VA,Zuidhorn,Zuidhorn,Groningen,VBO,6.410303,53.247881
 Atlasstraat,51,,,9801VA,Zuidhorn,Zuidhorn,Groningen,VBO,6.412509,53.246991
 Atlasstraat,53,,,9801VA,Zuidhorn,Zuidhorn,Groningen,VBO,6.412805,53.246946
+Torenstraat,1,,,9801VA,Noordhorn,Zuidhorn,Groningen,VBO,6.395739,53.260743
 Castorstraat,5,,,9801VB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410052,53.249517
 Castorstraat,7,,,9801VB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410071,53.249442
 Castorstraat,9,,,9801VB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410176,53.249324
@@ -2953,7 +2944,7 @@ Capellastraat,103,,,9801VC,Zuidhorn,Zuidhorn,Groningen,VBO,6.413400,53.249103
 Capellastraat,105,,,9801VC,Zuidhorn,Zuidhorn,Groningen,VBO,6.413397,53.249060
 Capellastraat,107,,,9801VC,Zuidhorn,Zuidhorn,Groningen,VBO,6.413252,53.248864
 Capellastraat,109,,,9801VC,Zuidhorn,Zuidhorn,Groningen,VBO,6.413392,53.248865
-Cursastraat,1,,,9801VC,Zuidhorn,Zuidhorn,Groningen,VBO,6.410626,53.248246
+Cursastraat,1,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.410626,53.248246
 Cursastraat,3,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.411462,53.248372
 Cursastraat,4,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.411278,53.248776
 Cursastraat,5,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.411850,53.248409
@@ -2982,7 +2973,6 @@ Cursastraat,29,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.412889,53.248526
 Cursastraat,30,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.413411,53.248887
 Cursastraat,31,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.412911,53.248454
 Cursastraat,33,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.412929,53.248377
-Izarstraat,22,,,9801VD,Zuidhorn,Zuidhorn,Groningen,VBO,6.413040,53.248210
 Gemmastraat,1,,,9801VG,Zuidhorn,Zuidhorn,Groningen,VBO,6.411315,53.247788
 Gemmastraat,2,,,9801VG,Zuidhorn,Zuidhorn,Groningen,VBO,6.411458,53.248150
 Gemmastraat,3,,,9801VG,Zuidhorn,Zuidhorn,Groningen,VBO,6.411131,53.247760
@@ -3103,6 +3093,7 @@ Izarstraat,18,,,9801VH,Zuidhorn,Zuidhorn,Groningen,VBO,6.413409,53.248296
 Izarstraat,19,,,9801VH,Zuidhorn,Zuidhorn,Groningen,VBO,6.413377,53.248252
 Izarstraat,20,,,9801VH,Zuidhorn,Zuidhorn,Groningen,VBO,6.413254,53.248235
 Izarstraat,21,,,9801VH,Zuidhorn,Zuidhorn,Groningen,VBO,6.413145,53.248223
+Izarstraat,22,,,9801VH,Zuidhorn,Zuidhorn,Groningen,VBO,6.413040,53.248210
 Izarstraat,23,,,9801VH,Zuidhorn,Zuidhorn,Groningen,VBO,6.412903,53.248191
 Izarstraat,24,,,9801VH,Zuidhorn,Zuidhorn,Groningen,VBO,6.413348,53.248904
 Izarstraat,25,,,9801VH,Zuidhorn,Zuidhorn,Groningen,VBO,6.413352,53.249013
@@ -3263,7 +3254,9 @@ Agenastraat,5,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410225,53.250500
 Agenastraat,7,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410305,53.250506
 Agenastraat,9,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410395,53.250513
 Agenastraat,11,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410551,53.250545
+Agenastraat,12,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410090,53.250772
 Agenastraat,13,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410633,53.250554
+Agenastraat,14,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410186,53.250782
 Agenastraat,15,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410714,53.250563
 Agenastraat,16,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410414,53.250816
 Agenastraat,17,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.410875,53.250561
@@ -3274,7 +3267,11 @@ Agenastraat,23,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.411258,53.250600
 Agenastraat,25,,,9801WB,Zuidhorn,Zuidhorn,Groningen,VBO,6.411605,53.250647
 Antaresstraat,4,,,9801WC,Zuidhorn,Zuidhorn,Groningen,VBO,6.412365,53.250751
 Antaresstraat,9,,,9801WC,Zuidhorn,Zuidhorn,Groningen,VBO,6.411597,53.251589
+Boteinstraat,4,a,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410626,53.251235
+Boteinstraat,4,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410709,53.251244
+Boteinstraat,6,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410423,53.251214
 Boteinstraat,7,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410651,53.251452
+Boteinstraat,8,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410331,53.251205
 Boteinstraat,9,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410569,53.251444
 Boteinstraat,10,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410133,53.251184
 Boteinstraat,11,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410490,53.251436
@@ -3284,7 +3281,8 @@ Boteinstraat,14,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.409972,53.251167
 Boteinstraat,15,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410222,53.251407
 Boteinstraat,16,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.409891,53.251158
 Boteinstraat,17,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.410135,53.251398
+Boteinstraat,18,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.409705,53.251139
 Boteinstraat,19,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.409924,53.251376
+Boteinstraat,20,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.409622,53.251130
 Boteinstraat,21,,,9801WH,Zuidhorn,Zuidhorn,Groningen,VBO,6.409837,53.251367
 Anserstraat,1,,,9801WK,Zuidhorn,Zuidhorn,Groningen,VBO,6.408909,53.250496
-Rijksstraatweg,1,,,9801WK,Zuidhorn,Zuidhorn,Groningen,VBO,6.407638,53.250225

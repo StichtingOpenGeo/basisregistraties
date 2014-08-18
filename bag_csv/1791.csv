@@ -339,6 +339,7 @@ Haffelderweg,32,,,1791AS,Den Burg,Texel,Noord-Holland,VBO,4.800572,53.051605
 Haffelderweg,34,,,1791AS,Den Burg,Texel,Noord-Holland,VBO,4.800597,53.051563
 Haffelderweg,36,,,1791AS,Den Burg,Texel,Noord-Holland,VBO,4.800626,53.051523
 Haffelderweg,40,,,1791AS,Den Burg,Texel,Noord-Holland,VBO,4.800297,53.050792
+Haffelderweg,44,,,1791AS,Den Burg,Texel,Noord-Holland,STA,4.800484,53.048369
 Haffelderweg,46,,,1791AS,Den Burg,Texel,Noord-Holland,VBO,4.800200,53.049604
 Emmalaan,1,,,1791AT,Den Burg,Texel,Noord-Holland,VBO,4.803290,53.051947
 Emmalaan,3,A,,1791AT,Den Burg,Texel,Noord-Holland,VBO,4.803680,53.051708
@@ -389,7 +390,6 @@ Slingerweg,40,,,1791AW,Den Burg,Texel,Noord-Holland,VBO,4.804268,53.049083
 Slingerweg,41,,,1791AW,Den Burg,Texel,Noord-Holland,VBO,4.805885,53.049172
 Reijer Keijserstraat,1,A,,1791AX,Den Burg,Texel,Noord-Holland,VBO,4.805504,53.050795
 Reijer Keijserstraat,1,,,1791AX,Den Burg,Texel,Noord-Holland,VBO,4.805398,53.050853
-Reijer Keijserstraat,2,A,,1791AX,Den Burg,Texel,Noord-Holland,VBO,4.804880,53.051067
 Reijer Keijserstraat,3,,,1791AX,Den Burg,Texel,Noord-Holland,VBO,4.805021,53.050706
 Reijer Keijserstraat,4,,,1791AX,Den Burg,Texel,Noord-Holland,VBO,4.804813,53.050957
 Reijer Keijserstraat,5,,,1791AX,Den Burg,Texel,Noord-Holland,VBO,4.803803,53.050337
@@ -1003,8 +1003,8 @@ Molenstraat,58,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.795324,53.053023
 Molenstraat,60,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.795340,53.052960
 Molenstraat,62,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.795319,53.052920
 Molenstraat,64,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.795235,53.052851
-Molenstraat,66,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.795005,53.052458
 Molenstraat,66,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.795108,53.052450
+Molenstraat,66,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.795005,53.052458
 Molenstraat,68,A,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.794931,53.052330
 Molenstraat,68,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.795077,53.052400
 Molenstraat,70,,,1791DM,Den Burg,Texel,Noord-Holland,VBO,4.794982,53.052250
@@ -1095,14 +1095,20 @@ Anne Frankstraat,7,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792442,53.051309
 Anne Frankstraat,9,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792514,53.051322
 Anne Frankstraat,11,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792586,53.051339
 Anne Frankstraat,13,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792655,53.051352
+Anne Frankstraat,14,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792209,53.050711
 Anne Frankstraat,15,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792732,53.051394
+Anne Frankstraat,16,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792137,53.050686
 Anne Frankstraat,17,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.793003,53.051367
+Anne Frankstraat,18,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792069,53.050661
 Anne Frankstraat,19,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.793087,53.051250
+Anne Frankstraat,20,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792000,53.050639
 Anne Frankstraat,21,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.793190,53.051133
+Anne Frankstraat,22,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.791923,53.050614
 Anne Frankstraat,23,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.793038,53.050969
 Anne Frankstraat,25,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792942,53.050951
 Anne Frankstraat,27,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792874,53.050933
 Anne Frankstraat,29,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792812,53.050909
+Anne Frankstraat,30,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792067,53.050348
 Anne Frankstraat,31,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792739,53.050888
 Anne Frankstraat,33,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792668,53.050866
 Anne Frankstraat,35,,,1791DT,Den Burg,Texel,Noord-Holland,VBO,4.792613,53.050845
@@ -3475,7 +3481,7 @@ Hoornderweg,20,C,,1791PN,Den Burg,Texel,Noord-Holland,VBO,4.785741,53.039099
 Hoornderweg,20,,,1791PN,Den Burg,Texel,Noord-Holland,VBO,4.786575,53.038839
 Hoornderweg,26,,,1791PN,Den Burg,Texel,Noord-Holland,VBO,4.783209,53.037580
 Westerslag,2,,,1791PP,Den Burg,Texel,Noord-Holland,VBO,4.725691,53.063836
-Westerslag,4,,,1791PP,Den Burg,Texel,Noord-Holland,VBO,4.723993,53.064753
+Westerslag,4,,,1791PP,Den Burg,Texel,Noord-Holland,STA,4.723951,53.064734
 Hoefslag,1,,,1791SB,Den Burg,Texel,Noord-Holland,VBO,4.803505,53.062129
 Hoefslag,3,,,1791SB,Den Burg,Texel,Noord-Holland,VBO,4.803504,53.062174
 Hoefslag,5,,,1791SB,Den Burg,Texel,Noord-Holland,VBO,4.803504,53.062223

@@ -1,4 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
+Diepstraat,1,a,BEDR,4881AA,Wernhout,Zundert,Noord-Brabant,VBO,4.641026,51.454487
 Meidoornstraat,1,a,,4881AA,Zundert,Zundert,Noord-Brabant,VBO,4.658488,51.471897
 Meidoornstraat,1,,,4881AA,Zundert,Zundert,Noord-Brabant,VBO,4.658559,51.471951
 Meidoornstraat,3,,,4881AA,Zundert,Zundert,Noord-Brabant,VBO,4.658120,51.471499
@@ -85,6 +86,7 @@ Plataanstraat,38,,,4881AG,Zundert,Zundert,Noord-Brabant,VBO,4.657204,51.472131
 Eikenlaan,1,,,4881AH,Zundert,Zundert,Noord-Brabant,VBO,4.660675,51.470680
 Eikenlaan,3,,,4881AH,Zundert,Zundert,Noord-Brabant,VBO,4.660625,51.470740
 Eikenlaan,5,,,4881AH,Zundert,Zundert,Noord-Brabant,VBO,4.660191,51.471072
+Eikenlaan,13,,BEDR,4881AH,Zundert,Zundert,Noord-Brabant,VBO,4.659746,51.471456
 Eikenlaan,13,,,4881AH,Zundert,Zundert,Noord-Brabant,VBO,4.659617,51.471499
 Eikenlaan,15,,,4881AH,Zundert,Zundert,Noord-Brabant,VBO,4.659486,51.471624
 Eikenlaan,17,,,4881AH,Zundert,Zundert,Noord-Brabant,VBO,4.659355,51.471695
@@ -103,6 +105,7 @@ Eikenlaan,20,,,4881AJ,Zundert,Zundert,Noord-Brabant,VBO,4.659974,51.471717
 Eikenlaan,22,,,4881AJ,Zundert,Zundert,Noord-Brabant,VBO,4.659828,51.471806
 Eikenlaan,24,,,4881AJ,Zundert,Zundert,Noord-Brabant,VBO,4.659654,51.471895
 Eikenlaan,26,,,4881AJ,Zundert,Zundert,Noord-Brabant,VBO,4.659480,51.471975
+Eikenlaan,28,,BEDR,4881AJ,Zundert,Zundert,Noord-Brabant,VBO,4.659260,51.472099
 Eikenlaan,28,,,4881AJ,Zundert,Zundert,Noord-Brabant,VBO,4.659320,51.472073
 Eikenlaan,34,,,4881AJ,Zundert,Zundert,Noord-Brabant,VBO,4.658741,51.472312
 Eikenlaan,36,,,4881AJ,Zundert,Zundert,Noord-Brabant,VBO,4.658567,51.472374
@@ -234,9 +237,11 @@ Elzenstraat,17,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.660554,51.473249
 Elzenstraat,19,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.660322,51.473337
 Elzenstraat,21,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.659959,51.473524
 Elzenstraat,23,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.659887,51.473550
+Elzenstraat,25,,CORS,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.661257,51.473806
 Elzenstraat,25,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.659728,51.473612
 Elzenstraat,27,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.659641,51.473639
 Elzenstraat,29,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.659467,51.473701
+Elzenstraat,31,,BEDR,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.659076,51.473757
 Elzenstraat,31,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.659162,51.473842
 Elzenstraat,33,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.659018,51.473904
 Elzenstraat,35,,,4881AT,Zundert,Zundert,Noord-Brabant,VBO,4.658858,51.473957
@@ -257,7 +262,9 @@ Elzenstraat,36,,,4881AV,Zundert,Zundert,Noord-Brabant,VBO,4.659028,51.474138
 Achtmaalseweg,128,a,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.632096,51.465508
 Achtmaalseweg,128,,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.634678,51.466047
 Achtmaalseweg,130,a,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.631370,51.465890
+Achtmaalseweg,130,b,BEDR,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.630998,51.465790
 Achtmaalseweg,130,b,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.631121,51.465304
+Achtmaalseweg,130,c,BEDR,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.629728,51.465552
 Achtmaalseweg,130,c,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.630696,51.464915
 Achtmaalseweg,130,d,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.630068,51.464605
 Achtmaalseweg,130,e,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.629939,51.464560
@@ -268,9 +275,10 @@ Achtmaalseweg,132,,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.629272,51.464888
 Achtmaalseweg,136,a,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.628367,51.463928
 Achtmaalseweg,136,,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.628567,51.464011
 Achtmaalseweg,138,,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.627121,51.463544
-Achtmaalseweg,140,,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.626060,51.463341
 Achtmaalseweg,140,,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.626002,51.463330
+Achtmaalseweg,140,,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.626060,51.463341
 Achtmaalseweg,142,a,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.622703,51.462706
+Achtmaalseweg,142,,BEDR,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.624399,51.463079
 Achtmaalseweg,142,,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.624711,51.463087
 Achtmaalseweg,144,a,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.619584,51.464159
 Achtmaalseweg,144,b,,4881AW,Zundert,Zundert,Noord-Brabant,VBO,4.619007,51.464246
@@ -284,16 +292,18 @@ Achtmaalseweg,152,,,4881AX,Zundert,Zundert,Noord-Brabant,VBO,4.613364,51.463516
 Achtmaalseweg,156,a,,4881AX,Zundert,Zundert,Noord-Brabant,VBO,4.606361,51.464881
 Achtmaalseweg,156,b,,4881AX,Zundert,Zundert,Noord-Brabant,VBO,4.604826,51.465455
 Achtmaalseweg,156,,,4881AX,Zundert,Zundert,Noord-Brabant,VBO,4.610362,51.464053
+Wernhoutseweg,100,a,KANT,4881AX,Wernhout,Zundert,Noord-Brabant,VBO,4.644118,51.455344
 Achtmaalseweg,121,a,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.633480,51.465401
 Achtmaalseweg,121,b,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.633036,51.465254
 Achtmaalseweg,121,,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.633652,51.465447
 Achtmaalseweg,123,,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.632106,51.464025
 Achtmaalseweg,125,a,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.630707,51.461670
 Achtmaalseweg,125,,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.632736,51.462492
-Achtmaalseweg,127,a,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.628128,51.463586
 Achtmaalseweg,127,a,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.628420,51.463492
+Achtmaalseweg,127,a,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.628128,51.463586
 Achtmaalseweg,127,,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.630548,51.461669
 Achtmaalseweg,129,a,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.623526,51.462531
+Achtmaalseweg,129,,BEDR,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.627229,51.462784
 Achtmaalseweg,129,,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.627432,51.463015
 Achtmaalseweg,131,a,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.620932,51.461912
 Achtmaalseweg,131,b,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.620042,51.461780
@@ -302,6 +312,7 @@ Achtmaalseweg,133,,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.616118,51.462339
 Achtmaalseweg,135,,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.613207,51.460917
 Achtmaalseweg,137,a,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.609589,51.463770
 Achtmaalseweg,137,,,4881AZ,Zundert,Zundert,Noord-Brabant,VBO,4.611252,51.463286
+Veldstraat,1,,WINK,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.660202,51.475263
 Veldstraat,1,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.660262,51.475270
 Veldstraat,5,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.659990,51.475178
 Veldstraat,7,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.659904,51.475150
@@ -314,6 +325,7 @@ Veldstraat,19,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.659370,51.474815
 Veldstraat,21,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.659273,51.474735
 Veldstraat,23,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.659230,51.474685
 Veldstraat,25,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.659136,51.474588
+Veldstraat,27,,BEDR,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.659176,51.474384
 Veldstraat,27,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.659065,51.474516
 Veldstraat,29,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.658938,51.474389
 Veldstraat,31,,,4881BA,Zundert,Zundert,Noord-Brabant,VBO,4.658867,51.474308
@@ -347,6 +359,7 @@ Veldstraat,6,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.659942,51.475474
 Veldstraat,8,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.659857,51.475447
 Veldstraat,10,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.659613,51.475355
 Veldstraat,12,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.659328,51.475219
+Veldstraat,14,,BEDR,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.658897,51.475182
 Veldstraat,14,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.659142,51.475092
 Veldstraat,16,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.659015,51.474965
 Veldstraat,18,a,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.658845,51.474811
@@ -361,11 +374,13 @@ Veldstraat,30,b,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.658108,51.474088
 Veldstraat,30,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.658249,51.474250
 Veldstraat,32,a,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657967,51.473916
 Veldstraat,32,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.658052,51.474006
+Veldstraat,34,,BEDR,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657703,51.474020
 Veldstraat,34,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657896,51.473835
 Veldstraat,38,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657154,51.474244
 Veldstraat,40,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657828,51.473600
 Veldstraat,42,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657671,51.473492
 Veldstraat,44,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657572,51.473401
+Veldstraat,46,,BEDR,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657331,51.473558
 Veldstraat,46,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.657515,51.473338
 Veldstraat,48,,,4881BC,Zundert,Zundert,Noord-Brabant,VBO,4.656135,51.473662
 Veldstraat,50,,,4881BD,Zundert,Zundert,Noord-Brabant,VBO,4.657488,51.473221
@@ -386,21 +401,26 @@ Veldstraat,74,,,4881BD,Zundert,Zundert,Noord-Brabant,VBO,4.656353,51.472013
 Veldstraat,76,,,4881BD,Zundert,Zundert,Noord-Brabant,VBO,4.656315,51.471910
 Veldstraat,78,,,4881BD,Zundert,Zundert,Noord-Brabant,VBO,4.656245,51.471793
 Veldstraat,80,,,4881BD,Zundert,Zundert,Noord-Brabant,VBO,4.656174,51.471684
+Veldstraat,82,,BEDR,4881BD,Zundert,Zundert,Noord-Brabant,VBO,4.656029,51.471606
 Veldstraat,82,,,4881BD,Zundert,Zundert,Noord-Brabant,VBO,4.656106,51.471486
 Veldstraat,84,,,4881BD,Zundert,Zundert,Noord-Brabant,VBO,4.656078,51.471441
 Klein Zundertseweg,1,a,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659504,51.475885
 Klein Zundertseweg,1,b,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659459,51.476020
 Klein Zundertseweg,1,c,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659414,51.476136
 Klein Zundertseweg,1,d,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659311,51.476252
+Klein Zundertseweg,1,e,BEDR,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659119,51.476387
 Klein Zundertseweg,1,e,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659209,51.476360
 Klein Zundertseweg,1,f,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658541,51.476717
 Klein Zundertseweg,1,g,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658365,51.476729
+Klein Zundertseweg,1,h,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658286,51.476815
 Klein Zundertseweg,1,k,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658214,51.476905
 Klein Zundertseweg,1,l,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658121,51.477009
 Klein Zundertseweg,1,m,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658069,51.477115
 Klein Zundertseweg,1,n,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.657953,51.477528
 Klein Zundertseweg,1,,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659665,51.475751
+Klein Zundertseweg,2,a,WINK,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659991,51.476078
 Klein Zundertseweg,2,a,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.660034,51.476041
+Klein Zundertseweg,2,,BEDR,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.660162,51.475966
 Klein Zundertseweg,2,,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.660151,51.475907
 Klein Zundertseweg,4,,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659860,51.476148
 Klein Zundertseweg,6,,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.659801,51.476219
@@ -422,6 +442,7 @@ Klein Zundertseweg,26,c,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658711,51.47
 Klein Zundertseweg,26,d,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658652,51.477884
 Klein Zundertseweg,26,e,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658607,51.478001
 Klein Zundertseweg,26,,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658903,51.477481
+Klein Zundertseweg,28,a,BEDR,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658575,51.478435
 Klein Zundertseweg,28,a,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658545,51.478243
 Klein Zundertseweg,28,,,4881BG,Zundert,Zundert,Noord-Brabant,VBO,4.658584,51.478129
 Kapellekestraat,1,,,4881BJ,Zundert,Zundert,Noord-Brabant,VBO,4.662166,51.476881
@@ -438,9 +459,11 @@ Kapellekestraat,2,,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662728,51.476831
 Kapellekestraat,4,a,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662579,51.477109
 Kapellekestraat,4,,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662639,51.476992
 Kapellekestraat,6,a,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662747,51.477376
+Kapellekestraat,6,,BEDR,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.663011,51.477694
 Kapellekestraat,6,,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662518,51.477333
 Kapellekestraat,8,,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662328,51.477539
 Kapellekestraat,10,,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662152,51.477744
+Kapellekestraat,12,,BEDR,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662142,51.477893
 Kapellekestraat,12,,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.662005,51.477932
 Kapellekestraat,14,,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.661880,51.478165
 Kapellekestraat,16,,,4881BK,Zundert,Zundert,Noord-Brabant,VBO,4.661682,51.478344
@@ -453,6 +476,8 @@ Akkermolenweg,2,,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.664098,51.476651
 Akkermolenweg,3,a,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.663993,51.476902
 Akkermolenweg,3,b,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.664193,51.477047
 Akkermolenweg,3,,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.663750,51.476792
+Akkermolenweg,4,,CORS,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.667514,51.478598
+Akkermolenweg,4,,NST,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.667201,51.478392
 Akkermolenweg,4,,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.667152,51.478333
 Akkermolenweg,5,,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.664510,51.476986
 Akkermolenweg,6,,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.668694,51.479420
@@ -480,6 +505,7 @@ Akkermolenweg,33,a,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.672193,51.481833
 Akkermolenweg,33,,,4881BL,Zundert,Zundert,Noord-Brabant,VBO,4.672136,51.481797
 Akkermolenpad,3,b,,4881BM,Zundert,Zundert,Noord-Brabant,VBO,4.669767,51.481360
 Akkermolenpad,3,,,4881BM,Zundert,Zundert,Noord-Brabant,VBO,4.669283,51.481060
+Akkermolenpad,7,,BEDR,4881BM,Zundert,Zundert,Noord-Brabant,VBO,4.671025,51.482320
 Akkermolenpad,7,,,4881BM,Zundert,Zundert,Noord-Brabant,VBO,4.670923,51.482014
 Akkermolenpad,9,,,4881BM,Zundert,Zundert,Noord-Brabant,VBO,4.672338,51.482670
 Akkermolenpad,11,,,4881BM,Zundert,Zundert,Noord-Brabant,VBO,4.672822,51.483024
@@ -537,10 +563,12 @@ Willem Passtoorsstraat,10,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.666841,51
 Willem Passtoorsstraat,12,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.666711,51.475301
 Willem Passtoorsstraat,14,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.666623,51.475354
 Willem Passtoorsstraat,16,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.666507,51.475443
+Willem Passtoorsstraat,18,,BEDR,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.666519,51.475572
 Willem Passtoorsstraat,18,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.666347,51.475523
 Willem Passtoorsstraat,20,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.666246,51.475576
 Willem Passtoorsstraat,22,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.666144,51.475630
 Willem Passtoorsstraat,26,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.665897,51.475763
+Willem Passtoorsstraat,28,,BEDR,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.665930,51.475906
 Willem Passtoorsstraat,28,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.665708,51.475861
 Willem Passtoorsstraat,30,a,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.665534,51.475976
 Willem Passtoorsstraat,30,,,4881BR,Zundert,Zundert,Noord-Brabant,VBO,4.665607,51.475923
@@ -643,8 +671,8 @@ Zandakker,27,,,4881BV,Zundert,Zundert,Noord-Brabant,VBO,4.660761,51.477031
 Zandakker,29,,,4881BV,Zundert,Zundert,Noord-Brabant,VBO,4.660700,51.477080
 Kastanjelaan,2,,,4881BZ,Zundert,Zundert,Noord-Brabant,VBO,4.660000,51.470944
 Hertogstraat,1,a,,4881CA,Zundert,Zundert,Noord-Brabant,VBO,4.661492,51.474919
-Hertogstraat,1,,,4881CA,Zundert,Zundert,Noord-Brabant,VBO,4.661264,51.474902
 Hertogstraat,1,,,4881CA,Zundert,Zundert,Noord-Brabant,VBO,4.661275,51.474941
+Hertogstraat,1,,,4881CA,Zundert,Zundert,Noord-Brabant,VBO,4.661264,51.474902
 Hertogstraat,3,,,4881CA,Zundert,Zundert,Noord-Brabant,VBO,4.661592,51.474945
 Hertogstraat,5,,,4881CA,Zundert,Zundert,Noord-Brabant,VBO,4.661735,51.474982
 Hertogstraat,7,,,4881CA,Zundert,Zundert,Noord-Brabant,VBO,4.661864,51.475019
@@ -833,6 +861,7 @@ Markt,3,,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664246,51.472657
 Markt,4,,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664198,51.472698
 Markt,5,,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664146,51.472732
 Markt,6,a,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664001,51.472821
+Markt,6,,BEDR,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.663686,51.472690
 Markt,6,,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664044,51.472794
 Markt,9,,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.663855,51.472901
 Markt,10,,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.663811,51.472972
@@ -842,6 +871,7 @@ Markt,12,b,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664381,51.473345
 Markt,12,c,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664439,51.473300
 Markt,12,d,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664497,51.473264
 Markt,13,,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664614,51.473193
+Markt,14,,WINK,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664631,51.473153
 Markt,14,,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664658,51.473130
 Markt,15,a,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664789,51.473050
 Markt,15,b,,4881CN,Zundert,Zundert,Noord-Brabant,VBO,4.664818,51.473033
@@ -899,6 +929,7 @@ Molenstraat,21,b,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.662692,51.470916
 Molenstraat,21,c,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.662750,51.470934
 Molenstraat,21,d,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.662721,51.470916
 Molenstraat,21,,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.662721,51.470952
+Molenstraat,23,,WINK,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.662474,51.470861
 Molenstraat,23,,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.662520,51.470888
 Molenstraat,25,,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.662343,51.470806
 Molenstraat,27,a,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.662170,51.470706
@@ -911,6 +942,7 @@ Molenstraat,31,a,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661981,51.470653
 Molenstraat,31,b,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661915,51.470632
 Molenstraat,31,c,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661885,51.470621
 Molenstraat,31,d,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661944,51.470643
+Molenstraat,33,,WINK,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661735,51.470583
 Molenstraat,33,,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661791,51.470596
 Molenstraat,35,,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661648,51.470523
 Molenstraat,39,,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661505,51.470486
@@ -925,6 +957,7 @@ Molenstraat,47,b,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661135,51.470212
 Molenstraat,47,c,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661293,51.470024
 Molenstraat,47,,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.661062,51.470302
 Molenstraat,51,a,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.660862,51.470230
+Molenstraat,51,b,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.660887,51.470186
 Molenstraat,51,c,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.660917,51.470156
 Molenstraat,51,,,4881CP,Zundert,Zundert,Noord-Brabant,VBO,4.660838,51.470262
 Molenstraat,53,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.660660,51.470220
@@ -935,9 +968,11 @@ Molenstraat,59,a,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.660268,51.470074
 Molenstraat,59,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.660296,51.470082
 Molenstraat,61,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.660173,51.470064
 Molenstraat,63,a,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659944,51.469991
+Molenstraat,63,,CLUB,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659993,51.470016
 Molenstraat,63,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.660044,51.470028
 Molenstraat,65,a,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659844,51.469927
 Molenstraat,65,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659858,51.469955
+Molenstraat,67,a,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659789,51.469891
 Molenstraat,67,b,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659752,51.469914
 Molenstraat,67,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659772,51.469927
 Molenstraat,69,a,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659652,51.469882
@@ -953,6 +988,7 @@ Molenstraat,79,a,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659310,51.469720
 Molenstraat,79,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659286,51.469744
 Molenstraat,81,a,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659242,51.469704
 Molenstraat,81,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659228,51.469726
+Molenstraat,83,,WINK,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659106,51.469679
 Molenstraat,83,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659141,51.469685
 Molenstraat,85,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.659057,51.469662
 Molenstraat,87,,,4881CR,Zundert,Zundert,Noord-Brabant,VBO,4.658957,51.469607
@@ -963,16 +999,19 @@ Molenstraat,4,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.664231,51.472356
 Molenstraat,4,b,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.664243,51.472362
 Molenstraat,4,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.664221,51.472351
 Molenstraat,6,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663928,51.472224
+Molenstraat,6,,WINK,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663970,51.472204
 Molenstraat,6,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.664095,51.472291
 Molenstraat,10,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663653,51.472256
 Molenstraat,10,b,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663568,51.472299
 Molenstraat,10,c,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663483,51.472347
+Molenstraat,10,d,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663413,51.472392
 Molenstraat,10,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663853,51.472128
 Molenstraat,12,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663801,51.472166
 Molenstraat,12,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663839,51.472128
 Molenstraat,14,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663739,51.472064
 Molenstraat,14,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663782,51.472091
 Molenstraat,16,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663668,51.472010
+Molenstraat,18,,CAFE,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663623,51.471936
 Molenstraat,18,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663583,51.471946
 Molenstraat,20,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663511,51.471937
 Molenstraat,20,b,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663482,51.471937
@@ -982,10 +1021,13 @@ Molenstraat,22,b,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663454,51.471874
 Molenstraat,22,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663512,51.471892
 Molenstraat,24,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663442,51.471775
 Molenstraat,24,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663441,51.471784
+Molenstraat,26,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663396,51.471718
 Molenstraat,26,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663371,51.471684
 Molenstraat,28,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663308,51.471603
 Molenstraat,28,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663315,51.471612
+Molenstraat,30,,WINK,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663226,51.471503
 Molenstraat,30,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663258,51.471531
+Molenstraat,34,,REST,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663156,51.471449
 Molenstraat,34,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663116,51.471422
 Molenstraat,36,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663017,51.471340
 Molenstraat,36,b,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.662974,51.471313
@@ -995,6 +1037,7 @@ Molenstraat,36,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.663059,51.471368
 Molenstraat,38,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.662873,51.471313
 Molenstraat,38,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.662917,51.471286
 Molenstraat,40,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.662831,51.471240
+Molenstraat,42,,WINK,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.662771,51.471204
 Molenstraat,42,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.662736,51.471180
 Molenstraat,46,,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.662603,51.471122
 Molenstraat,48,a,,4881CS,Zundert,Zundert,Noord-Brabant,VBO,4.662494,51.471106
@@ -1030,11 +1073,14 @@ Molenstraat,82,a,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660613,51.470409
 Molenstraat,82,b,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660643,51.470391
 Molenstraat,82,c,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660614,51.470373
 Molenstraat,82,,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660671,51.470391
+Molenstraat,84,,WINK,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660491,51.470373
 Molenstraat,84,,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660514,51.470345
+Molenstraat,86,,WINK,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660381,51.470305
 Molenstraat,86,,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660313,51.470281
 Molenstraat,90,,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660127,51.470283
 Molenstraat,92,a,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.660068,51.470212
 Molenstraat,92,,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.659983,51.470249
+Molenstraat,96,,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.659901,51.470151
 Molenstraat,100,a,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.659668,51.470106
 Molenstraat,100,b,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.659697,51.470088
 Molenstraat,100,c,,4881CT,Zundert,Zundert,Noord-Brabant,VBO,4.659669,51.470070
@@ -1054,6 +1100,7 @@ Molenstraat,116,b,,4881CV,Zundert,Zundert,Noord-Brabant,VBO,4.659186,51.469948
 Molenstraat,116,,,4881CV,Zundert,Zundert,Noord-Brabant,VBO,4.659239,51.469931
 Molenstraat,118,a,,4881CV,Zundert,Zundert,Noord-Brabant,VBO,4.659013,51.469877
 Molenstraat,118,,,4881CV,Zundert,Zundert,Noord-Brabant,VBO,4.659058,51.469842
+Molenstraat,120,,WINK,4881CV,Zundert,Zundert,Noord-Brabant,VBO,4.658913,51.469816
 Molenstraat,120,,,4881CV,Zundert,Zundert,Noord-Brabant,VBO,4.658941,51.469787
 Molenstraat,122,,,4881CV,Zundert,Zundert,Noord-Brabant,VBO,4.658854,51.469752
 Molenstraat,124,a,,4881CV,Zundert,Zundert,Noord-Brabant,VBO,4.658651,51.469794
@@ -1166,6 +1213,7 @@ Bredaseweg,4,,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.667114,51.473433
 Bredaseweg,6,,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.667681,51.474039
 Bredaseweg,8,,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.667750,51.474201
 Bredaseweg,10,a,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.668635,51.474683
+Bredaseweg,10,,REST,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.667949,51.474463
 Bredaseweg,10,,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.667919,51.474409
 Bredaseweg,12,a,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.668755,51.475102
 Bredaseweg,12,b,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.668876,51.475277
@@ -1177,6 +1225,7 @@ Bredaseweg,26,,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.670851,51.477755
 Bredaseweg,28,,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.670875,51.477779
 Bredaseweg,30,b,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.671582,51.478584
 Bredaseweg,30,,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.670892,51.477804
+Bredaseweg,31,,BEDR,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.675424,51.484603
 Bredaseweg,32,a,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.672988,51.479774
 Bredaseweg,32,c,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.673866,51.481266
 Bredaseweg,32,d,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.674812,51.482056
@@ -1187,27 +1236,32 @@ Bredaseweg,36,b,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.677554,51.484212
 Bredaseweg,38,a,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.675747,51.483797
 Bredaseweg,38,,,4881DE,Zundert,Zundert,Noord-Brabant,VBO,4.675676,51.483742
 Vincent van Goghplein,1,,,4881DG,Zundert,Zundert,Noord-Brabant,VBO,4.666302,51.472680
+Meirseweg,1,,BEDR,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.668273,51.473169
 Meirseweg,1,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.668315,51.473045
 Meirseweg,5,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.670017,51.472804
 Meirseweg,7,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.670161,51.472796
 Meirseweg,9,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.670277,51.472797
 Meirseweg,11,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.670363,51.472788
 Meirseweg,13,a,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.670866,51.472818
+Meirseweg,13,b,KANT,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.671412,51.472690
 Meirseweg,13,b,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.671256,51.472767
 Meirseweg,13,c,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.671690,51.472643
 Meirseweg,13,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.670632,51.473059
 Meirseweg,15,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.672413,51.472378
+Meirseweg,17,,BEDR,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.673323,51.472564
 Meirseweg,17,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.673207,51.472284
 Meirseweg,19,a,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.673820,51.472656
 Meirseweg,19,b,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.673790,51.472728
 Meirseweg,19,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.673766,51.472404
 Meirseweg,21,a,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.676782,51.472809
+Meirseweg,21,,BEDR,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.675949,51.474177
 Meirseweg,21,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.674351,51.472759
 Meirseweg,23,a,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.680718,51.473319
 Meirseweg,23,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.678691,51.472264
 Meirseweg,25,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.681484,51.472173
 Meirseweg,27,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.682077,51.471997
 Meirseweg,33,a,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.683810,51.469401
+Meirseweg,33,,BEDR,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.683024,51.471487
 Meirseweg,33,,,4881DH,Zundert,Zundert,Noord-Brabant,VBO,4.683349,51.470764
 Meirseweg,2,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.667253,51.472868
 Meirseweg,4,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.667831,51.472683
@@ -1225,9 +1279,11 @@ Meirseweg,16,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.672865,51.472003
 Meirseweg,20,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.673023,51.472022
 Meirseweg,22,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.673110,51.472023
 Meirseweg,24,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.673311,51.472033
+Meirseweg,26,a,BEDR,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.676283,51.472226
 Meirseweg,26,a,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.676806,51.472216
 Meirseweg,26,b,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.679100,51.471853
 Meirseweg,26,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.674816,51.471503
+Meirseweg,28,,BEDR,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.678357,51.470574
 Meirseweg,28,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.680771,51.471782
 Meirseweg,30,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.681086,51.471874
 Meirseweg,32,,,4881DJ,Zundert,Zundert,Noord-Brabant,VBO,4.681389,51.471842
@@ -1274,17 +1330,23 @@ Nederven,10,,,4881DM,Zundert,Zundert,Noord-Brabant,VBO,4.670142,51.474000
 Nederven,12,,,4881DM,Zundert,Zundert,Noord-Brabant,VBO,4.669824,51.474124
 Nederven,14,,,4881DM,Zundert,Zundert,Noord-Brabant,VBO,4.669491,51.474230
 Nederven,16,,,4881DM,Zundert,Zundert,Noord-Brabant,VBO,4.669102,51.474255
+Rustenburgstraat,1,a,BEDR,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.681081,51.466923
 Rustenburgstraat,1,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.680748,51.466964
+Rustenburgstraat,1,b,BEDR,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.676794,51.466289
 Rustenburgstraat,1,b,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.676396,51.466171
 Rustenburgstraat,1,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.683361,51.468945
+Rustenburgstraat,2,a,BEDR,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.681833,51.468162
 Rustenburgstraat,2,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.681939,51.467933
 Rustenburgstraat,2,b,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.681897,51.467861
 Rustenburgstraat,2,c,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.681134,51.467913
 Rustenburgstraat,2,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.682685,51.469016
 Rustenburgstraat,3,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.675499,51.465601
 Rustenburgstraat,3,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.675598,51.465674
+Rustenburgstraat,4,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.678585,51.467446
 Rustenburgstraat,4,b,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.678379,51.467300
 Rustenburgstraat,5,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.675589,51.463409
+Rustenburgstraat,5,,BEDR,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.675054,51.465202
+Rustenburgstraat,5,,KANT,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.674964,51.465092
 Rustenburgstraat,5,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.674791,51.465098
 Rustenburgstraat,6,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.676804,51.466832
 Rustenburgstraat,6,b,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.675989,51.466449
@@ -1293,11 +1355,14 @@ Rustenburgstraat,7,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.672952,51.463752
 Rustenburgstraat,8,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.675193,51.465851
 Rustenburgstraat,9,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.671627,51.462890
 Rustenburgstraat,9,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.672767,51.463625
+Rustenburgstraat,10,,BEDR,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.674348,51.465399
 Rustenburgstraat,10,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.674253,51.465225
 Rustenburgstraat,11,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.672219,51.461869
 Rustenburgstraat,12,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.672975,51.464103
 Rustenburgstraat,12,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.673772,51.464647
+Rustenburgstraat,14,a,CLUB,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.669698,51.462797
 Rustenburgstraat,14,a,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.669794,51.462321
+Rustenburgstraat,14,,BEDR,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.671793,51.463539
 Rustenburgstraat,14,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.672062,51.463603
 Rustenburgstraat,16,,,4881DN,Zundert,Zundert,Noord-Brabant,VBO,4.669155,51.461751
 Gaardsebaan,1,,,4881DP,Zundert,Zundert,Noord-Brabant,VBO,4.665451,51.462133
@@ -1314,6 +1379,7 @@ Gaardsebaan,10,,,4881DP,Zundert,Zundert,Noord-Brabant,VBO,4.668709,51.460868
 Gaardsebaan,12,,,4881DP,Zundert,Zundert,Noord-Brabant,VBO,4.669517,51.460693
 Gaardsebaan,14,,,4881DP,Zundert,Zundert,Noord-Brabant,VBO,4.670398,51.460482
 Gaardsebaan,20,,,4881DP,Zundert,Zundert,Noord-Brabant,VBO,4.678857,51.456930
+Gaardsebaan,24,,BEDR,4881DP,Zundert,Zundert,Noord-Brabant,VBO,4.680414,51.455845
 Gaardsebaan,24,,,4881DP,Zundert,Zundert,Noord-Brabant,VBO,4.680457,51.455461
 Hofdreef,2,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.670302,51.475745
 Hofdreef,4,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.670508,51.475545
@@ -1322,6 +1388,7 @@ Hofdreef,10,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.670365,51.475247
 Hofdreef,14,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.670612,51.475174
 Hofdreef,16,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.670678,51.475258
 Hofdreef,18,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.670767,51.475370
+Hofdreef,20,,KANT,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.671032,51.475374
 Hofdreef,20,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.670942,51.475399
 Hofdreef,22,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.671432,51.475312
 Hofdreef,24,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.672460,51.474940
@@ -1338,6 +1405,7 @@ Hofdreef,42,a,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.674887,51.473445
 Hofdreef,42,b,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.674800,51.473445
 Hofdreef,42,c,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.674700,51.473448
 Hofdreef,42,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.674700,51.473448
+Hofdreef,44,,KANT,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.674928,51.473310
 Hofdreef,44,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.674933,51.473266
 Hofdreef,46,,,4881DR,Zundert,Zundert,Noord-Brabant,VBO,4.674908,51.472978
 Het Laar,1,,,4881DS,Zundert,Zundert,Noord-Brabant,VBO,4.672493,51.473841
@@ -1517,12 +1585,17 @@ Koperwiek,59,,,4881DZ,Zundert,Zundert,Noord-Brabant,VBO,4.667516,51.471719
 Koperwiek,61,,,4881DZ,Zundert,Zundert,Noord-Brabant,VBO,4.667559,51.471683
 Koperwiek,63,,,4881DZ,Zundert,Zundert,Noord-Brabant,VBO,4.667603,51.471639
 Koperwiek,65,,,4881DZ,Zundert,Zundert,Noord-Brabant,VBO,4.667661,51.471603
+Oude Gasthuisstraat,1,,BEDR,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.672354,51.471211
 Oude Gasthuisstraat,1,,,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.672769,51.471715
+Oude Gasthuisstraat,3,,BEDR,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.671323,51.470630
 Oude Gasthuisstraat,3,,,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.671761,51.470836
 Oude Gasthuisstraat,5,,,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.671266,51.470259
 Oude Gasthuisstraat,7,,,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.671109,51.470186
+Oude Gasthuisstraat,9,,BEDR,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.669293,51.469066
 Oude Gasthuisstraat,9,,,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.670617,51.470390
 Oude Gasthuisstraat,12,,,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.666710,51.469862
+Oude Gasthuisstraat,14,,BEDR,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.666166,51.468887
+Oude Gasthuisstraat,14,,NST,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.666448,51.468847
 Oude Gasthuisstraat,14,,,4881EA,Zundert,Zundert,Noord-Brabant,VBO,4.666516,51.468881
 Laarpark,1,,,4881EB,Zundert,Zundert,Noord-Brabant,VBO,4.667883,51.470364
 Laarpark,3,,,4881EB,Zundert,Zundert,Noord-Brabant,VBO,4.668101,51.470194
@@ -1681,8 +1754,7 @@ Burgemeester Manderslaan,58,,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.665932,
 Burgemeester Manderslaan,60,,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.666278,51.469895
 Burgemeester Manderslaan,62,,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.666375,51.470139
 Burgemeester Manderslaan,64,,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.666561,51.470230
-Burgemeester Manderslaan,66,a,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.666775,51.470339
-Burgemeester Manderslaan,66,,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.666689,51.470285
+Burgemeester Manderslaan,66,,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.666741,51.470320
 Burgemeester Manderslaan,68,,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.667018,51.470439
 Burgemeester Manderslaan,70,,,4881EK,Zundert,Zundert,Noord-Brabant,VBO,4.667161,51.470512
 Burgemeester Manderslaan,72,,,4881EL,Zundert,Zundert,Noord-Brabant,VBO,4.667490,51.470640
@@ -1793,6 +1865,7 @@ De Tuintjes,34,,,4881ES,Zundert,Zundert,Noord-Brabant,VBO,4.660251,51.468752
 De Tuintjes,36,,,4881ES,Zundert,Zundert,Noord-Brabant,VBO,4.660137,51.468707
 De Tuintjes,38,,,4881ES,Zundert,Zundert,Noord-Brabant,VBO,4.659994,51.468643
 De Tuintjes,40,,,4881ES,Zundert,Zundert,Noord-Brabant,VBO,4.659894,51.468597
+Wildertsedijk,1,,BEDR,4881ET,Zundert,Zundert,Noord-Brabant,VBO,4.659010,51.469293
 Wildertsedijk,1,,,4881ET,Zundert,Zundert,Noord-Brabant,VBO,4.659176,51.469096
 Wildertsedijk,7,,,4881ET,Zundert,Zundert,Noord-Brabant,VBO,4.659642,51.469063
 Wildertsedijk,9,,,4881ET,Zundert,Zundert,Noord-Brabant,VBO,4.659314,51.468863
@@ -1834,11 +1907,16 @@ Wildertsedijk,22,b,,4881EV,Zundert,Zundert,Noord-Brabant,VBO,4.661926,51.462089
 Wildertsedijk,22,c,,4881EV,Zundert,Zundert,Noord-Brabant,VBO,4.661987,51.463898
 Industrieweg,1,,BEDR,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658981,51.467171
 Industrieweg,1,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658908,51.467275
-Industrieweg,2,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658612,51.467780
+Industrieweg,2,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.659052,51.468007
+Industrieweg,4,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658988,51.467982
+Industrieweg,6,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658917,51.467952
 Industrieweg,7,a,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.659386,51.466855
 Industrieweg,7,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.659261,51.466969
+Industrieweg,8,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658851,51.467922
 Industrieweg,9,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.659485,51.466624
+Industrieweg,10,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658785,51.467895
 Industrieweg,11,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.659466,51.465637
+Industrieweg,12,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658612,51.467780
 Industrieweg,13,,,4881EW,Zundert,Zundert,Noord-Brabant,VBO,4.658724,51.467089
 Heerdhof,7,,,4881EX,Zundert,Zundert,Noord-Brabant,VBO,4.662194,51.470580
 Heerdhof,8,,,4881EX,Zundert,Zundert,Noord-Brabant,VBO,4.662022,51.470507
@@ -1915,6 +1993,7 @@ Wernhoutseweg,39,a,,4881GA,Zundert,Zundert,Noord-Brabant,VBO,4.653742,51.464550
 Wernhoutseweg,39,,,4881GA,Zundert,Zundert,Noord-Brabant,VBO,4.653798,51.464604
 Wernhoutseweg,41,,,4881GA,Zundert,Zundert,Noord-Brabant,VBO,4.653657,51.464477
 Wernhoutseweg,43,,,4881GA,Zundert,Zundert,Noord-Brabant,VBO,4.653628,51.464441
+Wernhoutseweg,45,a,BEDR,4881GA,Wernhout,Zundert,Noord-Brabant,VBO,4.657135,51.461621
 Wernhoutseweg,45,a,,4881GA,Zundert,Zundert,Noord-Brabant,VBO,4.653532,51.464162
 Wernhoutseweg,45,,,4881GA,Zundert,Zundert,Noord-Brabant,VBO,4.653572,51.464360
 Wernhoutseweg,2,a,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.655027,51.466355
@@ -1926,6 +2005,7 @@ Wernhoutseweg,4,,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.654988,51.466311
 Wernhoutseweg,6,a,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.654909,51.466234
 Wernhoutseweg,6,b,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.654892,51.466219
 Wernhoutseweg,6,,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.654922,51.466248
+Wernhoutseweg,8,,CAFE,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.654840,51.466177
 Wernhoutseweg,8,,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.654820,51.466138
 Wernhoutseweg,10,,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.654696,51.466066
 Wernhoutseweg,12,,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.654611,51.465994
@@ -1946,6 +2026,7 @@ Wernhoutseweg,30,c,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.652940,51.464320
 Wernhoutseweg,30,d,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.652681,51.464265
 Wernhoutseweg,30,e,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.652756,51.464103
 Wernhoutseweg,30,,,4881GB,Zundert,Zundert,Noord-Brabant,VBO,4.653281,51.464547
+Achtmaalseweg,121,b,BEDR,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.633351,51.465227
 Molenstraat,91,a,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658479,51.469383
 Molenstraat,91,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658641,51.469458
 Molenstraat,93,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658479,51.469383
@@ -1954,7 +2035,9 @@ Molenstraat,97,a,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658396,51.469330
 Molenstraat,97,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658380,51.469323
 Molenstraat,99,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658314,51.469298
 Molenstraat,101,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658229,51.469234
+Molenstraat,103,,WINK,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658171,51.469188
 Molenstraat,103,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658200,51.469207
+Molenstraat,105,,WINK,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658180,51.469126
 Molenstraat,105,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658138,51.469142
 Molenstraat,107,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.658101,51.469108
 Molenstraat,109,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657988,51.468990
@@ -1965,6 +2048,7 @@ Molenstraat,113,c,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657822,51.468819
 Molenstraat,113,d,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657881,51.468851
 Molenstraat,113,e,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657843,51.468811
 Molenstraat,113,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657842,51.468866
+Molenstraat,115,,BEDR,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657770,51.468789
 Molenstraat,115,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657747,51.468764
 Molenstraat,117,a,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657665,51.468643
 Molenstraat,117,b,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657665,51.468643
@@ -1979,6 +2063,8 @@ Molenstraat,119,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657600,51.468580
 Molenstraat,121,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657477,51.468510
 Molenstraat,123,,,4881GC,Zundert,Zundert,Noord-Brabant,VBO,4.657435,51.468465
 Molenstraat,127,,,4881GD,Zundert,Zundert,Noord-Brabant,VBO,4.657421,51.468429
+Molenstraat,129,,CAFE,4881GD,Zundert,Zundert,Noord-Brabant,VBO,4.657328,51.468308
+Molenstraat,129,,CLUB,4881GD,Zundert,Zundert,Noord-Brabant,VBO,4.657270,51.468256
 Molenstraat,129,,,4881GD,Zundert,Zundert,Noord-Brabant,VBO,4.657294,51.468276
 Molenstraat,131,a,,4881GD,Zundert,Zundert,Noord-Brabant,VBO,4.656815,51.467433
 Molenstraat,131,b,,4881GD,Zundert,Zundert,Noord-Brabant,VBO,4.656792,51.467448
@@ -1997,6 +2083,7 @@ Molenstraat,151,,,4881GD,Zundert,Zundert,Noord-Brabant,VBO,4.656092,51.466938
 Molenstraat,155,,,4881GD,Zundert,Zundert,Noord-Brabant,VBO,4.656856,51.466404
 Molenstraat,132,,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.658347,51.469740
 Molenstraat,138,,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.658168,51.469432
+Molenstraat,140,,WINK,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.658044,51.469397
 Molenstraat,140,,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.658070,51.469367
 Molenstraat,142,,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.657968,51.469340
 Molenstraat,144,a,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.657897,51.469295
@@ -2012,12 +2099,14 @@ Molenstraat,150,e,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.657642,51.468927
 Molenstraat,150,,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.657743,51.469033
 Molenstraat,152,,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.657587,51.468889
 Molenstraat,154,,,4881GE,Zundert,Zundert,Noord-Brabant,VBO,4.657538,51.468843
+Molenstraat,160,,BEDR,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.657379,51.468735
 Molenstraat,160,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.657274,51.468626
 Molenstraat,162,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.657189,51.468527
 Molenstraat,164,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.657090,51.468454
 Molenstraat,166,a,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656817,51.468416
 Molenstraat,166,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656889,51.468408
 Molenstraat,168,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656790,51.468317
+Molenstraat,170,,BEDR,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656784,51.468221
 Molenstraat,170,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656764,51.468137
 Molenstraat,176,a,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656392,51.467923
 Molenstraat,176,b,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656329,51.467851
@@ -2035,12 +2124,16 @@ Molenstraat,178,e,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656085,51.467912
 Molenstraat,178,g,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656133,51.467955
 Molenstraat,178,h,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656158,51.467995
 Molenstraat,178,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656331,51.467770
+Molenstraat,180,,BEDR,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656239,51.467666
+Molenstraat,180,,WINK,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656281,51.467715
 Molenstraat,180,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656267,51.467685
 Molenstraat,182,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.656168,51.467585
 Molenstraat,184,a,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.655993,51.467363
 Molenstraat,184,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.655861,51.467545
 Molenstraat,186,,,4881GG,Zundert,Zundert,Noord-Brabant,VBO,4.655978,51.467344
+Molenstraat,190,,WINK,4881GH,Zundert,Zundert,Noord-Brabant,VBO,4.655920,51.467269
 Molenstraat,190,,,4881GH,Zundert,Zundert,Noord-Brabant,VBO,4.655900,51.467287
+Molenstraat,194,,WINK,4881GH,Zundert,Zundert,Noord-Brabant,VBO,4.655814,51.467203
 Molenstraat,194,,,4881GH,Zundert,Zundert,Noord-Brabant,VBO,4.655843,51.467224
 Molenstraat,202,,,4881GH,Zundert,Zundert,Noord-Brabant,VBO,4.655545,51.466979
 Molenstraat,204,a,,4881GH,Zundert,Zundert,Noord-Brabant,VBO,4.655518,51.466872
@@ -2101,6 +2194,24 @@ De Oude Drukkerij,38,,,4881GK,Zundert,Zundert,Noord-Brabant,VBO,4.659723,51.4704
 De Oude Drukkerij,40,,,4881GK,Zundert,Zundert,Noord-Brabant,VBO,4.659687,51.470536
 De Oude Drukkerij,42,,,4881GK,Zundert,Zundert,Noord-Brabant,VBO,4.659650,51.470575
 De Oude Drukkerij,44,,,4881GK,Zundert,Zundert,Noord-Brabant,VBO,4.659614,51.470613
+Buitentuin,2,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.659106,51.468671
+Buitentuin,4,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.659037,51.468644
+Buitentuin,6,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658973,51.468615
+Buitentuin,8,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658904,51.468585
+Buitentuin,10,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658840,51.468554
+Buitentuin,12,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658772,51.468523
+Buitentuin,14,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658710,51.468494
+Buitentuin,16,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658614,51.468472
+Buitentuin,18,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658546,51.468443
+Buitentuin,20,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658480,51.468413
+Buitentuin,22,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658416,51.468383
+Buitentuin,24,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658350,51.468351
+Buitentuin,26,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658284,51.468324
+Buitentuin,33,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658735,51.468280
+Buitentuin,35,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658672,51.468249
+Buitentuin,37,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658607,51.468219
+Buitentuin,39,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658539,51.468190
+Buitentuin,41,,,4881GL,Zundert,Zundert,Noord-Brabant,VBO,4.658473,51.468161
 Lavendelhof,2,,,4881GS,Zundert,Zundert,Noord-Brabant,VBO,4.648175,51.467162
 Lavendelhof,4,,,4881GS,Zundert,Zundert,Noord-Brabant,VBO,4.648231,51.467167
 Lavendelhof,6,,,4881GS,Zundert,Zundert,Noord-Brabant,VBO,4.648317,51.467185
@@ -2291,6 +2402,7 @@ Berkenring,48,,,4881HD,Zundert,Zundert,Noord-Brabant,VBO,4.651613,51.470730
 Berkenring,50,,,4881HD,Zundert,Zundert,Noord-Brabant,VBO,4.651498,51.470720
 Berkenring,52,,,4881HD,Zundert,Zundert,Noord-Brabant,VBO,4.651310,51.470764
 Berkenring,54,a,,4881HD,Zundert,Zundert,Noord-Brabant,VBO,4.650589,51.470822
+Berkenring,54,b,BEDR,4881HD,Zundert,Zundert,Noord-Brabant,VBO,4.649807,51.470827
 Berkenring,54,b,,4881HD,Zundert,Zundert,Noord-Brabant,VBO,4.650474,51.470822
 Berkenring,54,,,4881HD,Zundert,Zundert,Noord-Brabant,VBO,4.651209,51.470754
 Berkenring,56,,,4881HD,Zundert,Zundert,Noord-Brabant,VBO,4.646507,51.470482
@@ -2532,6 +2644,7 @@ Berkenring,125,,,4881HX,Zundert,Zundert,Noord-Brabant,VBO,4.646435,51.466994
 Berkenring,127,,,4881HX,Zundert,Zundert,Noord-Brabant,VBO,4.646537,51.466868
 Berkenring,129,,,4881HX,Zundert,Zundert,Noord-Brabant,VBO,4.646611,51.466761
 Biggelaarstraat,1,a,,4881JA,Zundert,Zundert,Noord-Brabant,VBO,4.634065,51.467400
+Biggelaarstraat,1,,BEDR,4881JA,Zundert,Zundert,Noord-Brabant,VBO,4.634434,51.466567
 Biggelaarstraat,1,,,4881JA,Zundert,Zundert,Noord-Brabant,VBO,4.634536,51.466765
 Biggelaarstraat,2,,,4881JA,Zundert,Zundert,Noord-Brabant,VBO,4.635012,51.466723
 Biggelaarstraat,3,,,4881JA,Zundert,Zundert,Noord-Brabant,VBO,4.633795,51.468063
@@ -2558,6 +2671,7 @@ Ostaaijensebaan,2,a,,4881JD,Zundert,Zundert,Noord-Brabant,VBO,4.616930,51.459371
 Ostaaijensebaan,2,b,,4881JD,Zundert,Zundert,Noord-Brabant,VBO,4.617540,51.457968
 Ostaaijensebaan,2,c,,4881JD,Zundert,Zundert,Noord-Brabant,VBO,4.616366,51.456901
 Ostaaijensebaan,2,,,4881JD,Zundert,Zundert,Noord-Brabant,VBO,4.617854,51.459673
+Ostaaijensebaan,4,,BEDR,4881JD,Zundert,Zundert,Noord-Brabant,VBO,4.614745,51.456162
 Ostaaijensebaan,4,,,4881JD,Zundert,Zundert,Noord-Brabant,VBO,4.615184,51.455965
 Ostaaijensebaan,6,,,4881JD,Zundert,Zundert,Noord-Brabant,VBO,4.613071,51.455934
 Ostaaijensebaan,5,,,4881JE,Zundert,Zundert,Noord-Brabant,VBO,4.625019,51.461785
@@ -2718,9 +2832,11 @@ Weduwestraat,4,,,4881MA,Zundert,Zundert,Noord-Brabant,VBO,4.663866,51.460469
 Weduwestraat,5,a,,4881MA,Zundert,Zundert,Noord-Brabant,VBO,4.655343,51.452685
 Weduwestraat,5,b,,4881MA,Zundert,Zundert,Noord-Brabant,VBO,4.654489,51.452114
 Weduwestraat,5,c,,4881MA,Zundert,Zundert,Noord-Brabant,VBO,4.653563,51.451533
+Weduwestraat,5,,BIJ,4881MA,Zundert,Zundert,Noord-Brabant,VBO,4.656268,51.453157
 Weduwestraat,5,,,4881MA,Zundert,Zundert,Noord-Brabant,VBO,4.656126,51.453194
 Weduwestraat,6,a,,4881MA,Zundert,Zundert,Noord-Brabant,VBO,4.660137,51.456068
 Weduwestraat,6,,,4881MA,Zundert,Zundert,Noord-Brabant,VBO,4.660252,51.456114
+Wildertstraat,1,,BEDR,4881MB,Zundert,Zundert,Noord-Brabant,VBO,4.666180,51.457490
 Wildertstraat,1,,,4881MB,Zundert,Zundert,Noord-Brabant,VBO,4.665825,51.457632
 Wildertstraat,3,,,4881MB,Zundert,Zundert,Noord-Brabant,VBO,4.668041,51.456657
 Wildertstraat,5,,,4881MB,Zundert,Zundert,Noord-Brabant,VBO,4.667541,51.455530
@@ -2731,11 +2847,14 @@ Wildertstraat,4,a,,4881MC,Zundert,Zundert,Noord-Brabant,VBO,4.665028,51.454346
 Wildertstraat,4,b,,4881MC,Zundert,Zundert,Noord-Brabant,VBO,4.664446,51.453857
 Wildertstraat,4,,,4881MC,Zundert,Zundert,Noord-Brabant,VBO,4.666355,51.455055
 Wildertstraat,6,,,4881MC,Zundert,Zundert,Noord-Brabant,VBO,4.663548,51.453321
+Krochtenweg,1,,BEDR,4881MD,Zundert,Zundert,Noord-Brabant,VBO,4.675794,51.453811
 Krochtenweg,1,,,4881MD,Zundert,Zundert,Noord-Brabant,VBO,4.674287,51.457522
 Krochtenweg,3,,,4881MD,Zundert,Zundert,Noord-Brabant,VBO,4.668950,51.449237
+Krochtenweg,5,a,,4881MD,Zundert,Zundert,Noord-Brabant,VBO,4.668423,51.449357
 Krochtenweg,5,,,4881MD,Zundert,Zundert,Noord-Brabant,VBO,4.668865,51.449147
 Gaardsebaan,11,a,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.677149,51.458537
 Gaardsebaan,11,b,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.677210,51.458506
+Gaardsebaan,11,c,BEDR,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.678054,51.458122
 Gaardsebaan,11,c,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.678021,51.457967
 Gaardsebaan,11,d,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.679009,51.457344
 Gaardsebaan,11,,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.674654,51.459620
@@ -2743,7 +2862,9 @@ Gaardsebaan,13,a,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.680566,51.456239
 Gaardsebaan,13,,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.680087,51.456514
 Gaardsebaan,15,a,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.681569,51.455562
 Gaardsebaan,15,,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.680857,51.456025
+Gaardsebaan,17,,BEDR,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.682224,51.455306
 Gaardsebaan,17,,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.681861,51.455294
+Gaardsebaan,19,,BEDR,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.685865,51.454964
 Gaardsebaan,19,,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.682640,51.454806
 Gaardsebaan,21,,,4881ME,Zundert,Zundert,Noord-Brabant,VBO,4.683905,51.453355
 Frans Baantje,2,a,,4881MG,Zundert,Zundert,Noord-Brabant,VBO,4.681170,51.457195
@@ -2756,6 +2877,7 @@ Frans Baantje,14,,,4881MG,Zundert,Zundert,Noord-Brabant,VBO,4.699345,51.469957
 Frans Baantje,22,,,4881MG,Zundert,Zundert,Noord-Brabant,VBO,4.701420,51.473065
 Frans Baantje,28,,,4881MG,Zundert,Zundert,Noord-Brabant,VBO,4.702646,51.475795
 Frans Baantje,30,,,4881MG,Zundert,Zundert,Noord-Brabant,VBO,4.702686,51.475984
+Goorbaan,1,a,BEDR,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.681803,51.466138
 Goorbaan,1,a,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.681434,51.466132
 Goorbaan,1,b,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.681138,51.465762
 Goorbaan,1,c,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.681323,51.464945
@@ -2764,23 +2886,29 @@ Goorbaan,2,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.680234,51.465549
 Goorbaan,3,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.680258,51.464956
 Goorbaan,4,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.679758,51.464683
 Goorbaan,5,a,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.679751,51.464031
+Goorbaan,5,b,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.680991,51.463665
 Goorbaan,5,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.680930,51.463590
 Goorbaan,7,a,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.679391,51.463351
 Goorbaan,7,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.679476,51.463396
 Goorbaan,8,,BIJ,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.678611,51.462776
 Goorbaan,8,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.678607,51.462834
+Goorbaan,9,,BEDR,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.679725,51.462928
 Goorbaan,9,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.679198,51.462801
 Goorbaan,10,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.681914,51.459518
 Goorbaan,11,,,4881MH,Zundert,Zundert,Noord-Brabant,VBO,4.681682,51.460344
+Meirseweg,35,a,BEDR,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.684819,51.468851
 Meirseweg,35,a,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.684441,51.468964
+Meirseweg,35,b,BEDR,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.685576,51.468058
 Meirseweg,35,b,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.685709,51.467946
 Meirseweg,35,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.683879,51.469321
+Meirseweg,37,,BEDR,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.686383,51.467619
 Meirseweg,37,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.686320,51.467528
 Meirseweg,39,a,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.688563,51.465797
 Meirseweg,39,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.687387,51.466473
 Meirseweg,41,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.688988,51.465296
 Meirseweg,43,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.690474,51.465134
 Meirseweg,45,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.691152,51.465398
+Meirseweg,46,,BEDR,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.684817,51.467713
 Meirseweg,46,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.684714,51.468066
 Meirseweg,48,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.687135,51.465061
 Meirseweg,50,,,4881MJ,Zundert,Zundert,Noord-Brabant,VBO,4.689475,51.464490
@@ -2792,8 +2920,11 @@ Waaijenbergstraat,1,a,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.683907,51.4718
 Waaijenbergstraat,1,b,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.684772,51.471779
 Waaijenbergstraat,1,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.683360,51.471914
 Waaijenbergstraat,3,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.685723,51.471695
+Waaijenbergstraat,5,a,BEDR,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.689174,51.471346
 Waaijenbergstraat,5,a,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.689337,51.471190
+Waaijenbergstraat,5,b,BEDR,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.689837,51.471149
 Waaijenbergstraat,5,b,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.690008,51.471082
+Waaijenbergstraat,5,,BEDR,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.690608,51.473367
 Waaijenbergstraat,5,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.689670,51.472456
 Waaijenbergstraat,7,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.690729,51.470970
 Waaijenbergstraat,9,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.691911,51.470968
@@ -2801,6 +2932,7 @@ Waaijenbergstraat,11,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.692616,51.4713
 Waaijenbergstraat,13,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.693136,51.471386
 Waaijenbergstraat,17,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.692572,51.470945
 Waaijenbergstraat,19,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.692073,51.470591
+Waaijenbergstraat,21,a,BEDR,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.694806,51.470323
 Waaijenbergstraat,21,a,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.695330,51.470314
 Waaijenbergstraat,21,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.694236,51.470361
 Waaijenbergstraat,25,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.701824,51.471071
@@ -2808,6 +2940,7 @@ Waaijenbergstraat,27,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.702844,51.4721
 Waaijenbergstraat,29,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.702393,51.469654
 Waaijenbergstraat,31,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.703672,51.469752
 Waaijenbergstraat,33,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.706370,51.472195
+Waaijenbergstraat,35,,BEDR,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.711851,51.472244
 Waaijenbergstraat,35,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.707089,51.472253
 Waaijenbergstraat,41,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.702587,51.473952
 Waaijenbergstraat,43,,,4881NB,Zundert,Zundert,Noord-Brabant,VBO,4.703057,51.474270
@@ -2815,6 +2948,7 @@ Waaijenbergstraat,2,a,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.686836,51.4712
 Waaijenbergstraat,2,b,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.686719,51.471202
 Waaijenbergstraat,2,c,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.687202,51.469908
 Waaijenbergstraat,2,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.685050,51.471475
+Waaijenbergstraat,4,a,BEDR,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.692419,51.470321
 Waaijenbergstraat,4,a,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.692149,51.470322
 Waaijenbergstraat,4,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.691444,51.470336
 Waaijenbergstraat,6,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.693327,51.470090
@@ -2822,8 +2956,9 @@ Waaijenbergstraat,8,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.693326,51.47014
 Waaijenbergstraat,14,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.699503,51.469413
 Waaijenbergstraat,16,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.701263,51.469153
 Waaijenbergstraat,18,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.702775,51.469135
-Waaijenbergstraat,20,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.704819,51.469648
+Waaijenbergstraat,20,,BEDR,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.703842,51.469432
 Waaijenbergstraat,20,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.703562,51.469437
+Waaijenbergstraat,20,,,4881NC,Zundert,Zundert,Noord-Brabant,VBO,4.704819,51.469648
 Laarse Heistraat,1,,,4881ND,Zundert,Zundert,Noord-Brabant,VBO,4.698569,51.482684
 Laarse Heistraat,2,,,4881ND,Zundert,Zundert,Noord-Brabant,VBO,4.698253,51.482592
 Laarse Heistraat,8,,,4881ND,Zundert,Zundert,Noord-Brabant,VBO,4.702448,51.480427
@@ -2831,10 +2966,12 @@ Laarse Heistraat,10,,,4881ND,Zundert,Zundert,Noord-Brabant,VBO,4.702564,51.48029
 Oekelsebaan,1,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.681913,51.472400
 Oekelsebaan,5,a,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.683006,51.473341
 Oekelsebaan,5,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.682837,51.473152
+Oekelsebaan,7,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.683830,51.474076
 Oekelsebaan,7,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.684206,51.473987
 Oekelsebaan,9,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.684448,51.474132
 Oekelsebaan,11,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.684337,51.474770
 Oekelsebaan,13,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.683870,51.475225
+Oekelsebaan,15,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.684311,51.475078
 Oekelsebaan,17,a,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.686454,51.475690
 Oekelsebaan,17,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.686141,51.475493
 Oekelsebaan,19,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.686913,51.475765
@@ -2842,6 +2979,7 @@ Oekelsebaan,21,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.687013,51.475838
 Oekelsebaan,23,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.687323,51.476250
 Oekelsebaan,25,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.688093,51.476707
 Oekelsebaan,27,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.688634,51.477124
+Oekelsebaan,31,,BEDR,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.686457,51.478188
 Oekelsebaan,31,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.688315,51.477570
 Oekelsebaan,33,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.689417,51.477704
 Oekelsebaan,35,a,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.687607,51.479338
@@ -2853,7 +2991,9 @@ Oekelsebaan,39,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.689387,51.480548
 Oekelsebaan,41,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.690340,51.480643
 Oekelsebaan,45,a,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.693310,51.481328
 Oekelsebaan,45,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.692612,51.481758
+Oekelsebaan,47,,BEDR,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.696153,51.483004
 Oekelsebaan,47,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.695654,51.482557
+Oekelsebaan,55,,BEDR,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.699205,51.485184
 Oekelsebaan,55,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.700731,51.486336
 Oekelsebaan,57,,,4881NE,Zundert,Zundert,Noord-Brabant,VBO,4.702353,51.487041
 Oekelsebaan,2,a,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.685283,51.474119
@@ -2863,9 +3003,11 @@ Oekelsebaan,4,a,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.688878,51.476800
 Oekelsebaan,4,,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.686479,51.474962
 Oekelsebaan,6,,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.689411,51.477146
 Oekelsebaan,8,,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.689881,51.477482
+Oekelsebaan,10,a,BEDR,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.692097,51.479338
 Oekelsebaan,10,a,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.691727,51.479120
 Oekelsebaan,10,,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.690064,51.477726
 Oekelsebaan,12,,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.692266,51.479617
+Oekelsebaan,14,,BEDR,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.695412,51.481859
 Oekelsebaan,14,,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.695728,51.482002
 Oekelsebaan,16,,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.696586,51.482439
 Oekelsebaan,24,,,4881NG,Zundert,Zundert,Noord-Brabant,VBO,4.702011,51.486417
@@ -2875,15 +3017,18 @@ Egeldonkstraat,4,,,4881NH,Zundert,Zundert,Noord-Brabant,VBO,4.683742,51.479791
 Egeldonkstraat,5,,,4881NH,Zundert,Zundert,Noord-Brabant,VBO,4.684164,51.481304
 Egeldonkstraat,7,,,4881NH,Zundert,Zundert,Noord-Brabant,VBO,4.686435,51.483905
 Voorste Schaapsdijk,4,,,4881NJ,Zundert,Zundert,Noord-Brabant,VBO,4.680733,51.487639
+Laarakkerstraat,3,,BEDR,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.696336,51.476943
 Laarakkerstraat,3,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.695955,51.476574
 Laarakkerstraat,5,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.698660,51.476617
 Laarakkerstraat,6,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.694809,51.476217
+Laarakkerstraat,7,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.715368,51.474582
 Laarakkerstraat,8,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.695942,51.476228
 Laarakkerstraat,9,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.714677,51.474014
 Laarakkerstraat,10,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.696065,51.476222
 Laarakkerstraat,11,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.716024,51.473428
 Laarakkerstraat,12,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.696604,51.476189
 Laarakkerstraat,15,a,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.704800,51.476134
+Laarakkerstraat,15,,RECR,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.706368,51.478020
 Laarakkerstraat,15,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.704968,51.476402
 Laarakkerstraat,20,,,4881NK,Zundert,Zundert,Noord-Brabant,VBO,4.700364,51.476312
 Prinsenstraat,9,,,4881VA,Zundert,Zundert,Noord-Brabant,VBO,4.657410,51.470011
@@ -2932,6 +3077,7 @@ Prinsenstraat,36,,,4881VB,Zundert,Zundert,Noord-Brabant,VBO,4.656371,51.471101
 Prinsenstraat,40,,,4881VB,Zundert,Zundert,Noord-Brabant,VBO,4.655891,51.471431
 Prinsenstraat,46,,,4881VB,Zundert,Zundert,Noord-Brabant,VBO,4.655513,51.471653
 Prinsenstraat,48,,,4881VB,Zundert,Zundert,Noord-Brabant,VBO,4.655322,51.471904
+Prinsenstraat,50,,BEDR,4881VB,Zundert,Zundert,Noord-Brabant,VBO,4.653729,51.472717
 Prinsenstraat,50,,,4881VB,Zundert,Zundert,Noord-Brabant,VBO,4.654407,51.472419
 Prinsenstraat,52,,,4881VB,Zundert,Zundert,Noord-Brabant,VBO,4.652944,51.472968
 Prinsenstraat,60,,,4881VB,Zundert,Zundert,Noord-Brabant,VBO,4.652921,51.474379
@@ -3012,6 +3158,7 @@ Achtmaalseweg,15,,,4881VH,Zundert,Zundert,Noord-Brabant,VBO,4.655022,51.468144
 Achtmaalseweg,17,,,4881VH,Zundert,Zundert,Noord-Brabant,VBO,4.654850,51.468089
 Achtmaalseweg,19,,,4881VH,Zundert,Zundert,Noord-Brabant,VBO,4.654736,51.468044
 Achtmaalseweg,21,,,4881VH,Zundert,Zundert,Noord-Brabant,VBO,4.654564,51.467980
+Achtmaalseweg,23,,BEDR,4881VH,Zundert,Zundert,Noord-Brabant,VBO,4.654560,51.467727
 Achtmaalseweg,23,,,4881VH,Zundert,Zundert,Noord-Brabant,VBO,4.654393,51.467916
 Achtmaalseweg,25,,,4881VH,Zundert,Zundert,Noord-Brabant,VBO,4.654220,51.467888
 Achtmaalseweg,29,,,4881VH,Zundert,Zundert,Noord-Brabant,VBO,4.654121,51.467815
@@ -3042,6 +3189,7 @@ Achtmaalseweg,87,,,4881VJ,Zundert,Zundert,Noord-Brabant,VBO,4.650018,51.466819
 Achtmaalseweg,89,a,,4881VJ,Zundert,Zundert,Noord-Brabant,VBO,4.649783,51.466785
 Achtmaalseweg,89,,,4881VJ,Zundert,Zundert,Noord-Brabant,VBO,4.649923,51.466806
 Achtmaalseweg,91,,,4881VJ,Zundert,Zundert,Noord-Brabant,VBO,4.649611,51.466788
+Achtmaalseweg,93,a,,4881VJ,Zundert,Zundert,Noord-Brabant,VBO,4.649569,51.466664
 Achtmaalseweg,93,,,4881VJ,Zundert,Zundert,Noord-Brabant,VBO,4.649532,51.466771
 Achtmaalseweg,95,,,4881VJ,Zundert,Zundert,Noord-Brabant,VBO,4.649418,51.466752
 Achtmaalseweg,97,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.649332,51.466733
@@ -3068,11 +3216,12 @@ Achtmaalseweg,111,a,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.641142,51.465881
 Achtmaalseweg,111,b,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.640192,51.465902
 Achtmaalseweg,111,c,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.637775,51.465851
 Achtmaalseweg,111,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.642005,51.465905
+Achtmaalseweg,113,,BEDR,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.637267,51.465629
 Achtmaalseweg,113,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.637042,51.465819
-Achtmaalseweg,115,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.636564,51.465807
 Achtmaalseweg,115,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.636134,51.465903
-Achtmaalseweg,117,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.636047,51.465912
+Achtmaalseweg,115,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.636564,51.465807
 Achtmaalseweg,117,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.636284,51.465828
+Achtmaalseweg,117,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.636047,51.465912
 Achtmaalseweg,119,a,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.635033,51.465711
 Achtmaalseweg,119,,,4881VK,Zundert,Zundert,Noord-Brabant,VBO,4.635932,51.465902
 Achtmaalseweg,2,a,,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657725,51.469240
@@ -3085,6 +3234,7 @@ Achtmaalseweg,6,,,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657539,51.469176
 Achtmaalseweg,8,a,,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657424,51.469139
 Achtmaalseweg,8,b,,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657396,51.469121
 Achtmaalseweg,8,,,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657395,51.469157
+Achtmaalseweg,10,,WINK,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657218,51.469088
 Achtmaalseweg,10,,,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657309,51.469130
 Achtmaalseweg,12,,,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657095,51.469056
 Achtmaalseweg,14,,,4881VL,Zundert,Zundert,Noord-Brabant,VBO,4.657023,51.469020
@@ -3236,6 +3386,7 @@ Rutvenstraat,12,,,4881WD,Zundert,Zundert,Noord-Brabant,VBO,4.655162,51.467543
 Rutvenstraat,14,,,4881WD,Zundert,Zundert,Noord-Brabant,VBO,4.655076,51.467507
 Rutvenstraat,16,,,4881WD,Zundert,Zundert,Noord-Brabant,VBO,4.654992,51.467353
 Rutvenstraat,18,,,4881WD,Zundert,Zundert,Noord-Brabant,VBO,4.654731,51.467477
+Rutvenstraat,19,,,4881WD,Zundert,Zundert,Noord-Brabant,VBO,4.655158,51.467223
 Rutvenstraat,20,,,4881WD,Zundert,Zundert,Noord-Brabant,VBO,4.654616,51.467459
 Lijsterstraat,1,a,,4881WE,Zundert,Zundert,Noord-Brabant,VBO,4.655077,51.466416
 Lijsterstraat,1,b,,4881WE,Zundert,Zundert,Noord-Brabant,VBO,4.655068,51.466399
@@ -3886,7 +4037,9 @@ de Ambachten,6,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.643909,51.464802
 de Ambachten,7,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.649088,51.463972
 de Ambachten,8,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.643353,51.464466
 de Ambachten,9,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.648675,51.463745
+de Ambachten,10,,BEDR,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.643550,51.464381
 de Ambachten,10,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.643731,51.464226
+de Ambachten,11,,BEDR,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.648530,51.463598
 de Ambachten,11,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.648233,51.463490
 de Ambachten,12,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.643921,51.464065
 de Ambachten,14,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.644212,51.463948
@@ -3905,6 +4058,9 @@ de Ambachten,35,c,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.644943,51.464103
 de Ambachten,35,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.644086,51.464543
 de Ambachten,37,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.645667,51.463762
 de Ambachten,39,a,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.646250,51.463058
+de Ambachten,39,c,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.645969,51.463311
+de Ambachten,39,d,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.646036,51.463343
+de Ambachten,39,e,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.646092,51.463372
 de Ambachten,39,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.645917,51.463358
 de Ambachten,41,d,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.646951,51.462953
 de Ambachten,41,,,4881XZ,Zundert,Zundert,Noord-Brabant,VBO,4.646806,51.463098

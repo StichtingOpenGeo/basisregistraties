@@ -124,7 +124,6 @@ Veurseweg,215,z,,2251AC,Voorschoten,Voorschoten,Zuid-Holland,LIG,4.438598,52.110
 Veurseweg,215,,,2251AC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.435179,52.112754
 Veurseweg,251,,,2251AC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.432321,52.113236
 Veurseweg,253,,,2251AC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.430675,52.111875
-Veurseweg,255,,,2251AC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.430946,52.112068
 Veurseweg,257,,,2251AC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.432589,52.110472
 Veurseweg,261,,,2251AC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.430345,52.111218
 Veurseweg,265,,,2251AC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.429551,52.110330
@@ -179,6 +178,7 @@ Wilgenlaan,3,,,2251AL,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.436211,52.11521
 Wilgenlaan,5,,,2251AL,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.436601,52.114879
 Wilgenlaan,7,,,2251AL,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.436932,52.114610
 Wilgenlaan,9,,,2251AL,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.437253,52.114212
+Wilgenlaan,15,,,2251AL,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.438750,52.113004
 Wilgenlaan,2,,,2251AM,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.435392,52.115106
 Wilgenlaan,4,,,2251AM,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.435773,52.114808
 Wilgenlaan,6,,,2251AM,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.436141,52.114587
@@ -740,6 +740,8 @@ Molenlaan,29,,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449098,52.12439
 Molenlaan,31,,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449201,52.124331
 Molenlaan,33,a,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449344,52.124277
 Molenlaan,33,,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449264,52.124306
+Molenlaan,35,F,1,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449702,52.124568
+Molenlaan,35,L,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449670,52.124584
 Molenlaan,35,a,a,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449550,52.124580
 Molenlaan,35,a,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449647,52.124233
 Molenlaan,35,b,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449694,52.124162
@@ -747,14 +749,12 @@ Molenlaan,35,c,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449841,52.1241
 Molenlaan,35,d,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449300,52.124448
 Molenlaan,35,e,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449594,52.124602
 Molenlaan,35,f,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449663,52.124548
-Molenlaan,35,F,1,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449702,52.124568
 Molenlaan,35,g,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449726,52.124526
 Molenlaan,35,h,a,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449835,52.124487
 Molenlaan,35,h,b,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449888,52.124468
 Molenlaan,35,h,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449790,52.124503
 Molenlaan,35,j,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449860,52.124522
 Molenlaan,35,k,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450102,52.124435
-Molenlaan,35,L,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449670,52.124584
 Molenlaan,35,m,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450035,52.124415
 Molenlaan,35,p,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450076,52.124401
 Molenlaan,35,q,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450112,52.124388
@@ -764,6 +764,7 @@ Molenlaan,35,t,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450216,52.1243
 Molenlaan,35,u,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450255,52.124337
 Molenlaan,35,v,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450302,52.124320
 Molenlaan,35,,,2251CB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449716,52.124186
+Molenlaan,37,L,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450227,52.124167
 Molenlaan,37,a,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449966,52.124291
 Molenlaan,37,b,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450010,52.124275
 Molenlaan,37,c,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450056,52.124259
@@ -772,7 +773,6 @@ Molenlaan,37,f,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450229,52.1241
 Molenlaan,37,g,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450274,52.124179
 Molenlaan,37,h,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450182,52.124197
 Molenlaan,37,k,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450239,52.124179
-Molenlaan,37,L,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450227,52.124167
 Molenlaan,39,a,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449907,52.124191
 Molenlaan,39,b,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.449978,52.124166
 Molenlaan,39,c,,2251CC,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.450075,52.124132
@@ -2333,8 +2333,8 @@ Krimkade,85,,,2251JZ,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.461922,52.132540
 Krimkade,87,,,2251JZ,Voorschoten,Voorschoten,Zuid-Holland,LIG,4.462685,52.132291
 Krimkade,89,,,2251JZ,Voorschoten,Voorschoten,Zuid-Holland,LIG,4.462619,52.132153
 Krimkade,91,,,2251JZ,Voorschoten,Voorschoten,Zuid-Holland,LIG,4.462418,52.131984
-Krimkade,93,,,2251JZ,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.461971,52.132130
 Krimkade,93,,,2251JZ,Voorschoten,Voorschoten,Zuid-Holland,LIG,4.462070,52.131906
+Krimkade,93,,,2251JZ,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.461971,52.132130
 Krimkade,95,,,2251JZ,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.461797,52.132038
 Krimkade,2,a,,2251KA,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.459873,52.130655
 Krimkade,2,b,,2251KA,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.460353,52.130882
@@ -2510,10 +2510,10 @@ Leidseweg,94,d,,2251LE,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.453062,52.1290
 Leidseweg,94,e,,2251LE,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.453119,52.129114
 Leidseweg,94,f,,2251LE,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.453175,52.129146
 Leidseweg,98,,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.455042,52.130290
-Leidseweg,100,a,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.456276,52.130045
 Leidseweg,100,A,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.456058,52.130150
-Leidseweg,100,,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.455791,52.130232
+Leidseweg,100,a,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.456276,52.130045
 Leidseweg,100,,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.456081,52.129992
+Leidseweg,100,,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.455791,52.130232
 Leidseweg,102,a,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.455414,52.130187
 Leidseweg,102,,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.455559,52.130246
 Leidseweg,104,,,2251LG,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.455867,52.130322
@@ -4588,8 +4588,8 @@ Margaretha Fergusonhof,1,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.465
 Margaretha Fergusonhof,1,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.465541,52.130007
 Margaretha Fergusonhof,2,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.466114,52.129882
 Margaretha Fergusonhof,3,a,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.465826,52.130309
-Margaretha Fergusonhof,3,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.465833,52.130208
 Margaretha Fergusonhof,3,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.465780,52.130255
+Margaretha Fergusonhof,3,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.465833,52.130208
 Margaretha Fergusonhof,4,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.466239,52.130034
 Margaretha Fergusonhof,5,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.465889,52.130311
 Margaretha Fergusonhof,5,,,2251WB,Voorschoten,Voorschoten,Zuid-Holland,VBO,4.465907,52.130500

@@ -139,8 +139,8 @@ Hoofdstraat,59,,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821841,51.413765
 Hoofdstraat,61,,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821714,51.413990
 Hoofdstraat,63,,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821638,51.414134
 Hoofdstraat,65,a,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821614,51.414310
-Hoofdstraat,65,b,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821640,51.414266
 Hoofdstraat,65,b,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.822077,51.414429
+Hoofdstraat,65,b,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821640,51.414266
 Hoofdstraat,65,c,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821673,51.414208
 Hoofdstraat,65,d,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821705,51.414149
 Hoofdstraat,65,e,,5757AK,Liessel,Deurne,Noord-Brabant,VBO,5.821670,51.414322
@@ -400,18 +400,6 @@ Oude Molen,12,,,5757AZ,Liessel,Deurne,Noord-Brabant,VBO,5.817047,51.416048
 Oude Molen,14,,,5757AZ,Liessel,Deurne,Noord-Brabant,VBO,5.816718,51.416202
 Oude Molen,20,,,5757AZ,Liessel,Deurne,Noord-Brabant,VBO,5.813100,51.416692
 Oude Molen,22,,,5757AZ,Liessel,Deurne,Noord-Brabant,VBO,5.812712,51.416702
-het Hofke,1,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.818795,51.415412
-het Hofke,3,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.818794,51.415286
-het Hofke,5,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.818691,51.415134
-het Hofke,7,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.818691,51.415071
-het Hofke,17,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819367,51.415104
-het Hofke,19,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819468,51.415122
-het Hofke,21,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819597,51.415158
-het Hofke,23,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819741,51.415175
-het Hofke,25,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819840,51.414959
-het Hofke,27,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819911,51.414887
-het Hofke,29,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819939,51.414824
-het Hofke,31,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819996,51.414734
 Wellenshof,2,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.817319,51.415360
 Wellenshof,4,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.817233,51.415335
 Wellenshof,6,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.817294,51.415311
@@ -436,6 +424,18 @@ Wellenshof,42,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.817136,51.415006
 Wellenshof,44,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.817214,51.414987
 Wellenshof,46,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.817060,51.414940
 Wellenshof,48,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.817146,51.414928
+het Hofke,1,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.818795,51.415412
+het Hofke,3,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.818794,51.415286
+het Hofke,5,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.818691,51.415134
+het Hofke,7,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.818691,51.415071
+het Hofke,17,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819367,51.415104
+het Hofke,19,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819468,51.415122
+het Hofke,21,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819597,51.415158
+het Hofke,23,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819741,51.415175
+het Hofke,25,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819840,51.414959
+het Hofke,27,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819911,51.414887
+het Hofke,29,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819939,51.414824
+het Hofke,31,,,5757BA,Liessel,Deurne,Noord-Brabant,VBO,5.819996,51.414734
 het Hofke,12,,,5757BB,Liessel,Deurne,Noord-Brabant,VBO,5.818067,51.414480
 het Hofke,14,,,5757BB,Liessel,Deurne,Noord-Brabant,VBO,5.818196,51.414462
 het Hofke,16,,,5757BB,Liessel,Deurne,Noord-Brabant,VBO,5.818426,51.414443
@@ -1381,8 +1381,8 @@ Neerkantseweg,50,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.838485,51.400524
 Neerkantseweg,52,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.838553,51.399915
 Neerkantseweg,54,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.838200,51.399294
 Neerkantseweg,56,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.839263,51.399236
-Neerkantseweg,56,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.839226,51.399262
 Neerkantseweg,56,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.839217,51.399231
+Neerkantseweg,56,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.839226,51.399262
 Neerkantseweg,60,a,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.839837,51.397795
 Neerkantseweg,60,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.839941,51.398109
 Neerkantseweg,63,,,5757RM,Liessel,Deurne,Noord-Brabant,VBO,5.839883,51.399467
@@ -1410,8 +1410,8 @@ Kanaalstraat,17,,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.857745,51.396682
 Kanaalstraat,19,,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.860444,51.396437
 Kanaalstraat,20,b,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.869189,51.394567
 Kanaalstraat,20,,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.868462,51.394649
-Kanaalstraat,23,,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.872452,51.394716
 Kanaalstraat,23,,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.872327,51.394784
+Kanaalstraat,23,,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.872452,51.394716
 Kanaalstraat,25,,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.877705,51.394127
 Kanaalstraat,26,,,5757RP,Liessel,Deurne,Noord-Brabant,VBO,5.877739,51.393273
 Leegveld,51,a,,5757RR,Liessel,Deurne,Noord-Brabant,VBO,5.866578,51.404475
@@ -1424,7 +1424,7 @@ Zand,1,a,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.830023,51.400772
 Zand,1,,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.830398,51.400852
 Zand,2,,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.827690,51.401698
 Zand,4,,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.827503,51.401717
-Zand,5,,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.826248,51.401218
+Zand,5,,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.826280,51.401542
 Zand,6,,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.827720,51.401869
 Zand,7,,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.825252,51.402282
 Zand,9,,,5757RX,Liessel,Deurne,Noord-Brabant,VBO,5.824765,51.402392
@@ -1481,7 +1481,7 @@ Hazeldonkseweg,5,,,5757SL,Liessel,Deurne,Noord-Brabant,VBO,5.796825,51.414952
 Hazeldonkseweg,7,,,5757SL,Liessel,Deurne,Noord-Brabant,VBO,5.796509,51.414980
 Hazeldonkseweg,2,a,,5757SM,Liessel,Deurne,Noord-Brabant,VBO,5.805031,51.414698
 Hazeldonkseweg,2,,,5757SM,Liessel,Deurne,Noord-Brabant,VBO,5.805648,51.414552
-Hazeldonkseweg,4,Z,,5757SM,Liessel,Deurne,Noord-Brabant,VBO,5.802065,51.415227
+Hazeldonkseweg,4,z,,5757SM,Liessel,Deurne,Noord-Brabant,VBO,5.802065,51.415227
 Hazeldonkseweg,4,,,5757SM,Liessel,Deurne,Noord-Brabant,VBO,5.802057,51.414880
 Hazeldonkseweg,6,a,,5757SM,Liessel,Deurne,Noord-Brabant,VBO,5.801831,51.415240
 Hazeldonkseweg,6,,,5757SM,Liessel,Deurne,Noord-Brabant,VBO,5.801985,51.414880

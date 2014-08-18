@@ -169,7 +169,6 @@ Parallelweg,90,,,7161AG,Neede,Berkelland,Gelderland,VBO,6.632102,52.130902
 Velver,2,,,7161AH,Neede,Berkelland,Gelderland,VBO,6.623895,52.129909
 Velver,4,,,7161AH,Neede,Berkelland,Gelderland,VBO,6.623881,52.129946
 Velver,6,,,7161AH,Neede,Berkelland,Gelderland,VBO,6.623898,52.130017
-Velver,8,,,7161AH,Neede,Berkelland,Gelderland,VBO,6.623913,52.130044
 Bedrijvenweg,2,a,,7161AJ,Neede,Berkelland,Gelderland,VBO,6.628451,52.128547
 Bedrijvenweg,2,,,7161AJ,Neede,Berkelland,Gelderland,VBO,6.628403,52.128583
 Bedrijvenweg,4,,,7161AJ,Neede,Berkelland,Gelderland,VBO,6.629122,52.128794
@@ -698,6 +697,7 @@ Magnoliastraat,91,,,7161BV,Neede,Berkelland,Gelderland,VBO,6.627013,52.133841
 Handelsweg,1,,,7161BW,Neede,Berkelland,Gelderland,VBO,6.625040,52.130652
 Handelsweg,3,,,7161BW,Neede,Berkelland,Gelderland,VBO,6.624713,52.130617
 Handelsweg,5,,,7161BW,Neede,Berkelland,Gelderland,VBO,6.624350,52.130525
+Handelsweg,7,,,7161BW,Neede,Berkelland,Gelderland,VBO,6.624025,52.130065
 Handelsweg,9,a,,7161BW,Neede,Berkelland,Gelderland,VBO,6.622931,52.130536
 Handelsweg,9,b,,7161BW,Neede,Berkelland,Gelderland,VBO,6.623214,52.130481
 Handelsweg,9,c,,7161BW,Neede,Berkelland,Gelderland,VBO,6.623103,52.130459
@@ -964,7 +964,7 @@ Meijersweg,64,,,7161CN,Neede,Berkelland,Gelderland,VBO,6.624719,52.135402
 Meijersweg,66,,,7161CN,Neede,Berkelland,Gelderland,VBO,6.624806,52.135392
 Meijersweg,68,,,7161CN,Neede,Berkelland,Gelderland,VBO,6.624864,52.135382
 Meijersweg,70,,,7161CN,Neede,Berkelland,Gelderland,VBO,6.625127,52.135380
-Meijersweg,72,,,7161CN,Neede,Berkelland,Gelderland,VBO,6.625156,52.135370
+Meijersweg,72,,,7161CN,Neede,Berkelland,Gelderland,VBO,6.625206,52.135370
 Meijersweg,74,,,7161CN,Neede,Berkelland,Gelderland,VBO,6.625258,52.135360
 Meijersweg,76,,,7161CN,Neede,Berkelland,Gelderland,VBO,6.625346,52.135359
 Meijersweg,78,,T01,7161CN,Neede,Berkelland,Gelderland,VBO,6.625493,52.135403
@@ -1336,8 +1336,8 @@ Nieuwstraat,8,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.614499,52.131877
 Nieuwstraat,10,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.614674,52.131884
 Nieuwstraat,12,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.614939,52.131936
 Nieuwstraat,14,a,,7161DN,Neede,Berkelland,Gelderland,VBO,6.615231,52.132038
-Nieuwstraat,14,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.615175,52.132032
 Nieuwstraat,14,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.615086,52.132042
+Nieuwstraat,14,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.615175,52.132032
 Nieuwstraat,16,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.615455,52.132119
 Nieuwstraat,18,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.615587,52.132154
 Nieuwstraat,20,,,7161DN,Neede,Berkelland,Gelderland,VBO,6.615690,52.132189
@@ -1616,6 +1616,7 @@ Bergstraat,98,,,7161EM,Neede,Berkelland,Gelderland,VBO,6.603382,52.138258
 Bergstraat,100,,,7161EM,Neede,Berkelland,Gelderland,VBO,6.603207,52.138287
 Bergstraat,102,,,7161EM,Neede,Berkelland,Gelderland,VBO,6.602990,52.138361
 Bergstraat,104,,,7161EM,Neede,Berkelland,Gelderland,VBO,6.602845,52.138380
+Bergstraat,106,a,,7161EM,Neede,Berkelland,Gelderland,VBO,6.602044,52.138614
 Bergstraat,106,,,7161EM,Neede,Berkelland,Gelderland,VBO,6.602175,52.138459
 Bergstraat,108,,,7161EM,Neede,Berkelland,Gelderland,VBO,6.602011,52.138344
 Bergstraat,110,a,,7161EM,Neede,Berkelland,Gelderland,VBO,6.601718,52.138311
@@ -3091,8 +3092,6 @@ Gantvoort,44,,,7161KL,Neede,Berkelland,Gelderland,VBO,6.606037,52.129547
 Gantvoort,46,,,7161KL,Neede,Berkelland,Gelderland,VBO,6.606023,52.129592
 Gantvoort,48,,,7161KL,Neede,Berkelland,Gelderland,VBO,6.605953,52.129692
 Gantvoort,50,,,7161KL,Neede,Berkelland,Gelderland,VBO,6.605940,52.129755
-Zengerij,8,,,7161KP,Eibergen,Berkelland,Gelderland,VBO,6.641711,52.105728
-Zengerij,10,,,7161KP,Eibergen,Berkelland,Gelderland,VBO,6.641758,52.105768
 Peppelendijk,2,,,7161LA,Neede,Berkelland,Gelderland,VBO,6.609111,52.128221
 Peppelendijk,4,,,7161LA,Neede,Berkelland,Gelderland,VBO,6.608286,52.127951
 Peppelendijk,8,,,7161LA,Neede,Berkelland,Gelderland,VBO,6.606016,52.127739
@@ -3139,7 +3138,7 @@ Elsmansdijk,6,a,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.558413,52.152592
 Elsmansdijk,6,,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.558386,52.152646
 Elsmansdijk,8,,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.552943,52.155190
 Elsmansdijk,12,,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.551747,52.155849
-Elsmansdijk,14,,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.550122,52.159706
+Elsmansdijk,14,,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.550050,52.159594
 Elsmansdijk,15,,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.557827,52.151950
 Elsmansdijk,17,a,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.556043,52.151793
 Elsmansdijk,17,,,7161LJ,Neede,Berkelland,Gelderland,VBO,6.556132,52.151733
@@ -3471,7 +3470,7 @@ Elsmansdijk,2,,,7161NA,Neede,Berkelland,Gelderland,VBO,6.564960,52.148724
 Elsmansdijk,3,,,7161NA,Neede,Berkelland,Gelderland,VBO,6.566470,52.147226
 Elsmansdijk,5,a,,7161NA,Neede,Berkelland,Gelderland,VBO,6.565991,52.147375
 Elsmansdijk,5,,,7161NA,Neede,Berkelland,Gelderland,VBO,6.566382,52.147245
-Elsmansdijk,7,a,,7161NA,Neede,Berkelland,Gelderland,VBO,6.564246,52.147857
+Elsmansdijk,7,a,,7161NA,Neede,Berkelland,Gelderland,VBO,6.564332,52.147845
 Elsmansdijk,7,b,,7161NA,Neede,Berkelland,Gelderland,VBO,6.564345,52.147880
 Elsmansdijk,7,,,7161NA,Neede,Berkelland,Gelderland,VBO,6.565442,52.147596
 Elsmansdijk,9,a,,7161NA,Neede,Berkelland,Gelderland,VBO,6.563740,52.148333
@@ -3592,16 +3591,6 @@ Hilversweg,23,,,7161PH,Neede,Berkelland,Gelderland,VBO,6.576750,52.142053
 Hilversweg,25,,,7161PH,Neede,Berkelland,Gelderland,VBO,6.576880,52.142007
 Hilversweg,28,,,7161PH,Neede,Berkelland,Gelderland,VBO,6.575489,52.142461
 Hilversweg,32,,,7161PH,Neede,Berkelland,Gelderland,VBO,6.575245,52.141502
-Geerdinkweg,1,a,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.570960,52.146300
-Geerdinkweg,1,b,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.570815,52.146584
-Geerdinkweg,1,c,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571341,52.146650
-Geerdinkweg,1,d,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571402,52.146644
-Geerdinkweg,1,e,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571467,52.146642
-Geerdinkweg,1,f,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571540,52.146629
-Geerdinkweg,1,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.570794,52.146670
-Geerdinkweg,2,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.572457,52.147112
-Geerdinkweg,3,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571751,52.147470
-Geerdinkweg,5,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.572193,52.147618
 G.L.Rutgersweg,30,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.573674,52.145608
 G.L.Rutgersweg,32,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.573068,52.145910
 G.L.Rutgersweg,34,a,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.572386,52.146181
@@ -3625,6 +3614,16 @@ G.L.Rutgersweg,55,b,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571458,52.145579
 G.L.Rutgersweg,55,c,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571309,52.145571
 G.L.Rutgersweg,55,d,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571232,52.145520
 G.L.Rutgersweg,55,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571348,52.145652
+Geerdinkweg,1,a,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.570960,52.146300
+Geerdinkweg,1,b,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.570815,52.146584
+Geerdinkweg,1,c,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571341,52.146650
+Geerdinkweg,1,d,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571402,52.146644
+Geerdinkweg,1,e,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571467,52.146642
+Geerdinkweg,1,f,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571540,52.146629
+Geerdinkweg,1,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.570794,52.146670
+Geerdinkweg,2,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.572457,52.147112
+Geerdinkweg,3,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.571751,52.147470
+Geerdinkweg,5,,,7161PJ,Neede,Berkelland,Gelderland,VBO,6.572193,52.147618
 Schoolweg,1,,,7161PK,Neede,Berkelland,Gelderland,VBO,6.574013,52.145739
 Schoolweg,2,,,7161PK,Neede,Berkelland,Gelderland,VBO,6.574693,52.145490
 Schoolweg,3,a,,7161PK,Neede,Berkelland,Gelderland,VBO,6.573905,52.146064
@@ -3680,8 +3679,8 @@ Rondweg,3,a,,7161PP,Neede,Berkelland,Gelderland,VBO,6.597069,52.137103
 Rondweg,3,,,7161PP,Neede,Berkelland,Gelderland,VBO,6.596507,52.136845
 Rondweg,5,,,7161PP,Neede,Berkelland,Gelderland,VBO,6.596195,52.136642
 Rondweg,18,a,,7161PP,Neede,Berkelland,Gelderland,VBO,6.591811,52.136615
-Rondweg,18,b,,7161PP,Neede,Berkelland,Gelderland,VBO,6.596778,52.137705
 Rondweg,18,b,,7161PP,Neede,Berkelland,Gelderland,VBO,6.597009,52.137944
+Rondweg,18,b,,7161PP,Neede,Berkelland,Gelderland,VBO,6.596778,52.137705
 Rondweg,18,,,7161PP,Neede,Berkelland,Gelderland,VBO,6.603426,52.139336
 Kisveldermolenweg,2,,,7161PR,Neede,Berkelland,Gelderland,VBO,6.608101,52.139881
 Kisveldermolenweg,3,,,7161PR,Neede,Berkelland,Gelderland,VBO,6.607517,52.139878
@@ -3835,7 +3834,7 @@ Oude Eibergseweg,13,,,7161RN,Neede,Berkelland,Gelderland,VBO,6.634713,52.131324
 Oude Eibergseweg,14,a,,7161RN,Neede,Berkelland,Gelderland,VBO,6.630397,52.132974
 Oude Eibergseweg,14,,,7161RN,Neede,Berkelland,Gelderland,VBO,6.630167,52.133304
 Oude Eibergseweg,15,a,,7161RN,Neede,Berkelland,Gelderland,VBO,6.633647,52.130603
-Oude Eibergseweg,15,,,7161RN,Neede,Berkelland,Gelderland,VBO,6.633312,52.130817
+Oude Eibergseweg,15,,,7161RN,Neede,Berkelland,Gelderland,VBO,6.633449,52.130814
 Oude Eibergseweg,16,a,,7161RN,Neede,Berkelland,Gelderland,VBO,6.630649,52.132778
 Oude Eibergseweg,16,b,,7161RN,Neede,Berkelland,Gelderland,VBO,6.630705,52.132678
 Oude Eibergseweg,16,c,,7161RN,Neede,Berkelland,Gelderland,VBO,6.630790,52.132596
@@ -3867,8 +3866,8 @@ Voorste Russchemorsdijk,2,,,7161RP,Neede,Berkelland,Gelderland,VBO,6.638783,52.1
 Achterste Russchemorsdijk,2,,,7161RR,Neede,Berkelland,Gelderland,VBO,6.641789,52.127489
 Achterste Russchemorsdijk,4,,,7161RR,Neede,Berkelland,Gelderland,VBO,6.644095,52.126236
 Eibergseweg,57,,,7161RS,Neede,Berkelland,Gelderland,VBO,6.626669,52.125665
-Oude Eibergseweg,19,,,7161RS,Neede,Berkelland,Gelderland,VBO,6.645375,52.123375
 Oude Eibergseweg,19,,,7161RS,Neede,Berkelland,Gelderland,VBO,6.644309,52.124021
+Oude Eibergseweg,19,,,7161RS,Neede,Berkelland,Gelderland,VBO,6.645375,52.123375
 Oude Eibergseweg,30,,,7161RS,Neede,Berkelland,Gelderland,VBO,6.638759,52.123496
 Schurinkweg,1,,,7161RS,Neede,Berkelland,Gelderland,VBO,6.626684,52.123067
 Schurinkweg,2,,,7161RS,Neede,Berkelland,Gelderland,VBO,6.632404,52.126566
@@ -4114,7 +4113,7 @@ Rozenkamp,27,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620634,52.136649
 Rozenkamp,29,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620593,52.136740
 Rozenkamp,31,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620565,52.136794
 Rozenkamp,33,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620551,52.136839
-Rozenkamp,35,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620524,52.136884
+Rozenkamp,35,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620530,52.136907
 Rozenkamp,37,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620468,52.136984
 Rozenkamp,39,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620455,52.137047
 Rozenkamp,41,,,7161WH,Neede,Berkelland,Gelderland,VBO,6.620427,52.137101
@@ -4170,7 +4169,7 @@ Gosselinkweg,22,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619400,52.136941
 Gosselinkweg,24,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619431,52.136985
 Gosselinkweg,26,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619462,52.137048
 Gosselinkweg,28,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619494,52.137156
-Gosselinkweg,30,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619495,52.137192
+Gosselinkweg,30,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619490,52.137217
 Gosselinkweg,32,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619500,52.137253
 Gosselinkweg,34,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619498,52.137308
 Gosselinkweg,36,,,7161WL,Neede,Berkelland,Gelderland,VBO,6.619516,52.137425
