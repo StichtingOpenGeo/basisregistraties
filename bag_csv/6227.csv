@@ -323,7 +323,6 @@ Demertstraat,60,,,6227AS,Maastricht,Maastricht,Limburg,VBO,5.722156,50.841780
 Demertstraat,64,,,6227AS,Maastricht,Maastricht,Limburg,VBO,5.722168,50.841637
 Demertstraat,66,A,,6227AS,Maastricht,Maastricht,Limburg,VBO,5.721931,50.841648
 Demertstraat,66,B,,6227AS,Maastricht,Maastricht,Limburg,VBO,5.721874,50.841654
-Demertstraat,66,,,6227AS,Maastricht,Maastricht,Limburg,VBO,5.721986,50.841646
 Demertstraat,68,,,6227AS,Maastricht,Maastricht,Limburg,VBO,5.722016,50.841592
 Demertstraat,70,,,6227AS,Maastricht,Maastricht,Limburg,VBO,5.722121,50.841520
 Demertstraat,72,,,6227AS,Maastricht,Maastricht,Limburg,VBO,5.722095,50.841435
@@ -403,6 +402,7 @@ Mathijs Heugenstraat,29,,,6227AV,Maastricht,Maastricht,Limburg,VBO,5.723999,50.8
 Mathijs Heugenstraat,31,,,6227AV,Maastricht,Maastricht,Limburg,VBO,5.723840,50.843030
 Mathijs Heugenstraat,2,,,6227AW,Maastricht,Maastricht,Limburg,VBO,5.726666,50.842923
 Mathijs Heugenstraat,4,,,6227AW,Maastricht,Maastricht,Limburg,VBO,5.726312,50.843239
+Mathijs Heugenstraat,8,,,6227AW,Maastricht,Maastricht,Limburg,VBO,5.726028,50.843327
 Mathijs Heugenstraat,12,,,6227AW,Maastricht,Maastricht,Limburg,VBO,5.725600,50.843212
 Mathijs Heugenstraat,14,,,6227AW,Maastricht,Maastricht,Limburg,VBO,5.725420,50.843059
 Mathijs Heugenstraat,18,A,,6227AW,Maastricht,Maastricht,Limburg,VBO,5.724966,50.843099
@@ -1143,7 +1143,6 @@ Steegstraat,37,G,11,6227CL,Maastricht,Maastricht,Limburg,VBO,5.730664,50.841795
 Steegstraat,37,G,12,6227CL,Maastricht,Maastricht,Limburg,VBO,5.730712,50.841795
 Steegstraat,37,,,6227CL,Maastricht,Maastricht,Limburg,VBO,5.730560,50.841432
 Steegstraat,39,A,,6227CL,Maastricht,Maastricht,Limburg,VBO,5.730841,50.841423
-Steegstraat,39,B,,6227CL,Maastricht,Maastricht,Limburg,VBO,5.730841,50.841423
 Steegstraat,39,,,6227CL,Maastricht,Maastricht,Limburg,VBO,5.730841,50.841423
 Steegstraat,41,G,01,6227CL,Maastricht,Maastricht,Limburg,VBO,5.731708,50.841401
 Steegstraat,41,G,02,6227CL,Maastricht,Maastricht,Limburg,VBO,5.731753,50.841400
@@ -2419,7 +2418,6 @@ Haspengouw,88,,,6227RP,Maastricht,Maastricht,Limburg,VBO,5.719885,50.833206
 Haspengouw,90,,,6227RP,Maastricht,Maastricht,Limburg,VBO,5.719849,50.833162
 Burghtstraat,1,,,6227RR,Maastricht,Maastricht,Limburg,VBO,5.722253,50.836431
 Burghtstraat,2,,,6227RR,Maastricht,Maastricht,Limburg,VBO,5.721896,50.836664
-Burghtstraat,3,C,,6227RR,Maastricht,Maastricht,Limburg,VBO,5.722127,50.836460
 Burghtstraat,3,,,6227RR,Maastricht,Maastricht,Limburg,VBO,5.722127,50.836460
 Burghtstraat,4,,,6227RR,Maastricht,Maastricht,Limburg,VBO,5.721727,50.836753
 Burghtstraat,5,A,,6227RR,Maastricht,Maastricht,Limburg,VBO,5.721824,50.836534
@@ -2489,6 +2487,7 @@ Rijproost,6,,,6227RW,Maastricht,Maastricht,Limburg,VBO,5.721978,50.839020
 Rijproost,7,,,6227RW,Maastricht,Maastricht,Limburg,VBO,5.722434,50.839228
 Rijproost,8,,TR,6227RW,Maastricht,Maastricht,Limburg,VBO,5.722211,50.839014
 Rijproost,8,,,6227RW,Maastricht,Maastricht,Limburg,VBO,5.722070,50.839016
+Langwaterstraat,1,,,6227RX,Maastricht,Maastricht,Limburg,VBO,5.723349,50.839682
 Langwaterstraat,11,,,6227RX,Maastricht,Maastricht,Limburg,VBO,5.723125,50.839215
 Langwaterstraat,13,,,6227RX,Maastricht,Maastricht,Limburg,VBO,5.723085,50.839166
 Langwaterstraat,15,,,6227RX,Maastricht,Maastricht,Limburg,VBO,5.723046,50.839114
@@ -2722,10 +2721,8 @@ Oude Kerkstraat,47,,,6227SP,Maastricht,Maastricht,Limburg,VBO,5.725360,50.838563
 Oude Kerkstraat,49,,,6227SP,Maastricht,Maastricht,Limburg,VBO,5.725325,50.838520
 Oude Kerkstraat,2,A,01,6227SR,Maastricht,Maastricht,Limburg,VBO,5.727140,50.839984
 Oude Kerkstraat,2,A,02,6227SR,Maastricht,Maastricht,Limburg,VBO,5.727140,50.839984
-Oude Kerkstraat,2,A,,6227SR,Maastricht,Maastricht,Limburg,VBO,5.727212,50.839964
 Oude Kerkstraat,2,B,01,6227SR,Maastricht,Maastricht,Limburg,VBO,5.727150,50.839984
 Oude Kerkstraat,2,B,02,6227SR,Maastricht,Maastricht,Limburg,VBO,5.727150,50.839984
-Oude Kerkstraat,2,B,,6227SR,Maastricht,Maastricht,Limburg,VBO,5.727212,50.839964
 Oude Kerkstraat,2,C,,6227SR,Maastricht,Maastricht,Limburg,VBO,5.727212,50.839964
 Oude Kerkstraat,4,,,6227SR,Maastricht,Maastricht,Limburg,VBO,5.726982,50.840006
 Oude Kerkstraat,6,,,6227SR,Maastricht,Maastricht,Limburg,VBO,5.726901,50.840025
@@ -3149,7 +3146,6 @@ Sint Servatiusweg,29,,,6227TP,Maastricht,Maastricht,Limburg,VBO,5.730091,50.8400
 Sint Servatiusweg,31,,,6227TP,Maastricht,Maastricht,Limburg,VBO,5.730108,50.839947
 Sint Servatiusweg,33,A,01,6227TP,Maastricht,Maastricht,Limburg,VBO,5.730110,50.839888
 Sint Servatiusweg,33,A,02,6227TP,Maastricht,Maastricht,Limburg,VBO,5.730489,50.839873
-Sint Servatiusweg,33,A,,6227TP,Maastricht,Maastricht,Limburg,VBO,5.730110,50.839888
 Sint Servatiusweg,33,B,,6227TP,Maastricht,Maastricht,Limburg,VBO,5.730110,50.839888
 Sint Servatiusweg,33,G,01,6227TP,Maastricht,Maastricht,Limburg,VBO,5.730746,50.839872
 Sint Servatiusweg,33,,,6227TP,Maastricht,Maastricht,Limburg,VBO,5.730110,50.839888
