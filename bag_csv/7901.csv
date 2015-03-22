@@ -286,7 +286,6 @@ van Nijenhovelaan,9,,,7901AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476311,52.730075
 van Nijenhovelaan,11,,,7901AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476411,52.729921
 van Nijenhovelaan,13,,,7901AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475906,52.729872
 van Nijenhovelaan,15,,,7901AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475800,52.730101
-van Nijenhovelaan,15,,,7901AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475807,52.730070
 Oostenrijkselaan,1,,,7901AL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475393,52.730065
 Oostenrijkselaan,2,,,7901AL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475096,52.730032
 Oostenrijkselaan,3,,,7901AL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475417,52.729831
@@ -544,6 +543,7 @@ Herman Bavinckstraat,21,,,7901BS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475628,52.727
 Herman Bavinckstraat,23,,,7901BS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475627,52.727564
 Herman Bavinckstraat,25,,,7901BS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475639,52.727465
 Herman Bavinckstraat,27,,,7901BS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475638,52.727403
+Herman Bavinckstraat,29,,GV,7901BS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475078,52.726925
 Herman Bavinckstraat,2,,,7901BT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475261,52.728925
 Herman Bavinckstraat,4,,,7901BT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475260,52.728871
 Herman Bavinckstraat,6,,,7901BT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475258,52.728817
@@ -1793,7 +1793,6 @@ Bilderdijklaan,72,,,7901JH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.474962,52.721657
 Bilderdijklaan,74,,,7901JH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.474961,52.721603
 Bilderdijklaan,76,,,7901JH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.474960,52.721549
 Westerkerkstraat,2,a,,7901JJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476842,52.724021
-Westerkerkstraat,4,T,,7901JJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476107,52.723836
 Brederoweg,2,,,7901JK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476537,52.721885
 Brederoweg,4,,,7901JK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476544,52.721570
 Jacob Catsstraat,1,,,7901JK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475528,52.721175
@@ -1872,6 +1871,7 @@ Bilderdijkplein,2,,G008,7901JM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476078,52.72499
 Bilderdijkplein,2,,G009,7901JM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476079,52.724969
 Bilderdijkplein,2,,G010,7901JM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476082,52.724943
 Bilderdijkplein,2,,G011,7901JM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476082,52.724915
+Bilderdijkplein,3,,,7901JM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476609,52.725955
 Bilderdijkplein,4,,G001,7901JM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476065,52.724644
 Bilderdijkplein,4,,G002,7901JM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476065,52.724616
 Bilderdijkplein,4,,G003,7901JM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476064,52.724590
@@ -1933,7 +1933,7 @@ Hoofdstraat,76,,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477204,52.726103
 Hoofdstraat,78,,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477321,52.726048
 Hoofdstraat,80,,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477320,52.726012
 Hoofdstraat,82,a,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477245,52.725950
-Hoofdstraat,82,,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477334,52.725967
+Hoofdstraat,82,,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477336,52.725948
 Hoofdstraat,84,,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477332,52.725895
 Hoofdstraat,88,,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477344,52.725787
 Hoofdstraat,90,,,7901JT,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477342,52.725697
@@ -2331,12 +2331,6 @@ Voltastraat,17,,,7901LJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477434,52.733561
 Voltastraat,19,,,7901LJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477437,52.733668
 Voltastraat,21,,,7901LJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477440,52.733803
 Voltastraat,23,,,7901LJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.477426,52.733857
-Bosbesstraat,1,,G001,7901PL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.489492,52.715519
-Bosbesstraat,1,,G002,7901PL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.489531,52.715521
-Bosbesstraat,1,,G003,7901PL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.489570,52.715514
-Bosbesstraat,1,,G004,7901PL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.489614,52.715511
-Bosbesstraat,1,,G005,7901PL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.489655,52.715509
-Bosbesstraat,1,,G006,7901PL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.489700,52.715509
 Toldijk,1,a,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473130,52.741509
 Toldijk,1,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473131,52.741554
 Toldijk,3,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473171,52.741392
@@ -2346,9 +2340,9 @@ Toldijk,9,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473307,52.740905
 Toldijk,11,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.474014,52.740755
 Toldijk,15,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473267,52.740483
 Toldijk,17,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473580,52.740237
-Toldijk,19,T,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473598,52.739509
 Toldijk,19,b,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476030,52.739631
 Toldijk,19,c,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.476752,52.739490
+Toldijk,19,T,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473598,52.739509
 Toldijk,21,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473558,52.739087
 Toldijk,23,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473728,52.738762
 Toldijk,25,,,7901TA,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473975,52.738553
@@ -2361,6 +2355,7 @@ Toldijk,14,,,7901TB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473922,52.737646
 Toldijk,16,,,7901TB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475112,52.735988
 Toldijk,18,,,7901TB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475373,52.735826
 Wijsterseweg,1,,,7901TC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.473606,52.741603
+Wijsterseweg,2,a,,7901TC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475686,52.741448
 Wijsterseweg,2,,,7901TC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.475488,52.741649
 Fluitenbergseweg-Oost,7,,,7901TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.467779,52.740102
 Fluitenbergseweg-Oost,9,,,7901TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.467660,52.740076

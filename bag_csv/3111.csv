@@ -311,9 +311,9 @@ Rustenburg,17,,,3111AK,Schiedam,Schiedam,Zuid-Holland,VBO,4.404304,51.910313
 Rustenburg,18,,,3111AK,Schiedam,Schiedam,Zuid-Holland,VBO,4.404304,51.910313
 Makkersstraat,1,,,3111AL,Schiedam,Schiedam,Zuid-Holland,VBO,4.405628,51.910979
 Makkersstraat,2,,,3111AL,Schiedam,Schiedam,Zuid-Holland,VBO,4.405556,51.910828
-Makkersstraat,3,,1,3111AL,Schiedam,Schiedam,Zuid-Holland,VBO,4.405845,51.911027
-Makkersstraat,3,,,3111AL,Schiedam,Schiedam,Zuid-Holland,VBO,4.405845,51.911027
+Makkersstraat,3,,,3111AL,Schiedam,Schiedam,Zuid-Holland,VBO,4.405753,51.911017
 Makkersstraat,4,,,3111AL,Schiedam,Schiedam,Zuid-Holland,VBO,4.405788,51.910909
+Makkersstraat,9,,,3111AL,Schiedam,Schiedam,Zuid-Holland,VBO,4.405845,51.911027
 Oranjestraat,1,,,3111AM,Schiedam,Schiedam,Zuid-Holland,VBO,4.400437,51.912943
 Oranjestraat,3,,,3111AM,Schiedam,Schiedam,Zuid-Holland,VBO,4.400437,51.912943
 Oranjestraat,5,,,3111AM,Schiedam,Schiedam,Zuid-Holland,VBO,4.400437,51.912943
@@ -722,6 +722,7 @@ Korte Haven,2,,,3111BJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.395623,51.917637
 Korte Haven,4,,,3111BJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.395522,51.917630
 Korte Haven,6,A,,3111BJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.395440,51.917628
 Korte Haven,6,B,,3111BJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.395440,51.917628
+Korte Haven,6,,,3111BJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.395440,51.917628
 Korte Haven,8,,,3111BJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.395340,51.917623
 Korte Haven,10,,,3111BJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.395238,51.917617
 Korte Haven,12,A,,3111BJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.395091,51.917556
@@ -996,16 +997,16 @@ Westvest,207,,,3111BT,Schiedam,Schiedam,Zuid-Holland,VBO,4.398392,51.913677
 Westvest,211,,,3111BT,Schiedam,Schiedam,Zuid-Holland,VBO,4.397927,51.913761
 Westvest,213,,,3111BT,Schiedam,Schiedam,Zuid-Holland,VBO,4.397855,51.913767
 Westvest,215,,,3111BT,Schiedam,Schiedam,Zuid-Holland,VBO,4.397840,51.913693
-Westvest,217,A,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.396893,51.913889
-Westvest,217,B,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.396992,51.913834
-Westvest,217,C,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397085,51.913788
-Westvest,217,D,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397171,51.913742
-Westvest,217,E,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397259,51.913696
-Westvest,217,F,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397348,51.913649
-Westvest,217,G,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397433,51.913604
-Westvest,217,H,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397513,51.913568
-Westvest,217,J,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397601,51.913549
-Westvest,217,K,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397704,51.913527
+Westvest,217,A,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397586,51.913668
+Westvest,217,B,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397508,51.913599
+Westvest,217,C,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397296,51.913690
+Westvest,217,D,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397217,51.913725
+Westvest,217,E,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397121,51.913762
+Westvest,217,F,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.397040,51.913802
+Westvest,217,G,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.396945,51.913837
+Westvest,217,H,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.396865,51.913872
+Westvest,217,J,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.396693,51.913999
+Westvest,217,K,,3111BT,Schiedam,Schiedam,Zuid-Holland,LIG,4.396722,51.914073
 Westvest,229,,,3111BT,Schiedam,Schiedam,Zuid-Holland,VBO,4.395205,51.915694
 Westvest,231,,,3111BT,Schiedam,Schiedam,Zuid-Holland,VBO,4.394294,51.916334
 Westvest,233,,,3111BT,Schiedam,Schiedam,Zuid-Holland,VBO,4.394294,51.916334
@@ -1477,9 +1478,6 @@ Broersvest,95,A,,3111ED,Schiedam,Schiedam,Zuid-Holland,VBO,4.402223,51.916587
 Broersvest,95,B,,3111ED,Schiedam,Schiedam,Zuid-Holland,VBO,4.402223,51.916587
 Broersvest,95,C,,3111ED,Schiedam,Schiedam,Zuid-Holland,VBO,4.402223,51.916587
 Broersvest,95,D,,3111ED,Schiedam,Schiedam,Zuid-Holland,VBO,4.402223,51.916587
-Broersvest,99,A,,3111ED,Schiedam,Schiedam,Zuid-Holland,VBO,4.402215,51.916665
-Broersvest,99,B,1,3111ED,Schiedam,Schiedam,Zuid-Holland,VBO,4.402215,51.916665
-Broersvest,99,B,2,3111ED,Schiedam,Schiedam,Zuid-Holland,VBO,4.402215,51.916665
 Broersvest,109,A,,3111EE,Schiedam,Schiedam,Zuid-Holland,VBO,4.402186,51.916986
 Broersvest,109,B,,3111EE,Schiedam,Schiedam,Zuid-Holland,VBO,4.402186,51.916986
 Broersvest,109,C,,3111EE,Schiedam,Schiedam,Zuid-Holland,VBO,4.402186,51.916986
@@ -1718,6 +1716,8 @@ Hoogstraat,20,,,3111HH,Schiedam,Schiedam,Zuid-Holland,VBO,4.400919,51.914587
 Hoogstraat,22,,,3111HJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.400741,51.914606
 Hoogstraat,24,,,3111HJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.400679,51.914614
 Hoogstraat,26,,,3111HJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.400615,51.914624
+Hoogstraat,28,A,,3111HJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.400554,51.914632
+Hoogstraat,28,B,,3111HJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.400521,51.914637
 Hoogstraat,28,,,3111HJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.400544,51.914633
 Hoogstraat,30,,,3111HJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.400443,51.914645
 Hoogstraat,40,,,3111HJ,Schiedam,Schiedam,Zuid-Holland,VBO,4.400028,51.914692
@@ -1821,7 +1821,7 @@ Appelmarkt,6,A,,3111JA,Schiedam,Schiedam,Zuid-Holland,VBO,4.397142,51.915759
 Appelmarkt,6,B,,3111JA,Schiedam,Schiedam,Zuid-Holland,VBO,4.397142,51.915759
 Bokkensteeg,2,A,,3111JB,Schiedam,Schiedam,Zuid-Holland,VBO,4.397140,51.916797
 Bokkensteeg,2,B,,3111JB,Schiedam,Schiedam,Zuid-Holland,VBO,4.397140,51.916797
-Bokkensteeg,4,,,3111JB,Schiedam,Schiedam,Zuid-Holland,VBO,4.396873,51.916790
+Bokkensteeg,4,,,3111JB,Schiedam,Schiedam,Zuid-Holland,VBO,4.397019,51.916796
 Gruttersteeg,7,,,3111JC,Schiedam,Schiedam,Zuid-Holland,VBO,4.397480,51.917363
 Gruttersteeg,8,,,3111JC,Schiedam,Schiedam,Zuid-Holland,VBO,4.397961,51.917347
 Gruttersteeg,10,,1,3111JC,Schiedam,Schiedam,Zuid-Holland,VBO,4.397966,51.917400
@@ -1997,8 +1997,8 @@ Laan,3,,,3111JL,Schiedam,Schiedam,Zuid-Holland,VBO,4.400316,51.916506
 Laan,4,,,3111JL,Schiedam,Schiedam,Zuid-Holland,VBO,4.399838,51.916646
 Laan,6,,,3111JL,Schiedam,Schiedam,Zuid-Holland,VBO,4.399734,51.916655
 Lombardsteeg,6,,,3111JM,Schiedam,Schiedam,Zuid-Holland,VBO,4.397601,51.917734
-Lombardsteeg,7,,,3111JM,Schiedam,Schiedam,Zuid-Holland,VBO,4.397963,51.917623
-Lombardsteeg,9,,,3111JM,Schiedam,Schiedam,Zuid-Holland,VBO,4.397936,51.917628
+Lombardsteeg,7,,,3111JM,Schiedam,Schiedam,Zuid-Holland,VBO,4.397926,51.917546
+Lombardsteeg,9,,,3111JM,Schiedam,Schiedam,Zuid-Holland,VBO,4.397921,51.917538
 Nieuwstraat,1,,,3111JN,Schiedam,Schiedam,Zuid-Holland,VBO,4.397987,51.916816
 Nieuwstraat,3,,,3111JN,Schiedam,Schiedam,Zuid-Holland,VBO,4.398003,51.916856
 Nieuwstraat,5,,,3111JN,Schiedam,Schiedam,Zuid-Holland,VBO,4.398018,51.916909
@@ -2531,8 +2531,6 @@ Broersveld,108,,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401393,51.916395
 Broersveld,112,,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401406,51.916455
 Broersveld,114,,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401411,51.916487
 Broersveld,116,,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401418,51.916523
-Broersveld,128,,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401457,51.916717
-Broersveld,130,,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401461,51.916737
 Broersveld,140,A,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401517,51.916895
 Broersveld,140,B,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401517,51.916888
 Broersveld,142,,,3111LK,Schiedam,Schiedam,Zuid-Holland,VBO,4.401509,51.916944

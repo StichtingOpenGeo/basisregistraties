@@ -22,7 +22,9 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 2e Dorpsstraat,65,,,3701AA,Zeist,Zeist,Utrecht,VBO,5.240182,52.081011
 2e Dorpsstraat,67,,,3701AA,Zeist,Zeist,Utrecht,VBO,5.240299,52.080939
 2e Dorpsstraat,30,,,3701AB,Zeist,Zeist,Utrecht,VBO,5.239101,52.081626
-2e Dorpsstraat,32,A,,3701AB,Zeist,Zeist,Utrecht,VBO,5.239334,52.081378
+2e Dorpsstraat,32,A,1,3701AB,Zeist,Zeist,Utrecht,VBO,5.239406,52.081401
+2e Dorpsstraat,32,A,2,3701AB,Zeist,Zeist,Utrecht,VBO,5.239387,52.081393
+2e Dorpsstraat,32,A,,3701AB,Zeist,Zeist,Utrecht,VBO,5.239429,52.081412
 2e Dorpsstraat,32,B,,3701AB,Zeist,Zeist,Utrecht,VBO,5.239495,52.081378
 2e Dorpsstraat,34,A,,3701AB,Zeist,Zeist,Utrecht,VBO,5.239335,52.081234
 2e Dorpsstraat,34,,,3701AB,Zeist,Zeist,Utrecht,VBO,5.239510,52.081334
@@ -191,7 +193,7 @@ Nooitgedacht,62,,,3701AP,Zeist,Zeist,Utrecht,VBO,5.244260,52.082939
 Nooitgedacht,64,,,3701AP,Zeist,Zeist,Utrecht,VBO,5.244362,52.082966
 Nooitgedacht,66,,,3701AP,Zeist,Zeist,Utrecht,VBO,5.244421,52.082993
 Nooitgedacht,68,,,3701AP,Zeist,Zeist,Utrecht,VBO,5.244523,52.083029
-Nooitgedacht,70,,,3701AP,Zeist,Zeist,Utrecht,VBO,5.244596,52.083012
+Nooitgedacht,70,,,3701AP,Zeist,Zeist,Utrecht,VBO,5.244599,52.083036
 Nooitgedacht,72,,BIS,3701AP,Zeist,Zeist,Utrecht,VBO,5.244756,52.083057
 Nooitgedacht,72,,,3701AP,Zeist,Zeist,Utrecht,VBO,5.244727,52.083102
 Nooitgedacht,74,,,3701AP,Zeist,Zeist,Utrecht,VBO,5.244844,52.083066
@@ -257,7 +259,6 @@ Herenlaan,44,,,3701AV,Zeist,Zeist,Utrecht,VBO,5.243706,52.083010
 Herenlaan,46,,BIS,3701AV,Zeist,Zeist,Utrecht,VBO,5.243750,52.082966
 Herenlaan,46,,,3701AV,Zeist,Zeist,Utrecht,VBO,5.243735,52.082984
 2e Hogeweg,79,A,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243483,52.084395
-2e Hogeweg,79,A,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243512,52.084412
 2e Hogeweg,79,B,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243399,52.084557
 2e Hogeweg,79,S,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243494,52.084378
 2e Hogeweg,79,,1,3701AW,Zeist,Zeist,Utrecht,VBO,5.243141,52.084552
@@ -267,9 +268,22 @@ Herenlaan,46,,,3701AV,Zeist,Zeist,Utrecht,VBO,5.243735,52.082984
 2e Hogeweg,81,B,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243578,52.084390
 2e Hogeweg,81,C,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243588,52.084376
 2e Hogeweg,81,S,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243545,52.084356
-2e Hogeweg,81,,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243614,52.084377
 2e Hogeweg,81,,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243576,52.084347
-2e Hogeweg,83,,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243964,52.084332
+2e Hogeweg,83,A,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243848,52.084244
+2e Hogeweg,83,B,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243935,52.084190
+2e Hogeweg,83,C,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243967,52.084464
+2e Hogeweg,83,D,,3701AW,Zeist,Zeist,Utrecht,VBO,5.244139,52.084367
+2e Hogeweg,83,E,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243761,52.084303
+2e Hogeweg,83,G,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243947,52.084215
+2e Hogeweg,83,H,,3701AW,Zeist,Zeist,Utrecht,VBO,5.244033,52.084399
+2e Hogeweg,83,J,,3701AW,Zeist,Zeist,Utrecht,VBO,5.244145,52.084343
+2e Hogeweg,83,K,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243805,52.084307
+2e Hogeweg,83,M,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243966,52.084212
+2e Hogeweg,83,N,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243992,52.084383
+2e Hogeweg,83,P,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243838,52.084309
+2e Hogeweg,83,R,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243948,52.084250
+2e Hogeweg,83,S,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243991,52.084353
+2e Hogeweg,83,,,3701AW,Zeist,Zeist,Utrecht,VBO,5.243751,52.084304
 2e Hogeweg,85,,,3701AW,Zeist,Zeist,Utrecht,VBO,5.244111,52.084117
 2e Hogeweg,87,,,3701AW,Zeist,Zeist,Utrecht,VBO,5.244257,52.084045
 2e Hogeweg,89,A,,3701AW,Zeist,Zeist,Utrecht,VBO,5.244301,52.084018
@@ -1182,6 +1196,7 @@ Steynlaan,16,A,,3701EE,Zeist,Zeist,Utrecht,VBO,5.246267,52.089847
 Steynlaan,16,,,3701EE,Zeist,Zeist,Utrecht,VBO,5.246199,52.089832
 Steynlaan,18,A,,3701EE,Zeist,Zeist,Utrecht,VBO,5.246193,52.089880
 Steynlaan,18,,,3701EE,Zeist,Zeist,Utrecht,VBO,5.246168,52.089859
+Steynlaan,20,A,,3701EE,Zeist,Zeist,Utrecht,VBO,5.246169,52.089947
 Steynlaan,20,,,3701EE,Zeist,Zeist,Utrecht,VBO,5.246077,52.089907
 Steynlaan,22,A,,3701EE,Zeist,Zeist,Utrecht,VBO,5.246120,52.090015
 Steynlaan,22,B,,3701EE,Zeist,Zeist,Utrecht,VBO,5.246106,52.089997
@@ -1907,11 +1922,11 @@ Slotlaan,461,,,3701GZ,Zeist,Zeist,Utrecht,VBO,5.249453,52.089974
 1e Dorpsstraat,22,,,3701HB,Zeist,Zeist,Utrecht,VBO,5.238077,52.082338
 1e Dorpsstraat,24,,,3701HB,Zeist,Zeist,Utrecht,VBO,5.238150,52.082276
 1e Dorpsstraat,26,,,3701HB,Zeist,Zeist,Utrecht,VBO,5.238179,52.082186
-Maurikstraat,1,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237916,52.082936
+Maurikstraat,1,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237787,52.082870
 Maurikstraat,2,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238116,52.082911
-Maurikstraat,3,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237893,52.082958
+Maurikstraat,3,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237711,52.082952
 Maurikstraat,4,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238135,52.082891
-Maurikstraat,5,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237855,52.082986
+Maurikstraat,5,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237641,52.083022
 Maurikstraat,6,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238148,52.082873
 Maurikstraat,7,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238013,52.083096
 Maurikstraat,8,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238196,52.082882
@@ -1919,11 +1934,11 @@ Maurikstraat,9,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237988,52.083108
 Maurikstraat,10,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238176,52.082902
 Maurikstraat,11,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238145,52.083099
 Maurikstraat,12,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238163,52.082915
-Maurikstraat,13,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237824,52.083037
+Maurikstraat,13,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237757,52.082857
 Maurikstraat,14,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238192,52.082916
-Maurikstraat,15,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237873,52.083017
+Maurikstraat,15,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237682,52.082941
 Maurikstraat,16,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238205,52.082906
-Maurikstraat,17,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237938,52.082993
+Maurikstraat,17,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237612,52.083012
 Maurikstraat,18,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238223,52.082893
 Maurikstraat,19,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238048,52.083018
 Maurikstraat,20,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238454,52.083017
@@ -1931,11 +1946,11 @@ Maurikstraat,21,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238027,52.083038
 Maurikstraat,22,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238738,52.083351
 Maurikstraat,23,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238005,52.083071
 Maurikstraat,24,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238801,52.083374
-Maurikstraat,25,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237949,52.083073
+Maurikstraat,25,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237736,52.082846
 Maurikstraat,26,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238869,52.083401
-Maurikstraat,27,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237932,52.083056
+Maurikstraat,27,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237660,52.082933
 Maurikstraat,28,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238960,52.083358
-Maurikstraat,29,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237912,52.083043
+Maurikstraat,29,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237586,52.083005
 Maurikstraat,30,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238898,52.083327
 Maurikstraat,31,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237990,52.083048
 Maurikstraat,32,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238825,52.083299
@@ -1943,11 +1958,11 @@ Maurikstraat,33,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238040,52.083055
 Maurikstraat,34,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238519,52.083578
 Maurikstraat,35,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238071,52.083043
 Maurikstraat,36,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238579,52.083579
-Maurikstraat,37,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237943,52.083015
+Maurikstraat,37,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237704,52.082835
 Maurikstraat,38,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238608,52.083598
-Maurikstraat,39,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237984,52.083004
+Maurikstraat,39,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237633,52.082919
 Maurikstraat,40,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238670,52.083577
-Maurikstraat,41,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237995,52.082984
+Maurikstraat,41,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.237553,52.082996
 Maurikstraat,42,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238635,52.083559
 Maurikstraat,43,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238029,52.083003
 Maurikstraat,44,,,3701HC,Zeist,Zeist,Utrecht,VBO,5.238584,52.083547
@@ -2504,7 +2519,8 @@ Voorheuvel,2,,,3701JE,Zeist,Zeist,Utrecht,VBO,5.239653,52.086439
 Voorheuvel,4,A,,3701JE,Zeist,Zeist,Utrecht,VBO,5.239682,52.086484
 Voorheuvel,4,,,3701JE,Zeist,Zeist,Utrecht,VBO,5.239973,52.086709
 Voorheuvel,6,,,3701JE,Zeist,Zeist,Utrecht,VBO,5.239799,52.086538
-Voorheuvel,8,,,3701JE,Zeist,Zeist,Utrecht,VBO,5.239828,52.086583
+Voorheuvel,8,A,,3701JE,Zeist,Zeist,Utrecht,VBO,5.239899,52.086557
+Voorheuvel,8,,,3701JE,Zeist,Zeist,Utrecht,VBO,5.239836,52.086598
 Voorheuvel,10,,,3701JE,Zeist,Zeist,Utrecht,VBO,5.239886,52.086628
 Voorheuvel,22,,,3701JE,Zeist,Zeist,Utrecht,VBO,5.240030,52.087149
 Voorheuvel,26,,,3701JE,Zeist,Zeist,Utrecht,VBO,5.240423,52.087545
@@ -2589,6 +2605,7 @@ Bergweg,28,,,3701JK,Zeist,Zeist,Utrecht,VBO,5.242060,52.091286
 Bergweg,30,,,3701JK,Zeist,Zeist,Utrecht,VBO,5.242103,52.091322
 Bergweg,32,,,3701JK,Zeist,Zeist,Utrecht,VBO,5.242228,52.091427
 Bergweg,34,,,3701JK,Zeist,Zeist,Utrecht,VBO,5.242556,52.091143
+Bergweg,36,,,3701JK,Zeist,Zeist,Utrecht,VBO,5.242322,52.091592
 Bergweg,38,,,3701JK,Zeist,Zeist,Utrecht,VBO,5.242278,52.091583
 Bergweg,40,,,3701JK,Zeist,Zeist,Utrecht,VBO,5.242336,52.091628
 Bergweg,42,A,,3701JK,Zeist,Zeist,Utrecht,VBO,5.242361,52.091568

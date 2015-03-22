@@ -1,4 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
+Zaagselpad,1,,,1544AA,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810697,52.470818
 Zaagselpad,2,,,1544AA,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810712,52.471036
 Zaagselpad,4,,,1544AA,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810668,52.471027
 Zaagselpad,6,,,1544AA,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810609,52.471026
@@ -297,7 +298,6 @@ Lagedijk,55,A,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813529,52.475085
 Lagedijk,55,,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813470,52.475076
 Lagedijk,57,,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812939,52.475208
 Lagedijk,59,,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812879,52.475262
-Lagedijk,61,A,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812657,52.475332
 Lagedijk,61,,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812657,52.475332
 Lagedijk,63,A,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812007,52.475518
 Lagedijk,63,B,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812036,52.475572
@@ -314,6 +314,7 @@ Lagedijk,65,D,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.811368,52.476045
 Lagedijk,67,,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.811338,52.476081
 Lagedijk,69,,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.811102,52.476098
 Lagedijk,73,,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810750,52.475988
+Lagedijk,83,,,1544BC,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810467,52.476311
 Lagedijk,85,,,1544BD,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810256,52.476615
 Lagedijk,87,,,1544BD,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810108,52.476686
 Lagedijk,89,,,1544BD,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810034,52.476731
@@ -337,6 +338,7 @@ Lagedijk,135,A,,1544BE,Zaandijk,Zaanstad,Noord-Holland,VBO,4.808151,52.478879
 Lagedijk,135,,,1544BE,Zaandijk,Zaanstad,Noord-Holland,VBO,4.808151,52.478879
 Lagedijk,137,A,,1544BE,Zaandijk,Zaanstad,Noord-Holland,VBO,4.808151,52.478933
 Lagedijk,137,,,1544BE,Zaandijk,Zaanstad,Noord-Holland,VBO,4.808151,52.478933
+Lagedijk,139,,,1544BE,Zaandijk,Zaanstad,Noord-Holland,VBO,4.808152,52.479673
 Lagedijk,141,,,1544BE,Zaandijk,Zaanstad,Noord-Holland,VBO,4.808700,52.480830
 Lagedijk,143,,,1544BE,Zaandijk,Zaanstad,Noord-Holland,VBO,4.808787,52.480886
 Lagedijk,147,,,1544BE,Zaandijk,Zaanstad,Noord-Holland,VBO,4.809135,52.481319
@@ -366,7 +368,6 @@ Lagedijk,58,,,1544BH,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812749,52.472779
 Lagedijk,60,,,1544BH,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812866,52.472835
 Lagedijk,62,,,1544BH,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812909,52.472952
 Lagedijk,64,,,1544BH,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812864,52.472997
-Lagedijk,68,,,1544BH,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812937,52.473078
 Lagedijk,70,,,1544BH,Zaandijk,Zaanstad,Noord-Holland,VBO,4.812937,52.473078
 Lagedijk,72,,,1544BH,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813069,52.473141
 Lagedijk,74,,,1544BJ,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813079,52.473210
@@ -405,8 +406,8 @@ Lagedijk,142,a,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813861,52.475495
 Lagedijk,142,b,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813614,52.475310
 Lagedijk,142,c,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813861,52.475495
 Lagedijk,142,,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813629,52.475319
-Lagedijk,146,B,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813404,52.475624
 Lagedijk,146,a,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813082,52.475487
+Lagedijk,146,B,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813404,52.475624
 Lagedijk,146,c,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813111,52.475508
 Lagedijk,146,,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813244,52.475461
 Lagedijk,148,,,1544BL,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813007,52.475577
@@ -2612,12 +2613,10 @@ Goeman Borgesiusstraat,32,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810773,
 Goeman Borgesiusstraat,34,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810758,52.474272
 Goeman Borgesiusstraat,36,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810742,52.474326
 Goeman Borgesiusstraat,38,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810742,52.474352
-Goeman Borgesiusstraat,40,A,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810653,52.474397
 Goeman Borgesiusstraat,40,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810653,52.474397
 Goeman Borgesiusstraat,42,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810653,52.474433
 Goeman Borgesiusstraat,44,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810637,52.474505
 Goeman Borgesiusstraat,46,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810636,52.474577
-Goeman Borgesiusstraat,48,A,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810635,52.474631
 Goeman Borgesiusstraat,48,B,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810826,52.474658
 Goeman Borgesiusstraat,48,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810635,52.474631
 Goeman Borgesiusstraat,52,,,1544RP,Zaandijk,Zaanstad,Noord-Holland,VBO,4.810589,52.474765
@@ -2678,11 +2677,12 @@ Tuinstraat,53,,,1544RT,Zaandijk,Zaanstad,Noord-Holland,VBO,4.811159,52.473950
 Tuinstraat,55,,,1544RT,Zaandijk,Zaanstad,Noord-Holland,VBO,4.811086,52.473932
 Tuinstraat,2,A,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813932,52.474620
 Tuinstraat,2,B,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813859,52.474610
-Tuinstraat,2,F,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813638,52.474627
 Tuinstraat,2,c,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813755,52.474655
 Tuinstraat,2,d,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813726,52.474646
 Tuinstraat,2,e,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813682,52.474636
+Tuinstraat,2,F,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813638,52.474627
 Tuinstraat,2,g,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813594,52.474627
+Tuinstraat,4,,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.813469,52.474608
 Tuinstraat,8,,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.811230,52.474193
 Tuinstraat,10,,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.811156,52.474175
 Tuinstraat,12,,,1544RV,Zaandijk,Zaanstad,Noord-Holland,VBO,4.811098,52.474165

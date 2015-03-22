@@ -15,7 +15,9 @@ Vondelweg,18,,RD,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656430,52.406469
 Vondelweg,18,,ZW,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656515,52.406454
 Vondelweg,20,,,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656531,52.406503
 Vondelweg,22,,,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656568,52.406551
-Vondelweg,24,,RD,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656524,52.406616
+Vondelweg,24,A,,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656532,52.406595
+Vondelweg,24,B,,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656534,52.406621
+Vondelweg,24,C,,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656495,52.406607
 Vondelweg,24,,ZW,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656593,52.406603
 Vondelweg,26,,RD,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656539,52.406658
 Vondelweg,26,,ZW,2025AA,Haarlem,Haarlem,Noord-Holland,VBO,4.656619,52.406647
@@ -299,7 +301,6 @@ Jan Gijzenkade,161,,,2025BE,Haarlem,Haarlem,Noord-Holland,VBO,4.652062,52.409675
 Jan Gijzenkade,163,A,,2025BE,Haarlem,Haarlem,Noord-Holland,VBO,4.651800,52.409910
 Jan Gijzenkade,163,B,,2025BE,Haarlem,Haarlem,Noord-Holland,VBO,4.651749,52.409904
 Jan Gijzenkade,163,,,2025BE,Haarlem,Haarlem,Noord-Holland,VBO,4.651755,52.409888
-Jan Gijzenkade,163,,,2025BE,Haarlem,Haarlem,Noord-Holland,VBO,4.651778,52.409898
 Jan Gijzenkade,165,,,2025BE,Haarlem,Haarlem,Noord-Holland,VBO,4.651724,52.409939
 Jan Gijzenkade,167,,,2025BE,Haarlem,Haarlem,Noord-Holland,VBO,4.651672,52.409980
 Jan Gijzenkade,169,,,2025BE,Haarlem,Haarlem,Noord-Holland,VBO,4.651624,52.410018
@@ -865,10 +866,10 @@ Rijksstraatweg,417,,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.650215,52.413721
 Rijksstraatweg,419,,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.650190,52.413772
 Rijksstraatweg,427,,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.650250,52.413845
 Rijksstraatweg,429,,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.650230,52.413899
-Rijksstraatweg,431,A,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.649888,52.414142
+Rijksstraatweg,431,A,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.650073,52.414080
 Rijksstraatweg,431,,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.650098,52.413970
-Rijksstraatweg,433,,RD,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.649992,52.414062
-Rijksstraatweg,433,,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.650062,52.414070
+Rijksstraatweg,433,,RD,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.649989,52.414142
+Rijksstraatweg,433,,,2025DB,Haarlem,Haarlem,Noord-Holland,VBO,4.650044,52.414154
 Rijksstraatweg,435,,,2025DC,Haarlem,Haarlem,Noord-Holland,VBO,4.649969,52.414401
 Rijksstraatweg,437,,,2025DC,Haarlem,Haarlem,Noord-Holland,VBO,4.649897,52.414448
 Rijksstraatweg,439,A,,2025DC,Haarlem,Haarlem,Noord-Holland,VBO,4.649882,52.414502
@@ -1181,7 +1182,6 @@ Rijksstraatweg,342,,,2025DP,Haarlem,Haarlem,Noord-Holland,VBO,4.651345,52.412604
 Rijksstraatweg,344,,,2025DP,Haarlem,Haarlem,Noord-Holland,VBO,4.651270,52.412665
 Rijksstraatweg,346,,,2025DP,Haarlem,Haarlem,Noord-Holland,VBO,4.651287,52.412721
 Rijksstraatweg,348,A,,2025DP,Haarlem,Haarlem,Noord-Holland,VBO,4.651678,52.412572
-Rijksstraatweg,348,,,2025DP,Haarlem,Haarlem,Noord-Holland,VBO,4.651139,52.412803
 Rijksstraatweg,350,,RD,2025DR,Haarlem,Haarlem,Noord-Holland,VBO,4.651064,52.413106
 Rijksstraatweg,350,,,2025DR,Haarlem,Haarlem,Noord-Holland,VBO,4.651007,52.413097
 Rijksstraatweg,352,,354,2025DR,Haarlem,Haarlem,Noord-Holland,VBO,4.650962,52.413223
@@ -3713,7 +3713,8 @@ Maasstraat,35,,,2025RK,Haarlem,Haarlem,Noord-Holland,VBO,4.648033,52.413839
 Maasstraat,37,,,2025RK,Haarlem,Haarlem,Noord-Holland,VBO,4.647991,52.413806
 Maasstraat,39,,,2025RK,Haarlem,Haarlem,Noord-Holland,VBO,4.647950,52.413773
 Maasstraat,41,,,2025RK,Haarlem,Haarlem,Noord-Holland,VBO,4.647881,52.413731
-Maasstraat,2,,RD,2025RL,Haarlem,Haarlem,Noord-Holland,VBO,4.649918,52.414107
+Maasstraat,2,A,,2025RL,Haarlem,Haarlem,Noord-Holland,VBO,4.649875,52.414153
+Maasstraat,2,B,,2025RL,Haarlem,Haarlem,Noord-Holland,VBO,4.649884,52.414125
 Maasstraat,6,,,2025RL,Haarlem,Haarlem,Noord-Holland,VBO,4.649735,52.414128
 Maasstraat,8,,,2025RL,Haarlem,Haarlem,Noord-Holland,VBO,4.649672,52.414119
 Maasstraat,10,,,2025RL,Haarlem,Haarlem,Noord-Holland,VBO,4.649606,52.414110

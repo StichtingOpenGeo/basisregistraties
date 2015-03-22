@@ -1,5 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Fellenoord,15,,,5612AA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.477894,51.445003
+Fellenoord,15,,,5612AA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.479263,51.445116
 Fellenoord,19,,,5612AA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.474903,51.444317
 Fellenoord,21,,,5612AA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.474568,51.444243
 Fellenoord,23,,,5612AA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.474890,51.444343
@@ -183,6 +183,7 @@ de Rondom,1,,,5612AP,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.490199,51.446560
 de Rondom,8,,,5612AP,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.492989,51.446452
 de Rondom,10,,,5612AP,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.493770,51.446384
 de Rondom,18,,,5612AP,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.494509,51.447623
+de Rondom,70,,,5612AP,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.494646,51.446998
 De Lismortel,12,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486831,51.449879
 De Lismortel,14,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486859,51.449832
 De Lismortel,16,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486829,51.449818
@@ -200,6 +201,231 @@ De Lismortel,34,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486776,51.44985
 De Lismortel,36,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486818,51.449878
 De Lismortel,38,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486819,51.449863
 De Lismortel,40,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486827,51.449835
+De Lismortel,42,,02,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450381
+De Lismortel,42,,04,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450347
+De Lismortel,42,,06,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450309
+De Lismortel,42,,08,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450276
+De Lismortel,42,,10,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489437,51.450289
+De Lismortel,42,,100,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489615,51.449951
+De Lismortel,42,,102,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489615,51.449984
+De Lismortel,42,,104,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489615,51.450023
+De Lismortel,42,,106,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489615,51.450057
+De Lismortel,42,,108,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489615,51.450090
+De Lismortel,42,,110,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489615,51.450127
+De Lismortel,42,,112,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489457,51.450308
+De Lismortel,42,,114,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489444,51.450224
+De Lismortel,42,,116,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489444,51.450191
+De Lismortel,42,,118,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489444,51.450157
+De Lismortel,42,,12,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450242
+De Lismortel,42,,120,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489444,51.450122
+De Lismortel,42,,122,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489444,51.450087
+De Lismortel,42,,124,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489444,51.450050
+De Lismortel,42,,126,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489444,51.450017
+De Lismortel,42,,128,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489443,51.449979
+De Lismortel,42,,130,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489443,51.449945
+De Lismortel,42,,132,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489610,51.449844
+De Lismortel,42,,134,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489610,51.449946
+De Lismortel,42,,136,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489610,51.449979
+De Lismortel,42,,138,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489610,51.450018
+De Lismortel,42,,14,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450209
+De Lismortel,42,,140,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489610,51.450051
+De Lismortel,42,,142,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489610,51.450084
+De Lismortel,42,,144,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489610,51.450121
+De Lismortel,42,,146,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489464,51.450314
+De Lismortel,42,,148,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.450219
+De Lismortel,42,,150,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.450186
+De Lismortel,42,,152,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.450152
+De Lismortel,42,,154,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.450117
+De Lismortel,42,,156,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.450080
+De Lismortel,42,,158,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.450045
+De Lismortel,42,,16,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450174
+De Lismortel,42,,160,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.450012
+De Lismortel,42,,162,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.449973
+De Lismortel,42,,164,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489449,51.449940
+De Lismortel,42,,166,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489606,51.449849
+De Lismortel,42,,168,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489606,51.449940
+De Lismortel,42,,170,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489606,51.449974
+De Lismortel,42,,172,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489606,51.450011
+De Lismortel,42,,174,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489606,51.450045
+De Lismortel,42,,176,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489606,51.450079
+De Lismortel,42,,178,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489606,51.450115
+De Lismortel,42,,18,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450140
+De Lismortel,42,,180,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489468,51.450321
+De Lismortel,42,,182,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489465,51.450242
+De Lismortel,42,,184,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489465,51.450209
+De Lismortel,42,,186,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489464,51.450174
+De Lismortel,42,,188,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489464,51.450139
+De Lismortel,42,,190,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489464,51.450105
+De Lismortel,42,,192,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489464,51.450069
+De Lismortel,42,,194,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489464,51.450034
+De Lismortel,42,,196,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489464,51.449998
+De Lismortel,42,,198,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489464,51.449963
+De Lismortel,42,,20,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450103
+De Lismortel,42,,200,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489603,51.449855
+De Lismortel,42,,202,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489596,51.449964
+De Lismortel,42,,204,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489596,51.449999
+De Lismortel,42,,206,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489596,51.450034
+De Lismortel,42,,208,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489596,51.450070
+De Lismortel,42,,210,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489596,51.450104
+De Lismortel,42,,212,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489596,51.450155
+De Lismortel,42,,214,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489475,51.450326
+De Lismortel,42,,216,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489472,51.450237
+De Lismortel,42,,218,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489472,51.450204
+De Lismortel,42,,22,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450068
+De Lismortel,42,,220,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489472,51.450168
+De Lismortel,42,,222,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489471,51.450134
+De Lismortel,42,,224,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489471,51.450099
+De Lismortel,42,,226,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489471,51.450063
+De Lismortel,42,,228,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489471,51.450029
+De Lismortel,42,,230,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489471,51.449993
+De Lismortel,42,,232,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489471,51.449958
+De Lismortel,42,,234,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489600,51.449860
+De Lismortel,42,,236,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489591,51.449959
+De Lismortel,42,,238,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489591,51.449995
+De Lismortel,42,,24,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.450034
+De Lismortel,42,,240,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489591,51.450030
+De Lismortel,42,,242,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489592,51.450065
+De Lismortel,42,,244,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489592,51.450099
+De Lismortel,42,,246,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489592,51.450150
+De Lismortel,42,,248,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489481,51.450332
+De Lismortel,42,,250,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.450232
+De Lismortel,42,,252,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.450199
+De Lismortel,42,,254,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.450163
+De Lismortel,42,,256,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.450129
+De Lismortel,42,,258,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.450093
+De Lismortel,42,,26,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.449997
+De Lismortel,42,,260,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.450057
+De Lismortel,42,,262,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.450023
+De Lismortel,42,,264,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.449986
+De Lismortel,42,,266,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489477,51.449952
+De Lismortel,42,,268,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489596,51.449866
+De Lismortel,42,,270,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489587,51.449954
+De Lismortel,42,,272,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489587,51.449989
+De Lismortel,42,,274,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489587,51.450024
+De Lismortel,42,,276,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489588,51.450060
+De Lismortel,42,,278,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489588,51.450094
+De Lismortel,42,,28,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489424,51.449963
+De Lismortel,42,,280,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489588,51.450144
+De Lismortel,42,,282,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489487,51.450338
+De Lismortel,42,,284,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.450226
+De Lismortel,42,,286,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.450193
+De Lismortel,42,,288,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.450158
+De Lismortel,42,,290,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.450124
+De Lismortel,42,,292,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.450087
+De Lismortel,42,,294,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.450051
+De Lismortel,42,,296,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.450017
+De Lismortel,42,,298,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.449981
+De Lismortel,42,,30,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489628,51.449826
+De Lismortel,42,,300,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489483,51.449946
+De Lismortel,42,,302,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489593,51.449872
+De Lismortel,42,,304,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489583,51.449949
+De Lismortel,42,,306,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489584,51.449985
+De Lismortel,42,,308,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489584,51.450018
+De Lismortel,42,,310,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489584,51.450056
+De Lismortel,42,,312,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489584,51.450088
+De Lismortel,42,,314,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489584,51.450138
+De Lismortel,42,,316,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489493,51.450344
+De Lismortel,42,,318,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.450221
+De Lismortel,42,,32,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489629,51.449962
+De Lismortel,42,,320,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.450188
+De Lismortel,42,,322,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.450152
+De Lismortel,42,,324,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.450117
+De Lismortel,42,,326,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.450080
+De Lismortel,42,,328,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.450045
+De Lismortel,42,,330,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.450011
+De Lismortel,42,,332,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.449974
+De Lismortel,42,,334,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489489,51.449940
+De Lismortel,42,,336,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489590,51.449878
+De Lismortel,42,,338,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489580,51.449943
+De Lismortel,42,,34,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489629,51.449996
+De Lismortel,42,,340,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489580,51.449979
+De Lismortel,42,,342,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489580,51.450012
+De Lismortel,42,,344,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489580,51.450050
+De Lismortel,42,,346,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489580,51.450081
+De Lismortel,42,,348,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489580,51.450131
+De Lismortel,42,,350,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489498,51.450351
+De Lismortel,42,,352,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.450242
+De Lismortel,42,,354,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.450210
+De Lismortel,42,,356,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.450174
+De Lismortel,42,,358,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.450140
+De Lismortel,42,,36,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489629,51.450033
+De Lismortel,42,,360,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.450104
+De Lismortel,42,,362,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.450069
+De Lismortel,42,,364,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.450034
+De Lismortel,42,,366,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.449999
+De Lismortel,42,,368,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489504,51.449963
+De Lismortel,42,,370,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489585,51.449884
+De Lismortel,42,,372,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489564,51.449964
+De Lismortel,42,,374,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489564,51.449999
+De Lismortel,42,,376,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489564,51.450033
+De Lismortel,42,,378,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489564,51.450069
+De Lismortel,42,,38,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489629,51.450069
+De Lismortel,42,,380,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489564,51.450102
+De Lismortel,42,,382,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489565,51.450154
+De Lismortel,42,,384,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489505,51.450357
+De Lismortel,42,,386,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.450236
+De Lismortel,42,,388,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.450204
+De Lismortel,42,,390,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.450167
+De Lismortel,42,,392,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.450134
+De Lismortel,42,,394,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.450099
+De Lismortel,42,,396,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.450063
+De Lismortel,42,,398,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.450028
+De Lismortel,42,,40,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489629,51.450102
+De Lismortel,42,,400,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.449993
+De Lismortel,42,,402,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489508,51.449957
+De Lismortel,42,,404,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489581,51.449889
+De Lismortel,42,,406,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489560,51.449959
+De Lismortel,42,,408,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489560,51.449993
+De Lismortel,42,,410,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489560,51.450027
+De Lismortel,42,,412,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489560,51.450063
+De Lismortel,42,,414,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489560,51.450096
+De Lismortel,42,,416,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489560,51.450148
+De Lismortel,42,,418,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489509,51.450363
+De Lismortel,42,,42,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489629,51.450140
+De Lismortel,42,,420,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.450231
+De Lismortel,42,,422,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.450198
+De Lismortel,42,,424,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.450162
+De Lismortel,42,,426,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.450128
+De Lismortel,42,,428,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.450093
+De Lismortel,42,,430,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.450057
+De Lismortel,42,,432,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.450022
+De Lismortel,42,,434,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.449986
+De Lismortel,42,,436,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489512,51.449952
+De Lismortel,42,,438,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489576,51.449895
+De Lismortel,42,,44,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489444,51.450296
+De Lismortel,42,,440,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489556,51.449953
+De Lismortel,42,,442,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489556,51.449987
+De Lismortel,42,,444,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489556,51.450022
+De Lismortel,42,,446,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489556,51.450057
+De Lismortel,42,,448,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489556,51.450090
+De Lismortel,42,,450,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489556,51.450142
+De Lismortel,42,,46,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489432,51.450236
+De Lismortel,42,,48,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489432,51.450203
+De Lismortel,42,,50,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489432,51.450168
+De Lismortel,42,,52,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489431,51.450134
+De Lismortel,42,,54,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489431,51.450098
+De Lismortel,42,,56,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489431,51.450062
+De Lismortel,42,,58,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489431,51.450027
+De Lismortel,42,,60,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489431,51.449991
+De Lismortel,42,,62,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489431,51.449957
+De Lismortel,42,,64,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489620,51.449832
+De Lismortel,42,,66,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489621,51.449957
+De Lismortel,42,,68,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489621,51.449990
+De Lismortel,42,,70,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489621,51.450028
+De Lismortel,42,,72,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489621,51.450062
+De Lismortel,42,,74,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489621,51.450096
+De Lismortel,42,,76,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489621,51.450134
+De Lismortel,42,,78,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489452,51.450302
+De Lismortel,42,,80,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489438,51.450230
+De Lismortel,42,,82,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489442,51.450197
+De Lismortel,42,,84,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489442,51.450163
+De Lismortel,42,,86,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489441,51.450128
+De Lismortel,42,,88,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489441,51.450092
+De Lismortel,42,,90,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489441,51.450056
+De Lismortel,42,,92,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489441,51.450023
+De Lismortel,42,,94,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489441,51.449985
+De Lismortel,42,,96,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489441,51.449950
+De Lismortel,42,,98,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.489615,51.449838
 De Lismortel,42,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486808,51.449925
 De Lismortel,44,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486821,51.449903
 De Lismortel,46,,,5612AR,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.486728,51.449864
@@ -645,6 +871,7 @@ Visserstraat,1,,,5612BS,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475338,51.450517
 Visserstraat,3,,,5612BS,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475338,51.450517
 Visserstraat,5,,,5612BS,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475338,51.450517
 Visserstraat,9,,,5612BS,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475127,51.449928
+Visserstraat,9,,,5612BS,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475275,51.450030
 Visserstraat,11,,,5612BS,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475129,51.449831
 Visserstraat,13,,,5612BS,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475221,51.449755
 Visserstraat,15,,,5612BS,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475289,51.449680
@@ -757,6 +984,8 @@ Kruisstraat,49,,,5612CC,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475136,51.446739
 Kruisstraat,51,,,5612CD,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475149,51.446804
 Kruisstraat,53,,,5612CD,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475170,51.446946
 Kruisstraat,55,A,,5612CD,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475136,51.447096
+Kruisstraat,55,B,,5612CD,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475074,51.447114
+Kruisstraat,55,C,,5612CD,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475012,51.447119
 Kruisstraat,55,,,5612CD,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475195,51.447089
 Kruisstraat,57,A,,5612CD,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475114,51.447158
 Kruisstraat,57,B,,5612CD,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.475040,51.447159
@@ -2403,14 +2632,114 @@ van Galenstraat,23,,,5612GZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.465913,51.45
 van Galenstraat,24,,,5612GZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.465737,51.451257
 van Galenstraat,25,,,5612GZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.465842,51.451102
 van Galenstraat,26,,,5612GZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.465709,51.451211
+Boschdijk,7,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471288,51.444460
+Boschdijk,7,B,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471279,51.444472
+Boschdijk,7,C,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471271,51.444480
+Boschdijk,7,D,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471265,51.444489
+Boschdijk,7,E,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471255,51.444501
+Boschdijk,7,F,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471245,51.444513
+Boschdijk,7,G,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471237,51.444522
+Boschdijk,7,H,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471230,51.444532
+Boschdijk,7,J,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471223,51.444542
+Boschdijk,7,K,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471214,51.444554
+Boschdijk,7,L,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471203,51.444565
 Boschdijk,7,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471295,51.444452
-Boschdijk,9,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471295,51.444452
-Boschdijk,11,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471295,51.444452
-Boschdijk,13,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471295,51.444452
-Boschdijk,15,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.470970,51.444307
-Boschdijk,17,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.470970,51.444307
-Boschdijk,19,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.470806,51.444254
-Boschdijk,21,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.470736,51.444231
+Boschdijk,9,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471252,51.444463
+Boschdijk,9,B,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471245,51.444473
+Boschdijk,9,C,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471236,51.444484
+Boschdijk,9,D,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471229,51.444496
+Boschdijk,9,E,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471221,51.444506
+Boschdijk,9,F,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471210,51.444519
+Boschdijk,9,G,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471200,51.444530
+Boschdijk,9,H,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471190,51.444540
+Boschdijk,9,J,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471182,51.444552
+Boschdijk,9,K,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471173,51.444561
+Boschdijk,9,L,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471164,51.444570
+Boschdijk,9,M,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471155,51.444581
+Boschdijk,9,N,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471148,51.444590
+Boschdijk,9,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471211,51.444425
+Boschdijk,11,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471230,51.444459
+Boschdijk,11,B,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471221,51.444471
+Boschdijk,11,C,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471214,51.444479
+Boschdijk,11,D,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471207,51.444488
+Boschdijk,11,E,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471197,51.444500
+Boschdijk,11,F,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471188,51.444512
+Boschdijk,11,G,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471179,51.444522
+Boschdijk,11,H,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471173,51.444531
+Boschdijk,11,J,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471165,51.444541
+Boschdijk,11,K,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471156,51.444553
+Boschdijk,11,L,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471146,51.444565
+Boschdijk,11,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471237,51.444451
+Boschdijk,13,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471215,51.444453
+Boschdijk,13,B,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471208,51.444463
+Boschdijk,13,C,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471199,51.444474
+Boschdijk,13,D,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471192,51.444486
+Boschdijk,13,E,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471183,51.444495
+Boschdijk,13,F,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471173,51.444509
+Boschdijk,13,G,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471163,51.444520
+Boschdijk,13,H,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471153,51.444530
+Boschdijk,13,J,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471145,51.444541
+Boschdijk,13,K,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471135,51.444551
+Boschdijk,13,L,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471127,51.444560
+Boschdijk,13,M,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471118,51.444571
+Boschdijk,13,N,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471111,51.444580
+Boschdijk,13,P,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471106,51.444589
+Boschdijk,13,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471233,51.444436
+Boschdijk,15,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471199,51.444443
+Boschdijk,15,B,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471191,51.444454
+Boschdijk,15,C,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471183,51.444462
+Boschdijk,15,D,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471176,51.444472
+Boschdijk,15,E,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471166,51.444483
+Boschdijk,15,F,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471157,51.444495
+Boschdijk,15,G,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471148,51.444505
+Boschdijk,15,H,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471142,51.444515
+Boschdijk,15,J,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471134,51.444525
+Boschdijk,15,K,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471125,51.444537
+Boschdijk,15,L,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471115,51.444548
+Boschdijk,15,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471206,51.444435
+Boschdijk,17,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471177,51.444438
+Boschdijk,17,B,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471170,51.444448
+Boschdijk,17,C,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471162,51.444459
+Boschdijk,17,D,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471154,51.444471
+Boschdijk,17,E,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471146,51.444480
+Boschdijk,17,F,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471135,51.444494
+Boschdijk,17,G,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471125,51.444505
+Boschdijk,17,H,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471116,51.444515
+Boschdijk,17,J,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471107,51.444526
+Boschdijk,17,K,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471098,51.444536
+Boschdijk,17,L,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471089,51.444545
+Boschdijk,17,M,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471080,51.444556
+Boschdijk,17,N,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471074,51.444565
+Boschdijk,17,P,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471068,51.444574
+Boschdijk,17,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471189,51.444427
+Boschdijk,19,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471147,51.444658
+Boschdijk,19,B,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471156,51.444647
+Boschdijk,19,C,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471163,51.444636
+Boschdijk,19,D,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471169,51.444626
+Boschdijk,19,E,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471178,51.444617
+Boschdijk,19,F,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471104,51.444660
+Boschdijk,19,G,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471113,51.444650
+Boschdijk,19,H,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471121,51.444638
+Boschdijk,19,J,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471133,51.444628
+Boschdijk,19,K,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471143,51.444616
+Boschdijk,19,L,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471079,51.444651
+Boschdijk,19,M,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471087,51.444641
+Boschdijk,19,N,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471099,51.444632
+Boschdijk,19,P,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471108,51.444619
+Boschdijk,19,R,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471119,51.444608
+Boschdijk,19,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471137,51.444666
+Boschdijk,21,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471056,51.444631
+Boschdijk,21,B,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471066,51.444623
+Boschdijk,21,C,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471077,51.444613
+Boschdijk,21,D,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471088,51.444602
+Boschdijk,21,E,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471017,51.444632
+Boschdijk,21,F,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471028,51.444622
+Boschdijk,21,G,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471042,51.444614
+Boschdijk,21,H,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471051,51.444606
+Boschdijk,21,J,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471047,51.444583
+Boschdijk,21,K,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471033,51.444591
+Boschdijk,21,L,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471025,51.444601
+Boschdijk,21,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471048,51.444642
 Boschdijk,23,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471096,51.444683
 Boschdijk,25,A,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471118,51.444737
 Boschdijk,25,,,5612HA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.471157,51.444705
@@ -3166,23 +3495,83 @@ Bondstraat,20,,,5612HX,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.467945,51.446840
 Bondstraat,22,,,5612HX,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.467873,51.446821
 Bondstraat,24,,,5612HX,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.467798,51.446798
 Zernikestraat,1,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469688,51.445771
-Zernikestraat,2,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469628,51.446279
+Zernikestraat,2,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469443,51.446299
 Zernikestraat,3,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469711,51.445745
-Zernikestraat,4,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469598,51.446267
+Zernikestraat,4,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469394,51.446348
 Zernikestraat,5,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469662,51.445729
-Zernikestraat,6,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469569,51.446256
+Zernikestraat,6,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469354,51.446396
 Zernikestraat,7,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469642,51.445754
+Zernikestraat,8,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469457,51.446447
 Zernikestraat,9,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469608,51.445725
-Zernikestraat,10,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469503,51.446229
+Zernikestraat,10,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469487,51.446419
 Zernikestraat,11,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469435,51.445653
-Zernikestraat,12,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469461,51.446213
+Zernikestraat,12,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469522,51.446389
 Zernikestraat,13,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469466,51.445619
+Zernikestraat,14,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469552,51.446357
 Zernikestraat,15,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469494,51.445585
+Zernikestraat,16,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469581,51.446326
 Zernikestraat,17,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469182,51.445589
+Zernikestraat,18,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469610,51.446299
+Zernikestraat,20,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469437,51.446228
+Zernikestraat,22,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469445,51.446307
+Zernikestraat,24,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469397,51.446356
+Zernikestraat,26,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469357,51.446405
+Zernikestraat,28,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469454,51.446439
 Zernikestraat,29,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.468465,51.445823
+Zernikestraat,30,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469487,51.446412
 Zernikestraat,31,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.468410,51.445782
+Zernikestraat,32,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469524,51.446381
 Zernikestraat,33,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.468363,51.445734
+Zernikestraat,34,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469554,51.446351
 Zernikestraat,35,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.468314,51.445689
+Zernikestraat,36,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469583,51.446318
+Zernikestraat,38,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469612,51.446292
+Zernikestraat,40,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469439,51.446236
+Zernikestraat,42,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469444,51.446316
+Zernikestraat,44,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469400,51.446363
+Zernikestraat,46,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469364,51.446411
+Zernikestraat,48,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469455,51.446434
+Zernikestraat,50,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469488,51.446405
+Zernikestraat,52,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469524,51.446374
+Zernikestraat,54,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469553,51.446344
+Zernikestraat,56,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469582,51.446309
+Zernikestraat,58,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469612,51.446285
+Zernikestraat,60,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469442,51.446244
+Zernikestraat,62,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469447,51.446324
+Zernikestraat,64,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469402,51.446371
+Zernikestraat,66,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469366,51.446418
+Zernikestraat,68,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469454,51.446427
+Zernikestraat,70,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469487,51.446398
+Zernikestraat,72,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469523,51.446368
+Zernikestraat,74,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469552,51.446338
+Zernikestraat,76,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469584,51.446302
+Zernikestraat,78,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469611,51.446279
+Zernikestraat,80,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469444,51.446251
+Zernikestraat,82,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469444,51.446332
+Zernikestraat,84,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469402,51.446377
+Zernikestraat,86,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469372,51.446425
+Zernikestraat,88,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469456,51.446420
+Zernikestraat,90,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469488,51.446391
+Zernikestraat,92,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469524,51.446361
+Zernikestraat,94,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469554,51.446332
+Zernikestraat,96,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469584,51.446295
+Zernikestraat,98,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469611,51.446274
+Zernikestraat,100,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469444,51.446258
+Zernikestraat,102,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469441,51.446338
+Zernikestraat,104,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469401,51.446385
+Zernikestraat,106,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469375,51.446432
+Zernikestraat,108,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469456,51.446416
+Zernikestraat,110,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469482,51.446385
+Zernikestraat,112,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469520,51.446355
+Zernikestraat,114,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469550,51.446327
+Zernikestraat,116,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469581,51.446290
+Zernikestraat,118,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469608,51.446270
+Zernikestraat,120,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469445,51.446265
+Zernikestraat,122,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469392,51.446404
+Zernikestraat,124,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469442,51.446401
+Zernikestraat,126,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469513,51.446341
+Zernikestraat,128,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469572,51.446268
+Zernikestraat,130,,,5612HZ,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.469487,51.446284
 Johannes van der Waalsweg,1,A,,5612JA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.463424,51.451238
 Johannes van der Waalsweg,1,,,5612JA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.463410,51.451256
 Johannes van der Waalsweg,3,,,5612JA,Eindhoven,Eindhoven,Noord-Brabant,VBO,5.463465,51.451186

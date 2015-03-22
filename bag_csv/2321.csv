@@ -123,11 +123,11 @@ Haagweg,36,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475853,52.158760
 Haagweg,38,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475755,52.158736
 Haagweg,40,A,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475706,52.158680
 Haagweg,40,B,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475725,52.158663
-Haagweg,40,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475689,52.158696
 Haagweg,40,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475676,52.158710
-Haagweg,42,A,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475651,52.158662
+Haagweg,40,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475689,52.158696
+Haagweg,42,A,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475665,52.158647
+Haagweg,42,B,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475681,52.158634
 Haagweg,42,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475634,52.158679
-Haagweg,42,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475622,52.158691
 Haagweg,44,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475591,52.158620
 Haagweg,46,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475487,52.158585
 Haagweg,48,,,2321AE,Leiden,Leiden,Zuid-Holland,VBO,4.475395,52.158554
@@ -843,8 +843,8 @@ Rooseveltstraat,74,A,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.484055,52.143128
 Rooseveltstraat,74,,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.483674,52.143079
 Rooseveltstraat,76,,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.482338,52.142780
 Rooseveltstraat,78,,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.482762,52.142622
+Rooseveltstraat,80,,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.482851,52.142243
 Rooseveltstraat,82,A,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.483151,52.142154
-Rooseveltstraat,82,,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.483177,52.142094
 Rooseveltstraat,82,,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.483172,52.142117
 Rooseveltstraat,84,,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.484066,52.142403
 Rooseveltstraat,86,,,2321BM,Leiden,Leiden,Zuid-Holland,VBO,4.484662,52.142705
@@ -1334,15 +1334,14 @@ Wiardi Beckmanstraat,37,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479615,52.1441
 Wiardi Beckmanstraat,38,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479620,52.144138
 Wiardi Beckmanstraat,39,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479624,52.144120
 Wiardi Beckmanstraat,40,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479628,52.144102
-Wiardi Beckmanstraat,41,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.478702,52.144070
-Wiardi Beckmanstraat,42,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.478820,52.144081
-Wiardi Beckmanstraat,43,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.478937,52.144092
-Wiardi Beckmanstraat,44,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479038,52.144102
-Wiardi Beckmanstraat,45,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479172,52.144114
-Wiardi Beckmanstraat,46,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479275,52.144124
-Wiardi Beckmanstraat,47,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479379,52.144134
-Wiardi Beckmanstraat,48,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479471,52.144142
-Wiardi Beckmanstraat,49,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479583,52.144153
+Wiardi Beckmanstraat,41,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479829,52.144452
+Wiardi Beckmanstraat,42,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479842,52.144427
+Wiardi Beckmanstraat,43,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479844,52.144398
+Wiardi Beckmanstraat,44,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479845,52.144367
+Wiardi Beckmanstraat,45,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479853,52.144345
+Wiardi Beckmanstraat,46,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479857,52.144313
+Wiardi Beckmanstraat,47,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479864,52.144283
+Wiardi Beckmanstraat,48,,,2321CS,Leiden,Leiden,Zuid-Holland,VBO,4.479875,52.144252
 Rooseveltstraat,65,,,2321CT,Leiden,Leiden,Zuid-Holland,VBO,4.482159,52.141566
 Rooseveltstraat,67,,,2321CT,Leiden,Leiden,Zuid-Holland,VBO,4.482092,52.141737
 Rooseveltstraat,73,,,2321CT,Leiden,Leiden,Zuid-Holland,VBO,4.482115,52.141601
@@ -3090,6 +3089,61 @@ Kanaalpark,140,,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.496740,52.144746
 Kanaalpark,141,T,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.496596,52.145223
 Kanaalpark,141,,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495901,52.145243
 Kanaalpark,142,,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495291,52.145446
+Kanaalpark,143,A,1,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495596,52.144782
+Kanaalpark,143,A,10,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495407,52.144880
+Kanaalpark,143,A,11,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495427,52.144940
+Kanaalpark,143,A,12,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495307,52.144989
+Kanaalpark,143,A,13,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495377,52.145065
+Kanaalpark,143,A,14,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495494,52.145019
+Kanaalpark,143,A,15,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495603,52.144909
+Kanaalpark,143,A,2,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495532,52.144699
+Kanaalpark,143,A,3,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495444,52.144670
+Kanaalpark,143,A,4,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495337,52.144633
+Kanaalpark,143,A,5,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495239,52.144599
+Kanaalpark,143,A,6,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495218,52.144621
+Kanaalpark,143,A,7,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495317,52.144650
+Kanaalpark,143,A,8,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495425,52.144688
+Kanaalpark,143,A,9,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495407,52.144816
+Kanaalpark,143,B,1,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495562,52.144782
+Kanaalpark,143,B,10,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495386,52.144878
+Kanaalpark,143,B,11,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495436,52.144948
+Kanaalpark,143,B,12,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495319,52.144999
+Kanaalpark,143,B,13,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495358,52.145053
+Kanaalpark,143,B,14,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495476,52.145001
+Kanaalpark,143,B,15,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495579,52.144902
+Kanaalpark,143,B,2,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495521,52.144714
+Kanaalpark,143,B,3,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495413,52.144702
+Kanaalpark,143,B,4,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495306,52.144667
+Kanaalpark,143,B,5,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495208,52.144634
+Kanaalpark,143,B,6,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495196,52.144645
+Kanaalpark,143,B,7,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495295,52.144678
+Kanaalpark,143,B,8,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495404,52.144713
+Kanaalpark,143,B,9,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495380,52.144816
+Kanaalpark,143,C,1,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495532,52.144783
+Kanaalpark,143,C,10,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495463,52.145027
+Kanaalpark,143,C,11,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495554,52.144897
+Kanaalpark,143,C,2,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495508,52.144727
+Kanaalpark,143,C,3,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495187,52.144655
+Kanaalpark,143,C,4,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495177,52.144666
+Kanaalpark,143,C,5,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495390,52.144724
+Kanaalpark,143,C,6,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495361,52.144826
+Kanaalpark,143,C,7,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495362,52.144874
+Kanaalpark,143,C,8,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495276,52.144998
+Kanaalpark,143,C,9,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495348,52.145073
+Kanaalpark,143,D,1,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495510,52.144784
+Kanaalpark,143,D,2,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495493,52.144739
+Kanaalpark,143,D,3,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495339,52.144697
+Kanaalpark,143,D,4,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495221,52.144664
+Kanaalpark,143,D,5,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495349,52.144836
+Kanaalpark,143,D,6,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495342,52.144866
+Kanaalpark,143,D,7,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495289,52.145009
+Kanaalpark,143,D,8,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495337,52.145059
+Kanaalpark,143,D,9,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495528,52.144891
+Kanaalpark,143,E,1,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495484,52.144782
+Kanaalpark,143,E,2,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495367,52.144837
+Kanaalpark,143,E,3,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495365,52.144857
+Kanaalpark,143,E,4,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495498,52.144884
+Kanaalpark,143,,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495595,52.144846
 Kanaalpark,143,,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495630,52.144846
 Kanaalpark,144,,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.495089,52.145180
 Kanaalpark,145,A,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.494690,52.145315
@@ -3098,17 +3152,16 @@ Kanaalpark,147,,,2321JV,Leiden,Leiden,Zuid-Holland,VBO,4.494417,52.144682
 Kanaalpark,157,T,,2321JW,Leiden,Leiden,Zuid-Holland,VBO,4.495381,52.144276
 Kanaalpark,157,,,2321JW,Leiden,Leiden,Zuid-Holland,VBO,4.495920,52.144280
 Kanaalpark,159,,,2321JW,Leiden,Leiden,Zuid-Holland,VBO,4.495330,52.144146
-Lammenschansweg,130,A,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491587,52.145938
-Lammenschansweg,130,B,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491482,52.145818
+Lammenschansweg,130,A,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491462,52.145762
+Lammenschansweg,130,B,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491408,52.145706
 Lammenschansweg,130,C,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491333,52.145618
 Lammenschansweg,130,D,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491376,52.145602
 Lammenschansweg,130,E,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491425,52.145585
 Lammenschansweg,130,F,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491455,52.145571
-Lammenschansweg,130,G,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.490972,52.145178
-Lammenschansweg,130,H,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491493,52.145562
-Lammenschansweg,130,K,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491038,52.144787
-Lammenschansweg,130,L,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.490863,52.144842
-Lammenschansweg,130,,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491087,52.145344
+Lammenschansweg,130,G,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491116,52.145332
+Lammenschansweg,130,H,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.490895,52.145094
+Lammenschansweg,130,K,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.490999,52.145194
+Lammenschansweg,130,,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.491544,52.145855
 Lammenschansweg,134,A,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.490124,52.144494
 Lammenschansweg,134,,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.490053,52.144517
 Lammenschansweg,136,A,,2321JX,Leiden,Leiden,Zuid-Holland,VBO,4.489896,52.144240
@@ -3572,6 +3625,8 @@ Bètaplein,24,,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.494105,52.145714
 Bètaplein,26,,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.494138,52.145754
 Bètaplein,28,,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.494181,52.145801
 Bètaplein,30,,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.493001,52.145805
+Bètaplein,31,T,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.493933,52.145032
+Bètaplein,31,,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.493914,52.145009
 Bètaplein,33,A,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.493946,52.145145
 Bètaplein,33,B,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.493881,52.145168
 Bètaplein,33,C,,2321KS,Leiden,Leiden,Zuid-Holland,VBO,4.493809,52.145193
@@ -5020,6 +5075,9 @@ Boshuizerlaan,76,,,2321SH,Leiden,Leiden,Zuid-Holland,VBO,4.477316,52.147983
 Busken Huetplein,1,,,2321SJ,Leiden,Leiden,Zuid-Holland,VBO,4.477869,52.156958
 Busken Huetplein,2,,,2321SJ,Leiden,Leiden,Zuid-Holland,VBO,4.477932,52.156770
 Kiljanpad,2,,,2321SK,Leiden,Leiden,Zuid-Holland,VBO,4.480260,52.150830
+Kiljanpad,2,,,2321SK,Leiden,Leiden,Zuid-Holland,VBO,4.480282,52.150705
+Kiljanpad,2,,,2321SK,Leiden,Leiden,Zuid-Holland,VBO,4.480374,52.150831
+Kiljanpad,4,,,2321SK,Leiden,Leiden,Zuid-Holland,VBO,4.479984,52.150662
 Hoflaan,1,,,2321SL,Leiden,Leiden,Zuid-Holland,VBO,4.478644,52.153402
 Hoflaan,3,,,2321SL,Leiden,Leiden,Zuid-Holland,VBO,4.478617,52.153397
 Hoflaan,5,,,2321SL,Leiden,Leiden,Zuid-Holland,VBO,4.478588,52.153393
@@ -5242,6 +5300,7 @@ Hoflaan,70,,,2321TA,Leiden,Leiden,Zuid-Holland,VBO,4.479564,52.151451
 Hoflaan,72,,,2321TA,Leiden,Leiden,Zuid-Holland,VBO,4.479585,52.151386
 Hoflaan,74,,,2321TA,Leiden,Leiden,Zuid-Holland,VBO,4.479606,52.151324
 Hoflaan,76,,,2321TA,Leiden,Leiden,Zuid-Holland,VBO,4.479625,52.151266
+Hoflaan,78,,,2321TA,Leiden,Leiden,Zuid-Holland,VBO,4.479972,52.150987
 Hoflaan,84,A,,2321TA,Leiden,Leiden,Zuid-Holland,VBO,4.479964,52.150072
 Hoflaan,84,B,,2321TA,Leiden,Leiden,Zuid-Holland,VBO,4.479975,52.150162
 Hoflaan,84,C,,2321TA,Leiden,Leiden,Zuid-Holland,VBO,4.479992,52.150077
@@ -5784,7 +5843,6 @@ Louis Couperusstraat,12,,,2321VK,Leiden,Leiden,Zuid-Holland,VBO,4.478193,52.1546
 Albert Verweijstraat,1,A,,2321VL,Leiden,Leiden,Zuid-Holland,VBO,4.477892,52.154687
 Albert Verweijstraat,1,,,2321VL,Leiden,Leiden,Zuid-Holland,VBO,4.477915,52.154695
 Albert Verweijstraat,2,A,,2321VL,Leiden,Leiden,Zuid-Holland,VBO,4.478084,52.155001
-Albert Verweijstraat,2,,,2321VL,Leiden,Leiden,Zuid-Holland,VBO,4.478058,52.154994
 Albert Verweijstraat,3,A,,2321VL,Leiden,Leiden,Zuid-Holland,VBO,4.477918,52.154612
 Albert Verweijstraat,3,,,2321VL,Leiden,Leiden,Zuid-Holland,VBO,4.477941,52.154620
 Albert Verweijstraat,4,A,,2321VL,Leiden,Leiden,Zuid-Holland,VBO,4.478098,52.154949
@@ -5830,6 +5888,7 @@ Albert Verweijstraat,20,,,2321VM,Leiden,Leiden,Zuid-Holland,VBO,4.478538,52.1536
 Lucebertstraat,2,,,2321VN,Leiden,Leiden,Zuid-Holland,VBO,4.479049,52.155129
 Lucebertstraat,4,,,2321VN,Leiden,Leiden,Zuid-Holland,VBO,4.478807,52.155094
 Lucebertstraat,6,,,2321VN,Leiden,Leiden,Zuid-Holland,VBO,4.478732,52.155086
+Lucebertstraat,14,,,2321VN,Leiden,Leiden,Zuid-Holland,VBO,4.478076,52.155022
 Jan Wolkersstraat,3,,,2321VP,Leiden,Leiden,Zuid-Holland,VBO,4.479099,52.155081
 Jan Wolkersstraat,5,,,2321VP,Leiden,Leiden,Zuid-Holland,VBO,4.479102,52.155028
 Jan Wolkersstraat,7,,,2321VP,Leiden,Leiden,Zuid-Holland,VBO,4.479128,52.154986
@@ -5925,6 +5984,7 @@ Toussaintkade,43,,,2321VX,Leiden,Leiden,Zuid-Holland,VBO,4.475409,52.155507
 Toussaintkade,45,,,2321VX,Leiden,Leiden,Zuid-Holland,VBO,4.475328,52.155495
 Toussaintkade,47,,,2321VX,Leiden,Leiden,Zuid-Holland,VBO,4.475266,52.155474
 Toussaintkade,49,,,2321VX,Leiden,Leiden,Zuid-Holland,VBO,4.475192,52.155463
+Toussaintkade,51,A,,2321VX,Leiden,Leiden,Zuid-Holland,VBO,4.474294,52.155904
 Toussaintkade,51,B,,2321VX,Leiden,Leiden,Zuid-Holland,VBO,4.472951,52.155668
 Toussaintkade,51,,,2321VX,Leiden,Leiden,Zuid-Holland,VBO,4.474017,52.155419
 Schimmelstraat,1,,,2321VZ,Leiden,Leiden,Zuid-Holland,VBO,4.478010,52.156420

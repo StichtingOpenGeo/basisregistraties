@@ -1,5 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 4e Garnizoensdok,8,,,3439JD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117666,52.024026
+5e Garnizoensdok,7,,,3439JE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117913,52.024571
 Mobilisatiedok,10,,,3439JG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.119073,52.023261
 Mobilisatiedok,7001,,,3439JG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.118730,52.022897
 Mobilisatiedok,7003,,,3439JG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.119392,52.024542
@@ -22,7 +23,6 @@ De Liesbosch,4,E,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111310,52.050925
 De Liesbosch,4,F,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111412,52.050907
 De Liesbosch,35,A,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110494,52.053808
 De Liesbosch,35,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110828,52.053630
-De Liesbosch,2027,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110593,52.052739
 De Liesbosch,9001,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110517,52.052571
 De Liesbosch,9002,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110480,52.052578
 De Liesbosch,9003,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110438,52.052586
@@ -49,6 +49,7 @@ De Liesbosch,9023,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110231,52.052746
 De Liesbosch,9024,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110190,52.052754
 De Liesbosch,9025,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110149,52.052761
 De Liesbosch,9026,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110105,52.052772
+De Liesbosch,9027,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110593,52.052739
 De Liesbosch,9028,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110556,52.052747
 De Liesbosch,9029,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110511,52.052751
 De Liesbosch,9030,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110463,52.052761
@@ -285,7 +286,6 @@ De Liesbosch,88,,,3439LC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.112336,52.052363
 De Liesbosch,90,,,3439LC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111737,52.053768
 De Liesbosch,100,,,3439LC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.112239,52.055149
 De Liesbosch,7001,,,3439LC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110746,52.052035
-Ravenswade,54,W,,3439LC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116050,52.050702
 Ravenswade,1,A,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117523,52.049659
 Ravenswade,1,C,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116607,52.049968
 Ravenswade,1,F,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117019,52.049739
@@ -294,7 +294,8 @@ Ravenswade,1,H,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116951,52.049563
 Ravenswade,1,J,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116913,52.049479
 Ravenswade,1,K,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116883,52.049390
 Ravenswade,1,L,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116849,52.049301
-Ravenswade,1,M,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116813,52.049213
+Ravenswade,1,M,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116925,52.049200
+Ravenswade,1,N,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116751,52.049230
 Ravenswade,1,,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.118115,52.049462
 Ravenswade,2,A,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117896,52.050695
 Ravenswade,2,B,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117956,52.050807
@@ -329,7 +330,7 @@ Ravenswade,54,K,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117380,52.051540
 Ravenswade,54,S,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116210,52.050532
 Ravenswade,54,T,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116293,52.050658
 Ravenswade,54,V,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.115985,52.050565
-Ravenswade,54,,WIND,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116880,52.050890
+Ravenswade,54,W,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116050,52.050702
 Ravenswade,54,,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116921,52.050988
 Ravenswade,56,B,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116733,52.051633
 Ravenswade,56,R,,3439LD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116833,52.050525
@@ -436,10 +437,11 @@ Laagraven,2,B,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.123564,52.051988
 Laagraven,2,,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.122978,52.052094
 Laagraven,3,,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121927,52.051262
 Laagraven,4,,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.123099,52.052442
-Laagraven,5,B,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121761,52.051752
-Laagraven,5,C,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121692,52.051582
-Laagraven,5,D,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121428,52.051735
-Laagraven,5,,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.122005,52.051626
+Laagraven,5,A,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121362,52.051746
+Laagraven,5,B,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121891,52.051725
+Laagraven,5,C,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121968,52.051551
+Laagraven,5,D,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.122037,52.051673
+Laagraven,5,,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121677,52.051694
 Laagraven,6,,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.123318,52.053009
 Laagraven,7,,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.122476,52.052745
 Laagraven,8,,,3439LG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.123619,52.053016
@@ -486,11 +488,13 @@ Ringwade,2,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111964,52.056754
 Ringwade,3,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111086,52.057580
 Ringwade,4,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.112504,52.057664
 Ringwade,5,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111135,52.057572
+Ringwade,6,A,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.113673,52.057070
 Ringwade,6,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.113516,52.057435
 Ringwade,7,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111192,52.057564
 Ringwade,21,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110965,52.057297
 Ringwade,31,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110770,52.056808
-Ringwade,41,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110553,52.056372
+Ringwade,41,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110654,52.056342
+Ringwade,43,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110594,52.056385
 Ringwade,51,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110657,52.055918
 Ringwade,61,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110411,52.055483
 Ringwade,71,,,3439LM,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110257,52.054997
@@ -503,6 +507,7 @@ Koppeldijk,18,,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.128609,52.049535
 Koppeldijk,7001,,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.129386,52.049707
 Overeindseweg,5,,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110324,52.042682
 Overeindseweg,25,A,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116172,52.038403
+Overeindseweg,25,B,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116646,52.039377
 Overeindseweg,25,,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.116282,52.038166
 Overeindseweg,27,,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.118029,52.038207
 Overeindseweg,29,,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.118835,52.038253
@@ -522,7 +527,7 @@ Overeindseweg,38,,,3439LP,Nieuwegein,Nieuwegein,Utrecht,VBO,5.122948,52.038043
 Vuilcop,1,,,3439LS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121360,52.028955
 Vuilcop,3,A,,3439LS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121338,52.028854
 Vuilcop,3,,,3439LS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121550,52.028736
-Vuilcop,12,,,3439LS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.121859,52.027869
+Vuilcop,12,,,3439LS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.122105,52.027819
 Heemsteedsebrug,1,,,3439LT,Nieuwegein,Nieuwegein,Utrecht,VBO,5.114876,52.034867
 Vuilcopsekanaaldijk,7001,,,3439LT,Nieuwegein,Nieuwegein,Utrecht,VBO,5.129653,52.024922
 Vuilcopsekanaaldijk,7002,,,3439LT,Nieuwegein,Nieuwegein,Utrecht,VBO,5.114354,52.034179
@@ -554,7 +559,7 @@ De Bongenaer,2,,,3439LZ,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100608,52.026155
 De Bongenaer,4,,,3439LZ,Nieuwegein,Nieuwegein,Utrecht,LIG,5.099805,52.025875
 De Bongenaer,8,,,3439LZ,Nieuwegein,Nieuwegein,Utrecht,LIG,5.099869,52.026110
 Structuurbaan,1,,,3439MA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101778,52.042151
-Structuurbaan,5,,STNP,3439MA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101670,52.041371
+Structuurbaan,5,,,3439MA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101670,52.041371
 Structuurbaan,11,,,3439MA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.106389,52.043049
 Structuurbaan,19,,,3439MA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.107102,52.040536
 Structuurbaan,21,,,3439MA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.108058,52.040430
@@ -627,7 +632,6 @@ Archimedesbaan,26,,,3439ME,Nieuwegein,Nieuwegein,Utrecht,VBO,5.106987,52.035031
 Archimedesbaan,28,,,3439ME,Nieuwegein,Nieuwegein,Utrecht,VBO,5.107494,52.035142
 Archimedesbaan,7001,,,3439ME,Nieuwegein,Nieuwegein,Utrecht,VBO,5.105757,52.034774
 Archimedesbaan,7002,,,3439ME,Nieuwegein,Nieuwegein,Utrecht,VBO,5.107311,52.035858
-Fultonbaan,22,,,3439ME,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102415,52.032643
 Galvanibaan,1,,,3439MG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.104822,52.025374
 Galvanibaan,2,,,3439MG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.104522,52.025091
 Galvanibaan,3,,,3439MG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.105222,52.025347
@@ -767,6 +771,7 @@ Marconibaan,37,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099284,52.028873
 Marconibaan,41,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099227,52.028885
 Marconibaan,43,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099167,52.028894
 Marconibaan,49,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099123,52.028906
+Marconibaan,53,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099056,52.028906
 Marconibaan,57,A,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100989,52.028328
 Marconibaan,57,B,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100961,52.028351
 Marconibaan,57,C,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100938,52.028375
@@ -785,6 +790,7 @@ Marconibaan,4,A,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099510,52.032317
 Marconibaan,4,,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099587,52.032304
 Marconibaan,6,,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099375,52.031743
 Marconibaan,8,,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099313,52.031565
+Marconibaan,10,A,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.098606,52.031688
 Marconibaan,10,B,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.098566,52.031587
 Marconibaan,10,,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.098586,52.031636
 Marconibaan,12,,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.098046,52.031847
@@ -810,7 +816,7 @@ Marconibaan,44,A,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102470,52.027565
 Marconibaan,44,,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102752,52.027471
 Marconibaan,46,,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.103521,52.027506
 Marconibaan,7002,,,3439MS,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102178,52.027611
-Kelvinbaan,16,A,,3439MT,Nieuwegein,Nieuwegein,Utrecht,VBO,5.095666,52.030872
+Kelvinbaan,16,A,,3439MT,Nieuwegein,Nieuwegein,Utrecht,VBO,5.095728,52.030991
 Kelvinbaan,16,,,3439MT,Nieuwegein,Nieuwegein,Utrecht,VBO,5.095812,52.031254
 Kelvinbaan,40,,,3439MT,Nieuwegein,Nieuwegein,Utrecht,VBO,5.095631,52.033355
 Kelvinbaan,42,,,3439MT,Nieuwegein,Nieuwegein,Utrecht,VBO,5.095645,52.033451
@@ -836,6 +842,7 @@ van Musschenbroekbaan,14,,,3439MX,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102126,52.
 van Musschenbroekbaan,16,,,3439MX,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102293,52.026767
 van Musschenbroekbaan,7001,,,3439MX,Nieuwegein,Nieuwegein,Utrecht,VBO,5.103293,52.026007
 Plettenburgerbaan,2,,,3439MZ,Nieuwegein,Nieuwegein,Utrecht,VBO,5.103470,52.031718
+Morsebaan,1,A,,3439NA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.106379,52.028617
 Morsebaan,1,,,3439NA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.106025,52.027794
 Morsebaan,2,,,3439NA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.105221,52.027189
 Celsiusbaan,1,A,,3439NC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.107684,52.032744
@@ -885,7 +892,9 @@ Fultonbaan,12,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102759,52.032412
 Fultonbaan,14,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102743,52.032366
 Fultonbaan,15,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101037,52.030264
 Fultonbaan,16,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102699,52.032373
+Fultonbaan,18,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102724,52.032523
 Fultonbaan,20,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102648,52.032378
+Fultonbaan,22,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102415,52.032643
 Fultonbaan,24,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102434,52.032466
 Fultonbaan,30,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102485,52.031830
 Fultonbaan,50,,,3439NE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102193,52.031440
@@ -915,16 +924,18 @@ Coltbaan,11,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101724,52.032563
 Coltbaan,13,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101750,52.032642
 Coltbaan,15,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101781,52.032727
 Coltbaan,17,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101842,52.032607
+Coltbaan,19,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101877,52.032703
 Coltbaan,21,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101256,52.032182
 Coltbaan,23,A,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101272,52.031716
 Coltbaan,23,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101159,52.031730
 Coltbaan,25,A,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101179,52.031456
 Coltbaan,25,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101064,52.031475
-Coltbaan,27,A,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100858,52.031123
-Coltbaan,27,B,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100910,52.031253
-Coltbaan,29,A,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100988,52.031241
-Coltbaan,29,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100940,52.031115
-Coltbaan,31,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101046,52.031155
+Coltbaan,27,A,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100912,52.031285
+Coltbaan,27,B,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100929,52.031111
+Coltbaan,27,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100848,52.031124
+Coltbaan,29,A,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101015,52.031099
+Coltbaan,29,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100994,52.031274
+Coltbaan,31,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101075,52.031263
 Coltbaan,33,A,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101163,52.031218
 Coltbaan,33,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101116,52.031089
 Coltbaan,7001,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100877,52.032503

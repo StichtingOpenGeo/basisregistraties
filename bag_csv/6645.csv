@@ -1,8 +1,8 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Hoogewaard,1,a,,6645AA,Winssen,Beuningen,Gelderland,VBO,5.718159,51.876514
 Hoogewaard,1,,,6645AA,Winssen,Beuningen,Gelderland,VBO,5.720096,51.877138
-Hoogewaard,2,T,,6645AA,Winssen,Beuningen,Gelderland,VBO,5.719766,51.875844
 Hoogewaard,2,a,,6645AA,Winssen,Beuningen,Gelderland,VBO,5.719678,51.875728
+Hoogewaard,2,T,,6645AA,Winssen,Beuningen,Gelderland,VBO,5.719766,51.875844
 Hoogewaard,2,,,6645AA,Winssen,Beuningen,Gelderland,VBO,5.719779,51.875611
 Hoogewaard,4,a,,6645AA,Winssen,Beuningen,Gelderland,VBO,5.719989,51.876336
 Hoogewaard,4,,,6645AA,Winssen,Beuningen,Gelderland,VBO,5.719930,51.876293
@@ -81,9 +81,9 @@ Notaris Stephanus Roesstraat,35,T,,6645AG,Winssen,Beuningen,Gelderland,VBO,5.708
 Notaris Stephanus Roesstraat,37,a,,6645AG,Winssen,Beuningen,Gelderland,VBO,5.707184,51.883106
 Notaris Stephanus Roesstraat,37,,,6645AG,Winssen,Beuningen,Gelderland,VBO,5.707909,51.882924
 Notaris Stephanus Roesstraat,39,,,6645AG,Winssen,Beuningen,Gelderland,VBO,5.706506,51.883809
-Notaris Stephanus Roesstraat,2,T,,6645AH,Winssen,Beuningen,Gelderland,VBO,5.712562,51.877590
 Notaris Stephanus Roesstraat,2,a,,6645AH,Winssen,Beuningen,Gelderland,VBO,5.712694,51.877770
 Notaris Stephanus Roesstraat,2,b,,6645AH,Winssen,Beuningen,Gelderland,VBO,5.712463,51.878004
+Notaris Stephanus Roesstraat,2,T,,6645AH,Winssen,Beuningen,Gelderland,VBO,5.712562,51.877590
 Notaris Stephanus Roesstraat,2,,,6645AH,Winssen,Beuningen,Gelderland,VBO,5.712750,51.877482
 Notaris Stephanus Roesstraat,4,a,,6645AH,Winssen,Beuningen,Gelderland,VBO,5.711841,51.878356
 Notaris Stephanus Roesstraat,4,b,,6645AH,Winssen,Beuningen,Gelderland,VBO,5.712279,51.878634
@@ -190,7 +190,7 @@ Dokter Nillesenstraat,23,,,6645AP,Winssen,Beuningen,Gelderland,VBO,5.708314,51.8
 Dokter Nillesenstraat,25,,,6645AP,Winssen,Beuningen,Gelderland,VBO,5.708298,51.880496
 Dokter Nillesenstraat,27,,,6645AP,Winssen,Beuningen,Gelderland,VBO,5.708312,51.880424
 Dokter Nillesenstraat,29,,,6645AP,Winssen,Beuningen,Gelderland,VBO,5.708297,51.880344
-Dokter Nillesenstraat,31,,,6645AP,Winssen,Beuningen,Gelderland,VBO,5.708297,51.880254
+Dokter Nillesenstraat,31,,,6645AP,Winssen,Beuningen,Gelderland,VBO,5.708273,51.880281
 Dokter Nillesenstraat,33,,,6645AP,Winssen,Beuningen,Gelderland,VBO,5.708238,51.880173
 Dokter Nillesenstraat,35,,,6645AP,Winssen,Beuningen,Gelderland,VBO,5.708223,51.880110
 Dokter Nillesenstraat,2,,,6645AR,Winssen,Beuningen,Gelderland,VBO,5.707740,51.881630
@@ -388,8 +388,8 @@ Leegstraat,15,,,6645BA,Winssen,Beuningen,Gelderland,VBO,5.705048,51.878676
 Leegstraat,17,,,6645BA,Winssen,Beuningen,Gelderland,VBO,5.704915,51.878501
 Leegstraat,19,,,6645BA,Winssen,Beuningen,Gelderland,VBO,5.705102,51.878222
 Leegstraat,21,,,6645BA,Winssen,Beuningen,Gelderland,VBO,5.704140,51.877838
-Leegstraat,23,T,,6645BA,Winssen,Beuningen,Gelderland,VBO,5.703030,51.876870
 Leegstraat,23,a,,6645BA,Winssen,Beuningen,Gelderland,VBO,5.703775,51.877444
+Leegstraat,23,T,,6645BA,Winssen,Beuningen,Gelderland,VBO,5.703030,51.876870
 Leegstraat,23,,,6645BA,Winssen,Beuningen,Gelderland,VBO,5.703979,51.877569
 Leegstraat,25,,,6645BB,Winssen,Beuningen,Gelderland,VBO,5.702592,51.876566
 Leegstraat,27,,,6645BB,Winssen,Beuningen,Gelderland,VBO,5.702415,51.876117
@@ -662,11 +662,11 @@ Molenstraat,29,,,6645BR,Winssen,Beuningen,Gelderland,VBO,5.700701,51.882413
 Molenstraat,31,,,6645BR,Winssen,Beuningen,Gelderland,VBO,5.700468,51.882243
 Molenstraat,33,,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.700090,51.882181
 Molenstraat,35,,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.699682,51.882048
-Molenstraat,37,M,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.697169,51.881955
 Molenstraat,37,a,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.697840,51.882439
+Molenstraat,37,M,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.697169,51.881955
 Molenstraat,37,,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.698942,51.882184
-Molenstraat,39,T,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.697144,51.882567
 Molenstraat,39,a,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.697012,51.882324
+Molenstraat,39,T,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.697144,51.882567
 Molenstraat,39,,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.697566,51.882602
 Molenstraat,41,,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.696941,51.882522
 Molenstraat,43,a,,6645BS,Winssen,Beuningen,Gelderland,VBO,5.696237,51.882574
@@ -728,9 +728,9 @@ Molenstraat,58,,,6645BV,Winssen,Beuningen,Gelderland,VBO,5.688250,51.883893
 Hanemansestraat,1,,,6645BW,Winssen,Beuningen,Gelderland,VBO,5.700966,51.882898
 Hanemansestraat,2,,,6645BW,Winssen,Beuningen,Gelderland,VBO,5.701114,51.883221
 Hanemansestraat,4,,,6645BW,Winssen,Beuningen,Gelderland,VBO,5.700726,51.883914
-Haneman,1,R,,6645CA,Winssen,Beuningen,Gelderland,VBO,5.698950,51.883272
 Haneman,1,a,,6645CA,Winssen,Beuningen,Gelderland,VBO,5.698643,51.883012
 Haneman,1,b,,6645CA,Winssen,Beuningen,Gelderland,VBO,5.698572,51.883192
+Haneman,1,R,,6645CA,Winssen,Beuningen,Gelderland,VBO,5.698950,51.883272
 Haneman,1,,,6645CA,Winssen,Beuningen,Gelderland,VBO,5.699010,51.883524
 Haneman,2,a,,6645CA,Winssen,Beuningen,Gelderland,VBO,5.700350,51.884131
 Haneman,2,b,,6645CA,Winssen,Beuningen,Gelderland,VBO,5.701176,51.883868
@@ -759,9 +759,9 @@ Geerstraat,11,,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.695931,51.879307
 Geerstraat,13,,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.695608,51.878868
 Geerstraat,15,,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.695403,51.878554
 Geerstraat,17,,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.695095,51.878168
-Geerstraat,19,T,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.693920,51.878396
 Geerstraat,19,a,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.694327,51.878522
 Geerstraat,19,b,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.694109,51.878377
+Geerstraat,19,T,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.693920,51.878396
 Geerstraat,19,,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.694358,51.878655
 Geerstraat,21,,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.693203,51.877589
 Geerstraat,23,a,,6645CB,Winssen,Beuningen,Gelderland,VBO,5.692018,51.876207

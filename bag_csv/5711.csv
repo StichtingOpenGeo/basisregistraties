@@ -699,7 +699,7 @@ Vogelenzang,17,,,5711CC,Someren,Someren,Noord-Brabant,VBO,5.715053,51.391885
 Vogelenzang,18,,,5711CC,Someren,Someren,Noord-Brabant,VBO,5.714924,51.391872
 Vogelenzang,19,,,5711CC,Someren,Someren,Noord-Brabant,VBO,5.714959,51.392031
 Vogelenzang,20,,,5711CC,Someren,Someren,Noord-Brabant,VBO,5.714839,51.392005
-Schutsakkers,6,,,5711CD,Someren,Someren,Noord-Brabant,VBO,5.719012,51.393829
+Zilverlinde,6,,,5711CD,Someren,Someren,Noord-Brabant,VBO,5.719012,51.393829
 Nachtegaallaan,1,,,5711CE,Someren,Someren,Noord-Brabant,VBO,5.711819,51.391633
 Nachtegaallaan,3,,,5711CE,Someren,Someren,Noord-Brabant,VBO,5.711905,51.391660
 Nachtegaallaan,5,,,5711CE,Someren,Someren,Noord-Brabant,VBO,5.711992,51.391687
@@ -790,9 +790,7 @@ Acaciaweg,16,,,5711CM,Someren,Someren,Noord-Brabant,VBO,5.717514,51.392417
 Acaciaweg,18,,,5711CM,Someren,Someren,Noord-Brabant,VBO,5.717745,51.392498
 Acaciaweg,20,,,5711CM,Someren,Someren,Noord-Brabant,VBO,5.717817,51.392524
 Acaciaweg,24,,,5711CM,Someren,Someren,Noord-Brabant,VBO,5.718997,51.392773
-Acaciaweg,26,,,5711CM,Someren,Someren,Noord-Brabant,VBO,5.719816,51.392851
-Acaciaweg,28,,,5711CM,Someren,Someren,Noord-Brabant,VBO,5.719631,51.393059
-Acaciaweg,30,,,5711CM,Someren,Someren,Noord-Brabant,VBO,5.719557,51.392837
+Acaciaweg,26,,,5711CM,Someren,Someren,Noord-Brabant,VBO,5.719616,51.393184
 Witvrouwenbergweg,2,,,5711CN,Someren,Someren,Noord-Brabant,VBO,5.724514,51.386959
 Witvrouwenbergweg,8,a,,5711CN,Someren,Someren,Noord-Brabant,VBO,5.723773,51.387797
 Witvrouwenbergweg,8,b,,5711CN,Someren,Someren,Noord-Brabant,VBO,5.723773,51.387797
@@ -894,6 +892,8 @@ Lage Akkerweg,19,,,5711DD,Someren,Someren,Noord-Brabant,VBO,5.731882,51.388582
 Holberg,1,,,5711DE,Someren,Someren,Noord-Brabant,VBO,5.729329,51.389237
 Holberg,2,,,5711DE,Someren,Someren,Noord-Brabant,VBO,5.729975,51.389172
 Holberg,4,,,5711DE,Someren,Someren,Noord-Brabant,VBO,5.729147,51.389867
+Holberg,8,,,5711DE,Someren,Someren,Noord-Brabant,VBO,5.729739,51.390321
+Holberg,10,,,5711DE,Someren,Someren,Noord-Brabant,VBO,5.730096,51.390456
 Belleweg,1,,,5711DH,Someren,Someren,Noord-Brabant,VBO,5.724900,51.388666
 Belleweg,2,a,,5711DH,Someren,Someren,Noord-Brabant,VBO,5.725591,51.388509
 Belleweg,2,b,,5711DH,Someren,Someren,Noord-Brabant,VBO,5.725847,51.388546
@@ -938,7 +938,7 @@ Indumaweg,5,,,5711EA,Someren,Someren,Noord-Brabant,VBO,5.725195,51.391586
 Indumaweg,7,,,5711EA,Someren,Someren,Noord-Brabant,VBO,5.725496,51.391550
 Indumaweg,11,,,5711EA,Someren,Someren,Noord-Brabant,VBO,5.726002,51.391498
 Indumaweg,15,,,5711EA,Someren,Someren,Noord-Brabant,VBO,5.726460,51.391429
-Kanaalstraat,1,,,5711ED,Someren,Someren,Noord-Brabant,VBO,5.713795,51.386720
+Kanaalstraat,1,,,5711ED,Someren,Someren,Noord-Brabant,VBO,5.714156,51.386601
 Kanaalstraat,9,a,,5711ED,Someren,Someren,Noord-Brabant,VBO,5.714370,51.386649
 Kanaalstraat,9,,,5711ED,Someren,Someren,Noord-Brabant,VBO,5.714326,51.386665
 Kanaalstraat,11,a,,5711ED,Someren,Someren,Noord-Brabant,VBO,5.714614,51.386763
@@ -1047,6 +1047,7 @@ Wilhelminaplein,27,c,,5711EL,Someren,Someren,Noord-Brabant,VBO,5.713047,51.38539
 Wilhelminaplein,27,,,5711EL,Someren,Someren,Noord-Brabant,VBO,5.713062,51.385549
 Wilhelminaplein,28,a,,5711EL,Someren,Someren,Noord-Brabant,VBO,5.712880,51.385609
 Wilhelminaplein,28,,,5711EL,Someren,Someren,Noord-Brabant,VBO,5.712854,51.385680
+Wilhelminaplein,29,a,,5711EL,Someren,Someren,Noord-Brabant,VBO,5.712327,51.385344
 Wilhelminaplein,29,,,5711EL,Someren,Someren,Noord-Brabant,VBO,5.712595,51.385690
 Wilhelminaplein,30,a,,5711EL,Someren,Someren,Noord-Brabant,VBO,5.712416,51.385681
 Wilhelminaplein,30,,,5711EL,Someren,Someren,Noord-Brabant,VBO,5.712351,51.385609
@@ -1120,14 +1121,13 @@ Postelstraat,31,,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711300,51.383338
 Postelstraat,33,a,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711328,51.383257
 Postelstraat,33,b,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711371,51.383248
 Postelstraat,33,,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711271,51.383266
-Postelstraat,35,a,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711299,51.383140
-Postelstraat,35,b,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711327,51.383140
+Postelstraat,35,a,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711668,51.382920
+Postelstraat,35,b,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711709,51.382951
 Postelstraat,35,,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711256,51.383150
-Postelstraat,37,a,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711240,51.383015
+Postelstraat,37,a,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711237,51.383074
 Postelstraat,37,b,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711298,51.383006
-Postelstraat,37,,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711255,51.383087
+Postelstraat,37,,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711227,51.383133
 Postelstraat,39,,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711239,51.382772
-Postelstraat,45,,,5711EM,Someren,Someren,Noord-Brabant,VBO,5.711166,51.382619
 Postelstraat,4,,,5711EN,Someren,Someren,Noord-Brabant,VBO,5.711632,51.385513
 Postelstraat,6,d,,5711EN,Someren,Someren,Noord-Brabant,VBO,5.711444,51.385459
 Postelstraat,6,,,5711EN,Someren,Someren,Noord-Brabant,VBO,5.711459,51.385459
@@ -1228,10 +1228,13 @@ Verdonckstraat,3,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.710315,51.384231
 Verdonckstraat,5,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.710100,51.384231
 Verdonckstraat,6,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.710130,51.384474
 Verdonckstraat,7,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.710057,51.384232
+Verdonckstraat,7,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.710134,51.384241
 Verdonckstraat,8,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.710001,51.384519
 Verdonckstraat,9,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.710014,51.384250
+Verdonckstraat,9,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.710060,51.384258
 Verdonckstraat,10,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.709714,51.384574
 Verdonckstraat,11,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.709956,51.384268
+Verdonckstraat,11,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.709993,51.384276
 Verdonckstraat,12,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.709557,51.384601
 Verdonckstraat,13,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.709799,51.384349
 Verdonckstraat,14,,,5711ER,Someren,Someren,Noord-Brabant,VBO,5.709313,51.384656
@@ -1315,8 +1318,8 @@ Postel,5,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711738,51.382078
 Postel,6,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711811,51.382123
 Postel,7,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711883,51.382156
 Postel,8,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711792,51.382164
-Postel,9,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711530,51.381306
-Postel,10,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711587,51.381288
+Postel,9,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711303,51.381806
+Postel,10,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711122,51.381784
 Postel,11,a,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711715,51.381099
 Postel,11,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711715,51.381126
 Postel,12,,,5711ET,Someren,Someren,Noord-Brabant,VBO,5.711715,51.381072
@@ -1766,8 +1769,8 @@ Kerkstraat,60,,,5711GW,Someren,Someren,Noord-Brabant,VBO,5.718090,51.378753
 Kerkstraat,62,,,5711GW,Someren,Someren,Noord-Brabant,VBO,5.718319,51.378635
 Kerkstraat,64,,,5711GW,Someren,Someren,Noord-Brabant,VBO,5.718405,51.378590
 Kerkstraat,66,,,5711GW,Someren,Someren,Noord-Brabant,VBO,5.718398,51.378392
-Kerkstraat,68,,,5711GW,Someren,Someren,Noord-Brabant,VBO,5.718488,51.378104
 Kerkstraat,68,,,5711GW,Someren,Someren,Noord-Brabant,VBO,5.718486,51.378107
+Kerkstraat,68,,,5711GW,Someren,Someren,Noord-Brabant,VBO,5.718488,51.378104
 Kerkstraat,70,,,5711GW,Someren,Someren,Noord-Brabant,VBO,5.717928,51.378153
 Sonnehoek,1,,,5711GX,Someren,Someren,Noord-Brabant,VBO,5.714051,51.382288
 Sonnehoek,2,,,5711GX,Someren,Someren,Noord-Brabant,VBO,5.714036,51.382288
@@ -2608,10 +2611,16 @@ Waver,15,,,5711LR,Someren,Someren,Noord-Brabant,VBO,5.723237,51.383340
 Waver,17,,,5711LR,Someren,Someren,Noord-Brabant,VBO,5.723539,51.383402
 Vlechter,1,,,5711LS,Someren,Someren,Noord-Brabant,VBO,5.730511,51.385863
 Vlechter,3,,,5711LS,Someren,Someren,Noord-Brabant,VBO,5.730727,51.385943
+Wagenmaker,5,,,5711LT,Someren,Someren,Noord-Brabant,VBO,5.729956,51.384669
 Wagenmaker,10,,,5711LT,Someren,Someren,Noord-Brabant,VBO,5.732941,51.384274
-Hageheld,1,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720710,51.381782
+Kuiper,13,,,5711LV,Someren,Someren,Noord-Brabant,VBO,5.733675,51.385653
+Kuiper,14,,,5711LV,Someren,Someren,Noord-Brabant,VBO,5.732785,51.385426
+Kuiper,15,,,5711LV,Someren,Someren,Noord-Brabant,VBO,5.733768,51.385488
+Hageheld,1,a,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720685,51.381777
+Hageheld,1,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720627,51.381834
 Hageheld,2,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720050,51.381815
-Hageheld,3,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720763,51.381710
+Hageheld,3,a,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720814,51.381649
+Hageheld,3,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720777,51.381695
 Hageheld,4,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720341,51.381604
 Hageheld,11,a,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721381,51.380084
 Hageheld,11,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721343,51.380130
@@ -2623,7 +2632,6 @@ Hageheld,14,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720715,51.380609
 Hageheld,15,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721664,51.379760
 Hageheld,16,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720772,51.380434
 Hageheld,17,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721711,51.379675
-Hageheld,18,,unit,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720651,51.380202
 Hageheld,18,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720840,51.380282
 Hageheld,19,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721770,51.379612
 Hageheld,20,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.720988,51.380008
@@ -2641,11 +2649,16 @@ Hageheld,31,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722429,51.379072
 Hageheld,32,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721253,51.379658
 Hageheld,33,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722507,51.379020
 Hageheld,34,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721294,51.379603
+Hageheld,35,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722742,51.378790
 Hageheld,36,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721358,51.379555
+Hageheld,37,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722791,51.378756
 Hageheld,38,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721393,51.379499
+Hageheld,39,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722839,51.378724
 Hageheld,40,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721437,51.379441
+Hageheld,41,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722884,51.378693
 Hageheld,42,a,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721545,51.379337
 Hageheld,42,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721505,51.379391
+Hageheld,43,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722935,51.378658
 Hageheld,44,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721783,51.379133
 Hageheld,46,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721837,51.379084
 Hageheld,48,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.721916,51.378981
@@ -2655,12 +2668,12 @@ Hageheld,54,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722409,51.378635
 Hageheld,56,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722473,51.378586
 Hageheld,58,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722617,51.378501
 Hageheld,60,,,5711NA,Someren,Someren,Noord-Brabant,VBO,5.722678,51.378462
-Koevink,1,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721018,51.381704
-Koevink,3,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721160,51.381736
-Koevink,5,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721286,51.381768
-Koevink,7,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721433,51.381806
-Koevink,9,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721557,51.381835
-Koevink,11,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721702,51.381873
+Koevink,1,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721124,51.381719
+Koevink,3,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721220,51.381752
+Koevink,5,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721363,51.381786
+Koevink,7,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721464,51.381814
+Koevink,9,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721621,51.381844
+Koevink,11,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721702,51.381854
 Koevink,13,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721716,51.381601
 Koevink,15,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721787,51.381511
 Koevink,17,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721873,51.381403
@@ -2668,12 +2681,12 @@ Koevink,19,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721916,51.381358
 Koevink,21,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.722001,51.381241
 Koevink,23,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.722058,51.381159
 Koevink,25,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.722115,51.381087
-Morgenrood,2,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.720815,51.381918
-Morgenrood,4,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.720950,51.381973
-Morgenrood,6,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721074,51.382028
-Morgenrood,8,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721203,51.382076
-Morgenrood,10,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721339,51.382120
-Morgenrood,12,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721480,51.382163
+Morgenrood,4,,,5711NB,Someren,Someren,Noord-Brabant,VBO,5.721003,51.382017
+Morgenrood,2,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.720920,51.381985
+Morgenrood,6,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721143,51.382083
+Morgenrood,8,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721217,51.382105
+Morgenrood,10,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721378,51.382154
+Morgenrood,12,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721463,51.382182
 Morgenrood,14,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.721908,51.382265
 Morgenrood,16,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.722191,51.382311
 Morgenrood,18,,,5711NC,Someren,Someren,Noord-Brabant,VBO,5.722497,51.382318
@@ -2838,13 +2851,23 @@ Atalanta,56,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724930,51.379212
 Atalanta,57,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.725544,51.379709
 Atalanta,58,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724866,51.379167
 Atalanta,59,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.725500,51.379604
-Atalanta,60,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724745,51.379051
+Atalanta,60,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724705,51.379032
 Atalanta,61,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.725492,51.379556
 Atalanta,62,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724648,51.378999
 Atalanta,63,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.725486,51.379500
-Atalanta,64,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724533,51.378948
+Atalanta,64,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724485,51.378933
 Atalanta,65,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.725462,51.379458
 Atalanta,66,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724411,51.378902
+Atalanta,68,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.724028,51.378752
+Atalanta,70,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723951,51.378736
+Atalanta,72,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723794,51.378703
+Atalanta,74,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723716,51.378687
+Atalanta,76,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723526,51.378647
+Atalanta,78,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723443,51.378630
+Atalanta,80,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723323,51.378605
+Atalanta,82,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723253,51.378590
+Atalanta,84,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723187,51.378576
+Atalanta,86,,,5711NH,Someren,Someren,Noord-Brabant,VBO,5.723120,51.378562
 Heideblauwtje,2,,,5711NJ,Someren,Someren,Noord-Brabant,VBO,5.724877,51.382700
 Heideblauwtje,4,,,5711NJ,Someren,Someren,Noord-Brabant,VBO,5.724957,51.382717
 Heideblauwtje,6,,,5711NJ,Someren,Someren,Noord-Brabant,VBO,5.725120,51.382754
@@ -3006,7 +3029,11 @@ Koolwitje,24,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.723582,51.379938
 Koolwitje,25,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724656,51.379613
 Koolwitje,26,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724130,51.379249
 Koolwitje,27,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724749,51.379622
-Koolwitje,28,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724257,51.379274
+Koolwitje,28,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724217,51.379260
+Koolwitje,30,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724398,51.379265
+Koolwitje,32,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724478,51.379306
+Koolwitje,34,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724539,51.379327
+Koolwitje,36,,,5711NN,Someren,Someren,Noord-Brabant,VBO,5.724605,51.379351
 Avondrood,2,,,5711NP,Someren,Someren,Noord-Brabant,VBO,5.722635,51.380015
 Avondrood,4,,,5711NP,Someren,Someren,Noord-Brabant,VBO,5.722704,51.379941
 Avondrood,6,,,5711NP,Someren,Someren,Noord-Brabant,VBO,5.722742,51.379890
@@ -3026,6 +3053,11 @@ Avondrood,38,,,5711NP,Someren,Someren,Noord-Brabant,VBO,5.722889,51.379124
 Avondrood,40,,,5711NP,Someren,Someren,Noord-Brabant,VBO,5.722802,51.379094
 Bonte Beer,2,,unit,5711NR,Someren,Someren,Noord-Brabant,VBO,5.719982,51.381566
 Bonte Beer,2,,,5711NR,Someren,Someren,Noord-Brabant,VBO,5.720038,51.381463
+Bonte Beer,16,,,5711NR,Someren,Someren,Noord-Brabant,VBO,5.719834,51.380277
+Bonte Beer,18,,unit,5711NR,Someren,Someren,Noord-Brabant,VBO,5.719607,51.380074
+Bonte Beer,18,,,5711NR,Someren,Someren,Noord-Brabant,VBO,5.719833,51.380118
+Bonte Beer,22,,unit,5711NR,Someren,Someren,Noord-Brabant,VBO,5.719633,51.379652
+Bonte Beer,22,,,5711NR,Someren,Someren,Noord-Brabant,VBO,5.719969,51.379756
 Bonte Beer,24,,,5711NR,Someren,Someren,Noord-Brabant,VBO,5.720246,51.379811
 Bonte Beer,26,,,5711NR,Someren,Someren,Noord-Brabant,VBO,5.720303,51.379842
 Bonte Beer,28,,,5711NR,Someren,Someren,Noord-Brabant,VBO,5.720382,51.379864
@@ -3081,8 +3113,8 @@ Kouterstraat,1,,,5711PD,Someren,Someren,Noord-Brabant,VBO,5.709392,51.395937
 Kouterstraat,5,,,5711PD,Someren,Someren,Noord-Brabant,VBO,5.708893,51.396291
 Kouterstraat,7,,,5711PD,Someren,Someren,Noord-Brabant,VBO,5.708793,51.396371
 Kouterstraat,9,,,5711PD,Someren,Someren,Noord-Brabant,VBO,5.707991,51.396599
-Kouterstraat,20,,,5711PD,Someren,Someren,Noord-Brabant,VBO,5.705844,51.396976
-Kouterstraat,22,,,5711PD,Someren,Someren,Noord-Brabant,VBO,5.705356,51.396311
+Kouterstraat,20,,,5711PD,Someren,Someren,Noord-Brabant,VBO,5.705774,51.396933
+Kouterstraat,22,,,5711PD,Someren,Someren,Noord-Brabant,VBO,5.705253,51.396418
 Elenburgweg,5,,,5711PE,Someren,Someren,Noord-Brabant,VBO,5.710748,51.396571
 Elenburgweg,6,a,,5711PE,Someren,Someren,Noord-Brabant,VBO,5.711054,51.396334
 Elenburgweg,6,,,5711PE,Someren,Someren,Noord-Brabant,VBO,5.710774,51.396256
@@ -3146,7 +3178,6 @@ Houtbroekdijk,24,,,5711PM,Someren,Someren,Noord-Brabant,VBO,5.697114,51.394918
 Houtbroekdijk,28,,,5711PM,Someren,Someren,Noord-Brabant,VBO,5.696279,51.394754
 Houtbroekdijk,29,,,5711PM,Someren,Someren,Noord-Brabant,VBO,5.695816,51.394158
 Houtbroekdijk,30,,,5711PM,Someren,Someren,Noord-Brabant,VBO,5.695802,51.394498
-Houtbroekdijk,30,,,5711PM,Someren,Someren,Noord-Brabant,VBO,5.695343,51.394321
 Houtbroekdijk,32,,,5711PM,Someren,Someren,Noord-Brabant,VBO,5.694997,51.394133
 Lieropsedijk,5,a,,5711PN,Someren,Someren,Noord-Brabant,VBO,5.701016,51.387673
 Lieropsedijk,5,,,5711PN,Someren,Someren,Noord-Brabant,VBO,5.701087,51.387600
@@ -3316,7 +3347,6 @@ Keizerweg,3,,,5711TN,Someren,Someren,Noord-Brabant,VBO,5.718296,51.381449
 Keizerweg,4,,,5711TN,Someren,Someren,Noord-Brabant,VBO,5.718382,51.381296
 Keizerweg,5,,,5711TN,Someren,Someren,Noord-Brabant,VBO,5.718455,51.381466
 Keizerweg,7,,,5711TN,Someren,Someren,Noord-Brabant,VBO,5.718541,51.381475
-Muldersweg,1,,,5711TP,Someren,Someren,Noord-Brabant,VBO,5.719536,51.382084
 Muldersweg,15,,,5711TP,Someren,Someren,Noord-Brabant,STA,5.728583,51.384235
 Muldersweg,17,,,5711TP,Someren,Someren,Noord-Brabant,STA,5.728461,51.384327
 Muldersweg,19,,,5711TP,Someren,Someren,Noord-Brabant,STA,5.728416,51.384415
@@ -3331,7 +3361,6 @@ Muldersweg,35,,,5711TP,Someren,Someren,Noord-Brabant,STA,5.729054,51.384737
 Muldersweg,39,,,5711TP,Someren,Someren,Noord-Brabant,STA,5.729072,51.384463
 Muldersweg,41,,,5711TP,Someren,Someren,Noord-Brabant,STA,5.728945,51.384403
 Muldersweg,43,,,5711TP,Someren,Someren,Noord-Brabant,STA,5.728824,51.384353
-Muldersweg,45,,,5711TP,Someren,Someren,Noord-Brabant,VBO,5.729956,51.384669
 Molenbergstraat,1,,,5711TR,Someren,Someren,Noord-Brabant,VBO,5.717366,51.383905
 Molenbergstraat,2,,,5711TR,Someren,Someren,Noord-Brabant,VBO,5.717480,51.383761
 Molenbergstraat,3,,,5711TR,Someren,Someren,Noord-Brabant,VBO,5.717481,51.383941
@@ -3503,6 +3532,7 @@ Ter Hofstadlaan,227,,,5711VG,Someren,Someren,Noord-Brabant,VBO,5.708504,51.39308
 Ter Hofstadlaan,229,,,5711VG,Someren,Someren,Noord-Brabant,VBO,5.708655,51.393096
 Ter Hofstadlaan,231,,,5711VG,Someren,Someren,Noord-Brabant,VBO,5.708920,51.393104
 Ter Hofstadlaan,233,,,5711VG,Someren,Someren,Noord-Brabant,VBO,5.709452,51.392642
+Ter Hofstadlaan,235,,,5711VG,Someren,Someren,Noord-Brabant,VBO,5.709307,51.392641
 Ter Hofstadlaan,237,,,5711VG,Someren,Someren,Noord-Brabant,VBO,5.709075,51.392511
 Ter Hofstadlaan,239,,,5711VG,Someren,Someren,Noord-Brabant,VBO,5.709104,51.392530
 Ter Hofstadlaan,241,,,5711VG,Someren,Someren,Noord-Brabant,VBO,5.709092,51.392556
@@ -3771,33 +3801,33 @@ Ter Hofstadlaan,120,,,5711VZ,Someren,Someren,Noord-Brabant,VBO,5.711477,51.39210
 Ter Hofstadlaan,136,,,5711VZ,Someren,Someren,Noord-Brabant,VBO,5.711004,51.394215
 Ter Hofstadlaan,138,,,5711VZ,Someren,Someren,Noord-Brabant,VBO,5.710876,51.394431
 Ter Hofstadlaan,140,,,5711VZ,Someren,Someren,Noord-Brabant,VBO,5.710778,51.394773
-De Meer,2,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713696,51.386936
+De Meer,2,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713608,51.387004
 De Meer,4,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713725,51.386918
-De Meer,6,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713696,51.386900
-De Meer,8,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713667,51.386918
+De Meer,6,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713876,51.387091
+De Meer,8,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713688,51.387052
 De Meer,10,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713696,51.386945
-De Meer,12,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713725,51.386936
-De Meer,14,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713739,51.386918
-De Meer,16,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713725,51.386900
-De Meer,18,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713696,51.386891
-De Meer,20,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713667,51.386900
-De Meer,22,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713653,51.386918
-De Meer,24,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713667,51.386936
-De Meer,26,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713696,51.386963
-De Meer,1,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713639,51.386963
+De Meer,12,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713772,51.386799
+De Meer,14,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713971,51.386813
+De Meer,16,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.714074,51.386934
+De Meer,18,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713994,51.387072
+De Meer,20,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.713802,51.387043
+De Meer,22,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.714071,51.386703
+De Meer,24,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.714115,51.386733
+De Meer,26,,,5711XB,Someren,Someren,Noord-Brabant,VBO,5.714175,51.386635
+De Meer,1,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713644,51.387061
 De Meer,3,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713667,51.386945
-De Meer,5,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713639,51.386927
-De Meer,7,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713624,51.386945
+De Meer,5,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713796,51.387073
+De Meer,7,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713970,51.387106
 De Meer,9,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713639,51.386972
-De Meer,11,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713668,51.386963
-De Meer,13,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713682,51.386945
-De Meer,15,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713667,51.386927
-De Meer,17,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713639,51.386990
-De Meer,19,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713668,51.386981
-De Meer,21,a,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713711,51.386945
-De Meer,21,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713696,51.386963
-De Meer,25,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713667,51.386909
-De Meer,27,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713610,51.386981
+De Meer,11,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713753,51.386875
+De Meer,13,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713879,51.386799
+De Meer,15,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.714040,51.386848
+De Meer,17,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713994,51.386989
+De Meer,19,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713883,51.387071
+De Meer,21,a,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713891,51.386722
+De Meer,21,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.713779,51.386765
+De Meer,25,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.714241,51.386631
+De Meer,27,,,5711XC,Someren,Someren,Noord-Brabant,VBO,5.714080,51.386603
 Swaanesdries,1,,,5711XD,Someren,Someren,Noord-Brabant,VBO,5.716696,51.388590
 Swaanesdries,2,,,5711XD,Someren,Someren,Noord-Brabant,VBO,5.716151,51.388628
 Swaanesdries,3,,,5711XD,Someren,Someren,Noord-Brabant,VBO,5.716840,51.388653

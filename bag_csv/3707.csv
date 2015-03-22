@@ -42,6 +42,7 @@ Bergweg,163,,,3707AC,Zeist,Zeist,Utrecht,VBO,5.254038,52.101403
 Bergweg,165,,,3707AC,Zeist,Zeist,Utrecht,VBO,5.254155,52.101439
 Bergweg,167,,,3707AC,Zeist,Zeist,Utrecht,VBO,5.254286,52.101511
 Bergweg,169,,,3707AC,Zeist,Zeist,Utrecht,VBO,5.254418,52.101547
+Bergweg,171,A,,3707AC,Zeist,Zeist,Utrecht,VBO,5.254321,52.101793
 Bergweg,171,,,3707AC,Zeist,Zeist,Utrecht,VBO,5.254578,52.101619
 Bergweg,173,A,,3707AC,Zeist,Zeist,Utrecht,VBO,5.254563,52.101799
 Bergweg,173,,,3707AC,Zeist,Zeist,Utrecht,VBO,5.254665,52.101682
@@ -1162,8 +1163,8 @@ Prof. Lorentzlaan,185,A,,3707HH,Zeist,Zeist,Utrecht,VBO,5.268648,52.097633
 Prof. Lorentzlaan,185,B,,3707HH,Zeist,Zeist,Utrecht,VBO,5.268806,52.097774
 Prof. Lorentzlaan,185,,,3707HH,Zeist,Zeist,Utrecht,VBO,5.268556,52.097579
 Prof. Lorentzlaan,187,A,,3707HH,Zeist,Zeist,Utrecht,VBO,5.269153,52.097986
-Prof. Lorentzlaan,187,,,3707HH,Zeist,Zeist,Utrecht,VBO,5.268937,52.097867
 Prof. Lorentzlaan,187,,,3707HH,Zeist,Zeist,Utrecht,VBO,5.268920,52.097842
+Prof. Lorentzlaan,187,,,3707HH,Zeist,Zeist,Utrecht,VBO,5.268937,52.097867
 Prof. Lorentzlaan,189,,,3707HH,Zeist,Zeist,Utrecht,VBO,5.269314,52.098103
 Prof. Lorentzlaan,191,,,3707HH,Zeist,Zeist,Utrecht,VBO,5.269576,52.098238
 Prof. Lorentzlaan,193,,,3707HH,Zeist,Zeist,Utrecht,VBO,5.269634,52.098283
@@ -1257,7 +1258,6 @@ Woudenbergseweg,19,B,1,3707HW,Zeist,Zeist,Utrecht,VBO,5.286507,52.090731
 Woudenbergseweg,19,B,2,3707HW,Zeist,Zeist,Utrecht,VBO,5.286507,52.090731
 Woudenbergseweg,19,B,3,3707HW,Zeist,Zeist,Utrecht,VBO,5.286507,52.090731
 Woudenbergseweg,19,B,4,3707HW,Zeist,Zeist,Utrecht,VBO,5.286507,52.090731
-Woudenbergseweg,19,C,1,3707HW,Zeist,Zeist,Utrecht,VBO,5.288518,52.092161
 Woudenbergseweg,19,C,10,3707HW,Zeist,Zeist,Utrecht,VBO,5.286783,52.091450
 Woudenbergseweg,19,C,11,3707HW,Zeist,Zeist,Utrecht,VBO,5.286593,52.091405
 Woudenbergseweg,19,C,12,3707HW,Zeist,Zeist,Utrecht,VBO,5.286433,52.091360
@@ -1307,7 +1307,6 @@ Zwitsersekade,11,,,3707HZ,Zeist,Zeist,Utrecht,VBO,5.281505,52.089137
 Zwitsersekade,12,,,3707HZ,Zeist,Zeist,Utrecht,VBO,5.281639,52.089208
 Zwitsersekade,13,,,3707HZ,Zeist,Zeist,Utrecht,VBO,5.281419,52.089189
 Zwitsersekade,14,,,3707HZ,Zeist,Zeist,Utrecht,VBO,5.281554,52.089259
-Jagersingel,3,,,3707JA,Zeist,Zeist,Utrecht,VBO,5.260733,52.090540
 Kampweg,15,,,3707JX,Zeist,Zeist,Utrecht,VBO,5.287915,52.113375
 Kampweg,120,,,3707JX,Zeist,Zeist,Utrecht,VBO,5.295746,52.110995
 Kampweg,122,,,3707JX,Zeist,Zeist,Utrecht,VBO,5.291801,52.109473
@@ -1974,7 +1973,86 @@ Van Tetslaan,51,,,3707VC,Zeist,Zeist,Utrecht,VBO,5.251172,52.098659
 Van Tetslaan,53,,,3707VC,Zeist,Zeist,Utrecht,VBO,5.251201,52.098686
 Van Tetslaan,55,,,3707VC,Zeist,Zeist,Utrecht,VBO,5.251172,52.098641
 Van Tetslaan,57,,,3707VC,Zeist,Zeist,Utrecht,VBO,5.251157,52.098659
-Van Tetslaan,2,,,3707VD,Zeist,Zeist,Utrecht,VBO,5.251176,52.097184
+Van Tetslaan,2,K,1,3707VD,Zeist,Zeist,Utrecht,VBO,5.251425,52.097207
+Van Tetslaan,2,K,10,3707VD,Zeist,Zeist,Utrecht,VBO,5.251927,52.097330
+Van Tetslaan,2,K,11,3707VD,Zeist,Zeist,Utrecht,VBO,5.251904,52.097272
+Van Tetslaan,2,K,12,3707VD,Zeist,Zeist,Utrecht,VBO,5.251883,52.097201
+Van Tetslaan,2,K,13,3707VD,Zeist,Zeist,Utrecht,VBO,5.251892,52.097164
+Van Tetslaan,2,K,14,3707VD,Zeist,Zeist,Utrecht,VBO,5.251902,52.097123
+Van Tetslaan,2,K,15,3707VD,Zeist,Zeist,Utrecht,VBO,5.251914,52.097090
+Van Tetslaan,2,K,16,3707VD,Zeist,Zeist,Utrecht,VBO,5.251924,52.097060
+Van Tetslaan,2,K,17,3707VD,Zeist,Zeist,Utrecht,VBO,5.251261,52.097151
+Van Tetslaan,2,K,18,3707VD,Zeist,Zeist,Utrecht,VBO,5.251271,52.097120
+Van Tetslaan,2,K,19,3707VD,Zeist,Zeist,Utrecht,VBO,5.251277,52.097098
+Van Tetslaan,2,K,2,3707VD,Zeist,Zeist,Utrecht,VBO,5.251502,52.097215
+Van Tetslaan,2,K,20,3707VD,Zeist,Zeist,Utrecht,VBO,5.251290,52.097067
+Van Tetslaan,2,K,21,3707VD,Zeist,Zeist,Utrecht,VBO,5.251304,52.097034
+Van Tetslaan,2,K,22,3707VD,Zeist,Zeist,Utrecht,VBO,5.251404,52.096998
+Van Tetslaan,2,K,23,3707VD,Zeist,Zeist,Utrecht,VBO,5.251337,52.096991
+Van Tetslaan,2,K,24,3707VD,Zeist,Zeist,Utrecht,VBO,5.251256,52.096981
+Van Tetslaan,2,K,25,3707VD,Zeist,Zeist,Utrecht,VBO,5.251167,52.096972
+Van Tetslaan,2,K,26,3707VD,Zeist,Zeist,Utrecht,VBO,5.251115,52.096963
+Van Tetslaan,2,K,27,3707VD,Zeist,Zeist,Utrecht,VBO,5.251063,52.096950
+Van Tetslaan,2,K,28,3707VD,Zeist,Zeist,Utrecht,VBO,5.251115,52.097000
+Van Tetslaan,2,K,29,3707VD,Zeist,Zeist,Utrecht,VBO,5.251086,52.097083
+Van Tetslaan,2,K,3,3707VD,Zeist,Zeist,Utrecht,VBO,5.251470,52.097314
+Van Tetslaan,2,K,30,3707VD,Zeist,Zeist,Utrecht,VBO,5.251114,52.097144
+Van Tetslaan,2,K,31,3707VD,Zeist,Zeist,Utrecht,VBO,5.251081,52.097185
+Van Tetslaan,2,K,32,3707VD,Zeist,Zeist,Utrecht,VBO,5.251319,52.097199
+Van Tetslaan,2,K,33,3707VD,Zeist,Zeist,Utrecht,VBO,5.251381,52.097198
+Van Tetslaan,2,K,34,3707VD,Zeist,Zeist,Utrecht,VBO,5.251421,52.097222
+Van Tetslaan,2,K,35,3707VD,Zeist,Zeist,Utrecht,VBO,5.251492,52.097233
+Van Tetslaan,2,K,36,3707VD,Zeist,Zeist,Utrecht,VBO,5.251556,52.097236
+Van Tetslaan,2,K,37,3707VD,Zeist,Zeist,Utrecht,VBO,5.251519,52.097355
+Van Tetslaan,2,K,38,3707VD,Zeist,Zeist,Utrecht,VBO,5.251538,52.097377
+Van Tetslaan,2,K,39,3707VD,Zeist,Zeist,Utrecht,VBO,5.251672,52.097376
+Van Tetslaan,2,K,4,3707VD,Zeist,Zeist,Utrecht,VBO,5.251483,52.097351
+Van Tetslaan,2,K,40,3707VD,Zeist,Zeist,Utrecht,VBO,5.251714,52.097344
+Van Tetslaan,2,K,41,3707VD,Zeist,Zeist,Utrecht,VBO,5.251633,52.097275
+Van Tetslaan,2,K,42,3707VD,Zeist,Zeist,Utrecht,VBO,5.251709,52.097283
+Van Tetslaan,2,K,43,3707VD,Zeist,Zeist,Utrecht,VBO,5.251896,52.097322
+Van Tetslaan,2,K,44,3707VD,Zeist,Zeist,Utrecht,VBO,5.251890,52.097289
+Van Tetslaan,2,K,45,3707VD,Zeist,Zeist,Utrecht,VBO,5.251856,52.097215
+Van Tetslaan,2,K,46,3707VD,Zeist,Zeist,Utrecht,VBO,5.251861,52.097180
+Van Tetslaan,2,K,47,3707VD,Zeist,Zeist,Utrecht,VBO,5.251871,52.097139
+Van Tetslaan,2,K,48,3707VD,Zeist,Zeist,Utrecht,VBO,5.251885,52.097103
+Van Tetslaan,2,K,49,3707VD,Zeist,Zeist,Utrecht,VBO,5.251902,52.097059
+Van Tetslaan,2,K,5,3707VD,Zeist,Zeist,Utrecht,VBO,5.251494,52.097392
+Van Tetslaan,2,K,50,3707VD,Zeist,Zeist,Utrecht,VBO,5.251249,52.097062
+Van Tetslaan,2,K,51,3707VD,Zeist,Zeist,Utrecht,VBO,5.251233,52.097120
+Van Tetslaan,2,K,52,3707VD,Zeist,Zeist,Utrecht,VBO,5.251248,52.097079
+Van Tetslaan,2,K,53,3707VD,Zeist,Zeist,Utrecht,VBO,5.251244,52.097093
+Van Tetslaan,2,K,54,3707VD,Zeist,Zeist,Utrecht,VBO,5.251261,52.097033
+Van Tetslaan,2,K,55,3707VD,Zeist,Zeist,Utrecht,VBO,5.251429,52.096980
+Van Tetslaan,2,K,56,3707VD,Zeist,Zeist,Utrecht,VBO,5.251316,52.096964
+Van Tetslaan,2,K,59,3707VD,Zeist,Zeist,Utrecht,VBO,5.251121,52.097013
+Van Tetslaan,2,K,6,3707VD,Zeist,Zeist,Utrecht,VBO,5.251699,52.097384
+Van Tetslaan,2,K,60,3707VD,Zeist,Zeist,Utrecht,VBO,5.251084,52.097104
+Van Tetslaan,2,K,61,3707VD,Zeist,Zeist,Utrecht,VBO,5.251313,52.097211
+Van Tetslaan,2,K,62,3707VD,Zeist,Zeist,Utrecht,VBO,5.251370,52.097218
+Van Tetslaan,2,K,63,3707VD,Zeist,Zeist,Utrecht,VBO,5.251521,52.097242
+Van Tetslaan,2,K,64,3707VD,Zeist,Zeist,Utrecht,VBO,5.251570,52.097247
+Van Tetslaan,2,K,65,3707VD,Zeist,Zeist,Utrecht,VBO,5.251627,52.097254
+Van Tetslaan,2,K,66,3707VD,Zeist,Zeist,Utrecht,VBO,5.251556,52.097319
+Van Tetslaan,2,K,67,3707VD,Zeist,Zeist,Utrecht,VBO,5.251538,52.097347
+Van Tetslaan,2,K,68,3707VD,Zeist,Zeist,Utrecht,VBO,5.251537,52.097393
+Van Tetslaan,2,K,69,3707VD,Zeist,Zeist,Utrecht,VBO,5.251628,52.097363
+Van Tetslaan,2,K,7,3707VD,Zeist,Zeist,Utrecht,VBO,5.251739,52.097347
+Van Tetslaan,2,K,70,3707VD,Zeist,Zeist,Utrecht,VBO,5.251663,52.097331
+Van Tetslaan,2,K,71,3707VD,Zeist,Zeist,Utrecht,VBO,5.251671,52.097260
+Van Tetslaan,2,K,72,3707VD,Zeist,Zeist,Utrecht,VBO,5.251718,52.097265
+Van Tetslaan,2,K,73,3707VD,Zeist,Zeist,Utrecht,VBO,5.251859,52.097321
+Van Tetslaan,2,K,74,3707VD,Zeist,Zeist,Utrecht,VBO,5.251869,52.097268
+Van Tetslaan,2,K,75,3707VD,Zeist,Zeist,Utrecht,VBO,5.251818,52.097218
+Van Tetslaan,2,K,76,3707VD,Zeist,Zeist,Utrecht,VBO,5.251825,52.097195
+Van Tetslaan,2,K,77,3707VD,Zeist,Zeist,Utrecht,VBO,5.251835,52.097160
+Van Tetslaan,2,K,78,3707VD,Zeist,Zeist,Utrecht,VBO,5.251850,52.097121
+Van Tetslaan,2,K,79,3707VD,Zeist,Zeist,Utrecht,VBO,5.251864,52.097074
+Van Tetslaan,2,K,8,3707VD,Zeist,Zeist,Utrecht,VBO,5.251653,52.097234
+Van Tetslaan,2,K,80,3707VD,Zeist,Zeist,Utrecht,VBO,5.251404,52.097204
+Van Tetslaan,2,K,81,3707VD,Zeist,Zeist,Utrecht,VBO,5.251317,52.097188
+Van Tetslaan,2,K,9,3707VD,Zeist,Zeist,Utrecht,VBO,5.251730,52.097245
+Van Tetslaan,2,,,3707VD,Zeist,Zeist,Utrecht,VBO,5.251056,52.097253
 Van Tetslaan,4,,,3707VD,Zeist,Zeist,Utrecht,VBO,5.251277,52.097517
 Van Tetslaan,10,,,3707VD,Zeist,Zeist,Utrecht,VBO,5.251464,52.098416
 Van Tetslaan,12,,,3707VD,Zeist,Zeist,Utrecht,VBO,5.251566,52.098398

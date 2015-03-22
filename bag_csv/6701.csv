@@ -125,6 +125,9 @@ Gerdesstraat,4,,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.666002,51.968195
 Gerdesstraat,6,,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.666086,51.968205
 Gerdesstraat,8,,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.666174,51.968218
 Gerdesstraat,10,,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.666231,51.968222
+Gerdesstraat,12,A,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.666134,51.968090
+Gerdesstraat,12,B,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.666133,51.968053
+Gerdesstraat,12,C,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.666153,51.968017
 Gerdesstraat,16,,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.667523,51.968270
 Gerdesstraat,18,,,6701AK,Wageningen,Wageningen,Gelderland,VBO,5.667506,51.968382
 Stadsbrink,2,,,6701AL,Wageningen,Wageningen,Gelderland,VBO,5.665351,51.968737
@@ -163,7 +166,7 @@ Stationsstraat,22,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.666019,51.9677
 Stationsstraat,23,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.664811,51.968653
 Stationsstraat,24,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.665662,51.967830
 Stationsstraat,26,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.665736,51.967841
-Stationsstraat,32,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.665645,51.967930
+Stationsstraat,32,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.665647,51.967927
 Stationsstraat,34,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.665753,51.968017
 Stationsstraat,36,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.665770,51.967974
 Stationsstraat,38,,,6701AM,Wageningen,Wageningen,Gelderland,VBO,5.665787,51.967932
@@ -204,7 +207,6 @@ Lawickse Allee,5,A,,6701AN,Wageningen,Wageningen,Gelderland,VBO,5.664176,51.9686
 Lawickse Allee,5,,,6701AN,Wageningen,Wageningen,Gelderland,VBO,5.664341,51.968552
 Lawickse Allee,9,,,6701AN,Wageningen,Wageningen,Gelderland,VBO,5.662200,51.968096
 Lawickse Allee,11,,,6701AN,Wageningen,Wageningen,Gelderland,VBO,5.661120,51.968000
-Lawickse Allee,13,,,6701AN,Wageningen,Wageningen,Gelderland,VBO,5.657083,51.967917
 Duivendaal,1,A,,6701AP,Wageningen,Wageningen,Gelderland,VBO,5.659890,51.966291
 Duivendaal,1,,,6701AP,Wageningen,Wageningen,Gelderland,VBO,5.660107,51.966670
 Duivendaal,2,,,6701AP,Wageningen,Wageningen,Gelderland,VBO,5.659643,51.966485
@@ -212,8 +214,39 @@ Duivendaal,3,,,6701AP,Wageningen,Wageningen,Gelderland,VBO,5.659966,51.966847
 Duivendaal,4,,,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.659715,51.967128
 Duivendaal,7,,,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.659336,51.967307
 Duivendaal,8,,,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.659336,51.967307
-Duivendaal,10,A,,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658152,51.968020
-Duivendaal,10,,,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658152,51.968020
+Duivendaal,10,K,001,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657778,51.968089
+Duivendaal,10,K,002,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657776,51.968064
+Duivendaal,10,K,003,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657776,51.968032
+Duivendaal,10,K,004,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657776,51.967997
+Duivendaal,10,K,005,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657866,51.968097
+Duivendaal,10,K,006,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657866,51.968067
+Duivendaal,10,K,007,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657866,51.968035
+Duivendaal,10,K,101,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657866,51.968000
+Duivendaal,10,K,102,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657950,51.968104
+Duivendaal,10,K,103,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657950,51.968069
+Duivendaal,10,K,104,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657949,51.968036
+Duivendaal,10,K,105,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.657949,51.968001
+Duivendaal,10,K,106,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658025,51.968113
+Duivendaal,10,K,107,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658026,51.968077
+Duivendaal,10,K,108,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658025,51.968043
+Duivendaal,10,K,109,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658025,51.968010
+Duivendaal,10,K,110,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658258,51.968081
+Duivendaal,10,K,111,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658258,51.968051
+Duivendaal,10,K,112,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658258,51.968021
+Duivendaal,10,K,113,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658257,51.967987
+Duivendaal,10,K,114,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658315,51.968045
+Duivendaal,10,K,115,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658315,51.968016
+Duivendaal,10,K,201,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658315,51.967978
+Duivendaal,10,K,202,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658315,51.967944
+Duivendaal,10,K,203,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658373,51.968003
+Duivendaal,10,K,204,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658373,51.967967
+Duivendaal,10,K,205,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658373,51.967923
+Duivendaal,10,K,206,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658373,51.967889
+Duivendaal,10,K,207,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658424,51.967980
+Duivendaal,10,K,208,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658424,51.967949
+Duivendaal,10,K,209,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658423,51.967911
+Duivendaal,10,K,210,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658423,51.967876
+Duivendaal,10,,,6701AR,Wageningen,Wageningen,Gelderland,VBO,5.658145,51.967994
 Plantsoen,1,,,6701AS,Wageningen,Wageningen,Gelderland,VBO,5.661450,51.966777
 Plantsoen,3,,,6701AS,Wageningen,Wageningen,Gelderland,VBO,5.661450,51.966777
 Plantsoen,5,,,6701AS,Wageningen,Wageningen,Gelderland,VBO,5.661688,51.966608
@@ -385,8 +418,8 @@ Beuningstraat,1,B,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.663207,51.96625
 Beuningstraat,1,C,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.663241,51.966261
 Beuningstraat,1,D,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.663062,51.966288
 Beuningstraat,1,,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.663048,51.966344
-Beuningstraat,3,A,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.662832,51.966447
 Beuningstraat,3,A,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.662830,51.966387
+Beuningstraat,3,A,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.662832,51.966447
 Beuningstraat,3,B,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.662859,51.966414
 Beuningstraat,3,C,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.662903,51.966441
 Beuningstraat,3,D,,6701AW,Wageningen,Wageningen,Gelderland,VBO,5.662932,51.966459
@@ -429,7 +462,7 @@ Junusstraat,31,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661962,51.965903
 Junusstraat,35,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661946,51.965980
 Junusstraat,37,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661907,51.965956
 Junusstraat,41,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661872,51.966009
-Junusstraat,45,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661821,51.966041
+Junusstraat,45,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661823,51.966039
 Junusstraat,47,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661751,51.966068
 Junusstraat,53,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661635,51.966147
 Junusstraat,55,,,6701AX,Wageningen,Wageningen,Gelderland,VBO,5.661559,51.966185
@@ -775,7 +808,7 @@ Costerweg,50,B,3,6701BH,Wageningen,Wageningen,Gelderland,VBO,5.658715,51.966847
 Hoogstraat,5,A,,6701BJ,Wageningen,Wageningen,Gelderland,VBO,5.661308,51.964786
 Hoogstraat,5,,,6701BJ,Wageningen,Wageningen,Gelderland,VBO,5.661352,51.964755
 Hoogstraat,7,A,,6701BJ,Wageningen,Wageningen,Gelderland,VBO,5.661376,51.964859
-Hoogstraat,7,,,6701BJ,Wageningen,Wageningen,Gelderland,VBO,5.661441,51.964811
+Hoogstraat,7,,,6701BJ,Wageningen,Wageningen,Gelderland,VBO,5.661438,51.964809
 Hoogstraat,9,A,,6701BJ,Wageningen,Wageningen,Gelderland,VBO,5.661466,51.964902
 Hoogstraat,9,,,6701BJ,Wageningen,Wageningen,Gelderland,VBO,5.661522,51.964863
 Hoogstraat,11,,,6701BJ,Wageningen,Wageningen,Gelderland,VBO,5.661604,51.964914
@@ -948,9 +981,9 @@ Nudestraat,3,,,6701CC,Wageningen,Wageningen,Gelderland,VBO,5.660771,51.964028
 Nudestraat,5,,,6701CC,Wageningen,Wageningen,Gelderland,VBO,5.660705,51.963983
 Nudestraat,7,,,6701CC,Wageningen,Wageningen,Gelderland,VBO,5.660640,51.963930
 Nudestraat,9,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.660293,51.963700
-Nudestraat,11,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.660201,51.963640
-Nudestraat,13,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.660201,51.963640
-Nudestraat,15,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.659952,51.963494
+Nudestraat,11,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.660208,51.963643
+Nudestraat,13,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.660073,51.963614
+Nudestraat,15,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.659945,51.963491
 Nudestraat,17,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.659697,51.963412
 Nudestraat,19,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.659606,51.963353
 Nudestraat,21,,,6701CD,Wageningen,Wageningen,Gelderland,VBO,5.659737,51.963391
@@ -1107,7 +1140,7 @@ Niemeijerstraat,34,,,6701CT,Wageningen,Wageningen,Gelderland,VBO,5.660430,51.963
 Niemeijerstraat,36,,,6701CT,Wageningen,Wageningen,Gelderland,VBO,5.660388,51.963296
 Boterstraat,5,,,6701CV,Wageningen,Wageningen,Gelderland,VBO,5.663479,51.964248
 Boterstraat,7,,,6701CV,Wageningen,Wageningen,Gelderland,VBO,5.663552,51.964226
-Boterstraat,9,,,6701CV,Wageningen,Wageningen,Gelderland,VBO,5.663622,51.964211
+Boterstraat,9,,,6701CV,Wageningen,Wageningen,Gelderland,VBO,5.663616,51.964210
 Boterstraat,13,,,6701CV,Wageningen,Wageningen,Gelderland,VBO,5.664649,51.964165
 Boterstraat,2,A,,6701CW,Wageningen,Wageningen,Gelderland,VBO,5.662787,51.964268
 Boterstraat,2,B,,6701CW,Wageningen,Wageningen,Gelderland,VBO,5.662841,51.964247
@@ -1183,7 +1216,7 @@ Markt,18,,,6701CZ,Wageningen,Wageningen,Gelderland,VBO,5.662559,51.964321
 Markt,20,A,,6701CZ,Wageningen,Wageningen,Gelderland,VBO,5.662533,51.964192
 Markt,20,B,,6701CZ,Wageningen,Wageningen,Gelderland,VBO,5.662642,51.964329
 Markt,20,,,6701CZ,Wageningen,Wageningen,Gelderland,VBO,5.662633,51.964283
-Markt,22,,,6701CZ,Wageningen,Wageningen,Gelderland,VBO,5.663325,51.964501
+Markt,22,,,6701CZ,Wageningen,Wageningen,Gelderland,VBO,5.663327,51.964499
 Burgtstraat,1,,,6701DA,Wageningen,Wageningen,Gelderland,VBO,5.664401,51.964961
 Burgtstraat,3,A,,6701DA,Wageningen,Wageningen,Gelderland,VBO,5.664448,51.964928
 Burgtstraat,5,A,,6701DA,Wageningen,Wageningen,Gelderland,VBO,5.664461,51.964899
@@ -1517,20 +1550,20 @@ Veerstraat,22,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667348,51.966582
 Veerstraat,24,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667528,51.966559
 Veerstraat,26,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667460,51.966526
 Veerstraat,26,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668159,51.966776
-Veerstraat,28,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668199,51.966734
 Veerstraat,28,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667642,51.966505
+Veerstraat,28,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668199,51.966734
 Veerstraat,30,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667576,51.966469
 Veerstraat,30,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668241,51.966693
 Veerstraat,32,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667749,51.966448
 Veerstraat,32,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668287,51.966653
-Veerstraat,34,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668455,51.966488
 Veerstraat,34,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667683,51.966414
+Veerstraat,34,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668455,51.966488
 Veerstraat,36,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667859,51.966389
 Veerstraat,36,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668498,51.966447
 Veerstraat,38,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.667790,51.966357
 Veerstraat,38,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668540,51.966406
-Veerstraat,40,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668583,51.966365
 Veerstraat,40,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668215,51.966307
+Veerstraat,40,,,6701DW,Wageningen,Wageningen,Gelderland,VBO,5.668583,51.966365
 Veerstraat,42,,,6701DX,Wageningen,Wageningen,Gelderland,VBO,5.669165,51.965975
 Veerstraat,44,,,6701DX,Wageningen,Wageningen,Gelderland,VBO,5.669231,51.965960
 Veerstraat,46,,,6701DX,Wageningen,Wageningen,Gelderland,VBO,5.669296,51.965942
@@ -1686,7 +1719,7 @@ Bassecour,46,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.665338,51.965558
 Bassecour,47,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.664906,51.965658
 Bassecour,48,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.665368,51.965438
 Bassecour,49,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.665004,51.965653
-Bassecour,50,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.666129,51.965230
+Bassecour,50,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.665388,51.965485
 Bassecour,51,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.665019,51.965688
 Bassecour,52,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.665382,51.965555
 Bassecour,53,,,6701EB,Wageningen,Wageningen,Gelderland,VBO,5.665117,51.965690
@@ -2003,8 +2036,8 @@ Van Sallandthof,26,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.668074,51.965
 Van Sallandthof,28,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.668040,51.965328
 Van Sallandthof,30,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.668013,51.965287
 Van Sallandthof,32,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.667996,51.965250
-Van Sallandthof,34,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.668034,51.965500
-Van Sallandthof,36,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.667609,51.965539
+Van Sallandthof,34,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.667886,51.965512
+Van Sallandthof,36,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.667666,51.965570
 Van Sallandthof,38,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.667539,51.965517
 Van Sallandthof,40,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.667491,51.965553
 Van Sallandthof,42,,,6701JG,Wageningen,Wageningen,Gelderland,VBO,5.667403,51.965602
@@ -2039,8 +2072,8 @@ Aan de Rijn,5,A,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.672918,51.958022
 Aan de Rijn,5,,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.673135,51.958228
 Aan de Rijn,6,T,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.665117,51.958158
 Aan de Rijn,6,,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.666341,51.957115
-Aan de Rijn,11,A,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.662930,51.956689
 Aan de Rijn,11,A,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.662872,51.956734
+Aan de Rijn,11,A,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.662930,51.956689
 Aan de Rijn,11,,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.663422,51.956490
 Aan de Rijn,12,,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.663485,51.954879
 Aan de Rijn,14,A,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.632356,51.947434
@@ -2052,7 +2085,6 @@ Aan de Rijn,14,F,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.631979,51.947250
 Aan de Rijn,14,G,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.631899,51.947207
 Aan de Rijn,14,H,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.631826,51.947169
 Aan de Rijn,15,,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.631115,51.947001
-Aan de Rijn,15,,,6701PB,Wageningen,Wageningen,Gelderland,VBO,5.631701,51.946970
 Pabstsendam,1,,,6701PC,Wageningen,Wageningen,Gelderland,VBO,5.659421,51.961254
 Pabstsendam,2,T,,6701PC,Wageningen,Wageningen,Gelderland,VBO,5.659043,51.961225
 Pabstsendam,2,,,6701PC,Wageningen,Wageningen,Gelderland,VBO,5.659050,51.961284
@@ -2061,7 +2093,7 @@ Pabstsendam,14,T,,6701PC,Wageningen,Wageningen,Gelderland,VBO,5.658892,51.960070
 Pabstsendam,14,,,6701PC,Wageningen,Wageningen,Gelderland,VBO,5.658132,51.960266
 Pabstsendam,16,,,6701PC,Wageningen,Wageningen,Gelderland,VBO,5.658829,51.960412
 Maneswaard,1,,,6701PZ,Wageningen,Wageningen,Gelderland,VBO,5.636995,51.943519
-Maneswaard,2,,,6701PZ,Wageningen,Wageningen,Gelderland,VBO,5.636029,51.942578
+Maneswaard,2,,,6701PZ,Wageningen,Wageningen,Gelderland,VBO,5.636025,51.942574
 Maneswaard,3,,,6701PZ,Wageningen,Wageningen,Gelderland,VBO,5.636765,51.942951
 Maneswaard,4,,,6701PZ,Wageningen,Wageningen,Gelderland,VBO,5.637281,51.942652
 Maneswaard,5,,,6701PZ,Wageningen,Wageningen,Gelderland,VBO,5.636389,51.943289

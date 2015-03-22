@@ -195,7 +195,6 @@ Centrumplein,87,,,8084AZ,'t Harde,Elburg,Gelderland,VBO,5.883681,52.414748
 Centrumplein,89,,,8084AZ,'t Harde,Elburg,Gelderland,VBO,5.883739,52.414694
 Centrumplein,91,,,8084AZ,'t Harde,Elburg,Gelderland,VBO,5.883798,52.414639
 Centrumplein,93,,,8084AZ,'t Harde,Elburg,Gelderland,VBO,5.883856,52.414603
-Centrum,17,,,8084BA,'t Harde,Elburg,Gelderland,VBO,5.882841,52.414667
 Centrum,2,,,8084BB,'t Harde,Elburg,Gelderland,VBO,5.883396,52.415332
 Centrum,8,,,8084BB,'t Harde,Elburg,Gelderland,VBO,5.883045,52.415049
 Centrum,10,,,8084BB,'t Harde,Elburg,Gelderland,VBO,5.882986,52.415019
@@ -1999,8 +1998,6 @@ Oude Bovendwarsweg,4,,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.885626,52.415239
 Oude Bovendwarsweg,6,,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.885855,52.415313
 Oude Bovendwarsweg,8,A,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.886084,52.415385
 Oude Bovendwarsweg,8,B,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.886158,52.415402
-Oude Bovendwarsweg,10,A,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.886335,52.415438
-Oude Bovendwarsweg,10,B,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.886438,52.415437
 Oude Bovendwarsweg,12,,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.886735,52.415472
 Oude Bovendwarsweg,14,,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.887174,52.415259
 Oude Bovendwarsweg,16,,,8084JE,'t Harde,Elburg,Gelderland,VBO,5.887368,52.415271
@@ -2335,8 +2332,8 @@ Bovenweg,6,B,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.872594,52.421875
 Bovenweg,6,,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.873506,52.421661
 Bovenweg,7,A,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.875415,52.423545
 Bovenweg,7,B,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.875341,52.423474
-Bovenweg,7,C,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.875339,52.423330
 Bovenweg,7,C,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.875248,52.423339
+Bovenweg,7,C,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.875339,52.423330
 Bovenweg,7,D,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.875115,52.423190
 Bovenweg,7,,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.876017,52.423701
 Bovenweg,8,,,8084PB,'t Harde,Elburg,Gelderland,VBO,5.871487,52.420577
@@ -2360,14 +2357,17 @@ Zwaluwenburg,4,,,8084PD,'t Harde,Elburg,Gelderland,VBO,5.876056,52.433668
 Zwaluwenburg,6,,,8084PD,'t Harde,Elburg,Gelderland,VBO,5.875811,52.433451
 Zwaluwenburg,7,,,8084PD,'t Harde,Elburg,Gelderland,VBO,5.878269,52.431512
 Zwaluwenburg,8,,,8084PD,'t Harde,Elburg,Gelderland,VBO,5.876331,52.433192
-Schouwenburg,1,,,8084PE,'t Harde,Elburg,Gelderland,VBO,5.869902,52.430623
+Schouwenburg,1,A,,8084PE,'t Harde,Elburg,Gelderland,VBO,5.869892,52.430704
+Schouwenburg,1,,,8084PE,'t Harde,Elburg,Gelderland,VBO,5.869891,52.430623
 Schouwenburg,2,,,8084PE,'t Harde,Elburg,Gelderland,VBO,5.863214,52.430736
 Schouwenburg,3,,,8084PE,'t Harde,Elburg,Gelderland,VBO,5.870337,52.430972
 Schouwenburg,4,,,8084PE,'t Harde,Elburg,Gelderland,VBO,5.865594,52.430929
 Schouwenburg,6,,,8084PE,'t Harde,Elburg,Gelderland,VBO,5.865647,52.430857
 Schouwenburg,8,,,8084PE,'t Harde,Elburg,Gelderland,VBO,5.869139,52.428538
 Rozenbergerweg,1,,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.861481,52.426224
-Rozenbergerweg,2,,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.868644,52.428364
+Rozenbergerweg,2,A,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.868897,52.428434
+Rozenbergerweg,2,B,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.868587,52.428328
+Rozenbergerweg,2,,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.868573,52.428408
 Rozenbergerweg,4,A,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.867132,52.428414
 Rozenbergerweg,4,,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.867498,52.428647
 Rozenbergerweg,6,A,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.863163,52.427145
@@ -2378,7 +2378,8 @@ Rozenbergerweg,8,,,8084PG,'t Harde,Elburg,Gelderland,VBO,5.862494,52.426875
 Stadsweg,1,,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.856376,52.428423
 Stadsweg,3,,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.857511,52.429005
 Stadsweg,7,,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.860119,52.425710
-Stadsweg,11,,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.864544,52.422545
+Stadsweg,11,A,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.864569,52.422511
+Stadsweg,11,,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.864481,52.422574
 Stadsweg,13,,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.866341,52.420907
 Stadsweg,17,,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.867016,52.420176
 Stadsweg,21,,,8084PH,'t Harde,Elburg,Gelderland,VBO,5.867150,52.420264
@@ -2410,8 +2411,8 @@ Stadsweg,32,,,8084PJ,'t Harde,Elburg,Gelderland,VBO,5.865137,52.420008
 Oostloo,1,A,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863229,52.412100
 Oostloo,1,,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863168,52.412336
 Oostloo,2,R,1,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863013,52.411864
-Oostloo,2,R,2,8084PK,'t Harde,Elburg,Gelderland,VBO,5.862628,52.411876
-Oostloo,2,R,3,8084PK,'t Harde,Elburg,Gelderland,VBO,5.862402,52.412090
+Oostloo,2,R,2,8084PK,'t Harde,Elburg,Gelderland,VBO,5.862402,52.412090
+Oostloo,2,R,3,8084PK,'t Harde,Elburg,Gelderland,VBO,5.862628,52.411876
 Oostloo,2,R,4,8084PK,'t Harde,Elburg,Gelderland,VBO,5.862015,52.411984
 Oostloo,2,R,5,8084PK,'t Harde,Elburg,Gelderland,VBO,5.862124,52.411706
 Oostloo,2,R,6,8084PK,'t Harde,Elburg,Gelderland,VBO,5.862294,52.411461
@@ -2424,7 +2425,7 @@ Oostloo,6,A,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863922,52.409714
 Oostloo,6,,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863868,52.409708
 Oostloo,7,A,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863725,52.411064
 Oostloo,7,,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863409,52.411933
-Oostloo,8,,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.864140,52.408358
+Oostloo,8,,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.864315,52.408536
 Oostloo,9,A,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863853,52.410668
 Oostloo,9,,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.863825,52.410722
 Oostloo,10,A,,8084PK,'t Harde,Elburg,Gelderland,VBO,5.865976,52.409869
@@ -2460,8 +2461,8 @@ Nagelhoudsweg,2,B,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.846127,52.423466
 Nagelhoudsweg,2,C,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.846005,52.423409
 Nagelhoudsweg,2,D,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.846644,52.423000
 Nagelhoudsweg,2,E,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.846737,52.422926
-Nagelhoudsweg,2,,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.847040,52.423394
 Nagelhoudsweg,2,,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.846877,52.423573
+Nagelhoudsweg,2,,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.847040,52.423394
 Nagelhoudsweg,3,,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.848244,52.423516
 Nagelhoudsweg,4,A,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.849109,52.422168
 Nagelhoudsweg,4,,,8084PM,'t Harde,Elburg,Gelderland,VBO,5.848856,52.422439
@@ -2509,7 +2510,6 @@ Koeweg,14,B,,8084PP,'t Harde,Elburg,Gelderland,VBO,5.851257,52.415380
 Koeweg,14,,,8084PP,'t Harde,Elburg,Gelderland,VBO,5.851881,52.415632
 Koeweg,16,,,8084PP,'t Harde,Elburg,Gelderland,VBO,5.850758,52.416167
 Koeweg,18,,,8084PP,'t Harde,Elburg,Gelderland,VBO,5.850794,52.416093
-Koeweg,20,A,,8084PP,'t Harde,Elburg,Gelderland,VBO,5.850321,52.415978
 Koeweg,20,A,,8084PP,'t Harde,Elburg,Gelderland,VBO,5.850358,52.415969
 Koeweg,20,,,8084PP,'t Harde,Elburg,Gelderland,VBO,5.850478,52.415716
 Schietweg,4,A,,8084PR,'t Harde,Elburg,Gelderland,VBO,5.865454,52.418357
@@ -2523,6 +2523,7 @@ Hokseberg,6,,,8084PS,'t Harde,Elburg,Gelderland,VBO,5.869252,52.416991
 Hokseberg,8,,,8084PS,'t Harde,Elburg,Gelderland,VBO,5.868077,52.416757
 Hokseberg,10,,,8084PS,'t Harde,Elburg,Gelderland,VBO,5.866094,52.417145
 Vaarbekerweg,5,R,1,8084PT,'t Harde,Elburg,Gelderland,VBO,5.848812,52.419922
+Vaarbekerweg,5,,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.848369,52.419735
 Vaarbekerweg,6,,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.841625,52.423143
 Vaarbekerweg,7,A,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.850453,52.417014
 Vaarbekerweg,7,B,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.850337,52.416997
@@ -2532,8 +2533,11 @@ Vaarbekerweg,7,E,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849730,52.416938
 Vaarbekerweg,7,F,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849642,52.416952
 Vaarbekerweg,7,G,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849486,52.417068
 Vaarbekerweg,7,H,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849448,52.417119
-Vaarbekerweg,7,J,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849471,52.417057
+Vaarbekerweg,7,J,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849415,52.417097
 Vaarbekerweg,7,K,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849293,52.418087
+Vaarbekerweg,7,L,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849876,52.417626
+Vaarbekerweg,7,M,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849935,52.417689
+Vaarbekerweg,7,N,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.850052,52.417652
 Vaarbekerweg,7,,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.849264,52.418195
 Vaarbekerweg,8,A,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.842276,52.422534
 Vaarbekerweg,8,,,8084PT,'t Harde,Elburg,Gelderland,VBO,5.842390,52.422581
@@ -2578,7 +2582,7 @@ Bovenweg,24,,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.857859,52.410845
 Bovenweg,26,A,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.856143,52.410310
 Bovenweg,26,A,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.856715,52.410540
 Bovenweg,26,B,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.856031,52.410301
-Bovenweg,26,B,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.856617,52.410512
+Bovenweg,26,B,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.856694,52.410463
 Bovenweg,28,,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.855392,52.410628
 Bovenweg,30,,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.854858,52.410714
 Bovenweg,31,A,,8084PW,'t Harde,Elburg,Gelderland,VBO,5.864701,52.413725
@@ -2657,6 +2661,7 @@ Eperweg,3,,,8084RB,'t Harde,Elburg,Gelderland,VBO,5.871761,52.432152
 Eperweg,5,,,8084RB,'t Harde,Elburg,Gelderland,VBO,5.871198,52.431672
 Eperweg,7,,,8084RB,'t Harde,Elburg,Gelderland,VBO,5.871876,52.430682
 Veldbiesweg,1,,,8084RC,'t Harde,Elburg,Gelderland,VBO,5.867560,52.413891
+Veldbiesweg,1,,,8084RC,'t Harde,Elburg,Gelderland,VBO,5.867625,52.413919
 Veldbiesweg,3,,,8084RC,'t Harde,Elburg,Gelderland,VBO,5.867976,52.413690
 Veldbiesweg,5,,,8084RC,'t Harde,Elburg,Gelderland,VBO,5.868162,52.413569
 Veldbiesweg,7,,,8084RC,'t Harde,Elburg,Gelderland,VBO,5.868241,52.413531
@@ -2806,7 +2811,9 @@ Hazenleger,30,,,8084RN,'t Harde,Elburg,Gelderland,VBO,5.868394,52.412762
 Korhoenpad,1,,,8084RP,'t Harde,Elburg,Gelderland,VBO,5.866164,52.414641
 Korhoenpad,3,,,8084RP,'t Harde,Elburg,Gelderland,VBO,5.866428,52.414486
 Korhoenpad,5,,,8084RP,'t Harde,Elburg,Gelderland,VBO,5.866714,52.414330
+Korhoenpad,7,,,8084RP,'t Harde,Elburg,Gelderland,VBO,5.866968,52.414254
 Korhoenpad,9,,,8084RP,'t Harde,Elburg,Gelderland,VBO,5.867138,52.414159
+Korhoenpad,11,,,8084RP,'t Harde,Elburg,Gelderland,VBO,5.867341,52.414019
 Sportlaan,3,,,8084VA,'t Harde,Elburg,Gelderland,VBO,5.882738,52.415214
 Sportlaan,5,,,8084VA,'t Harde,Elburg,Gelderland,VBO,5.882669,52.415261
 Sportlaan,7,,,8084VA,'t Harde,Elburg,Gelderland,VBO,5.882604,52.415316

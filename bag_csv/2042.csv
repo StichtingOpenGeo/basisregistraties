@@ -343,6 +343,8 @@ Brederodestraat,265,,,2042AZ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.518236,52.3
 Brederodestraat,267,,,2042AZ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.518223,52.361661
 Brederodestraat,269,,,2042AZ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.518200,52.361642
 Brederodestraat,271,,,2042AZ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.518164,52.361609
+Brederodestraat,1,a,,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.533063,52.370402
+Brederodestraat,1,b,,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532982,52.370377
 Brederodestraat,1,F,1,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532762,52.370629
 Brederodestraat,1,F,10,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532847,52.370504
 Brederodestraat,1,F,11,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532934,52.370527
@@ -359,8 +361,6 @@ Brederodestraat,1,F,6,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.533033,52.3
 Brederodestraat,1,F,7,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532924,52.370565
 Brederodestraat,1,F,8,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.533007,52.370584
 Brederodestraat,1,F,9,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.533079,52.370611
-Brederodestraat,1,a,,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.533063,52.370402
-Brederodestraat,1,b,,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532982,52.370377
 Brederodestraat,3,,,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532539,52.370472
 Brederodestraat,5,,,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532407,52.370444
 Brederodestraat,7,,,2042BA,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532173,52.370389
@@ -1760,6 +1760,11 @@ Hogeweg,54,F,6,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529781,52.370548
 Hogeweg,54,F,7,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529622,52.370509
 Hogeweg,54,F,8,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529704,52.370520
 Hogeweg,54,F,9,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529790,52.370530
+Hogeweg,56,a,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529875,52.370602
+Hogeweg,56,b,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529898,52.370544
+Hogeweg,56,c,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529916,52.370489
+Hogeweg,56,d,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529941,52.370436
+Hogeweg,56,e,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529957,52.370371
 Hogeweg,56,F,1,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530064,52.370634
 Hogeweg,56,F,10,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530000,52.370547
 Hogeweg,56,F,11,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530031,52.370471
@@ -1776,11 +1781,6 @@ Hogeweg,56,F,6,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530049,52.370552
 Hogeweg,56,F,7,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530077,52.370487
 Hogeweg,56,F,8,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530107,52.370421
 Hogeweg,56,F,9,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529969,52.370612
-Hogeweg,56,a,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529875,52.370602
-Hogeweg,56,b,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529898,52.370544
-Hogeweg,56,c,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529916,52.370489
-Hogeweg,56,d,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529941,52.370436
-Hogeweg,56,e,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529957,52.370371
 Hogeweg,58,a,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530198,52.370589
 Hogeweg,58,,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530271,52.370585
 Hogeweg,60,F,1,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530326,52.370686
@@ -1795,6 +1795,7 @@ Hogeweg,60,F,6,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530376,52.370594
 Hogeweg,60,F,7,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530409,52.370705
 Hogeweg,60,F,8,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530413,52.370685
 Hogeweg,60,F,9,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530423,52.370665
+Hogeweg,62,a,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530645,52.370432
 Hogeweg,62,F,1,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530466,52.370721
 Hogeweg,62,F,10,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530544,52.370680
 Hogeweg,62,F,11,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530553,52.370664
@@ -1809,7 +1810,6 @@ Hogeweg,62,F,6,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530526,52.370623
 Hogeweg,62,F,7,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530531,52.370735
 Hogeweg,62,F,8,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530531,52.370718
 Hogeweg,62,F,9,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530541,52.370699
-Hogeweg,62,a,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530645,52.370432
 Hogeweg,64,a,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530705,52.370781
 Hogeweg,64,b,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530713,52.370764
 Hogeweg,64,c,,2042GJ,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530721,52.370750
@@ -1928,6 +1928,7 @@ Cornelis Slegersstraat,4,,,2042GP,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532164
 Cornelis Slegersstraat,6,,,2042GP,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532207,52.371692
 Cornelis Slegersstraat,7,,,2042GP,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531800,52.371825
 Cornelis Slegersstraat,8,,,2042GP,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532251,52.371675
+Cornelis Slegersstraat,9,A,,2042GP,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530789,52.371979
 Cornelis Slegersstraat,10,,,2042GP,Zandvoort,Zandvoort,Noord-Holland,VBO,4.532296,52.371657
 Cornelis Slegersstraat,11,A,,2042GP,Zandvoort,Zandvoort,Noord-Holland,VBO,4.533194,52.371470
 Cornelis Slegersstraat,11,B,,2042GP,Zandvoort,Zandvoort,Noord-Holland,VBO,4.533217,52.371511
@@ -2058,9 +2059,9 @@ Duinweg,23,,,2042HB,Zandvoort,Zandvoort,Noord-Holland,VBO,4.526797,52.371258
 Duinweg,25,,,2042HB,Zandvoort,Zandvoort,Noord-Holland,VBO,4.526915,52.371249
 Duinstraat,2,,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.526982,52.371538
 Duinstraat,4,,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527013,52.371475
-Duinstraat,5,,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527503,52.371200
+Duinstraat,5,,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527313,52.370979
 Duinstraat,6,,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527043,52.371421
-Duinstraat,7,,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527358,52.371073
+Duinstraat,7,,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527353,52.370915
 Duinstraat,8,a,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527123,52.371351
 Duinstraat,8,b,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527140,52.371356
 Duinstraat,8,c,,2042HC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.527157,52.371360
@@ -2720,6 +2721,7 @@ Zeestraat,22,F,13,2042LC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529565,52.37519
 Zeestraat,22,F,14,2042LC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529705,52.375250
 Zeestraat,22,F,15,2042LC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529692,52.375213
 Zeestraat,22,F,16,2042LC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529681,52.375188
+Zeestraat,22,F,17,2042LC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529609,52.375191
 Zeestraat,22,F,2,2042LC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529399,52.375286
 Zeestraat,22,F,3,2042LC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529381,52.375264
 Zeestraat,22,F,4,2042LC,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529367,52.375239
@@ -2785,6 +2787,7 @@ Stationsstraat,11,,,2042LD,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529503,52.374
 Stationsstraat,13,,,2042LD,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529501,52.374917
 Stationsstraat,15,,,2042LD,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529509,52.374989
 Stationsstraat,17,,,2042LD,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529602,52.375026
+Stationsstraat,19,,,2042LD,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529695,52.375170
 Stationsstraat,2,,,2042LE,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529466,52.374486
 Stationsstraat,4,,,2042LE,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529538,52.374567
 Stationsstraat,6,,,2042LE,Zandvoort,Zandvoort,Noord-Holland,VBO,4.529566,52.374630
@@ -3002,20 +3005,16 @@ Louis Davidsstraat,1,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530655,52.
 Louis Davidsstraat,2,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530823,52.371907
 Louis Davidsstraat,3,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530815,52.372284
 Louis Davidsstraat,4,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531301,52.372036
-Louis Davidsstraat,4,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531078,52.371873
 Louis Davidsstraat,5,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530888,52.372312
-Louis Davidsstraat,6,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531186,52.371826
 Louis Davidsstraat,6,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531188,52.372007
 Louis Davidsstraat,7,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530961,52.372339
-Louis Davidsstraat,8,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531297,52.371789
 Louis Davidsstraat,8,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531073,52.371962
 Louis Davidsstraat,9,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531049,52.372358
 Louis Davidsstraat,10,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531367,52.371953
-Louis Davidsstraat,10,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531372,52.371766
 Louis Davidsstraat,11,a,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531151,52.372386
 Louis Davidsstraat,11,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531121,52.372403
-Louis Davidsstraat,12,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531257,52.371925
 Louis Davidsstraat,12,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531102,52.371894
+Louis Davidsstraat,12,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531257,52.371925
 Louis Davidsstraat,13,a,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531180,52.372413
 Louis Davidsstraat,13,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531195,52.372404
 Louis Davidsstraat,14,,,2042LS,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531184,52.371899
@@ -3069,10 +3068,10 @@ Grote Krocht,5,a,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530808,52.37188
 Grote Krocht,5,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530824,52.371835
 Grote Krocht,7,a,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530897,52.371836
 Grote Krocht,7,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.530876,52.371814
-Grote Krocht,9,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531056,52.371842
 Grote Krocht,9,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531002,52.371798
-Grote Krocht,13,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531164,52.371795
+Grote Krocht,9,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531056,52.371842
 Grote Krocht,13,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531119,52.371742
+Grote Krocht,13,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531164,52.371795
 Grote Krocht,15,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531237,52.371730
 Grote Krocht,15,,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531295,52.371709
 Grote Krocht,19,a,,2042LT,Zandvoort,Zandvoort,Noord-Holland,VBO,4.531355,52.371647
