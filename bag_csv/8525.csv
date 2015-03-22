@@ -1,9 +1,9 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Houtvaartweg,2,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.745391,52.946774
-Houtvaartweg,4,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.741874,52.944602
-Houtvaartweg,6,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.741992,52.944660
-Houtvaartweg,8,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.742068,52.944723
-Houtvaartweg,10,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.742182,52.944766
+Houtvaartweg,4,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.741965,52.944671
+Houtvaartweg,6,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.742087,52.944703
+Houtvaartweg,8,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.742120,52.944769
+Houtvaartweg,10,,,8525DL,Langweer,De Friese Meren,Friesland,VBO,5.742190,52.944804
 Pontdyk,1,,,8525DM,Langweer,De Friese Meren,Friesland,VBO,5.719634,52.959789
 Pontdyk,3,,,8525DM,Langweer,De Friese Meren,Friesland,VBO,5.702132,52.974151
 Pontdyk,5,a,,8525DM,Langweer,De Friese Meren,Friesland,VBO,5.699534,52.975111
@@ -21,7 +21,7 @@ Langwarderdyk,11,a,,8525DP,Langweer,De Friese Meren,Friesland,VBO,5.741439,52.94
 Langwarderdyk,11,,,8525DP,Langweer,De Friese Meren,Friesland,VBO,5.741220,52.944270
 Boarnsweachsterdyk,1,,,8525EA,Langweer,De Friese Meren,Friesland,VBO,5.726239,52.959581
 Boarnsweachsterdyk,2,,,8525EA,Langweer,De Friese Meren,Friesland,VBO,5.728857,52.959403
-Boarnsweachsterdyk,3,,,8525EA,Langweer,De Friese Meren,Friesland,VBO,5.727401,52.959686
+Boarnsweachsterdyk,3,,,8525EA,Langweer,De Friese Meren,Friesland,VBO,5.727091,52.959753
 Boarnsweachsterdyk,4,,,8525EA,Langweer,De Friese Meren,Friesland,VBO,5.731374,52.959630
 Boarnsweachsterdyk,5,,,8525EA,Langweer,De Friese Meren,Friesland,VBO,5.728207,52.959944
 Buorren,1,,,8525EB,Langweer,De Friese Meren,Friesland,VBO,5.721809,52.958228
@@ -179,7 +179,7 @@ Oasingaleane,7,,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.722086,52.95749
 Oasingaleane,9,,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.721715,52.957653
 Oasingaleane,10,,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.722446,52.957831
 Oasingaleane,11,,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.721419,52.957825
-Oasingaleane,12,a,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.722016,52.957985
+Oasingaleane,12,a,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.721443,52.958573
 Oasingaleane,12,,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.722298,52.957930
 Oasingaleane,13,,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.721241,52.957870
 Oasingaleane,17,,,8525EL,Langweer,De Friese Meren,Friesland,VBO,5.721155,52.958365
@@ -398,6 +398,18 @@ Pontdyk,4,b,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.723779,52.960927
 Pontdyk,6,,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.719792,52.962987
 Pontdyk,8,b,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.715693,52.964167
 Pontdyk,8,c,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716522,52.963554
+Pontdyk,8,d,A01,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716774,52.963386
+Pontdyk,8,d,A02,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716728,52.963363
+Pontdyk,8,d,A03,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716672,52.963333
+Pontdyk,8,d,A04,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716620,52.963304
+Pontdyk,8,d,A05,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716577,52.963271
+Pontdyk,8,d,A06,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716510,52.963244
+Pontdyk,8,d,A07,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716467,52.963214
+Pontdyk,8,d,A08,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716405,52.963184
+Pontdyk,8,d,A09,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716351,52.963157
+Pontdyk,8,d,A10,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716282,52.963138
+Pontdyk,8,d,A11,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716240,52.963102
+Pontdyk,8,d,A12,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.716192,52.963071
 Pontdyk,8,e,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.717328,52.962892
 Pontdyk,8,f,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.717743,52.962524
 Pontdyk,8,,WS1,8525GG,Langweer,De Friese Meren,Friesland,LIG,5.717159,52.962193
@@ -413,7 +425,6 @@ Pontdyk,10,a,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.714118,52.964504
 Pontdyk,10,,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.714429,52.964287
 Pontdyk,12,a,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.715175,52.964519
 Pontdyk,12,,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.714752,52.964397
-Pontdyk,12,,,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.714802,52.964394
 Pontdyk,14,,S1,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.713728,52.964018
 Pontdyk,14,,S10,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.714043,52.964134
 Pontdyk,14,,S11,8525GG,Langweer,De Friese Meren,Friesland,VBO,5.714063,52.964159
@@ -488,7 +499,7 @@ Appelhôf,63,,,8525GL,Langweer,De Friese Meren,Friesland,VBO,5.719330,52.959053
 Appelhôf,65,,,8525GL,Langweer,De Friese Meren,Friesland,VBO,5.719256,52.959008
 Appelhôf,67,,,8525GL,Langweer,De Friese Meren,Friesland,VBO,5.719166,52.958981
 Appelhôf,69,,,8525GL,Langweer,De Friese Meren,Friesland,VBO,5.719047,52.958946
-Hendrik Dijkstraleane,1,a,,8525GM,Langweer,De Friese Meren,Friesland,VBO,5.724141,52.958474
+Hendrik Dijkstraleane,1,a,,8525GM,Langweer,De Friese Meren,Friesland,VBO,5.724148,52.958462
 Hendrik Dijkstraleane,1,,,8525GM,Langweer,De Friese Meren,Friesland,VBO,5.723516,52.957693
 Hendrik Dijkstraleane,2,,,8525GM,Langweer,De Friese Meren,Friesland,VBO,5.723917,52.957494
 Hendrik Dijkstraleane,4,,,8525GM,Langweer,De Friese Meren,Friesland,VBO,5.723977,52.957548
@@ -604,7 +615,7 @@ Doniapark,136,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720434,52.961332
 Doniapark,138,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720448,52.961260
 Doniapark,140,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720477,52.961125
 Doniapark,142,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720634,52.960972
-Doniapark,144,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720937,52.960989
+Doniapark,144,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720990,52.960992
 Doniapark,146,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720850,52.961232
 Doniapark,148,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720807,52.961376
 Doniapark,150,,,8525GV,Langweer,De Friese Meren,Friesland,VBO,5.720763,52.961520

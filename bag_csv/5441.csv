@@ -41,7 +41,8 @@ Dorpsstraat,7,a,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.937362,51.693930
 Dorpsstraat,7,,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.937078,51.694357
 Dorpsstraat,8,,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935833,51.695442
 Dorpsstraat,9,,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936904,51.694385
-Dorpsstraat,10,,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935443,51.695551
+Dorpsstraat,10,a,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935523,51.695521
+Dorpsstraat,10,,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935416,51.695582
 Dorpsstraat,12,a,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935315,51.695696
 Dorpsstraat,12,b,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935243,51.695732
 Dorpsstraat,12,,,5441AC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935358,51.695669
@@ -199,8 +200,7 @@ Nieuwstraat,22,,,5441AP,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936989,51.696596
 Nieuwstraat,23,,,5441AP,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.937336,51.696603
 Nieuwstraat,24,,,5441AP,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.937220,51.696559
 Lietingsestraat,1,a,,5441AR,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.934085,51.696870
-Lietingsestraat,1,b,,5441AR,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.933780,51.696755
-Lietingsestraat,1,,,5441AR,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.933648,51.696612
+Lietingsestraat,1,,,5441AR,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.933618,51.696639
 Lietingsestraat,3,,,5441AR,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.934391,51.697067
 Lietingsestraat,5,,,5441AR,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.934581,51.697182
 Lietingsestraat,7,,,5441AR,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.934770,51.697298
@@ -314,16 +314,16 @@ Oranje Nassaustraat,15,,,5441BA,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.934152,51.69
 Oranje Nassaustraat,17,,,5441BA,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.933950,51.698884
 Oranje Nassaustraat,19,,,5441BA,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.933676,51.698939
 Oranje Nassaustraat,21,,,5441BA,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.933516,51.698841
-Tiendplein,1,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935393,51.698974
 Tiendplein,1,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935355,51.698986
-Tiendplein,2,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935488,51.698988
+Tiendplein,1,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935393,51.698974
 Tiendplein,2,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935471,51.699021
+Tiendplein,2,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935488,51.698988
 Tiendplein,3,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935572,51.699038
 Tiendplein,3,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935573,51.699008
-Tiendplein,4,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935703,51.699065
 Tiendplein,4,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935661,51.699024
-Tiendplein,5,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935833,51.699082
+Tiendplein,4,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935703,51.699065
 Tiendplein,5,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935757,51.699041
+Tiendplein,5,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935833,51.699082
 Tiendplein,6,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935841,51.699054
 Tiendplein,6,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935949,51.699100
 Tiendplein,7,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935936,51.699067
@@ -332,21 +332,14 @@ Tiendplein,8,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936035,51.699077
 Tiendplein,8,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936224,51.699062
 Tiendplein,9,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936208,51.699052
 Tiendplein,9,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936281,51.699008
-Tiendplein,10,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936324,51.698954
 Tiendplein,10,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936250,51.698999
-Tiendplein,11,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936221,51.698838
+Tiendplein,10,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936324,51.698954
 Tiendplein,11,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936299,51.698942
 Tiendplein,12,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936186,51.698856
-Tiendplein,12,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936119,51.698802
 Tiendplein,13,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936095,51.698830
-Tiendplein,13,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936018,51.698776
 Tiendplein,14,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.936012,51.698806
-Tiendplein,14,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935916,51.698740
 Tiendplein,15,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935930,51.698783
-Tiendplein,15,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935800,51.698714
 Tiendplein,16,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935838,51.698759
-Tiendplein,16,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935698,51.698687
-Tiendplein,17,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935582,51.698643
 Tiendplein,17,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935752,51.698735
 Tiendplein,18,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935669,51.698714
 Tiendplein,19,,,5441BB,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935581,51.698687
@@ -781,6 +774,7 @@ Katsestraat,51,,,5441XC,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.934664,51.702899
 Hogehoek,1,,,5441XD,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935425,51.703560
 Hogehoek,3,,,5441XD,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935513,51.703677
 Hogehoek,5,a,,5441XD,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.933747,51.703613
+Hogehoek,5,b,,5441XD,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.934285,51.704529
 Hogehoek,5,,,5441XD,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.934739,51.704319
 Hogehoek,7,,,5441XD,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935279,51.703471
 Hogehoek,9,a,,5441XD,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.935140,51.702789
@@ -849,6 +843,7 @@ Urlingsestraat,9,,,5441XJ,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.943050,51.697781
 Urlingsestraat,10,,,5441XJ,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.942433,51.695860
 Urlingsestraat,11,a,,5441XJ,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.943020,51.696522
 Urlingsestraat,11,b,,5441XJ,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.943041,51.695875
+Urlingsestraat,11,c,,5441XJ,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.943013,51.696958
 Urlingsestraat,11,,,5441XJ,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.943233,51.697357
 Urlingsestraat,12,,,5441XJ,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.942828,51.695031
 Urlingsestraat,13,,,5441XJ,Oeffelt,Boxmeer,Noord-Brabant,VBO,5.943021,51.695417

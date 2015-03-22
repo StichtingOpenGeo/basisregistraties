@@ -1,5 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Noordbargerstraat,37,,,7812AA,Emmen,Emmen,Drenthe,VBO,6.892384,52.774894
+Noordbargerstraat,37,A,,7812AA,Emmen,Emmen,Drenthe,VBO,6.892630,52.774866
+Noordbargerstraat,37,,,7812AA,Emmen,Emmen,Drenthe,VBO,6.892385,52.774899
 Noordbargerstraat,41,,,7812AA,Emmen,Emmen,Drenthe,VBO,6.890915,52.774841
 Noordbargerstraat,45,,,7812AA,Emmen,Emmen,Drenthe,VBO,6.890709,52.774870
 Noordbargerstraat,51,,,7812AA,Emmen,Emmen,Drenthe,VBO,6.889367,52.774636
@@ -68,6 +69,7 @@ Zuidbargerstraat,20,,,7812AH,Emmen,Emmen,Drenthe,VBO,6.900130,52.758411
 Zuidbargerstraat,22,,,7812AH,Emmen,Emmen,Drenthe,VBO,6.900170,52.758293
 Zuidbargerstraat,24,,,7812AH,Emmen,Emmen,Drenthe,VBO,6.900254,52.758148
 Zuidbargerstraat,26,,,7812AH,Emmen,Emmen,Drenthe,VBO,6.900278,52.757977
+Zuidbargerstraat,30,,,7812AH,Emmen,Emmen,Drenthe,VBO,6.900370,52.757411
 Zuidbargerstraat,34,,,7812AH,Emmen,Emmen,Drenthe,VBO,6.900767,52.757117
 Zuidbargerstraat,40,,,7812AH,Emmen,Emmen,Drenthe,VBO,6.900880,52.756549
 Zuidbargerstraat,42,,,7812AH,Emmen,Emmen,Drenthe,VBO,6.901255,52.756239
@@ -222,6 +224,7 @@ Ermerweg,84,,,7812BG,Emmen,Emmen,Drenthe,VBO,6.881223,52.773983
 Ermerweg,86,,,7812BG,Emmen,Emmen,Drenthe,VBO,6.881009,52.773788
 Ermerweg,88,A,,7812BG,Emmen,Emmen,Drenthe,VBO,6.880036,52.773503
 Ermerweg,88,B,,7812BG,Emmen,Emmen,Drenthe,VBO,6.880123,52.773457
+Ermerweg,88,C,1,7812BG,Emmen,Emmen,Drenthe,VBO,6.880004,52.773573
 Ermerweg,88,C,,7812BG,Emmen,Emmen,Drenthe,VBO,6.880123,52.773457
 Ermerweg,88,D,,7812BG,Emmen,Emmen,Drenthe,VBO,6.880221,52.773726
 Ermerweg,88,G,,7812BG,Emmen,Emmen,Drenthe,VBO,6.880150,52.774257
@@ -252,7 +255,8 @@ Huizingsbrinkweg,3,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.890423,52.773885
 Huizingsbrinkweg,8,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.887314,52.772693
 Huizingsbrinkweg,9,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.887417,52.772242
 Huizingsbrinkweg,11,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.886573,52.772684
-Huizingsbrinkweg,13,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.885728,52.772686
+Huizingsbrinkweg,12,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.885736,52.772691
+Huizingsbrinkweg,13,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.885824,52.772688
 Huizingsbrinkweg,14,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.885810,52.772469
 Huizingsbrinkweg,15,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.885370,52.772619
 Huizingsbrinkweg,16,,,7812BK,Emmen,Emmen,Drenthe,VBO,6.885084,52.772487
@@ -333,6 +337,7 @@ Bargerkampenweg,19,,,7812BV,Emmen,Emmen,Drenthe,VBO,6.873102,52.774462
 Bargerkampenweg,20,,,7812BV,Emmen,Emmen,Drenthe,VBO,6.872973,52.774589
 Bargerkampenweg,21,,,7812BV,Emmen,Emmen,Drenthe,VBO,6.872890,52.774752
 Bargerkampenweg,23,,,7812BV,Emmen,Emmen,Drenthe,VBO,6.872632,52.775007
+Bargerkampenweg,25,,,7812BV,Emmen,Emmen,Drenthe,VBO,6.872618,52.775135
 Bargerkampenweg,27,,,7812BV,Emmen,Emmen,Drenthe,VBO,6.872821,52.775590
 Bargerkampenweg,29,,,7812BV,Emmen,Emmen,Drenthe,VBO,6.871903,52.775816
 Bargerkampenweg,35,,,7812BV,Emmen,Emmen,Drenthe,VBO,6.870975,52.776843
@@ -1792,12 +1797,14 @@ Calthornerbrink,72,,,7812HW,Emmen,Emmen,Drenthe,VBO,6.888202,52.761411
 Brinkenhalte,10,A,,7812HX,Emmen,Emmen,Drenthe,VBO,6.884119,52.755885
 Brinkenhalte,10,,,7812HX,Emmen,Emmen,Drenthe,VBO,6.886134,52.756817
 Brinkenhalte,16,,,7812HX,Emmen,Emmen,Drenthe,VBO,6.883528,52.754701
+Brinkenhalte,18,,,7812HX,Emmen,Emmen,Drenthe,VBO,6.883440,52.754727
 Brinkenhalte,20,,,7812HX,Emmen,Emmen,Drenthe,VBO,6.882973,52.754484
 Brinkenhalte,22,A,,7812HX,Emmen,Emmen,Drenthe,VBO,6.882654,52.754473
 Brinkenhalte,22,,,7812HX,Emmen,Emmen,Drenthe,VBO,6.882476,52.754472
 Brinkenhalte,24,,,7812HX,Emmen,Emmen,Drenthe,VBO,6.882002,52.754244
 Brinkenhalte,30,,,7812HX,Emmen,Emmen,Drenthe,VBO,6.882097,52.753569
 Waanderweg,1,A,,7812HZ,Emmen,Emmen,Drenthe,VBO,6.879003,52.753617
+Waanderweg,1,,TR,7812HZ,Emmen,Emmen,Drenthe,VBO,6.878427,52.753558
 Waanderweg,1,,,7812HZ,Emmen,Emmen,Drenthe,VBO,6.878635,52.753693
 Waanderweg,2,,,7812HZ,Emmen,Emmen,Drenthe,VBO,6.875374,52.752772
 Waanderweg,3,,,7812HZ,Emmen,Emmen,Drenthe,VBO,6.880092,52.753414
@@ -1918,6 +1925,7 @@ Zweelerbrink,71,,GB58,7812JC,Emmen,Emmen,Drenthe,VBO,6.888834,52.760387
 Zweelerbrink,71,,GB59,7812JC,Emmen,Emmen,Drenthe,VBO,6.888864,52.760387
 Zweelerbrink,71,,GB60,7812JC,Emmen,Emmen,Drenthe,VBO,6.888908,52.760386
 Zweelerbrink,71,,GB61,7812JC,Emmen,Emmen,Drenthe,VBO,6.888952,52.760386
+Zweelerbrink,71,,TR,7812JC,Emmen,Emmen,Drenthe,VBO,6.888776,52.760379
 Zweelerbrink,71,,,7812JC,Emmen,Emmen,Drenthe,VBO,6.889083,52.760303
 Zweelerbrink,73,,,7812JC,Emmen,Emmen,Drenthe,VBO,6.889083,52.760303
 Zweelerbrink,75,,,7812JC,Emmen,Emmen,Drenthe,VBO,6.889083,52.760303
@@ -2387,7 +2395,7 @@ Spehornerbrink,167,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892233,52.760551
 Spehornerbrink,169,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892233,52.760551
 Spehornerbrink,171,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892233,52.760551
 Spehornerbrink,173,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892233,52.760551
-Spehornerbrink,175,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892395,52.760549
+Spehornerbrink,175,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892143,52.760559
 Spehornerbrink,177,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892366,52.760549
 Spehornerbrink,179,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892366,52.760558
 Spehornerbrink,181,,,7812KG,Emmen,Emmen,Drenthe,VBO,6.892381,52.760558
@@ -3094,8 +3102,8 @@ Borgerbrink,36,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876171,52.766191
 Borgerbrink,38,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876423,52.766205
 Borgerbrink,40,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876370,52.765936
 Borgerbrink,42,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876087,52.765913
-Borgerbrink,44,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876179,52.765533
-Borgerbrink,46,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876178,52.765534
+Borgerbrink,44,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876006,52.765716
+Borgerbrink,46,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876172,52.765532
 Borgerbrink,48,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876201,52.765345
 Borgerbrink,50,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876239,52.765156
 Borgerbrink,52,,,7812ND,Emmen,Emmen,Drenthe,VBO,6.876466,52.764848
@@ -4496,9 +4504,9 @@ Druwerbrink,31,,,7812TA,Emmen,Emmen,Drenthe,VBO,6.890587,52.769164
 Druwerbrink,33,,,7812TA,Emmen,Emmen,Drenthe,VBO,6.890481,52.769094
 Druwerbrink,35,,,7812TA,Emmen,Emmen,Drenthe,VBO,6.890392,52.769095
 Druwerbrink,37,,,7812TA,Emmen,Emmen,Drenthe,VBO,6.890303,52.769096
-Druwerbrink,39,,GB86,7812TA,Emmen,Emmen,Drenthe,VBO,6.890166,52.768981
+Druwerbrink,39,,GB86,7812TA,Emmen,Emmen,Drenthe,VBO,6.890175,52.768950
 Druwerbrink,39,,GB87,7812TA,Emmen,Emmen,Drenthe,VBO,6.890166,52.768981
-Druwerbrink,39,,GB88,7812TA,Emmen,Emmen,Drenthe,VBO,6.890166,52.768981
+Druwerbrink,39,,GB88,7812TA,Emmen,Emmen,Drenthe,VBO,6.890173,52.769008
 Druwerbrink,39,,,7812TA,Emmen,Emmen,Drenthe,VBO,6.890215,52.769106
 Druwerbrink,41,,,7812TB,Emmen,Emmen,Drenthe,VBO,6.890129,52.768757
 Druwerbrink,43,,,7812TB,Emmen,Emmen,Drenthe,VBO,6.890233,52.768773

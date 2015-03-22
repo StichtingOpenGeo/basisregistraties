@@ -95,7 +95,6 @@ Hogerbeetsstraat,5,,,2334AJ,Leiden,Leiden,Zuid-Holland,VBO,4.474027,52.175484
 Hogerbeetsstraat,7,,,2334AJ,Leiden,Leiden,Zuid-Holland,VBO,4.473929,52.175534
 Hogerbeetsstraat,9,,,2334AJ,Leiden,Leiden,Zuid-Holland,VBO,4.473857,52.175570
 Hogerbeetsstraat,2,,,2334AK,Leiden,Leiden,Zuid-Holland,VBO,4.473998,52.175325
-Hogerbeetsstraat,4,A,,2334AK,Leiden,Leiden,Zuid-Holland,VBO,4.473898,52.175375
 Hogerbeetsstraat,4,,,2334AK,Leiden,Leiden,Zuid-Holland,VBO,4.473940,52.175354
 Hogerbeetsstraat,6,,,2334AK,Leiden,Leiden,Zuid-Holland,VBO,4.473853,52.175398
 Hogerbeetsstraat,8,,,2334AK,Leiden,Leiden,Zuid-Holland,VBO,4.473800,52.175424
@@ -229,6 +228,7 @@ Fagelstraat,44,,,2334AZ,Leiden,Leiden,Zuid-Holland,VBO,4.475615,52.175023
 Fagelstraat,46,,,2334AZ,Leiden,Leiden,Zuid-Holland,VBO,4.475669,52.175064
 Fagelstraat,48,,,2334AZ,Leiden,Leiden,Zuid-Holland,VBO,4.475726,52.175109
 Fagelstraat,50,,,2334AZ,Leiden,Leiden,Zuid-Holland,VBO,4.475784,52.175154
+Rijnsburgerweg,1,A,,2334BA,Leiden,Leiden,Zuid-Holland,VBO,4.482838,52.167784
 Rijnsburgerweg,1,,,2334BA,Leiden,Leiden,Zuid-Holland,VBO,4.482931,52.167720
 Rijnsburgerweg,3,,,2334BA,Leiden,Leiden,Zuid-Holland,VBO,4.482439,52.167929
 Rijnsburgerweg,5,,,2334BA,Leiden,Leiden,Zuid-Holland,VBO,4.482288,52.168049
@@ -405,6 +405,7 @@ Eijmerspoelstraat,88,,,2334BX,Leiden,Leiden,Zuid-Holland,VBO,4.482382,52.171851
 Eijmerspoelstraat,90,,,2334BX,Leiden,Leiden,Zuid-Holland,VBO,4.482313,52.171907
 Oegstgeesterweg,2,A,,2334BZ,Leiden,Leiden,Zuid-Holland,VBO,4.485530,52.174135
 Oegstgeesterweg,2,B,,2334BZ,Leiden,Leiden,Zuid-Holland,VBO,4.484116,52.175297
+Oegstgeesterweg,2,B,,2334BZ,Leiden,Leiden,Zuid-Holland,VBO,4.484158,52.175319
 Oegstgeesterweg,2,,,2334BZ,Leiden,Leiden,Zuid-Holland,VBO,4.484905,52.174605
 Oegstgeesterweg,4,A,,2334BZ,Leiden,Leiden,Zuid-Holland,VBO,4.482174,52.176421
 Oegstgeesterweg,4,B,,2334BZ,Leiden,Leiden,Zuid-Holland,VBO,4.481646,52.176714
@@ -530,6 +531,46 @@ Kagerstraat,3,B,,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.482062,52.171985
 Kagerstraat,3,C,,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.481934,52.171910
 Kagerstraat,3,D,,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.481902,52.171895
 Kagerstraat,3,,,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.482124,52.172013
+Kagerstraat,5,A,1,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483176,52.172482
+Kagerstraat,5,A,2,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483218,52.172505
+Kagerstraat,5,A,3,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483271,52.172535
+Kagerstraat,5,A,4,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483336,52.172565
+Kagerstraat,5,A,5,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483405,52.172599
+Kagerstraat,5,A,6,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483465,52.172627
+Kagerstraat,5,A,7,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483536,52.172662
+Kagerstraat,5,B,1,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483202,52.172459
+Kagerstraat,5,B,2,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483242,52.172484
+Kagerstraat,5,B,3,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483295,52.172513
+Kagerstraat,5,B,4,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483363,52.172545
+Kagerstraat,5,B,5,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483434,52.172578
+Kagerstraat,5,B,6,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483491,52.172605
+Kagerstraat,5,B,7,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483563,52.172640
+Kagerstraat,5,C,1,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483231,52.172438
+Kagerstraat,5,C,2,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483275,52.172463
+Kagerstraat,5,C,3,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483324,52.172494
+Kagerstraat,5,C,4,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483391,52.172526
+Kagerstraat,5,C,5,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483457,52.172557
+Kagerstraat,5,C,6,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483518,52.172588
+Kagerstraat,5,C,7,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483591,52.172619
+Kagerstraat,5,D,1,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483261,52.172412
+Kagerstraat,5,D,2,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483305,52.172442
+Kagerstraat,5,D,3,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483359,52.172470
+Kagerstraat,5,D,4,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483415,52.172503
+Kagerstraat,5,D,5,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483484,52.172537
+Kagerstraat,5,D,6,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483547,52.172567
+Kagerstraat,5,D,7,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483619,52.172599
+Kagerstraat,5,E,1,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483293,52.172389
+Kagerstraat,5,E,2,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483339,52.172420
+Kagerstraat,5,E,3,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483388,52.172448
+Kagerstraat,5,E,4,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483446,52.172482
+Kagerstraat,5,E,5,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483514,52.172513
+Kagerstraat,5,E,6,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483578,52.172545
+Kagerstraat,5,E,7,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483644,52.172579
+Kagerstraat,5,F,1,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483319,52.172367
+Kagerstraat,5,F,2,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483371,52.172396
+Kagerstraat,5,F,3,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483422,52.172424
+Kagerstraat,5,F,4,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483480,52.172456
+Kagerstraat,5,F,5,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.483547,52.172492
 Kagerstraat,7,,,2334CP,Leiden,Leiden,Zuid-Holland,VBO,4.485094,52.173502
 Kagerstraat,2,,,2334CR,Leiden,Leiden,Zuid-Holland,VBO,4.479782,52.171191
 Kagerstraat,4,,,2334CR,Leiden,Leiden,Zuid-Holland,VBO,4.479915,52.171238
@@ -592,11 +633,17 @@ Zweilandlaan,3,,,2334CS,Leiden,Leiden,Zuid-Holland,VBO,4.486291,52.172804
 Zweilandlaan,4,,,2334CS,Leiden,Leiden,Zuid-Holland,VBO,4.486124,52.172925
 Zweilandlaan,6,,,2334CS,Leiden,Leiden,Zuid-Holland,VBO,4.484948,52.173779
 Zweilandlaan,8,,,2334CS,Leiden,Leiden,Zuid-Holland,VBO,4.482728,52.174028
+Zweilandlaan,14,,,2334CS,Leiden,Leiden,Zuid-Holland,VBO,4.483324,52.174615
 Groene Maredijk,1,,,2334CT,Leiden,Leiden,Zuid-Holland,VBO,4.487156,52.172883
 Groene Maredijk,94,,,2334CT,Leiden,Leiden,Zuid-Holland,VBO,4.479808,52.177147
 Groene Maredijk,96,,,2334CT,Leiden,Leiden,Zuid-Holland,VBO,4.479861,52.177080
 Groene Maredijk,98,,,2334CT,Leiden,Leiden,Zuid-Holland,VBO,4.479597,52.176979
 Groene Maredijk,100,,,2334CT,Leiden,Leiden,Zuid-Holland,VBO,4.479800,52.176907
+Eijmerspoelstraat,3,,,2334CV,Leiden,Leiden,Zuid-Holland,VBO,4.483408,52.171539
+Eijmerspoelstraat,5,,,2334CV,Leiden,Leiden,Zuid-Holland,VBO,4.483358,52.171579
+Eijmerspoelstraat,7,,,2334CV,Leiden,Leiden,Zuid-Holland,VBO,4.483310,52.171619
+Eijmerspoelstraat,9,,,2334CV,Leiden,Leiden,Zuid-Holland,VBO,4.483263,52.171658
+Eijmerspoelstraat,11,,,2334CV,Leiden,Leiden,Zuid-Holland,VBO,4.482891,52.171951
 Mariënpoelstraat,1,A,,2334CW,Leiden,Leiden,Zuid-Holland,VBO,4.481305,52.169423
 Mariënpoelstraat,1,,,2334CW,Leiden,Leiden,Zuid-Holland,VBO,4.481653,52.169522
 Mariënpoelstraat,3,,,2334CW,Leiden,Leiden,Zuid-Holland,VBO,4.481723,52.169560
@@ -637,8 +684,8 @@ Mariënpoelstraat,61,,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.484885,52.171663
 Mariënpoelstraat,63,,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485030,52.171733
 Mariënpoelstraat,65,,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485088,52.171765
 Mariënpoelstraat,67,,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485237,52.171848
-Mariënpoelstraat,69,A,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485765,52.171976
 Mariënpoelstraat,69,A,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485748,52.171989
+Mariënpoelstraat,69,A,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485765,52.171976
 Mariënpoelstraat,69,B,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485786,52.171963
 Mariënpoelstraat,69,C,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485806,52.171949
 Mariënpoelstraat,69,,,2334CX,Leiden,Leiden,Zuid-Holland,VBO,4.485308,52.171886
@@ -704,6 +751,44 @@ Swammerdampad,85,,,2334DA,Leiden,Leiden,Zuid-Holland,VBO,4.485487,52.169865
 Swammerdampad,87,,,2334DA,Leiden,Leiden,Zuid-Holland,VBO,4.485397,52.169883
 Swammerdampad,89,,,2334DA,Leiden,Leiden,Zuid-Holland,VBO,4.485433,52.169868
 Swammerdampad,91,,,2334DA,Leiden,Leiden,Zuid-Holland,VBO,4.485591,52.169904
+Hanepoelpad,2,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.483467,52.171493
+Hanepoelpad,4,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.483857,52.171671
+Hanepoelpad,6,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.483924,52.171703
+Hanepoelpad,8,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.483985,52.171731
+Hanepoelpad,10,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484047,52.171759
+Hanepoelpad,12,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484114,52.171792
+Hanepoelpad,14,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484176,52.171821
+Hanepoelpad,16,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484238,52.171850
+Hanepoelpad,18,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484304,52.171879
+Hanepoelpad,20,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484366,52.171907
+Hanepoelpad,22,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484434,52.171939
+Hanepoelpad,24,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484491,52.171968
+Hanepoelpad,26,,,2334DB,Leiden,Leiden,Zuid-Holland,VBO,4.484556,52.171999
+Kleipoelpad,3,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.482961,52.171996
+Kleipoelpad,5,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483024,52.172027
+Kleipoelpad,7,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483091,52.172056
+Kleipoelpad,9,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483155,52.172085
+Kleipoelpad,11,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483218,52.172112
+Kleipoelpad,13,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483283,52.172142
+Kleipoelpad,15,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483351,52.172171
+Kleipoelpad,17,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483414,52.172200
+Kleipoelpad,19,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483473,52.172229
+Kleipoelpad,21,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483537,52.172259
+Kleipoelpad,23,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483601,52.172289
+Kleipoelpad,25,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483662,52.172319
+Kleipoelpad,27,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.483727,52.172347
+Kleipoelpad,29,,,2334DD,Leiden,Leiden,Zuid-Holland,VBO,4.484030,52.172496
+Vennemeerstraat,1,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.485234,52.172357
+Vennemeerstraat,2,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484633,52.172035
+Vennemeerstraat,3,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484743,52.172344
+Vennemeerstraat,4,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484404,52.172225
+Vennemeerstraat,5,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484291,52.172671
+Vennemeerstraat,6,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484347,52.172263
+Vennemeerstraat,8,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484300,52.172302
+Vennemeerstraat,10,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484251,52.172339
+Vennemeerstraat,12,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484195,52.172378
+Vennemeerstraat,14,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484145,52.172416
+Vennemeerstraat,16,,,2334DE,Leiden,Leiden,Zuid-Holland,VBO,4.484099,52.172450
 Van Swietenstraat,1,,,2334EA,Leiden,Leiden,Zuid-Holland,VBO,4.484453,52.170984
 Van Swietenstraat,3,,,2334EA,Leiden,Leiden,Zuid-Holland,VBO,4.484470,52.170994
 Van Swietenstraat,5,,,2334EA,Leiden,Leiden,Zuid-Holland,VBO,4.484490,52.171002
@@ -728,7 +813,12 @@ Van Swietenstraat,41,,,2334EA,Leiden,Leiden,Zuid-Holland,VBO,4.484072,52.171266
 Van Swietenstraat,43,,,2334EA,Leiden,Leiden,Zuid-Holland,VBO,4.484089,52.171275
 Van Swietenstraat,45,,,2334EA,Leiden,Leiden,Zuid-Holland,VBO,4.484109,52.171284
 Van Swietenstraat,47,,,2334EA,Leiden,Leiden,Zuid-Holland,VBO,4.484125,52.171294
-Boerhaavelaan,1,,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.482666,52.168555
+Boerhaavelaan,1,A,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.482624,52.168523
+Boerhaavelaan,1,B,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.482601,52.168508
+Boerhaavelaan,1,C,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.482690,52.168534
+Boerhaavelaan,1,D,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.482671,52.168520
+Boerhaavelaan,1,E,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.482649,52.168507
+Boerhaavelaan,1,,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.482643,52.168535
 Boerhaavelaan,3,,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.483006,52.168746
 Boerhaavelaan,9,,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.483132,52.168847
 Boerhaavelaan,11,,,2334EB,Leiden,Leiden,Zuid-Holland,VBO,4.483168,52.168873
@@ -1052,25 +1142,22 @@ Boerhaavelaan,286,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.485824,52.171899
 Boerhaavelaan,288,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.485924,52.171958
 Boerhaavelaan,290,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486058,52.172018
 Boerhaavelaan,292,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486178,52.172079
-Boerhaavelaan,294,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486305,52.171944
-Boerhaavelaan,296,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486396,52.171876
+Boerhaavelaan,294,A,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486300,52.171966
+Boerhaavelaan,294,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486264,52.171988
+Boerhaavelaan,296,A,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486402,52.171902
+Boerhaavelaan,296,B,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486449,52.171873
+Boerhaavelaan,296,C,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486482,52.171846
+Boerhaavelaan,296,D,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486513,52.171824
+Boerhaavelaan,296,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.486362,52.171933
 Boerhaavelaan,298,,,2334EZ,Leiden,Leiden,Zuid-Holland,VBO,4.487174,52.172127
-Trekvaartplein,1,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.488646,52.176237
-Trekvaartplein,2,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.488705,52.176195
-Trekvaartplein,4,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.488821,52.176112
-Trekvaartplein,5,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.488886,52.176069
-Trekvaartplein,6,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.488945,52.176020
 Trekvaartplein,7,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.488990,52.175969
 Trekvaartplein,8,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489037,52.175923
-Trekvaartplein,9,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489084,52.175876
 Trekvaartplein,10,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489132,52.175829
-Trekvaartplein,11,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489179,52.175783
 Trekvaartplein,12,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489226,52.175736
 Trekvaartplein,13,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489273,52.175690
 Trekvaartplein,14,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489320,52.175643
 Trekvaartplein,15,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489368,52.175597
 Trekvaartplein,16,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489415,52.175550
-Trekvaartplein,17,,TO,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489768,52.175632
 Trekvaartplein,17,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489462,52.175504
 Trekvaartplein,19,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489556,52.175411
 Trekvaartplein,20,,,2334GA,Leiden,Leiden,Zuid-Holland,STA,4.489603,52.175364
@@ -1097,7 +1184,6 @@ Trekvaartplein,35,,,2334GB,Leiden,Leiden,Zuid-Holland,STA,4.490825,52.175077
 Trekvaartplein,36,,TO,2334GB,Leiden,Leiden,Zuid-Holland,STA,4.490612,52.175312
 Trekvaartplein,36,,,2334GB,Leiden,Leiden,Zuid-Holland,STA,4.490894,52.175113
 Trekvaartplein,37,,,2334GB,Leiden,Leiden,Zuid-Holland,STA,4.490961,52.175150
-Trekvaartplein,56,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.489285,52.177050
 Trekvaartplein,58,,TO1,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488870,52.176956
 Trekvaartplein,58,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.489169,52.177133
 Trekvaartplein,59,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.489111,52.177175
@@ -1118,11 +1204,7 @@ Trekvaartplein,70,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488046,52.176775
 Trekvaartplein,71,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488092,52.176740
 Trekvaartplein,73,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488186,52.176671
 Trekvaartplein,74,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488232,52.176636
-Trekvaartplein,75,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488279,52.176602
-Trekvaartplein,76,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488325,52.176567
-Trekvaartplein,77,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488372,52.176533
 Trekvaartplein,78,,,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.488419,52.176498
-Trekvaartplein,79,,TO2,2334GC,Leiden,Leiden,Zuid-Holland,STA,4.489344,52.176057
 Haarlemmerweg,99,,,2334GD,Leiden,Leiden,Zuid-Holland,VBO,4.492064,52.174819
 Haarlemmerweg,101,,,2334GD,Leiden,Leiden,Zuid-Holland,LIG,4.489702,52.174383
 Haarlemmerweg,102,,,2334GD,Leiden,Leiden,Zuid-Holland,LIG,4.489580,52.174531

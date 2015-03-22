@@ -191,7 +191,6 @@ Burgemeester Bosselaarstraat,12,,,4363AW,Aagtekerke,Veere,Zeeland,VBO,3.511809,5
 Burgemeester Bosselaarstraat,14,,,4363AW,Aagtekerke,Veere,Zeeland,VBO,3.511891,51.547582
 Burgemeester Bosselaarstraat,16,,,4363AW,Aagtekerke,Veere,Zeeland,VBO,3.511930,51.547681
 Burgemeester Bosselaarstraat,18,A,,4363AW,Aagtekerke,Veere,Zeeland,VBO,3.512052,51.548077
-Burgemeester Bosselaarstraat,18,B,,4363AW,Aagtekerke,Veere,Zeeland,VBO,3.511774,51.548067
 Burgemeester Bosselaarstraat,18,,,4363AW,Aagtekerke,Veere,Zeeland,VBO,3.511877,51.547905
 Burgemeester Bosselaarstraat,20,,,4363AW,Aagtekerke,Veere,Zeeland,VBO,3.511847,51.548291
 Burgemeester Bosselaarstraat,20,,,4363AW,Aagtekerke,Veere,Zeeland,VBO,3.511946,51.548265
@@ -279,6 +278,7 @@ Agathastraat,20,,,4363BD,Aagtekerke,Veere,Zeeland,VBO,3.507532,51.546622
 Agathastraat,22,,,4363BD,Aagtekerke,Veere,Zeeland,VBO,3.506903,51.547006
 Agathastraat,24,,,4363BD,Aagtekerke,Veere,Zeeland,VBO,3.506826,51.547049
 Agathastraat,26,,,4363BD,Aagtekerke,Veere,Zeeland,VBO,3.506575,51.547293
+Agathastraat,28,,,4363BD,Aagtekerke,Veere,Zeeland,VBO,3.506555,51.547348
 Agathastraat,30,,,4363BD,Aagtekerke,Veere,Zeeland,VBO,3.506958,51.547046
 Agathastraat,32,,,4363BD,Aagtekerke,Veere,Zeeland,VBO,3.506884,51.547086
 Agathastraat,34,,,4363BD,Aagtekerke,Veere,Zeeland,VBO,3.506806,51.547136
@@ -329,7 +329,7 @@ Bouwluststraat,2,,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.509846,51.547504
 Bouwluststraat,4,,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.509917,51.547532
 Bouwluststraat,6,,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.510115,51.547625
 Bouwluststraat,8,,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.510551,51.547902
-Bouwluststraat,10,,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.510303,51.548038
+Bouwluststraat,10,A,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.510303,51.548038
 Bouwluststraat,10,,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.510130,51.547967
 Bouwluststraat,12,,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.510095,51.548128
 Bouwluststraat,14,,,4363BH,Aagtekerke,Veere,Zeeland,VBO,3.510165,51.548166
@@ -463,6 +463,7 @@ Prelaatweg,7,A,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.505519,51.543192
 Prelaatweg,7,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.505577,51.543354
 Prelaatweg,9,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.505195,51.543177
 Prelaatweg,11,A,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.503798,51.542786
+Prelaatweg,11,B,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.504457,51.542730
 Prelaatweg,11,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.504317,51.542794
 Prelaatweg,13,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.503422,51.542824
 Prelaatweg,15,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.503146,51.542856
@@ -472,6 +473,7 @@ Prelaatweg,23,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.501958,51.542657
 Prelaatweg,25,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.501743,51.542635
 Prelaatweg,27,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.501515,51.542560
 Prelaatweg,29,,,4363NB,Aagtekerke,Veere,Zeeland,VBO,3.501400,51.542549
+Prelaatweg,31,A,,4363NC,Aagtekerke,Veere,Zeeland,VBO,3.501133,51.542315
 Prelaatweg,31,,,4363NC,Aagtekerke,Veere,Zeeland,VBO,3.501057,51.542472
 Prelaatweg,33,,,4363NC,Aagtekerke,Veere,Zeeland,VBO,3.500870,51.542460
 Prelaatweg,35,,,4363NC,Aagtekerke,Veere,Zeeland,VBO,3.500727,51.542430
@@ -520,10 +522,7 @@ Prelaatweg,36,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.501599,51.542957
 Prelaatweg,38,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.501257,51.542861
 Prelaatweg,40,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.501014,51.542830
 Prelaatweg,42,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.500609,51.542842
-Prelaatweg,44,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.497514,51.545156
-Prelaatweg,46,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.497742,51.545232
 Prelaatweg,50,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.497749,51.542292
-Prelaatweg,52,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.497049,51.541786
 Prelaatweg,54,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.496327,51.541460
 Prelaatweg,56,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.496271,51.541414
 Prelaatweg,58,,,4363NH,Aagtekerke,Veere,Zeeland,VBO,3.495888,51.541255
@@ -543,14 +542,15 @@ Prelaatweg,82,,,4363NJ,Aagtekerke,Veere,Zeeland,VBO,3.485372,51.538630
 Prelaatweg,84,A,,4363NJ,Aagtekerke,Veere,Zeeland,VBO,3.485109,51.538783
 Prelaatweg,86,,,4363NJ,Aagtekerke,Veere,Zeeland,VBO,3.482886,51.537753
 Prelaatweg,88,,,4363NJ,Aagtekerke,Veere,Zeeland,VBO,3.482089,51.537516
-Prelaatweg,90,,,4363NJ,Aagtekerke,Veere,Zeeland,VBO,3.481848,51.537625
+Prelaatweg,90,,,4363NJ,Aagtekerke,Veere,Zeeland,VBO,3.478551,51.535976
 Brouwerijweg,1,A,,4363NK,Aagtekerke,Veere,Zeeland,VBO,3.504148,51.543349
 Brouwerijweg,1,,,4363NK,Aagtekerke,Veere,Zeeland,VBO,3.504382,51.543316
 Brouwerijweg,3,A,,4363NK,Aagtekerke,Veere,Zeeland,VBO,3.503554,51.543807
 Brouwerijweg,3,,,4363NK,Aagtekerke,Veere,Zeeland,VBO,3.503934,51.543687
 Brouwerijweg,9,A,,4363NK,Aagtekerke,Veere,Zeeland,VBO,3.501183,51.549857
 Brouwerijweg,9,,,4363NK,Aagtekerke,Veere,Zeeland,VBO,3.500552,51.549431
-Brouwerijweg,5,,,4363NL,Aagtekerke,Veere,Zeeland,VBO,3.500148,51.546323
+Brouwerijweg,5,A,,4363NL,Aagtekerke,Veere,Zeeland,VBO,3.500173,51.546363
+Brouwerijweg,5,,,4363NL,Aagtekerke,Veere,Zeeland,VBO,3.499900,51.546149
 Sint Jan Ten Heereweg,1,A,,4363NM,Aagtekerke,Veere,Zeeland,VBO,3.481067,51.537525
 Sint Jan Ten Heereweg,1,,,4363NM,Aagtekerke,Veere,Zeeland,VBO,3.480819,51.537531
 Sint Jan Ten Heereweg,2,A,,4363NM,Aagtekerke,Veere,Zeeland,VBO,3.482342,51.537984
@@ -585,7 +585,7 @@ Aagtekerkseweg,2,,,4363RA,Aagtekerke,Veere,Zeeland,VBO,3.523148,51.550154
 Aagtekerkseweg,3,,,4363RA,Aagtekerke,Veere,Zeeland,VBO,3.524741,51.553514
 Aagtekerkseweg,4,,,4363RA,Aagtekerke,Veere,Zeeland,VBO,3.523949,51.553008
 Aagtekerkseweg,5,,,4363RA,Aagtekerke,Veere,Zeeland,VBO,3.525713,51.553377
-Aagtekerkseweg,6,,,4363RA,Aagtekerke,Veere,Zeeland,VBO,3.524260,51.552931
+Aagtekerkseweg,6,,,4363RA,Aagtekerke,Veere,Zeeland,VBO,3.524745,51.552981
 Aagtekerkseweg,7,,,4363RA,Aagtekerke,Veere,Zeeland,VBO,3.526105,51.553320
 Aagtekerkseweg,8,,,4363RA,Aagtekerke,Veere,Zeeland,VBO,3.526134,51.552952
 Pekelingseweg,2,,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.513268,51.544970
@@ -596,13 +596,14 @@ Pekelingseweg,6,,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.514522,51.545313
 Pekelingseweg,7,A,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.515651,51.546889
 Pekelingseweg,7,,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.515848,51.546746
 Pekelingseweg,8,A,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.515286,51.544456
-Pekelingseweg,8,,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.515250,51.544536
-Pekelingseweg,10,A,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.534250,51.538223
+Pekelingseweg,8,,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.514956,51.545319
 Pekelingseweg,10,,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.522734,51.546677
 Pekelingseweg,15,,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.533111,51.540305
 Pekelingseweg,17,,,4363RB,Aagtekerke,Veere,Zeeland,VBO,3.534642,51.538819
 Kloosterweg,2,,,4363RC,Aagtekerke,Veere,Zeeland,VBO,3.517798,51.545959
 Oude Grintweg,2,,,4363RD,Aagtekerke,Veere,Zeeland,VBO,3.517708,51.547432
+Oude Grintweg,3,A,,4363RD,Aagtekerke,Veere,Zeeland,VBO,3.516904,51.547559
+Oude Grintweg,3,B,,4363RD,Aagtekerke,Veere,Zeeland,VBO,3.516939,51.547500
 Oude Grintweg,3,,,4363RD,Aagtekerke,Veere,Zeeland,VBO,3.517163,51.547379
 Oude Grintweg,4,,,4363RD,Aagtekerke,Veere,Zeeland,VBO,3.516249,51.549594
 Roosjesweg,1,,,4363RE,Aagtekerke,Veere,Zeeland,VBO,3.511117,51.548873
@@ -621,16 +622,15 @@ Kalfhoeksepad,1,,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.511735,51.550313
 Kalfhoeksepad,2,,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.511976,51.550065
 Kalfhoeksepad,3,A,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.512212,51.550569
 Kalfhoeksepad,3,,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.512496,51.550678
-Kalfhoeksepad,4,,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.520454,51.551153
+Kalfhoeksepad,4,,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.519945,51.551162
 Kalfhoeksepad,6,A,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.520592,51.551117
 Kalfhoeksepad,6,,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.520730,51.551086
 Kalfhoeksepad,8,,,4363RH,Aagtekerke,Veere,Zeeland,VBO,3.521789,51.551292
 Zuiverseweg,1,,,4363RJ,Aagtekerke,Veere,Zeeland,VBO,3.519461,51.553196
 Zuiverseweg,2,A,,4363RJ,Aagtekerke,Veere,Zeeland,VBO,3.515053,51.555214
 Zuiverseweg,2,B,,4363RJ,Aagtekerke,Veere,Zeeland,VBO,3.515245,51.555231
-Zuiverseweg,2,,,4363RJ,Aagtekerke,Veere,Zeeland,VBO,3.514749,51.555899
+Zuiverseweg,2,,,4363RJ,Aagtekerke,Veere,Zeeland,VBO,3.514821,51.555913
 Zuiverseweg,3,,,4363RJ,Aagtekerke,Veere,Zeeland,VBO,3.519097,51.553640
-Westhovenseweg,1,A,,4363RK,Aagtekerke,Veere,Zeeland,VBO,3.518690,51.554935
 Westhovenseweg,1,,,4363RK,Aagtekerke,Veere,Zeeland,VBO,3.519374,51.555667
 Westhovenseweg,3,,,4363RK,Aagtekerke,Veere,Zeeland,VBO,3.519659,51.555744
 Westhovenseweg,5,,,4363RK,Aagtekerke,Veere,Zeeland,VBO,3.519831,51.555951
@@ -641,10 +641,10 @@ Westhovenseweg,11,,,4363RK,Aagtekerke,Veere,Zeeland,VBO,3.522294,51.556305
 Krommeweg,1,,,4363RL,Aagtekerke,Veere,Zeeland,VBO,3.491675,51.544783
 Krommeweg,3,A,,4363RL,Aagtekerke,Veere,Zeeland,VBO,3.490992,51.544832
 Krommeweg,3,,,4363RL,Aagtekerke,Veere,Zeeland,VBO,3.490894,51.544834
-Kelderweg,2,A,,4363SB,Aagtekerke,Veere,Zeeland,VBO,3.535010,51.535442
+Kelderweg,2,A,,4363SB,Aagtekerke,Veere,Zeeland,VBO,3.534253,51.536412
 Kelderweg,2,,,4363SB,Aagtekerke,Veere,Zeeland,VBO,3.535054,51.535579
-Kloosterweg,1,,,4363SC,Aagtekerke,Veere,Zeeland,VBO,3.525281,51.538931
-Kloosterweg,3,A,,4363SC,Aagtekerke,Veere,Zeeland,VBO,3.525333,51.539101
+Kloosterweg,1,,,4363SC,Aagtekerke,Veere,Zeeland,VBO,3.524854,51.539299
+Kloosterweg,3,A,,4363SC,Aagtekerke,Veere,Zeeland,VBO,3.525217,51.539240
 Kloosterweg,3,,,4363SC,Aagtekerke,Veere,Zeeland,VBO,3.525288,51.538986
 Kloosterweg,4,,,4363SC,Aagtekerke,Veere,Zeeland,VBO,3.518097,51.545335
 Kloosterweg,5,,,4363SC,Aagtekerke,Veere,Zeeland,VBO,3.525202,51.535244
@@ -657,7 +657,7 @@ Zuidweg,1,A,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.505467,51.542948
 Zuidweg,1,,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.505652,51.542832
 Zuidweg,2,,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.504735,51.542792
 Zuidweg,3,,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.506573,51.542498
-Zuidweg,4,,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.506642,51.540611
+Zuidweg,4,,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.506522,51.540945
 Zuidweg,5,,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.506594,51.542129
 Zuidweg,6,,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.506612,51.540637
 Zuidweg,7,,,4363SG,Aagtekerke,Veere,Zeeland,VBO,3.507130,51.541715

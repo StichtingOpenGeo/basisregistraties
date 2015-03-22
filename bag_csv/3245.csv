@@ -187,7 +187,6 @@ Jacob Banestraat,18,A,,3245AJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.
 Jacob Banestraat,18,B,,3245AJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154614,51.758481
 Jacob Banestraat,18,C,,3245AJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154613,51.758455
 Jacob Banestraat,18,D,,3245AJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154610,51.758430
-Jacob Banestraat,18,E,,3245AJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154611,51.758404
 Kerkstraat,2,,,3245AK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151742,51.759224
 Kerkstraat,3,,,3245AK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151781,51.759359
 Kerkstraat,4,,,3245AK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151742,51.759224
@@ -222,7 +221,6 @@ Kreekstraat,23,,,3245AL,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.148378
 Kreekstraat,25,,,3245AL,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.148480,51.760888
 Kreekstraat,27,,,3245AL,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.148553,51.760880
 Kreekstraat,29,,,3245AL,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.148654,51.760872
-Stoofhoekdreef,1,B,,3245AL,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153759,51.757879
 Marktveld,1,,,3245AM,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151327,51.759561
 Marktveld,2,,,3245AM,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151600,51.759538
 Marktveld,3,,,3245AM,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151280,51.759456
@@ -306,7 +304,9 @@ Oostdijk,39,,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153125,51
 Oostdijk,41,,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153241,51.761064
 Oostdijk,45,,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153414,51.761093
 Oostdijk,47,,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153496,51.761090
+Oostdijk,49,a,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153665,51.761115
 Oostdijk,49,,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153675,51.761078
+Oostdijk,53,,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153899,51.761079
 Oostdijk,61,a,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154427,51.761157
 Oostdijk,61,,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154244,51.761135
 Oostdijk,63,,,3245AS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154589,51.761112
@@ -483,8 +483,8 @@ Voorstraat,38,,,3245BH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151782,
 Voorstraat,40,,,3245BH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151595,51.759824
 Voorstraat,42,,,3245BH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151684,51.759753
 Voorstraat,44,,,3245BH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151614,51.759663
-Westelijke Achterweg,2,T,,3245BJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149907,51.761124
 Westelijke Achterweg,2,a,,3245BJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149960,51.761030
+Westelijke Achterweg,2,T,,3245BJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149907,51.761124
 Westelijke Achterweg,2,,,3245BJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149955,51.761077
 Westelijke Achterweg,4,,,3245BJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149966,51.760982
 Westelijke Achterweg,6,a,,3245BJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149949,51.760792
@@ -758,37 +758,7 @@ Goudsbloemstraat,24,,,3245CG,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.1
 Goudsbloemstraat,26,,,3245CG,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149673,51.755426
 Goudsbloemstraat,28,,,3245CG,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149688,51.755382
 Goudsbloemstraat,30,,,3245CG,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149690,51.755337
-Groene Zoom,1,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146408,51.754895
-Groene Zoom,3,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146416,51.754835
-Groene Zoom,5,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146428,51.754774
-Groene Zoom,7,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146430,51.754713
-Groene Zoom,9,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146370,51.754891
-Groene Zoom,11,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146379,51.754832
-Groene Zoom,13,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146391,51.754771
-Groene Zoom,15,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146393,51.754709
-Groene Zoom,17,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146327,51.754888
-Groene Zoom,19,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146337,51.754829
-Groene Zoom,21,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146342,51.754769
 Groene Zoom,23,T,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146546,51.754517
-Groene Zoom,23,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146348,51.754706
-Groene Zoom,25,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146453,51.754992
-Groene Zoom,27,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146449,51.755053
-Groene Zoom,29,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146439,51.755114
-Groene Zoom,31,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146437,51.755173
-Groene Zoom,33,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146430,51.755235
-Groene Zoom,35,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146426,51.755289
-Groene Zoom,37,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146416,51.754991
-Groene Zoom,39,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146408,51.755047
-Groene Zoom,41,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146406,51.755110
-Groene Zoom,43,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146401,51.755167
-Groene Zoom,45,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146395,51.755229
-Groene Zoom,47,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146391,51.755287
-Groene Zoom,49,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146375,51.754986
-Groene Zoom,51,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146369,51.755045
-Groene Zoom,53,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146362,51.755107
-Groene Zoom,55,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146360,51.755163
-Groene Zoom,57,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146352,51.755225
-Groene Zoom,59,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146349,51.755284
 Groene Zoom,67,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145663,51.755486
 Groene Zoom,69,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145366,51.755369
 Groene Zoom,71,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145018,51.755254
@@ -801,6 +771,7 @@ Groene Zoom,83,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145396
 Groene Zoom,85,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145506,51.755856
 Groene Zoom,87,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145730,51.755956
 Groene Zoom,89,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145823,51.755947
+Groene Zoom,91,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146076,51.755964
 Groene Zoom,111,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146067,51.757260
 Groene Zoom,113,,,3245CH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145632,51.757498
 Groene Zoom,2,,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147202,51.755220
@@ -854,17 +825,6 @@ Groene Zoom,62,W,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.14749
 Groene Zoom,62,Y,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147494,51.757691
 Groene Zoom,62,Z,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147500,51.757716
 Groene Zoom,62,,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146938,51.757429
-Groene Zoom,64,A,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147510,51.757742
-Groene Zoom,64,B,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147516,51.757762
-Groene Zoom,64,C,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147371,51.757771
-Groene Zoom,64,D,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147366,51.757750
-Groene Zoom,64,E,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147363,51.757725
-Groene Zoom,64,F,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147361,51.757701
-Groene Zoom,64,G,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147359,51.757678
-Groene Zoom,64,H,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147353,51.757654
-Groene Zoom,64,K,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147348,51.757628
-Groene Zoom,64,M,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147345,51.757604
-Groene Zoom,64,N,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147341,51.757580
 Groene Zoom,64,,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146978,51.757564
 Groene Zoom,66,,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146991,51.757618
 Groene Zoom,68,,,3245CJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147004,51.757663
@@ -990,8 +950,6 @@ Polderstraat,12,,,3245CR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.14948
 Polderstraat,13,,,3245CR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149154,51.757983
 Polderstraat,15,,,3245CR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149198,51.757956
 Polderstraat,17,,,3245CR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.149214,51.757903
-Groene Zoom,64,P,,3245CS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147335,51.757557
-Groene Zoom,64,R,,3245CS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147333,51.757532
 Ringstraat,15,,,3245CS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147849,51.758032
 Ringstraat,17,,,3245CS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147738,51.757824
 Ringstraat,19,,,3245CS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147756,51.757698
@@ -1234,6 +1192,7 @@ Teenhoek,10,,,3245DJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154478,51
 Teenhoek,12,,,3245DJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154369,51.751062
 Teenhoek,14,,,3245DJ,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154297,51.751061
 Sperwer,2,a,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151091,51.751765
+Sperwer,4,a,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151701,51.751744
 Sperwer,4,B,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151613,51.751560
 Sperwer,4,C,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151657,51.751562
 Sperwer,4,D,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151705,51.751564
@@ -1243,7 +1202,6 @@ Sperwer,4,G,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151835,51.
 Sperwer,4,H,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151881,51.751579
 Sperwer,4,K,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151923,51.751587
 Sperwer,4,M,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151969,51.751590
-Sperwer,4,a,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151701,51.751744
 Sperwer,4,,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151692,51.751794
 Sperwer,6,a,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151843,51.751755
 Sperwer,6,,,3245DK,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151838,51.751793
@@ -1399,15 +1357,21 @@ Dijkershof,10,,,3245KH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154169,
 Dijkershof,11,,,3245KH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154212,51.759987
 Dijkershof,12,,,3245KH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154343,51.759988
 Dijkershof,13,,,3245KH,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154415,51.759989
-Kokseweg,2,,,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128542,51.765755
-Kokseweg,4,,,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.127904,51.765227
-Kokseweg,6,A,1,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.130391,51.764899
-Kokseweg,6,A,4,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.130077,51.764295
-Kokseweg,6,B,1,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.130052,51.764834
-Kokseweg,6,B,2,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.129955,51.764661
-Kokseweg,6,B,3,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.129818,51.764449
-Kokseweg,6,B,5,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128893,51.762908
-Kokseweg,6,B,6,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128897,51.762740
+Kokseweg,2,,,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128450,51.765755
+Kokseweg,4,a,,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.127892,51.765219
+Kokseweg,4,,,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.127491,51.764734
+Kokseweg,6,,1,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.130391,51.764899
+Kokseweg,6,,10,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.129546,51.764026
+Kokseweg,6,,14,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.129106,51.763040
+Kokseweg,6,,15,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128897,51.762740
+Kokseweg,6,,16,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128545,51.762351
+Kokseweg,6,,18,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128475,51.762012
+Kokseweg,6,,19,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128322,51.761895
+Kokseweg,6,,2,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.130052,51.764834
+Kokseweg,6,,20,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.128320,51.761713
+Kokseweg,6,,4,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.129955,51.764661
+Kokseweg,6,,6,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.129818,51.764449
+Kokseweg,6,,7,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.130077,51.764295
 Kokseweg,6,,,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.127368,51.764196
 Kokseweg,20,,,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.124308,51.762796
 Kokseweg,26,,,3245LA,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.122779,51.762158
@@ -1511,12 +1475,12 @@ Molenweg,34,,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.144508,51
 Molenweg,36,,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.144530,51.758626
 Molenweg,42,,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.145155,51.757085
 Molenweg,44,,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.144949,51.757235
-Molenweg,46,T,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.143788,51.756192
 Molenweg,46,a,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.144367,51.757287
 Molenweg,46,b,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.143999,51.756297
 Molenweg,46,d,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.144210,51.755988
 Molenweg,46,e,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.144051,51.755070
 Molenweg,46,f,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.143580,51.755195
+Molenweg,46,T,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.143788,51.756192
 Molenweg,46,,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.144727,51.757248
 Molenweg,48,,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.143312,51.754981
 Molenweg,56,,,3245LS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.142870,51.753664
@@ -1753,7 +1717,6 @@ Rijzenburgseweg,1,,,3245ND,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.150
 Rijzenburgseweg,2,,,3245ND,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151949,51.746353
 Rijzenburgseweg,3,,,3245ND,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.150326,51.747925
 Rijzenburgseweg,4,,,3245ND,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.152699,51.745912
-Rijzenburgseweg,5,T,,3245ND,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.150778,51.747343
 Rijzenburgseweg,5,a,,3245ND,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.150307,51.747082
 Rijzenburgseweg,5,,,3245ND,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.150265,51.747549
 Rijzenburgseweg,7,,,3245ND,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.150865,51.746782
@@ -2057,11 +2020,11 @@ Isaäc da Costastraat,6,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO
 Isaäc da Costastraat,7,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146838,51.762131
 Isaäc da Costastraat,8,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146385,51.762128
 Isaäc da Costastraat,9,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146909,51.762127
-Isaäc da Costastraat,10,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146343,51.762134
+Isaäc da Costastraat,10,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146355,51.762365
 Isaäc da Costastraat,11,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146981,51.762121
-Isaäc da Costastraat,12,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146343,51.762134
+Isaäc da Costastraat,12,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146333,51.762297
 Isaäc da Costastraat,13,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147060,51.762117
-Isaäc da Costastraat,14,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146343,51.762134
+Isaäc da Costastraat,14,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146323,51.762242
 Isaäc da Costastraat,15,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147148,51.762114
 Isaäc da Costastraat,16,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146440,51.762123
 Isaäc da Costastraat,17,,,3245RN,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147266,51.762106
@@ -2688,7 +2651,7 @@ Pimpelmees,48,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146472,
 Pimpelmees,49,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147570,51.749723
 Pimpelmees,50,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146471,51.750170
 Pimpelmees,51,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147410,51.749730
-Pimpelmees,52,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146455,51.750241
+Pimpelmees,52,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146461,51.750217
 Pimpelmees,53,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.147251,51.749728
 Pimpelmees,54,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146454,51.750286
 Pimpelmees,55,,,3245TW,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.146860,51.749724
@@ -2817,7 +2780,6 @@ Dorpsweg,100,T,,3245VC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.152692,
 Dorpsweg,100,U,,3245VC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.152804,51.751543
 Dorpsweg,100,V,,3245VC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.152899,51.751545
 Dorpsweg,100,W,,3245VC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153048,51.751562
-Dorpsweg,102,A,,3245VC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151032,51.751280
 Dorpsweg,102,B,,3245VC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151185,51.751303
 Dorpsweg,102,C,,3245VC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151316,51.751301
 Dorpsweg,102,D,,3245VC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.151430,51.751336
@@ -3306,14 +3268,6 @@ A.J. de Graaffstraat,26,,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO
 A.J. de Graaffstraat,28,,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154721,51.756032
 A.J. de Graaffstraat,30,,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154731,51.755982
 A.J. de Graaffstraat,32,,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154744,51.755933
-A.J. de Graaffstraat,33,A,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154082,51.755836
-A.J. de Graaffstraat,33,B,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154080,51.755811
-A.J. de Graaffstraat,33,C,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154084,51.755788
-A.J. de Graaffstraat,33,D,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154089,51.755762
-A.J. de Graaffstraat,33,E,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154092,51.755739
-A.J. de Graaffstraat,33,F,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154096,51.755715
-A.J. de Graaffstraat,33,G,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154097,51.755694
-A.J. de Graaffstraat,33,H,,3245XB,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154232,51.755724
 Ds. Montijnstraat,1,,,3245XC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.152215,51.756746
 Ds. Montijnstraat,3,,,3245XC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.152220,51.756693
 Ds. Montijnstraat,5,,,3245XC,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.152228,51.756638
@@ -3536,6 +3490,35 @@ Sint Nicolaasdreef,12,,,3245XP,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4
 Stoofhoek,1,A,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154914,51.756902
 Stoofhoek,1,B,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154916,51.756874
 Stoofhoek,1,C,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.154919,51.756845
+Stoofhoek,2,,1,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155343,51.757242
+Stoofhoek,2,,10,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155427,51.757024
+Stoofhoek,2,,11,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155371,51.757223
+Stoofhoek,2,,12,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155344,51.757295
+Stoofhoek,2,,13,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155308,51.757356
+Stoofhoek,2,,14,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155421,51.757245
+Stoofhoek,2,,15,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155554,51.757228
+Stoofhoek,2,,16,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155646,51.757241
+Stoofhoek,2,,17,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155743,51.757262
+Stoofhoek,2,,18,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155771,51.757214
+Stoofhoek,2,,19,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155674,51.757196
+Stoofhoek,2,,2,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155319,51.757290
+Stoofhoek,2,,20,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155578,51.757175
+Stoofhoek,2,,21,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155467,51.757113
+Stoofhoek,2,,22,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155453,51.756982
+Stoofhoek,2,,23,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155458,51.757029
+Stoofhoek,2,,24,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155421,51.757094
+Stoofhoek,2,,3,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155271,51.757348
+Stoofhoek,2,,30,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155343,51.757363
+Stoofhoek,2,,31,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155378,51.757271
+Stoofhoek,2,,32,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155421,51.757173
+Stoofhoek,2,,33,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155467,51.757067
+Stoofhoek,2,,34,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155488,51.756982
+Stoofhoek,2,,4,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155452,51.757250
+Stoofhoek,2,,5,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155543,51.757261
+Stoofhoek,2,,6,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155637,51.757276
+Stoofhoek,2,,7,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155731,51.757295
+Stoofhoek,2,,8,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155505,51.757119
+Stoofhoek,2,,9,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155414,51.756972
 Stoofhoek,2,,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155375,51.757176
 Stoofhoek,3,,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155067,51.756814
 Stoofhoek,5,,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155082,51.756769
@@ -3573,8 +3556,6 @@ Stoofhoek,38,,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155532,5
 Stoofhoek,40,,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155565,51.756491
 Stoofhoek,42,,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155545,51.756440
 Stoofhoek,44,,,3245XR,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155576,51.756444
-Stoofhoekdreef,1,A,,3245XS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153754,51.757914
-Stoofhoekdreef,1,C,,3245XS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153766,51.757853
 Stoofhoekdreef,3,,,3245XS,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.153883,51.757727
 de Klaver,2,,,3245XT,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155706,51.754251
 de Klaver,4,,,3245XT,Sommelsdijk,Goeree-Overflakkee,Zuid-Holland,VBO,4.155705,51.754192

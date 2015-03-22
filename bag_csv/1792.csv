@@ -95,7 +95,7 @@ Haven,9,,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.850062,53.040478
 Haven,10,A,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.850842,53.040105
 Haven,10,,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.850837,53.040131
 Haven,12,,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.851068,53.040132
-Haven,15,A,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.852552,53.042006
+Haven,15,B,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.852552,53.042006
 Haven,15,,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.851522,53.040971
 Haven,20,B,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.856398,53.043737
 Haven,20,C,,1792AE,Oudeschild,Texel,Noord-Holland,VBO,4.855814,53.044141
@@ -395,7 +395,6 @@ Het Buurtje,15,,,1792BE,Oudeschild,Texel,Noord-Holland,VBO,4.840929,53.034053
 Het Buurtje,17,,,1792BE,Oudeschild,Texel,Noord-Holland,VBO,4.840848,53.034092
 Het Buurtje,19,,,1792BE,Oudeschild,Texel,Noord-Holland,VBO,4.840746,53.034102
 Het Buurtje,21,,,1792BE,Oudeschild,Texel,Noord-Holland,VBO,4.840544,53.034040
-Het Buurtje,25,,,1792BE,Oudeschild,Texel,Noord-Holland,VBO,4.838903,53.034173
 Loodssingel,1,A,,1792BG,Oudeschild,Texel,Noord-Holland,VBO,4.847461,53.039069
 Loodssingel,1,,,1792BG,Oudeschild,Texel,Noord-Holland,VBO,4.847462,53.039019
 Loodssingel,3,,,1792BG,Oudeschild,Texel,Noord-Holland,VBO,4.847456,53.038976
@@ -670,8 +669,8 @@ Schilderweg,200,,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.826230,53.044974
 Schilderweg,202,,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.826346,53.044953
 Schilderweg,204,,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.826596,53.044935
 Schilderweg,206,,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.826685,53.044925
-Schilderweg,208,A,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.827300,53.044504
-Schilderweg,208,B,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.827235,53.044346
+Schilderweg,208,C,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.827237,53.044389
+Schilderweg,208,D,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.827312,53.044413
 Schilderweg,208,,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.827090,53.044855
 Schilderweg,210,,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.827484,53.044857
 Schilderweg,212,,,1792CK,Oudeschild,Texel,Noord-Holland,VBO,4.827749,53.044723
@@ -707,6 +706,7 @@ Doolhof,4,B,,1792CM,Oudeschild,Texel,Noord-Holland,VBO,4.829024,53.042301
 Doolhof,4,C,,1792CM,Oudeschild,Texel,Noord-Holland,VBO,4.829065,53.042251
 Doolhof,4,,,1792CM,Oudeschild,Texel,Noord-Holland,VBO,4.828847,53.042205
 Doolhof,7,,,1792CM,Oudeschild,Texel,Noord-Holland,VBO,4.825333,53.039879
+Doolhof,9,,,1792CM,Oudeschild,Texel,Noord-Holland,VBO,4.824705,53.039770
 Doolhof,11,,,1792CM,Oudeschild,Texel,Noord-Holland,VBO,4.823755,53.039675
 Doolhof,13,,,1792CM,Oudeschild,Texel,Noord-Holland,VBO,4.822982,53.039333
 Skillepaadje,18,A,,1792CN,Oudeschild,Texel,Noord-Holland,VBO,4.830359,53.039772
@@ -743,9 +743,9 @@ Vlamkast,41,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.848766,53.040504
 Vlamkast,43,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.848739,53.040297
 Vlamkast,45,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.848645,53.040305
 Vlamkast,47,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.848335,53.040202
-Vlamkast,53,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.847789,53.039825
-Vlamkast,55,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.848098,53.039886
-Vlamkast,57,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.847917,53.039849
+Vlamkast,53,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.847827,53.039897
+Vlamkast,55,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.848114,53.039864
+Vlamkast,57,,,1792CR,Oudeschild,Texel,Noord-Holland,VBO,4.848087,53.039976
 Vliegwiel,2,A,,1792CS,Oudeschild,Texel,Noord-Holland,VBO,4.849653,53.044159
 Vliegwiel,2,B,,1792CS,Oudeschild,Texel,Noord-Holland,VBO,4.850200,53.044316
 Vliegwiel,2,,,1792CS,Oudeschild,Texel,Noord-Holland,VBO,4.850186,53.044012
@@ -859,17 +859,17 @@ De Vang,35,E,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.853619,53.046176
 De Vang,35,F,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.853840,53.046209
 De Vang,35,G,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.854049,53.046250
 De Vang,35,H,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.854239,53.046282
-De Vang,35,J,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.854563,53.046182
-De Vang,35,K,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.854682,53.046328
+De Vang,35,J,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.854557,53.046190
+De Vang,35,K,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.854709,53.046320
 De Vang,35,,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.853750,53.045909
 De Vang,37,A,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.853515,53.046493
 De Vang,37,B,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.853651,53.046521
 De Vang,37,C,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.853790,53.046549
 De Vang,37,D,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.853967,53.046584
 De Vang,37,,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.853248,53.046353
-De Vang,39,A,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.854950,53.046021
-De Vang,39,B,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.855238,53.046052
-De Vang,39,,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.855197,53.045794
+De Vang,39,A,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.855129,53.045769
+De Vang,39,B,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.855307,53.045896
+De Vang,39,,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.855017,53.045677
 De Vang,41,,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.855469,53.046094
 De Vang,43,,,1792CV,Oudeschild,Texel,Noord-Holland,VBO,4.855649,53.046177
 Krukas,1,,,1792CW,Oudeschild,Texel,Noord-Holland,VBO,4.845744,53.042112

@@ -298,6 +298,7 @@ Muntkade,3,,,3531AK,Utrecht,Utrecht,Utrecht,VBO,5.097270,52.086535
 Muntkade,4,,,3531AK,Utrecht,Utrecht,Utrecht,VBO,5.097326,52.086503
 Muntkade,5,,,3531AK,Utrecht,Utrecht,Utrecht,VBO,5.097388,52.086474
 Muntkade,6,,,3531AK,Utrecht,Utrecht,Utrecht,VBO,5.097448,52.086443
+Muntkade,7,,,3531AK,Utrecht,Utrecht,Utrecht,LIG,5.097262,52.086034
 Muntkade,8,A,1,3531AK,Utrecht,Utrecht,Utrecht,VBO,5.097768,52.086281
 Muntkade,8,A,2,3531AK,Utrecht,Utrecht,Utrecht,VBO,5.097742,52.086295
 Muntkade,8,A,3,3531AK,Utrecht,Utrecht,Utrecht,VBO,5.097720,52.086306
@@ -805,7 +806,6 @@ Damstraat,29,,,3531BR,Utrecht,Utrecht,Utrecht,VBO,5.103940,52.091444
 Damstraat,33,,BS,3531BR,Utrecht,Utrecht,Utrecht,VBO,5.103919,52.091481
 Damstraat,33,,,3531BR,Utrecht,Utrecht,Utrecht,VBO,5.103911,52.091493
 Damstraat,37,,,3531BS,Utrecht,Utrecht,Utrecht,VBO,5.103628,52.092527
-Damstraat,41,,,3531BS,Utrecht,Utrecht,Utrecht,VBO,5.103552,52.092271
 Damstraat,43,,,3531BS,Utrecht,Utrecht,Utrecht,VBO,5.103496,52.092443
 Damstraat,45,,,3531BS,Utrecht,Utrecht,Utrecht,VBO,5.103471,52.092505
 Damstraat,2,,BS,3531BV,Utrecht,Utrecht,Utrecht,VBO,5.104055,52.090660
@@ -908,6 +908,7 @@ Moskeeplein,37,,,3531BX,Utrecht,Utrecht,Utrecht,VBO,5.104180,52.092220
 Moskeeplein,38,,,3531BX,Utrecht,Utrecht,Utrecht,VBO,5.104180,52.092220
 Moskeeplein,39,,,3531BX,Utrecht,Utrecht,Utrecht,VBO,5.104180,52.092220
 Moskeeplein,40,,,3531BX,Utrecht,Utrecht,Utrecht,VBO,5.104180,52.092220
+Moskeeplein,41,,,3531BX,Utrecht,Utrecht,Utrecht,VBO,5.103968,52.092195
 Moskeeplein,42,,,3531BX,Utrecht,Utrecht,Utrecht,VBO,5.104180,52.092220
 Moskeeplein,43,,,3531BX,Utrecht,Utrecht,Utrecht,VBO,5.104180,52.092220
 Moskeeplein,44,,,3531BX,Utrecht,Utrecht,Utrecht,VBO,5.103963,52.092167
@@ -1139,6 +1140,7 @@ Kanaalstraat,62,,BS,3531CL,Utrecht,Utrecht,Utrecht,VBO,5.102827,52.091431
 Kanaalstraat,62,,,3531CL,Utrecht,Utrecht,Utrecht,VBO,5.102847,52.091433
 Kanaalstraat,64,,BS,3531CL,Utrecht,Utrecht,Utrecht,VBO,5.102746,52.091425
 Kanaalstraat,64,,,3531CL,Utrecht,Utrecht,Utrecht,VBO,5.102746,52.091425
+Kanaalstraat,66,A,,3531CL,Utrecht,Utrecht,Utrecht,VBO,5.102675,52.091396
 Kanaalstraat,66,,,3531CL,Utrecht,Utrecht,Utrecht,VBO,5.102678,52.091417
 Kanaalstraat,68,,BS,3531CL,Utrecht,Utrecht,Utrecht,VBO,5.102587,52.091410
 Kanaalstraat,68,,,3531CL,Utrecht,Utrecht,Utrecht,VBO,5.102608,52.091411
@@ -2808,15 +2810,21 @@ Laan van Nieuw-Guinea,95,,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087546,52.092644
 Laan van Nieuw-Guinea,97,,BS,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087489,52.092681
 Laan van Nieuw-Guinea,97,,BSA,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087505,52.092672
 Laan van Nieuw-Guinea,97,,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087474,52.092690
+Laan van Nieuw-Guinea,99,A,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087416,52.092747
 Laan van Nieuw-Guinea,99,,BS,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087414,52.092725
 Laan van Nieuw-Guinea,99,,BSA,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087431,52.092716
 Laan van Nieuw-Guinea,99,,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087399,52.092734
+Laan van Nieuw-Guinea,99,,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087408,52.092741
+Laan van Nieuw-Guinea,101,A,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087343,52.092792
 Laan van Nieuw-Guinea,101,,BS,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087342,52.092771
 Laan van Nieuw-Guinea,101,,BSA,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087358,52.092762
 Laan van Nieuw-Guinea,101,,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087327,52.092780
+Laan van Nieuw-Guinea,101,,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087335,52.092786
+Laan van Nieuw-Guinea,103,A,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087323,52.092805
 Laan van Nieuw-Guinea,103,,BS,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087290,52.092800
 Laan van Nieuw-Guinea,103,,BSA,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087274,52.092809
 Laan van Nieuw-Guinea,103,,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087307,52.092792
+Laan van Nieuw-Guinea,103,,,3531JE,Utrecht,Utrecht,Utrecht,VBO,5.087315,52.092799
 Laan van Nieuw-Guinea,105,,,3531JG,Utrecht,Utrecht,Utrecht,VBO,5.087058,52.092944
 Laan van Nieuw-Guinea,107,,BS,3531JG,Utrecht,Utrecht,Utrecht,VBO,5.086982,52.092990
 Laan van Nieuw-Guinea,107,,,3531JG,Utrecht,Utrecht,Utrecht,VBO,5.086965,52.092999
@@ -3434,6 +3442,12 @@ Paramaribostraat,86,,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087537,52.092951
 Paramaribostraat,88,,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087489,52.092926
 Paramaribostraat,90,,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087473,52.092918
 Paramaribostraat,92,,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087458,52.092909
+Paramaribostraat,94,A,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087404,52.092867
+Paramaribostraat,94,B,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087431,52.092838
+Paramaribostraat,94,C,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087471,52.092818
+Paramaribostraat,94,D,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087509,52.092795
+Paramaribostraat,94,E,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087546,52.092774
+Paramaribostraat,94,,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087374,52.092882
 Paramaribostraat,94,,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.087409,52.092882
 Paramaribostraat,100,,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.086866,52.092523
 Paramaribostraat,102,,,3531KT,Utrecht,Utrecht,Utrecht,VBO,5.086850,52.092509
@@ -4994,6 +5008,7 @@ Groeneweg,44,,,3531VG,Utrecht,Utrecht,Utrecht,VBO,5.090632,52.091282
 Groeneweg,46,T,,3531VG,Utrecht,Utrecht,Utrecht,VBO,5.090622,52.091313
 Groeneweg,46,,,3531VG,Utrecht,Utrecht,Utrecht,VBO,5.090632,52.091282
 Groeneweg,48,,,3531VG,Utrecht,Utrecht,Utrecht,VBO,5.091680,52.091414
+Groeneweg,50,,,3531VG,Utrecht,Utrecht,Utrecht,VBO,5.090622,52.091919
 Groeneweg,56,,BS,3531VG,Utrecht,Utrecht,Utrecht,VBO,5.090581,52.091057
 Groeneweg,56,,,3531VG,Utrecht,Utrecht,Utrecht,VBO,5.090591,52.091046
 Groeneweg,80,,,3531VH,Utrecht,Utrecht,Utrecht,VBO,5.090528,52.090673
@@ -5355,6 +5370,7 @@ Haroekoeplein,20,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.092179,52.091365
 Haroekoeplein,22,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.092131,52.091363
 Haroekoeplein,24,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.092062,52.091363
 Haroekoeplein,26,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.092020,52.091363
+Haroekoeplein,28,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.091971,52.091365
 Haroekoeplein,30,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.091917,52.091372
 Haroekoeplein,32,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.091860,52.091374
 Haroekoeplein,34,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.091812,52.091383
@@ -5416,6 +5432,7 @@ Haroekoeplein,144,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.090837,52.091417
 Haroekoeplein,146,,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.090837,52.091417
 Haroekoeplein,1000,H,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.091393,52.091307
 Haroekoeplein,1001,C,,3531WN,Utrecht,Utrecht,Utrecht,VBO,5.091461,52.091429
+Niasstraat,6,B,,3531WP,Utrecht,Utrecht,Utrecht,VBO,5.091952,52.093240
 Niasstraat,6,,,3531WP,Utrecht,Utrecht,Utrecht,VBO,5.092024,52.093236
 Niasstraat,8,A,,3531WP,Utrecht,Utrecht,Utrecht,VBO,5.091087,52.093266
 Niasstraat,8,,,3531WP,Utrecht,Utrecht,Utrecht,VBO,5.091108,52.093266

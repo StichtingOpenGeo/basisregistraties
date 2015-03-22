@@ -67,6 +67,8 @@ Lage Ham,151,,,5102AB,Dongen,Dongen,Noord-Brabant,VBO,4.929448,51.641054
 Lage Ham,153,,,5102AB,Dongen,Dongen,Noord-Brabant,VBO,4.930038,51.641310
 Lage Ham,155,,,5102AB,Dongen,Dongen,Noord-Brabant,VBO,4.930006,51.641609
 Lage Ham,157,,,5102AB,Dongen,Dongen,Noord-Brabant,VBO,4.930031,51.641742
+Lage Ham,159,,,5102AB,Dongen,Dongen,Noord-Brabant,VBO,4.930029,51.642067
+Lage Ham,161,,,5102AB,Dongen,Dongen,Noord-Brabant,VBO,4.929986,51.642346
 Lage Ham,169,,,5102AB,Dongen,Dongen,Noord-Brabant,VBO,4.929830,51.643736
 Lage Ham,173,,,5102AB,Dongen,Dongen,Noord-Brabant,VBO,4.928749,51.644448
 Lage Ham,2,,,5102AC,Dongen,Dongen,Noord-Brabant,VBO,4.933177,51.632561
@@ -225,8 +227,6 @@ Achterhuizen,8,,,5102AM,Dongen,Dongen,Noord-Brabant,VBO,4.934532,51.633645
 Achterhuizen,10,,,5102AM,Dongen,Dongen,Noord-Brabant,VBO,4.937694,51.635775
 Achterhuizen,12,,,5102AM,Dongen,Dongen,Noord-Brabant,VBO,4.938011,51.635989
 Achterhuizen,14,,,5102AM,Dongen,Dongen,Noord-Brabant,VBO,4.938179,51.636093
-Achterhuizen,16,A,,5102AM,Dongen,Dongen,Noord-Brabant,VBO,4.938452,51.636286
-Achterhuizen,16,,,5102AM,Dongen,Dongen,Noord-Brabant,VBO,4.938380,51.636217
 Achterhuizen,16,,,5102AM,Dongen,Dongen,Noord-Brabant,VBO,4.938443,51.636287
 Achterhuizen,18,,,5102AM,Dongen,Dongen,Noord-Brabant,VBO,4.938235,51.635631
 Achterhoeven,2,,,5102AN,Dongen,Dongen,Noord-Brabant,VBO,4.934797,51.633570
@@ -1868,28 +1868,41 @@ Piet Heynstraat,9,,,5102VP,Dongen,Dongen,Noord-Brabant,VBO,4.925721,51.632550
 Piet Heynstraat,10,,,5102VP,Dongen,Dongen,Noord-Brabant,VBO,4.925756,51.632777
 Piet Heynstraat,11,,,5102VP,Dongen,Dongen,Noord-Brabant,VBO,4.925624,51.632557
 Piet Heynstraat,12,,,5102VP,Dongen,Dongen,Noord-Brabant,VBO,4.925657,51.632784
+Stuyvesantstraat,1,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930165,51.631753
 Stuyvesantstraat,1,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930131,51.631768
 Stuyvesantstraat,1,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930111,51.632260
+Stuyvesantstraat,2,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930204,51.631744
 Stuyvesantstraat,2,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930094,51.631776
 Stuyvesantstraat,2,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930190,51.632243
+Stuyvesantstraat,3,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930245,51.631735
 Stuyvesantstraat,3,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930058,51.631784
 Stuyvesantstraat,3,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930304,51.632217
+Stuyvesantstraat,4,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930162,51.631648
 Stuyvesantstraat,4,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930023,51.631792
 Stuyvesantstraat,4,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930380,51.632197
+Stuyvesantstraat,5,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930125,51.631656
 Stuyvesantstraat,5,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929987,51.631799
 Stuyvesantstraat,5,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930459,51.632210
+Stuyvesantstraat,6,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930087,51.631665
 Stuyvesantstraat,6,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929948,51.631809
 Stuyvesantstraat,6,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930533,51.632193
+Stuyvesantstraat,7,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930049,51.631674
 Stuyvesantstraat,7,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929916,51.631817
 Stuyvesantstraat,7,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930610,51.632177
+Stuyvesantstraat,8,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930011,51.631683
 Stuyvesantstraat,8,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929882,51.631826
+Stuyvesantstraat,9,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929973,51.631692
 Stuyvesantstraat,9,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929673,51.631752
+Stuyvesantstraat,10,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929935,51.631701
 Stuyvesantstraat,10,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929619,51.631759
 Stuyvesantstraat,10,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930432,51.632048
+Stuyvesantstraat,11,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929898,51.631709
 Stuyvesantstraat,11,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929572,51.631767
 Stuyvesantstraat,11,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930408,51.632007
+Stuyvesantstraat,12,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929860,51.631718
 Stuyvesantstraat,12,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929531,51.631775
 Stuyvesantstraat,12,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930383,51.631965
+Stuyvesantstraat,13,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929822,51.631727
 Stuyvesantstraat,13,,RD,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929487,51.631786
 Stuyvesantstraat,13,,,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.930359,51.631924
 Stuyvesantstraat,14,,G,5102VR,Dongen,Dongen,Noord-Brabant,VBO,4.929081,51.631884
@@ -2032,19 +2045,6 @@ van Linschotenstraat,38,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930753,51.631
 van Linschotenstraat,40,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930716,51.631630
 van Linschotenstraat,42,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930691,51.631587
 van Linschotenstraat,44,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930663,51.631541
-van Linschotenstraat,46,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930245,51.631735
-van Linschotenstraat,48,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930204,51.631744
-van Linschotenstraat,50,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930165,51.631753
-van Linschotenstraat,52,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930162,51.631648
-van Linschotenstraat,54,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930125,51.631656
-van Linschotenstraat,56,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930087,51.631665
-van Linschotenstraat,58,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930049,51.631674
-van Linschotenstraat,60,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.930011,51.631683
-van Linschotenstraat,62,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.929973,51.631692
-van Linschotenstraat,64,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.929935,51.631701
-van Linschotenstraat,66,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.929898,51.631709
-van Linschotenstraat,68,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.929860,51.631718
-van Linschotenstraat,70,,,5102WE,Dongen,Dongen,Noord-Brabant,VBO,4.929822,51.631727
 Roggeveenstraat,1,,,5102WG,Dongen,Dongen,Noord-Brabant,VBO,4.931744,51.633141
 Roggeveenstraat,3,,,5102WG,Dongen,Dongen,Noord-Brabant,VBO,4.931824,51.633129
 Roggeveenstraat,5,,,5102WG,Dongen,Dongen,Noord-Brabant,VBO,4.931903,51.633119

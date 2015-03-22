@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Eerste Dijk,10,,,4695AA,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.051929,51.553651
 Sportlaan,1,,,4695BA,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.080887,51.547763
 Sportlaan,2,a,,4695BA,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.080237,51.547135
 Sportlaan,2,b,,4695BA,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.080077,51.546234
@@ -422,8 +421,9 @@ Molenstraat,12,,,4695CK,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079253,51.547869
 Molenstraat,13,,,4695CK,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079253,51.548016
 Molenstraat,14,,,4695CK,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079337,51.547867
 Molenstraat,15,,,4695CK,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079460,51.547965
+Molenstraat,16,,,4695CK,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079422,51.547874
 Molenstraat,17,,,4695CK,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079586,51.547977
-Molenstraat,18,,,4695CK,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079476,51.547848
+Molenstraat,18,,,4695CK,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079530,51.547864
 Wal,2,,,4695CL,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.078424,51.547204
 Wal,4,,,4695CL,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.078310,51.547206
 Wal,6,,,4695CL,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.078158,51.547195
@@ -1573,6 +1573,7 @@ Oudelandseweg,8,,,4695PA,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.065623,51.552732
 Oudelandseweg,10,,,4695PA,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.062917,51.551245
 Eerste Dijk,3,,,4695PB,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079965,51.561761
 Eerste Dijk,4,,,4695PB,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.067096,51.559787
+Eerste Dijk,6,a,,4695PB,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.065483,51.559363
 Eerste Dijk,6,,,4695PB,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.064841,51.559064
 Eerste Dijk,8,,,4695PB,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.062948,51.557860
 Poppenoordweg,1,,,4695PB,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.066426,51.560679
@@ -1709,7 +1710,6 @@ Geulweg,41,c,,4695RE,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.089021,51.546033
 Geulweg,41,,,4695RE,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.089078,51.545747
 Geulweg,43,,,4695RE,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.088624,51.545936
 Provincialeweg,22,,,4695RG,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.091059,51.548961
-Provincialeweg,22,,,4695RG,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.091143,51.548763
 Provincialeweg,24,,,4695RG,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.085579,51.549077
 Provincialeweg,26,,,4695RG,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.081392,51.550999
 Veerhoekseweg,1,,,4695RG,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.082350,51.551314
@@ -1769,7 +1769,7 @@ Provincialeweg,56,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.061480,51.5724
 Provincialeweg,58,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.059946,51.573698
 Provincialeweg,60,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.059184,51.573912
 Provincialeweg,62,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.058679,51.574592
-Provincialeweg,64,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.057874,51.574796
+Provincialeweg,64,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.058023,51.574883
 Provincialeweg,66,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.057718,51.575028
 Provincialeweg,68,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.055784,51.576178
 Provincialeweg,70,,,4695RN,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.055679,51.576243
@@ -1830,8 +1830,8 @@ Tweede Dijk,1,,,4695SB,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.073405,51.572111
 Tweede Dijk,2,,,4695SB,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.077949,51.573822
 Krommeweg,1,,,4695SC,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.082421,51.571132
 Krommeweg,2,,,4695SC,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.086095,51.569242
-Krommeweg,3,,,4695SC,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.081906,51.571298
 Krommeweg,3,,,4695SC,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.081020,51.571224
+Krommeweg,3,,,4695SC,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.081906,51.571298
 Krommeweg,4,,,4695SC,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.085439,51.569987
 Krommeweg,6,,,4695SC,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.083126,51.571085
 Korte Kruisweg,1,,,4695SE,Sint-Maartensdijk,Tholen,Zeeland,VBO,4.079125,51.580929

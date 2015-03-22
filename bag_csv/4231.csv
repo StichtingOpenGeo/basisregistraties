@@ -27,10 +27,9 @@ Burgemeester Sloblaan,41,,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.992971,51.
 Burgemeester Sloblaan,43,,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.992779,51.918008
 Burgemeester Sloblaan,45,,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.991898,51.917843
 Burgemeester Sloblaan,47,A,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.990709,51.917551
-Burgemeester Sloblaan,47,B,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.989577,51.917295
+Burgemeester Sloblaan,47,B,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.989624,51.917328
 Burgemeester Sloblaan,47,C,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.990544,51.917352
-Burgemeester Sloblaan,47,,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.991449,51.917701
-Burgemeester Sloblaan,49,,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.989477,51.917169
+Burgemeester Sloblaan,47,,,4231AA,Meerkerk,Zederik,Zuid-Holland,VBO,4.991335,51.917518
 Burgemeester Sloblaan,2,A,,4231AB,Meerkerk,Zederik,Zuid-Holland,VBO,4.997828,51.921077
 Burgemeester Sloblaan,2,B,,4231AB,Meerkerk,Zederik,Zuid-Holland,VBO,4.997820,51.921128
 Burgemeester Sloblaan,2,,,4231AB,Meerkerk,Zederik,Zuid-Holland,VBO,4.997539,51.921025
@@ -403,6 +402,7 @@ Tolstraat,26,,,4231BC,Meerkerk,Zederik,Zuid-Holland,VBO,5.000474,51.921241
 Tolstraat,28,,,4231BC,Meerkerk,Zederik,Zuid-Holland,VBO,5.000665,51.921261
 Tolstraat,30,,,4231BC,Meerkerk,Zederik,Zuid-Holland,VBO,5.000875,51.921298
 Tolstraat,32,,,4231BC,Meerkerk,Zederik,Zuid-Holland,VBO,5.001056,51.921288
+Tolstraat,34,A,,4231BC,Meerkerk,Zederik,Zuid-Holland,VBO,5.001477,51.921243
 Tolstraat,34,B,,4231BC,Meerkerk,Zederik,Zuid-Holland,VBO,5.001419,51.921374
 Tolstraat,34,,,4231BC,Meerkerk,Zederik,Zuid-Holland,VBO,5.001516,51.921387
 Tolstraat,36,,,4231BC,Meerkerk,Zederik,Zuid-Holland,VBO,5.002661,51.921766
@@ -809,7 +809,7 @@ Zouwendijk,48,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997748,51.923848
 Zouwendijk,50,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997721,51.923956
 Zouwendijk,52,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997721,51.924061
 Zouwendijk,54,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997714,51.924101
-Zouwendijk,56,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997721,51.924297
+Zouwendijk,56,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997721,51.924257
 Zouwendijk,58,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997715,51.924357
 Zouwendijk,60,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997708,51.924399
 Zouwendijk,62,,,4231CG,Meerkerk,Zederik,Zuid-Holland,VBO,4.997722,51.924442
@@ -990,11 +990,11 @@ Energieweg,10,,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.985339,51.910099
 Energieweg,11,,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.988126,51.912420
 Energieweg,13,,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987934,51.912275
 Energieweg,15,A,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.988532,51.911878
-Energieweg,15,B,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987834,51.912120
-Energieweg,15,C,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.988062,51.912067
-Energieweg,15,D,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.988069,51.912032
-Energieweg,15,E,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.988026,51.911990
-Energieweg,15,,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987785,51.912038
+Energieweg,15,B,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.988065,51.912077
+Energieweg,15,C,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987780,51.912135
+Energieweg,15,D,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987929,51.911929
+Energieweg,15,E,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.988062,51.911904
+Energieweg,15,,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987901,51.911943
 Energieweg,17,,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987809,51.911741
 Energieweg,19,,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987363,51.911302
 Energieweg,21,A,,4231DJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987750,51.910821
@@ -1100,9 +1100,9 @@ Houtstraat,2,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988698,51.914657
 Houtstraat,3,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.989250,51.914068
 Houtstraat,4,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988471,51.914369
 Houtstraat,5,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988842,51.914168
-Houtstraat,6,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988252,51.914392
+Houtstraat,6,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988134,51.914506
 Houtstraat,7,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988597,51.914029
-Houtstraat,8,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988092,51.914351
+Houtstraat,8,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988252,51.914392
 Houtstraat,9,,,4231DS,Meerkerk,Zederik,Zuid-Holland,VBO,4.988327,51.913893
 Lindenstraat,1,,,4231DT,Meerkerk,Zederik,Zuid-Holland,VBO,4.996728,51.917780
 Lindenstraat,2,,,4231DT,Meerkerk,Zederik,Zuid-Holland,VBO,4.995949,51.917561
@@ -1405,9 +1405,12 @@ Leeuwerik,8,,,4231ER,Meerkerk,Zederik,Zuid-Holland,VBO,4.996535,51.916134
 Leeuwerik,10,,,4231ER,Meerkerk,Zederik,Zuid-Holland,VBO,4.996583,51.916087
 Leeuwerik,12,,,4231ER,Meerkerk,Zederik,Zuid-Holland,VBO,4.996626,51.916036
 Leeuwerik,15,,,4231ER,Meerkerk,Zederik,Zuid-Holland,VBO,4.996840,51.916392
+Leeuwerik,19,,,4231ER,Meerkerk,Zederik,Zuid-Holland,VBO,4.997218,51.916277
+Leeuwerik,23,,,4231ER,Meerkerk,Zederik,Zuid-Holland,VBO,4.997387,51.916140
 Leeuwerik,25,,,4231ER,Meerkerk,Zederik,Zuid-Holland,VBO,4.997322,51.915991
 Leeuwerik,29,,,4231ER,Meerkerk,Zederik,Zuid-Holland,VBO,4.997501,51.915741
 Duurzaamheidsring,20,,,4231EX,Meerkerk,Zederik,Zuid-Holland,VBO,4.983661,51.906562
+Duurzaamheidsring,100,,,4231EX,Meerkerk,Zederik,Zuid-Holland,VBO,4.985655,51.906753
 Duurzaamheidsring,180,,,4231EX,Meerkerk,Zederik,Zuid-Holland,VBO,4.987667,51.907617
 Duurzaamheidsring,200,,,4231EX,Meerkerk,Zederik,Zuid-Holland,VBO,4.987980,51.907114
 Handelsweg,1,,,4231EZ,Meerkerk,Zederik,Zuid-Holland,VBO,4.987004,51.909206
@@ -1629,8 +1632,8 @@ Grote Kanaaldijk,18,C,,4231ZA,Meerkerk,Zederik,Zuid-Holland,VBO,4.996999,51.9045
 Grote Kanaaldijk,18,D,,4231ZA,Meerkerk,Zederik,Zuid-Holland,VBO,4.997803,51.906442
 Grote Kanaaldijk,18,E,,4231ZA,Meerkerk,Zederik,Zuid-Holland,VBO,4.995645,51.904617
 Grote Kanaaldijk,18,,,4231ZA,Meerkerk,Zederik,Zuid-Holland,VBO,4.997209,51.909110
-Grote Kanaaldijk,19,,,4231ZA,Meerkerk,Zederik,Zuid-Holland,VBO,4.998087,51.902867
 Grote Kanaaldijk,19,,,4231ZA,Meerkerk,Zederik,Zuid-Holland,VBO,4.997748,51.903038
+Grote Kanaaldijk,19,,,4231ZA,Meerkerk,Zederik,Zuid-Holland,VBO,4.998087,51.902867
 Bazeldijk,1,,,4231ZB,Meerkerk,Zederik,Zuid-Holland,VBO,4.998781,51.916994
 Bazeldijk,3,,,4231ZB,Meerkerk,Zederik,Zuid-Holland,VBO,4.998869,51.916886
 Bazeldijk,5,,,4231ZB,Meerkerk,Zederik,Zuid-Holland,VBO,4.998986,51.916770
@@ -1724,7 +1727,7 @@ Bazeldijk,76,A,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.995378,51.908112
 Bazeldijk,76,,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.995462,51.908112
 Bazeldijk,78,A,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.994213,51.904625
 Bazeldijk,78,,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.994538,51.906020
-Bazeldijk,80,,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.994121,51.904496
+Bazeldijk,80,,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.994174,51.904469
 Bazeldijk,84,,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.994296,51.903891
 Bazeldijk,86,,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.994048,51.903701
 Bazeldijk,88,,,4231ZE,Meerkerk,Zederik,Zuid-Holland,VBO,4.993467,51.903529
@@ -1740,9 +1743,14 @@ Burggraaf,3,A,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991748,51.913752
 Burggraaf,3,,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991913,51.914535
 Burggraaf,4,A,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991229,51.914955
 Burggraaf,4,B,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991207,51.914618
+Burggraaf,4,D,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991173,51.914266
 Burggraaf,4,,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991419,51.915279
 Burggraaf,5,,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.994351,51.913626
-Burggraaf,6,,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.990527,51.913914
+Burggraaf,6,B,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991023,51.913903
+Burggraaf,6,C,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.990929,51.913873
+Burggraaf,6,D,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.990833,51.913845
+Burggraaf,6,E,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.990744,51.913818
+Burggraaf,6,,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991112,51.913929
 Burggraaf,8,,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991033,51.913723
 Burggraaf,10,,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.991006,51.913561
 Burggraaf,12,,,4231ZJ,Meerkerk,Zederik,Zuid-Holland,VBO,4.990958,51.913401
@@ -1826,7 +1834,7 @@ Scheepjesbrug,315,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.003232,51.911215
 Scheepjesbrug,317,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.003421,51.911090
 Scheepjesbrug,319,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.003108,51.911036
 Scheepjesbrug,401,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.002871,51.910955
-Scheepjesbrug,402,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.002721,51.911137
+Scheepjesbrug,402,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.002797,51.911139
 Scheepjesbrug,403,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.002653,51.910948
 Scheepjesbrug,404,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.002649,51.911067
 Scheepjesbrug,405,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.002427,51.910916
@@ -1838,7 +1846,6 @@ Scheepjesbrug,414,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.001615,51.910992
 Scheepjesbrug,415,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.001115,51.910763
 Scheepjesbrug,416,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.001390,51.910951
 Scheepjesbrug,417,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.000766,51.910864
-Scheepjesbrug,418,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.001118,51.910937
 Scheepjesbrug,418,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.001121,51.910907
 Scheepjesbrug,419,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.000835,51.911120
 Scheepjesbrug,421,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.001138,51.911114
@@ -1934,3 +1941,4 @@ Scheepjesbrug,911,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.004854,51.911664
 Scheepjesbrug,912,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.004948,51.911396
 Scheepjesbrug,913,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.005064,51.911584
 Scheepjesbrug,915,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.005236,51.911649
+Scheepjesbrug,916,,,4231ZZ,Meerkerk,Zederik,Zuid-Holland,VBO,5.005155,51.911341

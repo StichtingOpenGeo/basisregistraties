@@ -256,11 +256,11 @@ Lambertus Hortensiusstraat,13,,,3417AS,Montfoort,Montfoort,Utrecht,VBO,4.952430,
 Lambertus Hortensiusstraat,15,,,3417AS,Montfoort,Montfoort,Utrecht,VBO,4.952404,52.049769
 Lambertus Hortensiusstraat,17,,,3417AS,Montfoort,Montfoort,Utrecht,VBO,4.952370,52.049815
 Hoeksestraat,1,,,3417AT,Montfoort,Montfoort,Utrecht,VBO,4.952449,52.049989
-Hoeksestraat,2,,,3417AT,Montfoort,Montfoort,Utrecht,VBO,4.953079,52.049735
 Hoeksestraat,3,,,3417AT,Montfoort,Montfoort,Utrecht,VBO,4.952515,52.050003
 Hoeksestraat,5,,,3417AT,Montfoort,Montfoort,Utrecht,VBO,4.952595,52.050020
 Hoeksestraat,7,,,3417AT,Montfoort,Montfoort,Utrecht,VBO,4.952685,52.050043
 Hoeksestraat,9,,,3417AT,Montfoort,Montfoort,Utrecht,VBO,4.952757,52.050057
+Jonker Fransstraat,1,A,,3417AV,Montfoort,Montfoort,Utrecht,VBO,4.953283,52.049617
 Jonker Fransstraat,1,,,3417AV,Montfoort,Montfoort,Utrecht,VBO,4.953031,52.050131
 Jonker Fransstraat,2,,,3417AV,Montfoort,Montfoort,Utrecht,VBO,4.953678,52.049613
 Jonker Fransstraat,3,,,3417AV,Montfoort,Montfoort,Utrecht,VBO,4.953013,52.050175
@@ -548,9 +548,9 @@ Mastwijkerdijk,24,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.951997,52.051685
 Mastwijkerdijk,25,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.957311,52.054938
 Mastwijkerdijk,28,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.952442,52.051985
 Mastwijkerdijk,29,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.960963,52.056175
+Mastwijkerdijk,29,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.960976,52.056160
 Mastwijkerdijk,30,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.952456,52.052020
 Mastwijkerdijk,31,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.961304,52.056334
-Mastwijkerdijk,31,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.961271,52.056391
 Mastwijkerdijk,32,,,3417BP,Montfoort,Montfoort,Utrecht,VBO,4.952492,52.052050
 Mastwijkerdijk,33,,,3417BR,Montfoort,Montfoort,Utrecht,VBO,4.962854,52.057022
 Mastwijkerdijk,34,,,3417BR,Montfoort,Montfoort,Utrecht,VBO,4.952585,52.052116
@@ -603,7 +603,7 @@ Mastwijkerdijk,108,D,,3417BT,Montfoort,Montfoort,Utrecht,VBO,4.960596,52.055586
 Mastwijkerdijk,108,,,3417BT,Montfoort,Montfoort,Utrecht,VBO,4.960504,52.055550
 Mastwijkerdijk,110,,,3417BT,Montfoort,Montfoort,Utrecht,VBO,4.961338,52.055842
 Mastwijkerdijk,112,,,3417BT,Montfoort,Montfoort,Utrecht,VBO,4.961457,52.055889
-Mastwijkerdijk,114,,,3417BT,Montfoort,Montfoort,Utrecht,VBO,4.961764,52.055683
+Mastwijkerdijk,114,,,3417BT,Montfoort,Montfoort,Utrecht,VBO,4.961839,52.055702
 Mastwijkerdijk,116,,,3417BT,Montfoort,Montfoort,Utrecht,LIG,4.961913,52.055300
 Mastwijkerdijk,120,,,3417BT,Montfoort,Montfoort,Utrecht,VBO,4.962047,52.054955
 Mastwijkerdijk,122,,,3417BT,Montfoort,Montfoort,Utrecht,VBO,4.962286,52.056310
@@ -1084,8 +1084,8 @@ Plaats,8,,,3417EC,Montfoort,Montfoort,Utrecht,VBO,4.950557,52.044826
 Plaats,9,,,3417EC,Montfoort,Montfoort,Utrecht,VBO,4.950367,52.044906
 Plaats,10,,,3417EC,Montfoort,Montfoort,Utrecht,VBO,4.950346,52.044946
 Plaats,11,,,3417EC,Montfoort,Montfoort,Utrecht,VBO,4.950318,52.045012
-Mannenhuisstraat,1,B,,3417ED,Montfoort,Montfoort,Utrecht,VBO,4.951059,52.045001
 Mannenhuisstraat,1,a,,3417ED,Montfoort,Montfoort,Utrecht,VBO,4.951140,52.045033
+Mannenhuisstraat,1,B,,3417ED,Montfoort,Montfoort,Utrecht,VBO,4.951059,52.045001
 Mannenhuisstraat,1,,,3417ED,Montfoort,Montfoort,Utrecht,VBO,4.951080,52.045012
 Mannenhuisstraat,2,,,3417ED,Montfoort,Montfoort,Utrecht,VBO,4.950868,52.044895
 Mannenhuisstraat,3,A,,3417ED,Montfoort,Montfoort,Utrecht,VBO,4.951090,52.044956
@@ -1113,8 +1113,6 @@ Koude Hoek,1,,,3417EE,Montfoort,Montfoort,Utrecht,VBO,4.952026,52.044447
 Koude Hoek,2,,,3417EE,Montfoort,Montfoort,Utrecht,VBO,4.952265,52.044463
 Koude Hoek,3,,,3417EE,Montfoort,Montfoort,Utrecht,VBO,4.952412,52.044489
 Achterstraat,1,A,,3417EG,Montfoort,Montfoort,Utrecht,VBO,4.952023,52.044878
-Achterstraat,1,a,,3417EG,Montfoort,Montfoort,Utrecht,VBO,4.952065,52.044873
-Achterstraat,1,b,,3417EG,Montfoort,Montfoort,Utrecht,VBO,4.952057,52.044813
 Achterstraat,1,,,3417EG,Montfoort,Montfoort,Utrecht,VBO,4.944919,52.044610
 Achterstraat,2,,,3417EG,Montfoort,Montfoort,Utrecht,VBO,4.951544,52.045064
 Achterstraat,3,,,3417EG,Montfoort,Montfoort,Utrecht,VBO,4.952110,52.044756
@@ -1262,6 +1260,7 @@ Havenstraat,1,,,3417EM,Montfoort,Montfoort,Utrecht,VBO,4.950189,52.046326
 Havenstraat,3,,,3417EM,Montfoort,Montfoort,Utrecht,VBO,4.950194,52.046281
 Havenstraat,5,,,3417EM,Montfoort,Montfoort,Utrecht,VBO,4.950245,52.046241
 Havenstraat,7,,,3417EM,Montfoort,Montfoort,Utrecht,VBO,4.950276,52.046183
+Havenstraat,8,,,3417EM,Montfoort,Montfoort,Utrecht,VBO,4.949976,52.046080
 Havenstraat,9,,,3417EM,Montfoort,Montfoort,Utrecht,VBO,4.950293,52.046137
 Havenstraat,10,,,3417EM,Montfoort,Montfoort,Utrecht,VBO,4.949976,52.045973
 Havenstraat,11,,,3417EM,Montfoort,Montfoort,Utrecht,VBO,4.950376,52.046076
@@ -1553,8 +1552,8 @@ Julianalaan,26,,,3417GK,Montfoort,Montfoort,Utrecht,VBO,4.942956,52.042968
 Julianalaan,30,,,3417GK,Montfoort,Montfoort,Utrecht,VBO,4.942548,52.042609
 Julianalaan,32,,,3417GK,Montfoort,Montfoort,Utrecht,VBO,4.942019,52.042681
 Julianalaan,34,,,3417GK,Montfoort,Montfoort,Utrecht,VBO,4.942157,52.042364
-Benedenkerkweg,1,B,,3417GL,Montfoort,Montfoort,Utrecht,VBO,4.945038,52.041750
 Benedenkerkweg,1,a,,3417GL,Montfoort,Montfoort,Utrecht,VBO,4.945565,52.042055
+Benedenkerkweg,1,B,,3417GL,Montfoort,Montfoort,Utrecht,VBO,4.945038,52.041750
 Benedenkerkweg,1,,,3417GL,Montfoort,Montfoort,Utrecht,VBO,4.945950,52.042075
 Benedenkerkweg,2,,,3417GL,Montfoort,Montfoort,Utrecht,VBO,4.945852,52.041374
 Benedenkerkweg,3,,,3417GL,Montfoort,Montfoort,Utrecht,VBO,4.946353,52.039983
@@ -1736,8 +1735,8 @@ Heeswijk,22,,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.955009,52.048432
 Heeswijk,34,a,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.958060,52.049273
 Heeswijk,34,,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.958059,52.049373
 Heeswijk,40,,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.959584,52.050023
-Heeswijk,42,B,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.959882,52.049941
 Heeswijk,42,a,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.959683,52.049656
+Heeswijk,42,B,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.959882,52.049941
 Heeswijk,42,,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.959944,52.050312
 Heeswijk,44,a,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.960113,52.050368
 Heeswijk,44,,,3417GR,Montfoort,Montfoort,Utrecht,VBO,4.960137,52.050422
@@ -1793,7 +1792,6 @@ De Cope,1,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940985,52.041414
 De Cope,2,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940541,52.040942
 De Cope,3,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940678,52.041813
 De Cope,4,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940437,52.041062
-De Cope,5,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940159,52.041699
 De Cope,6,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940871,52.041116
 De Cope,8,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940847,52.041164
 De Cope,10,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940761,52.041263
@@ -1803,7 +1801,7 @@ De Cope,16,,,3417GV,Montfoort,Montfoort,Utrecht,VBO,4.940494,52.041517
 Hoogstraat,1,,,3417HA,Montfoort,Montfoort,Utrecht,VBO,4.949608,52.046083
 Hoogstraat,3,A,,3417HA,Montfoort,Montfoort,Utrecht,VBO,4.949564,52.046047
 Hoogstraat,3,,,3417HA,Montfoort,Montfoort,Utrecht,VBO,4.949469,52.046027
-Hoogstraat,5,A,,3417HA,Montfoort,Montfoort,Utrecht,VBO,4.949377,52.045993
+Hoogstraat,5,A,,3417HA,Montfoort,Montfoort,Utrecht,VBO,4.949358,52.045977
 Hoogstraat,5,,,3417HA,Montfoort,Montfoort,Utrecht,VBO,4.949374,52.045988
 Hoogstraat,7,,,3417HA,Montfoort,Montfoort,Utrecht,VBO,4.949278,52.045922
 Hoogstraat,9,,,3417HA,Montfoort,Montfoort,Utrecht,VBO,4.949136,52.045863
@@ -1863,7 +1861,7 @@ Hoogstraat,30,,,3417HC,Montfoort,Montfoort,Utrecht,VBO,4.948821,52.045874
 Hoogstraat,32,A,,3417HC,Montfoort,Montfoort,Utrecht,VBO,4.948742,52.045865
 Hoogstraat,32,,,3417HC,Montfoort,Montfoort,Utrecht,VBO,4.948758,52.045847
 Hoogstraat,34,A,,3417HC,Montfoort,Montfoort,Utrecht,VBO,4.948686,52.045841
-Hoogstraat,34,,,3417HC,Montfoort,Montfoort,Utrecht,VBO,4.948728,52.045872
+Hoogstraat,34,,,3417HC,Montfoort,Montfoort,Utrecht,VBO,4.948692,52.045819
 Hoogstraat,36,A,,3417HD,Montfoort,Montfoort,Utrecht,VBO,4.948432,52.045830
 Hoogstraat,36,,,3417HD,Montfoort,Montfoort,Utrecht,VBO,4.948397,52.045798
 Hoogstraat,38,,,3417HD,Montfoort,Montfoort,Utrecht,VBO,4.948322,52.045753
@@ -2351,6 +2349,7 @@ Dotterbloem,27,,,3417LC,Montfoort,Montfoort,Utrecht,VBO,4.959076,52.039324
 Dotterbloem,29,,,3417LC,Montfoort,Montfoort,Utrecht,VBO,4.959157,52.039338
 Dotterbloem,31,,,3417LC,Montfoort,Montfoort,Utrecht,VBO,4.959232,52.039353
 Zwanenbloem,1,,,3417LD,Montfoort,Montfoort,Utrecht,VBO,4.958921,52.038372
+Zwanenbloem,2,,,3417LD,Montfoort,Montfoort,Utrecht,VBO,4.958459,52.038046
 Zwanenbloem,3,,,3417LD,Montfoort,Montfoort,Utrecht,VBO,4.959011,52.038386
 Zwanenbloem,4,,,3417LD,Montfoort,Montfoort,Utrecht,VBO,4.958740,52.038108
 Zwanenbloem,5,,,3417LD,Montfoort,Montfoort,Utrecht,VBO,4.959205,52.038432
@@ -2377,6 +2376,7 @@ Kamgras,1,,,3417LE,Montfoort,Montfoort,Utrecht,VBO,4.958351,52.038522
 Kamgras,3,,,3417LE,Montfoort,Montfoort,Utrecht,VBO,4.958382,52.038476
 Kamgras,5,,,3417LE,Montfoort,Montfoort,Utrecht,VBO,4.958452,52.038358
 Kamgras,7,,,3417LE,Montfoort,Montfoort,Utrecht,VBO,4.958482,52.038309
+Rietgras,2,,,3417LG,Montfoort,Montfoort,Utrecht,VBO,4.958821,52.037453
 Rietgras,4,,,3417LG,Montfoort,Montfoort,Utrecht,VBO,4.959196,52.037515
 Rietgras,5,,,3417LG,Montfoort,Montfoort,Utrecht,VBO,4.959374,52.037819
 Rietgras,6,,,3417LG,Montfoort,Montfoort,Utrecht,VBO,4.959503,52.037624
@@ -2402,8 +2402,8 @@ Willeskop,31,,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.936357,52.035533
 Willeskop,33,a,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.936119,52.035160
 Willeskop,33,,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.936361,52.035302
 Willeskop,35,,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.935569,52.034800
-Willeskop,37,B,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.935741,52.033753
 Willeskop,37,a,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.935354,52.034146
+Willeskop,37,B,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.935741,52.033753
 Willeskop,37,,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.935375,52.034370
 Willeskop,39,,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.933985,52.033004
 Willeskop,41,,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.933699,52.032872
@@ -2431,8 +2431,8 @@ Willeskop,69,,,3417MB,Montfoort,Montfoort,Utrecht,VBO,4.922236,52.025493
 Willeskop,71,a,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.921175,52.025320
 Willeskop,71,,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.921499,52.025442
 Willeskop,73,A,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.920001,52.025026
-Willeskop,73,D,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.919805,52.025006
 Willeskop,73,b,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.919487,52.024748
+Willeskop,73,D,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.919805,52.025006
 Willeskop,73,,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.920412,52.025167
 Willeskop,75,,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.917911,52.024872
 Willeskop,77,A,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.915638,52.024442
@@ -2443,8 +2443,8 @@ Willeskop,79,,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.912192,52.024217
 Willeskop,81,a,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.911035,52.023810
 Willeskop,81,,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.911390,52.023947
 Willeskop,83,,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.910596,52.023700
-Willeskop,85,B,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.909174,52.022832
 Willeskop,85,a,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.909359,52.023192
+Willeskop,85,B,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.909174,52.022832
 Willeskop,85,,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.909621,52.023194
 Willeskop,87,a,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.908295,52.023239
 Willeskop,87,,,3417MC,Montfoort,Montfoort,Utrecht,VBO,4.907942,52.023648
@@ -2515,6 +2515,7 @@ Willeskop,120,,,3417MG,Montfoort,Montfoort,Utrecht,VBO,4.925820,52.026842
 Willeskop,122,,,3417MG,Montfoort,Montfoort,Utrecht,VBO,4.925765,52.026848
 Willeskop,124,,,3417MG,Montfoort,Montfoort,Utrecht,VBO,4.925628,52.026814
 Willeskop,128,,,3417MG,Montfoort,Montfoort,Utrecht,VBO,4.925341,52.027081
+Willeskop,130,,,3417MG,Montfoort,Montfoort,Utrecht,VBO,4.925324,52.026837
 Willeskop,132,a,,3417MG,Montfoort,Montfoort,Utrecht,VBO,4.924501,52.026500
 Willeskop,132,,,3417MG,Montfoort,Montfoort,Utrecht,VBO,4.925020,52.026820
 Willeskop,134,,,3417MG,Montfoort,Montfoort,Utrecht,VBO,4.924107,52.026307
@@ -2528,10 +2529,9 @@ Krekenburg,2,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932198,52.032249
 Krekenburg,4,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932034,52.032114
 Krekenburg,7,A,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.933678,52.034197
 Krekenburg,7,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.934018,52.034017
-Krekenburg,8,A,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932374,52.033241
-Krekenburg,8,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932513,52.033045
+Krekenburg,8,A,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932390,52.033211
 Krekenburg,8,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932491,52.033086
-Krekenburg,10,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932227,52.033571
+Krekenburg,10,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932217,52.033559
 Krekenburg,12,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932046,52.033753
 Krekenburg,13,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932059,52.034082
 Krekenburg,15,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.931755,52.034397
@@ -2545,7 +2545,6 @@ Krekenburg,30,A,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.931803,52.033706
 Krekenburg,30,B,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.931843,52.033658
 Krekenburg,30,C,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.931887,52.033606
 Krekenburg,30,D,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.931937,52.033538
-Krekenburg,30,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932080,52.033651
 Krekenburg,31,A,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.931779,52.034709
 Krekenburg,31,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.932013,52.034812
 Krekenburg,34,,,3417MH,Montfoort,Montfoort,Utrecht,VBO,4.931771,52.033912
@@ -2586,8 +2585,8 @@ Blokland,3,,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.961245,52.036303
 Blokland,4,,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.961207,52.037135
 Blokland,5,,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.962254,52.036847
 Blokland,6,,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.962767,52.037200
-Blokland,7,A,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.963908,52.038672
-Blokland,7,,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.963619,52.038539
+Blokland,7,A,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.964049,52.038665
+Blokland,7,,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.963900,52.038546
 Blokland,8,,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.964566,52.039285
 Blokland,10,,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.965599,52.038335
 Blokland,11,A,,3417MN,Montfoort,Montfoort,Utrecht,VBO,4.966487,52.039194
@@ -2679,8 +2678,8 @@ Waardsedijk,18,A,,3417NA,Montfoort,Montfoort,Utrecht,VBO,4.925192,52.031063
 Waardsedijk,18,,,3417NA,Montfoort,Montfoort,Utrecht,VBO,4.925198,52.031082
 Knollemanshoek,2,,,3417PB,Montfoort,Montfoort,Utrecht,VBO,4.987906,52.053447
 Knollemanshoek,3,,,3417PB,Montfoort,Montfoort,Utrecht,VBO,4.988376,52.052711
-Knollemanshoek,5,B,,3417PB,Montfoort,Montfoort,Utrecht,VBO,4.988998,52.053030
 Knollemanshoek,5,a,,3417PB,Montfoort,Montfoort,Utrecht,VBO,4.989014,52.053234
+Knollemanshoek,5,B,,3417PB,Montfoort,Montfoort,Utrecht,VBO,4.988998,52.053030
 Knollemanshoek,5,,,3417PB,Montfoort,Montfoort,Utrecht,VBO,4.988901,52.053284
 Knollemanshoek,7,A,,3417PB,Montfoort,Montfoort,Utrecht,VBO,4.989602,52.052912
 Knollemanshoek,7,B,,3417PB,Montfoort,Montfoort,Utrecht,VBO,4.989916,52.052855
@@ -4383,8 +4382,8 @@ Lindeboomsweg,8,,,3417XG,Montfoort,Montfoort,Utrecht,VBO,4.946233,52.050267
 Lindeboomsweg,9,,,3417XG,Montfoort,Montfoort,Utrecht,VBO,4.945629,52.049531
 Lindeboomsweg,10,,,3417XG,Montfoort,Montfoort,Utrecht,VBO,4.946911,52.051730
 Lindeboomsweg,11,,,3417XG,Montfoort,Montfoort,Utrecht,VBO,4.945877,52.049638
-IJsselveld,1,B,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.930968,52.047837
 IJsselveld,1,a,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.930828,52.046950
+IJsselveld,1,B,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.930968,52.047837
 IJsselveld,1,,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.931279,52.047032
 IJsselveld,2,A,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.931397,52.046370
 IJsselveld,2,B,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.931587,52.046500
@@ -4427,17 +4426,16 @@ IJsselveld,24,,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.943100,52.048316
 IJsselveld,25,,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.940584,52.047609
 IJsselveld,29,,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.942002,52.048356
 IJsselveld,31,,,3417XH,Montfoort,Montfoort,Utrecht,VBO,4.942716,52.048777
+Waardsedijk-Oost,1,a,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.937797,52.044562
 Waardsedijk-Oost,1,A,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.937768,52.044619
 Waardsedijk-Oost,1,B,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.937696,52.044341
 Waardsedijk-Oost,1,C,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.937916,52.044507
-Waardsedijk-Oost,1,a,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.937797,52.044562
 Waardsedijk-Oost,1,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.937602,52.044306
 Waardsedijk-Oost,3,A,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.937118,52.044111
 Waardsedijk-Oost,3,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.937212,52.044147
 Waardsedijk-Oost,4,A,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936997,52.044642
 Waardsedijk-Oost,4,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936978,52.044591
 Waardsedijk-Oost,5,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936833,52.043805
-Waardsedijk-Oost,6,A,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936124,52.045274
 Waardsedijk-Oost,6,A,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936195,52.045277
 Waardsedijk-Oost,6,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936507,52.044149
 Waardsedijk-Oost,7,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936215,52.042626
@@ -4456,8 +4454,8 @@ Waardsedijk-Oost,11,B,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936234,52.041118
 Waardsedijk-Oost,11,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.936082,52.041252
 Waardsedijk-Oost,12,A,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.935660,52.043785
 Waardsedijk-Oost,12,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.935737,52.043619
-Waardsedijk-Oost,13,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.935235,52.042022
 Waardsedijk-Oost,14,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.935560,52.043448
+Waardsedijk-Oost,16,,,3417XJ,Montfoort,Montfoort,Utrecht,VBO,4.934693,52.040315
 Oeverweg,1,B,,3417XK,Montfoort,Montfoort,Utrecht,VBO,4.937154,52.043744
 Oeverweg,1,,,3417XK,Montfoort,Montfoort,Utrecht,VBO,4.937116,52.043735
 Oeverweg,2,A,,3417XK,Montfoort,Montfoort,Utrecht,VBO,4.936344,52.043376
@@ -4470,8 +4468,8 @@ Oeverweg,7,,,3417XK,Montfoort,Montfoort,Utrecht,VBO,4.938257,52.042201
 Aardvletterweg,1,A,,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.937962,52.042971
 Aardvletterweg,1,B,,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.938226,52.043210
 Aardvletterweg,1,,,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.937677,52.042826
-Aardvletterweg,2,A,1,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.938137,52.042625
 Aardvletterweg,2,a,,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.938007,52.042602
+Aardvletterweg,2,A,1,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.938137,52.042625
 Aardvletterweg,2,,,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.938209,52.042684
 Aardvletterweg,3,A,,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.938750,52.043262
 Aardvletterweg,3,,,3417XL,Montfoort,Montfoort,Utrecht,VBO,4.939022,52.043376
@@ -4622,4 +4620,3 @@ Vlasakker,43,,,3417XT,Montfoort,Montfoort,Utrecht,VBO,4.940835,52.045852
 Vlasakker,45,,,3417XT,Montfoort,Montfoort,Utrecht,VBO,4.940945,52.045885
 Vlasakker,47,,,3417XT,Montfoort,Montfoort,Utrecht,VBO,4.941058,52.045921
 Vlasakker,49,,,3417XT,Montfoort,Montfoort,Utrecht,VBO,4.940646,52.045745
-Kleine Bospad,1,,,3417XX,Montfoort,Montfoort,Utrecht,VBO,4.952515,52.046800

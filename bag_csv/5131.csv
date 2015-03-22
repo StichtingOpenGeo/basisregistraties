@@ -173,8 +173,8 @@ Raadhuisstraat,10,,,5131AM,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.955289,51.483
 Raadhuisstraat,14,a,,5131AM,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954628,51.483760
 Raadhuisstraat,14,,,5131AM,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.955162,51.483664
 Raadhuisstraat,16,,,5131AM,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.955162,51.483601
-Raadhuisstraat,18,,,5131AM,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.955178,51.483461
 Raadhuisstraat,18,,,5131AM,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.955120,51.483448
+Raadhuisstraat,18,,,5131AM,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.955178,51.483461
 Nieuwveldweg,2,,,5131AN,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963315,51.483100
 Nieuwveldweg,3,,,5131AN,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.965145,51.483008
 Nieuwveldweg,5,,TRAF,5131AN,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.975617,51.482344
@@ -191,7 +191,7 @@ Heuvelstraat,9,,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.953284,51.484313
 Heuvelstraat,10,,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954733,51.484777
 Heuvelstraat,11,,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.953111,51.484330
 Heuvelstraat,12,,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954618,51.484767
-Heuvelstraat,14,a,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954374,51.484730
+Heuvelstraat,14,a,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954308,51.484682
 Heuvelstraat,14,,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954489,51.484749
 Heuvelstraat,16,,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954274,51.484676
 Heuvelstraat,18,,,5131AP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954101,51.484630
@@ -330,6 +330,12 @@ Baarleseweg,9,,,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954933,51.481955
 Baarleseweg,11,a,,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954877,51.481802
 Baarleseweg,11,,,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954891,51.481847
 Baarleseweg,13,a,,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954923,51.481532
+Baarleseweg,13,,01,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954884,51.481695
+Baarleseweg,13,,02,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954894,51.481640
+Baarleseweg,13,,03,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954927,51.481698
+Baarleseweg,13,,04,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954936,51.481642
+Baarleseweg,13,,05,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954970,51.481700
+Baarleseweg,13,,06,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954977,51.481644
 Baarleseweg,15,a,,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954796,51.481181
 Baarleseweg,15,b,,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954783,51.481073
 Baarleseweg,15,,,5131BA,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.954810,51.481316
@@ -904,7 +910,8 @@ Balijehof,17,,,5131CX,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.958140,51.482317
 Balijehof,19,,,5131CX,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.958068,51.482308
 Balijehof,21,,,5131CX,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.957982,51.482308
 Balijehof,23,,,5131CX,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.957881,51.482298
-Molenbaan,1,,,5131EE,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964296,51.476713
+Molenbaan,1,a,,5131EE,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964108,51.476759
+Molenbaan,1,,,5131EE,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963703,51.476743
 Molenbaan,3,,,5131EE,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963048,51.476268
 Molenbaan,10,,,5131EG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.970016,51.479223
 Pastoriehoef,2,,by,5131EH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.976326,51.481942
@@ -1181,19 +1188,11 @@ Sporkehout,17,,,5131HE,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.958812,51.485879
 Sporkehout,18,,,5131HE,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.958167,51.485562
 Sporkehout,19,,,5131HE,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.958553,51.485896
 Weegbree,1,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964008,51.484469
-Weegbree,2,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964440,51.484408
 Weegbree,3,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964007,51.484622
 Weegbree,4,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964410,51.484632
 Weegbree,5,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963997,51.484797
-Weegbree,6,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964350,51.484839
-Weegbree,7,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963700,51.485034
-Weegbree,8,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964205,51.485009
-Weegbree,9,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963569,51.485186
-Weegbree,10,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.964044,51.485197
 Weegbree,11,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963453,51.485321
-Weegbree,12,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963855,51.485403
 Weegbree,13,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963337,51.485455
-Weegbree,14,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963695,51.485591
 Weegbree,15,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.963075,51.485514
 Weegbree,17,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.962981,51.485518
 Weegbree,19,,,5131HH,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.962814,51.485524
@@ -1352,8 +1351,8 @@ Chaamseweg,43,,,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.928400,51.486384
 Chaamseweg,45,a,,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.917839,51.488481
 Chaamseweg,45,,,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.922188,51.491222
 Chaamseweg,47,,,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.917153,51.487993
-Chaamseweg,49,,DNST,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.920588,51.491351
 Chaamseweg,49,,by,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.920125,51.491655
+Chaamseweg,49,,DNST,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.920588,51.491351
 Chaamseweg,49,,,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.920197,51.491646
 Chaamseweg,51,,,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.918061,51.491813
 Chaamseweg,53,,,5131NG,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.915204,51.492686
@@ -1648,6 +1647,8 @@ Baarlesebaan,10,,,5131RP,Alphen,Alphen-Chaam,Noord-Brabant,VBO,5.000804,51.47114
 Het Bunder,2,,,5131WB,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.950398,51.480500
 Het Bunder,4,,,5131WB,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.950444,51.480158
 Het Bunder,6,,,5131WB,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.950578,51.479700
+Het Bunder,8,,,5131WB,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.950812,51.479062
+Het Bunder,10,,,5131WB,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.950761,51.478676
 Het Bunder,12,,,5131WB,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.951158,51.478198
 Het Bunder,14,,,5131WB,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.951258,51.477924
 Het Bunder,16,,,5131WB,Alphen,Alphen-Chaam,Noord-Brabant,VBO,4.951170,51.477669

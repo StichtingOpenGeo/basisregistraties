@@ -1,6 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Kissel,35,,,6416AA,Heerlen,Heerlen,Limburg,VBO,5.997258,50.890459
-Kissel,37,,,6416AA,Heerlen,Heerlen,Limburg,VBO,5.997578,50.890431
 Kissel,39,,,6416AA,Heerlen,Heerlen,Limburg,VBO,5.998193,50.890468
 Kissel,41,A,,6416AA,Heerlen,Heerlen,Limburg,VBO,5.998661,50.890727
 Kissel,41,B,,6416AA,Heerlen,Heerlen,Limburg,VBO,5.998661,50.890874
@@ -25,10 +23,12 @@ Kissel,40,,,6416AC,Heerlen,Heerlen,Limburg,VBO,5.999696,50.889762
 Kissel,42,,,6416AC,Heerlen,Heerlen,Limburg,VBO,5.999996,50.889597
 Kissel,44,,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.000362,50.889614
 Kissel,46,A,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.000946,50.889441
+Kissel,46,B,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.000625,50.889109
 Kissel,46,,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.000578,50.889568
 Kissel,48,,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.001127,50.889360
 Kissel,50,,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.001419,50.889235
-Kissel,52,,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.001703,50.889057
+Kissel,52,A,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.001703,50.889057
+Kissel,52,,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.001423,50.888783
 Kissel,54,A,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.001912,50.888915
 Kissel,54,B,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.001847,50.888873
 Kissel,54,C,,6416AC,Heerlen,Heerlen,Limburg,VBO,6.001766,50.888826
@@ -123,6 +123,7 @@ Voskuilenweg,129,C,,6416AJ,Heerlen,Heerlen,Limburg,VBO,5.997110,50.888293
 Voskuilenweg,129,D,,6416AJ,Heerlen,Heerlen,Limburg,VBO,5.997110,50.888293
 Voskuilenweg,129,E,,6416AJ,Heerlen,Heerlen,Limburg,VBO,5.997110,50.888293
 Voskuilenweg,129,F,,6416AJ,Heerlen,Heerlen,Limburg,VBO,5.997110,50.888293
+Voskuilenweg,129,G,,6416AJ,Heerlen,Heerlen,Limburg,VBO,5.997110,50.888293
 Voskuilenweg,131,A,,6416AJ,Heerlen,Heerlen,Limburg,VBO,5.997325,50.888249
 Voskuilenweg,131,B,,6416AJ,Heerlen,Heerlen,Limburg,VBO,5.997323,50.888279
 Voskuilenweg,131,,,6416AJ,Heerlen,Heerlen,Limburg,VBO,5.997305,50.888202
@@ -928,7 +929,7 @@ Kerkraderweg,62,,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996249,50.883632
 Kerkraderweg,64,,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996348,50.883587
 Kerkraderweg,66,,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996453,50.883531
 Kerkraderweg,68,,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996527,50.883496
-Kerkraderweg,72,B,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996863,50.883328
+Kerkraderweg,72,A,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996768,50.883385
 Kerkraderweg,72,,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996748,50.883376
 Kerkraderweg,74,,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996835,50.883306
 Kerkraderweg,76,,,6416CK,Heerlen,Heerlen,Limburg,VBO,5.996799,50.882877
@@ -1200,7 +1201,7 @@ Gerard Bruningstraat,6,,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.995322,50.881997
 Gerard Bruningstraat,8,A,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.996047,50.882220
 Gerard Bruningstraat,8,,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.996154,50.882227
 Gerard Bruningstraat,10,A,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.996273,50.882231
-Gerard Bruningstraat,10,,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.996388,50.882237
+Gerard Bruningstraat,10,,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.996450,50.882271
 Gerard Bruningstraat,12,,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.997313,50.882598
 Gerard Bruningstraat,14,,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.997487,50.882722
 Mathieu Kesselserf,1,,,6416EB,Heerlen,Heerlen,Limburg,VBO,5.996798,50.882331
@@ -2006,6 +2007,7 @@ Jan Campertstraat,11,A,,6416SG,Heerlen,Heerlen,Limburg,VBO,6.006414,50.883428
 Jan Campertstraat,11,,,6416SG,Heerlen,Heerlen,Limburg,VBO,6.005963,50.883853
 Jan Campertstraat,12,,,6416SG,Heerlen,Heerlen,Limburg,VBO,6.003229,50.882386
 Jan Campertstraat,14,,,6416SG,Heerlen,Heerlen,Limburg,VBO,6.003280,50.882346
+Jan Campertstraat,15,A,,6416SG,Heerlen,Heerlen,Limburg,VBO,6.007485,50.882775
 Jan Campertstraat,15,,,6416SG,Heerlen,Heerlen,Limburg,VBO,6.007499,50.882161
 Jan Campertstraat,16,,,6416SG,Heerlen,Heerlen,Limburg,VBO,6.003338,50.882304
 Jan Campertstraat,17,A,,6416SG,Heerlen,Heerlen,Limburg,VBO,6.007066,50.882982

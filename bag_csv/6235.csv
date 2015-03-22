@@ -16,10 +16,10 @@ Genzon,37,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.792247,50.902076
 Genzon,39,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.792639,50.901747
 Genzon,41,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.793208,50.901565
 Genzon,43,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.793521,50.901560
-Genzon,47,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.793842,50.901305
+Genzon,47,,,6235AA,Meerssen,Meerssen,Limburg,VBO,5.793842,50.901305
 Genzon,51,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.796468,50.901511
 Genzon,71,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.800145,50.901920
-Genzon,73,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.800266,50.901961
+Genzon,73,,,6235AA,Ulestraten,Meerssen,Limburg,VBO,5.800198,50.902270
 Genzon,4,,,6235AB,Ulestraten,Meerssen,Limburg,VBO,5.788827,50.903612
 Genzon,6,,,6235AB,Ulestraten,Meerssen,Limburg,VBO,5.788979,50.903376
 Genzon,8,,,6235AB,Ulestraten,Meerssen,Limburg,VBO,5.789239,50.903178
@@ -38,7 +38,7 @@ Genzon,40,,,6235AB,Ulestraten,Meerssen,Limburg,VBO,5.792192,50.901727
 Genzon,42,,,6235AB,Ulestraten,Meerssen,Limburg,VBO,5.792653,50.901564
 Genzon,46,a,,6235AB,Ulestraten,Meerssen,Limburg,VBO,5.793319,50.901226
 Genzon,46,,,6235AB,Ulestraten,Meerssen,Limburg,VBO,5.793189,50.901213
-Genzon,48,,,6235AB,Ulestraten,Meerssen,Limburg,VBO,5.794246,50.901343
+Genzon,48,,,6235AB,Meerssen,Meerssen,Limburg,VBO,5.794246,50.901343
 Dorpstraat,1,,,6235AC,Ulestraten,Meerssen,Limburg,VBO,5.785186,50.906324
 Dorpstraat,3,,,6235AC,Ulestraten,Meerssen,Limburg,VBO,5.785609,50.906264
 Dorpstraat,5,,,6235AC,Ulestraten,Meerssen,Limburg,VBO,5.785834,50.906117
@@ -577,6 +577,7 @@ Patioplein,1,,,6235BS,Ulestraten,Meerssen,Limburg,VBO,5.776461,50.905615
 Patioplein,2,,,6235BS,Ulestraten,Meerssen,Limburg,VBO,5.776359,50.905749
 Patioplein,3,,,6235BS,Ulestraten,Meerssen,Limburg,VBO,5.776473,50.905844
 Patioplein,4,,,6235BS,Ulestraten,Meerssen,Limburg,VBO,5.776590,50.905941
+Europastraat,3,,,6235BT,Ulestraten,Meerssen,Limburg,VBO,5.778388,50.908521
 Europastraat,9,,,6235BT,Ulestraten,Meerssen,Limburg,VBO,5.777956,50.908108
 Europastraat,17,,,6235BT,Ulestraten,Meerssen,Limburg,VBO,5.777353,50.907531
 Europastraat,19,,,6235BT,Ulestraten,Meerssen,Limburg,VBO,5.777296,50.907481
@@ -849,6 +850,11 @@ Gouverneur Houbenstraat,26,,,6235CM,Ulestraten,Meerssen,Limburg,VBO,5.778528,50.
 Gouverneur Houbenstraat,28,,,6235CM,Ulestraten,Meerssen,Limburg,VBO,5.778462,50.907324
 Gouverneur Houbenstraat,30,,,6235CM,Ulestraten,Meerssen,Limburg,VBO,5.778329,50.907405
 Gouverneur Houbenstraat,32,,,6235CM,Ulestraten,Meerssen,Limburg,VBO,5.778260,50.907445
+Burgemeester Hein Cortenstraat,1,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.781159,50.906893
+Burgemeester Hein Cortenstraat,2,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.781023,50.906840
+Burgemeester Hein Cortenstraat,3,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.780949,50.906809
+Burgemeester Hein Cortenstraat,4,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.780823,50.906754
+Burgemeester Hein Cortenstraat,5,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.780737,50.906727
 Burgemeester Hein Cortenstraat,6,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.780341,50.906675
 Burgemeester Hein Cortenstraat,7,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.780230,50.906639
 Burgemeester Hein Cortenstraat,8,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.780118,50.906604
@@ -857,15 +863,17 @@ Burgemeester Hein Cortenstraat,10,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.779
 Burgemeester Hein Cortenstraat,11,,,6235CN,Ulestraten,Meerssen,Limburg,VBO,5.779711,50.906692
 Burgemeester Janssenstraat,6,,,6235CP,Ulestraten,Meerssen,Limburg,VBO,5.780086,50.906876
 Burgemeester Janssenstraat,8,,,6235CP,Ulestraten,Meerssen,Limburg,VBO,5.779997,50.906934
-Burgemeester Janssenstraat,9,,,6235CP,Ulestraten,Meerssen,Limburg,VBO,5.780571,50.906893
+Burgemeester Janssenstraat,9,,,6235CP,Ulestraten,Meerssen,Limburg,VBO,5.780543,50.906845
+Burgemeester Janssenstraat,13,,,6235CP,Ulestraten,Meerssen,Limburg,VBO,5.780354,50.906934
+Burgemeester Janssenstraat,11,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780445,50.906892
 Peter Schoenmakersstraat,1,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780166,50.907403
-Peter Schoenmakersstraat,2,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780439,50.907266
+Peter Schoenmakersstraat,2,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780490,50.907277
 Peter Schoenmakersstraat,3,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780021,50.907314
-Peter Schoenmakersstraat,4,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780349,50.907206
+Peter Schoenmakersstraat,4,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780387,50.907212
 Peter Schoenmakersstraat,5,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.779870,50.907221
-Peter Schoenmakersstraat,6,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780243,50.907145
+Peter Schoenmakersstraat,6,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780293,50.907147
 Peter Schoenmakersstraat,7,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.779756,50.907150
-Peter Schoenmakersstraat,8,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780143,50.907091
+Peter Schoenmakersstraat,8,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.780177,50.907080
 Peter Schoenmakersstraat,9,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.779607,50.907058
 Peter Schoenmakersstraat,10,,,6235CR,Ulestraten,Meerssen,Limburg,VBO,5.779800,50.906813
 Albert Schweitzerstraat,1,,,6235CS,Ulestraten,Meerssen,Limburg,VBO,5.781575,50.906869
@@ -882,7 +890,7 @@ Albert Schweitzerstraat,21,,,6235CS,Ulestraten,Meerssen,Limburg,VBO,5.780781,50.
 Albert Schweitzerstraat,23,,,6235CS,Ulestraten,Meerssen,Limburg,VBO,5.780705,50.907440
 Albert Schweitzerstraat,25,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.780429,50.907572
 Albert Schweitzerstraat,27,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.780355,50.907609
-Albert Schweitzerstraat,29,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.780282,50.907645
+Albert Schweitzerstraat,29,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.780290,50.907645
 Albert Schweitzerstraat,31,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.780211,50.907680
 Albert Schweitzerstraat,33,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.780068,50.907751
 Albert Schweitzerstraat,35,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.779995,50.907788
@@ -896,8 +904,10 @@ Albert Schweitzerstraat,49,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.779219,50.
 Albert Schweitzerstraat,51,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.779139,50.908104
 Albert Schweitzerstraat,53,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.779057,50.908134
 Albert Schweitzerstraat,55,,,6235CT,Ulestraten,Meerssen,Limburg,VBO,5.778977,50.908163
-Albert Schweitzerstraat,18,,,6235CV,Ulestraten,Meerssen,Limburg,VBO,5.780905,50.907054
+Albert Schweitzerstraat,18,,,6235CV,Ulestraten,Meerssen,Limburg,VBO,5.780861,50.907095
 Albert Schweitzerstraat,20,,,6235CV,Ulestraten,Meerssen,Limburg,VBO,5.780770,50.907128
+Albert Schweitzerstraat,20,,,6235CV,Ulestraten,Meerssen,Limburg,VBO,5.780771,50.907138
+Albert Schweitzerstraat,22,,,6235CV,Ulestraten,Meerssen,Limburg,VBO,5.780680,50.907190
 Albert Schweitzerstraat,24,,,6235CV,Ulestraten,Meerssen,Limburg,VBO,5.779936,50.907517
 Albert Schweitzerstraat,26,,,6235CV,Ulestraten,Meerssen,Limburg,VBO,5.779863,50.907554
 Albert Schweitzerstraat,28,,,6235CV,Ulestraten,Meerssen,Limburg,VBO,5.779724,50.907619
@@ -941,7 +951,7 @@ Burgemeester Visschersstraat,65,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.78131
 Burgemeester Visschersstraat,67,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.781179,50.908495
 Burgemeester Visschersstraat,69,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.781088,50.908492
 Burgemeester Visschersstraat,71,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.780947,50.908491
-Burgemeester Visschersstraat,73,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.780854,50.908497
+Burgemeester Visschersstraat,73,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.780860,50.908492
 Burgemeester Visschersstraat,75,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.780718,50.908506
 Burgemeester Visschersstraat,77,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.780628,50.908512
 Burgemeester Visschersstraat,79,,,6235EB,Ulestraten,Meerssen,Limburg,VBO,5.780347,50.908532
@@ -1179,7 +1189,7 @@ Humcoven,14,,,6235NE,Ulestraten,Meerssen,Limburg,VBO,5.761431,50.891946
 Humcoven,15,,,6235NE,Ulestraten,Meerssen,Limburg,VBO,5.762138,50.892306
 Genzonweg,1,,,6235NG,Ulestraten,Meerssen,Limburg,VBO,5.792770,50.901227
 Genzonweg,3,,,6235NG,Ulestraten,Meerssen,Limburg,VBO,5.792412,50.901164
-Genzonweg,6,,,6235NG,Ulestraten,Meerssen,Limburg,VBO,5.787056,50.900637
+Genzonweg,6,,,6235NG,Ulestraten,Meerssen,Limburg,VBO,5.787622,50.900732
 Zonkampweg,1,,,6235NH,Ulestraten,Meerssen,Limburg,VBO,5.793446,50.903925
 Meerssenerbergweg,1,,,6235NJ,Ulestraten,Meerssen,Limburg,VBO,5.752387,50.898394
 Meerssenerbergweg,2,,,6235NJ,Ulestraten,Meerssen,Limburg,VBO,5.752822,50.897073
@@ -1268,7 +1278,7 @@ Langs de Gewannen,20,,,6235NV,Ulestraten,Meerssen,Limburg,VBO,5.786163,50.910319
 Langs de Gewannen,21,,,6235NV,Ulestraten,Meerssen,Limburg,VBO,5.789073,50.909219
 Langs de Gewannen,75,,,6235NV,Ulestraten,Meerssen,Limburg,VBO,5.799652,50.912975
 Langs de Gewannen,77,,,6235NV,Ulestraten,Meerssen,Limburg,VBO,5.799869,50.912697
-Vliegveldweg,21,,,6235NW,Ulestraten,Meerssen,Limburg,VBO,5.754455,50.899989
+Vliegveldweg,21,,,6235NW,Ulestraten,Meerssen,Limburg,VBO,5.754459,50.899984
 Vliegveldweg,23,,,6235NW,Ulestraten,Meerssen,Limburg,VBO,5.754841,50.900268
 Vliegveldweg,25,,,6235NW,Ulestraten,Meerssen,Limburg,VBO,5.754903,50.900310
 Vliegveldweg,27,,,6235NW,Ulestraten,Meerssen,Limburg,VBO,5.754982,50.900358

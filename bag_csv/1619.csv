@@ -1,7 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Oosterweg,1,,,1619AC,Andijk,Medemblik,Noord-Holland,VBO,5.252103,52.746053
-Oosterweg,2,B,,1619AC,Andijk,Medemblik,Noord-Holland,VBO,5.250711,52.745187
 Oosterweg,2,a,,1619AC,Andijk,Medemblik,Noord-Holland,VBO,5.251542,52.745199
+Oosterweg,2,B,,1619AC,Andijk,Medemblik,Noord-Holland,VBO,5.250711,52.745187
 Oosterweg,2,,,1619AC,Andijk,Medemblik,Noord-Holland,VBO,5.251526,52.745621
 Oosterweg,3,,,1619AC,Andijk,Medemblik,Noord-Holland,VBO,5.251912,52.745478
 Oosterweg,4,,,1619AC,Andijk,Medemblik,Noord-Holland,VBO,5.251898,52.745325
@@ -498,6 +498,7 @@ Horn,32,,,1619BT,Andijk,Medemblik,Noord-Holland,VBO,5.226966,52.743605
 Horn,33,,,1619BT,Andijk,Medemblik,Noord-Holland,VBO,5.226772,52.744009
 Horn,34,,,1619BT,Andijk,Medemblik,Noord-Holland,VBO,5.226773,52.743667
 Horn,35,,,1619BT,Andijk,Medemblik,Noord-Holland,VBO,5.226416,52.744053
+Horn,36,A,,1619BT,Andijk,Medemblik,Noord-Holland,VBO,5.226496,52.743678
 Horn,36,,,1619BT,Andijk,Medemblik,Noord-Holland,VBO,5.226388,52.743685
 Horn,37,,,1619BT,Andijk,Medemblik,Noord-Holland,VBO,5.225957,52.743972
 Horn,38,,,1619BT,Andijk,Medemblik,Noord-Holland,VBO,5.225855,52.743675
@@ -1393,10 +1394,6 @@ Piet Kistemakerstraat,17,,,1619DX,Andijk,Medemblik,Noord-Holland,VBO,5.220612,52
 Piet Kistemakerstraat,18,,,1619DX,Andijk,Medemblik,Noord-Holland,VBO,5.220666,52.749148
 Piet Kistemakerstraat,19,,,1619DX,Andijk,Medemblik,Noord-Holland,VBO,5.220500,52.749090
 Piet Kistemakerstraat,20,,,1619DX,Andijk,Medemblik,Noord-Holland,VBO,5.220444,52.749405
-Piet Kistemakerstraat,22,,,1619DX,Andijk,Medemblik,Noord-Holland,VBO,5.220770,52.748736
-Piet Kistemakerstraat,23,,,1619DX,Andijk,Medemblik,Noord-Holland,VBO,5.220697,52.748732
-Piet Kistemakerstraat,25,,,1619DX,Andijk,Medemblik,Noord-Holland,VBO,5.220292,52.748681
-Piet Kistemakerstraat,26,,,1619DX,Andijk,Medemblik,Noord-Holland,VBO,5.220227,52.748677
 Melkweg,1,,,1619DZ,Andijk,Medemblik,Noord-Holland,VBO,5.203641,52.747453
 Melkweg,2,,,1619DZ,Andijk,Medemblik,Noord-Holland,VBO,5.202555,52.747680
 Hoekweg,1,,,1619EA,Andijk,Medemblik,Noord-Holland,VBO,5.202055,52.751396
@@ -1449,8 +1446,8 @@ Proefpolder,3,a,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.196872,52.751235
 Proefpolder,4,a,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.196886,52.751343
 Proefpolder,4,,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.192767,52.751270
 Proefpolder,5,a,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.196847,52.751455
-Proefpolder,6,T,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.194264,52.752390
 Proefpolder,6,a,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.196930,52.751532
+Proefpolder,6,T,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.194264,52.752390
 Proefpolder,6,,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.195139,52.752304
 Proefpolder,7,,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.197063,52.751640
 Proefpolder,8,,,1619EH,Andijk,Medemblik,Noord-Holland,VBO,5.197211,52.751685
@@ -1939,21 +1936,23 @@ Molenweg,8,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.187819,52.745424
 Molenweg,9,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188264,52.745531
 Molenweg,11,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188300,52.745481
 Molenweg,12,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188072,52.745137
-Molenweg,13,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188465,52.745216
-Molenweg,14,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188522,52.745149
+Molenweg,13,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188483,52.745257
+Molenweg,14,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188562,52.745204
+Molenweg,15,A,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188680,52.745006
+Molenweg,15,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188632,52.745060
 Molenweg,16,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188369,52.744930
 Molenweg,17,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188429,52.744823
-Molenweg,18,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188721,52.744903
+Molenweg,18,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188845,52.744883
 Molenweg,19,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188533,52.744715
-Molenweg,20,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188773,52.744854
+Molenweg,20,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188881,52.744824
 Molenweg,22,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188889,52.744680
 Molenweg,23,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.188608,52.744472
 Molenweg,24,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.189211,52.744579
 Molenweg,25,,,1619ET,Andijk,Medemblik,Noord-Holland,VBO,5.189216,52.744402
 Molenweg,27,,,1619EV,Andijk,Medemblik,Noord-Holland,VBO,5.189306,52.744213
 Molenweg,30,,,1619EV,Andijk,Medemblik,Noord-Holland,VBO,5.186943,52.743848
-Molenweg,31,B,,1619EV,Andijk,Medemblik,Noord-Holland,VBO,5.190144,52.742764
 Molenweg,31,a,,1619EV,Andijk,Medemblik,Noord-Holland,VBO,5.189993,52.742875
+Molenweg,31,B,,1619EV,Andijk,Medemblik,Noord-Holland,VBO,5.190144,52.742764
 Molenweg,31,c,,1619EV,Andijk,Medemblik,Noord-Holland,VBO,5.190276,52.742534
 Molenweg,31,,,1619EV,Andijk,Medemblik,Noord-Holland,VBO,5.189618,52.743872
 Molenweg,32,,,1619EV,Andijk,Medemblik,Noord-Holland,VBO,5.190381,52.742247
@@ -2019,6 +2018,7 @@ Singerspad,22,,,1619GA,Andijk,Medemblik,Noord-Holland,VBO,5.187115,52.740713
 Singerspad,24,,,1619GA,Andijk,Medemblik,Noord-Holland,VBO,5.186818,52.740839
 Visserspad,1,,,1619GB,Andijk,Medemblik,Noord-Holland,VBO,5.185085,52.739925
 Visserspad,2,,,1619GB,Andijk,Medemblik,Noord-Holland,VBO,5.185116,52.740172
+Visserspad,3,,,1619GB,Andijk,Medemblik,Noord-Holland,VBO,5.185435,52.740228
 Visserspad,4,,,1619GB,Andijk,Medemblik,Noord-Holland,VBO,5.185400,52.739869
 Visserspad,5,,,1619GB,Andijk,Medemblik,Noord-Holland,VBO,5.186243,52.740223
 Visserspad,6,,,1619GB,Andijk,Medemblik,Noord-Holland,VBO,5.186292,52.739931
@@ -2374,6 +2374,7 @@ Dijkweg,263,,,1619JD,Andijk,Medemblik,Noord-Holland,VBO,5.202232,52.751549
 Dijkweg,265,,,1619JE,Andijk,Medemblik,Noord-Holland,VBO,5.201582,52.751260
 Dijkweg,266,,,1619JE,Andijk,Medemblik,Noord-Holland,VBO,5.201286,52.751098
 Dijkweg,267,,,1619JE,Andijk,Medemblik,Noord-Holland,VBO,5.201081,52.751064
+Dijkweg,268,A,,1619JE,Andijk,Medemblik,Noord-Holland,VBO,5.201137,52.751009
 Dijkweg,268,,,1619JE,Andijk,Medemblik,Noord-Holland,VBO,5.200916,52.750972
 Dijkweg,269,,,1619JE,Andijk,Medemblik,Noord-Holland,VBO,5.200948,52.750505
 Dijkweg,270,,,1619JE,Andijk,Medemblik,Noord-Holland,VBO,5.200444,52.750774
@@ -2582,6 +2583,8 @@ Nieuwe Haven,3,,,1619JW,Andijk,Medemblik,Noord-Holland,VBO,5.183887,52.745204
 Nieuwe Haven,4,,,1619JW,Andijk,Medemblik,Noord-Holland,VBO,5.183880,52.745300
 Nieuwe Haven,5,,,1619JW,Andijk,Medemblik,Noord-Holland,VBO,5.183589,52.745060
 Nieuwe Haven,6,,,1619JW,Andijk,Medemblik,Noord-Holland,VBO,5.183748,52.745267
+Nieuwe Haven,7,,,1619JW,Andijk,Medemblik,Noord-Holland,VBO,5.184959,52.746005
+Nieuwe Haven,8,,,1619JW,Andijk,Medemblik,Noord-Holland,VBO,5.184660,52.746189
 Sterappel,1,,,1619KA,Andijk,Medemblik,Noord-Holland,VBO,5.211581,52.745094
 Sterappel,2,,,1619KA,Andijk,Medemblik,Noord-Holland,VBO,5.211410,52.744729
 Sterappel,3,,,1619KA,Andijk,Medemblik,Noord-Holland,VBO,5.211673,52.745118
@@ -2695,6 +2698,75 @@ Goudreinet,18,,,1619KE,Andijk,Medemblik,Noord-Holland,VBO,5.211480,52.746636
 Goudreinet,20,,,1619KE,Andijk,Medemblik,Noord-Holland,VBO,5.211544,52.746650
 Goudreinet,22,,,1619KE,Andijk,Medemblik,Noord-Holland,VBO,5.211609,52.746664
 Goudreinet,24,,,1619KE,Andijk,Medemblik,Noord-Holland,VBO,5.211674,52.746680
+Pietersbuur,2,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210240,52.747476
+Pietersbuur,4,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210207,52.747523
+Pietersbuur,5,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209933,52.747240
+Pietersbuur,6,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210184,52.747569
+Pietersbuur,8,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210159,52.747617
+Pietersbuur,9,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209607,52.747416
+Pietersbuur,10,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210134,52.747665
+Pietersbuur,11,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209562,52.747471
+Pietersbuur,12,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210108,52.747713
+Pietersbuur,13,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209498,52.747612
+Pietersbuur,14,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210082,52.747761
+Pietersbuur,15,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209468,52.747659
+Pietersbuur,16,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210061,52.747860
+Pietersbuur,17,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209401,52.747803
+Pietersbuur,18,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210035,52.747909
+Pietersbuur,19,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209361,52.747857
+Pietersbuur,20,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.210009,52.747957
+Pietersbuur,21,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209287,52.747993
+Pietersbuur,22,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209984,52.748005
+Pietersbuur,23,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209262,52.748046
+Pietersbuur,24,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209958,52.748053
+Pietersbuur,25,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209200,52.748181
+Pietersbuur,26,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209933,52.748102
+Pietersbuur,27,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209162,52.748237
+Pietersbuur,28,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209856,52.748189
+Pietersbuur,29,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209094,52.748376
+Pietersbuur,30,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209830,52.748238
+Pietersbuur,31,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209060,52.748433
+Pietersbuur,32,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209805,52.748286
+Pietersbuur,34,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209779,52.748334
+Pietersbuur,36,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209754,52.748382
+Pietersbuur,38,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209729,52.748430
+Pietersbuur,40,,,1619KG,Andijk,Medemblik,Noord-Holland,VBO,5.209706,52.748481
+Nanne Jansz. Grootstraat,1,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210734,52.747639
+Nanne Jansz. Grootstraat,3,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210833,52.747658
+Nanne Jansz. Grootstraat,5,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210930,52.747677
+Nanne Jansz. Grootstraat,7,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211027,52.747697
+Nanne Jansz. Grootstraat,9,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211124,52.747716
+Nanne Jansz. Grootstraat,10,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211658,52.747847
+Nanne Jansz. Grootstraat,11,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211223,52.747734
+Nanne Jansz. Grootstraat,12,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211619,52.747908
+Nanne Jansz. Grootstraat,13,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211054,52.747981
+Nanne Jansz. Grootstraat,14,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211584,52.747970
+Nanne Jansz. Grootstraat,15,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210964,52.747965
+Nanne Jansz. Grootstraat,16,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211554,52.748030
+Nanne Jansz. Grootstraat,17,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210890,52.747951
+Nanne Jansz. Grootstraat,18,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211498,52.748157
+Nanne Jansz. Grootstraat,19,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210802,52.747962
+Nanne Jansz. Grootstraat,20,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211464,52.748220
+Nanne Jansz. Grootstraat,21,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210724,52.747953
+Nanne Jansz. Grootstraat,22,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211424,52.748277
+Nanne Jansz. Grootstraat,23,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210647,52.747934
+Nanne Jansz. Grootstraat,24,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211388,52.748343
+Nanne Jansz. Grootstraat,25,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210453,52.748171
+Nanne Jansz. Grootstraat,26,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211323,52.748463
+Nanne Jansz. Grootstraat,27,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210551,52.748190
+Nanne Jansz. Grootstraat,28,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211289,52.748523
+Nanne Jansz. Grootstraat,29,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210649,52.748209
+Nanne Jansz. Grootstraat,30,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211262,52.748584
+Nanne Jansz. Grootstraat,31,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210746,52.748228
+Nanne Jansz. Grootstraat,32,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.211227,52.748650
+Nanne Jansz. Grootstraat,33,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210843,52.748248
+Nanne Jansz. Grootstraat,35,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210950,52.748266
+Nanne Jansz. Grootstraat,37,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210766,52.748514
+Nanne Jansz. Grootstraat,39,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210686,52.748501
+Nanne Jansz. Grootstraat,41,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210603,52.748491
+Nanne Jansz. Grootstraat,43,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210515,52.748497
+Nanne Jansz. Grootstraat,45,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210436,52.748486
+Nanne Jansz. Grootstraat,47,,,1619KH,Andijk,Medemblik,Noord-Holland,VBO,5.210363,52.748465
 Veilingweg,2,a,,1619PA,Andijk,Medemblik,Noord-Holland,VBO,5.246679,52.739647
 Veilingweg,2,,,1619PA,Andijk,Medemblik,Noord-Holland,VBO,5.246625,52.740790
 Veilingweg,6,,,1619PA,Andijk,Medemblik,Noord-Holland,VBO,5.247540,52.729909
@@ -2806,7 +2878,6 @@ Veenakkers,12,,,1619PL,Andijk,Medemblik,Noord-Holland,VBO,5.191222,52.716418
 Veenakkers,14,,,1619PL,Andijk,Medemblik,Noord-Holland,VBO,5.187570,52.715126
 Veenakkers,16,,,1619PL,Andijk,Medemblik,Noord-Holland,VBO,5.185323,52.714710
 Veenakkers,18,,,1619PL,Andijk,Medemblik,Noord-Holland,VBO,5.184599,52.714660
-Veenakkers,11,,,1619PM,Andijk,Medemblik,Noord-Holland,VBO,5.191744,52.715550
 Veenakkers,13,,,1619PM,Andijk,Medemblik,Noord-Holland,VBO,5.189584,52.715213
 Hardegrondweg,1,A,,1619PN,Andijk,Medemblik,Noord-Holland,VBO,5.235482,52.741958
 Hardegrondweg,1,,,1619PN,Andijk,Medemblik,Noord-Holland,VBO,5.234846,52.742806
@@ -3322,7 +3393,6 @@ Beatrixstraat,17,,,1619XD,Andijk,Medemblik,Noord-Holland,VBO,5.220486,52.747469
 Sportlaan,1,a,,1619XE,Andijk,Medemblik,Noord-Holland,VBO,5.220121,52.747905
 Sportlaan,1,,,1619XE,Andijk,Medemblik,Noord-Holland,VBO,5.220715,52.748026
 Sportlaan,2,,,1619XE,Andijk,Medemblik,Noord-Holland,VBO,5.219865,52.747587
-Sportlaan,3,,,1619XE,Andijk,Medemblik,Noord-Holland,VBO,5.218917,52.747655
 Sportlaan,4,,,1619XE,Andijk,Medemblik,Noord-Holland,VBO,5.219952,52.747599
 Sportlaan,6,,,1619XE,Andijk,Medemblik,Noord-Holland,VBO,5.220038,52.747611
 Sportlaan,8,,,1619XE,Andijk,Medemblik,Noord-Holland,VBO,5.220130,52.747622

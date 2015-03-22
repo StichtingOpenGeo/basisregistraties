@@ -29,8 +29,6 @@ Broekstraat,21,,,7382AB,Klarenbeek,Voorst,Gelderland,VBO,6.061625,52.184025
 Broekstraat,22,A,,7382AB,Klarenbeek,Voorst,Gelderland,VBO,6.060499,52.184115
 Broekstraat,22,,,7382AB,Klarenbeek,Voorst,Gelderland,VBO,6.060584,52.184151
 Bruggekampsweg,1,,,7382AB,Klarenbeek,Voorst,Gelderland,VBO,6.067831,52.191044
-Broekstraat,25,A,,7382AC,Klarenbeek,Voorst,Gelderland,VBO,6.062923,52.178055
-Broekstraat,25,B,,7382AC,Klarenbeek,Voorst,Gelderland,VBO,6.063559,52.178673
 Broekstraat,25,,,7382AC,Klarenbeek,Voorst,Gelderland,VBO,6.063356,52.178052
 Broekstraat,26,,,7382AC,Klarenbeek,Voorst,Gelderland,VBO,6.057289,52.181141
 Broekstraat,27,,,7382AC,Klarenbeek,Voorst,Gelderland,VBO,6.064098,52.176591
@@ -119,7 +117,7 @@ Zutphenseweg,35,,,7382AK,Klarenbeek,Voorst,Gelderland,VBO,6.075893,52.192792
 Zutphenseweg,39,T,,7382AK,Klarenbeek,Voorst,Gelderland,VBO,6.078707,52.192079
 Zutphenseweg,41,,,7382AK,Klarenbeek,Voorst,Gelderland,VBO,6.079670,52.191932
 Zutphenseweg,45,,,7382AK,Klarenbeek,Voorst,Gelderland,VBO,6.084814,52.191715
-Zutphenseweg,47,,,7382AK,Klarenbeek,Voorst,Gelderland,VBO,6.087136,52.190004
+Zutphenseweg,47,S,,7382AK,Klarenbeek,Voorst,Gelderland,VBO,6.087136,52.190004
 Broekstraat,1,,,7382AL,Klarenbeek,Voorst,Gelderland,VBO,6.064897,52.194542
 Zutphenseweg,2,,,7382AL,Klarenbeek,Voorst,Gelderland,VBO,6.059079,52.195917
 Zutphenseweg,4,A,,7382AL,Klarenbeek,Voorst,Gelderland,VBO,6.060112,52.195341
@@ -146,6 +144,7 @@ Zutphenseweg,42,,,7382AM,Klarenbeek,Voorst,Gelderland,VBO,6.090423,52.188727
 Zutphenseweg,44,,,7382AM,Klarenbeek,Voorst,Gelderland,VBO,6.091116,52.188658
 Zutphenseweg,46,,,7382AM,Klarenbeek,Voorst,Gelderland,VBO,6.092075,52.188417
 Zutphenseweg,48,,,7382AM,Klarenbeek,Voorst,Gelderland,VBO,6.092273,52.188434
+Zutphenseweg,50,A,,7382AM,Klarenbeek,Voorst,Gelderland,VBO,6.102248,52.186836
 Zutphenseweg,50,,,7382AM,Klarenbeek,Voorst,Gelderland,VBO,6.102222,52.186779
 Bruggekampsweg,2,,,7382AN,Klarenbeek,Voorst,Gelderland,VBO,6.072291,52.190738
 Goorweg,1,,,7382AN,Klarenbeek,Voorst,Gelderland,VBO,6.074732,52.191830
@@ -231,8 +230,8 @@ Molenweg,11,,,7382BE,Klarenbeek,Voorst,Gelderland,VBO,6.069161,52.168360
 Molenweg,13,,,7382BE,Klarenbeek,Voorst,Gelderland,VBO,6.069188,52.168315
 Molenweg,15,,,7382BE,Klarenbeek,Voorst,Gelderland,VBO,6.069212,52.168276
 Molenweg,17,,,7382BE,Klarenbeek,Voorst,Gelderland,VBO,6.069257,52.168240
-Hoofdweg,61,,,7382BG,Klarenbeek,Voorst,Gelderland,VBO,6.065675,52.168412
 Hoofdweg,61,,,7382BG,Klarenbeek,Voorst,Gelderland,VBO,6.065621,52.168402
+Hoofdweg,61,,,7382BG,Klarenbeek,Voorst,Gelderland,VBO,6.065675,52.168412
 Hoofdweg,63,,,7382BG,Klarenbeek,Voorst,Gelderland,VBO,6.065437,52.168293
 Hoofdweg,65,A,,7382BG,Klarenbeek,Voorst,Gelderland,VBO,6.065471,52.167991
 Hoofdweg,65,,,7382BG,Klarenbeek,Voorst,Gelderland,VBO,6.065220,52.168201
@@ -298,6 +297,7 @@ Hoofdweg,88,,,7382BK,Klarenbeek,Voorst,Gelderland,VBO,6.065909,52.169261
 Landweg,3,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.101171,52.174371
 Landweg,4,A,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.096029,52.174925
 Landweg,4,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.095910,52.174866
+Landweg,5,A,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.099139,52.174188
 Landweg,5,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.099389,52.174011
 Landweg,9,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.087351,52.173436
 Landweg,10,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.092519,52.174521
@@ -305,15 +305,18 @@ Landweg,11,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.081115,52.171784
 Landweg,13,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.081446,52.172158
 Landweg,15,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.083249,52.171391
 Landweg,17,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.082545,52.171407
-Landweg,19,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.075839,52.170441
+Landweg,19,A,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.075919,52.170555
+Landweg,19,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.075804,52.170490
 Landweg,20,,,7382BL,Klarenbeek,Voorst,Gelderland,VBO,6.074723,52.171693
 J.R. Krepellaan,2,A,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.073343,52.168581
 J.R. Krepellaan,2,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.073475,52.168637
 J.R. Krepellaan,3,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.075305,52.166877
 J.R. Krepellaan,4,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.072456,52.165669
-J.R. Krepellaan,5,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.075282,52.168398
+J.R. Krepellaan,5,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.076038,52.167009
 J.R. Krepellaan,6,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.075637,52.166143
+J.R. Krepellaan,7,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.075519,52.166883
 J.R. Krepellaan,8,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.075521,52.166083
+J.R. Krepellaan,9,,,7382BM,Klarenbeek,Voorst,Gelderland,VBO,6.075782,52.166564
 Kerkweg,2,,,7382BN,Klarenbeek,Voorst,Gelderland,VBO,6.074464,52.169069
 Kerkweg,4,A,,7382BN,Klarenbeek,Voorst,Gelderland,VBO,6.074336,52.168938
 Kerkweg,4,,,7382BN,Klarenbeek,Voorst,Gelderland,VBO,6.074262,52.168923
@@ -360,11 +363,11 @@ Oudhuizerstraat,33,B,,7382BS,Klarenbeek,Voorst,Gelderland,VBO,6.080031,52.162772
 Oudhuizerstraat,33,,,7382BS,Klarenbeek,Voorst,Gelderland,VBO,6.082275,52.163628
 Oudhuizerstraat,35,,,7382BS,Klarenbeek,Voorst,Gelderland,VBO,6.079415,52.163045
 Oudhuizerstraat,37,,,7382BS,Klarenbeek,Voorst,Gelderland,VBO,6.079119,52.162961
-Kopermolenweg,15,,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.080158,52.166065
 Kopermolenweg,17,,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.078128,52.162702
 Kopermolenweg,21,,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.079978,52.159610
 Kopermolenweg,23,,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.079343,52.159238
 Kopermolenweg,25,,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.078559,52.158171
+Oudhuizerstraat,34,A,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.072489,52.161772
 Oudhuizerstraat,34,,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.072901,52.161683
 Oudhuizerstraat,36,A,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.071815,52.161518
 Oudhuizerstraat,36,,,7382BT,Klarenbeek,Voorst,Gelderland,VBO,6.071763,52.161544
@@ -497,9 +500,9 @@ Bosweg,8,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.066106,52.167895
 Bosweg,9,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.066734,52.167661
 Bosweg,10,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.066162,52.167841
 Bosweg,11,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.066802,52.167553
-Bosweg,12,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.066137,52.167773
+Bosweg,12,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.065478,52.167584
 Bosweg,13,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.066847,52.167450
-Bosweg,14,S,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.066120,52.167752
+Bosweg,14,S,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.065504,52.167612
 Bosweg,14,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.065154,52.167345
 Bosweg,15,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.066883,52.167388
 Bosweg,16,,,7382CC,Klarenbeek,Voorst,Gelderland,VBO,6.067276,52.166859
@@ -620,7 +623,6 @@ Clabanusweg,24,,,7382DB,Klarenbeek,Voorst,Gelderland,VBO,6.074419,52.148782
 Hallseweg,2,,,7382RA,Klarenbeek,Voorst,Gelderland,VBO,6.088781,52.151760
 Hallseweg,4,,,7382RA,Klarenbeek,Voorst,Gelderland,VBO,6.089370,52.150654
 Hallseweg,5,,,7382RA,Klarenbeek,Voorst,Gelderland,VBO,6.091084,52.149854
-Hallseweg,6,S,,7382RA,Klarenbeek,Voorst,Gelderland,VBO,6.089520,52.150494
 Hallseweg,6,,,7382RA,Klarenbeek,Voorst,Gelderland,VBO,6.089516,52.150525
 Oude Zutphenseweg,1,,,7382SB,Klarenbeek,Voorst,Gelderland,VBO,6.074330,52.196994
 Oude Zutphenseweg,2,A,,7382SB,Klarenbeek,Voorst,Gelderland,VBO,6.074060,52.196661

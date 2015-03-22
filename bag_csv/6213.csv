@@ -240,7 +240,6 @@ Cannerweg,105,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677993,50.841638
 Cannerweg,111,A,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677786,50.841493
 Cannerweg,111,B,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677786,50.841493
 Cannerweg,111,C,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677786,50.841493
-Cannerweg,111,D,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677786,50.841493
 Cannerweg,111,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677786,50.841493
 Cannerweg,115,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677717,50.841446
 Cannerweg,117,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677664,50.841409
@@ -251,7 +250,6 @@ Cannerweg,125,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677367,50.841269
 Cannerweg,127,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677324,50.841232
 Cannerweg,129,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677272,50.841196
 Cannerweg,131,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677173,50.841123
-Cannerweg,135,A,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677076,50.840989
 Cannerweg,135,B,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677076,50.840989
 Cannerweg,135,C,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677076,50.840989
 Cannerweg,135,,,6213BA,Maastricht,Maastricht,Limburg,VBO,5.677076,50.840989
@@ -647,8 +645,11 @@ d'Artagnanlaan,40,,,6213CK,Maastricht,Maastricht,Limburg,VBO,5.673166,50.841518
 d'Artagnanlaan,42,,,6213CK,Maastricht,Maastricht,Limburg,VBO,5.673051,50.841382
 d'Artagnanlaan,44,,,6213CK,Maastricht,Maastricht,Limburg,VBO,5.672982,50.841349
 d'Artagnanlaan,46,,,6213CK,Maastricht,Maastricht,Limburg,VBO,5.672904,50.841195
-Theresiagang,14,,,6213CL,Maastricht,Maastricht,Limburg,VBO,5.677330,50.841883
-Theresiagang,16,,,6213CL,Maastricht,Maastricht,Limburg,VBO,5.677471,50.841771
+Theresiagang,14,G,01,6213CL,Maastricht,Maastricht,Limburg,VBO,5.677363,50.841846
+Theresiagang,14,G,02,6213CL,Maastricht,Maastricht,Limburg,VBO,5.677355,50.841804
+Theresiagang,14,G,03,6213CL,Maastricht,Maastricht,Limburg,VBO,5.677387,50.841774
+Theresiagang,14,G,04,6213CL,Maastricht,Maastricht,Limburg,VBO,5.677421,50.841745
+Theresiagang,14,G,05,6213CL,Maastricht,Maastricht,Limburg,VBO,5.677457,50.841717
 Porthoslaan,21,,,6213CN,Maastricht,Maastricht,Limburg,VBO,5.672147,50.840332
 Porthoslaan,23,,,6213CN,Maastricht,Maastricht,Limburg,VBO,5.672047,50.840293
 Porthoslaan,25,,,6213CN,Maastricht,Maastricht,Limburg,VBO,5.671795,50.840165
@@ -795,7 +796,6 @@ Médoclaan,26,A,,6213EA,Maastricht,Maastricht,Limburg,VBO,5.666003,50.839239
 Médoclaan,26,B,,6213EA,Maastricht,Maastricht,Limburg,VBO,5.666003,50.839239
 Médoclaan,28,A,,6213EA,Maastricht,Maastricht,Limburg,VBO,5.665901,50.839197
 Médoclaan,28,B,,6213EA,Maastricht,Maastricht,Limburg,VBO,5.665901,50.839197
-1 juli-weg,30,G,05,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665748,50.839064
 Médoclaan,30,A,,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665463,50.838572
 Médoclaan,30,B,,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665463,50.838572
 Médoclaan,30,C,,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665463,50.838572
@@ -804,6 +804,7 @@ Médoclaan,30,G,01,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665663,50.839148
 Médoclaan,30,G,02,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665685,50.839127
 Médoclaan,30,G,03,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665708,50.839105
 Médoclaan,30,G,04,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665730,50.839084
+Médoclaan,30,G,05,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665748,50.839064
 Médoclaan,30,G,06,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665839,50.838975
 Médoclaan,32,A,,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665463,50.838572
 Médoclaan,32,B,,6213EB,Maastricht,Maastricht,Limburg,VBO,5.665463,50.838572
@@ -927,6 +928,7 @@ Médoclaan,110,B,,6213EE,Maastricht,Maastricht,Limburg,VBO,5.664872,50.838382
 Médoclaan,110,C,,6213EE,Maastricht,Maastricht,Limburg,VBO,5.664873,50.838381
 Médoclaan,110,D,,6213EE,Maastricht,Maastricht,Limburg,VBO,5.664873,50.838381
 Médoclaan,110,E,,6213EE,Maastricht,Maastricht,Limburg,VBO,5.664863,50.838382
+Médoclaan,112,B,,6213EE,Maastricht,Maastricht,Limburg,VBO,5.664869,50.838376
 Médoclaan,112,C,,6213EE,Maastricht,Maastricht,Limburg,VBO,5.664869,50.838384
 Médoclaan,112,D,,6213EE,Maastricht,Maastricht,Limburg,VBO,5.664873,50.838381
 Médoclaan,112,E,,6213EE,Maastricht,Maastricht,Limburg,VBO,5.664872,50.838380
@@ -1386,13 +1388,13 @@ Tongerseweg,243,A,,6213GC,Maastricht,Maastricht,Limburg,VBO,5.659037,50.837341
 Tongerseweg,243,,,6213GC,Maastricht,Maastricht,Limburg,VBO,5.659150,50.837426
 Tongerseweg,245,,,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658954,50.837298
 Tongerseweg,247,,,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658838,50.837237
-Tongerseweg,251,A,01,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658404,50.837127
-Tongerseweg,251,A,02,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658404,50.837127
-Tongerseweg,251,A,03,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658404,50.837127
-Tongerseweg,251,A,04,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658404,50.837127
-Tongerseweg,251,A,05,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658404,50.837127
-Tongerseweg,251,A,06,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658404,50.837127
-Tongerseweg,251,A,07,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658404,50.837127
+Tongerseweg,251,A,01,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658552,50.837187
+Tongerseweg,251,A,02,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658552,50.837187
+Tongerseweg,251,A,03,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658552,50.837187
+Tongerseweg,251,A,04,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658552,50.837187
+Tongerseweg,251,A,05,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658552,50.837187
+Tongerseweg,251,A,06,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658552,50.837187
+Tongerseweg,251,A,07,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658552,50.837187
 Tongerseweg,251,A,,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658404,50.837127
 Tongerseweg,251,,,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658552,50.837187
 Tongerseweg,253,,,6213GC,Maastricht,Maastricht,Limburg,VBO,5.658282,50.837078
@@ -2270,8 +2272,7 @@ Cannerweg,682,,,6213NC,Maastricht,Maastricht,Limburg,VBO,5.667564,50.824692
 Cannerweg,684,,,6213ND,Maastricht,Maastricht,Limburg,VBO,5.667495,50.824570
 Cannerweg,688,,,6213ND,Maastricht,Maastricht,Limburg,VBO,5.667483,50.824427
 Cannerweg,798,,,6213ND,Maastricht,Maastricht,Limburg,VBO,5.665315,50.820835
-Cannerweg,800,A,,6213ND,Maastricht,Maastricht,Limburg,VBO,5.667334,50.818711
-Cannerweg,800,B,,6213ND,Maastricht,Maastricht,Limburg,VBO,5.667334,50.818711
+Cannerweg,800,A,,6213ND,Maastricht,Maastricht,Limburg,VBO,5.667258,50.818216
 Cannerweg,800,,,6213ND,Maastricht,Maastricht,Limburg,VBO,5.667334,50.818711
 Susserweg,1,,,6213NE,Maastricht,Maastricht,Limburg,VBO,5.671987,50.837192
 Susserweg,2,A,,6213NE,Maastricht,Maastricht,Limburg,VBO,5.671548,50.837130

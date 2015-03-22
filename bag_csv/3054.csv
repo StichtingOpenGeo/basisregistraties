@@ -203,7 +203,6 @@ Bergse Plaslaan,11,,,3054AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.490447,51.950
 Bergse Plaslaan,12,,,3054AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.490306,51.950776
 Bergse Plaslaan,13,,,3054AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.490627,51.950807
 Bergse Plaslaan,14,,,3054AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.490440,51.950693
-Bergse Plaslaan,14,,,3054AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.490437,51.950739
 Bergse Plaslaan,15,,,3054AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.490846,51.950739
 Bergse Plaslaan,16,,,3054AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.490633,51.950637
 Korteweg,2,,,3054AS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.486762,51.947957
@@ -1329,7 +1328,8 @@ Bergse Dorpsstraat,22,B,02,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494120,
 Bergse Dorpsstraat,24,A,,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494152,51.955807
 Bergse Dorpsstraat,24,B,01,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494152,51.955807
 Bergse Dorpsstraat,24,B,02,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494152,51.955807
-Bergse Dorpsstraat,26,A,,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494172,51.955853
+Bergse Dorpsstraat,26,A,01,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494172,51.955853
+Bergse Dorpsstraat,26,A,02,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494172,51.955853
 Bergse Dorpsstraat,26,B,,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494172,51.955853
 Bergse Dorpsstraat,28,A,,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494182,51.955902
 Bergse Dorpsstraat,28,B,01,3054GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494182,51.955902
@@ -1993,7 +1993,6 @@ Nieuwe Kerkstraat,6,,,3054NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493185,51.95
 Nieuwe Kerkstraat,8,,,3054NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493117,51.957391
 Nieuwe Kerkstraat,10,,,3054NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.493041,51.957409
 Nieuwe Kerkstraat,12,A,,3054NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.492957,51.957428
-Nieuwe Kerkstraat,12,B,,3054NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.492957,51.957428
 Nieuwe Kerkstraat,14,,,3054NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.492878,51.957447
 Nieuwe Kerkstraat,16,,,3054NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.492802,51.957465
 Nieuwe Kerkstraat,18,,,3054NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.492718,51.957486
@@ -3529,8 +3528,76 @@ Apollostraat,70,,,3054TA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491132,51.962695
 Apollostraat,72,,,3054TA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491131,51.962742
 Apollostraat,74,,,3054TA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491130,51.962793
 Apollostraat,76,,,3054TA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491129,51.962842
-Apollostraat,161,,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,161,,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.490885,51.963987
 Apollostraat,163,,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,163,,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,207,,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,213,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,213,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,213,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,217,,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,225,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,225,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,225,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,227,,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,235,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,235,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,235,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,235,D,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,237,,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,245,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,245,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,245,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,245,D,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,245,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,245,F,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,245,G,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,245,K,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,245,M,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,255,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,255,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,255,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,255,D,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,255,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,255,F,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,255,G,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,255,H,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,255,J,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,255,K,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,265,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,265,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,265,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,265,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,265,F,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,275,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,275,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,275,D,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,275,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491227,51.964455
+Apollostraat,275,F,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491222,51.964455
+Apollostraat,285,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,285,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,285,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,285,D,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,285,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,285,F,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,287,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,287,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,287,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,287,D,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,287,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,287,F,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,289,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,289,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,289,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,289,D,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,289,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,289,F,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,291,A,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,291,B,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,291,C,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,291,D,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,291,E,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
+Apollostraat,291,F,,3054TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491223,51.964501
 Apollostraat,301,,,3054TC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491957,51.964234
 Apollostraat,303,,,3054TC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491957,51.964234
 Apollostraat,305,,,3054TC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.491957,51.964234
@@ -4090,7 +4157,6 @@ Grindweg,29,,,3054VH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494919,51.960897
 Grindweg,31,,,3054VH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494958,51.961028
 Grindweg,33,,,3054VH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.494995,51.961156
 Grindweg,35,,,3054VH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.495009,51.961309
-Grindweg,41,,,3054VH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.495165,51.961494
 Grindweg,47,,,3054VH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.495193,51.961647
 Grindweg,51,,,3054VH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.495224,51.961764
 Grindweg,55,,,3054VH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.495247,51.961860

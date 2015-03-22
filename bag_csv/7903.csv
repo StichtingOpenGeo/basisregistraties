@@ -37,6 +37,7 @@ Voltastraat,28,,,7903AB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.493501,52.736612
 Voltastraat,30,,,7903AB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494773,52.736546
 Voltastraat,32,,,7903AB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495765,52.736519
 Voltastraat,34,,,7903AB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496633,52.736897
+Voltastraat,40,a,,7903AB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497706,52.737183
 Voltastraat,40,,,7903AB,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498100,52.737531
 Franklinstraat,1,a,,7903AC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.483443,52.732274
 Franklinstraat,1,b,,7903AC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.483445,52.732364
@@ -126,7 +127,6 @@ Galvanistraat,9,,,7903AE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.488309,52.737388
 Galvanistraat,10,,,7903AE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.488450,52.737099
 Galvanistraat,11,,,7903AE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.488681,52.737457
 Marconistraat,1,a,,7903AG,Hoogeveen,Hoogeveen,Drenthe,VBO,6.491778,52.732278
-Marconistraat,2,a,,7903AG,Hoogeveen,Hoogeveen,Drenthe,VBO,6.492488,52.732998
 Marconistraat,2,,,7903AG,Hoogeveen,Hoogeveen,Drenthe,VBO,6.492762,52.732547
 Marconistraat,3,a,,7903AG,Hoogeveen,Hoogeveen,Drenthe,VBO,6.491974,52.732977
 Marconistraat,3,,,7903AG,Hoogeveen,Hoogeveen,Drenthe,VBO,6.492144,52.732706
@@ -169,7 +169,6 @@ Industrieweg,25,b,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.484137,52.732771
 Industrieweg,25,c,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.484270,52.732815
 Industrieweg,25,d,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.484405,52.732819
 Industrieweg,25,e,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.484158,52.732098
-Industrieweg,25,f,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.484449,52.732112
 Industrieweg,27,a,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.484927,52.732170
 Industrieweg,27,,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.484691,52.732135
 Industrieweg,31,,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.486676,52.731912
@@ -177,8 +176,8 @@ Industrieweg,35,a,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.490655,52.731887
 Industrieweg,35,c,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.489947,52.731855
 Industrieweg,35,,,7903AH,Hoogeveen,Hoogeveen,Drenthe,VBO,6.491102,52.731941
 Industrieweg,39,,,7903AJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.493390,52.731742
-Industrieweg,41,T,,7903AJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494722,52.731663
 Industrieweg,41,a,,7903AJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494428,52.731687
+Industrieweg,41,T,,7903AJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494722,52.731663
 Industrieweg,41,,,7903AJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.493625,52.731737
 Industrieweg,43,,,7903AJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495241,52.731635
 Industrieweg,45,a,,7903AJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496654,52.731891
@@ -209,6 +208,7 @@ Industrieweg,80,,,7903AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494581,52.731272
 Industrieweg,82,,,7903AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495468,52.731237
 Industrieweg,84,,,7903AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495794,52.731225
 Industrieweg,86,a,,7903AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496502,52.731138
+Industrieweg,86,b,,7903AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496564,52.731135
 Industrieweg,86,,,7903AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496208,52.731212
 Industrieweg,88,,,7903AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497051,52.731168
 Industrieweg,90,,,7903AK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497480,52.731155
@@ -251,6 +251,22 @@ Dr Anton Philipsstraat,31,,,7903AL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.501703,52.7
 Dr Anton Philipsstraat,10,a,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.491232,52.730000
 Dr Anton Philipsstraat,10,,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.491218,52.730027
 Dr Anton Philipsstraat,12,,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.491778,52.729905
+Dr Anton Philipsstraat,32,a,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495791,52.729853
+Dr Anton Philipsstraat,32,b,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495778,52.729806
+Dr Anton Philipsstraat,32,c,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495769,52.729754
+Dr Anton Philipsstraat,32,d,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495760,52.729711
+Dr Anton Philipsstraat,32,e,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495774,52.729668
+Dr Anton Philipsstraat,32,f,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495706,52.729584
+Dr Anton Philipsstraat,32,g,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495692,52.729484
+Dr Anton Philipsstraat,32,h,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495677,52.729387
+Dr Anton Philipsstraat,32,k,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495667,52.729297
+Dr Anton Philipsstraat,32,m,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495662,52.729238
+Dr Anton Philipsstraat,32,n,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495643,52.729108
+Dr Anton Philipsstraat,32,p,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495629,52.729011
+Dr Anton Philipsstraat,32,q,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495619,52.728947
+Dr Anton Philipsstraat,32,r,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495660,52.728868
+Dr Anton Philipsstraat,32,s,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495658,52.728780
+Dr Anton Philipsstraat,32,t,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495653,52.728719
 Dr Anton Philipsstraat,34,,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495913,52.729489
 Dr Anton Philipsstraat,36,,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497150,52.729828
 Dr Anton Philipsstraat,40,a,,7903AM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497755,52.729765
@@ -274,6 +290,7 @@ Edisonstraat,8,,,7903AN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.502900,52.735293
 Edisonstraat,10,,,7903AN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503100,52.734994
 Edisonstraat,12,,,7903AN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503357,52.734633
 Edisonstraat,14,,,7903AN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503541,52.734307
+Edisonstraat,16,a,,7903AN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503621,52.732926
 Edisonstraat,16,,,7903AN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503644,52.733129
 Edisonstraat,18,,,7903AN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503584,52.732518
 Edisonstraat,20,,,7903AN,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503200,52.731947
@@ -286,7 +303,7 @@ Fokkerstraat,4,,,7903AP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.510664,52.736649
 Fokkerstraat,6,,,7903AP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.511734,52.736792
 Fokkerstraat,16,,,7903AP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.514456,52.737296
 Fokkerstraat,24,,,7903AP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.518535,52.738713
-Dieselstraat,1,,,7903AR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498568,52.736115
+Dieselstraat,1,,,7903AR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498596,52.736093
 Dieselstraat,3,,,7903AR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.499758,52.735161
 Dieselstraat,5,,,7903AR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.501423,52.734264
 Dieselstraat,16,,,7903AR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.500049,52.734403
@@ -311,6 +328,7 @@ Stephensonstraat,21,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.511572,52.729351
 Stephensonstraat,23,a,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512112,52.729617
 Stephensonstraat,23,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512231,52.729633
 Stephensonstraat,25,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512251,52.729839
+Stephensonstraat,27,a,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512252,52.730142
 Stephensonstraat,27,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512272,52.730073
 Stephensonstraat,31,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.513047,52.729688
 Stephensonstraat,33,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512754,52.729250
@@ -319,7 +337,8 @@ Stephensonstraat,37,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.514100,52.729193
 Stephensonstraat,39,a,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.514575,52.729224
 Stephensonstraat,39,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.514840,52.729186
 Stephensonstraat,41,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.515425,52.729468
-Stephensonstraat,43,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.515845,52.729122
+Stephensonstraat,43,a,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.515883,52.729133
+Stephensonstraat,43,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.516068,52.729341
 Stephensonstraat,45,b,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.516952,52.729086
 Stephensonstraat,45,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.516665,52.729093
 Stephensonstraat,47,,,7903AS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.516743,52.729509
@@ -374,6 +393,7 @@ Stephensonstraat,12,b,,7903AV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512642,52.728859
 Stephensonstraat,12,,,7903AV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512151,52.728816
 Stephensonstraat,20,,,7903AV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.514447,52.728784
 Stephensonstraat,24,,,7903AV,Hoogeveen,Hoogeveen,Drenthe,VBO,6.516426,52.728703
+Stephensonstraat,52,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.519621,52.728565
 Stephensonstraat,66,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.523141,52.728442
 Stephensonstraat,68,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.523490,52.727620
 Stephensonstraat,70,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.524115,52.728342
@@ -390,8 +410,10 @@ Stephensonstraat,88,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.528577,52.728169
 Stephensonstraat,90,a,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.528297,52.727449
 Stephensonstraat,90,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.528032,52.727514
 Stephensonstraat,92,a,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.528283,52.727792
+Stephensonstraat,92,b,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.528618,52.727783
 Stephensonstraat,92,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.528580,52.727536
-Stephensonstraat,94,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.529111,52.728007
+Stephensonstraat,94,a,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.529021,52.727816
+Stephensonstraat,94,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.529040,52.728012
 Stephensonstraat,96,a,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.530133,52.728042
 Stephensonstraat,96,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.529810,52.728153
 Stephensonstraat,98,,,7903AW,Hoogeveen,Hoogeveen,Drenthe,VBO,6.530594,52.728137
@@ -416,8 +438,8 @@ Smirnoffstraat,6,c,,7903AX,Hoogeveen,Hoogeveen,Drenthe,VBO,6.520383,52.737891
 Smirnoffstraat,8,,,7903AX,Hoogeveen,Hoogeveen,Drenthe,VBO,6.520312,52.738139
 Smirnoffstraat,12,,,7903AX,Hoogeveen,Hoogeveen,Drenthe,VBO,6.520064,52.738843
 Smirnoffstraat,14,,,7903AX,Hoogeveen,Hoogeveen,Drenthe,VBO,6.519798,52.739438
-Siemensstraat,2,T,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503689,52.733519
 Siemensstraat,2,a,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.502883,52.733637
+Siemensstraat,2,T,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503689,52.733519
 Siemensstraat,2,,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.503273,52.733672
 Siemensstraat,4,,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.502028,52.733593
 Siemensstraat,6,,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.501140,52.733629
@@ -425,7 +447,6 @@ Siemensstraat,8,,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.500356,52.733645
 Siemensstraat,10,,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.499766,52.733731
 Siemensstraat,14,,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.499128,52.733701
 Siemensstraat,16,,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498596,52.733715
-Siemensstraat,18,,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498031,52.733640
 Smirnoffstraat,1,a,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.520093,52.737099
 Smirnoffstraat,1,b,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.520079,52.737153
 Smirnoffstraat,1,c,,7903AZ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.520066,52.737207
@@ -498,12 +519,14 @@ de Lavalstraat,8,,,7903BC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496842,52.735790
 de Lavalstraat,9,,,7903BC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497348,52.735902
 de Lavalstraat,10,,,7903BC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497045,52.735617
 de Lavalstraat,11,,,7903BC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497638,52.735675
+de Lavalstraat,12,,,7903BC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497315,52.735364
 de Lavalstraat,13,a,,7903BC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498203,52.735732
 de Lavalstraat,13,,,7903BC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497725,52.735602
 de Lavalstraat,15,,,7903BC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498192,52.735328
 Weberstraat,3,,,7903BD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494687,52.736053
 Weberstraat,5,,,7903BD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495198,52.735760
 Weberstraat,6,,,7903BD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494454,52.735650
+Weberstraat,7,,,7903BD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495502,52.735438
 Weberstraat,16,,,7903BD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494897,52.735017
 Weberstraat,20,,,7903BD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495414,52.734365
 Plesmanstraat,2,,,7903BE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.518894,52.731951
@@ -576,7 +599,8 @@ Pascalstraat,5,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.511957,52.728170
 Pascalstraat,6,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.510896,52.728387
 Pascalstraat,7,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512355,52.728131
 Pascalstraat,8,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.510817,52.728163
-Pascalstraat,9,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512902,52.728099
+Pascalstraat,9,a,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512902,52.728099
+Pascalstraat,9,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512961,52.728306
 Pascalstraat,10,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.513374,52.728013
 Pascalstraat,11,a,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512926,52.728791
 Pascalstraat,11,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.512841,52.728593
@@ -585,6 +609,7 @@ Pascalstraat,16,,,7903BJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.513451,52.728722
 Morsestraat,1,T,,7903BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498489,52.734793
 Morsestraat,1,,,7903BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.499041,52.734925
 Morsestraat,3,,,7903BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.499064,52.734673
+Morsestraat,5,a,,7903BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498233,52.734338
 Morsestraat,5,,,7903BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497875,52.734486
 Morsestraat,9,,,7903BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497426,52.734302
 Morsestraat,11,,,7903BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496681,52.734129
@@ -592,7 +617,7 @@ Morsestraat,13,,,7903BK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496054,52.733901
 Morsestraat,2,a,,7903BL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498512,52.735073
 Morsestraat,2,b,,7903BL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498706,52.735161
 Morsestraat,2,c,,7903BL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498856,52.735223
-Morsestraat,4,,,7903BL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497869,52.734837
+Morsestraat,4,,,7903BL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497909,52.734857
 Morsestraat,6,,,7903BL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497378,52.734742
 Morsestraat,8,,,7903BL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497197,52.734600
 Morsestraat,10,,,7903BL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495465,52.734041
@@ -603,10 +628,10 @@ Lindberghstraat,5,a,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.522232,52.732773
 Lindberghstraat,5,,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.521713,52.732742
 Lindberghstraat,7,,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.522499,52.732825
 Lindberghstraat,9,,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.522942,52.732767
-Lindberghstraat,11,,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.523312,52.732772
+Lindberghstraat,11,a,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.523393,52.733094
+Lindberghstraat,11,,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.523348,52.732772
 Lindberghstraat,13,,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.523760,52.732912
 Lindberghstraat,15,,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.524204,52.732889
-Lindberghstraat,19,a,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.524474,52.732982
 Lindberghstraat,19,b,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.524484,52.733071
 Lindberghstraat,19,c,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.524486,52.733158
 Lindberghstraat,19,d,,7903BM,Hoogeveen,Hoogeveen,Drenthe,VBO,6.524937,52.733095
@@ -685,15 +710,6 @@ Zeppelinstraat,8,,,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532962,52.730343
 Zeppelinstraat,10,,,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.531663,52.729942
 Zeppelinstraat,12,,,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532753,52.729176
 Zeppelinstraat,14,,,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532732,52.728925
-Zeppelinstraat,17,,1,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533285,52.731528
-Zeppelinstraat,17,,2,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533437,52.731561
-Zeppelinstraat,17,,3,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533569,52.731593
-Zeppelinstraat,17,,4,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533705,52.731627
-Zeppelinstraat,17,,5,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.534045,52.731615
-Zeppelinstraat,17,,6,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533837,52.731445
-Zeppelinstraat,17,,7,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533695,52.731413
-Zeppelinstraat,17,,8,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533559,52.731374
-Zeppelinstraat,17,,9,7903BP,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533421,52.731340
 Plesmanstraat,8,T,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.518969,52.732299
 Zeppelinstraat,1,T,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.529410,52.732201
 Zeppelinstraat,1,,01,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.529832,52.732395
@@ -791,7 +807,6 @@ Zeppelinstraat,5,a,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532056,52.733093
 Zeppelinstraat,5,b,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532204,52.733082
 Zeppelinstraat,5,,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.531811,52.732789
 Zeppelinstraat,7,,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532592,52.732638
-Zeppelinstraat,9,,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533224,52.732461
 Zeppelinstraat,11,a,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532778,52.732376
 Zeppelinstraat,11,b,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532792,52.732358
 Zeppelinstraat,11,c,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532792,52.732349
@@ -804,6 +819,15 @@ Zeppelinstraat,11,i,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532849,52.732267
 Zeppelinstraat,11,j,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532863,52.732258
 Zeppelinstraat,13,,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.532829,52.732061
 Zeppelinstraat,15,,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533070,52.731774
+Zeppelinstraat,17,,1,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533285,52.731528
+Zeppelinstraat,17,,2,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533437,52.731561
+Zeppelinstraat,17,,3,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533569,52.731593
+Zeppelinstraat,17,,4,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533705,52.731627
+Zeppelinstraat,17,,5,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.534045,52.731615
+Zeppelinstraat,17,,6,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533837,52.731445
+Zeppelinstraat,17,,7,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533695,52.731413
+Zeppelinstraat,17,,8,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533559,52.731374
+Zeppelinstraat,17,,9,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533421,52.731340
 Zeppelinstraat,21,,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533525,52.730382
 Zeppelinstraat,27,,,7903BR,Hoogeveen,Hoogeveen,Drenthe,VBO,6.533363,52.728953
 Weg om de Oost,8,,,7903BS,Hoogeveen,Hoogeveen,Drenthe,VBO,6.521217,52.727447
@@ -839,10 +863,10 @@ Pesserdijk,9,,,7903TC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498613,52.734389
 Pesserdijk,15,,,7903TC,Hoogeveen,Hoogeveen,Drenthe,VBO,6.505666,52.736912
 Europaweg,1,T,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.504577,52.732783
 Europaweg,1,,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.508680,52.733171
-Europaweg,3,T,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.508721,52.734785
 Europaweg,3,a,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.508958,52.735380
 Europaweg,3,b,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.509300,52.735448
 Europaweg,3,c,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.509643,52.735526
+Europaweg,3,T,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.508721,52.734785
 Europaweg,5,,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.510103,52.735567
 Europaweg,23,a,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.520929,52.737168
 Europaweg,23,b,,7903TD,Hoogeveen,Hoogeveen,Drenthe,VBO,6.521135,52.737305
@@ -855,10 +879,12 @@ Pesserdijk,2,e,,7903TE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.495279,52.732422
 Pesserdijk,2,,,7903TE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.494451,52.732586
 Pesserdijk,4,a,,7903TE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.497267,52.733296
 Pesserdijk,4,,,7903TE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.496230,52.733270
+Pesserdijk,6,,,7903TE,Hoogeveen,Hoogeveen,Drenthe,VBO,6.498031,52.733640
 Piet Soerstraat,1,,,7903TJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.514900,52.733805
 Piet Soerstraat,3,,,7903TJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.514982,52.733552
 Piet Soerstraat,5,,,7903TJ,Hoogeveen,Hoogeveen,Drenthe,VBO,6.515204,52.733559
 Piet Soerstraat,2,,,7903TK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.513945,52.733517
+Piet Soerstraat,4,,,7903TK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.514037,52.733551
 Piet Soerstraat,6,,,7903TK,Hoogeveen,Hoogeveen,Drenthe,VBO,6.513946,52.733571
 Achteromsedijk,8,a,,7903TL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.513399,52.733028
 Achteromsedijk,8,b,,7903TL,Hoogeveen,Hoogeveen,Drenthe,VBO,6.513452,52.732785

@@ -1,4 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
+Cavalier,1,,,3897AA,Zeewolde,Zeewolde,Flevoland,VBO,5.499752,52.348421
 Landauer,2,,,3897AB,Zeewolde,Zeewolde,Flevoland,VBO,5.498100,52.349427
 Landauer,5,,,3897AB,Zeewolde,Zeewolde,Flevoland,VBO,5.498157,52.348869
 Landauer,9,,,3897AB,Zeewolde,Zeewolde,Flevoland,VBO,5.497862,52.348704
@@ -10,6 +11,7 @@ Wagonette,4,B,,3897AD,Zeewolde,Zeewolde,Flevoland,VBO,5.495693,52.348607
 Tweespan,2,A,,3897AG,Zeewolde,Zeewolde,Flevoland,VBO,5.496372,52.350270
 Tweespan,2,B,,3897AG,Zeewolde,Zeewolde,Flevoland,VBO,5.496396,52.350284
 Tweespan,14,,,3897AG,Zeewolde,Zeewolde,Flevoland,VBO,5.494533,52.349295
+Sulky,3,,,3897AJ,Zeewolde,Zeewolde,Flevoland,VBO,5.492378,52.351194
 Sulky,4,A,,3897AJ,Zeewolde,Zeewolde,Flevoland,VBO,5.491780,52.351466
 Sulky,4,B,,3897AJ,Zeewolde,Zeewolde,Flevoland,VBO,5.491670,52.351544
 Sulky,4,C,,3897AJ,Zeewolde,Zeewolde,Flevoland,VBO,5.491774,52.351603
@@ -111,6 +113,7 @@ Jachtwagen,51,G,,3897AM,Zeewolde,Zeewolde,Flevoland,VBO,5.489360,52.350041
 Jachtwagen,53,,,3897AM,Zeewolde,Zeewolde,Flevoland,VBO,5.488925,52.350090
 Schollevaarweg,1,,,3897LA,Zeewolde,Zeewolde,Flevoland,VBO,5.522135,52.386188
 Schollevaarweg,2,A,,3897LA,Zeewolde,Zeewolde,Flevoland,VBO,5.521226,52.387106
+Schollevaarweg,4,,,3897LA,Zeewolde,Zeewolde,Flevoland,VBO,5.517096,52.383579
 Schollevaarweg,5,,,3897LA,Zeewolde,Zeewolde,Flevoland,VBO,5.521633,52.385299
 Schollevaarweg,6,,,3897LA,Zeewolde,Zeewolde,Flevoland,VBO,5.516309,52.383004
 Schollevaarweg,7,,,3897LA,Zeewolde,Zeewolde,Flevoland,VBO,5.514689,52.380523
@@ -198,6 +201,7 @@ Roerdompweg,26,,,3897LJ,Zeewolde,Zeewolde,Flevoland,VBO,5.467967,52.364128
 Roerdompweg,30,,,3897LJ,Zeewolde,Zeewolde,Flevoland,VBO,5.469784,52.362563
 Juttepeerlaan,1,,,3897LK,Zeewolde,Zeewolde,Flevoland,VBO,5.455440,52.362168
 Sterappellaan,1,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.479003,52.369503
+Sterappellaan,2,A,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.476487,52.370411
 Sterappellaan,2,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.477564,52.369415
 Sterappellaan,5,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.480673,52.367408
 Sterappellaan,6,A,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.474692,52.365781
@@ -208,8 +212,9 @@ Sterappellaan,13,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.473061,52.364133
 Sterappellaan,17,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.461841,52.370837
 Sterappellaan,18,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.462272,52.370191
 Sterappellaan,19,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.465897,52.372515
+Sterappellaan,21,A,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.468666,52.373853
 Sterappellaan,21,B,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.468311,52.373720
-Sterappellaan,21,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.467929,52.373446
+Sterappellaan,21,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.467830,52.373473
 Sterappellaan,23,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.471349,52.374884
 Sterappellaan,27,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.472074,52.378433
 Sterappellaan,28,,,3897LL,Zeewolde,Zeewolde,Flevoland,VBO,5.473577,52.372905
@@ -408,10 +413,10 @@ Bosruiterweg,16,M,7,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.467166,52.342264
 Bosruiterweg,16,M,8,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.467018,52.342199
 Bosruiterweg,16,N,1,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.468183,52.342686
 Bosruiterweg,16,N,2,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.468031,52.342620
-Bosruiterweg,16,N,3,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.467866,52.342549
+Bosruiterweg,16,N,3,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.467892,52.342554
 Bosruiterweg,16,N,4,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.468143,52.342718
 Bosruiterweg,16,N,5,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.467995,52.342652
-Bosruiterweg,16,N,6,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.467826,52.342582
+Bosruiterweg,16,N,6,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.467867,52.342584
 Bosruiterweg,16,P,1,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.468694,52.342911
 Bosruiterweg,16,P,2,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.468534,52.342840
 Bosruiterweg,16,P,3,3897LV,Zeewolde,Zeewolde,Flevoland,VBO,5.468374,52.342769

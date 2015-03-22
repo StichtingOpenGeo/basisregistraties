@@ -8,6 +8,7 @@ Westzijderveld,69,,ROOD,1507AA,Zaandam,Zaanstad,Noord-Holland,LIG,4.804353,52.45
 Westzijderveld,70,A,ROOD,1507AA,Zaandam,Zaanstad,Noord-Holland,LIG,4.805113,52.454496
 Westzijderveld,70,,ROOD,1507AA,Zaandam,Zaanstad,Noord-Holland,LIG,4.804733,52.454452
 Westzijderveld,71,,ROOD,1507AA,Zaandam,Zaanstad,Noord-Holland,LIG,4.804717,52.454738
+Westzijderveld,71,,,1507AA,Zaandam,Zaanstad,Noord-Holland,VBO,4.805445,52.454975
 Westzijderveld,72,,ROOD,1507AA,Zaandam,Zaanstad,Noord-Holland,LIG,4.804324,52.454640
 Westzijderveld,73,,ROOD,1507AA,Zaandam,Zaanstad,Noord-Holland,LIG,4.803942,52.454601
 Westzijderveld,74,,ROOD,1507AA,Zaandam,Zaanstad,Noord-Holland,LIG,4.803571,52.454560
@@ -135,7 +136,6 @@ Westzanerdijk,315,,,1507AH,Zaandam,Zaanstad,Noord-Holland,VBO,4.784653,52.430696
 Westzanerdijk,317,,,1507AH,Zaandam,Zaanstad,Noord-Holland,VBO,4.784491,52.430668
 Westzanerdijk,321,,,1507AH,Zaandam,Zaanstad,Noord-Holland,VBO,4.784203,52.430689
 Westzanerdijk,74,,,1507AJ,Zaandam,Zaanstad,Noord-Holland,VBO,4.814153,52.435706
-Westzanerdijk,76,,,1507AJ,Zaandam,Zaanstad,Noord-Holland,VBO,4.814153,52.435706
 Westzanerdijk,78,C,,1507AJ,Zaandam,Zaanstad,Noord-Holland,VBO,4.813983,52.435515
 Westzanerdijk,78,D,,1507AJ,Zaandam,Zaanstad,Noord-Holland,VBO,4.813925,52.435479
 Westzanerdijk,78,E,,1507AJ,Zaandam,Zaanstad,Noord-Holland,VBO,4.813881,52.435442
@@ -286,7 +286,7 @@ Westzanerdijk,458,,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.791571,52.431234
 Westzanerdijk,460,,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.791409,52.431242
 Westzanerdijk,466,,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.791130,52.431196
 Westzanerdijk,468,,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.790911,52.431105
-Westzanerdijk,476,C,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.789358,52.431344
+Westzanerdijk,476,C,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.789116,52.431374
 Westzanerdijk,476,,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.790188,52.431254
 Westzanerdijk,478,,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.788879,52.431337
 Westzanerdijk,480,,,1507AS,Zaandam,Zaanstad,Noord-Holland,VBO,4.788305,52.431370
@@ -304,8 +304,8 @@ Aris van Broekweg,5,A,,1507BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.813171,52.434
 Aris van Broekweg,5,B,,1507BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.812996,52.434548
 Aris van Broekweg,5,,,1507BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.813553,52.434650
 Aris van Broekweg,7,,,1507BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.812375,52.434484
-Aris van Broekweg,9,,,1507BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.811336,52.434379
 Aris van Broekweg,15,,,1507BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.810356,52.433978
+Aris van Broekweg,17,,,1507BA,Zaandam,Zaanstad,Noord-Holland,VBO,4.809883,52.434019
 Aris van Broekweg,2,A,,1507BB,Zaandam,Zaanstad,Noord-Holland,VBO,4.814123,52.434886
 Aris van Broekweg,2,B,,1507BB,Zaandam,Zaanstad,Noord-Holland,VBO,4.814236,52.435255
 Aris van Broekweg,2,,,1507BB,Zaandam,Zaanstad,Noord-Holland,VBO,4.814123,52.434886
@@ -498,6 +498,7 @@ Ringweg,270,,,1507BN,Zaandam,Zaanstad,Noord-Holland,VBO,4.800278,52.431053
 Ringweg,272,,,1507BN,Zaandam,Zaanstad,Noord-Holland,VBO,4.800175,52.431061
 Ringweg,274,B,,1507BN,Zaandam,Zaanstad,Noord-Holland,VBO,4.799558,52.430977
 Ringweg,274,,,1507BN,Zaandam,Zaanstad,Noord-Holland,VBO,4.799869,52.430871
+Ringweg,276,,,1507BN,Zaandam,Zaanstad,Noord-Holland,VBO,4.799343,52.430772
 Ringweg,278,B,,1507BN,Zaandam,Zaanstad,Noord-Holland,VBO,4.799120,52.430750
 Ringweg,278,,,1507BN,Zaandam,Zaanstad,Noord-Holland,VBO,4.799028,52.431038
 Ringweg,280,,,1507BN,Zaandam,Zaanstad,Noord-Holland,VBO,4.798650,52.430757
@@ -507,6 +508,7 @@ Kanaalkade,5,,,1507BP,Zaandam,Zaanstad,Noord-Holland,VBO,4.790797,52.426449
 Gerrit Bolkade,1,,,1507BR,Zaandam,Zaanstad,Noord-Holland,VBO,4.818153,52.432569
 Gerrit Bolkade,3,,,1507BR,Zaandam,Zaanstad,Noord-Holland,VBO,4.818446,52.432660
 Gerrit Bolkade,4,,,1507BR,Zaandam,Zaanstad,Noord-Holland,VBO,4.817774,52.432333
+Gerrit Bolkade,6,,,1507BR,Zaandam,Zaanstad,Noord-Holland,VBO,4.817792,52.432454
 Gerrit Bolkade,7,A,,1507BR,Zaandam,Zaanstad,Noord-Holland,VBO,4.818043,52.432148
 Gerrit Bolkade,7,B,,1507BR,Zaandam,Zaanstad,Noord-Holland,VBO,4.818038,52.431994
 Gerrit Bolkade,7,C,,1507BR,Zaandam,Zaanstad,Noord-Holland,VBO,4.818662,52.431897
@@ -678,13 +680,15 @@ Kleine Tocht,34,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.808354,52.430742
 Kleine Tocht,35,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.808119,52.430732
 Kleine Tocht,36,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.807957,52.430767
 Kleine Tocht,37,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.807940,52.430974
+Kleine Tocht,38,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.808086,52.431150
 Kleine Tocht,40,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.808204,52.431340
 Kleine Tocht,42,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.808539,52.431210
 Kleine Tocht,43,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.808687,52.431175
-Kleine Tocht,44,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.807514,52.429803
 Kleine Tocht,44,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.806670,52.430343
+Kleine Tocht,44,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.807514,52.429803
 Kleine Tocht,45,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.807514,52.429803
 Kleine Tocht,46,,,1507CA,Zaandam,Zaanstad,Noord-Holland,VBO,4.807903,52.430380
+Kleine Tocht,1,,,1507CB,Zaandam,Zaanstad,Noord-Holland,VBO,4.811070,52.430311
 Kleine Tocht,3,,,1507CB,Zaandam,Zaanstad,Noord-Holland,VBO,4.811651,52.430533
 Kleine Tocht,4,,,1507CB,Zaandam,Zaanstad,Noord-Holland,VBO,4.811944,52.430625
 Kleine Tocht,5,A,,1507CB,Zaandam,Zaanstad,Noord-Holland,VBO,4.811972,52.430715
@@ -763,10 +767,7 @@ Grote Tocht,17,,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.812204,52.427597
 Grote Tocht,18,,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.810488,52.427274
 Grote Tocht,19,,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.811901,52.427128
 Grote Tocht,20,,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.810386,52.427175
-Grote Tocht,21,A,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.811659,52.426295
-Grote Tocht,21,,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.811512,52.426533
 Grote Tocht,22,,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.810424,52.426474
-Grote Tocht,23,,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.811339,52.426237
 Grote Tocht,24,A,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.809485,52.426388
 Grote Tocht,24,B,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.809485,52.426388
 Grote Tocht,25,,,1507CG,Zaandam,Zaanstad,Noord-Holland,VBO,4.811250,52.426078
@@ -1072,6 +1073,7 @@ Tienlingstraat,10,,,1507DD,Zaandam,Zaanstad,Noord-Holland,VBO,4.801284,52.429485
 Tienlingstraat,12,,,1507DD,Zaandam,Zaanstad,Noord-Holland,VBO,4.801230,52.429630
 Tienlingstraat,14,,,1507DD,Zaandam,Zaanstad,Noord-Holland,VBO,4.801355,52.429904
 Tienlingstraat,18,,,1507DD,Zaandam,Zaanstad,Noord-Holland,VBO,4.801555,52.430133
+Tienlingstraat,20,,,1507DD,Zaandam,Zaanstad,Noord-Holland,VBO,4.801340,52.430360
 Tienlingstraat,26,,,1507DD,Zaandam,Zaanstad,Noord-Holland,VBO,4.800331,52.430406
 Tienlingstraat,28,,,1507DD,Zaandam,Zaanstad,Noord-Holland,VBO,4.800015,52.430423
 Penningweg,39,,,1507DE,Zaandam,Zaanstad,Noord-Holland,VBO,4.797411,52.428837
@@ -2030,7 +2032,6 @@ Teakhout,53,a,,1507EM,Zaandam,Zaanstad,Noord-Holland,VBO,4.809588,52.441562
 Teakhout,53,,,1507EM,Zaandam,Zaanstad,Noord-Holland,VBO,4.809588,52.441562
 Teakhout,54,a,,1507EM,Zaandam,Zaanstad,Noord-Holland,VBO,4.809588,52.441562
 Teakhout,54,,,1507EM,Zaandam,Zaanstad,Noord-Holland,VBO,4.809588,52.441562
-Teakhout,55,,,1507EM,Zaandam,Zaanstad,Noord-Holland,VBO,4.809588,52.441562
 Teakhout,57,,,1507EM,Zaandam,Zaanstad,Noord-Holland,VBO,4.809952,52.441081
 Teakhout,58,,,1507EM,Zaandam,Zaanstad,Noord-Holland,VBO,4.809952,52.441081
 Teakhout,59,,,1507EM,Zaandam,Zaanstad,Noord-Holland,VBO,4.809960,52.441068
@@ -2365,6 +2366,7 @@ Reischaaf,14,,,1507HH,Zaandam,Zaanstad,Noord-Holland,VBO,4.811321,52.436222
 Reischaaf,15,,,1507HH,Zaandam,Zaanstad,Noord-Holland,VBO,4.811276,52.436266
 Reischaaf,16,,,1507HH,Zaandam,Zaanstad,Noord-Holland,VBO,4.811217,52.436302
 Reischaaf,17,,,1507HH,Zaandam,Zaanstad,Noord-Holland,VBO,4.811143,52.436338
+Reischaaf,18,A,,1507HH,Zaandam,Zaanstad,Noord-Holland,VBO,4.811027,52.436687
 Reischaaf,18,,,1507HH,Zaandam,Zaanstad,Noord-Holland,VBO,4.811090,52.436382
 Reischaaf,19,,,1507HJ,Zaandam,Zaanstad,Noord-Holland,VBO,4.810454,52.436639
 Reischaaf,20,,,1507HJ,Zaandam,Zaanstad,Noord-Holland,VBO,4.810512,52.436684
@@ -2585,11 +2587,8 @@ Nieuwendamstraat,45,,,1507JD,Zaandam,Zaanstad,Noord-Holland,VBO,4.804165,52.4463
 Nieuwendamstraat,47,,,1507JD,Zaandam,Zaanstad,Noord-Holland,VBO,4.804091,52.446306
 Nieuwendamstraat,49,,,1507JD,Zaandam,Zaanstad,Noord-Holland,VBO,4.804018,52.446287
 Nieuwendamstraat,2,A,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.806398,52.447441
-Nieuwendamstraat,2,A,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.806447,52.447359
 Nieuwendamstraat,2,B,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.806215,52.447056
 Nieuwendamstraat,2,C,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.805694,52.447670
-Nieuwendamstraat,2,C,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.806308,52.447583
-Nieuwendamstraat,2,D,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.805836,52.447709
 Nieuwendamstraat,2,,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.805981,52.446926
 Nieuwendamstraat,4,,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.805373,52.447256
 Nieuwendamstraat,6,,,1507JE,Zaandam,Zaanstad,Noord-Holland,VBO,4.804741,52.447199

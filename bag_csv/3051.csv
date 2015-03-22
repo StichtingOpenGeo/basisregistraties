@@ -1303,6 +1303,8 @@ Kleiweg,165,,,3051GP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475044,51.945478
 Kleiweg,167,,,3051GP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.474965,51.945482
 Kleiweg,169,,,3051GP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.474854,51.945488
 Kleiweg,171,,,3051GP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.474773,51.945493
+Kleiweg,173,A,02,3051GP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.474621,51.945471
+Kleiweg,173,A,03,3051GP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.474621,51.945471
 Kleiweg,173,A,,3051GP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.474621,51.945471
 Kleiweg,173,B,,3051GP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.474621,51.945471
 Kleiweg,2,,,3051GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482412,51.944789
@@ -1566,7 +1568,6 @@ Van Slingelandtlaan,33,,,3051HV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481140,51
 Van Slingelandtlaan,35,,,3051HV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481064,51.945596
 Van Slingelandtlaan,37,,,3051HV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480988,51.945598
 Van Slingelandtlaan,39,,,3051HV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480913,51.945599
-Van Slingelandtlaan,41,,,3051HV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480749,51.945610
 Van Slingelandtlaan,43,,,3051HV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480669,51.945611
 Van Slingelandtlaan,45,,,3051HV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480587,51.945611
 Van Slingelandtlaan,2,,,3051HW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482922,51.945575
@@ -2561,8 +2562,7 @@ Orchideestraat,12,B,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473837,51.944
 Orchideestraat,14,,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473850,51.943962
 Orchideestraat,16,A,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473862,51.943913
 Orchideestraat,16,B,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473862,51.943913
-Orchideestraat,18,A,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473874,51.943865
-Orchideestraat,18,B,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473874,51.943865
+Orchideestraat,18,,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473874,51.943865
 Orchideestraat,20,A,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473886,51.943816
 Orchideestraat,20,B,,3051NL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473886,51.943816
 Orchideestraat,22,A,,3051NM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.473898,51.943767
@@ -2657,12 +2657,12 @@ Kootsekade,12,B,,3051PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483516,51.944570
 Kootsekade,12,C,,3051PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483516,51.944570
 Kootsekade,14,A,,3051PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483600,51.944554
 Kootsekade,14,B,,3051PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483600,51.944554
-Kootsekade,16,A,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483860,51.944506
-Kootsekade,16,B,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483860,51.944506
-Kootsekade,18,A,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484010,51.944487
-Kootsekade,18,B,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483940,51.944497
-Kootsekade,20,A,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484010,51.944487
-Kootsekade,20,B,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484010,51.944487
+Kootsekade,16,A,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483975,51.944501
+Kootsekade,16,B,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483975,51.944501
+Kootsekade,18,A,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483975,51.944501
+Kootsekade,18,B,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483975,51.944501
+Kootsekade,20,A,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483975,51.944501
+Kootsekade,20,B,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483975,51.944501
 Kootsekade,22,A,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484069,51.944485
 Kootsekade,22,B,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484069,51.944485
 Kootsekade,24,A,,3051PE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.484149,51.944476
@@ -3098,10 +3098,12 @@ Willem van Hillegaersbergstraat,48,B,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VB
 Willem van Hillegaersbergstraat,50,,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483760,51.944278
 Willem van Hillegaersbergstraat,52,A,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483772,51.944322
 Willem van Hillegaersbergstraat,52,B,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483772,51.944322
-Willem van Hillegaersbergstraat,54,A,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483785,51.944366
-Willem van Hillegaersbergstraat,54,B,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483785,51.944366
-Willem van Hillegaersbergstraat,56,A,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483860,51.944506
-Willem van Hillegaersbergstraat,56,B,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483797,51.944411
+Willem van Hillegaersbergstraat,54,A,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483803,51.944394
+Willem van Hillegaersbergstraat,54,B,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483803,51.944394
+Willem van Hillegaersbergstraat,54,C,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483803,51.944394
+Willem van Hillegaersbergstraat,54,D,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483803,51.944394
+Willem van Hillegaersbergstraat,54,E,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483803,51.944394
+Willem van Hillegaersbergstraat,54,F,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483803,51.944394
 Willem van Hillegaersbergstraat,56,C,,3051RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.483941,51.944704
 Willem van Hillegaersbergstraat,58,A,,3051RL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.485331,51.945742
 Willem van Hillegaersbergstraat,58,B,,3051RL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.485331,51.945742
@@ -4250,7 +4252,6 @@ Kleiweg,323,A,,3051XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.467002,51.945512
 Kleiweg,323,B,,3051XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.467002,51.945512
 Kleiweg,325,,,3051XR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.466923,51.945528
 Kleiweg,270,,,3051XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.466813,51.945209
-Kleiweg,272,,,3051XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.466829,51.945137
 Saffierstraat,1,A,,3051XT,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.467402,51.945976
 Saffierstraat,1,B,,3051XT,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.467159,51.946284
 Saffierstraat,1,C,,3051XT,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.467402,51.945976

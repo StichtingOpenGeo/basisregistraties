@@ -172,6 +172,7 @@ Laarderweg,3,,,3755AK,Eemnes,Eemnes,Utrecht,VBO,5.265019,52.252624
 Laarderweg,7,,,3755AK,Eemnes,Eemnes,Utrecht,VBO,5.264258,52.252729
 Laarderweg,9,,,3755AK,Eemnes,Eemnes,Utrecht,VBO,5.264052,52.252736
 Laarderweg,11,,,3755AK,Eemnes,Eemnes,Utrecht,VBO,5.263940,52.252746
+Laarderweg,19,,,3755AK,Eemnes,Eemnes,Utrecht,VBO,5.262613,52.252873
 Laarderweg,21,A,,3755AK,Eemnes,Eemnes,Utrecht,VBO,5.262170,52.252842
 Laarderweg,21,,,3755AK,Eemnes,Eemnes,Utrecht,VBO,5.262282,52.252840
 Laarderweg,23,,,3755AK,Eemnes,Eemnes,Utrecht,VBO,5.261983,52.252893
@@ -240,7 +241,6 @@ Laarderweg,24,A,,3755AN,Eemnes,Eemnes,Utrecht,VBO,5.264080,52.253035
 Laarderweg,24,b,,3755AN,Eemnes,Eemnes,Utrecht,VBO,5.264056,52.253232
 Laarderweg,24,c,,3755AN,Eemnes,Eemnes,Utrecht,VBO,5.263956,52.253237
 Laarderweg,24,d,,3755AN,Eemnes,Eemnes,Utrecht,VBO,5.263832,52.253245
-Laarderweg,24,e,,3755AN,Eemnes,Eemnes,Utrecht,VBO,5.263695,52.253255
 Laarderweg,24,f,,3755AN,Eemnes,Eemnes,Utrecht,VBO,5.263575,52.253261
 Laarderweg,24,g,,3755AN,Eemnes,Eemnes,Utrecht,VBO,5.263447,52.253271
 Laarderweg,24,h,,3755AN,Eemnes,Eemnes,Utrecht,VBO,5.263342,52.253202
@@ -545,8 +545,8 @@ Vlierberg,4,,15,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248354,52.247513
 Vlierberg,4,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248600,52.247608
 Vlierberg,5,A,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249580,52.247240
 Vlierberg,5,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249149,52.247249
-Vlierberg,6,,A,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248389,52.247360
-Vlierberg,6,,B,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248387,52.247316
+Vlierberg,6,A,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248389,52.247360
+Vlierberg,6,B,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248387,52.247316
 Vlierberg,6,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248671,52.247321
 Vlierberg,7,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249852,52.247262
 Vlierberg,8,A,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248342,52.247237
@@ -554,15 +554,16 @@ Vlierberg,8,B,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248361,52.247212
 Vlierberg,8,C,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248359,52.247186
 Vlierberg,8,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248497,52.247194
 Vlierberg,9,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249880,52.247397
-Vlierberg,10,,A,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248650,52.247207
+Vlierberg,10,A,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248650,52.247207
 Vlierberg,10,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248376,52.247155
 Vlierberg,11,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249899,52.247644
 Vlierberg,12,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248303,52.247168
+Vlierberg,13,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.250124,52.247779
 Vlierberg,14,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.248605,52.247168
 Vlierberg,18,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249007,52.246773
 Vlierberg,20,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249058,52.246929
 Vlierberg,22,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249252,52.246902
-Vlierberg,26,,A,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249645,52.246735
+Vlierberg,26,A,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249645,52.246735
 Vlierberg,26,,,3755BS,Eemnes,Eemnes,Utrecht,VBO,5.249670,52.246815
 Bramenberg,1,,,3755BT,Eemnes,Eemnes,Utrecht,VBO,5.250304,52.249084
 Bramenberg,3,A,,3755BT,Eemnes,Eemnes,Utrecht,VBO,5.250003,52.249024
@@ -673,8 +674,8 @@ Torenzicht,8,,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263773,52.252266
 Torenzicht,10,,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263681,52.252265
 Torenzicht,12,,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263587,52.252279
 Torenzicht,14,,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263503,52.252264
-Torenzicht,16,A,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263175,52.252264
-Torenzicht,16,B,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263061,52.252275
+Torenzicht,16,A,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263203,52.252379
+Torenzicht,16,B,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263118,52.252379
 Torenzicht,16,,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.263144,52.252335
 Torenzicht,26,,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.262379,52.252328
 Torenzicht,28,,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.262035,52.252374
@@ -692,6 +693,18 @@ Torenzicht,56,,,3755CC,Eemnes,Eemnes,Utrecht,VBO,5.260584,52.252447
 Torenzicht,58,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.260246,52.252469
 Torenzicht,60,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.260162,52.252482
 Torenzicht,62,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.260073,52.252484
+Torenzicht,64,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259938,52.252516
+Torenzicht,66,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259878,52.252524
+Torenzicht,68,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259822,52.252535
+Torenzicht,70,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259761,52.252542
+Torenzicht,72,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259694,52.252550
+Torenzicht,74,A,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259819,52.252771
+Torenzicht,74,B,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259828,52.252820
+Torenzicht,74,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259810,52.252726
+Torenzicht,76,A,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259324,52.252797
+Torenzicht,76,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259416,52.252786
+Torenzicht,78,A,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259167,52.252816
+Torenzicht,78,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.259247,52.252805
 Torenzicht,80,,Won,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.258884,52.252634
 Torenzicht,80,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.258844,52.252801
 Torenzicht,82,,,3755CD,Eemnes,Eemnes,Utrecht,VBO,5.258518,52.252647
@@ -947,6 +960,7 @@ Wakkerendijk,80,A,e,3755DD,Eemnes,Eemnes,Utrecht,VBO,5.262833,52.246928
 Wakkerendijk,80,A,f,3755DD,Eemnes,Eemnes,Utrecht,VBO,5.262694,52.246939
 Wakkerendijk,80,A,g,3755DD,Eemnes,Eemnes,Utrecht,VBO,5.262580,52.246948
 Wakkerendijk,80,A,h,3755DD,Eemnes,Eemnes,Utrecht,VBO,5.262438,52.246960
+Wakkerendijk,80,B,,3755DD,Eemnes,Eemnes,Utrecht,VBO,5.263283,52.246803
 Wakkerendijk,80,,,3755DD,Eemnes,Eemnes,Utrecht,VBO,5.263436,52.246848
 Wakkerendijk,84,,,3755DD,Eemnes,Eemnes,Utrecht,VBO,5.264189,52.246438
 Wakkerendijk,86,,,3755DD,Eemnes,Eemnes,Utrecht,VBO,5.264262,52.246310
@@ -1030,6 +1044,8 @@ Wakkerendijk,188,,,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.259021,52.233778
 Wakkerendijk,190,A,,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.258184,52.233520
 Wakkerendijk,190,,,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.257978,52.233527
 Wakkerendijk,192,A,,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.258387,52.233126
+Wakkerendijk,192,A,,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.258614,52.233073
+Wakkerendijk,192,,,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.258452,52.233109
 Wakkerendijk,192,,,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.258578,52.233090
 Wakkerendijk,194,A,,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.258543,52.232726
 Wakkerendijk,194,T,Traf,3755DH,Eemnes,Eemnes,Utrecht,VBO,5.258914,52.232857
@@ -1598,8 +1614,6 @@ Noordersingel,20,U,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.251877,52.257371
 Noordersingel,20,V,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.251846,52.257325
 Noordersingel,20,,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.252125,52.257079
 Noordersingel,22,,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.251831,52.256776
-Noordersingel,26,A,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.251237,52.255501
-Noordersingel,26,,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.251274,52.255585
 Noordersingel,27,,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.252566,52.254225
 Noordersingel,28,,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.251573,52.254275
 Noordersingel,30,,,3755EZ,Eemnes,Eemnes,Utrecht,VBO,5.251691,52.254180
@@ -1971,12 +1985,12 @@ Raadhuislaan,80,A,08,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258991,52.251361
 Raadhuislaan,80,A,09,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.259004,52.251404
 Raadhuislaan,80,A,10,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.259016,52.251486
 Raadhuislaan,80,A,11,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.259024,52.251550
-Raadhuislaan,80,A,12,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.259033,52.251610
+Raadhuislaan,80,A,12,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.259078,52.251578
 Raadhuislaan,80,A,13,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258737,52.251354
 Raadhuislaan,80,A,14,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258640,52.251410
 Raadhuislaan,80,A,15,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258504,52.251377
 Raadhuislaan,80,A,16,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258392,52.251433
-Raadhuislaan,80,A,17,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258415,52.251477
+Raadhuislaan,80,A,17,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258409,52.251391
 Raadhuislaan,80,A,18,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258483,52.251570
 Raadhuislaan,80,A,19,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258492,52.251625
 Raadhuislaan,80,A,20,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258534,52.251732
@@ -1986,7 +2000,7 @@ Raadhuislaan,80,A,23,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258628,52.251362
 Raadhuislaan,80,A,24,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258520,52.251425
 Raadhuislaan,80,A,25,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258467,52.251508
 Raadhuislaan,80,A,26,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258556,52.251696
-Raadhuislaan,80,,,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258724,52.251442
+Raadhuislaan,80,,,3755HD,Eemnes,Eemnes,Utrecht,VBO,5.258720,52.251393
 Rutgers van Rozenburglaan,1,,,3755HE,Eemnes,Eemnes,Utrecht,VBO,5.264154,52.251834
 Rutgers van Rozenburglaan,2,,,3755HE,Eemnes,Eemnes,Utrecht,VBO,5.263892,52.251026
 Rutgers van Rozenburglaan,4,,,3755HE,Eemnes,Eemnes,Utrecht,VBO,5.263944,52.251076
@@ -2672,16 +2686,27 @@ Kolbleistraat,38,,,3755KD,Eemnes,Eemnes,Utrecht,VBO,5.260949,52.260740
 Kolbleistraat,40,,,3755KD,Eemnes,Eemnes,Utrecht,VBO,5.260925,52.260691
 Kolbleistraat,42,,,3755KD,Eemnes,Eemnes,Utrecht,VBO,5.260921,52.260638
 Kolbleistraat,44,,,3755KD,Eemnes,Eemnes,Utrecht,VBO,5.260927,52.260593
+Zonnebaarsweg,1,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259961,52.260901
 Zonnebaarsweg,2,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.262394,52.260402
+Zonnebaarsweg,3,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259954,52.260970
 Zonnebaarsweg,4,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.262177,52.260367
+Zonnebaarsweg,5,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259968,52.261078
 Zonnebaarsweg,6,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.262051,52.260353
+Zonnebaarsweg,7,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259879,52.260906
 Zonnebaarsweg,8,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.261889,52.260336
+Zonnebaarsweg,9,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259875,52.260971
 Zonnebaarsweg,10,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.261795,52.260329
+Zonnebaarsweg,11,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259877,52.261029
 Zonnebaarsweg,12,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.261598,52.260315
+Zonnebaarsweg,13,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259879,52.261081
 Zonnebaarsweg,14,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.261491,52.260309
+Zonnebaarsweg,15,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259836,52.261086
 Zonnebaarsweg,16,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.261101,52.260327
+Zonnebaarsweg,17,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259834,52.261031
 Zonnebaarsweg,18,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.260998,52.260332
+Zonnebaarsweg,19,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259832,52.260973
 Zonnebaarsweg,20,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.260804,52.260357
+Zonnebaarsweg,21,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.259834,52.260908
 Zonnebaarsweg,22,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.260712,52.260369
 Zonnebaarsweg,24,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.260528,52.260401
 Zonnebaarsweg,26,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.260428,52.260421
@@ -2698,13 +2723,23 @@ Zonnebaarsweg,46,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.260504,52.261026
 Zonnebaarsweg,48,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.260534,52.261080
 Zonnebaarsweg,50,,,3755KG,Eemnes,Eemnes,Utrecht,VBO,5.260528,52.261129
 Meervalweg,1,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.258930,52.260853
+Meervalweg,2,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259329,52.260728
 Meervalweg,3,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.258930,52.260914
+Meervalweg,4,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259381,52.260830
 Meervalweg,5,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.258940,52.260973
+Meervalweg,6,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259410,52.260902
 Meervalweg,7,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.258960,52.261033
+Meervalweg,8,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259492,52.260888
 Meervalweg,9,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.258972,52.261089
+Meervalweg,10,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259463,52.260822
 Meervalweg,11,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.258980,52.261151
+Meervalweg,12,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259435,52.260760
 Meervalweg,13,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.258984,52.261213
+Meervalweg,14,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259412,52.260714
 Meervalweg,15,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259033,52.261271
+Meervalweg,16,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259462,52.260704
+Meervalweg,20,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259512,52.260816
+Meervalweg,22,,,3755KH,Eemnes,Eemnes,Utrecht,VBO,5.259539,52.260880
 Ruisvoornstraat,1,,,3755KJ,Eemnes,Eemnes,Utrecht,VBO,5.257842,52.261125
 Ruisvoornstraat,2,,,3755KJ,Eemnes,Eemnes,Utrecht,VBO,5.258470,52.261028
 Ruisvoornstraat,3,,,3755KJ,Eemnes,Eemnes,Utrecht,VBO,5.257852,52.261186
@@ -2787,7 +2822,6 @@ Eemweg,29,A,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.307286,52.220999
 Eemweg,29,B,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.307335,52.220838
 Eemweg,29,C,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.308021,52.221429
 Eemweg,29,K,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.308677,52.222080
-Eemweg,29,T,Traf,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.307813,52.221217
 Eemweg,31,A,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.311360,52.222782
 Eemweg,31,B,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.310430,52.222789
 Eemweg,31,,1,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.309859,52.221676
@@ -2819,7 +2853,7 @@ Eemweg,45,A,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.309682,52.227000
 Eemweg,47,,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.305771,52.230904
 Eemweg,49,,,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.305894,52.231044
 Eemweg,51,,Gem,3755LC,Eemnes,Eemnes,Utrecht,VBO,5.306069,52.231410
-Eemweg,74,A,,3755LD,Eemnes,Eemnes,Utrecht,VBO,5.306428,52.219566
+Eemweg,74,A,,3755LD,Eemnes,Eemnes,Utrecht,VBO,5.306451,52.219618
 Eemweg,74,,,3755LD,Eemnes,Eemnes,Utrecht,VBO,5.306249,52.219604
 Eemweg,76,,WS1,3755LD,Eemnes,Eemnes,Utrecht,LIG,5.308614,52.220871
 Eemweg,76,,WS2,3755LD,Eemnes,Eemnes,Utrecht,LIG,5.308343,52.220795
@@ -2909,8 +2943,8 @@ Goyergracht Zuid,13,,5,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.234380,52.237403
 Goyergracht Zuid,13,,6,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.234700,52.237413
 Goyergracht Zuid,13,,7,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.234978,52.237480
 Goyergracht Zuid,13,,8,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.235322,52.237455
-Goyergracht Zuid,13,,,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.235062,52.237534
 Goyergracht Zuid,13,,,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.233118,52.237459
+Goyergracht Zuid,13,,,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.234859,52.237545
 Goyergracht Zuid,15,,dp,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.236256,52.237081
 Goyergracht Zuid,15,,,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.235698,52.237027
 Goyergracht Zuid,17,A,,3755MX,Eemnes,Eemnes,Utrecht,VBO,5.232042,52.234934
@@ -2937,6 +2971,7 @@ Goyergracht Zuid,39,D,,3755MZ,Eemnes,Eemnes,Utrecht,VBO,5.227586,52.229376
 Goyergracht Zuid,39,,,3755MZ,Eemnes,Eemnes,Utrecht,VBO,5.227093,52.230474
 Goyergracht Zuid,41,A,,3755MZ,Eemnes,Eemnes,Utrecht,VBO,5.227364,52.228898
 Goyergracht Zuid,41,B,,3755MZ,Eemnes,Eemnes,Utrecht,VBO,5.227087,52.228169
+Goyergracht Zuid,41,C,,3755MZ,Eemnes,Eemnes,Utrecht,VBO,5.228082,52.228952
 Goyergracht Zuid,43,A,,3755MZ,Eemnes,Eemnes,Utrecht,VBO,5.225613,52.227060
 Goyergracht Zuid,43,T,Traf,3755MZ,Eemnes,Eemnes,Utrecht,VBO,5.226399,52.227710
 Goyergracht Zuid,43,,,3755MZ,Eemnes,Eemnes,Utrecht,VBO,5.225229,52.227947
@@ -2963,6 +2998,7 @@ Nieuwe Maatsweg,3,,,3755NP,Eemnes,Eemnes,Utrecht,VBO,5.322085,52.259867
 Nieuwe Maatsweg,5,T,Traf,3755NP,Eemnes,Eemnes,Utrecht,VBO,5.322102,52.264471
 Nieuwe Maatsweg,5,,,3755NP,Eemnes,Eemnes,Utrecht,VBO,5.322270,52.264900
 Nieuwe Maatsweg,7,,,3755NP,Eemnes,Eemnes,Utrecht,VBO,5.326869,52.268330
+'t Raboes,1,,,3755NR,Eemnes,Eemnes,Utrecht,VBO,5.327865,52.271188
 Meentweg,1,A,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.266981,52.253009
 Meentweg,1,,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.267008,52.252820
 Meentweg,3,A,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.266509,52.253289
@@ -2987,7 +3023,7 @@ Meentweg,39,,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268417,52.256517
 Meentweg,41,A,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268461,52.256656
 Meentweg,41,,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268440,52.256593
 Meentweg,43,,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268114,52.256808
-Meentweg,45,,Bij,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268167,52.257100
+Meentweg,45,A,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268183,52.257100
 Meentweg,45,,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268477,52.257056
 Meentweg,47,,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268498,52.257415
 Meentweg,49,,,3755PA,Eemnes,Eemnes,Utrecht,VBO,5.268390,52.257814
@@ -3029,7 +3065,7 @@ Meentweg,101,A,,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.272322,52.269734
 Meentweg,101,,,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.272916,52.269319
 Meentweg,103,T,Traf,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.273659,52.270187
 Meentweg,103,,,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.273729,52.270377
-Meentweg,105,A,,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.274466,52.271529
+Meentweg,105,A,,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.274320,52.271675
 Meentweg,105,,,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.274127,52.271263
 Meentweg,107,,,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.274420,52.272351
 Meentweg,109,A,,3755PC,Eemnes,Eemnes,Utrecht,VBO,5.274383,52.273127
@@ -3047,7 +3083,6 @@ Meentweg,119,,,3755PD,Eemnes,Eemnes,Utrecht,VBO,5.277061,52.277592
 Meentweg,121,A,,3755PD,Eemnes,Eemnes,Utrecht,VBO,5.277870,52.279504
 Meentweg,121,,Bedr,3755PD,Eemnes,Eemnes,Utrecht,VBO,5.277709,52.279504
 Meentweg,121,,,3755PD,Eemnes,Eemnes,Utrecht,VBO,5.277462,52.278822
-Meentweg,123,A,,3755PD,Eemnes,Eemnes,Utrecht,VBO,5.277581,52.279734
 Meentweg,123,B,,3755PD,Eemnes,Eemnes,Utrecht,VBO,5.278108,52.279829
 Meentweg,123,,,3755PD,Eemnes,Eemnes,Utrecht,VBO,5.277980,52.279638
 Meentweg,125,,,3755PD,Eemnes,Eemnes,Utrecht,VBO,5.278011,52.279995
@@ -3070,24 +3105,41 @@ Korte Maatsweg,1,,,3755PK,Eemnes,Eemnes,Utrecht,VBO,5.304847,52.251882
 Korte Maatsweg,2,T,Traf,3755PK,Eemnes,Eemnes,Utrecht,VBO,5.305296,52.254287
 Korte Maatsweg,2,,,3755PK,Eemnes,Eemnes,Utrecht,VBO,5.304159,52.252808
 Korte Maatsweg,3,,,3755PK,Eemnes,Eemnes,Utrecht,VBO,5.303104,52.248303
-Korte Maatsweg,4,,,3755PK,Eemnes,Eemnes,Utrecht,VBO,5.302143,52.248885
+Korte Maatsweg,4,,,3755PK,Eemnes,Eemnes,Utrecht,VBO,5.302496,52.248620
 Korte Maatsweg,5,,,3755PK,Eemnes,Eemnes,Utrecht,VBO,5.302854,52.247744
 Korte Maatsweg,7,,,3755PK,Eemnes,Eemnes,Utrecht,VBO,5.302857,52.247570
 Lange Maatsweg,1,T,Traf,3755PL,Eemnes,Eemnes,Utrecht,VBO,5.314890,52.256677
 Lange Maatsweg,1,,BEDR,3755PL,Eemnes,Eemnes,Utrecht,VBO,5.313599,52.256416
 Lange Maatsweg,1,,Won,3755PL,Eemnes,Eemnes,Utrecht,VBO,5.314061,52.256126
 Lange Maatsweg,2,,,3755PL,Eemnes,Eemnes,Utrecht,VBO,5.315485,52.256114
+Ruizendaallaan,26,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253286,52.246478
 Ruizendaallaan,27,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253979,52.246968
+Ruizendaallaan,28,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253271,52.246417
 Ruizendaallaan,29,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.254074,52.246958
+Ruizendaallaan,30,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253380,52.246315
 Ruizendaallaan,31,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.254279,52.246950
+Ruizendaallaan,32,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253524,52.246374
 Ruizendaallaan,33,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.254349,52.246943
+Ruizendaallaan,34,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253508,52.246508
+Ruizendaallaan,36,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253410,52.246552
 Ruizendaallaan,37,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.254788,52.246906
+Ruizendaallaan,38,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253332,52.246472
 Ruizendaallaan,39,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.254989,52.246894
+Ruizendaallaan,40,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253313,52.246414
 Ruizendaallaan,41,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.255088,52.246889
+Ruizendaallaan,42,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253384,52.246337
+Ruizendaallaan,43,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.255466,52.246837
+Ruizendaallaan,44,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253488,52.246379
 Ruizendaallaan,45,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.255648,52.246839
+Ruizendaallaan,46,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253469,52.246512
 Ruizendaallaan,47,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.255732,52.246834
+Ruizendaallaan,48,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253408,52.246528
 Ruizendaallaan,49,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.255930,52.246819
+Ruizendaallaan,50,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253371,52.246468
+Ruizendaallaan,52,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253351,52.246411
+Ruizendaallaan,54,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253386,52.246359
 Ruizendaallaan,55,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.256543,52.246726
+Ruizendaallaan,56,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253451,52.246385
 Ruizendaallaan,57,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.256651,52.246721
 Ruizendaallaan,58,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.253867,52.246703
 Ruizendaallaan,59,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.256920,52.246694
@@ -3118,6 +3170,22 @@ Ruizendaallaan,104,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.256234,52.246511
 Ruizendaallaan,106,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.256513,52.246496
 Ruizendaallaan,108,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.256603,52.246484
 Ruizendaallaan,110,,,3755SB,Eemnes,Eemnes,Utrecht,VBO,5.257165,52.246420
+Dopsingel,1,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.253772,52.246266
+Dopsingel,3,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.253858,52.246264
+Dopsingel,5,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.253933,52.246259
+Dopsingel,7,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254014,52.246254
+Dopsingel,9,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254102,52.246245
+Dopsingel,11,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254199,52.246239
+Dopsingel,13,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254291,52.246234
+Dopsingel,15,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254365,52.246228
+Dopsingel,17,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254446,52.246220
+Dopsingel,19,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254524,52.246217
+Dopsingel,21,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254604,52.246213
+Dopsingel,23,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254797,52.246201
+Dopsingel,25,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254866,52.246198
+Dopsingel,27,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.254945,52.246194
+Dopsingel,29,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.255020,52.246191
+Dopsingel,31,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.255101,52.246184
 Dopsingel,33,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.255495,52.246195
 Dopsingel,35,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.255584,52.246191
 Dopsingel,37,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.255666,52.246187
@@ -3125,6 +3193,7 @@ Dopsingel,39,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.255769,52.246181
 Dopsingel,41,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.255867,52.246176
 Dopsingel,43,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.255952,52.246168
 Dopsingel,45,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.256031,52.246170
+Dopsingel,47,,,3755SC,Eemnes,Eemnes,Utrecht,VBO,5.256689,52.246143
 Hoogeboomstraat,2,,,3755SE,Eemnes,Eemnes,Utrecht,VBO,5.257153,52.246278
 Hoogeboomstraat,4,,,3755SE,Eemnes,Eemnes,Utrecht,VBO,5.257136,52.246219
 Hoogeboomstraat,6,,,3755SE,Eemnes,Eemnes,Utrecht,VBO,5.257127,52.246085

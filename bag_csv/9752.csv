@@ -278,6 +278,7 @@ Rijksstraatweg,197,F,,9752BH,Haren Gn,Haren,Groningen,VBO,6.605136,53.171216
 Rijksstraatweg,197,,,9752BH,Haren Gn,Haren,Groningen,VBO,6.605395,53.171245
 Rijksstraatweg,203,A,,9752BH,Haren Gn,Haren,Groningen,VBO,6.605333,53.171060
 Rijksstraatweg,203,,,9752BH,Haren Gn,Haren,Groningen,VBO,6.605472,53.171099
+Rijksstraatweg,205,A,,9752BH,Haren Gn,Haren,Groningen,VBO,6.605397,53.170978
 Rijksstraatweg,205,,,9752BH,Haren Gn,Haren,Groningen,VBO,6.605585,53.171055
 Rijksstraatweg,207,A,,9752BH,Haren Gn,Haren,Groningen,VBO,6.605668,53.170983
 Rijksstraatweg,207,B,,9752BH,Haren Gn,Haren,Groningen,VBO,6.605615,53.170971
@@ -319,7 +320,6 @@ Rijksstraatweg,118,,,9752BK,Haren Gn,Haren,Groningen,VBO,6.601300,53.175151
 Rijksstraatweg,120,,,9752BK,Haren Gn,Haren,Groningen,VBO,6.601395,53.175068
 Rijksstraatweg,122,,,9752BK,Haren Gn,Haren,Groningen,VBO,6.601313,53.174926
 Rijksstraatweg,124,,,9752BK,Haren Gn,Haren,Groningen,VBO,6.601411,53.174853
-Rijksstraatweg,205,A,,9752BK,Haren Gn,Haren,Groningen,VBO,6.605397,53.170978
 Rijksstraatweg,126,,,9752BL,Haren Gn,Haren,Groningen,VBO,6.601562,53.174782
 Rijksstraatweg,128,,,9752BL,Haren Gn,Haren,Groningen,VBO,6.601624,53.174711
 Rijksstraatweg,130,,,9752BL,Haren Gn,Haren,Groningen,VBO,6.601829,53.174692
@@ -531,8 +531,8 @@ Rijksstraatweg,353,,,9752CH,Haren Gn,Haren,Groningen,VBO,6.616541,53.155988
 Rijksstraatweg,357,A,,9752CH,Haren Gn,Haren,Groningen,VBO,6.616972,53.154960
 Rijksstraatweg,357,,,9752CH,Haren Gn,Haren,Groningen,VBO,6.617624,53.155152
 Rijksstraatweg,359,,,9752CH,Haren Gn,Haren,Groningen,VBO,6.617706,53.154882
-Rijksstraatweg,361,B,,9752CH,Haren Gn,Haren,Groningen,VBO,6.618377,53.154451
-Rijksstraatweg,361,,,9752CH,Haren Gn,Haren,Groningen,VBO,6.618386,53.154411
+Rijksstraatweg,361,A,,9752CH,Haren Gn,Haren,Groningen,VBO,6.618403,53.154200
+Rijksstraatweg,361,,,9752CH,Haren Gn,Haren,Groningen,VBO,6.618477,53.154415
 Rijksstraatweg,363,,,9752CH,Haren Gn,Haren,Groningen,VBO,6.619346,53.153884
 Rijksstraatweg,373,,,9752CH,Haren Gn,Haren,Groningen,VBO,6.622050,53.151718
 Rijksstraatweg,375,,,9752CH,Haren Gn,Haren,Groningen,VBO,6.622096,53.151666
@@ -600,7 +600,6 @@ Rijksstraatweg,320,,,9752CN,Haren Gn,Haren,Groningen,VBO,6.614591,53.159915
 Rijksstraatweg,322,A,,9752CN,Haren Gn,Haren,Groningen,VBO,6.614900,53.159527
 Rijksstraatweg,322,,,9752CN,Haren Gn,Haren,Groningen,VBO,6.614846,53.159575
 Rijksstraatweg,324,,,9752CN,Haren Gn,Haren,Groningen,VBO,6.616613,53.159827
-Rijksstraatweg,324,,,9752CN,Haren Gn,Haren,Groningen,VBO,6.616677,53.159951
 Rijksstraatweg,326,,,9752CN,Haren Gn,Haren,Groningen,VBO,6.614888,53.159088
 Rijksstraatweg,328,,,9752CN,Haren Gn,Haren,Groningen,VBO,6.614946,53.158989
 Rijksstraatweg,330,,,9752CN,Haren Gn,Haren,Groningen,VBO,6.615524,53.158577
@@ -1089,6 +1088,35 @@ Hooftlaan,17,,,9752GA,Haren Gn,Haren,Groningen,VBO,6.599115,53.174192
 Hooftlaan,19,,,9752GA,Haren Gn,Haren,Groningen,VBO,6.599063,53.174245
 Hooftlaan,21,,,9752GA,Haren Gn,Haren,Groningen,VBO,6.599000,53.174145
 Hooftlaan,23,,,9752GA,Haren Gn,Haren,Groningen,VBO,6.598939,53.174205
+Hooftlaan,25,,G01,9752GB,Haren Gn,Haren,Groningen,VBO,6.598490,53.174083
+Hooftlaan,25,,G02,9752GB,Haren Gn,Haren,Groningen,VBO,6.598460,53.174074
+Hooftlaan,25,,G03,9752GB,Haren Gn,Haren,Groningen,VBO,6.598369,53.174039
+Hooftlaan,25,,G04,9752GB,Haren Gn,Haren,Groningen,VBO,6.598324,53.174022
+Hooftlaan,25,,G05,9752GB,Haren Gn,Haren,Groningen,VBO,6.598293,53.174004
+Hooftlaan,25,,G06,9752GB,Haren Gn,Haren,Groningen,VBO,6.598248,53.173987
+Hooftlaan,25,,G07,9752GB,Haren Gn,Haren,Groningen,VBO,6.598157,53.173961
+Hooftlaan,25,,G08,9752GB,Haren Gn,Haren,Groningen,VBO,6.598112,53.173943
+Hooftlaan,25,,G09,9752GB,Haren Gn,Haren,Groningen,VBO,6.598082,53.173925
+Hooftlaan,25,,G10,9752GB,Haren Gn,Haren,Groningen,VBO,6.598051,53.173908
+Hooftlaan,25,,G11,9752GB,Haren Gn,Haren,Groningen,VBO,6.597916,53.173891
+Hooftlaan,25,,G12,9752GB,Haren Gn,Haren,Groningen,VBO,6.597887,53.173909
+Hooftlaan,25,,G13,9752GB,Haren Gn,Haren,Groningen,VBO,6.597873,53.173937
+Hooftlaan,25,,G14,9752GB,Haren Gn,Haren,Groningen,VBO,6.597843,53.173955
+Hooftlaan,25,,G15,9752GB,Haren Gn,Haren,Groningen,VBO,6.597814,53.173982
+Hooftlaan,25,,G16,9752GB,Haren Gn,Haren,Groningen,VBO,6.597800,53.174000
+Hooftlaan,25,,G17,9752GB,Haren Gn,Haren,Groningen,VBO,6.597846,53.174063
+Hooftlaan,25,,G18,9752GB,Haren Gn,Haren,Groningen,VBO,6.597877,53.174080
+Hooftlaan,25,,G19,9752GB,Haren Gn,Haren,Groningen,VBO,6.597922,53.174098
+Hooftlaan,25,,G20,9752GB,Haren Gn,Haren,Groningen,VBO,6.597952,53.174115
+Hooftlaan,25,,G21,9752GB,Haren Gn,Haren,Groningen,VBO,6.597983,53.174124
+Hooftlaan,25,,G22,9752GB,Haren Gn,Haren,Groningen,VBO,6.598028,53.174142
+Hooftlaan,25,,G23,9752GB,Haren Gn,Haren,Groningen,VBO,6.598059,53.174168
+Hooftlaan,25,,G24,9752GB,Haren Gn,Haren,Groningen,VBO,6.598120,53.174222
+Hooftlaan,25,,G25,9752GB,Haren Gn,Haren,Groningen,VBO,6.598149,53.174203
+Hooftlaan,25,,G26,9752GB,Haren Gn,Haren,Groningen,VBO,6.598178,53.174176
+Hooftlaan,25,,G27,9752GB,Haren Gn,Haren,Groningen,VBO,6.598193,53.174149
+Hooftlaan,25,,G28,9752GB,Haren Gn,Haren,Groningen,VBO,6.598222,53.174131
+Hooftlaan,25,,G29,9752GB,Haren Gn,Haren,Groningen,VBO,6.598251,53.174103
 Hooftlaan,25,,,9752GB,Haren Gn,Haren,Groningen,VBO,6.598533,53.174001
 Hooftlaan,27,,,9752GB,Haren Gn,Haren,Groningen,VBO,6.598469,53.174049
 Hooftlaan,29,,,9752GB,Haren Gn,Haren,Groningen,VBO,6.598438,53.173958
@@ -1101,35 +1129,6 @@ Hooftlaan,41,,,9752GB,Haren Gn,Haren,Groningen,VBO,6.598116,53.173831
 Hooftlaan,43,,,9752GB,Haren Gn,Haren,Groningen,VBO,6.598039,53.173887
 Hooftlaan,45,,,9752GB,Haren Gn,Haren,Groningen,VBO,6.598008,53.173794
 Hooftlaan,47,,,9752GB,Haren Gn,Haren,Groningen,VBO,6.597950,53.173850
-Hooftlaan,25,,G01,9752GC,Haren Gn,Haren,Groningen,VBO,6.598490,53.174083
-Hooftlaan,25,,G02,9752GC,Haren Gn,Haren,Groningen,VBO,6.598460,53.174074
-Hooftlaan,25,,G03,9752GC,Haren Gn,Haren,Groningen,VBO,6.598369,53.174039
-Hooftlaan,25,,G04,9752GC,Haren Gn,Haren,Groningen,VBO,6.598324,53.174022
-Hooftlaan,25,,G05,9752GC,Haren Gn,Haren,Groningen,VBO,6.598293,53.174004
-Hooftlaan,25,,G06,9752GC,Haren Gn,Haren,Groningen,VBO,6.598248,53.173987
-Hooftlaan,25,,G07,9752GC,Haren Gn,Haren,Groningen,VBO,6.598157,53.173961
-Hooftlaan,25,,G08,9752GC,Haren Gn,Haren,Groningen,VBO,6.598112,53.173943
-Hooftlaan,25,,G09,9752GC,Haren Gn,Haren,Groningen,VBO,6.598082,53.173925
-Hooftlaan,25,,G10,9752GC,Haren Gn,Haren,Groningen,VBO,6.598051,53.173908
-Hooftlaan,25,,G11,9752GC,Haren Gn,Haren,Groningen,VBO,6.597916,53.173891
-Hooftlaan,25,,G12,9752GC,Haren Gn,Haren,Groningen,VBO,6.597887,53.173909
-Hooftlaan,25,,G13,9752GC,Haren Gn,Haren,Groningen,VBO,6.597873,53.173937
-Hooftlaan,25,,G14,9752GC,Haren Gn,Haren,Groningen,VBO,6.597843,53.173955
-Hooftlaan,25,,G15,9752GC,Haren Gn,Haren,Groningen,VBO,6.597814,53.173982
-Hooftlaan,25,,G16,9752GC,Haren Gn,Haren,Groningen,VBO,6.597800,53.174000
-Hooftlaan,25,,G17,9752GC,Haren Gn,Haren,Groningen,VBO,6.597846,53.174063
-Hooftlaan,25,,G18,9752GC,Haren Gn,Haren,Groningen,VBO,6.597877,53.174080
-Hooftlaan,25,,G19,9752GC,Haren Gn,Haren,Groningen,VBO,6.597922,53.174098
-Hooftlaan,25,,G20,9752GC,Haren Gn,Haren,Groningen,VBO,6.597952,53.174115
-Hooftlaan,25,,G21,9752GC,Haren Gn,Haren,Groningen,VBO,6.597983,53.174124
-Hooftlaan,25,,G22,9752GC,Haren Gn,Haren,Groningen,VBO,6.598028,53.174142
-Hooftlaan,25,,G23,9752GC,Haren Gn,Haren,Groningen,VBO,6.598059,53.174168
-Hooftlaan,25,,G24,9752GC,Haren Gn,Haren,Groningen,VBO,6.598120,53.174222
-Hooftlaan,25,,G25,9752GC,Haren Gn,Haren,Groningen,VBO,6.598149,53.174203
-Hooftlaan,25,,G26,9752GC,Haren Gn,Haren,Groningen,VBO,6.598178,53.174176
-Hooftlaan,25,,G27,9752GC,Haren Gn,Haren,Groningen,VBO,6.598193,53.174149
-Hooftlaan,25,,G28,9752GC,Haren Gn,Haren,Groningen,VBO,6.598222,53.174131
-Hooftlaan,25,,G29,9752GC,Haren Gn,Haren,Groningen,VBO,6.598251,53.174103
 Hooftlaan,49,,G01,9752GC,Haren Gn,Haren,Groningen,VBO,6.597566,53.173688
 Hooftlaan,49,,G02,9752GC,Haren Gn,Haren,Groningen,VBO,6.597506,53.173671
 Hooftlaan,49,,G03,9752GC,Haren Gn,Haren,Groningen,VBO,6.597476,53.173644
@@ -2903,7 +2902,8 @@ Lutsborgsweg,52,,G04,9752VW,Haren Gn,Haren,Groningen,VBO,6.609900,53.160236
 Lutsborgsweg,52,,G05,9752VW,Haren Gn,Haren,Groningen,VBO,6.609914,53.160209
 Lutsborgsweg,52,,,9752VW,Haren Gn,Haren,Groningen,VBO,6.609986,53.160106
 Lutsborgsweg,56,,,9752VX,Haren Gn,Haren,Groningen,VBO,6.610595,53.159528
-Lutsborgsweg,60,,,9752VX,Haren Gn,Haren,Groningen,VBO,6.610998,53.158337
+Lutsborgsweg,60,A,,9752VX,Haren Gn,Haren,Groningen,VBO,6.611000,53.158342
+Lutsborgsweg,60,,,9752VX,Haren Gn,Haren,Groningen,VBO,6.610881,53.158319
 Lutsborgsweg,62,,,9752VX,Haren Gn,Haren,Groningen,VBO,6.610976,53.158050
 Lutsborgsweg,64,,,9752VX,Haren Gn,Haren,Groningen,VBO,6.610678,53.157650
 Lutsborgsweg,66,,,9752VX,Haren Gn,Haren,Groningen,VBO,6.610874,53.157066
@@ -2952,6 +2952,7 @@ Meerweg,189,,,9752XB,Haren Gn,Haren,Groningen,VBO,6.583460,53.165014
 Meerweg,191,,,9752XB,Haren Gn,Haren,Groningen,VBO,6.583361,53.164386
 Meerweg,193,,,9752XC,Haren Gn,Haren,Groningen,VBO,6.582692,53.164257
 Meerweg,195,,,9752XC,Haren Gn,Haren,Groningen,VBO,6.582185,53.164356
+Meerweg,201,,,9752XC,Haren Gn,Haren,Groningen,VBO,6.581445,53.163900
 Meerweg,203,A,,9752XC,Haren Gn,Haren,Groningen,VBO,6.581138,53.163886
 Meerweg,203,B,,9752XC,Haren Gn,Haren,Groningen,VBO,6.580905,53.163841
 Meerweg,203,C,,9752XC,Haren Gn,Haren,Groningen,VBO,6.580701,53.163756
@@ -2971,7 +2972,7 @@ Meerweg,221,,,9752XC,Haren Gn,Haren,Groningen,VBO,6.575231,53.161940
 Meerweg,223,,,9752XC,Haren Gn,Haren,Groningen,VBO,6.574575,53.161651
 Meerweg,225,,,9752XD,Haren Gn,Haren,Groningen,VBO,6.573040,53.161465
 Meerweg,227,,,9752XD,Haren Gn,Haren,Groningen,VBO,6.571250,53.160719
-Meerweg,231,,,9752XD,Haren Gn,Haren,Groningen,VBO,6.569143,53.159935
+Meerweg,231,,,9752XD,Haren Gn,Haren,Groningen,VBO,6.569284,53.159787
 Meerweg,235,,,9752XD,Haren Gn,Haren,Groningen,VBO,6.567799,53.159283
 Meerweg,237,,,9752XD,Haren Gn,Haren,Groningen,VBO,6.567744,53.159264
 Meerweg,239,,,9752XD,Haren Gn,Haren,Groningen,VBO,6.567103,53.159074
@@ -3017,7 +3018,7 @@ Hoornsedijk,13,,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.580729,53.174905
 Hoornsedijk,14,A,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.576801,53.172873
 Hoornsedijk,14,B,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.576918,53.172760
 Hoornsedijk,14,C,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.577509,53.172676
-Hoornsedijk,14,D,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.577567,53.172456
+Hoornsedijk,14,D,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.577616,53.172476
 Hoornsedijk,14,E,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.577415,53.172139
 Hoornsedijk,14,F,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.577646,53.171969
 Hoornsedijk,14,G,,9752XJ,Haren Gn,Haren,Groningen,VBO,6.577995,53.172317
@@ -3076,6 +3077,7 @@ Hoornsedijk,28,A,1,9752XK,Haren Gn,Haren,Groningen,VBO,6.578195,53.167070
 Hoornsedijk,28,A,2,9752XK,Haren Gn,Haren,Groningen,VBO,6.578186,53.166756
 Hoornsedijk,28,A,3,9752XK,Haren Gn,Haren,Groningen,VBO,6.578360,53.166529
 Hoornsedijk,28,A,4,9752XK,Haren Gn,Haren,Groningen,VBO,6.578690,53.166571
+Hoornsedijk,28,A,4,9752XK,Haren Gn,Haren,Groningen,VBO,6.578779,53.166480
 Hoornsedijk,28,A,5,9752XK,Haren Gn,Haren,Groningen,VBO,6.578991,53.166110
 Hoornsedijk,28,A,6,9752XK,Haren Gn,Haren,Groningen,VBO,6.578736,53.166067
 Hoornsedijk,28,A,7,9752XK,Haren Gn,Haren,Groningen,VBO,6.578403,53.165936
@@ -3121,6 +3123,7 @@ Oude Badweg,58,A,13,9752XP,Haren Gn,Haren,Groningen,VBO,6.559855,53.171825
 Oude Badweg,58,A,14,9752XP,Haren Gn,Haren,Groningen,VBO,6.559662,53.171863
 Oude Badweg,58,A,15,9752XP,Haren Gn,Haren,Groningen,VBO,6.559718,53.171737
 Oude Badweg,58,A,16,9752XP,Haren Gn,Haren,Groningen,VBO,6.559641,53.171639
+Oude Badweg,58,A,19,9752XP,Haren Gn,Haren,Groningen,VBO,6.559281,53.171613
 Oude Badweg,58,A,2,9752XP,Haren Gn,Haren,Groningen,VBO,6.560059,53.171625
 Oude Badweg,58,A,22,9752XP,Haren Gn,Haren,Groningen,VBO,6.558936,53.171565
 Oude Badweg,58,A,25,9752XP,Haren Gn,Haren,Groningen,VBO,6.558504,53.171453
@@ -3129,7 +3132,7 @@ Oude Badweg,58,A,29,9752XP,Haren Gn,Haren,Groningen,VBO,6.558072,53.171151
 Oude Badweg,58,A,3,9752XP,Haren Gn,Haren,Groningen,VBO,6.560271,53.171722
 Oude Badweg,58,A,30,9752XP,Haren Gn,Haren,Groningen,VBO,6.558075,53.171258
 Oude Badweg,58,A,32,9752XP,Haren Gn,Haren,Groningen,VBO,6.558601,53.171343
-Oude Badweg,58,A,34,9752XP,Haren Gn,Haren,Groningen,VBO,6.558918,53.171439
+Oude Badweg,58,A,34,9752XP,Haren Gn,Haren,Groningen,VBO,6.558899,53.171447
 Oude Badweg,58,A,35,9752XP,Haren Gn,Haren,Groningen,VBO,6.559083,53.171473
 Oude Badweg,58,A,36,9752XP,Haren Gn,Haren,Groningen,VBO,6.559288,53.171530
 Oude Badweg,58,A,37,9752XP,Haren Gn,Haren,Groningen,VBO,6.559638,53.171540
@@ -3145,7 +3148,9 @@ Oude Badweg,58,A,8,9752XP,Haren Gn,Haren,Groningen,VBO,6.560923,53.172039
 Oude Badweg,58,A,9,9752XP,Haren Gn,Haren,Groningen,VBO,6.561102,53.172038
 Oude Badweg,58,B,15,9752XP,Haren Gn,Haren,Groningen,VBO,6.558905,53.172142
 Oude Badweg,58,B,19,9752XP,Haren Gn,Haren,Groningen,VBO,6.558808,53.171974
+Oude Badweg,58,B,24,9752XP,Haren Gn,Haren,Groningen,VBO,6.557780,53.171663
 Oude Badweg,58,B,25,9752XP,Haren Gn,Haren,Groningen,VBO,6.557798,53.171515
+Oude Badweg,58,B,28,9752XP,Haren Gn,Haren,Groningen,VBO,6.558418,53.171658
 Oude Badweg,138,,,9752XP,Haren Gn,Haren,Groningen,VBO,6.556202,53.172952
 Oude Badweg,140,,,9752XP,Haren Gn,Haren,Groningen,VBO,6.556404,53.173013
 Oude Badweg,142,,,9752XP,Haren Gn,Haren,Groningen,VBO,6.556627,53.173100
@@ -3230,8 +3235,8 @@ Oude Badweg,152,A,13,9752XP,Haren Gn,Haren,Groningen,VBO,6.564828,53.173744
 Oude Badweg,152,A,14,9752XP,Haren Gn,Haren,Groningen,VBO,6.565215,53.173687
 Oude Badweg,152,A,15,9752XP,Haren Gn,Haren,Groningen,VBO,6.565164,53.173436
 Oude Badweg,152,A,16,9752XP,Haren Gn,Haren,Groningen,VBO,6.565459,53.173307
-Oude Badweg,152,A,17,9752XP,Haren Gn,Haren,Groningen,VBO,6.566259,53.173569
 Oude Badweg,152,A,17,9752XP,Haren Gn,Haren,Groningen,VBO,6.566063,53.173628
+Oude Badweg,152,A,17,9752XP,Haren Gn,Haren,Groningen,VBO,6.566259,53.173569
 Oude Badweg,152,A,18,9752XP,Haren Gn,Haren,Groningen,VBO,6.565773,53.172747
 Oude Badweg,152,A,2,9752XP,Haren Gn,Haren,Groningen,VBO,6.564551,53.174547
 Oude Badweg,152,A,3,9752XP,Haren Gn,Haren,Groningen,VBO,6.564144,53.174434
