@@ -2,8 +2,6 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 Needseweg,3,,,7271AA,Borculo,Berkelland,Gelderland,VBO,6.524065,52.117181
 Needseweg,5,,,7271AA,Borculo,Berkelland,Gelderland,VBO,6.524357,52.117294
 Oude Needseweg,2,,,7271AA,Borculo,Berkelland,Gelderland,VBO,6.531279,52.117883
-Oude Needseweg,6,,,7271AA,Borculo,Berkelland,Gelderland,VBO,6.534821,52.118402
-Needseweg,6,,,7271AB,Borculo,Berkelland,Gelderland,VBO,6.524577,52.116958
 Needseweg,7,,,7271AB,Borculo,Berkelland,Gelderland,VBO,6.525671,52.117281
 Needseweg,23,,,7271AB,Borculo,Berkelland,Gelderland,VBO,6.527918,52.117808
 Needseweg,31,,,7271AB,Borculo,Berkelland,Gelderland,VBO,6.531467,52.116695
@@ -43,14 +41,17 @@ Veemarkt,4,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524088,52.116081
 Veemarkt,5,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.523909,52.116345
 Veemarkt,6,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524112,52.116011
 Veemarkt,8,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524122,52.115975
-Veemarkt,9,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524182,52.116366
+Veemarkt,9,a,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524366,52.116335
+Veemarkt,9,b,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524509,52.116335
+Veemarkt,9,c,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524642,52.116337
+Veemarkt,9,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524204,52.116337
 Veemarkt,10,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524132,52.115948
-Veemarkt,11,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524308,52.116358
+Veemarkt,11,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524391,52.116414
 Veemarkt,12,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524142,52.115923
-Veemarkt,13,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524436,52.116363
+Veemarkt,13,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524507,52.116411
 Veemarkt,14,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524183,52.115844
-Veemarkt,15,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524620,52.116363
-Veemarkt,17,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524733,52.116375
+Veemarkt,15,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524627,52.116410
+Veemarkt,17,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.524728,52.116429
 Veemarkt,21,,,7271AH,Borculo,Berkelland,Gelderland,VBO,6.525114,52.116208
 Weverstraat,1,,,7271AJ,Borculo,Berkelland,Gelderland,VBO,6.523843,52.115650
 Weverstraat,2,a,,7271AJ,Borculo,Berkelland,Gelderland,VBO,6.523878,52.115500
@@ -353,7 +354,6 @@ Lange Molenstraat,7,,,7271BJ,Borculo,Berkelland,Gelderland,VBO,6.520832,52.11457
 Lange Molenstraat,8,,,7271BJ,Borculo,Berkelland,Gelderland,VBO,6.521165,52.114628
 Lange Molenstraat,9,,,7271BJ,Borculo,Berkelland,Gelderland,VBO,6.520843,52.114631
 Lange Molenstraat,10,,,7271BJ,Borculo,Berkelland,Gelderland,VBO,6.521077,52.114647
-Lange Molenstraat,13,,,7271BJ,Borculo,Berkelland,Gelderland,VBO,6.520990,52.114758
 Lange Molenstraat,15,,,7271BJ,Borculo,Berkelland,Gelderland,VBO,6.521025,52.114872
 Lange Molenstraat,17,,,7271BJ,Borculo,Berkelland,Gelderland,VBO,6.521144,52.114952
 Het Eiland,1,,,7271BK,Borculo,Berkelland,Gelderland,VBO,6.521221,52.115122
@@ -1432,6 +1432,17 @@ Prinses Irenestraat,15,,,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511773,52.11
 Prinses Irenestraat,17,,,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511586,52.113425
 Prinses Irenestraat,19,,,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511237,52.113509
 Prinses Irenestraat,21,,,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511284,52.113608
+Prinses Irenestraat,23,,G01,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511103,52.113599
+Prinses Irenestraat,23,,G02,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511087,52.113584
+Prinses Irenestraat,23,,G03,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511062,52.113571
+Prinses Irenestraat,23,,G04,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511038,52.113558
+Prinses Irenestraat,23,,G05,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511015,52.113544
+Prinses Irenestraat,23,,G06,7271GA,Borculo,Berkelland,Gelderland,VBO,6.510964,52.113575
+Prinses Irenestraat,23,,G07,7271GA,Borculo,Berkelland,Gelderland,VBO,6.510983,52.113590
+Prinses Irenestraat,23,,G08,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511004,52.113603
+Prinses Irenestraat,23,,G09,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511028,52.113618
+Prinses Irenestraat,23,,G10,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511049,52.113631
+Prinses Irenestraat,23,,G11,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511071,52.113646
 Prinses Irenestraat,23,,,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511256,52.113662
 Prinses Irenestraat,25,,,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511084,52.113810
 Prinses Irenestraat,27,,,7271GA,Borculo,Berkelland,Gelderland,VBO,6.511122,52.113790
@@ -1471,15 +1482,7 @@ Prinses Irenestraat,36,,,7271GB,Borculo,Berkelland,Gelderland,VBO,6.512563,52.11
 Prinses Irenestraat,38,,,7271GB,Borculo,Berkelland,Gelderland,VBO,6.512486,52.113328
 Prinses Irenestraat,40,,,7271GB,Borculo,Berkelland,Gelderland,VBO,6.512361,52.113411
 Prinses Irenestraat,42,,,7271GB,Borculo,Berkelland,Gelderland,VBO,6.512300,52.113450
-Prinses Irenestraat,44,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511841,52.113734
-Prinses Irenestraat,46,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511767,52.113763
-Prinses Irenestraat,48,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511653,52.113845
 Prinses Irenestraat,50,a,T01,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511697,52.114033
-Prinses Irenestraat,50,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511583,52.113881
-Prinses Irenestraat,52,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511418,52.113984
-Prinses Irenestraat,54,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511345,52.114022
-Prinses Irenestraat,56,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511194,52.114093
-Prinses Irenestraat,58,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.511128,52.114136
 Prinses Irenestraat,62,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.510834,52.114322
 Prinses Irenestraat,64,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.510748,52.114377
 Prinses Irenestraat,66,,,7271GC,Borculo,Berkelland,Gelderland,VBO,6.510619,52.114459
@@ -1510,14 +1513,6 @@ Kronenburgerstraat,33,,,7271GD,Borculo,Berkelland,Gelderland,VBO,6.515298,52.112
 Kronenburgerstraat,2,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515466,52.113891
 Kronenburgerstraat,4,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515361,52.113767
 Kronenburgerstraat,6,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515302,52.113731
-Kronenburgerstraat,8,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515187,52.113631
-Kronenburgerstraat,8,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515197,52.113620
-Kronenburgerstraat,10,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515148,52.113585
-Kronenburgerstraat,10,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515160,52.113572
-Kronenburgerstraat,12,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515005,52.113491
-Kronenburgerstraat,12,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515033,52.113482
-Kronenburgerstraat,14,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.514975,52.113444
-Kronenburgerstraat,14,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.515002,52.113431
 Kronenburgerstraat,16,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.514868,52.113322
 Kronenburgerstraat,18,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.514734,52.113233
 Kronenburgerstraat,20,,,7271GE,Borculo,Berkelland,Gelderland,VBO,6.514601,52.113145
@@ -1563,29 +1558,7 @@ Prinses Margrietstraat,1,,G40,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513517,
 Prinses Margrietstraat,1,,G41,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513480,52.114405
 Prinses Margrietstraat,1,,G42,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513444,52.114377
 Prinses Margrietstraat,1,,G43,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513417,52.114348
-Prinses Margrietstraat,1,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513330,52.114224
-Prinses Margrietstraat,3,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513265,52.114188
-Prinses Margrietstraat,5,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513205,52.114054
-Prinses Margrietstraat,7,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513135,52.114020
-Prinses Margrietstraat,9,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513068,52.113971
-Prinses Margrietstraat,11,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.513002,52.113941
-Prinses Margrietstraat,13,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.512930,52.113902
-Prinses Margrietstraat,15,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.512858,52.113853
-Prinses Margrietstraat,17,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.512787,52.113812
-Prinses Margrietstraat,19,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.512548,52.113772
-Prinses Margrietstraat,21,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.512488,52.113749
-Prinses Margrietstraat,23,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.512434,52.113699
 Prinses Margrietstraat,25,,,7271GJ,Borculo,Berkelland,Gelderland,VBO,6.512129,52.113537
-Prinses Margrietstraat,2,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512969,52.114380
-Prinses Margrietstraat,4,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512873,52.114338
-Prinses Margrietstraat,6,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512806,52.114306
-Prinses Margrietstraat,8,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512749,52.114264
-Prinses Margrietstraat,10,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512672,52.114227
-Prinses Margrietstraat,12,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512532,52.114153
-Prinses Margrietstraat,16,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512403,52.114064
-Prinses Margrietstraat,18,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512336,52.114022
-Prinses Margrietstraat,20,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512263,52.113992
-Prinses Marijkestraat,14,,,7271GK,Borculo,Berkelland,Gelderland,VBO,6.512465,52.114103
 Prins Bernhardstraat,1,,,7271GL,Borculo,Berkelland,Gelderland,VBO,6.514038,52.115739
 Prins Bernhardstraat,3,,,7271GL,Borculo,Berkelland,Gelderland,VBO,6.513935,52.115704
 Prins Bernhardstraat,5,,,7271GL,Borculo,Berkelland,Gelderland,VBO,6.513794,52.115650
@@ -1753,6 +1726,17 @@ Prinses Marijkestraat,11,,,7271GV,Borculo,Berkelland,Gelderland,VBO,6.515589,52.
 't Hambroek,60,,,7271HB,Borculo,Berkelland,Gelderland,VBO,6.532694,52.112737
 't Hambroek,62,,,7271HB,Borculo,Berkelland,Gelderland,VBO,6.532812,52.112753
 't Hambroek,64,,,7271HB,Borculo,Berkelland,Gelderland,VBO,6.532915,52.112797
+Eikenlaan,1,,G01,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528663,52.114401
+Eikenlaan,1,,G03,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528749,52.114370
+Eikenlaan,1,,G04,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528790,52.114355
+Eikenlaan,1,,G05,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528832,52.114344
+Eikenlaan,1,,G06,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528874,52.114333
+Eikenlaan,1,,G07,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528920,52.114317
+Eikenlaan,1,,G08,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528958,52.114304
+Eikenlaan,1,,G12,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528736,52.114236
+Eikenlaan,1,,G13,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528694,52.114253
+Eikenlaan,1,,G14,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528652,52.114266
+Eikenlaan,1,,G15,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528606,52.114279
 Eikenlaan,1,,,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528494,52.114072
 Eikenlaan,3,,,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528567,52.114044
 Eikenlaan,5,,,7271HC,Borculo,Berkelland,Gelderland,VBO,6.528712,52.114007
@@ -1796,6 +1780,11 @@ Eikenlaan,81,,,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533560,52.114616
 Eikenlaan,83,,,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533591,52.114669
 Eikenlaan,85,,,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533607,52.114714
 Eikenlaan,87,,,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533681,52.114767
+Eikenlaan,89,,G02,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533240,52.114650
+Eikenlaan,89,,G04,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533133,52.114680
+Eikenlaan,89,,G06,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533061,52.114746
+Eikenlaan,89,,G07,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533085,52.114774
+Eikenlaan,89,,G08,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533103,52.114803
 Eikenlaan,89,,,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533711,52.114821
 Eikenlaan,91,,,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533349,52.114905
 Eikenlaan,93,,,7271HE,Borculo,Berkelland,Gelderland,VBO,6.533277,52.114942
@@ -1966,6 +1955,27 @@ Prunusstraat,18,,,7271HR,Borculo,Berkelland,Gelderland,VBO,6.531845,52.114345
 Prunusstraat,20,,,7271HR,Borculo,Berkelland,Gelderland,VBO,6.531861,52.114399
 Prunusstraat,22,,,7271HR,Borculo,Berkelland,Gelderland,VBO,6.531967,52.114532
 Prunusstraat,24,,,7271HR,Borculo,Berkelland,Gelderland,VBO,6.531997,52.114577
+Prunusstraat,26,,G01,7271HR,Borculo,Berkelland,Gelderland,VBO,6.532225,52.114953
+Prunusstraat,26,,G02,7271HR,Borculo,Berkelland,Gelderland,VBO,6.532280,52.114933
+Prunusstraat,26,,G03,7271HR,Borculo,Berkelland,Gelderland,VBO,6.532330,52.114921
+Prunusstraat,26,,G04,7271HR,Borculo,Berkelland,Gelderland,VBO,6.532376,52.114906
+Prunusstraat,26,,G05,7271HR,Borculo,Berkelland,Gelderland,VBO,6.532433,52.114890
+Prunusstraat,32,,G02,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530309,52.115531
+Prunusstraat,32,,G05,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530438,52.115583
+Prunusstraat,32,,G06,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530488,52.115573
+Prunusstraat,32,,G07,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530526,52.115565
+Prunusstraat,32,,G08,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530566,52.115551
+Prunusstraat,32,,G09,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530603,52.115540
+Prunusstraat,32,,G10,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530635,52.115528
+Prunusstraat,32,,G11,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530673,52.115517
+Prunusstraat,32,,G12,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530712,52.115506
+Prunusstraat,32,,G13,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530752,52.115492
+Prunusstraat,32,,G14,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530790,52.115480
+Prunusstraat,32,,G15,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530831,52.115470
+Prunusstraat,32,,G16,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530873,52.115457
+Prunusstraat,32,,G17,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530909,52.115445
+Prunusstraat,32,,G18,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530946,52.115431
+Prunusstraat,32,,G19,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530982,52.115417
 Prunusstraat,34,,,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530742,52.115191
 Prunusstraat,36,,,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530655,52.115210
 Prunusstraat,38,,,7271HR,Borculo,Berkelland,Gelderland,VBO,6.530496,52.115266
@@ -2343,7 +2353,6 @@ Hesselinks Es,9,,,7271LB,Borculo,Berkelland,Gelderland,VBO,6.536286,52.122382
 Hesselinks Es,21,,,7271LB,Borculo,Berkelland,Gelderland,VBO,6.537513,52.121849
 Hesselinks Es,23,a,,7271LB,Borculo,Berkelland,Gelderland,VBO,6.538305,52.121660
 Hesselinks Es,23,,,7271LB,Borculo,Berkelland,Gelderland,VBO,6.537992,52.121719
-Hesselinks Es,25,,,7271LB,Borculo,Berkelland,Gelderland,VBO,6.539235,52.122271
 Jonkerspad,1,,,7271LC,Borculo,Berkelland,Gelderland,VBO,6.530282,52.123885
 Jonkerspad,3,a,,7271LC,Borculo,Berkelland,Gelderland,VBO,6.531898,52.123252
 Jonkerspad,3,,,7271LC,Borculo,Berkelland,Gelderland,VBO,6.531644,52.123596
@@ -2367,7 +2376,8 @@ Bosberg,5,b,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.534208,52.123758
 Bosberg,5,,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.534457,52.123673
 Bosberg,7,,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.534895,52.123951
 Bosberg,9,,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.535151,52.124245
-Bosberg,19,,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.536319,52.123864
+Bosberg,19,a,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.536295,52.123890
+Bosberg,19,,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.536383,52.124083
 Bosberg,21,,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.537024,52.123813
 Bosberg,23,,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.538282,52.123328
 Bosberg,25,a,,7271LE,Borculo,Berkelland,Gelderland,VBO,6.538934,52.122581
@@ -2431,11 +2441,11 @@ Korenbree,28,,08,7271LH,Borculo,Berkelland,Gelderland,VBO,6.531313,52.125843
 Korenbree,28,,09,7271LH,Borculo,Berkelland,Gelderland,VBO,6.531405,52.125899
 Korenbree,28,,10,7271LH,Borculo,Berkelland,Gelderland,VBO,6.531500,52.125958
 Korenbree,28,,11,7271LH,Borculo,Berkelland,Gelderland,VBO,6.531592,52.126013
-Korenbree,30,,01,7271LH,Borculo,Berkelland,Gelderland,VBO,6.532048,52.126318
-Korenbree,30,,02,7271LH,Borculo,Berkelland,Gelderland,VBO,6.532304,52.126173
-Korenbree,30,,03,7271LH,Borculo,Berkelland,Gelderland,VBO,6.531986,52.126243
-Korenbree,30,,04,7271LH,Borculo,Berkelland,Gelderland,VBO,6.532089,52.126181
-Korenbree,30,,05,7271LH,Borculo,Berkelland,Gelderland,VBO,6.532197,52.126116
+Korenbree,30,,01,7271LH,Borculo,Berkelland,Gelderland,VBO,6.532091,52.126382
+Korenbree,30,,02,7271LH,Borculo,Berkelland,Gelderland,VBO,6.532354,52.126234
+Korenbree,30,,03,7271LH,Borculo,Berkelland,Gelderland,VBO,6.532309,52.126172
+Korenbree,30,,04,7271LH,Borculo,Berkelland,Gelderland,VBO,6.532203,52.126114
+Korenbree,30,,05,7271LH,Borculo,Berkelland,Gelderland,VBO,6.531984,52.126246
 Korenbree,32,,01,7271LH,Borculo,Berkelland,Gelderland,VBO,6.531676,52.126570
 Korenbree,32,,02,7271LH,Borculo,Berkelland,Gelderland,VBO,6.531273,52.126773
 Korenbree,34,a,,7271LH,Borculo,Berkelland,Gelderland,VBO,6.530219,52.126484
@@ -2497,6 +2507,7 @@ Heelweg,3,,,7271ND,Borculo,Berkelland,Gelderland,VBO,6.533188,52.087572
 Heelweg,4,,,7271ND,Borculo,Berkelland,Gelderland,VBO,6.530567,52.089530
 Platvoetsdijk,1,,,7271NE,Borculo,Berkelland,Gelderland,VBO,6.500040,52.104178
 Platvoetsdijk,3,,,7271NE,Borculo,Berkelland,Gelderland,VBO,6.503532,52.103138
+Platvoetsdijk,5,,01,7271NE,Borculo,Berkelland,Gelderland,VBO,6.513414,52.098491
 Platvoetsdijk,7,,,7271NE,Borculo,Berkelland,Gelderland,VBO,6.515176,52.097202
 Platvoetsdijk,9,,,7271NE,Borculo,Berkelland,Gelderland,VBO,6.516769,52.096692
 Platvoetsdijk,11,,,7271NE,Borculo,Berkelland,Gelderland,VBO,6.516668,52.096738
@@ -2580,6 +2591,7 @@ Herenlaan,1,,,7271NR,Borculo,Berkelland,Gelderland,VBO,6.509854,52.094466
 Herenlaan,2,,,7271NR,Borculo,Berkelland,Gelderland,VBO,6.509918,52.092691
 Schoollaan,1,,,7271NS,Borculo,Berkelland,Gelderland,VBO,6.509897,52.094466
 Schoollaan,3,,,7271NS,Borculo,Berkelland,Gelderland,VBO,6.509980,52.094268
+Wessel van Eylllaan,1,,01,7271NT,Borculo,Berkelland,Gelderland,VBO,6.513828,52.102073
 Wessel van Eylllaan,1,,,7271NT,Borculo,Berkelland,Gelderland,VBO,6.512522,52.103061
 Wessel van Eylllaan,2,a,,7271NT,Borculo,Berkelland,Gelderland,VBO,6.511864,52.103041
 Wessel van Eylllaan,2,,,7271NT,Borculo,Berkelland,Gelderland,VBO,6.511629,52.105296
@@ -2615,6 +2627,7 @@ Beijershorstdijk,4,,,7271NW,Borculo,Berkelland,Gelderland,VBO,6.496273,52.098023
 Beijershorstdijk,5,,,7271NW,Borculo,Berkelland,Gelderland,VBO,6.498923,52.099775
 Beijershorstdijk,7,,,7271NW,Borculo,Berkelland,Gelderland,VBO,6.496656,52.096057
 Beijershorstdijk,9,,,7271NW,Borculo,Berkelland,Gelderland,VBO,6.495131,52.096332
+Snofhuttedijk,1,,,7271NX,Borculo,Berkelland,Gelderland,VBO,6.511468,52.107665
 Snofhuttedijk,8,,,7271NX,Borculo,Berkelland,Gelderland,VBO,6.496257,52.107009
 Wiechersweg,1,,,7271NZ,Borculo,Berkelland,Gelderland,VBO,6.483319,52.105044
 Wiechersweg,3,a,,7271NZ,Borculo,Berkelland,Gelderland,VBO,6.481660,52.104418
@@ -2660,11 +2673,9 @@ Kooweide,31,,,7271RA,Borculo,Berkelland,Gelderland,VBO,6.517758,52.108582
 Kooweide,8,,,7271RB,Borculo,Berkelland,Gelderland,VBO,6.518421,52.108199
 Kooweide,10,,,7271RB,Borculo,Berkelland,Gelderland,VBO,6.518658,52.108259
 Kooweide,12,,,7271RB,Borculo,Berkelland,Gelderland,VBO,6.518888,52.108319
-Kooweide,14,,,7271RB,Borculo,Berkelland,Gelderland,VBO,6.519178,52.108446
 Kooweide,16,,,7271RB,Borculo,Berkelland,Gelderland,VBO,6.519372,52.108572
 Kooweide,18,,,7271RB,Borculo,Berkelland,Gelderland,VBO,6.519593,52.108667
 Kooweide,20,,,7271RB,Borculo,Berkelland,Gelderland,VBO,6.519865,52.108732
-Kooweide,22,,,7271RB,Borculo,Berkelland,Gelderland,VBO,6.520165,52.108801
 Tedinkweide,1,,,7271RC,Borculo,Berkelland,Gelderland,VBO,6.514427,52.108133
 Tedinkweide,3,,,7271RC,Borculo,Berkelland,Gelderland,VBO,6.514522,52.108120
 Tedinkweide,5,,,7271RC,Borculo,Berkelland,Gelderland,VBO,6.514597,52.108110
@@ -2799,7 +2810,6 @@ Schollenkamp,18,,,7271RJ,Borculo,Berkelland,Gelderland,VBO,6.516503,52.108550
 Schollenkamp,19,,,7271RJ,Borculo,Berkelland,Gelderland,VBO,6.517005,52.108637
 Schollenkamp,20,,,7271RJ,Borculo,Berkelland,Gelderland,VBO,6.516641,52.108465
 Schollenkamp,22,,,7271RJ,Borculo,Berkelland,Gelderland,VBO,6.516696,52.108416
-Rekenseweg,1,,,7271RK,Borculo,Berkelland,Gelderland,VBO,6.518478,52.110054
 Rekenseweg,2,,,7271RK,Borculo,Berkelland,Gelderland,VBO,6.518111,52.109881
 Rekenseweg,4,,,7271RK,Borculo,Berkelland,Gelderland,VBO,6.518409,52.109606
 Rekenseweg,6,,,7271RK,Borculo,Berkelland,Gelderland,VBO,6.518430,52.109559
@@ -2861,7 +2871,7 @@ Ruurloseweg,34,,,7271RT,Borculo,Berkelland,Gelderland,VBO,6.500637,52.103534
 Ruurloseweg,36,,,7271RT,Borculo,Berkelland,Gelderland,VBO,6.496571,52.102610
 Ruurloseweg,38,,,7271RT,Borculo,Berkelland,Gelderland,VBO,6.496483,52.102584
 Ruurloseweg,50,,,7271RT,Borculo,Berkelland,Gelderland,VBO,6.488841,52.100507
-Ruurloseweg,52,,,7271RT,Borculo,Berkelland,Gelderland,VBO,6.488338,52.100693
+Ruurloseweg,52,,,7271RT,Borculo,Berkelland,Gelderland,VBO,6.488285,52.100728
 Grolse Steeg,1,,,7271RV,Borculo,Berkelland,Gelderland,VBO,6.521565,52.110831
 Grolse Steeg,2,a,,7271RV,Borculo,Berkelland,Gelderland,VBO,6.521037,52.110755
 Grolse Steeg,2,,,7271RV,Borculo,Berkelland,Gelderland,VBO,6.521009,52.110809
@@ -2912,6 +2922,7 @@ Barchemseweg,28,,,7271SM,Borculo,Berkelland,Gelderland,VBO,6.503071,52.118717
 Barchemseweg,30,,,7271SM,Borculo,Berkelland,Gelderland,VBO,6.496973,52.120557
 Barchemseweg,40,,,7271SM,Borculo,Berkelland,Gelderland,VBO,6.491998,52.120172
 Parallelweg,1,,,7271VB,Borculo,Berkelland,Gelderland,VBO,6.523359,52.119281
+Parallelweg,3,,,7271VB,Borculo,Berkelland,Gelderland,VBO,6.523493,52.119323
 Parallelweg,7,,,7271VB,Borculo,Berkelland,Gelderland,VBO,6.523782,52.119367
 Parallelweg,9,,,7271VB,Borculo,Berkelland,Gelderland,VBO,6.523885,52.119393
 Parallelweg,11,,,7271VB,Borculo,Berkelland,Gelderland,VBO,6.524061,52.119436
@@ -3240,8 +3251,10 @@ Lochemseweg,55,,,7271WC,Borculo,Berkelland,Gelderland,VBO,6.520102,52.122800
 Lochemseweg,57,,,7271WC,Borculo,Berkelland,Gelderland,VBO,6.519771,52.123010
 Lochemseweg,59,a,,7271WC,Borculo,Berkelland,Gelderland,VBO,6.519550,52.123195
 Lochemseweg,59,,,7271WC,Borculo,Berkelland,Gelderland,VBO,6.519584,52.123137
-Lochemseweg,2,a,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523271,52.119341
-Lochemseweg,2,,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523319,52.119387
+Lochemseweg,2,a,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523457,52.119439
+Lochemseweg,2,b,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523282,52.119315
+Lochemseweg,2,c,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523287,52.119359
+Lochemseweg,2,,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523373,52.119384
 Lochemseweg,4,,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523153,52.119912
 Lochemseweg,6,,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523098,52.120047
 Lochemseweg,8,,,7271WD,Borculo,Berkelland,Gelderland,VBO,6.523013,52.120156
