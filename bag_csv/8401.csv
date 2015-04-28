@@ -363,7 +363,6 @@ Easterein,19,,,8401AV,Gorredijk,Opsterland,Friesland,VBO,6.075598,52.997701
 Easterein,20,,,8401AV,Gorredijk,Opsterland,Friesland,VBO,6.075687,52.997655
 Easterein,21,,,8401AV,Gorredijk,Opsterland,Friesland,VBO,6.075820,52.997574
 Easterein,22,A,,8401AV,Gorredijk,Opsterland,Friesland,VBO,6.077589,52.997375
-Easterein,22,,,8401AV,Gorredijk,Opsterland,Friesland,VBO,6.075959,52.997530
 Easterein,23,,,8401AW,Gorredijk,Opsterland,Friesland,VBO,6.077915,52.997247
 Easterein,24,,,8401AW,Gorredijk,Opsterland,Friesland,VBO,6.078389,52.997136
 Easterein,25,,,8401AW,Gorredijk,Opsterland,Friesland,VBO,6.079011,52.996863
@@ -417,6 +416,7 @@ De Leijen,79,,TR01,8401BA,Gorredijk,Opsterland,Friesland,VBO,6.057219,52.983855
 De Leijen,79,,,8401BA,Gorredijk,Opsterland,Friesland,VBO,6.056678,52.983960
 De Leijen,81,,,8401BA,Gorredijk,Opsterland,Friesland,VBO,6.056363,52.983791
 De Leijen,83,,,8401BA,Gorredijk,Opsterland,Friesland,VBO,6.056802,52.983303
+De Leijen,85,A,,8401BA,Gorredijk,Opsterland,Friesland,VBO,6.055430,52.983135
 De Leijen,85,,,8401BA,Gorredijk,Opsterland,Friesland,VBO,6.056861,52.982251
 De Leijen,87,A,,8401BA,Gorredijk,Opsterland,Friesland,VBO,6.054635,52.982749
 De Leijen,87,,,8401BA,Gorredijk,Opsterland,Friesland,VBO,6.055061,52.983367
@@ -636,7 +636,16 @@ Geert van der Zwaagstrjitte,34,,,8401BS,Gorredijk,Opsterland,Friesland,VBO,6.061
 Geert van der Zwaagstrjitte,36,,,8401BS,Gorredijk,Opsterland,Friesland,VBO,6.060976,53.001864
 Geert van der Zwaagstrjitte,38,,,8401BS,Gorredijk,Opsterland,Friesland,VBO,6.060900,53.001792
 Hoofdstraat,1,,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.064949,53.004465
-Hoofdstraat,3,,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065094,53.004195
+Hoofdstraat,3,A,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065208,53.004114
+Hoofdstraat,3,B,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065128,53.004098
+Hoofdstraat,3,C,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065128,53.004135
+Hoofdstraat,3,E,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065103,53.004113
+Hoofdstraat,3,F,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065032,53.004099
+Hoofdstraat,3,G,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065005,53.004155
+Hoofdstraat,3,H,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.064993,53.004198
+Hoofdstraat,3,J,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.064981,53.004242
+Hoofdstraat,3,K,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065061,53.004252
+Hoofdstraat,3,,,8401BT,Gorredijk,Opsterland,Friesland,VBO,6.065062,53.004173
 Hoofdstraat,13,,,8401BV,Gorredijk,Opsterland,Friesland,VBO,6.065188,53.003556
 Hoofdstraat,15,,,8401BV,Gorredijk,Opsterland,Friesland,VBO,6.065201,53.003439
 Hoofdstraat,17,,,8401BV,Gorredijk,Opsterland,Friesland,VBO,6.065012,53.003384
@@ -1843,7 +1852,6 @@ De Kalkovens,12,,,8401JA,Gorredijk,Opsterland,Friesland,VBO,6.054773,53.006302
 De Kalkovens,14,,,8401JA,Gorredijk,Opsterland,Friesland,VBO,6.055187,53.006138
 De Kalkovens,16,,,8401JA,Gorredijk,Opsterland,Friesland,VBO,6.055424,53.006038
 De Kalkovens,18,,,8401JA,Gorredijk,Opsterland,Friesland,VBO,6.055750,53.005928
-De Kalkovens,22,,,8401JA,Gorredijk,Opsterland,Friesland,VBO,6.057039,53.005398
 De Kalkovens,1,,,8401JB,Gorredijk,Opsterland,Friesland,VBO,6.053394,53.007226
 De Kalkovens,3,,,8401JB,Gorredijk,Opsterland,Friesland,VBO,6.053800,53.006980
 't Kiemke,3,,,8401JC,Gorredijk,Opsterland,Friesland,VBO,6.058662,53.006028
@@ -2945,53 +2953,7 @@ Schansburg,44,,,8401SG,Gorredijk,Opsterland,Friesland,VBO,6.072291,53.005214
 Schansburg,46,,,8401SG,Gorredijk,Opsterland,Friesland,VBO,6.072380,53.005214
 Schansburg,48,,,8401SG,Gorredijk,Opsterland,Friesland,VBO,6.072484,53.005231
 Schansburg,50,,,8401SG,Gorredijk,Opsterland,Friesland,VBO,6.072589,53.005258
-Hofland,1,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066510,53.003689
-Hofland,3,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066095,53.003655
-Hofland,5,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066236,53.003579
 Hofland,6,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066674,53.003323
-Hofland,7,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066390,53.003494
-Hofland,111,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.065994,53.003782
-Hofland,115,A,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066030,53.003678
-Hofland,115,B,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066144,53.003700
-Hofland,115,C,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066199,53.003664
-Hofland,115,D,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066249,53.003631
-Hofland,115,E,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066313,53.003595
-Hofland,115,F,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066378,53.003556
-Hofland,115,G,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066451,53.003510
-Hofland,115,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066291,53.003545
-Hofland,117,A,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066536,53.003537
-Hofland,117,B,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066629,53.003569
-Hofland,117,C,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066710,53.003605
-Hofland,117,D,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066790,53.003628
-Hofland,117,E,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066873,53.003657
-Hofland,117,F,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066959,53.003689
-Hofland,117,G,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066992,53.003656
-Hofland,117,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066717,53.003552
-Hofland,211,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066059,53.003794
-Hofland,215,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066184,53.003734
-Hofland,217,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066245,53.003695
-Hofland,219,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066300,53.003662
-Hofland,221,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066361,53.003622
-Hofland,223,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066421,53.003584
-Hofland,225,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066470,53.003552
-Hofland,227,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066526,53.003584
-Hofland,229,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066602,53.003610
-Hofland,231,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066686,53.003642
-Hofland,233,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066765,53.003672
-Hofland,235,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066845,53.003701
-Hofland,237,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066922,53.003733
-Hofland,311,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066124,53.003814
-Hofland,315,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066240,53.003753
-Hofland,317,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066285,53.003723
-Hofland,319,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066335,53.003685
-Hofland,321,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066383,53.003653
-Hofland,323,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066429,53.003627
-Hofland,325,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066474,53.003607
-Hofland,327,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066514,53.003633
-Hofland,329,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066570,53.003653
-Hofland,331,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066636,53.003678
-Hofland,333,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066701,53.003706
-Hofland,335,,,8401SH,Gorredijk,Opsterland,Friesland,VBO,6.066759,53.003733
 De Vlecke,1,,,8401SJ,Gorredijk,Opsterland,Friesland,VBO,6.073595,53.002452
 De Vlecke,3,,,8401SJ,Gorredijk,Opsterland,Friesland,VBO,6.073589,53.002502
 De Vlecke,5,,,8401SJ,Gorredijk,Opsterland,Friesland,VBO,6.073605,53.002583

@@ -352,6 +352,7 @@ Hazenstraat,68,,,1216AZ,Hilversum,Hilversum,Noord-Holland,VBO,5.152887,52.222739
 Hazenstraat,70,,,1216AZ,Hilversum,Hilversum,Noord-Holland,VBO,5.152911,52.222782
 Hazenstraat,72,,,1216AZ,Hilversum,Hilversum,Noord-Holland,VBO,5.152958,52.222923
 1e Loswal,1,,,1216BA,Hilversum,Hilversum,Noord-Holland,VBO,5.148527,52.223227
+1e Loswal,5,,,1216BA,Hilversum,Hilversum,Noord-Holland,VBO,5.148235,52.222858
 1e Loswal,9,,,1216BA,Hilversum,Hilversum,Noord-Holland,VBO,5.148529,52.222197
 2e Loswal,1,,,1216BC,Hilversum,Hilversum,Noord-Holland,VBO,5.146934,52.223084
 2e Loswal,3,A,,1216BC,Hilversum,Hilversum,Noord-Holland,VBO,5.146691,52.222940
@@ -950,7 +951,6 @@ Wezellaan,31,,,1216EA,Hilversum,Hilversum,Noord-Holland,VBO,5.152057,52.217514
 Wezellaan,32,,,1216EA,Hilversum,Hilversum,Noord-Holland,VBO,5.152026,52.217463
 Wezellaan,33,,,1216EA,Hilversum,Hilversum,Noord-Holland,VBO,5.151980,52.217401
 Wezellaan,34,,,1216EA,Hilversum,Hilversum,Noord-Holland,VBO,5.151918,52.217307
-Wezellaan,35,,,1216EA,Hilversum,Hilversum,Noord-Holland,VBO,5.151479,52.217845
 Hermelijnlaan,1,A,,1216EB,Hilversum,Hilversum,Noord-Holland,VBO,5.152547,52.216220
 Hermelijnlaan,1,,,1216EB,Hilversum,Hilversum,Noord-Holland,VBO,5.152639,52.216145
 Hermelijnlaan,3,,,1216EB,Hilversum,Hilversum,Noord-Holland,VBO,5.152397,52.216323
@@ -1394,7 +1394,6 @@ Zeverijnstraat,77,,,1216GJ,Hilversum,Hilversum,Noord-Holland,VBO,5.147942,52.217
 Bosje van Zeverijn,1,,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.150162,52.218816
 Zeverijnstraat,2,,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.150186,52.219944
 Zeverijnstraat,4,A,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.150571,52.219395
-Zeverijnstraat,4,B,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.150087,52.219899
 Zeverijnstraat,4,,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.150445,52.219496
 Zeverijnstraat,6,A,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.149960,52.219268
 Zeverijnstraat,6,,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.150065,52.219494
@@ -1407,6 +1406,7 @@ Zeverijnstraat,12,C,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.148245,52.21
 Zeverijnstraat,12,D,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.148157,52.219446
 Zeverijnstraat,14,A,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.148874,52.219319
 Zeverijnstraat,14,B,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.149299,52.218859
+Zeverijnstraat,14,C,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.149281,52.219175
 Zeverijnstraat,14,,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.148597,52.219525
 Zeverijnstraat,16,,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.148363,52.218821
 Zeverijnstraat,18,,,1216GK,Hilversum,Hilversum,Noord-Holland,VBO,5.148204,52.218419
@@ -1896,39 +1896,11 @@ Kapittelweg,95,,,1216HS,Hilversum,Hilversum,Noord-Holland,VBO,5.141377,52.214934
 Kapittelweg,97,,,1216HS,Hilversum,Hilversum,Noord-Holland,VBO,5.141377,52.214934
 Kapittelweg,99,,,1216HS,Hilversum,Hilversum,Noord-Holland,VBO,5.141377,52.214934
 Kapittelweg,101,,,1216HS,Hilversum,Hilversum,Noord-Holland,VBO,5.141377,52.214934
-Kapittelweg,103,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.140741,52.215896
-Kapittelweg,105,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.140759,52.216134
-Kapittelweg,107,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141371,52.216193
-Kapittelweg,109,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141494,52.216153
-Kapittelweg,111,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141598,52.216092
-Kapittelweg,113,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141866,52.216078
-Kapittelweg,115,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141988,52.216188
-Kapittelweg,117,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142323,52.216122
-Kapittelweg,119,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142234,52.216053
-Kapittelweg,121,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142150,52.215957
-Kapittelweg,123,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142084,52.215899
-Kapittelweg,125,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142028,52.215850
-Kapittelweg,127,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142047,52.215775
-Kapittelweg,129,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142128,52.215734
 Kapittelweg,131,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141946,52.215568
 Kapittelweg,133,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142018,52.215644
 Kapittelweg,135,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141913,52.215691
 Kapittelweg,137,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141829,52.215728
 Kapittelweg,139,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141747,52.215764
-Kapittelweg,141,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141486,52.215852
-Kapittelweg,143,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141373,52.215886
-Kapittelweg,145,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141273,52.215929
-Kapittelweg,147,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141126,52.215989
-Kapittelweg,149,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141061,52.215914
-Kapittelweg,205,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.140759,52.216134
-Kapittelweg,207,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141371,52.216193
-Kapittelweg,209,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141598,52.216092
-Kapittelweg,211,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141988,52.216188
-Kapittelweg,219,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142323,52.216122
-Kapittelweg,221,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142234,52.216053
-Kapittelweg,223,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142150,52.215957
-Kapittelweg,225,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142028,52.215850
-Kapittelweg,227,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142047,52.215775
 Kapittelweg,229,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141942,52.215431
 Kapittelweg,231,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.141946,52.215568
 Kapittelweg,233,,,1216HX,Hilversum,Hilversum,Noord-Holland,VBO,5.142018,52.215644
@@ -1952,15 +1924,6 @@ Kapittelweg,285,,,1216HZ,Hilversum,Hilversum,Noord-Holland,VBO,5.142396,52.21597
 Kapittelweg,287,,,1216HZ,Hilversum,Hilversum,Noord-Holland,VBO,5.142320,52.215906
 Kapittelweg,291,,,1216HZ,Hilversum,Hilversum,Noord-Holland,VBO,5.142248,52.215844
 Kapittelweg,293,,,1216HZ,Hilversum,Hilversum,Noord-Holland,VBO,5.142178,52.215783
-Kapittelweg,309,A,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141574,52.215763
-Kapittelweg,309,B,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141471,52.215805
-Kapittelweg,309,C,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141335,52.215845
-Kapittelweg,309,D,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141299,52.215871
-Kapittelweg,309,E,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141201,52.215898
-Kapittelweg,309,F,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141388,52.215750
-Kapittelweg,309,G,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141260,52.215796
-Kapittelweg,309,H,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141142,52.215859
-Kapittelweg,309,J,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141061,52.215914
 Kapittelweg,309,,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141529,52.216065
 Kapittelweg,311,,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141529,52.216065
 Kapittelweg,313,,,1216JA,Hilversum,Hilversum,Noord-Holland,VBO,5.141529,52.216065
@@ -4625,7 +4588,6 @@ Franciscusweg,12,B,,1216SK,Hilversum,Hilversum,Noord-Holland,VBO,5.144219,52.213
 Franciscusweg,12,D,,1216SK,Hilversum,Hilversum,Noord-Holland,VBO,5.144406,52.213007
 Franciscusweg,12,,,1216SK,Hilversum,Hilversum,Noord-Holland,VBO,5.144033,52.212584
 Franciscusweg,14,A,,1216SK,Hilversum,Hilversum,Noord-Holland,VBO,5.144836,52.213567
-Franciscusweg,14,,,1216SK,Hilversum,Hilversum,Noord-Holland,VBO,5.144560,52.213405
 Franciscusweg,16,,,1216SK,Hilversum,Hilversum,Noord-Holland,VBO,5.145183,52.213736
 Franciscusweg,20,A,,1216SK,Hilversum,Hilversum,Noord-Holland,VBO,5.145322,52.213811
 Franciscusweg,20,B,,1216SK,Hilversum,Hilversum,Noord-Holland,VBO,5.145387,52.213871

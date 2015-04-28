@@ -107,7 +107,6 @@ Amsterdamsestraatweg,52,,BS,3513AG,Utrecht,Utrecht,Utrecht,VBO,5.108014,52.09590
 Amsterdamsestraatweg,54,,BS,3513AG,Utrecht,Utrecht,Utrecht,VBO,5.107999,52.095910
 Amsterdamsestraatweg,54,,,3513AG,Utrecht,Utrecht,Utrecht,VBO,5.107999,52.095910
 Daalsetunnel,101,,,3513AG,Utrecht,Utrecht,Utrecht,VBO,5.108975,52.094418
-Amsterdamsestraatweg,56,A,,3513AH,Utrecht,Utrecht,Utrecht,VBO,5.107606,52.096126
 Amsterdamsestraatweg,56,B,,3513AH,Utrecht,Utrecht,Utrecht,VBO,5.107540,52.096160
 Amsterdamsestraatweg,56,,,3513AH,Utrecht,Utrecht,Utrecht,VBO,5.107664,52.096101
 Amsterdamsestraatweg,60,,BS,3513AH,Utrecht,Utrecht,Utrecht,VBO,5.107474,52.096210
@@ -359,6 +358,7 @@ Bemuurde Weerd W.Z.,4,A,,3513BH,Utrecht,Utrecht,Utrecht,VBO,5.114401,52.097555
 Bemuurde Weerd W.Z.,4,B,,3513BH,Utrecht,Utrecht,Utrecht,VBO,5.114362,52.097544
 Bemuurde Weerd W.Z.,4,C,,3513BH,Utrecht,Utrecht,Utrecht,VBO,5.114322,52.097531
 Bemuurde Weerd W.Z.,4,,,3513BH,Utrecht,Utrecht,Utrecht,VBO,5.114427,52.097565
+Bemuurde Weerd W.Z.,5,,,3513BH,Utrecht,Utrecht,Utrecht,VBO,5.114361,52.097630
 Bemuurde Weerd W.Z.,6,,BS,3513BH,Utrecht,Utrecht,Utrecht,VBO,5.114263,52.097713
 Bemuurde Weerd W.Z.,6,,,3513BH,Utrecht,Utrecht,Utrecht,VBO,5.114253,52.097724
 Bemuurde Weerd W.Z.,7,,,3513BH,Utrecht,Utrecht,Utrecht,VBO,5.114158,52.097828
@@ -451,11 +451,6 @@ Singelstraat,2,,BS,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111382,52.096527
 Singelstraat,2,,,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111371,52.096536
 Singelstraat,4,,BS,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111314,52.096594
 Singelstraat,4,,,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111303,52.096605
-Singelstraat,6,A,,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111238,52.096639
-Singelstraat,6,B,,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111249,52.096629
-Singelstraat,6,C,,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111225,52.096635
-Singelstraat,6,D,,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111234,52.096624
-Singelstraat,6,E,,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111212,52.096629
 Singelstraat,6,,BS,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111266,52.096637
 Singelstraat,6,,,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111255,52.096648
 Singelstraat,8,,BS,3513BN,Utrecht,Utrecht,Utrecht,VBO,5.111198,52.096705
@@ -745,8 +740,6 @@ Otterstraat,95,,,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.109594,52.098214
 Otterstraat,97,,,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.109625,52.098241
 Otterstraat,99,,BS,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.109662,52.098274
 Otterstraat,99,,,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.110004,52.098050
-Otterstraat,101,A,,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.109702,52.098299
-Otterstraat,101,B,,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.109716,52.098310
 Otterstraat,101,,BS,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.109698,52.098323
 Otterstraat,101,,,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.109711,52.098335
 Otterstraat,103,,,3513CL,Utrecht,Utrecht,Utrecht,VBO,5.109727,52.098349
@@ -966,14 +959,6 @@ Bethlehemweg,63,,,3513CW,Utrecht,Utrecht,Utrecht,VBO,5.108057,52.097676
 Bethlehemweg,65,A,,3513CW,Utrecht,Utrecht,Utrecht,VBO,5.108095,52.097679
 Bethlehemweg,65,,,3513CW,Utrecht,Utrecht,Utrecht,VBO,5.108109,52.097681
 Bethlehemweg,67,,,3513CW,Utrecht,Utrecht,Utrecht,VBO,5.108169,52.097690
-Monicahof,2,,,3513CX,Utrecht,Utrecht,Utrecht,VBO,5.111904,52.096899
-Monicahof,4,,,3513CX,Utrecht,Utrecht,Utrecht,VBO,5.111919,52.096799
-Monicahof,6,,,3513CX,Utrecht,Utrecht,Utrecht,VBO,5.111929,52.096878
-Monicahof,8,,,3513CX,Utrecht,Utrecht,Utrecht,VBO,5.111933,52.096823
-Monicahof,10,,,3513CX,Utrecht,Utrecht,Utrecht,VBO,5.111941,52.096906
-Monicahof,12,,,3513CX,Utrecht,Utrecht,Utrecht,VBO,5.111956,52.096802
-Monicahof,14,,,3513CX,Utrecht,Utrecht,Utrecht,VBO,5.111965,52.096879
-Monicahof,16,,,3513CX,Utrecht,Utrecht,Utrecht,VBO,5.111978,52.096828
 Tiendstraat,39,,,3513EA,Utrecht,Utrecht,Utrecht,VBO,5.107146,52.098410
 Tiendstraat,41,,,3513EA,Utrecht,Utrecht,Utrecht,VBO,5.107322,52.098520
 Tiendstraat,2,A,,3513EB,Utrecht,Utrecht,Utrecht,VBO,5.105808,52.097695
@@ -2351,9 +2336,7 @@ Wolfstraat,134,,,3513SZ,Utrecht,Utrecht,Utrecht,VBO,5.106401,52.095247
 1e Daalsedijk,137,,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106785,52.096191
 1e Daalsedijk,139,,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106752,52.096222
 1e Daalsedijk,141,,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106718,52.096254
-1e Daalsedijk,143,A,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106723,52.096293
 1e Daalsedijk,143,,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106685,52.096284
-1e Daalsedijk,143,,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106709,52.096286
 1e Daalsedijk,145,,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106652,52.096315
 1e Daalsedijk,147,A,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106642,52.096342
 1e Daalsedijk,147,B,,3513TD,Utrecht,Utrecht,Utrecht,VBO,5.106664,52.096352
@@ -2391,11 +2374,7 @@ Wolfstraat,134,,,3513SZ,Utrecht,Utrecht,Utrecht,VBO,5.106401,52.095247
 1e Daalsedijk,176,,,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107610,52.095089
 1e Daalsedijk,180,,BS,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107491,52.095197
 1e Daalsedijk,180,,,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107477,52.095209
-1e Daalsedijk,182,A,,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107438,52.095220
-1e Daalsedijk,182,B,,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107430,52.095213
 1e Daalsedijk,182,C,,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107450,52.095228
-1e Daalsedijk,182,D,,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107417,52.095234
-1e Daalsedijk,182,E,,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107409,52.095228
 1e Daalsedijk,182,,BS,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107429,52.095254
 1e Daalsedijk,182,,BSA,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107440,52.095241
 1e Daalsedijk,182,,,3513TH,Utrecht,Utrecht,Utrecht,VBO,5.107463,52.095239
@@ -2448,12 +2427,8 @@ Wolfstraat,134,,,3513SZ,Utrecht,Utrecht,Utrecht,VBO,5.106401,52.095247
 1e Daalsedijk,260,,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105785,52.096759
 1e Daalsedijk,262,,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105746,52.096793
 1e Daalsedijk,264,,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105702,52.096828
-1e Daalsedijk,266,A,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105651,52.096846
-1e Daalsedijk,266,B,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105625,52.096837
 1e Daalsedijk,266,,BS,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105676,52.096856
 1e Daalsedijk,266,,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105662,52.096866
-1e Daalsedijk,268,A,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105607,52.096881
-1e Daalsedijk,268,B,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105581,52.096870
 1e Daalsedijk,268,,BS,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105630,52.096892
 1e Daalsedijk,268,,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105618,52.096904
 1e Daalsedijk,270,A,,3513TL,Utrecht,Utrecht,Utrecht,VBO,5.105498,52.097000
@@ -2495,8 +2470,6 @@ Oude Daalstraat,3,A,,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108340,52.095435
 Oude Daalstraat,3,B,,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108323,52.095428
 Oude Daalstraat,3,,,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108358,52.095442
 Oude Daalstraat,5,,,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108288,52.095412
-Oude Daalstraat,6,,BS,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108140,52.095169
-Oude Daalstraat,6,,,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108128,52.095159
 Oude Daalstraat,7,,,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108271,52.095406
 Oude Daalstraat,8,,,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108108,52.095144
 Oude Daalstraat,9,,,3513TM,Utrecht,Utrecht,Utrecht,VBO,5.108253,52.095398
@@ -2843,8 +2816,6 @@ Harpstraat,10,,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.105258,52.098459
 Harpstraat,12,,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.105307,52.098493
 Harpstraat,14,,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.105326,52.098507
 Harpstraat,32,,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.105899,52.098877
-Harpstraat,34,A,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.105909,52.098910
-Harpstraat,34,,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.105919,52.098904
 Harpstraat,34,,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.105943,52.098905
 Harpstraat,36,,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.105983,52.098934
 Harpstraat,38,,,3513XC,Utrecht,Utrecht,Utrecht,VBO,5.106001,52.098947

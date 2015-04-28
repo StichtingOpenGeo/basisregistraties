@@ -1,11 +1,9 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 4e Garnizoensdok,8,,,3439JD,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117666,52.024026
-5e Garnizoensdok,7,,,3439JE,Nieuwegein,Nieuwegein,Utrecht,VBO,5.117913,52.024571
 Mobilisatiedok,10,,,3439JG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.119073,52.023261
 Mobilisatiedok,7001,,,3439JG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.118730,52.022897
 Mobilisatiedok,7003,,,3439JG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.119392,52.024542
 Inundatiedok,34,,,3439JJ,Nieuwegein,Nieuwegein,Utrecht,VBO,5.122864,52.022326
-Inundatiedok,38,,,3439JJ,Nieuwegein,Nieuwegein,Utrecht,VBO,5.123219,52.024071
 Zuidersluis,1,A,,3439LA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101762,52.044809
 Zuidersluis,1,,,3439LA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102625,52.045620
 Zuidersluis,2,,,3439LA,Nieuwegein,Nieuwegein,Utrecht,VBO,5.102860,52.045857
@@ -37,172 +35,51 @@ De Liesbosch,9011,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110102,52.052650
 De Liesbosch,9012,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110053,52.052655
 De Liesbosch,9013,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110013,52.052663
 De Liesbosch,9014,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109980,52.052673
-De Liesbosch,9015,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110563,52.052691
-De Liesbosch,9016,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110533,52.052695
-De Liesbosch,9017,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110485,52.052702
-De Liesbosch,9018,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110443,52.052709
-De Liesbosch,9019,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110401,52.052719
-De Liesbosch,9020,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110358,52.052726
-De Liesbosch,9021,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110329,52.052732
-De Liesbosch,9022,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110273,52.052740
-De Liesbosch,9023,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110231,52.052746
-De Liesbosch,9024,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110190,52.052754
-De Liesbosch,9025,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110149,52.052761
-De Liesbosch,9026,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110105,52.052772
-De Liesbosch,9027,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110593,52.052739
-De Liesbosch,9028,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110556,52.052747
-De Liesbosch,9029,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110511,52.052751
-De Liesbosch,9030,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110463,52.052761
-De Liesbosch,9031,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110423,52.052770
-De Liesbosch,9032,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110385,52.052777
-De Liesbosch,9033,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110338,52.052785
-De Liesbosch,9034,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110300,52.052792
-De Liesbosch,9035,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110261,52.052798
-De Liesbosch,9036,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110212,52.052805
-De Liesbosch,9037,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110169,52.052817
-De Liesbosch,9038,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110127,52.052819
-De Liesbosch,9039,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110605,52.052847
-De Liesbosch,9040,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110561,52.052858
-De Liesbosch,9041,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110517,52.052866
-De Liesbosch,9042,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110473,52.052870
-De Liesbosch,9043,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110429,52.052882
-De Liesbosch,9044,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110399,52.052888
-De Liesbosch,9045,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110352,52.052895
-De Liesbosch,9046,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110308,52.052902
-De Liesbosch,9047,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110264,52.052910
-De Liesbosch,9048,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110226,52.052915
-De Liesbosch,9049,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110182,52.052923
-De Liesbosch,9050,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110668,52.052893
-De Liesbosch,9051,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110623,52.052903
-De Liesbosch,9052,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110578,52.052910
-De Liesbosch,9053,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110538,52.052921
-De Liesbosch,9054,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110500,52.052925
-De Liesbosch,9055,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110457,52.052932
-De Liesbosch,9056,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110421,52.052939
-De Liesbosch,9057,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110362,52.052951
-De Liesbosch,9058,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110325,52.052953
-De Liesbosch,9059,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110289,52.052961
-De Liesbosch,9060,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110239,52.052965
-De Liesbosch,9061,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110203,52.052973
-De Liesbosch,9062,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110709,52.053001
-De Liesbosch,9063,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110668,52.053012
-De Liesbosch,9064,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110631,52.053018
-De Liesbosch,9065,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110590,52.053027
-De Liesbosch,9066,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110540,52.053033
-De Liesbosch,9067,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110503,52.053042
-De Liesbosch,9068,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110459,52.053048
-De Liesbosch,9069,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110420,52.053056
-De Liesbosch,9070,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110375,52.053065
-De Liesbosch,9071,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110335,52.053071
-De Liesbosch,9072,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110297,52.053078
-De Liesbosch,9073,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110251,52.053087
-De Liesbosch,9074,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110739,52.053052
-De Liesbosch,9075,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110692,52.053053
-De Liesbosch,9076,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110646,52.053070
-De Liesbosch,9077,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110605,52.053074
-De Liesbosch,9078,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110571,52.053081
-De Liesbosch,9079,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110523,52.053089
-De Liesbosch,9080,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110486,52.053095
-De Liesbosch,9081,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110439,52.053101
-De Liesbosch,9082,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110397,52.053110
-De Liesbosch,9083,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110358,52.053117
-De Liesbosch,9084,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110302,52.053124
-De Liesbosch,9085,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110268,52.053131
-De Liesbosch,9086,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110783,52.053158
-De Liesbosch,9087,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110740,52.053163
-De Liesbosch,9088,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110695,52.053172
-De Liesbosch,9089,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110649,52.053177
-De Liesbosch,9090,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110618,52.053184
-De Liesbosch,9091,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110572,52.053195
-De Liesbosch,9092,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110528,52.053200
-De Liesbosch,9093,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110488,52.053207
-De Liesbosch,9094,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110445,52.053215
-De Liesbosch,9095,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110402,52.053223
-De Liesbosch,9096,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110358,52.053229
-De Liesbosch,9097,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110309,52.053236
-De Liesbosch,9098,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110802,52.053209
-De Liesbosch,9099,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110767,52.053215
-De Liesbosch,9100,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110725,52.053222
-De Liesbosch,9101,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110683,52.053229
-De Liesbosch,9102,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110637,52.053232
-De Liesbosch,9103,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110594,52.053244
-De Liesbosch,9104,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110557,52.053251
-De Liesbosch,9105,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110515,52.053258
-De Liesbosch,9106,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110473,52.053265
-De Liesbosch,9107,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110428,52.053274
-De Liesbosch,9108,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110384,52.053281
-De Liesbosch,9109,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110335,52.053287
-De Liesbosch,9110,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110850,52.053313
-De Liesbosch,9111,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110814,52.053319
-De Liesbosch,9112,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110772,52.053326
-De Liesbosch,9113,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110727,52.053334
-De Liesbosch,9114,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110688,52.053340
-De Liesbosch,9115,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110646,52.053347
-De Liesbosch,9116,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110604,52.053355
-De Liesbosch,9117,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110559,52.053362
-De Liesbosch,9118,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110520,52.053371
-De Liesbosch,9119,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110477,52.053376
-De Liesbosch,9120,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110434,52.053384
-De Liesbosch,9121,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110388,52.053392
-De Liesbosch,9122,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110878,52.053367
-De Liesbosch,9123,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110831,52.053372
-De Liesbosch,9124,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110790,52.053382
-De Liesbosch,9125,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110752,52.053389
-De Liesbosch,9126,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110715,52.053395
-De Liesbosch,9127,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110665,52.053402
-De Liesbosch,9128,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110624,52.053411
-De Liesbosch,9129,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110580,52.053416
-De Liesbosch,9130,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110545,52.053425
-De Liesbosch,9131,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110502,52.053433
-De Liesbosch,9132,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110468,52.053440
-De Liesbosch,9133,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110416,52.053448
-De Liesbosch,9134,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109919,52.052715
-De Liesbosch,9135,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109928,52.052740
-De Liesbosch,9136,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109938,52.052763
-De Liesbosch,9137,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109949,52.052792
-De Liesbosch,9138,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109957,52.052819
-De Liesbosch,9139,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109982,52.052850
-De Liesbosch,9140,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109991,52.052871
-De Liesbosch,9141,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110001,52.052895
-De Liesbosch,9142,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110005,52.052920
-De Liesbosch,9143,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110020,52.052947
-De Liesbosch,9144,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110044,52.052981
-De Liesbosch,9145,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110053,52.053005
-De Liesbosch,9146,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110067,52.053033
-De Liesbosch,9147,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110080,52.053055
-De Liesbosch,9148,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110084,52.053082
-De Liesbosch,9149,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110096,52.053111
-De Liesbosch,9150,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110114,52.053136
-De Liesbosch,9151,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110123,52.053161
-De Liesbosch,9152,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110129,52.053192
-De Liesbosch,9153,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110151,52.053216
-De Liesbosch,9154,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110158,52.053239
-De Liesbosch,9155,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110170,52.053265
-De Liesbosch,9156,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110186,52.053292
-De Liesbosch,9157,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110193,52.053317
-De Liesbosch,9158,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110205,52.053343
-De Liesbosch,9159,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110213,52.053371
-De Liesbosch,9160,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110229,52.053395
-De Liesbosch,9161,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110240,52.053421
-De Liesbosch,9162,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110252,52.053447
-De Liesbosch,9163,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110261,52.053472
-De Liesbosch,9164,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110276,52.053499
-De Liesbosch,9165,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110293,52.053524
-De Liesbosch,9166,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110299,52.053551
-De Liesbosch,9167,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110381,52.053582
-De Liesbosch,9168,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110431,52.053575
-De Liesbosch,9169,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110473,52.053568
-De Liesbosch,9170,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110515,52.053560
-De Liesbosch,9171,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110553,52.053552
-De Liesbosch,9172,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110599,52.053546
-De Liesbosch,9173,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110641,52.053539
-De Liesbosch,9174,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110678,52.053532
-De Liesbosch,9175,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110720,52.053524
-De Liesbosch,9176,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110761,52.053520
-De Liesbosch,9177,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110804,52.053510
-De Liesbosch,9178,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110848,52.053501
-De Liesbosch,9179,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110888,52.053495
-De Liesbosch,9180,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110931,52.053488
+De Liesbosch,9017,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109919,52.052715
+De Liesbosch,9018,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109928,52.052740
+De Liesbosch,9019,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109938,52.052763
+De Liesbosch,9020,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109949,52.052792
+De Liesbosch,9021,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109957,52.052819
+De Liesbosch,9022,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109982,52.052850
+De Liesbosch,9023,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.109991,52.052871
+De Liesbosch,9024,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110001,52.052895
+De Liesbosch,9025,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110005,52.052920
+De Liesbosch,9026,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110020,52.052947
+De Liesbosch,9151,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110605,52.052847
+De Liesbosch,9152,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110561,52.052858
+De Liesbosch,9153,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110517,52.052866
+De Liesbosch,9154,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110473,52.052870
+De Liesbosch,9155,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110429,52.052882
+De Liesbosch,9156,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110399,52.052888
+De Liesbosch,9157,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110352,52.052895
+De Liesbosch,9158,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110308,52.052902
+De Liesbosch,9159,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110264,52.052910
+De Liesbosch,9160,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110226,52.052915
+De Liesbosch,9161,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110182,52.052923
+De Liesbosch,9162,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110593,52.052739
+De Liesbosch,9163,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110556,52.052747
+De Liesbosch,9164,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110511,52.052751
+De Liesbosch,9165,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110463,52.052761
+De Liesbosch,9166,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110423,52.052770
+De Liesbosch,9167,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110385,52.052777
+De Liesbosch,9168,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110338,52.052785
+De Liesbosch,9169,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110300,52.052792
+De Liesbosch,9170,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110261,52.052798
+De Liesbosch,9171,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110212,52.052805
+De Liesbosch,9172,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110169,52.052817
+De Liesbosch,9173,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110127,52.052819
+De Liesbosch,9174,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110563,52.052691
+De Liesbosch,9175,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110533,52.052695
+De Liesbosch,9176,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110485,52.052702
+De Liesbosch,9177,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110443,52.052709
+De Liesbosch,9178,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110401,52.052719
+De Liesbosch,9179,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110358,52.052726
+De Liesbosch,9180,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110329,52.052732
+De Liesbosch,9181,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110273,52.052740
+De Liesbosch,9182,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110231,52.052746
+De Liesbosch,9183,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110190,52.052754
+De Liesbosch,9184,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110149,52.052761
+De Liesbosch,9185,,,3439LB,Nieuwegein,Nieuwegein,Utrecht,VBO,5.110105,52.052772
 De Liesbosch,8,A,,3439LC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111780,52.050823
 De Liesbosch,8,B,,3439LC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111813,52.050891
 De Liesbosch,8,C,,3439LC,Nieuwegein,Nieuwegein,Utrecht,VBO,5.111837,52.050945
@@ -763,9 +640,6 @@ Marconibaan,1,D,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100061,52.031570
 Marconibaan,1,E,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099946,52.031423
 Marconibaan,1,F,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100005,52.031414
 Marconibaan,1,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099891,52.031559
-Marconibaan,3,A,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099745,52.031104
-Marconibaan,3,B,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099716,52.031033
-Marconibaan,3,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099772,52.031177
 Marconibaan,5,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099333,52.029201
 Marconibaan,37,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099284,52.028873
 Marconibaan,41,,,3439MR,Nieuwegein,Nieuwegein,Utrecht,VBO,5.099227,52.028885
@@ -915,9 +789,6 @@ Coltbaan,4,D,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100401,52.031347
 Coltbaan,4,E,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100522,52.031509
 Coltbaan,4,F,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100458,52.031338
 Coltbaan,5,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101612,52.032572
-Coltbaan,6,A,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100325,52.031023
-Coltbaan,6,B,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100292,52.030952
-Coltbaan,6,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.100349,52.031100
 Coltbaan,7,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101640,52.032654
 Coltbaan,9,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101665,52.032744
 Coltbaan,11,,,3439NG,Nieuwegein,Nieuwegein,Utrecht,VBO,5.101724,52.032563
