@@ -66,8 +66,6 @@ Staringstraat,43,,,6521AH,Nijmegen,Nijmegen,Gelderland,VBO,5.869086,51.841422
 Staringstraat,10,,,6521AJ,Nijmegen,Nijmegen,Gelderland,VBO,5.867912,51.842628
 Staringstraat,12,,,6521AJ,Nijmegen,Nijmegen,Gelderland,VBO,5.867956,51.842459
 Staringstraat,14,,,6521AJ,Nijmegen,Nijmegen,Gelderland,VBO,5.867987,51.842376
-Staringstraat,16,,,6521AJ,Nijmegen,Nijmegen,Gelderland,VBO,5.868101,51.842327
-Staringstraat,18,,,6521AJ,Nijmegen,Nijmegen,Gelderland,VBO,5.868086,51.842349
 Staringstraat,24,,,6521AK,Nijmegen,Nijmegen,Gelderland,VBO,5.868488,51.841576
 Staringstraat,26,,,6521AK,Nijmegen,Nijmegen,Gelderland,VBO,5.868541,51.841511
 Staringstraat,28,,,6521AK,Nijmegen,Nijmegen,Gelderland,VBO,5.868574,51.841454
@@ -894,7 +892,9 @@ Groesbeeksedwarsweg,293,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871923,51.83
 Groesbeeksedwarsweg,295,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871815,51.835294
 Groesbeeksedwarsweg,297,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871432,51.835286
 Groesbeeksedwarsweg,299,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871432,51.835286
+Groesbeeksedwarsweg,301,A,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871461,51.835280
 Groesbeeksedwarsweg,301,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871432,51.835286
+Groesbeeksedwarsweg,301,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871460,51.835270
 Groesbeeksedwarsweg,303,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871363,51.835172
 Groesbeeksedwarsweg,305,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871324,51.835095
 Groesbeeksedwarsweg,307,,,6521DK,Nijmegen,Nijmegen,Gelderland,VBO,5.871259,51.835031
@@ -1755,6 +1755,8 @@ Jacob Canisstraat,37,A,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871573,51.8424
 Jacob Canisstraat,37,,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871573,51.842440
 Jacob Canisstraat,39,,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871547,51.842305
 Jacob Canisstraat,41,,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871547,51.842305
+Jacob Canisstraat,43,A,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871499,51.842327
+Jacob Canisstraat,43,,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871517,51.842347
 Jacob Canisstraat,43,,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871547,51.842305
 Jacob Canisstraat,45,,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871482,51.842229
 Jacob Canisstraat,47,,,6521HJ,Nijmegen,Nijmegen,Gelderland,VBO,5.871482,51.842229
@@ -2107,6 +2109,14 @@ Dominicanenstraat,49,,,6521KA,Nijmegen,Nijmegen,Gelderland,VBO,5.873807,51.84164
 Dominicanenstraat,51,,,6521KA,Nijmegen,Nijmegen,Gelderland,VBO,5.873807,51.841643
 Dominicanenstraat,53,,,6521KA,Nijmegen,Nijmegen,Gelderland,VBO,5.874426,51.841640
 Dominicanenstraat,73,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.874057,51.841355
+Dominicanenstraat,75,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873782,51.841170
+Dominicanenstraat,77,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873845,51.841233
+Dominicanenstraat,79,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873827,51.841148
+Dominicanenstraat,81,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873739,51.840985
+Dominicanenstraat,83,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873662,51.841051
+Dominicanenstraat,85,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873871,51.841175
+Dominicanenstraat,87,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873799,51.840980
+Dominicanenstraat,89,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873798,51.841075
 Dominicanenstraat,91,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873775,51.841132
 Dominicanenstraat,99,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873501,51.840722
 Dominicanenstraat,101,,,6521KB,Nijmegen,Nijmegen,Gelderland,VBO,5.873501,51.840722
@@ -2390,13 +2400,10 @@ van Nispenstraat,232,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873772,51.84020
 van Nispenstraat,234,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873752,51.840149
 van Nispenstraat,236,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873752,51.840149
 van Nispenstraat,238,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873686,51.840083
-van Nispenstraat,240,A,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873569,51.840010
-van Nispenstraat,240,B,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873594,51.840009
-van Nispenstraat,240,C,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873623,51.840008
-van Nispenstraat,240,D,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873571,51.839996
-van Nispenstraat,240,E,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873606,51.839994
-van Nispenstraat,240,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873521,51.839989
+van Nispenstraat,240,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873685,51.840047
+van Nispenstraat,242,A,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873634,51.839993
 van Nispenstraat,242,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873521,51.839989
+van Nispenstraat,242,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873651,51.840011
 van Nispenstraat,244,,,6521KV,Nijmegen,Nijmegen,Gelderland,VBO,5.873444,51.839869
 van Goghstraat,2,,,6521KW,Nijmegen,Nijmegen,Gelderland,VBO,5.875689,51.840708
 van Goghstraat,4,,,6521KW,Nijmegen,Nijmegen,Gelderland,VBO,5.875689,51.840708
@@ -2788,6 +2795,12 @@ Rembrandtstraat,44,C,,6521ME,Nijmegen,Nijmegen,Gelderland,VBO,5.879671,51.837817
 Rembrandtstraat,44,,,6521ME,Nijmegen,Nijmegen,Gelderland,VBO,5.879234,51.837879
 Rembrandtstraat,46,,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.879905,51.837772
 Rembrandtstraat,48,,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.879992,51.837756
+Rembrandtstraat,56,A,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881074,51.837231
+Rembrandtstraat,56,B,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881150,51.837214
+Rembrandtstraat,56,C,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881230,51.837202
+Rembrandtstraat,56,D,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881195,51.837132
+Rembrandtstraat,56,E,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881110,51.837144
+Rembrandtstraat,56,F,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881041,51.837153
 Rembrandtstraat,56,,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881063,51.837191
 Rembrandtstraat,58,,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881081,51.837541
 Rembrandtstraat,60,,,6521MG,Nijmegen,Nijmegen,Gelderland,VBO,5.881173,51.837527

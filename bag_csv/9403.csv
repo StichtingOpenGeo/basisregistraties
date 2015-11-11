@@ -2,7 +2,8 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 Industrieweg,2,,,9403AA,Assen,Assen,Drenthe,VBO,6.571487,52.996683
 Industrieweg,4,,,9403AA,Assen,Assen,Drenthe,VBO,6.571491,52.996827
 Industrieweg,6,,,9403AA,Assen,Assen,Drenthe,VBO,6.571990,52.997101
-Industrieweg,8,,,9403AA,Assen,Assen,Drenthe,VBO,6.571474,52.997304
+Industrieweg,8,A,,9403AA,Assen,Assen,Drenthe,VBO,6.571546,52.997287
+Industrieweg,8,,,9403AA,Assen,Assen,Drenthe,VBO,6.571492,52.997286
 Industrieweg,10,,,9403AA,Assen,Assen,Drenthe,VBO,6.571483,52.997636
 Industrieweg,12,,,9403AA,Assen,Assen,Drenthe,VBO,6.571533,52.997640
 Industrieweg,14,,,9403AA,Assen,Assen,Drenthe,VBO,6.571572,52.997635
@@ -12,7 +13,6 @@ Industrieweg,22,A,,9403AA,Assen,Assen,Drenthe,VBO,6.571579,52.998417
 Industrieweg,22,B,,9403AA,Assen,Assen,Drenthe,VBO,6.571668,52.998425
 Industrieweg,22,C,,9403AA,Assen,Assen,Drenthe,VBO,6.571682,52.998371
 Industrieweg,22,,,9403AA,Assen,Assen,Drenthe,VBO,6.571576,52.998318
-Industrieweg,24,A,,9403AB,Assen,Assen,Drenthe,VBO,6.571806,52.999673
 Industrieweg,24,,,9403AB,Assen,Assen,Drenthe,VBO,6.571569,52.999071
 Industrieweg,26,A,,9403AB,Assen,Assen,Drenthe,VBO,6.571645,53.000304
 Industrieweg,26,,,9403AB,Assen,Assen,Drenthe,VBO,6.571563,53.000583
@@ -59,7 +59,7 @@ Dr. A.F. Philipsweg,15,F,,9403AC,Assen,Assen,Drenthe,VBO,6.572815,52.997874
 Dr. A.F. Philipsweg,15,,,9403AC,Assen,Assen,Drenthe,VBO,6.573345,52.997654
 Dr. A.F. Philipsweg,17,,,9403AC,Assen,Assen,Drenthe,VBO,6.573832,52.998017
 Dr. A.F. Philipsweg,19,,,9403AC,Assen,Assen,Drenthe,VBO,6.574121,52.998230
-Dr. A.F. Philipsweg,21,,,9403AC,Assen,Assen,Drenthe,VBO,6.574363,52.998371
+Dr. A.F. Philipsweg,23,,,9403AC,Assen,Assen,Drenthe,VBO,6.574363,52.998371
 Dr. A.F. Philipsweg,25,A,,9403AC,Assen,Assen,Drenthe,VBO,6.574729,52.998664
 Dr. A.F. Philipsweg,25,,,9403AC,Assen,Assen,Drenthe,VBO,6.575016,52.998814
 Dr. A.F. Philipsweg,27,A,,9403AD,Assen,Assen,Drenthe,VBO,6.576582,52.999437
@@ -119,20 +119,22 @@ Havenkade,1,,,9403AH,Assen,Assen,Drenthe,VBO,6.578196,53.000715
 Havenkade,2,,,9403AH,Assen,Assen,Drenthe,VBO,6.571864,52.999277
 Havenkade,4,,,9403AH,Assen,Assen,Drenthe,VBO,6.572454,52.999379
 Havenkade,6,,,9403AH,Assen,Assen,Drenthe,VBO,6.572962,52.999437
+Havenkade,8,,,9403AH,Assen,Assen,Drenthe,VBO,6.573544,52.999510
 Havenkade,12,,,9403AH,Assen,Assen,Drenthe,VBO,6.574999,52.999291
 Havenkade,14,A,,9403AH,Assen,Assen,Drenthe,VBO,6.574893,52.999768
 Havenkade,14,,,9403AH,Assen,Assen,Drenthe,VBO,6.575177,52.999810
 Havenkade,16,,,9403AH,Assen,Assen,Drenthe,VBO,6.575730,52.999895
 Havenkade,18,,,9403AH,Assen,Assen,Drenthe,VBO,6.576479,53.000040
 Havenkade,20,,,9403AH,Assen,Assen,Drenthe,VBO,6.577139,53.000204
+W.A. Scholtenstraat,3,A,,9403AJ,Assen,Assen,Drenthe,VBO,6.573202,53.001456
 W.A. Scholtenstraat,3,B,,9403AJ,Assen,Assen,Drenthe,VBO,6.573062,53.001458
-W.A. Scholtenstraat,3,C,,9403AJ,Assen,Assen,Drenthe,VBO,6.573061,53.001431
 W.A. Scholtenstraat,3,E,,9403AJ,Assen,Assen,Drenthe,VBO,6.572971,53.001953
 W.A. Scholtenstraat,3,F,,9403AJ,Assen,Assen,Drenthe,VBO,6.572943,53.002007
 W.A. Scholtenstraat,3,G,,9403AJ,Assen,Assen,Drenthe,VBO,6.572763,53.001982
 W.A. Scholtenstraat,3,H,,9403AJ,Assen,Assen,Drenthe,VBO,6.572554,53.001948
 W.A. Scholtenstraat,3,K,,9403AJ,Assen,Assen,Drenthe,VBO,6.572404,53.001923
 W.A. Scholtenstraat,3,M,,9403AJ,Assen,Assen,Drenthe,VBO,6.573243,53.001555
+W.A. Scholtenstraat,3,,,9403AJ,Assen,Assen,Drenthe,VBO,6.572919,53.001414
 W.A. Scholtenstraat,7,,,9403AJ,Assen,Assen,Drenthe,VBO,6.573825,53.001576
 W.A. Scholtenstraat,9,A,,9403AJ,Assen,Assen,Drenthe,VBO,6.573368,53.005598
 W.A. Scholtenstraat,9,B,,9403AJ,Assen,Assen,Drenthe,VBO,6.573640,53.005164
@@ -163,7 +165,6 @@ W.A. Scholtenstraat,16,A,,9403AK,Assen,Assen,Drenthe,VBO,6.575127,53.002354
 W.A. Scholtenstraat,16,,,9403AK,Assen,Assen,Drenthe,VBO,6.575724,53.001854
 W.A. Scholtenstraat,18,,,9403AK,Assen,Assen,Drenthe,VBO,6.574852,53.003732
 W.A. Scholtenstraat,20,,,9403AK,Assen,Assen,Drenthe,VBO,6.574782,53.003912
-W.A. Scholtenstraat,22,,,9403AK,Assen,Assen,Drenthe,VBO,6.575234,53.005458
 W.A. Scholtenstraat,30,,,9403AK,Assen,Assen,Drenthe,VBO,6.574668,53.007913
 W.A. Scholtenstraat,32,,,9403AK,Assen,Assen,Drenthe,VBO,6.574781,53.008235
 W.A. Scholtenstraat,34,,,9403AK,Assen,Assen,Drenthe,VBO,6.574861,53.008432
@@ -192,7 +193,6 @@ A.H.G. Fokkerstraat,18,A,,9403AP,Assen,Assen,Drenthe,VBO,6.576956,53.004403
 A.H.G. Fokkerstraat,18,B,,9403AP,Assen,Assen,Drenthe,VBO,6.577116,53.004266
 A.H.G. Fokkerstraat,18,C,,9403AP,Assen,Assen,Drenthe,VBO,6.577174,53.004212
 A.H.G. Fokkerstraat,18,D,,9403AP,Assen,Assen,Drenthe,VBO,6.577262,53.004148
-A.H.G. Fokkerstraat,18,F,,9403AP,Assen,Assen,Drenthe,VBO,6.577422,53.004012
 A.H.G. Fokkerstraat,18,H,,9403AP,Assen,Assen,Drenthe,VBO,6.577690,53.004018
 A.H.G. Fokkerstraat,18,I,,9403AP,Assen,Assen,Drenthe,VBO,6.577603,53.004091
 A.H.G. Fokkerstraat,18,J,,9403AP,Assen,Assen,Drenthe,VBO,6.577545,53.004145
@@ -230,7 +230,6 @@ J.C. van Markenstraat,35,,,9403AR,Assen,Assen,Drenthe,VBO,6.579843,53.007616
 J.C. van Markenstraat,37,,,9403AR,Assen,Assen,Drenthe,VBO,6.579771,53.007626
 J.C. van Markenstraat,39,,,9403AR,Assen,Assen,Drenthe,VBO,6.579701,53.007634
 J.C. van Markenstraat,2,,,9403AS,Assen,Assen,Drenthe,VBO,6.570031,53.003968
-J.C. van Markenstraat,4,A,,9403AS,Assen,Assen,Drenthe,VBO,6.573159,53.004468
 J.C. van Markenstraat,4,,,9403AS,Assen,Assen,Drenthe,VBO,6.572500,53.004357
 J.C. van Markenstraat,6,,,9403AS,Assen,Assen,Drenthe,VBO,6.573442,53.004492
 J.C. van Markenstraat,8,,,9403AS,Assen,Assen,Drenthe,VBO,6.574520,53.004661
@@ -282,7 +281,6 @@ Blijdensteinstraat,2,J,,9403AW,Assen,Assen,Drenthe,VBO,6.574577,53.006909
 Blijdensteinstraat,2,K,,9403AW,Assen,Assen,Drenthe,VBO,6.574593,53.006856
 Blijdensteinstraat,2,L,,9403AW,Assen,Assen,Drenthe,VBO,6.574485,53.006871
 Blijdensteinstraat,2,,,9403AW,Assen,Assen,Drenthe,VBO,6.574427,53.007118
-Blijdensteinstraat,2,,,9403AW,Assen,Assen,Drenthe,VBO,6.574498,53.007123
 Blijdensteinstraat,3,A,,9403AW,Assen,Assen,Drenthe,VBO,6.575307,53.007286
 Blijdensteinstraat,3,,,9403AW,Assen,Assen,Drenthe,VBO,6.574920,53.007335
 Blijdensteinstraat,4,,,9403AW,Assen,Assen,Drenthe,VBO,6.575121,53.007036
@@ -552,25 +550,6 @@ Het Palet,60,,,9403BL,Assen,Assen,Drenthe,VBO,6.575721,52.996839
 Het Palet,62,,,9403BL,Assen,Assen,Drenthe,VBO,6.575545,52.996922
 Het Palet,64,,,9403BL,Assen,Assen,Drenthe,VBO,6.575486,52.996958
 Het Palet,66,,,9403BL,Assen,Assen,Drenthe,VBO,6.575310,52.997032
-Herman Broodstraat,113,,,9403BM,Assen,Assen,Drenthe,VBO,6.574041,52.997039
-Herman Broodstraat,115,,,9403BM,Assen,Assen,Drenthe,VBO,6.574008,52.996997
-Herman Broodstraat,117,,,9403BM,Assen,Assen,Drenthe,VBO,6.573972,52.996949
-Herman Broodstraat,119,,,9403BM,Assen,Assen,Drenthe,VBO,6.573939,52.996904
-Herman Broodstraat,121,,,9403BM,Assen,Assen,Drenthe,VBO,6.573906,52.996863
-Herman Broodstraat,123,,,9403BM,Assen,Assen,Drenthe,VBO,6.573870,52.996819
-Herman Broodstraat,125,,,9403BM,Assen,Assen,Drenthe,VBO,6.573834,52.996775
-Herman Broodstraat,127,,,9403BM,Assen,Assen,Drenthe,VBO,6.573801,52.996733
-Herman Broodstraat,129,,,9403BM,Assen,Assen,Drenthe,VBO,6.573758,52.996690
-Herman Broodstraat,131,,,9403BM,Assen,Assen,Drenthe,VBO,6.573730,52.996643
-Herman Broodstraat,133,,,9403BM,Assen,Assen,Drenthe,VBO,6.573705,52.996596
-Herman Broodstraat,135,,,9403BM,Assen,Assen,Drenthe,VBO,6.573674,52.996551
-Herman Broodstraat,137,,,9403BM,Assen,Assen,Drenthe,VBO,6.573648,52.996505
-Herman Broodstraat,139,,,9403BM,Assen,Assen,Drenthe,VBO,6.573621,52.996459
-Herman Broodstraat,141,,,9403BM,Assen,Assen,Drenthe,VBO,6.573593,52.996413
-Herman Broodstraat,143,,,9403BM,Assen,Assen,Drenthe,VBO,6.573565,52.996369
-Herman Broodstraat,145,,,9403BM,Assen,Assen,Drenthe,VBO,6.573534,52.996322
-Herman Broodstraat,147,,,9403BM,Assen,Assen,Drenthe,VBO,6.573514,52.996273
-Herman Broodstraat,149,,,9403BM,Assen,Assen,Drenthe,VBO,6.573497,52.996229
 Mondriaanstraat,1,,,9403BN,Assen,Assen,Drenthe,VBO,6.574957,52.997206
 Mondriaanstraat,2,,,9403BN,Assen,Assen,Drenthe,VBO,6.576022,52.997483
 Mondriaanstraat,3,,,9403BN,Assen,Assen,Drenthe,VBO,6.575033,52.997268
@@ -587,20 +566,6 @@ Mondriaanstraat,21,,,9403BN,Assen,Assen,Drenthe,VBO,6.575925,52.997745
 Mondriaanstraat,23,,,9403BN,Assen,Assen,Drenthe,VBO,6.576030,52.997780
 Mondriaanstraat,25,,,9403BN,Assen,Assen,Drenthe,VBO,6.576150,52.997823
 Mondriaanstraat,27,,,9403BN,Assen,Assen,Drenthe,VBO,6.576256,52.997867
-E.B. von Dülmen Krumpelmannstraat,1,,,9403BP,Assen,Assen,Drenthe,VBO,6.575541,52.996176
-E.B. von Dülmen Krumpelmannstraat,2,,,9403BP,Assen,Assen,Drenthe,VBO,6.575232,52.996300
-E.B. von Dülmen Krumpelmannstraat,3,,,9403BP,Assen,Assen,Drenthe,VBO,6.575507,52.996123
-E.B. von Dülmen Krumpelmannstraat,4,,,9403BP,Assen,Assen,Drenthe,VBO,6.575197,52.996250
-E.B. von Dülmen Krumpelmannstraat,5,,,9403BP,Assen,Assen,Drenthe,VBO,6.575445,52.996015
-E.B. von Dülmen Krumpelmannstraat,6,,,9403BP,Assen,Assen,Drenthe,VBO,6.575134,52.996148
-E.B. von Dülmen Krumpelmannstraat,7,,,9403BP,Assen,Assen,Drenthe,VBO,6.575419,52.995960
-E.B. von Dülmen Krumpelmannstraat,8,,,9403BP,Assen,Assen,Drenthe,VBO,6.575106,52.996094
-E.B. von Dülmen Krumpelmannstraat,9,,,9403BP,Assen,Assen,Drenthe,VBO,6.575372,52.995844
-E.B. von Dülmen Krumpelmannstraat,10,,,9403BP,Assen,Assen,Drenthe,VBO,6.575057,52.995992
-E.B. von Dülmen Krumpelmannstraat,11,,,9403BP,Assen,Assen,Drenthe,VBO,6.575355,52.995791
-E.B. von Dülmen Krumpelmannstraat,12,,,9403BP,Assen,Assen,Drenthe,VBO,6.575034,52.995939
-E.B. von Dülmen Krumpelmannstraat,14,,,9403BP,Assen,Assen,Drenthe,VBO,6.574995,52.995833
-E.B. von Dülmen Krumpelmannstraat,16,,,9403BP,Assen,Assen,Drenthe,VBO,6.574985,52.995780
 George Kiersstraat,1,,,9403BR,Assen,Assen,Drenthe,VBO,6.576470,52.995897
 George Kiersstraat,2,,,9403BR,Assen,Assen,Drenthe,VBO,6.576101,52.996008
 George Kiersstraat,3,,,9403BR,Assen,Assen,Drenthe,VBO,6.576423,52.995790
@@ -618,14 +583,12 @@ Van Drielststraat,6,,,9403BS,Assen,Assen,Drenthe,VBO,6.577136,52.995720
 Het Palet,1,,,9403BX,Assen,Assen,Drenthe,VBO,6.577691,52.996030
 Het Palet,3,,,9403BX,Assen,Assen,Drenthe,VBO,6.577487,52.996040
 Het Palet,5,,,9403BX,Assen,Assen,Drenthe,VBO,6.577130,52.996043
-Het Palet,7,,,9403BX,Assen,Assen,Drenthe,VBO,6.576966,52.996063
 Het Palet,9,,,9403BX,Assen,Assen,Drenthe,VBO,6.576634,52.996140
 Het Palet,13,,,9403BX,Assen,Assen,Drenthe,VBO,6.576271,52.996222
 Het Palet,15,,,9403BX,Assen,Assen,Drenthe,VBO,6.576123,52.996278
 Het Palet,17,,,9403BX,Assen,Assen,Drenthe,VBO,6.575932,52.996352
 Het Palet,21,,,9403BX,Assen,Assen,Drenthe,VBO,6.575440,52.996551
 Het Palet,23,,,9403BX,Assen,Assen,Drenthe,VBO,6.575357,52.996575
-Het Palet,25,,,9403BX,Assen,Assen,Drenthe,VBO,6.575180,52.996643
 Het Palet,27,,,9403BX,Assen,Assen,Drenthe,VBO,6.574987,52.996708
 Het Palet,29,,,9403BX,Assen,Assen,Drenthe,VBO,6.574914,52.996740
 Rembrandtlaan,1,,,9403CB,Assen,Assen,Drenthe,VBO,6.578646,52.995929
@@ -638,18 +601,6 @@ Rembrandtlaan,13,,,9403CB,Assen,Assen,Drenthe,VBO,6.578668,52.995641
 Rembrandtlaan,15,,,9403CB,Assen,Assen,Drenthe,VBO,6.578667,52.995597
 Rembrandtlaan,17,,,9403CB,Assen,Assen,Drenthe,VBO,6.578680,52.995542
 Rembrandtlaan,19,,,9403CB,Assen,Assen,Drenthe,VBO,6.578679,52.995498
-Rembrandtlaan,23,,,9403CB,Assen,Assen,Drenthe,VBO,6.573992,52.996166
-Rembrandtlaan,25,,,9403CB,Assen,Assen,Drenthe,VBO,6.574022,52.996235
-Rembrandtlaan,27,,,9403CB,Assen,Assen,Drenthe,VBO,6.574048,52.996299
-Rembrandtlaan,29,,,9403CB,Assen,Assen,Drenthe,VBO,6.574085,52.996366
-Rembrandtlaan,31,,,9403CB,Assen,Assen,Drenthe,VBO,6.574123,52.996435
-Rembrandtlaan,33,,,9403CB,Assen,Assen,Drenthe,VBO,6.574177,52.996498
-Rembrandtlaan,35,,,9403CB,Assen,Assen,Drenthe,VBO,6.574222,52.996558
-Rembrandtlaan,37,,,9403CB,Assen,Assen,Drenthe,VBO,6.574264,52.996625
-Rembrandtlaan,39,,,9403CB,Assen,Assen,Drenthe,VBO,6.574314,52.996689
-Rembrandtlaan,41,,,9403CB,Assen,Assen,Drenthe,VBO,6.574370,52.996748
-Rembrandtlaan,43,,,9403CB,Assen,Assen,Drenthe,VBO,6.574425,52.996809
-Rembrandtlaan,45,,,9403CB,Assen,Assen,Drenthe,VBO,6.574481,52.996871
 Rembrandtlaan,2,,,9403CC,Assen,Assen,Drenthe,VBO,6.578128,52.996060
 Rembrandtlaan,4,,,9403CC,Assen,Assen,Drenthe,VBO,6.578142,52.996015
 Rembrandtlaan,6,,,9403CC,Assen,Assen,Drenthe,VBO,6.578141,52.995970
@@ -676,17 +627,6 @@ Rembrandtlaan,46,,,9403CD,Assen,Assen,Drenthe,VBO,6.576593,52.995491
 Rembrandtlaan,48,,,9403CD,Assen,Assen,Drenthe,VBO,6.576504,52.995492
 Rembrandtlaan,50,,,9403CD,Assen,Assen,Drenthe,VBO,6.576429,52.995493
 Rembrandtlaan,52,,,9403CD,Assen,Assen,Drenthe,VBO,6.576340,52.995494
-Rembrandtlaan,86,,,9403CD,Assen,Assen,Drenthe,VBO,6.574410,52.995796
-Rembrandtlaan,88,,,9403CD,Assen,Assen,Drenthe,VBO,6.574422,52.995844
-Rembrandtlaan,90,,,9403CD,Assen,Assen,Drenthe,VBO,6.574435,52.995893
-Rembrandtlaan,92,,,9403CD,Assen,Assen,Drenthe,VBO,6.574450,52.995941
-Rembrandtlaan,94,,,9403CD,Assen,Assen,Drenthe,VBO,6.574489,52.996046
-Rembrandtlaan,96,,,9403CD,Assen,Assen,Drenthe,VBO,6.574507,52.996094
-Rembrandtlaan,98,,,9403CD,Assen,Assen,Drenthe,VBO,6.574531,52.996142
-Rembrandtlaan,100,,,9403CD,Assen,Assen,Drenthe,VBO,6.574590,52.996249
-Rembrandtlaan,102,,,9403CD,Assen,Assen,Drenthe,VBO,6.574622,52.996299
-Rembrandtlaan,104,,,9403CD,Assen,Assen,Drenthe,VBO,6.574686,52.996407
-Rembrandtlaan,106,,,9403CD,Assen,Assen,Drenthe,VBO,6.574726,52.996458
 Ruysdaelstraat,1,,,9403CE,Assen,Assen,Drenthe,VBO,6.577256,52.996842
 Ruysdaelstraat,3,,,9403CE,Assen,Assen,Drenthe,VBO,6.577346,52.996877
 Ruysdaelstraat,7,,,9403CE,Assen,Assen,Drenthe,VBO,6.577629,52.996942
@@ -965,24 +905,6 @@ Duitslandlaan,6,,,9403DK,Assen,Assen,Drenthe,VBO,6.579042,53.026773
 Duitslandlaan,1,,,9403DL,Assen,Assen,Drenthe,VBO,6.576331,53.026238
 Duitslandlaan,2,,,9403DL,Assen,Assen,Drenthe,VBO,6.577867,53.026268
 Duitslandlaan,5,,,9403DL,Assen,Assen,Drenthe,VBO,6.577188,53.027596
-Spanjelaan,1,A,,9403DN,Assen,Assen,Drenthe,VBO,6.577477,53.024497
-Spanjelaan,1,B,,9403DN,Assen,Assen,Drenthe,VBO,6.577480,53.024577
-Spanjelaan,1,C,,9403DN,Assen,Assen,Drenthe,VBO,6.577478,53.024654
-Spanjelaan,1,D,,9403DN,Assen,Assen,Drenthe,VBO,6.577478,53.024731
-Spanjelaan,1,E,,9403DN,Assen,Assen,Drenthe,VBO,6.577482,53.024813
-Spanjelaan,1,F,,9403DN,Assen,Assen,Drenthe,VBO,6.577484,53.024889
-Spanjelaan,1,G,,9403DN,Assen,Assen,Drenthe,VBO,6.577872,53.024494
-Spanjelaan,1,H,,9403DN,Assen,Assen,Drenthe,VBO,6.577867,53.024560
-Spanjelaan,1,J,,9403DN,Assen,Assen,Drenthe,VBO,6.577861,53.024625
-Spanjelaan,1,K,,9403DN,Assen,Assen,Drenthe,VBO,6.577860,53.024688
-Spanjelaan,1,L,,9403DN,Assen,Assen,Drenthe,VBO,6.577860,53.024753
-Spanjelaan,1,M,,9403DN,Assen,Assen,Drenthe,VBO,6.577872,53.024818
-Spanjelaan,1,N,,9403DN,Assen,Assen,Drenthe,VBO,6.577998,53.024493
-Spanjelaan,1,P,,9403DN,Assen,Assen,Drenthe,VBO,6.577995,53.024560
-Spanjelaan,1,Q,,9403DN,Assen,Assen,Drenthe,VBO,6.577995,53.024625
-Spanjelaan,1,R,,9403DN,Assen,Assen,Drenthe,VBO,6.577994,53.024689
-Spanjelaan,1,S,,9403DN,Assen,Assen,Drenthe,VBO,6.577992,53.024752
-Spanjelaan,1,T,,9403DN,Assen,Assen,Drenthe,VBO,6.577991,53.024813
 Spanjelaan,7,,,9403DN,Assen,Assen,Drenthe,VBO,6.580106,53.025050
 Spanjelaan,9,,,9403DN,Assen,Assen,Drenthe,VBO,6.580565,53.025267
 Spanjelaan,15,,,9403DN,Assen,Assen,Drenthe,VBO,6.582796,53.026371
@@ -1003,7 +925,7 @@ Spanjelaan,22,,,9403DP,Assen,Assen,Drenthe,VBO,6.582008,53.025598
 Spanjelaan,24,A,,9403DP,Assen,Assen,Drenthe,VBO,6.582413,53.025778
 Spanjelaan,24,B,,9403DP,Assen,Assen,Drenthe,VBO,6.582648,53.025692
 Spanjelaan,24,,,9403DP,Assen,Assen,Drenthe,VBO,6.582564,53.025856
-Spanjelaan,28,,,9403DP,Assen,Assen,Drenthe,VBO,6.583525,53.026166
+Spanjelaan,28,,,9403DP,Assen,Assen,Drenthe,VBO,6.583540,53.026325
 Spanjelaan,30,,,9403DP,Assen,Assen,Drenthe,VBO,6.584109,53.026610
 Spanjelaan,34,,,9403DP,Assen,Assen,Drenthe,VBO,6.584766,53.026979
 Spanjelaan,38,,,9403DP,Assen,Assen,Drenthe,VBO,6.585347,53.027254
@@ -1037,6 +959,7 @@ Portugallaan,56,,,9403DS,Assen,Assen,Drenthe,VBO,6.581582,53.024209
 Portugallaan,58,,,9403DS,Assen,Assen,Drenthe,VBO,6.581732,53.024252
 Portugallaan,60,,,9403DS,Assen,Assen,Drenthe,VBO,6.582108,53.024365
 Portugallaan,62,,,9403DS,Assen,Assen,Drenthe,VBO,6.582178,53.024194
+Romestraat,1,,,9403DT,Assen,Assen,Drenthe,VBO,6.583556,53.026150
 Romestraat,6,,,9403DT,Assen,Assen,Drenthe,VBO,6.583600,53.025492
 Romestraat,8,,,9403DT,Assen,Assen,Drenthe,VBO,6.583732,53.025410
 Romestraat,9,,,9403DT,Assen,Assen,Drenthe,VBO,6.584212,53.025531
@@ -1406,7 +1329,6 @@ Houtlaan,111,,,9403EZ,Assen,Assen,Drenthe,VBO,6.594042,52.995712
 Houtlaan,113,,,9403EZ,Assen,Assen,Drenthe,VBO,6.593688,52.995841
 Houtlaan,115,,,9403EZ,Assen,Assen,Drenthe,VBO,6.593576,52.995564
 Houtlaan,117,,,9403EZ,Assen,Assen,Drenthe,VBO,6.593629,52.995339
-Houtlaan,119,,,9403EZ,Assen,Assen,Drenthe,VBO,6.593177,52.995163
 Houtlaan,121,,,9403EZ,Assen,Assen,Drenthe,VBO,6.593157,52.995514
 Houtlaan,123,,,9403EZ,Assen,Assen,Drenthe,VBO,6.593151,52.995829
 Houtlaan,125,,,9403EZ,Assen,Assen,Drenthe,VBO,6.592766,52.995887
@@ -3188,7 +3110,6 @@ Hannie Schaftweg,44,,,9403MR,Assen,Assen,Drenthe,VBO,6.588055,53.020037
 Hannie Schaftweg,46,,,9403MR,Assen,Assen,Drenthe,VBO,6.588130,53.020054
 Hannie Schaftweg,48,,,9403MR,Assen,Assen,Drenthe,VBO,6.588190,53.020081
 Hannie Schaftweg,50,,,9403MR,Assen,Assen,Drenthe,VBO,6.588265,53.020107
-Hannie Schaftweg,1,,,9403MS,Assen,Assen,Drenthe,VBO,6.583828,53.019054
 Meentgoorn,8,,,9403NA,Assen,Assen,Drenthe,VBO,6.585236,53.016713
 Meentgoorn,10,,,9403NA,Assen,Assen,Drenthe,VBO,6.585325,53.016712
 Meentgoorn,12,,,9403NA,Assen,Assen,Drenthe,VBO,6.585415,53.016711
@@ -4921,7 +4842,6 @@ Wagenmakerstraat,6,,,9403VC,Assen,Assen,Drenthe,VBO,6.586571,53.011083
 Wagenmakerstraat,7,,,9403VC,Assen,Assen,Drenthe,VBO,6.585273,53.011572
 Wagenmakerstraat,8,,,9403VC,Assen,Assen,Drenthe,VBO,6.587025,53.010800
 Wagenmakerstraat,9,,,9403VC,Assen,Assen,Drenthe,VBO,6.585986,53.011475
-Wagenmakerstraat,11,,,9403VC,Assen,Assen,Drenthe,VBO,6.586495,53.011340
 Wagenmakerstraat,13,,,9403VC,Assen,Assen,Drenthe,VBO,6.587140,53.011176
 Blokmakerstraat,2,,,9403VD,Assen,Assen,Drenthe,VBO,6.586263,53.008552
 Blokmakerstraat,4,,,9403VD,Assen,Assen,Drenthe,VBO,6.586716,53.008781
@@ -4977,7 +4897,8 @@ Weverstraat,16,A,,9403VJ,Assen,Assen,Drenthe,VBO,6.589812,53.007284
 Weverstraat,16,,,9403VJ,Assen,Assen,Drenthe,VBO,6.589858,53.007275
 Weverstraat,18,,,9403VJ,Assen,Assen,Drenthe,VBO,6.590180,53.007434
 Weverstraat,20,,,9403VJ,Assen,Assen,Drenthe,VBO,6.590512,53.007574
-Pottenbakkerstraat,1,,,9403VK,Assen,Assen,Drenthe,VBO,6.588237,53.008289
+Pottenbakkerstraat,1,,,9403VK,Assen,Assen,Drenthe,VBO,6.588137,53.008398
+Pottenbakkerstraat,3,,,9403VK,Assen,Assen,Drenthe,VBO,6.588405,53.008313
 Pottenbakkerstraat,4,,,9403VK,Assen,Assen,Drenthe,VBO,6.587522,53.008287
 Pottenbakkerstraat,8,,,9403VK,Assen,Assen,Drenthe,VBO,6.588497,53.007981
 Pottenbakkerstraat,10,,,9403VK,Assen,Assen,Drenthe,VBO,6.588898,53.007932
@@ -5092,7 +5013,6 @@ Ketellapperstraat,3,E,,9403VS,Assen,Assen,Drenthe,VBO,6.590935,53.011560
 Ketellapperstraat,3,F,,9403VS,Assen,Assen,Drenthe,VBO,6.590814,53.011508
 Ketellapperstraat,3,I,,9403VS,Assen,Assen,Drenthe,VBO,6.590292,53.011468
 Ketellapperstraat,3,J,,9403VS,Assen,Assen,Drenthe,VBO,6.590113,53.011470
-Ketellapperstraat,3,K,,9403VS,Assen,Assen,Drenthe,VBO,6.590140,53.011362
 Ketellapperstraat,3,L,,9403VS,Assen,Assen,Drenthe,VBO,6.590166,53.011245
 Ketellapperstraat,5,A,,9403VS,Assen,Assen,Drenthe,VBO,6.591497,53.011402
 Ketellapperstraat,5,,,9403VS,Assen,Assen,Drenthe,VBO,6.591428,53.011591

@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Noordeinde,97,A,,2742AA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641172,52.059740
 Noordeinde,97,,,2742AA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641018,52.059320
 Noordeinde,99,,,2742AA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640246,52.059740
 Noordeinde,101,,,2742AA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640092,52.059867
@@ -46,7 +45,6 @@ Noordeinde,81,,,2742AB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641697,52.0550
 Noordeinde,83,,,2742AB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641300,52.056159
 Noordeinde,85,,,2742AB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640959,52.057503
 Noordeinde,87,,,2742AB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640865,52.057751
-Noordeinde,89,,,2742AB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640809,52.057936
 Noordeinde,91,,,2742AB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640668,52.058265
 Noordeinde,93,,,2742AB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640606,52.058459
 Noordeinde,95,,,2742AB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640494,52.058815
@@ -72,6 +70,7 @@ Noordeinde,76,A,,2742AC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640369,52.056
 Noordeinde,76,B,,2742AC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640451,52.055900
 Noordeinde,76,,,2742AC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640563,52.055864
 Noordeinde,78,,,2742AC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640430,52.056311
+Noordeinde,80,A,,2742AC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640143,52.056728
 Noordeinde,80,,,2742AC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640674,52.056504
 Noordeinde,100,,,2742AC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640264,52.057376
 Noordeinde,102,,,2742AC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.639929,52.057513
@@ -149,6 +148,7 @@ Dorpstraat,58,,,2742AJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641358,52.0465
 Dorpstraat,47,,,2742AK,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641638,52.046521
 Dorpstraat,49,,,2742AK,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641634,52.046702
 Dorpstraat,51,,,2742AK,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641642,52.046763
+Dorpstraat,53,,,2742AK,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641655,52.046817
 Dorpstraat,55,,,2742AK,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641651,52.046874
 Dorpstraat,57,,,2742AK,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641708,52.047033
 Dorpstraat,59,,,2742AK,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.642065,52.046992
@@ -224,8 +224,8 @@ Dorpstraat,23,,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641604,52.0458
 Dorpstraat,25,,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641571,52.045906
 Dorpstraat,27,,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641574,52.045937
 Dorpstraat,29,,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641578,52.045970
+Dorpstraat,33,A,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641661,52.046073
 Dorpstraat,33,B,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641649,52.046021
-Dorpstraat,33,,A,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641661,52.046073
 Dorpstraat,33,,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641589,52.046065
 Dorpstraat,35,,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641598,52.046142
 Dorpstraat,37,,,2742AP,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.641607,52.046224
@@ -904,13 +904,6 @@ Elzenhorst,61,,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648816,52.0504
 Elzenhorst,62,,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648818,52.050489
 Elzenhorst,63,,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648820,52.050567
 Elzenhorst,64,,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648823,52.050651
-Elzenhorst,66,A,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648793,52.051025
-Elzenhorst,66,C,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648781,52.051081
-Elzenhorst,66,D,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648776,52.051109
-Elzenhorst,66,E,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648772,52.051136
-Elzenhorst,66,F,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648768,52.051165
-Elzenhorst,66,G,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648765,52.051194
-Elzenhorst,66,H,,2742CL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648760,52.051220
 Elzenhorst,65,,,2742CN,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.647733,52.050702
 Elzenhorst,67,,,2742CN,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648088,52.051155
 Elzenhorst,68,,,2742CN,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648091,52.051237
@@ -2010,7 +2003,6 @@ Plasweg,11,,,2742KA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638942,52.044053
 Plasweg,13,,,2742KA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638793,52.043948
 Plasweg,15,,,2742KA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638673,52.043877
 Plasweg,17,,,2742KA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638549,52.043800
-Plasweg,19,,,2742KA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638427,52.043733
 Plasweg,21,,,2742KA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638317,52.043656
 Plasweg,23,,,2742KA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638231,52.043603
 Plasweg,25,,,2742KA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638140,52.043547
@@ -2043,7 +2035,6 @@ Plasweg,8,A,,2742KB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.632955,52.039699
 Plasweg,8,B,,2742KB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.632831,52.039624
 Plasweg,10,,,2742KB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.632151,52.039169
 Plasweg,14,B,,2742KB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.628756,52.037028
-Plasweg,14,B,,2742KB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.628999,52.037052
 Plasweg,14,D,,2742KB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.628180,52.036592
 Plasweg,14,,,2742KB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.630417,52.038129
 Plasweg,16,A,C,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.625099,52.034473
@@ -2051,7 +2042,6 @@ Plasweg,16,A,,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.623964,52.034123
 Plasweg,16,B,,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.622726,52.033301
 Plasweg,16,,AB,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.625231,52.034821
 Plasweg,16,,Bis,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.624621,52.034276
-Plasweg,16,,,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.627331,52.036122
 Plasweg,16,,,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.627536,52.036320
 Plasweg,18,A,,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.623115,52.032967
 Plasweg,18,,,2742KC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.622511,52.033223
@@ -2081,7 +2071,7 @@ G. van Dort Kroonweg,2,A,,2742KG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.6195
 G. van Dort Kroonweg,2,,,2742KG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.621114,52.028906
 G. van Dort Kroonweg,4,,,2742KG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.621985,52.028459
 G. van Dort Kroonweg,6,,,2742KG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.622645,52.028008
-G. van Dort Kroonweg,10,,,2742KG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.624167,52.027473
+G. van Dort Kroonweg,10,,,2742KG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.624389,52.027316
 G. van Dort Kroonweg,12,,,2742KG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.623799,52.027333
 IJsermanweg,3,,,2742KH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.627568,52.027266
 IJsermanweg,5,,,2742KH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.627166,52.027012
@@ -2131,7 +2121,6 @@ Tweede Bloksweg,66,A,,2742KL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.623044,5
 Tweede Bloksweg,66,,,2742KL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.622939,52.022414
 Tweede Bloksweg,68,,,2742KL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.620841,52.021751
 Tweede Bloksweg,70,,,2742KL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.620183,52.021203
-Tweede Bloksweg,72,,,2742KL,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.618866,52.020519
 Pater Jornaweg,1,A,,2742KM,Waddinxveen,Waddinxveen,Zuid-Holland,STA,4.645417,52.037149
 Pater Jornaweg,1,,,2742KM,Waddinxveen,Waddinxveen,Zuid-Holland,STA,4.645630,52.037050
 Pater Jornaweg,2,A,,2742KM,Waddinxveen,Waddinxveen,Zuid-Holland,STA,4.645740,52.037340
@@ -2172,7 +2161,7 @@ Zesde Tochtweg,1,K,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.601590,52.
 Zesde Tochtweg,1,,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.607909,52.044636
 Zesde Tochtweg,2,A,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.608203,52.043959
 Zesde Tochtweg,2,,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.608394,52.044292
-Zesde Tochtweg,3,,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.610537,52.043043
+Zesde Tochtweg,3,,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.610478,52.043046
 Zesde Tochtweg,4,A,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.612540,52.041847
 Zesde Tochtweg,4,B,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.613111,52.041505
 Zesde Tochtweg,4,C,,2742KR,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.613728,52.041132
@@ -2284,7 +2273,6 @@ Onderweg,5,A,,2742LA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640127,52.045294
 Onderweg,5,,,2742LA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640201,52.045284
 Onderweg,7,A,,2742LA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.639973,52.045316
 Onderweg,7,,,2742LA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.640050,52.045305
-Onderweg,8,,,2742LA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638346,52.044779
 Onderweg,9,A,,2742LA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.639784,52.045338
 Onderweg,9,,,2742LA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.639898,52.045326
 Onderweg,11,,,2742LA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.639716,52.045348
@@ -2348,44 +2336,21 @@ Brink,17,,,2742LD,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.642497,52.049651
 Brink,21,,,2742LD,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.642504,52.049797
 Toernooiweg,101,,,2742LE,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.631567,52.042525
 Toernooiweg,103,,,2742LE,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.632207,52.041752
-Florijnlaan,1,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.632868,52.041242
 Florijnlaan,7,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.633309,52.041538
 Florijnlaan,13,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.633806,52.041793
-Florijnlaan,21,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634741,52.042283
-Florijnlaan,23,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634785,52.042240
-Florijnlaan,25,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634829,52.042198
-Florijnlaan,27,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634876,52.042153
-Florijnlaan,29,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634920,52.042110
-Florijnlaan,31,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634966,52.042066
-Florijnlaan,33,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.635225,52.042208
-Florijnlaan,35,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.635167,52.042245
-Florijnlaan,37,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.635109,52.042283
-Florijnlaan,39,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.635051,52.042319
-Florijnlaan,41,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634994,52.042356
-Florijnlaan,43,,,2742LG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634932,52.042395
-Dukaatlaan,2,,,2742LH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.633311,52.040985
+Dukaatlaan,2,,,2742LH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.633289,52.040998
 Dukaatlaan,4,,,2742LH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.633454,52.041162
 Dukaatlaan,6,,,2742LH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.633630,52.041307
 Dukaatlaan,12,,,2742LH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634079,52.041590
 Dukaatlaan,18,,,2742LH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634600,52.041854
-Meander,8,,,2742LJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.637077,52.044718
-Meander,10,,,2742LJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.637394,52.044668
-Meander,19,,,2742LJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638404,52.044243
-Egelantier,10,,,2742MA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.644858,52.034365
-Egelantier,12,,,2742MA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.644807,52.034322
-Egelantier,14,,,2742MA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.644686,52.034242
-Egelantier,16,,,2742MA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.644634,52.034199
-Egelantier,18,,,2742MA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.644530,52.034112
-Egelantier,20,,,2742MA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.644478,52.034069
-Egelantier,22,,,2742MA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.644394,52.033981
-Ganzerik,2,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645383,52.034370
-Ganzerik,4,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645438,52.034339
-Ganzerik,6,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645494,52.034310
-Ganzerik,8,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645545,52.034276
-Ganzerik,10,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645601,52.034245
-Ganzerik,12,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645651,52.034213
-Ganzerik,14,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645708,52.034182
-Ganzerik,16,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645762,52.034151
+Ganzerik,2,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645355,52.034390
+Ganzerik,4,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645409,52.034354
+Ganzerik,6,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645463,52.034320
+Ganzerik,8,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645515,52.034288
+Ganzerik,10,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645576,52.034252
+Ganzerik,12,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645628,52.034220
+Ganzerik,14,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645685,52.034184
+Ganzerik,16,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645743,52.034149
 Ganzerik,18,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646039,52.034172
 Ganzerik,20,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646089,52.034141
 Ganzerik,22,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646145,52.034109
@@ -2412,35 +2377,17 @@ Ganzerik,62,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646312,52.033420
 Ganzerik,64,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646260,52.033387
 Ganzerik,66,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646208,52.033354
 Ganzerik,68,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646154,52.033321
-Ganzerik,72,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645918,52.033188
-Ganzerik,74,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645879,52.033157
-Ganzerik,76,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645832,52.033128
-Ganzerik,78,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645789,52.033098
-Ganzerik,80,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645740,52.033071
-Ganzerik,82,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645697,52.033041
-Ganzerik,84,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645652,52.033014
-Ganzerik,86,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645607,52.032986
-Ganzerik,88,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645562,52.032956
-Ganzerik,90,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645517,52.032930
-Ganzerik,92,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645472,52.032901
-Ganzerik,1,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645202,52.034214
-Ganzerik,3,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645258,52.034180
-Ganzerik,5,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645314,52.034146
-Ganzerik,7,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645370,52.034112
-Ganzerik,9,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645417,52.034072
-Ganzerik,11,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645473,52.034038
-Ganzerik,13,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645530,52.034004
-Ganzerik,15,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645595,52.033976
-Ganzerik,17,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645651,52.033942
-Ganzerik,19,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645686,52.033891
-Ganzerik,21,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645745,52.033855
-Ganzerik,23,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645795,52.033813
-Ganzerik,25,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645855,52.033778
-Ganzerik,27,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645914,52.033742
-Ganzerik,29,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645973,52.033706
-Ganzerik,31,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646042,52.033676
-Ganzerik,33,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646101,52.033640
-Ganzerik,35,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646161,52.033604
+Ganzerik,72,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645903,52.033176
+Ganzerik,74,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645854,52.033143
+Ganzerik,76,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645803,52.033110
+Ganzerik,78,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645750,52.033079
+Ganzerik,80,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645698,52.033044
+Ganzerik,82,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645644,52.033010
+Ganzerik,84,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645592,52.032977
+Ganzerik,86,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645544,52.032942
+Ganzerik,88,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645493,52.032912
+Ganzerik,90,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645435,52.032879
+Ganzerik,92,,,2742MB,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645381,52.032846
 Ganzerik,37,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645885,52.033424
 Ganzerik,39,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645833,52.033391
 Ganzerik,41,,,2742MC,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645781,52.033358
@@ -2483,10 +2430,10 @@ Logistiekweg,6,,,2742RE,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.619436,52.018
 Logistiekweg,18,,,2742RE,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.618704,52.018936
 Nijverheidsweg,2,A,,2742RG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634915,52.018947
 Nijverheidsweg,2,B,,2742RG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.634716,52.018708
-Nijverheidsweg,2,,,2742RG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.633223,52.019235
+Nijverheidsweg,2,,,2742RG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.633341,52.019167
 Nijverheidsweg,3,,,2742RG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638072,52.016169
 Nijverheidsweg,4,,,2742RG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.636476,52.018241
-Nijverheidsweg,20,,,2742RG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638376,52.014518
+Nijverheidsweg,20,,,2742RG,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.638430,52.014554
 Transportweg,4,,,2742RH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.622413,52.018986
 Transportweg,5,,,2742RH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.622915,52.017414
 Transportweg,7,,,2742RH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.622288,52.016668
@@ -2894,38 +2841,38 @@ Berkengaarde,31,,,2742TT,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645972,52.05
 Berkengaarde,33,,,2742TT,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646060,52.051507
 Berkengaarde,35,,,2742TT,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646157,52.051489
 Berkengaarde,37,,,2742TT,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646244,52.051495
-Essengaarde,1,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.647102,52.052264
+Essengaarde,1,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.647088,52.052334
 Essengaarde,2,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.647102,52.052029
-Essengaarde,3,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.647005,52.052254
+Essengaarde,3,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646989,52.052327
 Essengaarde,4,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.647014,52.052023
-Essengaarde,5,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646907,52.052247
+Essengaarde,5,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646891,52.052320
 Essengaarde,6,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646933,52.052018
-Essengaarde,7,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646809,52.052240
+Essengaarde,7,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646795,52.052314
 Essengaarde,8,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646857,52.052012
-Essengaarde,9,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646714,52.052243
+Essengaarde,9,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646696,52.052312
 Essengaarde,10,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646781,52.052007
-Essengaarde,11,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646616,52.052240
+Essengaarde,11,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646599,52.052306
 Essengaarde,12,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646707,52.052002
-Essengaarde,13,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646518,52.052233
+Essengaarde,13,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646502,52.052299
 Essengaarde,14,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646627,52.051996
-Essengaarde,15,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646418,52.052225
+Essengaarde,15,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646403,52.052294
 Essengaarde,16,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646549,52.051991
-Essengaarde,17,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645900,52.052151
+Essengaarde,17,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646073,52.052310
 Essengaarde,18,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646477,52.051986
-Essengaarde,19,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645964,52.052154
-Essengaarde,21,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646030,52.052159
-Essengaarde,23,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645889,52.052179
-Essengaarde,25,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645954,52.052185
-Essengaarde,27,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646017,52.052189
-Essengaarde,29,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646080,52.052194
-Essengaarde,31,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646135,52.052197
-Essengaarde,33,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645880,52.052217
-Essengaarde,35,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645940,52.052220
-Essengaarde,37,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646001,52.052225
-Essengaarde,39,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646065,52.052229
-Essengaarde,41,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646119,52.052233
-Essengaarde,43,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645868,52.052250
-Essengaarde,45,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645929,52.052252
+Essengaarde,19,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646022,52.052306
+Essengaarde,21,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645971,52.052303
+Essengaarde,23,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646077,52.052291
+Essengaarde,25,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646026,52.052288
+Essengaarde,27,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645976,52.052285
+Essengaarde,29,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645926,52.052281
+Essengaarde,31,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645876,52.052278
+Essengaarde,33,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646080,52.052271
+Essengaarde,35,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646029,52.052268
+Essengaarde,37,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645979,52.052265
+Essengaarde,39,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645929,52.052261
+Essengaarde,41,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645879,52.052258
+Essengaarde,43,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646084,52.052252
+Essengaarde,45,,,2742TV,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.646033,52.052248
 Waddepad,35,,,2742TW,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645641,52.053913
 Waddepad,37,,,2742TW,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645628,52.053861
 Waddepad,39,,,2742TW,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.645614,52.053802
@@ -3428,7 +3375,7 @@ Noordeinde,150,C,,2742WH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.636561,52.07
 Noordeinde,150,,,2742WH,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.636605,52.073176
 Noordeinde,124,,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.637314,52.067150
 Noordeinde,126,A,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.636091,52.067282
-Noordeinde,126,B,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.635575,52.067252
+Noordeinde,126,B,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.635620,52.067293
 Noordeinde,126,C,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.635606,52.067469
 Noordeinde,126,,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.637319,52.067190
 Noordeinde,130,,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.637326,52.067675
@@ -3440,13 +3387,6 @@ Noordeinde,136,,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.636941,52.070
 Noordeinde,138,,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.636927,52.070590
 Noordeinde,140,,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.636849,52.071183
 Noordeinde,142,,,2742WJ,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.636776,52.071805
-Peter Zuidlaan,179,A,,2742XA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648759,52.045865
-Peter Zuidlaan,179,B,,2742XA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648666,52.045864
-Peter Zuidlaan,179,C,,2742XA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648575,52.045864
-Peter Zuidlaan,179,D,,2742XA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648485,52.045863
-Peter Zuidlaan,179,E,,2742XA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648394,52.045862
-Peter Zuidlaan,179,F,,2742XA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648304,52.045861
-Peter Zuidlaan,179,G,,2742XA,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648116,52.045860
 Peter Zuidlaan,49,,,2742XD,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648286,52.046417
 Peter Zuidlaan,51,,,2742XD,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648289,52.046335
 Peter Zuidlaan,53,,,2742XD,Waddinxveen,Waddinxveen,Zuid-Holland,VBO,4.648291,52.046254

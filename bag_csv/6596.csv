@@ -1,5 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Rijksweg,3,,,6596AA,Milsbeek,Gennep,Limburg,VBO,5.955416,51.718368
+Rijksweg,7,t,,6596AA,Milsbeek,Gennep,Limburg,VBO,5.955178,51.718406
 Rijksweg,7,,,6596AA,Milsbeek,Gennep,Limburg,VBO,5.955071,51.718559
 Rijksweg,9,,,6596AA,Milsbeek,Gennep,Limburg,VBO,5.954885,51.718748
 Rijksweg,11,,,6596AA,Milsbeek,Gennep,Limburg,VBO,5.954828,51.718785
@@ -148,6 +149,7 @@ Kerkstraat,4,,,6596AL,Milsbeek,Gennep,Limburg,VBO,5.949646,51.723331
 Kerkstraat,6,,,6596AL,Milsbeek,Gennep,Limburg,VBO,5.949864,51.723474
 Kerkstraat,8,,,6596AL,Milsbeek,Gennep,Limburg,VBO,5.949968,51.723626
 Kerkstraat,10,,,6596AL,Milsbeek,Gennep,Limburg,VBO,5.950085,51.723778
+Kerkstraat,12,,,6596AL,Milsbeek,Gennep,Limburg,VBO,5.950185,51.723757
 Kerkstraat,14,,,6596AL,Milsbeek,Gennep,Limburg,VBO,5.950188,51.723895
 Kerkstraat,16,,,6596AL,Milsbeek,Gennep,Limburg,VBO,5.950218,51.723948
 Kerkstraat,18,,,6596AL,Milsbeek,Gennep,Limburg,VBO,5.950335,51.724056
@@ -488,9 +490,7 @@ Langstraat,101,,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.939656,51.731324
 Langstraat,103,,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.939035,51.731516
 Langstraat,105,a,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.939011,51.731912
 Langstraat,105,,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.938675,51.731617
-Langstraat,107,a,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.938753,51.732071
 Langstraat,107,,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.938445,51.731798
-Langstraat,109,a,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.938431,51.732229
 Langstraat,109,b,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.938125,51.732368
 Langstraat,109,,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.938145,51.732078
 Langstraat,111,,,6596BN,Milsbeek,Gennep,Limburg,VBO,5.937600,51.732521
@@ -718,7 +718,6 @@ Laagland,17,,,6596CJ,Milsbeek,Gennep,Limburg,VBO,5.945155,51.732359
 Teelebeekstraat,60,,,6596CK,Milsbeek,Gennep,Limburg,VBO,5.951614,51.732625
 Verloren Land,1,,,6596CL,Milsbeek,Gennep,Limburg,VBO,5.953437,51.732517
 Verloren Land,3,,,6596CL,Milsbeek,Gennep,Limburg,VBO,5.953945,51.732631
-Verloren Land,60,,,6596CL,Milsbeek,Gennep,Limburg,VBO,5.951540,51.732481
 Verloren Land,67,,,6596CL,Milsbeek,Gennep,Limburg,VBO,5.946797,51.732891
 Verloren Land,69,,,6596CL,Milsbeek,Gennep,Limburg,VBO,5.946421,51.732910
 Verloren Land,71,,,6596CL,Milsbeek,Gennep,Limburg,VBO,5.945942,51.732859
@@ -940,7 +939,17 @@ Ovenberg,8,,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.945374,51.721985
 Ovenberg,10,a,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.944926,51.722014
 Ovenberg,10,,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.944927,51.722167
 Ovenberg,11,,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.943663,51.721751
-Ovenberg,12,,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.944924,51.723048
+Ovenberg,12,a,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.945241,51.723159
+Ovenberg,12,b,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.944922,51.723031
+Ovenberg,12,c,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.944902,51.722859
+Ovenberg,12,d,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.945141,51.722785
+Ovenberg,12,e,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.945174,51.722877
+Ovenberg,12,f,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.945199,51.722991
+Ovenberg,12,g,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.944960,51.723163
+Ovenberg,12,,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.944664,51.722811
+Ovenberg,13,a,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.943081,51.721660
+Ovenberg,13,b,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.943037,51.721546
+Ovenberg,13,c,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.942981,51.721434
 Ovenberg,13,,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.943187,51.721825
 Ovenberg,14,,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.944175,51.722216
 Ovenberg,15,t,,6596DP,Milsbeek,Gennep,Limburg,VBO,5.941265,51.722130
@@ -1113,7 +1122,6 @@ Ringeloor,20,,,6596GD,Milsbeek,Gennep,Limburg,VBO,5.953522,51.726647
 Ringeloor,22,,,6596GD,Milsbeek,Gennep,Limburg,VBO,5.953552,51.726710
 Ringeloor,24,,,6596GD,Milsbeek,Gennep,Limburg,VBO,5.953582,51.726773
 Ringeloor,26,,,6596GD,Milsbeek,Gennep,Limburg,VBO,5.953597,51.726818
-Ringeloor,40,,,6596GD,Milsbeek,Gennep,Limburg,VBO,5.953751,51.727332
 Ringeloor,42,,,6596GD,Milsbeek,Gennep,Limburg,VBO,5.953829,51.727474
 Ringeloor,44,,,6596GD,Milsbeek,Gennep,Limburg,VBO,5.953882,51.727634
 Ringeloor,48,,,6596GD,Milsbeek,Gennep,Limburg,VBO,5.953755,51.727850
@@ -1184,6 +1192,7 @@ Driekronenstraat,14,,,6596MA,Milsbeek,Gennep,Limburg,VBO,5.970844,51.719632
 Driekronenstraat,17,,,6596MA,Milsbeek,Gennep,Limburg,VBO,5.966943,51.717844
 Driekronenstraat,19,,,6596MA,Milsbeek,Gennep,Limburg,VBO,5.968698,51.719265
 Driekronenstraat,21,,,6596MA,Milsbeek,Gennep,Limburg,VBO,5.968889,51.719543
+Driekronenstraat,23,,,6596MA,Milsbeek,Gennep,Limburg,VBO,5.969057,51.719731
 Onderkant,1,,,6596MB,Milsbeek,Gennep,Limburg,VBO,5.968506,51.720093
 Onderkant,3,b,,6596MB,Milsbeek,Gennep,Limburg,VBO,5.963338,51.721520
 Onderkant,3,,,6596MB,Milsbeek,Gennep,Limburg,VBO,5.965340,51.721484

@@ -1,8 +1,13 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Helderseweg,28,,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.742488,52.642418
 Helderseweg,29,,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743980,52.643298
-Helderseweg,30,,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743930,52.643548
-Helderseweg,31,,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743853,52.643748
+Helderseweg,30,A,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743911,52.643605
+Helderseweg,30,B,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743949,52.643511
+Helderseweg,31,A,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.742649,52.643595
+Helderseweg,31,B,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.742856,52.643616
+Helderseweg,31,C,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743048,52.643637
+Helderseweg,31,D,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743140,52.643650
+Helderseweg,31,E,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743159,52.643605
 Helderseweg,32,,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743516,52.644118
 Helderseweg,50,A,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743366,52.644924
 Helderseweg,50,,,1817BA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.743513,52.644616
@@ -82,7 +87,6 @@ Wognumsebuurt,2,,,1817BH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.735355,52.637607
 Wognumsebuurt,3,,,1817BH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.736001,52.638252
 Wognumsebuurt,10,,,1817BH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.737543,52.638279
 Wognumsebuurt,12,,,1817BH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.737647,52.638285
-Wognumsebuurt,20,,,1817BH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.738222,52.638123
 Oude Helderseweg,85,A,,1817BJ,Alkmaar,Alkmaar,Noord-Holland,VBO,4.744521,52.659812
 Oude Helderseweg,85,B,,1817BJ,Alkmaar,Alkmaar,Noord-Holland,VBO,4.744084,52.658477
 Oude Helderseweg,85,,,1817BJ,Alkmaar,Alkmaar,Noord-Holland,VBO,4.745075,52.657933
@@ -100,6 +104,40 @@ Bergerweg,76,,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.732782,52.638222
 Bergerweg,78,,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.732674,52.638269
 Bergerweg,80,A,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.732625,52.638447
 Bergerweg,80,,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.732441,52.638330
+Bergerweg,84,A,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731335,52.638668
+Bergerweg,84,B,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731183,52.638726
+Bergerweg,84,C,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731016,52.638782
+Bergerweg,84,D,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730881,52.638825
+Bergerweg,84,E,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731364,52.638702
+Bergerweg,84,F,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731267,52.638736
+Bergerweg,84,G,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731174,52.638764
+Bergerweg,84,H,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731039,52.638812
+Bergerweg,84,J,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730906,52.638858
+Bergerweg,86,A,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731394,52.638737
+Bergerweg,86,B,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731294,52.638772
+Bergerweg,86,C,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731185,52.638806
+Bergerweg,86,D,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731072,52.638845
+Bergerweg,86,E,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730992,52.638877
+Bergerweg,86,F,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731381,52.638796
+Bergerweg,86,G,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731283,52.638829
+Bergerweg,86,H,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731167,52.638869
+Bergerweg,86,J,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731007,52.638928
+Bergerweg,88,A,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730753,52.638871
+Bergerweg,88,B,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730614,52.638917
+Bergerweg,88,C,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730537,52.638946
+Bergerweg,88,D,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730447,52.638978
+Bergerweg,88,E,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730779,52.638907
+Bergerweg,88,F,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730642,52.638955
+Bergerweg,88,G,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730569,52.638982
+Bergerweg,88,H,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730486,52.639014
+Bergerweg,90,A,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730908,52.638909
+Bergerweg,90,B,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730795,52.638949
+Bergerweg,90,C,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730676,52.638991
+Bergerweg,90,D,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730599,52.639021
+Bergerweg,90,E,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730511,52.639054
+Bergerweg,90,F,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730867,52.638978
+Bergerweg,90,G,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730727,52.639029
+Bergerweg,90,H,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730601,52.639076
 Bergerweg,126,,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730347,52.639093
 Bergerweg,130,,,1817BK,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730084,52.639146
 Oude Hoeverweg,1,,,1817BL,Alkmaar,Alkmaar,Noord-Holland,VBO,4.729826,52.639925
@@ -332,10 +370,9 @@ Havinghastraat,4,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.737555,52.649053
 Havinghastraat,6,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.737314,52.649309
 Havinghastraat,10,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.737670,52.647451
 Havinghastraat,11,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.738492,52.648865
-Havinghastraat,13,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.739113,52.648032
 Havinghastraat,15,A,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.738408,52.648059
 Havinghastraat,15,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.738441,52.647955
-Havinghastraat,16,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.735247,52.647729
+Havinghastraat,16,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.735441,52.647616
 Havinghastraat,17,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.738415,52.647596
 Havinghastraat,18,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.735319,52.647877
 Havinghastraat,19,,,1817DA,Alkmaar,Alkmaar,Noord-Holland,VBO,4.738349,52.647384
@@ -537,6 +574,18 @@ Van der Lijnstraat,3,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.733312,52.6384
 Van der Lijnstraat,5,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.733243,52.638513
 Van der Lijnstraat,7,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.733171,52.638540
 Van der Lijnstraat,9,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.732271,52.638861
+Van der Lijnstraat,11,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731718,52.639055
+Van der Lijnstraat,13,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731641,52.639082
+Van der Lijnstraat,15,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731566,52.639107
+Van der Lijnstraat,17,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731495,52.639132
+Van der Lijnstraat,19,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731348,52.639183
+Van der Lijnstraat,21,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731272,52.639210
+Van der Lijnstraat,23,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731194,52.639232
+Van der Lijnstraat,25,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731117,52.639255
+Van der Lijnstraat,27,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.731048,52.639281
+Van der Lijnstraat,29,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730979,52.639310
+Van der Lijnstraat,31,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730908,52.639335
+Van der Lijnstraat,33,,,1817EH,Alkmaar,Alkmaar,Noord-Holland,VBO,4.730837,52.639355
 Van der Lijnstraat,2,,,1817EJ,Alkmaar,Alkmaar,Noord-Holland,VBO,4.733800,52.638613
 Van der Lijnstraat,4,,,1817EJ,Alkmaar,Alkmaar,Noord-Holland,VBO,4.733575,52.638715
 Van der Lijnstraat,6,,,1817EJ,Alkmaar,Alkmaar,Noord-Holland,VBO,4.733507,52.638742

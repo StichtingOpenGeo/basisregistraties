@@ -16,7 +16,6 @@ Purmerenderweg,13,b,,1463DA,Noordbeemster,Beemster,Noord-Holland,VBO,4.978840,52
 Purmerenderweg,13,c,,1463DA,Noordbeemster,Beemster,Noord-Holland,VBO,4.978833,52.572100
 Purmerenderweg,13,,,1463DA,Noordbeemster,Beemster,Noord-Holland,VBO,4.977483,52.572580
 Purmerenderweg,14,,,1463DA,Noordbeemster,Beemster,Noord-Holland,VBO,4.975747,52.571147
-Middenweg,1,,,1463HA,Noordbeemster,Beemster,Noord-Holland,VBO,4.951667,52.610139
 Middenweg,2,,,1463HA,Noordbeemster,Beemster,Noord-Holland,VBO,4.950653,52.610374
 Middenweg,3,,,1463HA,Noordbeemster,Beemster,Noord-Holland,VBO,4.948678,52.607326
 Middenweg,4,,,1463HA,Noordbeemster,Beemster,Noord-Holland,VBO,4.948504,52.605392
@@ -32,6 +31,7 @@ Middenweg,11,a,,1463HB,Noordbeemster,Beemster,Noord-Holland,VBO,4.940355,52.5945
 Middenweg,11,,,1463HB,Noordbeemster,Beemster,Noord-Holland,VBO,4.940592,52.595432
 Middenweg,12,,,1463HB,Noordbeemster,Beemster,Noord-Holland,VBO,4.941275,52.593928
 Middenweg,13,,,1463HB,Noordbeemster,Beemster,Noord-Holland,VBO,4.939393,52.593174
+Middenweg,14,a,,1463HB,Noordbeemster,Beemster,Noord-Holland,VBO,4.939166,52.592760
 Middenweg,14,,,1463HB,Noordbeemster,Beemster,Noord-Holland,VBO,4.939515,52.592800
 Middenweg,15,,,1463HB,Noordbeemster,Beemster,Noord-Holland,VBO,4.938962,52.592533
 Middenweg,16,,,1463HB,Noordbeemster,Beemster,Noord-Holland,VBO,4.939148,52.592213
@@ -74,7 +74,7 @@ Middenweg,49,,,1463HC,Noordbeemster,Beemster,Noord-Holland,VBO,4.932171,52.57936
 Middenweg,50,a,,1463HC,Noordbeemster,Beemster,Noord-Holland,VBO,4.930785,52.579215
 Middenweg,50,,,1463HC,Noordbeemster,Beemster,Noord-Holland,VBO,4.930863,52.579177
 Middenweg,51,,,1463HC,Noordbeemster,Beemster,Noord-Holland,VBO,4.931402,52.578263
-Nekkerweg,1,,,1463LA,Noordbeemster,Beemster,Noord-Holland,VBO,4.954312,52.579282
+Nekkerweg,1,,,1463LA,Noordbeemster,Beemster,Noord-Holland,VBO,4.954469,52.579112
 Nekkerweg,2,,,1463LA,Noordbeemster,Beemster,Noord-Holland,VBO,4.956853,52.576779
 Nekkerweg,3,,,1463LA,Noordbeemster,Beemster,Noord-Holland,VBO,4.957576,52.576950
 Nekkerweg,4,,,1463LA,Noordbeemster,Beemster,Noord-Holland,VBO,4.957094,52.576618
@@ -86,7 +86,7 @@ Nekkerweg,9,,,1463LA,Noordbeemster,Beemster,Noord-Holland,VBO,4.959445,52.575525
 Nekkerweg,10,,,1463LA,Noordbeemster,Beemster,Noord-Holland,VBO,4.958255,52.574085
 Nekkerweg,11,,,1463LA,Noordbeemster,Beemster,Noord-Holland,VBO,4.954378,52.567415
 Oosthuizerweg,2,,,1463LL,Noordbeemster,Beemster,Noord-Holland,VBO,4.889520,52.589182
-Oosthuizerweg,3,,,1463LL,Noordbeemster,Beemster,Noord-Holland,VBO,4.889800,52.589139
+Oosthuizerweg,3,,,1463LL,Noordbeemster,Beemster,Noord-Holland,VBO,4.889917,52.589113
 Oosthuizerweg,5,,,1463LL,Noordbeemster,Beemster,Noord-Holland,VBO,4.891940,52.588676
 Oosthuizerweg,6,,,1463LL,Noordbeemster,Beemster,Noord-Holland,VBO,4.893102,52.588382
 Oosthuizerweg,7,,,1463LL,Noordbeemster,Beemster,Noord-Holland,VBO,4.893393,52.588288
@@ -164,7 +164,7 @@ Oosthuizerweg,80,,,1463LP,Noordbeemster,Beemster,Noord-Holland,VBO,4.985402,52.5
 Jisperweg,2,,,1463ND,Noordbeemster,Beemster,Noord-Holland,VBO,4.916297,52.600880
 Jisperweg,4,,,1463ND,Noordbeemster,Beemster,Noord-Holland,VBO,4.915612,52.600548
 Jisperweg,5,,,1463ND,Noordbeemster,Beemster,Noord-Holland,VBO,4.913898,52.597925
-Jisperweg,6,,,1463ND,Noordbeemster,Beemster,Noord-Holland,VBO,4.912738,52.597903
+Jisperweg,6,,,1463ND,Noordbeemster,Beemster,Noord-Holland,VBO,4.913127,52.597964
 Jisperweg,7,a,,1463ND,Noordbeemster,Beemster,Noord-Holland,VBO,4.912080,52.596174
 Jisperweg,7,b,,1463ND,Noordbeemster,Beemster,Noord-Holland,VBO,4.912037,52.596108
 Jisperweg,7,,,1463ND,Noordbeemster,Beemster,Noord-Holland,VBO,4.913063,52.596229
@@ -229,9 +229,6 @@ Noorddijk,13,,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953081,52.58655
 Noorddijk,14,,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953153,52.586437
 Noorddijk,15,,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953016,52.585689
 Noorddijk,17,,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953618,52.584241
-Noorddijk,18,a,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953671,52.583777
-Noorddijk,18,b,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953779,52.583794
-Noorddijk,18,,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953558,52.583819
 Noorddijk,18,,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953616,52.583797
 Noorddijk,19,,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953731,52.583596
 Noorddijk,20,,,1463PJ,Noordbeemster,Beemster,Noord-Holland,VBO,4.953713,52.583528

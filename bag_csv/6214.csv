@@ -20,8 +20,9 @@ Sint Annalaan,13,C,02,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676275,50.84912
 Sint Annalaan,13,D,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676275,50.849128
 Sint Annalaan,13,,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676275,50.849128
 Sint Annalaan,15,,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676185,50.849120
-Sint Annalaan,17,B,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676052,50.849107
-Sint Annalaan,17,,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676065,50.849111
+Sint Annalaan,17,A,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676128,50.849140
+Sint Annalaan,17,B,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676075,50.849133
+Sint Annalaan,17,C,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.676030,50.849130
 Sint Annalaan,19,A,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.675892,50.849096
 Sint Annalaan,19,B,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.675892,50.849096
 Sint Annalaan,19,C,,6214AA,Maastricht,Maastricht,Limburg,VBO,5.675892,50.849096
@@ -65,7 +66,6 @@ Koningin Emmaplein,15,B,,6214AB,Maastricht,Maastricht,Limburg,VBO,5.677681,50.84
 Koningin Emmaplein,15,C,,6214AB,Maastricht,Maastricht,Limburg,VBO,5.677681,50.848929
 Koningin Emmaplein,15,,,6214AB,Maastricht,Maastricht,Limburg,VBO,5.677681,50.848929
 Koningin Emmaplein,8,A,,6214AC,Maastricht,Maastricht,Limburg,VBO,5.677102,50.849156
-Koningin Emmaplein,8,,,6214AC,Maastricht,Maastricht,Limburg,VBO,5.677114,50.849171
 Koningin Emmaplein,10,,,6214AC,Maastricht,Maastricht,Limburg,VBO,5.677238,50.849125
 Koningin Emmaplein,12,B,01,6214AC,Maastricht,Maastricht,Limburg,VBO,5.677444,50.849044
 Koningin Emmaplein,12,B,02,6214AC,Maastricht,Maastricht,Limburg,VBO,5.677444,50.849044
@@ -188,6 +188,7 @@ Brandenburgerplein,13,D,,6214AH,Maastricht,Maastricht,Limburg,VBO,5.679400,50.84
 Brandenburgerweg,1,,,6214AJ,Maastricht,Maastricht,Limburg,VBO,5.677790,50.847855
 Brandenburgerweg,3,A,,6214AJ,Maastricht,Maastricht,Limburg,VBO,5.677863,50.847815
 Brandenburgerweg,3,B,,6214AJ,Maastricht,Maastricht,Limburg,VBO,5.677863,50.847815
+Brandenburgerweg,3,C,,6214AJ,Maastricht,Maastricht,Limburg,VBO,5.677863,50.847815
 Brandenburgerweg,31,,,6214AJ,Maastricht,Maastricht,Limburg,VBO,5.677942,50.847774
 Brandenburgerweg,37,,,6214AJ,Maastricht,Maastricht,Limburg,VBO,5.678595,50.847413
 Brandenburgerweg,2,A,,6214AK,Maastricht,Maastricht,Limburg,VBO,5.677591,50.847641
@@ -313,11 +314,15 @@ Volksbondweg,5,,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677202,50.847481
 Volksbondweg,7,B,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677226,50.847455
 Volksbondweg,7,,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677226,50.847455
 Volksbondweg,9,,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677264,50.847411
-Volksbondweg,11,,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677304,50.847358
+Volksbondweg,11,A,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677303,50.847363
+Volksbondweg,11,B,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677304,50.847358
 Volksbondweg,13,A,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677345,50.847307
 Volksbondweg,13,B,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677345,50.847307
-Volksbondweg,15,A,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677385,50.847264
-Volksbondweg,15,B,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677385,50.847264
+Volksbondweg,15,A,01,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677385,50.847264
+Volksbondweg,15,A,02,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677385,50.847264
+Volksbondweg,15,A,03,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677385,50.847264
+Volksbondweg,15,B,01,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677385,50.847264
+Volksbondweg,15,B,02,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677384,50.847264
 Volksbondweg,17,A,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677470,50.847147
 Volksbondweg,17,B,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677424,50.847214
 Volksbondweg,23,B,,6214AP,Maastricht,Maastricht,Limburg,VBO,5.677512,50.847096
@@ -504,7 +509,8 @@ Cannerplein,1,,,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679313,50.844299
 Cannerplein,2,A,01,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679203,50.844356
 Cannerplein,2,A,02,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679203,50.844356
 Cannerplein,2,B,,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679203,50.844356
-Cannerplein,3,A,,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679119,50.844397
+Cannerplein,3,A,01,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679119,50.844397
+Cannerplein,3,A,02,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679167,50.844432
 Cannerplein,3,B,01,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679119,50.844397
 Cannerplein,3,B,02,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679119,50.844397
 Cannerplein,3,C,01,6214BA,Maastricht,Maastricht,Limburg,VBO,5.679119,50.844397
@@ -973,7 +979,7 @@ Brouwersweg,24,A,02,6214PD,Maastricht,Maastricht,Limburg,VBO,5.675124,50.848471
 Brouwersweg,30,A,,6214PD,Maastricht,Maastricht,Limburg,VBO,5.674447,50.848319
 Brouwersweg,30,B,,6214PD,Maastricht,Maastricht,Limburg,VBO,5.674474,50.848327
 Brouwersweg,30,C,,6214PD,Maastricht,Maastricht,Limburg,VBO,5.674425,50.848303
-Brouwersweg,30,,,6214PD,Maastricht,Maastricht,Limburg,VBO,5.674405,50.848295
+Brouwersweg,30,,,6214PD,Maastricht,Maastricht,Limburg,VBO,5.675030,50.848483
 Brouwersweg,32,A,,6214PD,Maastricht,Maastricht,Limburg,VBO,5.674540,50.848353
 Brouwersweg,32,B,,6214PD,Maastricht,Maastricht,Limburg,VBO,5.674564,50.848365
 Brouwersweg,32,C,,6214PD,Maastricht,Maastricht,Limburg,VBO,5.674557,50.848372
@@ -1293,6 +1299,7 @@ Meester Ulrichweg,27,A,,6214PV,Maastricht,Maastricht,Limburg,VBO,5.676226,50.846
 Meester Ulrichweg,27,B,,6214PV,Maastricht,Maastricht,Limburg,VBO,5.676226,50.846603
 Meester Ulrichweg,27,C,,6214PV,Maastricht,Maastricht,Limburg,VBO,5.676226,50.846603
 Meester Ulrichweg,53,A,,6214PW,Maastricht,Maastricht,Limburg,VBO,5.675868,50.846472
+Meester Ulrichweg,55,A,,6214PW,Maastricht,Maastricht,Limburg,VBO,5.675741,50.846411
 Meester Ulrichweg,55,B,,6214PW,Maastricht,Maastricht,Limburg,VBO,5.675741,50.846411
 Meester Ulrichweg,57,A,,6214PW,Maastricht,Maastricht,Limburg,VBO,5.675637,50.846349
 Meester Ulrichweg,57,B,,6214PW,Maastricht,Maastricht,Limburg,VBO,5.675658,50.846320
@@ -1968,6 +1975,7 @@ Ruttensingel,152,C,01,6214SV,Maastricht,Maastricht,Limburg,VBO,5.675083,50.84449
 Ruttensingel,152,C,02,6214SV,Maastricht,Maastricht,Limburg,VBO,5.675070,50.844495
 Ruttensingel,152,D,,6214SV,Maastricht,Maastricht,Limburg,VBO,5.675078,50.844494
 Ruttensingel,152,,,6214SV,Maastricht,Maastricht,Limburg,VBO,5.675078,50.844494
+Ruttensingel,156,B,,6214SV,Maastricht,Maastricht,Limburg,VBO,5.675151,50.844377
 Ruttensingel,156,,,6214SV,Maastricht,Maastricht,Limburg,VBO,5.675151,50.844377
 Ruttensingel,158,B,,6214SV,Maastricht,Maastricht,Limburg,VBO,5.675179,50.844328
 Ruttensingel,158,C,,6214SV,Maastricht,Maastricht,Limburg,VBO,5.675179,50.844328

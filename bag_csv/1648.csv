@@ -360,6 +360,7 @@ Wieder,15,,,1648GA,De Goorn,Koggenland,Noord-Holland,VBO,4.960087,52.624957
 Wieder,17,A,,1648GA,De Goorn,Koggenland,Noord-Holland,VBO,4.959981,52.624794
 Wieder,17,B,,1648GA,De Goorn,Koggenland,Noord-Holland,VBO,4.960153,52.624756
 Wieder,17,,,1648GA,De Goorn,Koggenland,Noord-Holland,VBO,4.960034,52.624869
+Wieder,19,A,,1648GA,De Goorn,Koggenland,Noord-Holland,VBO,4.960367,52.624571
 Wieder,19,,,1648GA,De Goorn,Koggenland,Noord-Holland,VBO,4.959888,52.624533
 Wieder,21,,,1648GA,De Goorn,Koggenland,Noord-Holland,VBO,4.960484,52.624298
 Wieder,23,,,1648GA,De Goorn,Koggenland,Noord-Holland,VBO,4.962033,52.623717
@@ -418,12 +419,12 @@ Hand-eg,1,,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.961610,52.623938
 Hand-eg,2,A,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.961113,52.624915
 Hand-eg,2,,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.961024,52.624710
 Hand-eg,3,,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.961506,52.624413
-Hand-eg,4,,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.960870,52.624509
+Hand-eg,4,,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.960888,52.624553
 Hand-eg,5,A,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.961681,52.624502
 Hand-eg,5,B,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.961731,52.624593
 Hand-eg,5,C,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.961910,52.624452
 Hand-eg,5,D,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.961963,52.624540
-Vredemakersweg,1,,,1648GE,De Goorn,Koggenland,Noord-Holland,VBO,4.957767,52.627022
+Hand-eg,6,,,1648GD,De Goorn,Koggenland,Noord-Holland,VBO,4.960831,52.624469
 Vredemakersweg,2,,,1648GE,De Goorn,Koggenland,Noord-Holland,VBO,4.967704,52.624596
 Vredemakersweg,3,,,1648GE,De Goorn,Koggenland,Noord-Holland,VBO,4.960169,52.626786
 Vredemakersweg,4,,,1648GE,De Goorn,Koggenland,Noord-Holland,VBO,4.972822,52.623737
@@ -702,7 +703,6 @@ Dorsvlegel,59,,,1648HV,De Goorn,Koggenland,Noord-Holland,VBO,4.953076,52.625604
 Dorsvlegel,61,,,1648HV,De Goorn,Koggenland,Noord-Holland,VBO,4.953134,52.625694
 Dorsvlegel,63,,,1648HV,De Goorn,Koggenland,Noord-Holland,VBO,4.953161,52.625732
 Kantbeugel,1,A,,1648HW,De Goorn,Koggenland,Noord-Holland,VBO,4.949574,52.625189
-Kantbeugel,1,B,,1648HW,De Goorn,Koggenland,Noord-Holland,VBO,4.949444,52.625255
 Kantbeugel,1,,,1648HW,De Goorn,Koggenland,Noord-Holland,VBO,4.949663,52.625309
 Kantbeugel,2,,,1648HW,De Goorn,Koggenland,Noord-Holland,VBO,4.950094,52.624948
 Kantbeugel,3,,,1648HW,De Goorn,Koggenland,Noord-Holland,VBO,4.949982,52.625698
@@ -1042,7 +1042,6 @@ De Goorn,25,A,,1648JP,De Goorn,Koggenland,Noord-Holland,VBO,4.946896,52.629009
 De Goorn,25,,,1648JP,De Goorn,Koggenland,Noord-Holland,VBO,4.947062,52.629104
 De Goorn,26,,,1648JP,De Goorn,Koggenland,Noord-Holland,VBO,4.946768,52.629298
 De Goorn,27,,,1648JP,De Goorn,Koggenland,Noord-Holland,VBO,4.946668,52.629203
-De Goorn,28,,,1648JP,De Goorn,Koggenland,Noord-Holland,VBO,4.946536,52.629112
 De Goorn,29,,,1648JP,De Goorn,Koggenland,Noord-Holland,VBO,4.946522,52.628555
 De Goorn,30,,,1648JP,De Goorn,Koggenland,Noord-Holland,VBO,4.946252,52.628555
 De Goorn,31,,,1648JP,De Goorn,Koggenland,Noord-Holland,VBO,4.946481,52.628494
@@ -1471,7 +1470,6 @@ Zuid-Spierdijkerweg,38,B,,1648LB,De Goorn,Koggenland,Noord-Holland,VBO,4.942886,
 Zuid-Spierdijkerweg,38,,,1648LB,De Goorn,Koggenland,Noord-Holland,VBO,4.942634,52.633010
 Zuid-Spierdijkerweg,39,,,1648LB,De Goorn,Koggenland,Noord-Holland,VBO,4.942419,52.633229
 Zuid-Spierdijkerweg,40,A,,1648LB,De Goorn,Koggenland,Noord-Holland,VBO,4.941721,52.633869
-Zuid-Spierdijkerweg,40,B,,1648LB,De Goorn,Koggenland,Noord-Holland,VBO,4.941932,52.633684
 Zuid-Spierdijkerweg,40,,,1648LB,De Goorn,Koggenland,Noord-Holland,VBO,4.942014,52.633561
 Zuid-Spierdijkerweg,41,,,1648LB,De Goorn,Koggenland,Noord-Holland,VBO,4.941498,52.634303
 Zuid-Spierdijkerweg,42,A,,1648LB,De Goorn,Koggenland,Noord-Holland,VBO,4.941449,52.634811
@@ -1484,32 +1482,14 @@ Fruittuin,14,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.945307,52.633120
 Fruittuin,16,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.945376,52.633153
 Fruittuin,18,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.945538,52.633235
 Fruittuin,20,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.945612,52.633263
-Fruittuin,22,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.945770,52.633360
-Fruittuin,24,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.945845,52.633386
-Fruittuin,26,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.945910,52.633417
-Fruittuin,28,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.945975,52.633443
-Fruittuin,30,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.946042,52.633472
-Fruittuin,32,,,1648LD,De Goorn,Koggenland,Noord-Holland,VBO,4.946200,52.633541
 Kersengaard,2,,,1648LE,De Goorn,Koggenland,Noord-Holland,VBO,4.944953,52.632736
 Kersengaard,4,,,1648LE,De Goorn,Koggenland,Noord-Holland,VBO,4.945097,52.632600
 Kersengaard,6,,,1648LE,De Goorn,Koggenland,Noord-Holland,VBO,4.945289,52.632464
-Kersengaard,8,,,1648LE,De Goorn,Koggenland,Noord-Holland,VBO,4.945406,52.632324
 Oranjerie,1,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.945373,52.632755
 Oranjerie,3,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.945445,52.632780
 Oranjerie,5,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.945506,52.632810
 Oranjerie,7,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.945572,52.632839
 Oranjerie,9,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.945637,52.632866
-Oranjerie,11,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.945813,52.632945
-Oranjerie,13,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.945889,52.632979
-Oranjerie,15,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946088,52.633068
-Oranjerie,17,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946172,52.633095
-Oranjerie,19,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946329,52.633183
-Oranjerie,21,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946408,52.633209
-Oranjerie,23,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946468,52.633242
-Oranjerie,25,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946539,52.633268
-Oranjerie,27,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946605,52.633298
-Oranjerie,29,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946798,52.633393
-Oranjerie,31,,,1648LG,De Goorn,Koggenland,Noord-Holland,VBO,4.946871,52.633431
 Perengaard,1,,,1648LH,De Goorn,Koggenland,Noord-Holland,VBO,4.945274,52.633403
 Perengaard,3,,,1648LH,De Goorn,Koggenland,Noord-Holland,VBO,4.945222,52.633441
 Perengaard,5,,,1648LH,De Goorn,Koggenland,Noord-Holland,VBO,4.945167,52.633483

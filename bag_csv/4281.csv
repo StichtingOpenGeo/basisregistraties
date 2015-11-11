@@ -1,9 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Bellefleur,29,,,4281JA,Andel,Woudrichem,Noord-Brabant,VBO,5.048619,51.782660
-Bellefleur,31,,,4281JA,Andel,Woudrichem,Noord-Brabant,VBO,5.048694,51.782646
-Bellefleur,33,,,4281JA,Andel,Woudrichem,Noord-Brabant,VBO,5.048769,51.782631
-Bellefleur,35,,,4281JA,Andel,Woudrichem,Noord-Brabant,VBO,5.048840,51.782614
-Bellefleur,37,,,4281JA,Andel,Woudrichem,Noord-Brabant,VBO,5.048915,51.782600
 Sterappel,3,,,4281JA,Andel,Woudrichem,Noord-Brabant,VBO,5.049835,51.783547
 Sterappel,5,,,4281JA,Andel,Woudrichem,Noord-Brabant,VBO,5.049754,51.783565
 Sterappel,7,,,4281JA,Andel,Woudrichem,Noord-Brabant,VBO,5.049550,51.783647
@@ -31,6 +26,11 @@ Bellefleur,21,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048680,51.782998
 Bellefleur,23,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048656,51.782940
 Bellefleur,25,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048633,51.782887
 Bellefleur,27,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048561,51.782709
+Bellefleur,29,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048619,51.782660
+Bellefleur,31,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048694,51.782646
+Bellefleur,33,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048769,51.782631
+Bellefleur,35,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048840,51.782614
+Bellefleur,37,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.048915,51.782600
 Bellefleur,39,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.049246,51.782529
 Bellefleur,41,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.049339,51.782514
 Bellefleur,43,,,4281JB,Andel,Woudrichem,Noord-Brabant,VBO,5.049425,51.782496
@@ -61,7 +61,6 @@ Middenweg,13,,,4281KH,Andel,Woudrichem,Noord-Brabant,VBO,5.067588,51.774855
 Middenweg,16,,,4281KH,Andel,Woudrichem,Noord-Brabant,VBO,5.066797,51.774436
 Middenweg,17,,,4281KH,Andel,Woudrichem,Noord-Brabant,VBO,5.069192,51.775220
 Middenweg,20,,,4281KH,Andel,Woudrichem,Noord-Brabant,VBO,5.073441,51.773752
-Middenweg,21,,,4281KH,Andel,Woudrichem,Noord-Brabant,VBO,5.072047,51.774347
 Middenweg,24,,,4281KH,Andel,Woudrichem,Noord-Brabant,VBO,5.076983,51.773317
 Middenweg,25,,,4281KH,Andel,Woudrichem,Noord-Brabant,VBO,5.077880,51.773791
 Middenweg,27,,,4281KH,Andel,Woudrichem,Noord-Brabant,VBO,5.078575,51.773727
@@ -802,6 +801,7 @@ Hoofdgraaf,69,a,,4281NN,Andel,Woudrichem,Noord-Brabant,VBO,5.045191,51.786379
 Hoofdgraaf,69,,,4281NN,Andel,Woudrichem,Noord-Brabant,VBO,5.045532,51.786405
 Hoofdgraaf,71,,,4281NN,Andel,Woudrichem,Noord-Brabant,VBO,5.044982,51.786543
 Hoofdgraaf,75,,,4281NN,Andel,Woudrichem,Noord-Brabant,VBO,5.043367,51.786826
+Hoofdgraaf,2,,,4281NP,Andel,Woudrichem,Noord-Brabant,VBO,5.053804,51.783891
 Hoofdgraaf,6,,,4281NP,Andel,Woudrichem,Noord-Brabant,VBO,5.053558,51.783915
 Hoofdgraaf,8,,,4281NP,Andel,Woudrichem,Noord-Brabant,VBO,5.052127,51.784021
 Hoofdgraaf,10,,,4281NP,Andel,Woudrichem,Noord-Brabant,VBO,5.051832,51.784127
@@ -896,29 +896,6 @@ Vinkenpad,12,,,4281NW,Andel,Woudrichem,Noord-Brabant,VBO,5.052862,51.785441
 Vinkenpad,14,,,4281NW,Andel,Woudrichem,Noord-Brabant,VBO,5.052960,51.785415
 Buitenlaan,1,,,4281NX,Andel,Woudrichem,Noord-Brabant,VBO,5.048659,51.786210
 Buitenlaan,2,,,4281NX,Andel,Woudrichem,Noord-Brabant,VBO,5.049036,51.786494
-Lijsterplein,1,a,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.054254,51.785609
-Lijsterplein,1,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053780,51.785740
-Lijsterplein,2,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053576,51.785986
-Lijsterplein,3,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053739,51.785681
-Lijsterplein,4,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053533,51.785924
-Lijsterplein,5,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053696,51.785619
-Lijsterplein,6,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053490,51.785863
-Lijsterplein,7,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053654,51.785557
-Lijsterplein,8,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053447,51.785801
-Lijsterplein,9,a,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053328,51.785009
-Lijsterplein,9,b,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053305,51.784960
-Lijsterplein,9,c,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053284,51.784909
-Lijsterplein,9,d,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053235,51.784865
-Lijsterplein,9,e,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053195,51.784803
-Lijsterplein,9,f,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053270,51.784784
-Lijsterplein,9,g,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053367,51.784755
-Lijsterplein,9,h,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053449,51.784734
-Lijsterplein,9,i,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053536,51.784709
-Lijsterplein,9,j,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053583,51.784768
-Lijsterplein,9,k,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053601,51.784814
-Lijsterplein,9,l,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053649,51.784869
-Lijsterplein,9,m,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053673,51.784927
-Lijsterplein,9,,,4281PA,Andel,Woudrichem,Noord-Brabant,VBO,5.053513,51.785083
 Leeuweriklaantje,9,,,4281PB,Andel,Woudrichem,Noord-Brabant,VBO,5.053099,51.785173
 Leeuweriklaantje,11,,,4281PB,Andel,Woudrichem,Noord-Brabant,VBO,5.053140,51.785232
 Leeuweriklaantje,13,,,4281PB,Andel,Woudrichem,Noord-Brabant,VBO,5.053180,51.785290
@@ -1012,14 +989,18 @@ Cornelis Buizerplein,5,,,4281PL,Andel,Woudrichem,Noord-Brabant,VBO,5.052881,51.7
 Cornelis Buizerplein,7,,,4281PL,Andel,Woudrichem,Noord-Brabant,VBO,5.053042,51.786831
 Cornelis Buizerplein,9,,,4281PL,Andel,Woudrichem,Noord-Brabant,VBO,5.053195,51.786936
 Dokter Esseveldlaan,1,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052189,51.784484
+Dokter Esseveldlaan,2,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.051773,51.784470
 Dokter Esseveldlaan,3,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052212,51.784524
+Dokter Esseveldlaan,4,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052020,51.784404
 Dokter Esseveldlaan,5,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052241,51.784562
 Dokter Esseveldlaan,7,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052271,51.784602
 Dokter Esseveldlaan,9,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052294,51.784643
 Dokter Esseveldlaan,11,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052325,51.784684
 Dokter Esseveldlaan,13,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052349,51.784723
-Merelplein,2,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.051773,51.784470
-Merelplein,4,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.052020,51.784404
+Dokter Esseveldlaan,29,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.053447,51.785801
+Dokter Esseveldlaan,31,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.053490,51.785863
+Dokter Esseveldlaan,33,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.053533,51.785924
+Dokter Esseveldlaan,35,,,4281PM,Andel,Woudrichem,Noord-Brabant,VBO,5.053576,51.785986
 Nachtegaallaantje,1,,,4281PN,Andel,Woudrichem,Noord-Brabant,VBO,5.053591,51.784451
 Eendenveld,15,,,4281TL,Andel,Woudrichem,Noord-Brabant,VBO,5.038143,51.769784
 Eendenveld,17,,,4281TL,Andel,Woudrichem,Noord-Brabant,VBO,5.047147,51.767987

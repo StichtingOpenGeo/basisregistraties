@@ -39,7 +39,6 @@ Garststraat,2,a,,4021AC,Maurik,Buren,Gelderland,VBO,5.409739,51.959383
 Garststraat,2,b,,4021AC,Maurik,Buren,Gelderland,VBO,5.409579,51.959527
 Garststraat,2,,,4021AC,Maurik,Buren,Gelderland,VBO,5.409884,51.959275
 Garststraat,4,,,4021AC,Maurik,Buren,Gelderland,VBO,5.409943,51.959859
-Garststraat,8,,,4021AC,Maurik,Buren,Gelderland,VBO,5.410729,51.960345
 Garststraat,14,,,4021AC,Maurik,Buren,Gelderland,VBO,5.409446,51.959611
 Garststraat,16,,,4021AC,Maurik,Buren,Gelderland,VBO,5.409390,51.959572
 Garststraat,18,,,4021AC,Maurik,Buren,Gelderland,VBO,5.409288,51.959671
@@ -98,6 +97,7 @@ Rijnbandijk,111,,102,4021AG,Maurik,Buren,Gelderland,VBO,5.429940,51.969436
 Rijnbandijk,111,,103,4021AG,Maurik,Buren,Gelderland,VBO,5.430125,51.969507
 Rijnbandijk,111,,104,4021AG,Maurik,Buren,Gelderland,VBO,5.430253,51.969637
 Rijnbandijk,111,,105,4021AG,Maurik,Buren,Gelderland,VBO,5.429914,51.969121
+Rijnbandijk,111,,107,4021AG,Maurik,Buren,Gelderland,VBO,5.429854,51.968803
 Rijnbandijk,111,,108,4021AG,Maurik,Buren,Gelderland,VBO,5.429885,51.968668
 Rijnbandijk,111,,109,4021AG,Maurik,Buren,Gelderland,VBO,5.429667,51.968503
 Rijnbandijk,111,,10a,4021AG,Maurik,Buren,Gelderland,VBO,5.431639,51.969687
@@ -157,7 +157,7 @@ Rijnbandijk,111,,56,4021AG,Maurik,Buren,Gelderland,VBO,5.431108,51.967915
 Rijnbandijk,111,,57,4021AG,Maurik,Buren,Gelderland,VBO,5.431171,51.967978
 Rijnbandijk,111,,58,4021AG,Maurik,Buren,Gelderland,VBO,5.431194,51.968153
 Rijnbandijk,111,,59,4021AG,Maurik,Buren,Gelderland,VBO,5.431167,51.968270
-Rijnbandijk,111,,6,4021AG,Maurik,Buren,Gelderland,VBO,5.430925,51.969823
+Rijnbandijk,111,,6,4021AG,Maurik,Buren,Gelderland,VBO,5.430954,51.969783
 Rijnbandijk,111,,60,4021AG,Maurik,Buren,Gelderland,VBO,5.431131,51.968393
 Rijnbandijk,111,,61,4021AG,Maurik,Buren,Gelderland,VBO,5.431125,51.968509
 Rijnbandijk,111,,62,4021AG,Maurik,Buren,Gelderland,VBO,5.431123,51.968618
@@ -209,7 +209,7 @@ Rijnbandijk,115,,,4021AG,Maurik,Buren,Gelderland,VBO,5.428676,51.968842
 Rijnbandijk,117,a,,4021AG,Maurik,Buren,Gelderland,VBO,5.424599,51.966267
 Rijnbandijk,117,,,4021AG,Maurik,Buren,Gelderland,VBO,5.424657,51.966273
 Rijnbandijk,119,,,4021AG,Maurik,Buren,Gelderland,VBO,5.424337,51.966138
-Rijnbandijk,121,,,4021AG,Maurik,Buren,Gelderland,VBO,5.435794,51.958292
+Rijnbandijk,121,,,4021AG,Maurik,Buren,Gelderland,VBO,5.422658,51.965903
 Rijnbandijk,123,,,4021AG,Maurik,Buren,Gelderland,VBO,5.422125,51.965582
 Rijnbandijk,125,,,4021AG,Maurik,Buren,Gelderland,VBO,5.421935,51.965285
 Rijnbandijk,143,,,4021AG,Maurik,Buren,Gelderland,VBO,5.416390,51.963300
@@ -323,10 +323,6 @@ Buitenweg,70,,,4021BE,Maurik,Buren,Gelderland,VBO,5.432458,51.966324
 Buitenweg,72,,,4021BE,Maurik,Buren,Gelderland,VBO,5.434107,51.966757
 Buitenweg,74,,,4021BE,Maurik,Buren,Gelderland,VBO,5.435053,51.966956
 Buitenweg,76,,,4021BE,Maurik,Buren,Gelderland,VBO,5.438788,51.967868
-Buitenweg,78,a,,4021BE,Maurik,Buren,Gelderland,VBO,5.441384,51.968157
-Buitenweg,78,b,,4021BE,Maurik,Buren,Gelderland,VBO,5.441317,51.967883
-Buitenweg,78,c,,4021BE,Maurik,Buren,Gelderland,VBO,5.441339,51.967393
-Buitenweg,78,d,,4021BE,Maurik,Buren,Gelderland,VBO,5.441314,51.967218
 Buitenweg,78,,,4021BE,Maurik,Buren,Gelderland,VBO,5.440491,51.967957
 Kerkweg,1,,,4021BG,Maurik,Buren,Gelderland,VBO,5.425164,51.963523
 Kerkweg,3,,,4021BG,Maurik,Buren,Gelderland,VBO,5.425397,51.963558
@@ -917,6 +913,7 @@ Dijkhof,28,,,4021GE,Maurik,Buren,Gelderland,VBO,5.422488,51.965483
 Dijkhof,30,,,4021GE,Maurik,Buren,Gelderland,VBO,5.422590,51.965483
 Dijkhof,32,,,4021GE,Maurik,Buren,Gelderland,VBO,5.422707,51.965519
 Dijkhof,34,,,4021GE,Maurik,Buren,Gelderland,VBO,5.422727,51.962515
+Eiland van Maurik,6,,,4021GG,Maurik,Buren,Gelderland,VBO,5.430386,51.976751
 Eiland van Maurik,7,,K209,4021GG,Maurik,Buren,Gelderland,VBO,5.429685,51.977982
 Eiland van Maurik,7,,K210,4021GG,Maurik,Buren,Gelderland,VBO,5.429732,51.978107
 Eiland van Maurik,7,,K211,4021GG,Maurik,Buren,Gelderland,VBO,5.429979,51.978809
@@ -949,7 +946,7 @@ Eiland van Maurik,7,,K240,4021GG,Maurik,Buren,Gelderland,VBO,5.429055,51.978803
 Eiland van Maurik,7,,K241,4021GG,Maurik,Buren,Gelderland,VBO,5.428997,51.978951
 Eiland van Maurik,7,,K242,4021GG,Maurik,Buren,Gelderland,VBO,5.428937,51.979102
 Eiland van Maurik,7,,K243,4021GG,Maurik,Buren,Gelderland,VBO,5.428926,51.979259
-Eiland van Maurik,7,,K244,4021GG,Maurik,Buren,Gelderland,VBO,5.428860,51.979385
+Eiland van Maurik,7,,K244,4021GG,Maurik,Buren,Gelderland,VBO,5.428849,51.979378
 Eiland van Maurik,7,,K246,4021GG,Maurik,Buren,Gelderland,VBO,5.428795,51.977866
 Eiland van Maurik,7,,K247,4021GG,Maurik,Buren,Gelderland,VBO,5.428537,51.977922
 Eiland van Maurik,7,,K248,4021GG,Maurik,Buren,Gelderland,VBO,5.428267,51.977925
@@ -988,10 +985,9 @@ Eiland van Maurik,7,,K90,4021GG,Maurik,Buren,Gelderland,VBO,5.429582,51.977803
 Eiland van Maurik,7,,,4021GG,Maurik,Buren,Gelderland,VBO,5.429841,51.976373
 Eiland van Maurik,8,b,,4021GG,Maurik,Buren,Gelderland,LIG,5.429056,51.970552
 Eiland van Maurik,8,c,,4021GG,Maurik,Buren,Gelderland,LIG,5.424604,51.970443
-Eiland van Maurik,8,,,4021GG,Maurik,Buren,Gelderland,VBO,5.429649,51.976275
 Eiland van Maurik,9,,,4021GG,Maurik,Buren,Gelderland,VBO,5.429266,51.976283
 Eiland van Maurik,10,,,4021GG,Maurik,Buren,Gelderland,VBO,5.427696,51.977358
-Eiland van Maurik,11,,,4021GG,Maurik,Buren,Gelderland,VBO,5.427329,51.976699
+Eiland van Maurik,11,,,4021GG,Maurik,Buren,Gelderland,VBO,5.427341,51.976713
 Eiland van Maurik,15,,,4021GG,Maurik,Buren,Gelderland,VBO,5.419821,51.975242
 Eiland van Maurik,18,,,4021GG,Maurik,Buren,Gelderland,VBO,5.408618,51.973758
 Eiland van Maurik,19,,,4021GG,Maurik,Buren,Gelderland,VBO,5.399091,51.970424
@@ -1003,6 +999,7 @@ Rijnbandijk,30,,,4021GH,Maurik,Buren,Gelderland,VBO,5.416028,51.966168
 Rijnbandijk,32,,,4021GH,Maurik,Buren,Gelderland,VBO,5.411938,51.963715
 Rijnbandijk,34,,,4021GH,Maurik,Buren,Gelderland,VBO,5.408271,51.963572
 Rijnbandijk,36,,,4021GH,Maurik,Buren,Gelderland,VBO,5.406156,51.963224
+Rijnbandijk,40,,,4021GH,Maurik,Buren,Gelderland,VBO,5.395345,51.964884
 Rijnbandijk,42,,,4021GH,Maurik,Buren,Gelderland,VBO,5.393096,51.964670
 Dries,1,,,4021GJ,Maurik,Buren,Gelderland,VBO,5.416972,51.962509
 Dries,4,,,4021GJ,Maurik,Buren,Gelderland,VBO,5.417699,51.962563
@@ -1148,12 +1145,11 @@ Mentestraat,4,,,4021HE,Maurik,Buren,Gelderland,VBO,5.421723,51.953601
 Mentestraat,6,,,4021HE,Maurik,Buren,Gelderland,VBO,5.421577,51.953502
 Mentestraat,10,,,4021HE,Maurik,Buren,Gelderland,VBO,5.421373,51.953457
 Mentestraat,12,,,4021HE,Maurik,Buren,Gelderland,VBO,5.421083,51.953547
-Mentestraat,14,a,,4021HE,Maurik,Buren,Gelderland,VBO,5.420822,51.953467
+Mentestraat,14,a,,4021HE,Maurik,Buren,Gelderland,VBO,5.420842,51.953435
 Mentestraat,14,,,4021HE,Maurik,Buren,Gelderland,VBO,5.420877,51.953412
 Mentestraat,16,,,4021HE,Maurik,Buren,Gelderland,VBO,5.420719,51.953403
 Mentestraat,18,,,4021HE,Maurik,Buren,Gelderland,VBO,5.420559,51.953403
 Mentestraat,20,,,4021HE,Maurik,Buren,Gelderland,VBO,5.420093,51.953331
-Homoetsestraat,1,a,,4021HG,Maurik,Buren,Gelderland,VBO,5.428088,51.962258
 Homoetsestraat,1,,,4021HG,Maurik,Buren,Gelderland,VBO,5.427578,51.962308
 Homoetsestraat,3,a,,4021HG,Maurik,Buren,Gelderland,VBO,5.433173,51.961411
 Homoetsestraat,3,b,,4021HG,Maurik,Buren,Gelderland,VBO,5.435506,51.961979
@@ -1193,7 +1189,6 @@ Mauriksestraat,10,,,4021HJ,Maurik,Buren,Gelderland,VBO,5.428977,51.933384
 Mauriksestraat,12,,,4021HJ,Maurik,Buren,Gelderland,VBO,5.428512,51.933959
 Mauriksestraat,14,,,4021HJ,Maurik,Buren,Gelderland,VBO,5.427408,51.934256
 Mauriksestraat,16,,,4021HJ,Maurik,Buren,Gelderland,VBO,5.427074,51.934643
-Mauriksestraat,18,,,4021HJ,Maurik,Buren,Gelderland,VBO,5.426376,51.935398
 Mauriksestraat,18,,,4021HJ,Maurik,Buren,Gelderland,VBO,5.426468,51.935251
 Mauriksestraat,20,,,4021HJ,Maurik,Buren,Gelderland,VBO,5.424880,51.936711
 Driesweg,17,,,4021HK,Maurik,Buren,Gelderland,VBO,5.436478,51.958173
@@ -1418,6 +1413,7 @@ Sterappelhof,4,,,4021VC,Maurik,Buren,Gelderland,VBO,5.422412,51.960701
 Sterappelhof,5,,,4021VC,Maurik,Buren,Gelderland,VBO,5.421830,51.961088
 Sterappelhof,6,,,4021VC,Maurik,Buren,Gelderland,VBO,5.422412,51.960665
 Sterappelhof,7,a,,4021VC,Maurik,Buren,Gelderland,VBO,5.422572,51.961159
+Sterappelhof,7,,,4021VC,Maurik,Buren,Gelderland,VBO,5.422572,51.961121
 Sterappelhof,8,,,4021VC,Maurik,Buren,Gelderland,VBO,5.422426,51.960629
 Sterappelhof,9,,,4021VC,Maurik,Buren,Gelderland,VBO,5.423518,51.961096
 Sterappelhof,10,,,4021VC,Maurik,Buren,Gelderland,VBO,5.422426,51.960584
@@ -1857,11 +1853,9 @@ Esdoornstraat,9,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417484,51.958408
 Esdoornstraat,10,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417182,51.958883
 Esdoornstraat,11,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417375,51.958393
 Esdoornstraat,12,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417163,51.958935
-Esdoornstraat,13,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417317,51.958414
 Esdoornstraat,14,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417170,51.958989
 Esdoornstraat,15,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417230,51.958414
 Esdoornstraat,16,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417163,51.959033
-Esdoornstraat,17,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417126,51.958418
 Esdoornstraat,18,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417166,51.959086
 Esdoornstraat,19,,,4021XN,Maurik,Buren,Gelderland,VBO,5.416831,51.958424
 Esdoornstraat,20,,,4021XN,Maurik,Buren,Gelderland,VBO,5.417161,51.959136

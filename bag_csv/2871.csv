@@ -44,6 +44,7 @@ Tiendweg,22,,,2871AC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.865330,51.943
 Tiendweg,24,,,2871AC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869902,51.943067
 Tiendweg,26,,,2871AC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.870413,51.942880
 Tiendweg,28,,,2871AC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.870849,51.942855
+Tiendweg,30,a,,2871AC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.873121,51.942571
 Tiendweg,30,,,2871AC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.871853,51.942819
 Tiendweg,32,a,,2871AC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.874516,51.942674
 Tiendweg,32,,,2871AC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.874561,51.942584
@@ -164,8 +165,6 @@ Lopikersingel,3,,,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.856636,51
 Lopikersingel,5,,,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.856662,51.946340
 Lopikersingel,7,,,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.856725,51.946379
 Lopikersingel,9,,,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.856743,51.946433
-Lopikersingel,11,b,,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.857143,51.946727
-Lopikersingel,11,c,,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.857216,51.946794
 Lopikersingel,11,,0001,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.857047,51.946623
 Lopikersingel,11,,0002,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.857236,51.946570
 Lopikersingel,11,,0003,2871AP,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.857149,51.946595
@@ -325,6 +324,7 @@ Wal,33,,,2871BC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.855039,51.945409
 Wal,34,,,2871BC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854729,51.946668
 Wal,35,,,2871BC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.855039,51.945454
 Wal,36,a,,2871BC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854572,51.946755
+Wal,36,,,2871BC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854581,51.946720
 Wal,37,,,2871BC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.855045,51.945495
 Wal,38,a,,2871BC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854282,51.946682
 Wal,38,,,2871BC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854471,51.946760
@@ -382,17 +382,8 @@ Nes,42,a,,2871BE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854217,51.946191
 Nes,42,,,2871BE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854217,51.946191
 Nes,44,,,2871BE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854265,51.946278
 Molenstraat,1,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854443,51.944386
-Molenstraat,2,a,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854198,51.944473
-Molenstraat,2,b,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854203,51.944443
-Molenstraat,2,c,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854209,51.944415
-Molenstraat,2,d,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854214,51.944384
 Molenstraat,3,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854396,51.944463
-Molenstraat,4,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854169,51.944517
 Molenstraat,5,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854365,51.944597
-Molenstraat,6,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854165,51.944558
-Molenstraat,8,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854157,51.944603
-Molenstraat,10,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854152,51.944646
-Molenstraat,12,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854141,51.944692
 Molenstraat,14,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854116,51.944767
 Molenstraat,16,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854086,51.944827
 Molenstraat,18,,,2871BG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854086,51.944863
@@ -411,6 +402,13 @@ Carmelietenstraat,7,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.85363
 Carmelietenstraat,8,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853732,51.945242
 Carmelietenstraat,9,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853727,51.945075
 Carmelietenstraat,10,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853776,51.945233
+Carmelietenstraat,11,a,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853807,51.945080
+Carmelietenstraat,11,b,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853807,51.945080
+Carmelietenstraat,11,c,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853807,51.945080
+Carmelietenstraat,11,d,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853807,51.945080
+Carmelietenstraat,11,e,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853807,51.945080
+Carmelietenstraat,11,f,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853807,51.945080
+Carmelietenstraat,11,g,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853807,51.945080
 Carmelietenstraat,11,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853807,51.945080
 Carmelietenstraat,12,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853849,51.945224
 Carmelietenstraat,13,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853884,51.945063
@@ -418,18 +416,7 @@ Carmelietenstraat,14,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.8539
 Carmelietenstraat,15,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853952,51.945090
 Carmelietenstraat,16,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854009,51.945229
 Carmelietenstraat,18,,,2871BH,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854082,51.945207
-Het Klooster,1,a,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853668,51.944441
-Het Klooster,1,b,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853672,51.944413
-Het Klooster,1,c,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853680,51.944384
-Het Klooster,1,d,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853683,51.944356
-Het Klooster,1,e,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853689,51.944328
-Het Klooster,2,a,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853473,51.944463
 Het Klooster,2,,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853420,51.944548
-Het Klooster,3,a,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853690,51.944483
-Het Klooster,3,b,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853677,51.944526
-Het Klooster,3,c,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853670,51.944571
-Het Klooster,3,d,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853665,51.944618
-Het Klooster,3,e,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853656,51.944657
 Het Klooster,4,,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853416,51.944596
 Het Klooster,5,,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853738,51.944765
 Het Klooster,6,,,2871BJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853434,51.944647
@@ -688,14 +675,7 @@ Korte Dijk,16,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853271,51.9
 Korte Dijk,18,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853358,51.944287
 Korte Dijk,20,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853434,51.944308
 Korte Dijk,22,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853525,51.944319
-Korte Dijk,24,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853740,51.944358
-Korte Dijk,26,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853800,51.944364
 Korte Dijk,26,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854702,51.944410
-Korte Dijk,28,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853882,51.944370
-Korte Dijk,30,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853952,51.944373
-Korte Dijk,32,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854024,51.944378
-Korte Dijk,34,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854094,51.944384
-Korte Dijk,36,,,2871CB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854162,51.944391
 Buiten de Veerpoort,1,,,2871CC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853911,51.943054
 Buiten de Veerpoort,2,,,2871CC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854807,51.942910
 Buiten de Veerpoort,4,,,2871CC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.855071,51.942819
@@ -812,8 +792,8 @@ Haven,13,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852113,51.944419
 Haven,15,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852112,51.944475
 Haven,17,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852097,51.944542
 Haven,19,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852082,51.944614
-Haven,21,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852154,51.944614
-Haven,23,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852081,51.944668
+Haven,21,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852124,51.944673
+Haven,23,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852175,51.944713
 Haven,25,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852123,51.944769
 Haven,27,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852144,51.944832
 Haven,29,a,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852103,51.944893
@@ -825,6 +805,7 @@ Haven,41,,,2871CK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852071,51.945119
 Haven,43,,,2871CL,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852014,51.945387
 Haven,45,,,2871CL,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852084,51.945432
 Haven,47,,,2871CL,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852119,51.945503
+Haven,49,,,2871CL,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852119,51.945503
 Haven,51,,,2871CL,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852070,51.945559
 Haven,53,,,2871CL,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852016,51.945611
 Haven,55,,,2871CL,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.852040,51.945656
@@ -1273,17 +1254,14 @@ Koestraat,80,q,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850296,51.9
 Koestraat,80,r,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850333,51.946134
 Koestraat,90,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850517,51.946512
 Koestraat,92,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850473,51.946566
-Koestraat,94,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850381,51.946613
-Koestraat,96,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850459,51.946650
+Koestraat,94,a,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850405,51.946627
+Koestraat,94,b,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850405,51.946627
+Koestraat,94,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850405,51.946627
+Koestraat,96,a,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850405,51.946627
+Koestraat,96,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850405,51.946627
 Koestraat,98,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850403,51.946694
 Koestraat,100,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850471,51.946737
-Koestraat,102,a,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850455,51.946779
-Koestraat,102,b,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850448,51.946826
 Koestraat,102,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850371,51.946792
-Koestraat,104,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850443,51.946876
-Koestraat,106,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850435,51.946924
-Koestraat,108,a,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850433,51.946966
-Koestraat,108,b,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850427,51.947010
 Koestraat,110,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850394,51.947060
 Koestraat,112,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850299,51.947096
 Koestraat,114,,,2871DS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850379,51.947147
@@ -1347,11 +1325,6 @@ Havenstraat,35,c,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850190,51
 Havenstraat,35,d,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850183,51.945856
 Havenstraat,35,,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850191,51.945855
 Havenstraat,37,,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850297,51.946098
-Havenstraat,43,a,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849922,51.946769
-Havenstraat,43,b,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849919,51.946818
-Havenstraat,43,c,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849916,51.946861
-Havenstraat,43,d,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849916,51.946906
-Havenstraat,43,e,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849910,51.946979
 Havenstraat,47,a,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849794,51.947417
 Havenstraat,47,,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849841,51.947129
 Havenstraat,49,,,2871DX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849818,51.947480
@@ -1639,36 +1612,36 @@ Kerksteeg,4,,,2871EX,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.851004,51.945
 Meent,2,,,2871EZ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854416,51.945209
 Meent,4,,,2871EZ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854503,51.945209
 Rotterdamseweg,1,a,,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843888,51.948136
-Rotterdamseweg,1,b,,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844047,51.948136
+Rotterdamseweg,1,b,,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,1,c,,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843973,51.948042
 Rotterdamseweg,1,d,,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843972,51.948090
 Rotterdamseweg,1,e,,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843926,51.948503
 Rotterdamseweg,1,f,,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843836,51.948499
-Rotterdamseweg,1,,101,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843886,51.948350
+Rotterdamseweg,1,,101,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,1,,102,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843900,51.948041
 Rotterdamseweg,1,,103,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843974,51.947937
-Rotterdamseweg,1,,104,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844417,51.947941
-Rotterdamseweg,1,,105,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844414,51.948047
-Rotterdamseweg,1,,106,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844065,51.948044
-Rotterdamseweg,1,,107,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844046,51.948350
+Rotterdamseweg,1,,104,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
+Rotterdamseweg,1,,105,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
+Rotterdamseweg,1,,106,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
+Rotterdamseweg,1,,107,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,1,,208,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844188,51.947937
-Rotterdamseweg,1,,209,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844181,51.948046
-Rotterdamseweg,1,,210,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843885,51.948209
-Rotterdamseweg,1,,211,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844045,51.948213
-Rotterdamseweg,1,,212,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843962,51.948291
+Rotterdamseweg,1,,209,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
+Rotterdamseweg,1,,210,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
+Rotterdamseweg,1,,211,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
+Rotterdamseweg,1,,212,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,1,,213,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843967,51.948133
 Rotterdamseweg,1,,214,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844294,51.947998
 Rotterdamseweg,1,,315,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844078,51.947990
-Rotterdamseweg,1,,316,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844410,51.947999
+Rotterdamseweg,1,,316,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,1,,317,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843968,51.947989
-Rotterdamseweg,1,,318,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843963,51.948212
+Rotterdamseweg,1,,318,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,1,,319,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844183,51.947995
-Rotterdamseweg,1,,320,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843965,51.948351
+Rotterdamseweg,1,,320,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,1,,321,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844071,51.947940
-Rotterdamseweg,1,,422,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844292,51.948049
+Rotterdamseweg,1,,422,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,1,,423,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844297,51.947940
-Rotterdamseweg,1,,424,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843885,51.948290
-Rotterdamseweg,1,,425,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844038,51.948294
+Rotterdamseweg,1,,424,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
+Rotterdamseweg,1,,425,2871GA,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844006,51.947954
 Rotterdamseweg,3,,,2871GB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843681,51.948935
 Rotterdamseweg,5,,,2871GB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843680,51.948989
 Rotterdamseweg,7,,,2871GB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843665,51.949043
@@ -1699,13 +1672,13 @@ Rotterdamseweg,55,,,2871GC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843442,
 Rotterdamseweg,57,,,2871GC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843496,51.950681
 Lommerrijk,1,a,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844191,51.948820
 Lommerrijk,1,b,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844177,51.948811
-Lommerrijk,2,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844390,51.948574
+Lommerrijk,2,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843813,51.948413
 Lommerrijk,3,a,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844090,51.948811
 Lommerrijk,3,b,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844075,51.948811
-Lommerrijk,4,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844397,51.948468
+Lommerrijk,4,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843813,51.948413
 Lommerrijk,5,a,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844003,51.948801
 Lommerrijk,5,b,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843973,51.948801
-Lommerrijk,6,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843926,51.948392
+Lommerrijk,6,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843813,51.948413
 Lommerrijk,7,a,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843886,51.948801
 Lommerrijk,7,b,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843872,51.948792
 Lommerrijk,8,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843751,51.948384
@@ -1715,13 +1688,13 @@ Lommerrijk,10,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843751,51.9
 Lommerrijk,11,a,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843697,51.948782
 Lommerrijk,11,b,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843668,51.948782
 Lommerrijk,12,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843903,51.948568
-Lommerrijk,14,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843924,51.948442
+Lommerrijk,14,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843813,51.948413
 Lommerrijk,16,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843750,51.948441
-Lommerrijk,18,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844150,51.948461
+Lommerrijk,18,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843813,51.948413
 Lommerrijk,20,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844135,51.948569
-Lommerrijk,22,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844278,51.948463
+Lommerrijk,22,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843813,51.948413
 Lommerrijk,24,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844266,51.948572
-Lommerrijk,26,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844028,51.948458
+Lommerrijk,26,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843813,51.948413
 Lommerrijk,28,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844022,51.948569
 Lommerrijk,30,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843838,51.948387
 Lommerrijk,32,,,2871GD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843833,51.948444
@@ -1957,6 +1930,35 @@ Werf,10,,,2871GV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.853922,51.943921
 Werf,12,,,2871GV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854002,51.943949
 Werf,14,,,2871GV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854089,51.943967
 Werf,16,,,2871GV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.854176,51.943985
+Zilverstadplantsoen,1,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848655,51.950793
+Zilverstadplantsoen,2,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848635,51.950867
+Zilverstadplantsoen,3,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848439,51.950724
+Zilverstadplantsoen,4,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848328,51.950712
+Zilverstadplantsoen,5,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848217,51.950700
+Zilverstadplantsoen,6,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848113,51.950691
+Zilverstadplantsoen,7,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848599,51.950787
+Zilverstadplantsoen,8,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848570,51.950859
+Zilverstadplantsoen,9,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848451,51.950688
+Zilverstadplantsoen,10,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848339,51.950676
+Zilverstadplantsoen,11,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848224,51.950664
+Zilverstadplantsoen,12,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848127,51.950653
+Zilverstadplantsoen,13,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848517,51.950854
+Zilverstadplantsoen,14,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848545,51.950780
+Zilverstadplantsoen,15,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848460,51.950661
+Zilverstadplantsoen,16,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848349,51.950646
+Zilverstadplantsoen,17,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848236,51.950629
+Zilverstadplantsoen,18,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848132,51.950616
+Zilverstadplantsoen,19,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848408,51.950642
+Zilverstadplantsoen,20,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848289,51.950626
+Zilverstadplantsoen,21,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848035,51.950560
+Zilverstadplantsoen,22,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847895,51.950545
+Zilverstadplantsoen,23,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847778,51.950534
+Zilverstadplantsoen,24,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848046,51.950524
+Zilverstadplantsoen,25,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847903,51.950511
+Zilverstadplantsoen,26,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847787,51.950499
+Zilverstadplantsoen,27,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848055,51.950490
+Zilverstadplantsoen,28,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847909,51.950475
+Zilverstadplantsoen,29,,,2871GW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847795,51.950462
 Beregrachtpad,1,,,2871GZ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.855492,51.945883
 Beregrachtpad,2,,,2871GZ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.855498,51.945969
 Beregrachtpad,3,,,2871GZ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.856032,51.946043
@@ -2040,7 +2042,7 @@ Albert Plesmanstraat,3,,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.84
 Albert Plesmanstraat,4,a,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844487,51.951464
 Albert Plesmanstraat,4,,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844829,51.951394
 Albert Plesmanstraat,5,a,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845274,51.951917
-Albert Plesmanstraat,7,,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845481,51.952233
+Albert Plesmanstraat,9,,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845527,51.952089
 Albert Plesmanstraat,11,,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845439,51.952098
 Albert Plesmanstraat,13,,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845272,51.952097
 Albert Plesmanstraat,15,,,2871HJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844912,51.952030
@@ -2053,10 +2055,10 @@ Regiment van Heutszstraat,4,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO
 Regiment van Heutszstraat,5,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844701,51.952373
 Regiment van Heutszstraat,6,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845737,51.952126
 Regiment van Heutszstraat,7,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844614,51.952364
-Regiment van Heutszstraat,8,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845664,51.952126
+Regiment van Heutszstraat,8,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845782,51.952105
 Regiment van Heutszstraat,9,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844505,51.952381
 Regiment van Heutszstraat,10,,hC01,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845547,51.952233
-Regiment van Heutszstraat,10,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845592,51.952116
+Regiment van Heutszstraat,10,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845527,51.952089
 Regiment van Heutszstraat,11,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844440,51.952354
 Regiment van Heutszstraat,12,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.845519,51.952116
 Regiment van Heutszstraat,13,,,2871HK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844330,51.952362
@@ -3073,11 +3075,13 @@ Asserlaan,126,,,2871LR,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838829,51.9
 Asserlaan,128,,,2871LR,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838881,51.949497
 Asserlaan,130,,,2871LR,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838897,51.949366
 Asserlaan,132,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837819,51.948943
+Asserlaan,144,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837865,51.948969
 Asserlaan,152,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837865,51.948969
 Asserlaan,158,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837865,51.948969
 Asserlaan,168,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837865,51.948969
 Asserlaan,172,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837865,51.948969
 Asserlaan,176,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837865,51.948969
+Asserlaan,182,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837865,51.948969
 Asserlaan,190,,,2871LS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837865,51.948969
 Fleminghof,1,,,2871LT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838565,51.950960
 Fleminghof,3,,,2871LT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838550,51.951005
@@ -3144,7 +3148,6 @@ C.G. Roosweg,14,,,2871MC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.841456,51
 C.G. Roosweg,16,,,2871MC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.840436,51.945188
 C.G. Roosweg,18,,,2871MC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.839914,51.945313
 C.G. Roosweg,20,a,,2871MC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.839326,51.944654
-C.G. Roosweg,20,,,2871MC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.839829,51.945133
 C.G. Roosweg,22,a,,2871MC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.836438,51.944137
 C.G. Roosweg,22,b,,2871MC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.835308,51.943790
 C.G. Roosweg,22,,,2871MC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838321,51.944789
@@ -3179,7 +3182,7 @@ Lekdijk-West,43,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844269,51
 Lekdijk-West,45,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844269,51.942421
 Lekdijk-West,47,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844239,51.942484
 Lekdijk-West,49,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.844213,51.942580
-Lekdijk-West,51,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843926,51.942375
+Lekdijk-West,51,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843920,51.942474
 Lekdijk-West,53,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843599,51.942517
 Lekdijk-West,55,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843193,51.942407
 Lekdijk-West,57,,,2871ML,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.843225,51.942173
@@ -3196,7 +3199,7 @@ Lekdijk-West,77,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.839744,51
 Lekdijk-West,79,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.839555,51.942574
 Lekdijk-West,81,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.839234,51.942640
 Lekdijk-West,83,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838971,51.942702
-Lekdijk-West,85,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838313,51.942986
+Lekdijk-West,85,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838111,51.942861
 Lekdijk-West,87,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837463,51.943094
 Lekdijk-West,89,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.837014,51.942828
 Lekdijk-West,91,,,2871MN,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.836672,51.942835
@@ -3304,10 +3307,10 @@ Opweg,66,,,2871NC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850358,51.953159
 Opweg,68,,,2871NC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850335,51.953239
 Opweg,70,,,2871NC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850334,51.953325
 Opweg,72,,,2871NC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850319,51.953383
-Willem Littelstraat,2,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849629,51.954747
+Willem Littelstraat,2,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849701,51.954748
 Willem Littelstraat,4,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849550,51.954738
-Willem Littelstraat,5,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849294,51.954997
-Willem Littelstraat,6,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849341,51.954706
+Willem Littelstraat,5,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849371,51.955050
+Willem Littelstraat,6,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849431,51.954712
 Willem Littelstraat,7,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849204,51.954994
 Willem Littelstraat,8,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849253,51.954698
 Willem Littelstraat,9,,,2871ND,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849109,51.954986
@@ -3317,7 +3320,7 @@ Opweg,74,c,,2871NE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850118,51.95459
 Opweg,74,d,,2871NE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850093,51.954723
 Opweg,74,e,,2871NE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850088,51.954765
 Opweg,76,a,,2871NE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850038,51.955021
-Opweg,76,b,,2871NE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850030,51.955067
+Opweg,76,b,,2871NE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850054,51.955119
 Opweg,78,b,,2871NE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849408,51.955420
 Opweg,82,,,2871NE,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848310,51.955520
 Opweg,27,,,2871NG,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.842947,51.956697
@@ -3492,10 +3495,6 @@ Zonnedauw,35,,,2871NT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869653,51.94
 Zonnedauw,37,,,2871NT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869683,51.944396
 Zonnedauw,39,,,2871NT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869698,51.944351
 Zonnedauw,41,,,2871NT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869734,51.944306
-Veldsalie,1,,,2871NV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869540,51.944035
-Veldsalie,3,,,2871NV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869598,51.943907
-Veldsalie,5,,,2871NV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869659,51.943764
-Veldsalie,7,,,2871NV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869727,51.943617
 Gentiaan,2,,,2871NW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.869445,51.944862
 Waterviolier,1,a,,2871NZ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.868255,51.945728
 Waterviolier,1,b,,2871NZ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.868275,51.945675
@@ -4867,12 +4866,12 @@ H.A. Schreuderstraat,8,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.84
 H.A. Schreuderstraat,10,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849180,51.951482
 H.A. Schreuderstraat,12,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849169,51.951530
 H.A. Schreuderstraat,14,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849155,51.951574
-H.A. Schreuderstraat,16,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849147,51.951617
-H.A. Schreuderstraat,18,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849137,51.951666
+H.A. Schreuderstraat,16,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849142,51.951646
+H.A. Schreuderstraat,18,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849130,51.951696
 H.A. Schreuderstraat,20,a,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849120,51.951770
 H.A. Schreuderstraat,20,b,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849104,51.951820
-H.A. Schreuderstraat,20,c,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849094,51.951867
-H.A. Schreuderstraat,20,d,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849086,51.951909
+H.A. Schreuderstraat,20,c,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849053,51.951902
+H.A. Schreuderstraat,20,d,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849036,51.951970
 H.A. Schreuderstraat,22,,,2871VC,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849025,51.952074
 H.A. Schreuderstraat,26,,,2871VD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848917,51.952635
 H.A. Schreuderstraat,28,,,2871VD,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848901,51.952698
@@ -5059,34 +5058,6 @@ Adam van Vianenstraat,18,,,2871VT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.
 Adam van Vianenstraat,20,,,2871VT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848079,51.952098
 Adam van Vianenstraat,22,,,2871VT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847963,51.952118
 Adam van Vianenstraat,24,,,2871VT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847876,51.952109
-Adam van Vianenstraat,26,a,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847442,51.951905
-Adam van Vianenstraat,26,b,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847442,51.951905
-Adam van Vianenstraat,26,c,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847442,51.951900
-Adam van Vianenstraat,28,a,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847362,51.951882
-Adam van Vianenstraat,28,b,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847332,51.951913
-Adam van Vianenstraat,28,c,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847304,51.951868
-Adam van Vianenstraat,28,,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847340,51.951895
-Adam van Vianenstraat,30,a,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847224,51.951868
-Adam van Vianenstraat,30,b,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847224,51.951881
-Adam van Vianenstraat,30,c,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847224,51.951881
-Adam van Vianenstraat,30,,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847223,51.951913
-Adam van Vianenstraat,32,a,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847107,51.951894
-Adam van Vianenstraat,32,b,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847108,51.951858
-Adam van Vianenstraat,32,c,,2871VV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847107,51.951876
-Adam van Vianenstraat,34,a,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846991,51.951894
-Adam van Vianenstraat,34,b,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846991,51.951876
-Adam van Vianenstraat,34,c,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846991,51.951858
-Adam van Vianenstraat,36,a,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846860,51.951866
-Adam van Vianenstraat,36,b,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846860,51.951862
-Adam van Vianenstraat,36,c,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846853,51.951839
-Adam van Vianenstraat,36,,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846853,51.951893
-Adam van Vianenstraat,38,a,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846759,51.951852
-Adam van Vianenstraat,38,b,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846758,51.951888
-Adam van Vianenstraat,38,c,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846759,51.951852
-Adam van Vianenstraat,38,,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846759,51.951852
-Adam van Vianenstraat,40,a,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846621,51.951820
-Adam van Vianenstraat,40,b,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846620,51.951847
-Adam van Vianenstraat,40,c,,2871VW,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846613,51.951874
 's-Heerenbergstraat,1,a,,2871WB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848119,51.951220
 's-Heerenbergstraat,1,b,,2871WB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848104,51.951238
 's-Heerenbergstraat,3,a,,2871WB,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848104,51.951292
@@ -5190,9 +5161,9 @@ Goudsmidshof,11,,,2871WJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846646,51
 Goudsmidshof,13,,,2871WJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846559,51.953937
 Goudsmidshof,15,,,2871WJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846486,51.953927
 Goudsmidshof,17,,,2871WJ,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846399,51.953918
-Jan Lutmastraat,1,a,,2871WK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849824,51.953814
+Jan Lutmastraat,1,a,,2871WK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849925,51.953848
 Jan Lutmastraat,1,b,,2871WK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849717,51.953804
-Jan Lutmastraat,1,c,,2871WK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849613,51.953796
+Jan Lutmastraat,1,c,,2871WK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849550,51.953827
 Jan Lutmastraat,1,,,2871WK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848743,51.953740
 Jan Lutmastraat,3,,,2871WK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848671,51.953731
 Jan Lutmastraat,5,,,2871WK,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848584,51.953712
@@ -5244,17 +5215,17 @@ Gerrit Greupstraat,4,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.8502
 Gerrit Greupstraat,6,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
 Gerrit Greupstraat,8,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
 Gerrit Greupstraat,10,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
-Gerrit Greupstraat,11,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849193,51.954347
+Gerrit Greupstraat,11,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849334,51.954366
 Gerrit Greupstraat,12,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
-Gerrit Greupstraat,13,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849117,51.954345
+Gerrit Greupstraat,13,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849233,51.954347
 Gerrit Greupstraat,14,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
-Gerrit Greupstraat,15,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849046,51.954341
+Gerrit Greupstraat,15,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849145,51.954338
 Gerrit Greupstraat,16,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
-Gerrit Greupstraat,17,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848975,51.954336
+Gerrit Greupstraat,17,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849061,51.954320
 Gerrit Greupstraat,18,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
-Gerrit Greupstraat,19,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848898,51.954328
+Gerrit Greupstraat,19,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848973,51.954311
 Gerrit Greupstraat,20,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
-Gerrit Greupstraat,21,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848822,51.954329
+Gerrit Greupstraat,21,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.848881,51.954302
 Gerrit Greupstraat,22,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
 Gerrit Greupstraat,24,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
 Gerrit Greupstraat,26,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
@@ -5262,9 +5233,9 @@ Gerrit Greupstraat,28,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850
 Gerrit Greupstraat,30,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
 Gerrit Greupstraat,32,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
 Gerrit Greupstraat,34,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.850225,51.954010
-Gerrit Greupstraat,36,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849813,51.953940
+Gerrit Greupstraat,36,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849913,51.953935
 Gerrit Greupstraat,38,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849695,51.953934
-Gerrit Greupstraat,40,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849588,51.953928
+Gerrit Greupstraat,40,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849537,51.953914
 Gerrit Greupstraat,42,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849211,51.953956
 Gerrit Greupstraat,44,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849211,51.953956
 Gerrit Greupstraat,46,,,2871WM,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.849211,51.953956
@@ -5329,20 +5300,6 @@ Zilversmidshof,11,,,2871WS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846470,
 Zilversmidshof,13,,,2871WS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846369,51.952830
 Zilversmidshof,15,,,2871WS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846296,51.952821
 Zilversmidshof,17,,,2871WS,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846209,51.952811
-Edelsmidsdreef,1,a,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846464,51.951572
-Edelsmidsdreef,1,b,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846478,51.951577
-Edelsmidsdreef,1,c,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846471,51.951604
-Edelsmidsdreef,3,a,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846506,51.951649
-Edelsmidsdreef,3,b,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846506,51.951671
-Edelsmidsdreef,3,c,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846455,51.951662
-Edelsmidsdreef,3,,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846455,51.951662
-Edelsmidsdreef,5,a,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846469,51.951721
-Edelsmidsdreef,5,b,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846498,51.951716
-Edelsmidsdreef,5,c,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846455,51.951716
-Edelsmidsdreef,5,,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846447,51.951734
-Edelsmidsdreef,7,a,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846432,51.951774
-Edelsmidsdreef,7,b,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846432,51.951819
-Edelsmidsdreef,7,c,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846432,51.951792
 Edelsmidsdreef,7,,bB01,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847030,51.953507
 Edelsmidsdreef,9,c,,2871WT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.847001,51.953507
 Edelsmidsdreef,13,a,,2871WV,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.846067,51.953755
@@ -5875,4 +5832,3 @@ Voltastraat,128,,,2871ZR,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838712,51
 Voltastraat,130,,,2871ZR,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838639,51.954451
 Voltastraat,132,,,2871ZR,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838581,51.954466
 Voltastraat,134,,,2871ZR,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.838512,51.954457
-De Smaragd,7,,,2871ZT,Schoonhoven,Krimpenerwaard,Zuid-Holland,VBO,4.863489,51.950714

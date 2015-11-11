@@ -16,7 +16,9 @@ Molenweg,16,,,7274AA,Geesteren,Berkelland,Gelderland,VBO,6.516512,52.137439
 Molenweg,18,,,7274AA,Geesteren,Berkelland,Gelderland,VBO,6.516783,52.137551
 Molenweg,20,,,7274AA,Geesteren,Berkelland,Gelderland,VBO,6.517194,52.137445
 Molenweg,22,,,7274AA,Geesteren,Berkelland,Gelderland,VBO,6.517176,52.137386
-Oude Diepenheimseweg,1,a,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.525041,52.124061
+Oude Diepenheimseweg,1,a,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.525009,52.124315
+Oude Diepenheimseweg,1,b,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.525815,52.124438
+Oude Diepenheimseweg,1,c,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.526103,52.124435
 Oude Diepenheimseweg,2,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.526589,52.125218
 Oude Diepenheimseweg,3,a,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.528378,52.132239
 Oude Diepenheimseweg,3,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.528263,52.132246
@@ -35,12 +37,10 @@ Oude Diepenheimseweg,22,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.533713,52
 Oude Diepenheimseweg,24,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.535342,52.141897
 Oude Diepenheimseweg,26,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.535387,52.141960
 Oude Diepenheimseweg,28,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.535649,52.143063
-Oude Diepenheimseweg,31,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.533485,52.138437
+Oude Diepenheimseweg,31,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.533301,52.138543
 Oude Diepenheimseweg,32,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.537289,52.143173
 Oude Diepenheimseweg,33,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.533709,52.139172
 Oude Diepenheimseweg,35,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.534185,52.140650
-Oude Diepenheimseweg,36,a,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.537956,52.146054
-Oude Diepenheimseweg,36,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.537808,52.146065
 Oude Diepenheimseweg,36,,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.537871,52.145927
 Oude Diepenheimseweg,37,a,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.534825,52.143002
 Oude Diepenheimseweg,37,b,,7274AB,Geesteren,Berkelland,Gelderland,VBO,6.534586,52.142597
@@ -153,7 +153,7 @@ Dorpsstraat,16,,,7274AN,Geesteren,Berkelland,Gelderland,VBO,6.524476,52.139153
 Dorpsstraat,20,,,7274AN,Geesteren,Berkelland,Gelderland,VBO,6.524251,52.138940
 Dorpsstraat,22,,,7274AN,Geesteren,Berkelland,Gelderland,VBO,6.524059,52.138843
 Dorpsstraat,24,,,7274AN,Geesteren,Berkelland,Gelderland,VBO,6.523767,52.138854
-Kerkplein,1,,,7274AP,Geesteren,Berkelland,Gelderland,VBO,6.527265,52.139135
+Kerkplein,1,,,7274AP,Geesteren,Berkelland,Gelderland,VBO,6.527243,52.139104
 Kerkplein,2,,,7274AP,Geesteren,Berkelland,Gelderland,VBO,6.527729,52.138987
 Kerkplein,4,,,7274AP,Geesteren,Berkelland,Gelderland,VBO,6.527790,52.139103
 Kerkplein,6,a,,7274AP,Geesteren,Berkelland,Gelderland,VBO,6.527628,52.139303
@@ -199,7 +199,7 @@ Dennendijk,11,,,7274AV,Geesteren,Berkelland,Gelderland,VBO,6.530327,52.135456
 Dennendijk,15,,,7274AV,Geesteren,Berkelland,Gelderland,VBO,6.529898,52.134705
 Dennendijk,17,,,7274AV,Geesteren,Berkelland,Gelderland,VBO,6.530359,52.134440
 Dennendijk,23,a,,7274AV,Geesteren,Berkelland,Gelderland,VBO,6.531548,52.134125
-Dennendijk,23,,,7274AV,Geesteren,Berkelland,Gelderland,VBO,6.531138,52.134055
+Dennendijk,23,,,7274AV,Geesteren,Berkelland,Gelderland,VBO,6.531168,52.134027
 Dennendijk,38,,,7274AV,Geesteren,Berkelland,Gelderland,VBO,6.531430,52.133468
 Dennendijk,40,,,7274AV,Geesteren,Berkelland,Gelderland,VBO,6.531486,52.133404
 Keistraat,1,,,7274AW,Geesteren,Berkelland,Gelderland,VBO,6.527575,52.138692
@@ -220,6 +220,7 @@ Keistraat,29,,,7274AW,Geesteren,Berkelland,Gelderland,VBO,6.528198,52.136498
 Keistraat,31,,,7274AW,Geesteren,Berkelland,Gelderland,VBO,6.528240,52.136374
 Zonnekamp,1,a,,7274AX,Geesteren,Berkelland,Gelderland,VBO,6.527495,52.137830
 Zonnekamp,1,,,7274AX,Geesteren,Berkelland,Gelderland,VBO,6.527319,52.137804
+Zonnekamp,2,,T01,7274AX,Geesteren,Berkelland,Gelderland,VBO,6.528187,52.137639
 Zonnekamp,2,,,7274AX,Geesteren,Berkelland,Gelderland,VBO,6.528984,52.137806
 Zonnekamp,3,,,7274AX,Geesteren,Berkelland,Gelderland,VBO,6.527788,52.137872
 Zonnekamp,4,,,7274AX,Geesteren,Berkelland,Gelderland,VBO,6.529001,52.137869
@@ -270,7 +271,7 @@ Maaldrinkstraat,14,,,7274BB,Geesteren,Berkelland,Gelderland,VBO,6.526067,52.1385
 Maaldrinkstraat,16,,,7274BB,Geesteren,Berkelland,Gelderland,VBO,6.525690,52.138647
 Maaldrinkstraat,18,,,7274BB,Geesteren,Berkelland,Gelderland,VBO,6.525657,52.138522
 Maaldrinkstraat,20,,,7274BB,Geesteren,Berkelland,Gelderland,VBO,6.525611,52.138405
-Karssenberg,1,,,7274BC,Geesteren,Berkelland,Gelderland,VBO,6.528601,52.136455
+Karssenberg,1,,,7274BC,Geesteren,Berkelland,Gelderland,VBO,6.528600,52.136451
 Karssenberg,3,,,7274BC,Geesteren,Berkelland,Gelderland,VBO,6.528574,52.136533
 Karssenberg,5,,,7274BC,Geesteren,Berkelland,Gelderland,VBO,6.528544,52.136616
 Karssenberg,7,,,7274BC,Geesteren,Berkelland,Gelderland,VBO,6.528315,52.136864
@@ -306,7 +307,7 @@ het Rosbach,22,,,7274BE,Geesteren,Berkelland,Gelderland,VBO,6.529414,52.136903
 het Rosbach,24,,,7274BE,Geesteren,Berkelland,Gelderland,VBO,6.529327,52.136904
 het Rosbach,26,,,7274BE,Geesteren,Berkelland,Gelderland,VBO,6.529151,52.136915
 het Rosbach,28,,,7274BE,Geesteren,Berkelland,Gelderland,VBO,6.529078,52.136906
-het Rosbach,30,,,7274BE,Geesteren,Berkelland,Gelderland,VBO,6.528997,52.136602
+het Rosbach,30,,,7274BE,Geesteren,Berkelland,Gelderland,VBO,6.529022,52.136639
 het Rosbach,32,,,7274BE,Geesteren,Berkelland,Gelderland,VBO,6.529276,52.136644
 het Rosbach,34,,,7274BE,Geesteren,Berkelland,Gelderland,VBO,6.529495,52.136633
 Brokersweg,1,,,7274DE,Geesteren,Berkelland,Gelderland,VBO,6.534048,52.130782
@@ -385,7 +386,7 @@ Huiskesdijk,1,,,7274DW,Geesteren,Berkelland,Gelderland,VBO,6.531294,52.145271
 Huiskesdijk,2,,,7274DW,Geesteren,Berkelland,Gelderland,VBO,6.531469,52.143535
 Huiskesdijk,3,,,7274DW,Geesteren,Berkelland,Gelderland,VBO,6.530710,52.146437
 Huiskesdijk,4,,,7274DW,Geesteren,Berkelland,Gelderland,VBO,6.532143,52.146486
-Huiskesdijk,5,,,7274DW,Geesteren,Berkelland,Gelderland,VBO,6.530864,52.146539
+Huiskesdijk,5,,,7274DW,Geesteren,Berkelland,Gelderland,VBO,6.530851,52.146566
 Riethorstdijk,1,,,7274DX,Geesteren,Berkelland,Gelderland,VBO,6.533217,52.143356
 Riethorstdijk,2,,,7274DX,Geesteren,Berkelland,Gelderland,VBO,6.530818,52.140961
 Riethorstdijk,3,a,,7274DX,Geesteren,Berkelland,Gelderland,VBO,6.533132,52.143925
@@ -435,6 +436,8 @@ Kulsdom,5,a,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.488307,52.140633
 Kulsdom,5,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.488867,52.140624
 Kulsdom,7,a,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.487454,52.141167
 Kulsdom,7,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.487609,52.141157
+Kulsdom,9,a,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.485664,52.141957
+Kulsdom,9,b,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.485819,52.141588
 Kulsdom,9,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.485933,52.141892
 Kulsdom,10,a,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.483420,52.144774
 Kulsdom,10,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.483134,52.144551
@@ -444,7 +447,8 @@ Kulsdom,12,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.480887,52.147628
 Kulsdom,13,a,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.483179,52.144048
 Kulsdom,13,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.483296,52.144011
 Kulsdom,14,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.480763,52.149122
-Kulsdom,15,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.477783,52.150363
+Kulsdom,15,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.477892,52.150332
+Kulsdom,17,,,7274EG,Geesteren,Berkelland,Gelderland,VBO,6.477732,52.150402
 Respelhoek,1,,,7274EL,Geesteren,Berkelland,Gelderland,VBO,6.516309,52.128167
 Respelhoek,3,,,7274EL,Geesteren,Berkelland,Gelderland,VBO,6.515378,52.128292
 Respelhoek,11,,,7274EL,Geesteren,Berkelland,Gelderland,VBO,6.494030,52.133205
@@ -463,6 +467,7 @@ Pasmansweg,1,,,7274EP,Geesteren,Berkelland,Gelderland,VBO,6.518184,52.134710
 Pasmansweg,2,,,7274EP,Geesteren,Berkelland,Gelderland,VBO,6.517758,52.133492
 Pasmansweg,4,,,7274EP,Geesteren,Berkelland,Gelderland,VBO,6.520361,52.133026
 Pasmansweg,5,,,7274EP,Geesteren,Berkelland,Gelderland,VBO,6.523824,52.130782
+Pasmansweg,6,a,,7274EP,Geesteren,Berkelland,Gelderland,VBO,6.520409,52.132425
 Pasmansweg,6,,,7274EP,Geesteren,Berkelland,Gelderland,VBO,6.520862,52.132626
 Stikkersweg,1,,,7274ER,Geesteren,Berkelland,Gelderland,VBO,6.525399,52.127261
 Stikkersweg,2,a,T01,7274ER,Geesteren,Berkelland,Gelderland,VBO,6.526701,52.128008
@@ -555,6 +560,7 @@ Op het Eiland,2,,,7274GJ,Geesteren,Berkelland,Gelderland,VBO,6.487396,52.157995
 Op het Eiland,3,,,7274GJ,Geesteren,Berkelland,Gelderland,VBO,6.488110,52.157323
 Op het Eiland,5,,,7274GJ,Geesteren,Berkelland,Gelderland,VBO,6.486358,52.157968
 Slaapweg,1,,,7274GK,Geesteren,Berkelland,Gelderland,VBO,6.505156,52.144713
+Slaapweg,3,a,,7274GK,Geesteren,Berkelland,Gelderland,VBO,6.506978,52.146046
 Slaapweg,3,,,7274GK,Geesteren,Berkelland,Gelderland,VBO,6.507139,52.146294
 Slaapweg,5,a,,7274GK,Geesteren,Berkelland,Gelderland,VBO,6.506720,52.146935
 Slaapweg,5,,,7274GK,Geesteren,Berkelland,Gelderland,VBO,6.506584,52.146902
@@ -574,6 +580,7 @@ Slaapweg,6,,,7274GL,Geesteren,Berkelland,Gelderland,VBO,6.505835,52.150810
 Slaapweg,8,,,7274GL,Geesteren,Berkelland,Gelderland,VBO,6.500933,52.155225
 Slaapweg,10,,,7274GL,Geesteren,Berkelland,Gelderland,VBO,6.497897,52.158876
 Slaapweg,12,,,7274GL,Geesteren,Berkelland,Gelderland,VBO,6.498950,52.157725
+Hagmansweg,1,a,,7274GM,Geesteren,Berkelland,Gelderland,VBO,6.508861,52.157588
 Hagmansweg,1,,,7274GM,Geesteren,Berkelland,Gelderland,VBO,6.509174,52.157502
 Altena's dijk,1,,,7274GN,Geesteren,Berkelland,Gelderland,VBO,6.507685,52.151161
 Altena's dijk,2,a,,7274GN,Geesteren,Berkelland,Gelderland,VBO,6.511327,52.151329
@@ -581,6 +588,7 @@ Altena's dijk,2,,,7274GN,Geesteren,Berkelland,Gelderland,VBO,6.511265,52.150864
 Altena's dijk,3,,,7274GN,Geesteren,Berkelland,Gelderland,VBO,6.510321,52.153183
 Altena's dijk,5,,,7274GN,Geesteren,Berkelland,Gelderland,VBO,6.510324,52.153248
 Boerenesweg,1,,,7274GP,Geesteren,Berkelland,Gelderland,VBO,6.515345,52.150837
+Boerenesweg,2,a,,7274GP,Geesteren,Berkelland,Gelderland,VBO,6.517055,52.151265
 Boerenesweg,2,,,7274GP,Geesteren,Berkelland,Gelderland,VBO,6.516803,52.151157
 Boerenesweg,4,a,,7274GP,Geesteren,Berkelland,Gelderland,VBO,6.515414,52.152965
 Boerenesweg,4,,,7274GP,Geesteren,Berkelland,Gelderland,VBO,6.515579,52.152946

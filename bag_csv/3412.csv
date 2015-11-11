@@ -1,7 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Enge IJsselweg,2,,,3412JA,Lopikerkapel,Lopik,Utrecht,VBO,5.015817,51.983529
 Enge IJsselweg,4,,,3412JA,Lopikerkapel,Lopik,Utrecht,VBO,5.015814,51.983481
-Enge IJsselweg,6,,,3412JA,Lopikerkapel,Lopik,Utrecht,VBO,5.015805,51.983431
+Enge IJsselweg,6,,,3412JA,Lopikerkapel,Lopik,Utrecht,VBO,5.015801,51.983415
 Enge IJsselweg,8,,,3412JA,Lopikerkapel,Lopik,Utrecht,VBO,5.015798,51.983381
 Hof van Batuwe,2,,,3412JC,Lopikerkapel,Lopik,Utrecht,VBO,5.015809,51.983687
 Hof van Batuwe,4,,,3412JC,Lopikerkapel,Lopik,Utrecht,VBO,5.015817,51.983740
@@ -14,6 +14,7 @@ Hof van Batuwe,16,,,3412JC,Lopikerkapel,Lopik,Utrecht,VBO,5.015853,51.984048
 Hof van Batuwe,18,,,3412JC,Lopikerkapel,Lopik,Utrecht,VBO,5.015859,51.984101
 Hof van Batuwe,20,,,3412JC,Lopikerkapel,Lopik,Utrecht,VBO,5.016353,51.984047
 Hof van Batuwe,22,,,3412JC,Lopikerkapel,Lopik,Utrecht,VBO,5.016359,51.983998
+Radiolaan,1,A,,3412KA,Lopikerkapel,Lopik,Utrecht,VBO,5.052690,51.995067
 Radiolaan,1,,,3412KA,Lopikerkapel,Lopik,Utrecht,VBO,5.052656,51.995073
 Radiolaan,4,,,3412KA,Lopikerkapel,Lopik,Utrecht,VBO,5.058453,51.992072
 Radiolaan,8,D,5000,3412KA,Lopikerkapel,Lopik,Utrecht,VBO,5.058350,51.991208
@@ -39,6 +40,7 @@ Radiolaan,8,D,5993,3412KA,Lopikerkapel,Lopik,Utrecht,VBO,5.058406,51.991958
 Radiolaan,8,,,3412KA,Lopikerkapel,Lopik,Utrecht,VBO,5.058997,51.991692
 Biezendijk,1,,,3412KB,Lopikerkapel,Lopik,Utrecht,VBO,5.052249,51.997812
 Biezendijk,2,A,,3412KB,Lopikerkapel,Lopik,Utrecht,VBO,5.049971,51.999245
+Biezendijk,2,B,,3412KB,Lopikerkapel,Lopik,Utrecht,VBO,5.049134,52.000004
 Biezendijk,2,,,3412KB,Lopikerkapel,Lopik,Utrecht,VBO,5.052186,51.997861
 Biezendijk,3,,,3412KB,Lopikerkapel,Lopik,Utrecht,VBO,5.044864,52.002950
 Biezendijk,4,A,,3412KB,Lopikerkapel,Lopik,Utrecht,VBO,5.044799,52.003545
@@ -74,7 +76,6 @@ Lopikerweg oost,163,A,,3412KD,Lopikerkapel,Lopik,Utrecht,VBO,5.043851,51.991498
 Lopikerweg oost,163,B,,3412KD,Lopikerkapel,Lopik,Utrecht,VBO,5.043573,51.991725
 Lopikerweg oost,163,,,3412KD,Lopikerkapel,Lopik,Utrecht,VBO,5.044156,51.991154
 Lopikerweg oost,165,,,3412KD,Lopikerkapel,Lopik,Utrecht,VBO,5.044685,51.991502
-Lopikerweg oost,167,,,3412KD,Lopikerkapel,Lopik,Utrecht,VBO,5.044080,51.992277
 Lopikerweg oost,169,,,3412KD,Lopikerkapel,Lopik,Utrecht,VBO,5.044622,51.991939
 Lopikerweg oost,175,,,3412KD,Lopikerkapel,Lopik,Utrecht,VBO,5.046157,51.992178
 Lopikerweg oost,179,,,3412KE,Lopikerkapel,Lopik,Utrecht,VBO,5.046412,51.992248
@@ -123,7 +124,6 @@ Lopikerweg oost,160,A,,3412KH,Lopikerkapel,Lopik,Utrecht,VBO,5.043431,51.990755
 Lopikerweg oost,160,,,3412KH,Lopikerkapel,Lopik,Utrecht,VBO,5.043226,51.990482
 Lopikerweg oost,162,,,3412KH,Lopikerkapel,Lopik,Utrecht,VBO,5.043762,51.990904
 Lopikerweg oost,164,,,3412KH,Lopikerkapel,Lopik,Utrecht,VBO,5.044185,51.991793
-Lopikerweg oost,166,A,,3412KH,Lopikerkapel,Lopik,Utrecht,VBO,5.043883,51.992203
 Lopikerweg oost,166,,,3412KH,Lopikerkapel,Lopik,Utrecht,VBO,5.044032,51.992244
 Lopikerweg oost,168,,,3412KH,Lopikerkapel,Lopik,Utrecht,VBO,5.044544,51.992002
 Lopikerweg oost,170,,,3412KH,Lopikerkapel,Lopik,Utrecht,VBO,5.045190,51.991990
@@ -142,6 +142,7 @@ Lopikerweg oost,196,A,,3412KJ,Lopikerkapel,Lopik,Utrecht,VBO,5.048873,51.992902
 Lopikerweg oost,196,,,3412KJ,Lopikerkapel,Lopik,Utrecht,VBO,5.048745,51.992975
 Lopikerweg oost,198,A,,3412KJ,Lopikerkapel,Lopik,Utrecht,VBO,5.049240,51.994300
 Lopikerweg oost,198,B,,3412KJ,Lopikerkapel,Lopik,Utrecht,VBO,5.049622,51.994420
+Lopikerweg oost,198,C,,3412KJ,Lopikerkapel,Lopik,Utrecht,VBO,5.048929,51.994488
 Lopikerweg oost,198,,,3412KJ,Lopikerkapel,Lopik,Utrecht,VBO,5.049326,51.994196
 Lopikerweg oost,200,A,,3412KJ,Lopikerkapel,Lopik,Utrecht,VBO,5.051654,51.995143
 Lopikerweg oost,200,,,3412KJ,Lopikerkapel,Lopik,Utrecht,VBO,5.050634,51.994667
@@ -197,7 +198,6 @@ Kapelsepad,8,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.035232,51.987379
 Kapelsepad,9,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.035425,51.987437
 Kapelsepad,11,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.035479,51.987535
 Kapelsepad,13,A,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.036155,51.987661
-Kapelsepad,13,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.035637,51.987476
 Kapelsepad,14,A,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.036815,51.987796
 Kapelsepad,14,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.036991,51.987920
 Kapelsepad,15,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.037063,51.987967
@@ -205,7 +205,6 @@ Kapelsepad,16,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.037140,51.988199
 Kapelsepad,18,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.037178,51.988231
 Kapelsepad,19,A,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.038425,51.988273
 Kapelsepad,19,B,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.037654,51.988237
-Kapelsepad,19,C,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.041932,51.988567
 Kapelsepad,19,,,3412KL,Lopikerkapel,Lopik,Utrecht,VBO,5.037216,51.988263
 Kapelsepad,20,A,,3412KM,Lopikerkapel,Lopik,Utrecht,VBO,5.042916,51.989664
 Kapelsepad,20,,,3412KM,Lopikerkapel,Lopik,Utrecht,VBO,5.042614,51.989786
@@ -478,7 +477,6 @@ Batuwseweg,39,,,3412KX,Lopikerkapel,Lopik,Utrecht,VBO,5.020738,51.982840
 Batuwseweg,41,,,3412KX,Lopikerkapel,Lopik,Utrecht,VBO,5.023948,51.983695
 Batuwseweg,43,,,3412KX,Lopikerkapel,Lopik,Utrecht,VBO,5.024420,51.983993
 Batuwseweg,45,A,,3412KX,Lopikerkapel,Lopik,Utrecht,VBO,5.025195,51.984157
-Batuwseweg,45,,,3412KX,Lopikerkapel,Lopik,Utrecht,VBO,5.024540,51.984563
 Batuwseweg,45,,,3412KX,Lopikerkapel,Lopik,Utrecht,VBO,5.025225,51.984117
 Batuwseweg,47,,,3412KX,Lopikerkapel,Lopik,Utrecht,VBO,5.029948,51.986083
 Batuwseweg,49,,,3412KX,Lopikerkapel,Lopik,Utrecht,VBO,5.030024,51.986020
