@@ -441,6 +441,7 @@ Koolstraat,13,,,6822BA,Arnhem,Arnhem,Gelderland,VBO,5.917267,51.985999
 Koolstraat,15,,,6822BA,Arnhem,Arnhem,Gelderland,VBO,5.917279,51.985976
 Koolstraat,18,,,6822BA,Arnhem,Arnhem,Gelderland,VBO,5.916918,51.986230
 Koolstraat,20,,,6822BA,Arnhem,Arnhem,Gelderland,VBO,5.916943,51.986173
+Koolstraat,21,,,6822BA,Arnhem,Arnhem,Gelderland,VBO,5.917334,51.985882
 Hovenierstraat,1,,,6822BB,Arnhem,Arnhem,Gelderland,VBO,5.917508,51.986909
 Hovenierstraat,3,,,6822BB,Arnhem,Arnhem,Gelderland,VBO,5.917527,51.986864
 Hovenierstraat,5,,,6822BB,Arnhem,Arnhem,Gelderland,VBO,5.917546,51.986824
@@ -488,7 +489,6 @@ Hovenierstraat,22,,,6822BD,Arnhem,Arnhem,Gelderland,VBO,5.917618,51.986093
 Hovenierstraat,24,,,6822BD,Arnhem,Arnhem,Gelderland,VBO,5.917634,51.986058
 Hovenierstraat,26,,,6822BD,Arnhem,Arnhem,Gelderland,VBO,5.917667,51.986000
 Hovenierstraat,28,,,6822BD,Arnhem,Arnhem,Gelderland,VBO,5.917694,51.985944
-Hovenierstraat,30,,,6822BD,Arnhem,Arnhem,Gelderland,VBO,5.917748,51.985840
 Putstraat,3,,,6822BE,Arnhem,Arnhem,Gelderland,VBO,5.916545,51.986063
 Putstraat,5,A,,6822BE,Arnhem,Arnhem,Gelderland,VBO,5.916607,51.986099
 Putstraat,5,,,6822BE,Arnhem,Arnhem,Gelderland,VBO,5.916619,51.986077
@@ -551,10 +551,16 @@ Sonsbeeksingel,114,,,6822BJ,Arnhem,Arnhem,Gelderland,VBO,5.915299,51.985974
 Sonsbeeksingel,115,,,6822BJ,Arnhem,Arnhem,Gelderland,VBO,5.915335,51.985973
 Sonsbeeksingel,116,,,6822BK,Arnhem,Arnhem,Gelderland,VBO,5.915492,51.985987
 Sonsbeeksingel,117,,,6822BK,Arnhem,Arnhem,Gelderland,VBO,5.915563,51.985995
-Sonsbeeksingel,133,,,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917354,51.985846
-Sonsbeeksingel,134,,,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917395,51.985841
-Sonsbeeksingel,135,,,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917438,51.985836
-Sonsbeeksingel,136,,,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917478,51.985831
+Sonsbeeksingel,133,,1,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917368,51.985880
+Sonsbeeksingel,133,,2,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917369,51.985893
+Sonsbeeksingel,134,,1,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917455,51.985873
+Sonsbeeksingel,134,,2,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917458,51.985886
+Sonsbeeksingel,135,,1,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917533,51.985860
+Sonsbeeksingel,135,,2,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917537,51.985872
+Sonsbeeksingel,136,,1,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917612,51.985849
+Sonsbeeksingel,136,,2,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917613,51.985860
+Sonsbeeksingel,137,,1,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917689,51.985851
+Sonsbeeksingel,137,,2,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.917684,51.985839
 Sonsbeeksingel,143,,,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.918049,51.985742
 Sonsbeeksingel,144,,,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.918113,51.985731
 Sonsbeeksingel,145,,1,6822BL,Arnhem,Arnhem,Gelderland,VBO,5.918247,51.985762
@@ -1900,7 +1906,8 @@ Klarendalseweg,292,,,6822GM,Arnhem,Arnhem,Gelderland,VBO,5.927248,51.991230
 Klarendalseweg,293,,,6822GM,Arnhem,Arnhem,Gelderland,VBO,5.927217,51.991192
 Klarendalseweg,294,,,6822GM,Arnhem,Arnhem,Gelderland,VBO,5.927189,51.991159
 Klarendalseweg,298,A,,6822GM,Arnhem,Arnhem,Gelderland,VBO,5.927151,51.991070
-Klarendalseweg,298,,,6822GM,Arnhem,Arnhem,Gelderland,VBO,5.927121,51.991078
+Klarendalseweg,298,B,,6822GM,Arnhem,Arnhem,Gelderland,VBO,5.927159,51.991094
+Klarendalseweg,298,,,6822GM,Arnhem,Arnhem,Gelderland,VBO,5.927115,51.991066
 Klarendalseweg,299,,,6822GM,Arnhem,Arnhem,Gelderland,VBO,5.927049,51.990995
 Klarendalseweg,300,,,6822GN,Arnhem,Arnhem,Gelderland,VBO,5.927252,51.990985
 Klarendalseweg,301,,,6822GN,Arnhem,Arnhem,Gelderland,VBO,5.927202,51.990964
@@ -2217,6 +2224,7 @@ Vijverlaan,16,,,6822HE,Arnhem,Arnhem,Gelderland,VBO,5.928834,51.992751
 Vijverlaan,18,,,6822HE,Arnhem,Arnhem,Gelderland,VBO,5.928024,51.992923
 Vijverlaan,20,,,6822HE,Arnhem,Arnhem,Gelderland,VBO,5.927894,51.992942
 Vijverlaan,30,,,6822HE,Arnhem,Arnhem,Gelderland,VBO,5.927516,51.992958
+Geert Grootestraat,6,,,6822HG,Arnhem,Arnhem,Gelderland,VBO,5.928945,51.992991
 Vijverlaan,90,,,6822HG,Arnhem,Arnhem,Gelderland,VBO,5.925822,51.992570
 Vijverlaan,98,,,6822HG,Arnhem,Arnhem,Gelderland,VBO,5.924956,51.992290
 Vijverlaan,100,,,6822HG,Arnhem,Arnhem,Gelderland,VBO,5.924620,51.992201
@@ -2259,7 +2267,9 @@ Vijverlaan,172,,,6822HH,Arnhem,Arnhem,Gelderland,VBO,5.921493,51.991450
 Vijverlaan,174,,,6822HH,Arnhem,Arnhem,Gelderland,VBO,5.921419,51.991429
 Geert Grootestraat,1,,,6822HJ,Arnhem,Arnhem,Gelderland,VBO,5.928208,51.992903
 Geert Grootestraat,2,,,6822HJ,Arnhem,Arnhem,Gelderland,VBO,5.928978,51.993142
+Geert Grootestraat,2,,,6822HJ,Arnhem,Arnhem,Gelderland,VBO,5.929040,51.993143
 Geert Grootestraat,3,,,6822HJ,Arnhem,Arnhem,Gelderland,VBO,5.928253,51.992959
+Geert Grootestraat,4,,,6822HJ,Arnhem,Arnhem,Gelderland,VBO,5.929074,51.993134
 Geert Grootestraat,5,,,6822HJ,Arnhem,Arnhem,Gelderland,VBO,5.928303,51.993023
 Geert Grootestraat,7,,,6822HJ,Arnhem,Arnhem,Gelderland,VBO,5.928351,51.993089
 Geert Grootestraat,9,,,6822HJ,Arnhem,Arnhem,Gelderland,VBO,5.928387,51.993131
@@ -2798,6 +2808,7 @@ Agnietenstraat,162,,,6822JZ,Arnhem,Arnhem,Gelderland,VBO,5.919580,51.989029
 Agnietenstraat,164,,,6822JZ,Arnhem,Arnhem,Gelderland,VBO,5.919593,51.989015
 Agnietenstraat,166,,,6822JZ,Arnhem,Arnhem,Gelderland,VBO,5.919485,51.988995
 Agnietenstraat,168,,,6822JZ,Arnhem,Arnhem,Gelderland,VBO,5.919498,51.988980
+Agnietenstraat,400,,,6822JZ,Arnhem,Arnhem,Gelderland,VBO,5.915830,51.988594
 Borgardijnstraat,1,,,6822KA,Arnhem,Arnhem,Gelderland,VBO,5.920444,51.989562
 Borgardijnstraat,3,,,6822KA,Arnhem,Arnhem,Gelderland,VBO,5.920537,51.989593
 Borgardijnstraat,5,,,6822KA,Arnhem,Arnhem,Gelderland,VBO,5.920441,51.989609
@@ -2843,8 +2854,8 @@ Voorbroodstraat,19,,,6822KC,Arnhem,Arnhem,Gelderland,VBO,5.919469,51.989699
 Voorbroodstraat,21,,,6822KC,Arnhem,Arnhem,Gelderland,VBO,5.919422,51.989743
 Voorbroodstraat,23,,,6822KC,Arnhem,Arnhem,Gelderland,VBO,5.919376,51.989786
 Voorbroodstraat,25,,,6822KC,Arnhem,Arnhem,Gelderland,VBO,5.919336,51.989827
-Voorbroodstraat,27,,,6822KC,Arnhem,Arnhem,Gelderland,VBO,5.919265,51.989850
-Voorbroodstraat,29,,,6822KC,Arnhem,Arnhem,Gelderland,VBO,5.919357,51.989883
+Voorbroodstraat,27,,,6822KC,Arnhem,Arnhem,Gelderland,VBO,5.919305,51.989873
+Voorbroodstraat,29,,,6822KC,Arnhem,Arnhem,Gelderland,VBO,5.919244,51.989843
 Voorbroodstraat,2,,,6822KD,Arnhem,Arnhem,Gelderland,VBO,5.920135,51.989439
 Voorbroodstraat,4,,,6822KD,Arnhem,Arnhem,Gelderland,VBO,5.920047,51.989400
 Voorbroodstraat,6,,,6822KD,Arnhem,Arnhem,Gelderland,VBO,5.920054,51.989467
@@ -3456,8 +3467,35 @@ Thomas a Kempislaan,94,,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.927968,51.993445
 Thomas a Kempislaan,96,,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.928103,51.993419
 Thomas a Kempislaan,98,,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.928194,51.993393
 Thomas a Kempislaan,100,,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.928289,51.993365
-Thomas a Kempislaan,102,H,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930439,51.992795
 Thomas a Kempislaan,102,I,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929317,51.992868
+Thomas a Kempislaan,102,,1,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930082,51.992853
+Thomas a Kempislaan,102,,11,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930008,51.992880
+Thomas a Kempislaan,102,,12,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930000,51.992870
+Thomas a Kempislaan,102,,13,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929991,51.992858
+Thomas a Kempislaan,102,,14,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929984,51.992847
+Thomas a Kempislaan,102,,15,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929976,51.992834
+Thomas a Kempislaan,102,,16,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929965,51.992820
+Thomas a Kempislaan,102,,17,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929956,51.992808
+Thomas a Kempislaan,102,,18,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929947,51.992795
+Thomas a Kempislaan,102,,19,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929938,51.992779
+Thomas a Kempislaan,102,,2,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930073,51.992839
+Thomas a Kempislaan,102,,21,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929928,51.992901
+Thomas a Kempislaan,102,,22,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929920,51.992890
+Thomas a Kempislaan,102,,23,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929911,51.992879
+Thomas a Kempislaan,102,,24,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929903,51.992868
+Thomas a Kempislaan,102,,25,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929895,51.992857
+Thomas a Kempislaan,102,,26,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929886,51.992845
+Thomas a Kempislaan,102,,27,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929878,51.992834
+Thomas a Kempislaan,102,,28,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929869,51.992823
+Thomas a Kempislaan,102,,29,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929861,51.992811
+Thomas a Kempislaan,102,,3,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930063,51.992827
+Thomas a Kempislaan,102,,30,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929852,51.992800
+Thomas a Kempislaan,102,,31,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929842,51.992788
+Thomas a Kempislaan,102,,4,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930053,51.992814
+Thomas a Kempislaan,102,,5,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930045,51.992800
+Thomas a Kempislaan,102,,6,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930034,51.992786
+Thomas a Kempislaan,102,,7,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930024,51.992773
+Thomas a Kempislaan,102,,8,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930012,51.992759
 Thomas a Kempislaan,102,,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.929826,51.992925
 Thomas a Kempislaan,120,,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930768,51.992697
 Thomas a Kempislaan,122,,,6822LS,Arnhem,Arnhem,Gelderland,VBO,5.930758,51.992679
@@ -3631,7 +3669,6 @@ Garde Jagers,25,,,6822NA,Arnhem,Arnhem,Gelderland,VBO,5.923279,52.002383
 Garde Jagers,27,,,6822NA,Arnhem,Arnhem,Gelderland,VBO,5.923185,52.002384
 Garde Jagers,29,,,6822NA,Arnhem,Arnhem,Gelderland,VBO,5.922971,52.002391
 Garde Jagers,31,,,6822NA,Arnhem,Arnhem,Gelderland,VBO,5.922871,52.002393
-Garde Jagers,33,,,6822NA,Arnhem,Arnhem,Gelderland,VBO,5.922665,52.002400
 Garde Jagers,2,,,6822NB,Arnhem,Arnhem,Gelderland,VBO,5.925104,52.002424
 Garde Jagers,4,,,6822NB,Arnhem,Arnhem,Gelderland,VBO,5.925017,52.002440
 Garde Jagers,6,,,6822NB,Arnhem,Arnhem,Gelderland,VBO,5.924946,52.002477
@@ -3660,76 +3697,45 @@ Garde Grenadiers,19,,,6822NC,Arnhem,Arnhem,Gelderland,VBO,5.923306,52.002952
 Garde Grenadiers,21,,,6822NC,Arnhem,Arnhem,Gelderland,VBO,5.923124,52.002867
 Garde Grenadiers,23,,,6822NC,Arnhem,Arnhem,Gelderland,VBO,5.923006,52.002845
 Garde Grenadiers,25,,,6822NC,Arnhem,Arnhem,Gelderland,VBO,5.922864,52.002723
-Regiment Pioniers,1,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925377,52.003329
-Regiment Pioniers,2,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925213,52.003838
-Regiment Pioniers,3,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925167,52.003387
-Regiment Pioniers,4,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924992,52.003857
-Regiment Pioniers,5,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924958,52.003435
-Regiment Pioniers,6,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924835,52.003863
-Regiment Pioniers,7,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924868,52.003455
-Regiment Pioniers,8,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924637,52.003891
-Regiment Pioniers,9,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924639,52.003495
-Regiment Pioniers,10,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924540,52.003898
-Regiment Pioniers,11,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924554,52.003508
-Regiment Pioniers,12,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924457,52.003909
-Regiment Pioniers,13,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924311,52.003534
-Regiment Pioniers,14,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924350,52.003891
-Regiment Pioniers,15,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924199,52.003548
-Regiment Pioniers,16,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924284,52.003918
-Regiment Pioniers,17,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924001,52.003571
-Regiment Pioniers,18,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924113,52.003914
-Regiment Pioniers,19,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923915,52.003579
-Regiment Pioniers,20,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924016,52.003915
-Regiment Pioniers,21,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923823,52.003590
-Regiment Pioniers,22,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923919,52.003922
-Regiment Pioniers,23,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923628,52.003603
-Regiment Pioniers,24,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923836,52.003929
-Regiment Pioniers,25,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923551,52.003605
-Regiment Pioniers,26,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923748,52.003916
-Regiment Pioniers,27,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923462,52.003614
-Regiment Pioniers,28,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924014,52.004271
-Regiment Pioniers,30,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924108,52.004269
-Regiment Pioniers,32,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924189,52.004270
-Regiment Pioniers,34,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924269,52.004271
-Regiment Pioniers,36,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924354,52.004271
-Regiment Pioniers,38,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924562,52.004267
-Regiment Pioniers,40,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924677,52.004260
-Regiment Pioniers,42,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924935,52.004252
-Regiment Pioniers,44,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925030,52.004241
-Regiment Pioniers,46,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925268,52.004222
+Regiment Pioniers,1,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925369,52.003314
+Regiment Pioniers,2,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925190,52.003807
+Regiment Pioniers,3,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925159,52.003371
+Regiment Pioniers,4,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924931,52.003831
+Regiment Pioniers,5,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924951,52.003413
+Regiment Pioniers,6,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924825,52.003828
+Regiment Pioniers,7,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924868,52.003429
+Regiment Pioniers,8,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924624,52.003860
+Regiment Pioniers,9,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924631,52.003472
+Regiment Pioniers,10,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924534,52.003866
+Regiment Pioniers,11,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924552,52.003482
+Regiment Pioniers,12,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924451,52.003873
+Regiment Pioniers,13,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924313,52.003510
+Regiment Pioniers,14,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924363,52.003857
+Regiment Pioniers,15,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924228,52.003519
+Regiment Pioniers,16,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924283,52.003885
+Regiment Pioniers,17,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924024,52.003546
+Regiment Pioniers,18,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924121,52.003882
+Regiment Pioniers,19,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923941,52.003555
+Regiment Pioniers,20,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924024,52.003887
+Regiment Pioniers,21,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923855,52.003566
+Regiment Pioniers,22,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923942,52.003894
+Regiment Pioniers,23,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923674,52.003582
+Regiment Pioniers,24,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923860,52.003900
+Regiment Pioniers,25,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923587,52.003588
+Regiment Pioniers,26,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923776,52.003888
+Regiment Pioniers,27,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.923503,52.003596
+Regiment Pioniers,28,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924028,52.004236
+Regiment Pioniers,30,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924102,52.004231
+Regiment Pioniers,32,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924185,52.004233
+Regiment Pioniers,34,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924269,52.004232
+Regiment Pioniers,36,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924355,52.004231
+Regiment Pioniers,38,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924565,52.004231
+Regiment Pioniers,40,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924661,52.004226
+Regiment Pioniers,42,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924894,52.004219
+Regiment Pioniers,44,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.924998,52.004209
+Regiment Pioniers,46,,,6822ND,Arnhem,Arnhem,Gelderland,VBO,5.925225,52.004188
 Laan van Saksen-Weimar,2,,,6822NE,Arnhem,Arnhem,Gelderland,VBO,5.925962,52.001961
 Laan van Saksen-Weimar,20,,,6822NE,Arnhem,Arnhem,Gelderland,VBO,5.925774,52.003043
-Regiment Pontonniers,1,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.925785,52.003788
-Regiment Pontonniers,3,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.925884,52.003800
-Regiment Pontonniers,5,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926081,52.003818
-Regiment Pontonniers,7,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926165,52.003820
-Regiment Pontonniers,9,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926251,52.003825
-Regiment Pontonniers,11,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926338,52.003832
-Regiment Pontonniers,13,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926526,52.003831
-Regiment Pontonniers,15,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926609,52.003829
-Regiment Pontonniers,17,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926701,52.003827
-Regiment Pontonniers,19,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926781,52.003822
-Regiment Pontonniers,21,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926960,52.003814
-Regiment Pontonniers,23,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927046,52.003808
-Regiment Pontonniers,25,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927126,52.003800
-Regiment Pontonniers,27,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927284,52.003792
-Regiment Pontonniers,29,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927370,52.003786
-Regiment Pontonniers,31,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927450,52.003774
-Regiment Pontonniers,33,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927530,52.003766
-Regiment Pontonniers,35,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927613,52.003760
-Regiment Pontonniers,41,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927619,52.004183
-Regiment Pontonniers,43,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927529,52.004190
-Regiment Pontonniers,45,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927350,52.004199
-Regiment Pontonniers,47,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927264,52.004199
-Regiment Pontonniers,49,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.927187,52.004205
-Regiment Pontonniers,51,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926968,52.004216
-Regiment Pontonniers,53,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926869,52.004218
-Regiment Pontonniers,55,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926660,52.004225
-Regiment Pontonniers,57,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926561,52.004227
-Regiment Pontonniers,59,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926345,52.004218
-Regiment Pontonniers,61,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.926247,52.004211
-Regiment Pontonniers,63,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.925993,52.004195
-Regiment Pontonniers,65,,,6822NG,Arnhem,Arnhem,Gelderland,VBO,5.925781,52.004183
 Infanteriestraat,3,,,6822NH,Arnhem,Arnhem,Gelderland,VBO,5.927925,52.002356
 Infanteriestraat,5,,,6822NH,Arnhem,Arnhem,Gelderland,VBO,5.927809,52.002385
 Infanteriestraat,7,,,6822NH,Arnhem,Arnhem,Gelderland,VBO,5.927826,52.002466
@@ -3870,7 +3876,6 @@ Compagnieplaats,90,,,6822NL,Arnhem,Arnhem,Gelderland,VBO,5.928284,52.001695
 Compagnieplaats,92,,,6822NL,Arnhem,Arnhem,Gelderland,VBO,5.928200,52.001703
 Compagnieplaats,94,,,6822NL,Arnhem,Arnhem,Gelderland,VBO,5.928125,52.001709
 Compagnieplaats,100,A,,6822NL,Arnhem,Arnhem,Gelderland,VBO,5.927717,52.002893
-Compagnieplaats,100,,,6822NL,Arnhem,Arnhem,Gelderland,VBO,5.927730,52.002862
 Compagnieplaats,100,,,6822NL,Arnhem,Arnhem,Gelderland,VBO,5.927775,52.002883
 Compagnieplaats,102,,,6822NL,Arnhem,Arnhem,Gelderland,VBO,5.927383,52.002410
 Compagnieplaats,104,,,6822NL,Arnhem,Arnhem,Gelderland,VBO,5.927261,52.002463

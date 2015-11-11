@@ -474,6 +474,8 @@ Schuttersweg,101,,,4761BB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.605775,51.641
 Schuttersweg,102,,,4761BB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.606834,51.641632
 Schuttersweg,103,,,4761BB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.605827,51.641940
 Schuttersweg,104,,,4761BB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.606896,51.641753
+Vaandelweg,1,,,4761BC,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.606764,51.639707
+Vaandelweg,2,,,4761BC,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.606795,51.640610
 Vaandelweg,4,,,4761BC,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.605882,51.640628
 IJshof,1,,,4761BE,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.603121,51.641952
 IJshof,2,,,4761BE,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.603073,51.641936
@@ -497,10 +499,8 @@ Stationslaan,4,,,4761BG,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609798,51.64227
 Stationslaan,6,,,4761BG,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609684,51.642145
 Stationslaan,8,,,4761BG,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609554,51.641969
 Stationslaan,10,,,4761BG,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609423,51.641831
-Pastoor van Kessellaan,1,a,,4761BH,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.606764,51.639707
 Pastoor van Kessellaan,1,,,4761BH,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.608621,51.641202
 Pastoor van Kessellaan,2,,,4761BH,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609142,51.641625
-Pastoor van Kessellaan,3,a,,4761BH,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.606795,51.640610
 Pastoor van Kessellaan,3,,,4761BH,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.608218,51.641450
 Pastoor van Kessellaan,4,,,4761BH,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.608781,51.641743
 Pastoor van Kessellaan,5,,,4761BH,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.607815,51.641515
@@ -609,9 +609,7 @@ Sint Jorisstraat,66,,,4761BL,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.601872,51.
 Sint Jorisstraat,68,,,4761BL,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.601807,51.643244
 Sint Jorisstraat,70,,,4761BL,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.600823,51.643043
 Sint Jorisstraat,72,,,4761BL,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.600631,51.642969
-Neerhofstraat,1,,,4761BM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.607610,51.642598
 Neerhofstraat,2,,,4761BM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.607947,51.642129
-Neerhofstraat,3,,,4761BM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.608249,51.642646
 Neerhofstraat,4,,,4761BM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.608222,51.642234
 Neerhofstraat,5,a,,4761BM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.608964,51.642893
 Neerhofstraat,5,,,4761BM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.608989,51.643001
@@ -1007,6 +1005,7 @@ Kerkstraat,21,,,4761CA,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609065,51.646145
 Kerkstraat,23,,,4761CA,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609210,51.646199
 Kerkstraat,2,,,4761CB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.606791,51.645274
 Kerkstraat,4,,,4761CB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.606897,51.645311
+Kerkstraat,6,,,4761CB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.607013,51.645350
 Kerkstraat,8,,,4761CB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.607293,51.645432
 Kerkstraat,10,,,4761CB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.607802,51.645609
 Kerkstraat,12,,,4761CB,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.607874,51.645635
@@ -2344,7 +2343,7 @@ Watermolen,56,s,,4761GT,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.601055,51.65178
 Watermolen,56,,,4761GT,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.600934,51.651546
 De Knip,1,,,4761GV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.594933,51.652708
 De Knip,2,,,4761GV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.594955,51.650955
-De Knip,3,,,4761GV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595247,51.651699
+De Knip,3,,,4761GV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595405,51.651724
 De Knip,4,,,4761GV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595081,51.650984
 De Knip,6,,,4761GV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595212,51.651015
 De Knip,8,,,4761GV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595355,51.651049
@@ -3390,11 +3389,6 @@ Galgenweg,58,,,4761KN,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595107,51.650721
 Galgenweg,60,,,4761KN,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595074,51.650775
 Galgenweg,62,,,4761KN,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.594006,51.652243
 Galgenweg,64,,,4761KN,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.592898,51.652088
-Galgenweg,1,a,,4761KP,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.597776,51.645931
-Galgenweg,1,b,,4761KP,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.597408,51.645873
-Galgenweg,1,c,,4761KP,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.597749,51.645970
-Galgenweg,1,d,,4761KP,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.597607,51.645930
-Galgenweg,1,,,4761KP,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.597415,51.645821
 Galgenweg,1,,,4761KP,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.597495,51.645954
 Galgenweg,3,,,4761KP,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.597372,51.646131
 Galgenweg,5,,,4761KP,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.597355,51.646262
@@ -4626,10 +4620,11 @@ Koekoeksedijk,2,a,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.611238,51.660
 Koekoeksedijk,2,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.610565,51.659700
 Koekoeksedijk,4,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.610754,51.660839
 Koekoeksedijk,8,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609450,51.652224
+Koekoeksedijk,10,a,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.613902,51.656872
+Koekoeksedijk,10,b,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614882,51.656702
 Koekoeksedijk,10,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609944,51.656622
 Koekoeksedijk,12,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.616066,51.657351
 Koekoeksedijk,14,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614885,51.657277
-Koekoeksedijk,16,a,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.613739,51.657993
 Koekoeksedijk,16,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614067,51.657272
 Koekoeksedijk,17,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.609100,51.659621
 Koekoeksedijk,18,,,4761PJ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.612470,51.657364
@@ -4717,6 +4712,7 @@ Huizersdijk,18,a,,4761PV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.596405,51.6404
 Huizersdijk,18,,,4761PV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.596428,51.640386
 Huizersdijk,20,,,4761PV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595990,51.640121
 Huizersdijk,22,,,4761PV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595725,51.639853
+Huizersdijk,26,a,,4761PV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.594828,51.638722
 Huizersdijk,26,,,4761PV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595049,51.638987
 Huizersdijk,28,a,,4761PV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.593366,51.636892
 Huizersdijk,28,b,,4761PV,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.593409,51.636936
@@ -4738,12 +4734,12 @@ Allenweg,22,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.596130,51.638048
 Allenweg,24,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595885,51.637844
 Allenweg,26,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.595718,51.637598
 Allenweg,30,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.593336,51.635241
-Allenweg,32,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.593233,51.635086
 Allenweg,34,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.593038,51.634886
 Allenweg,36,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.588022,51.629789
 Allenweg,38,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.587487,51.629411
 Allenweg,40,,,4761PW,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.586260,51.627851
 Markdijk,1,,,4761PX,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.594416,51.628522
+Markdijk,2,,,4761PX,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.615998,51.629018
 Westrand,1,,,4761PZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.584411,51.648168
 Westrand,3,,,4761PZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.584754,51.647482
 Westrand,5,,,4761PZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.585208,51.646660
@@ -4870,7 +4866,7 @@ Mark S. Clarkelaan,11,,,4761RK,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.568384,5
 Mark S. Clarkelaan,13,,,4761RK,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.569127,51.660052
 Mark S. Clarkelaan,15,,,4761RK,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.570133,51.660612
 Mark S. Clarkelaan,17,,,4761RK,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.571236,51.660543
-Mark S. Clarkelaan,19,,,4761RK,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.572246,51.660802
+Mark S. Clarkelaan,19,,,4761RK,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.572172,51.660846
 Mark S. Clarkelaan,21,,,4761RK,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.573318,51.660199
 Tradeboulevard,1,,,4761RL,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.564697,51.660120
 Tradeboulevard,2,a,,4761RL,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.562565,51.658243
@@ -4905,12 +4901,6 @@ Campagneweg,5,o,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.613588,51.64726
 Campagneweg,5,p,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.613598,51.647218
 Campagneweg,5,q,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.613563,51.647159
 Campagneweg,5,,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.613375,51.647141
-Campagneweg,7,a,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.613905,51.647546
-Campagneweg,7,b,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614219,51.647172
-Campagneweg,7,c,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614187,51.647484
-Campagneweg,7,d,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614167,51.647563
-Campagneweg,7,e,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614154,51.647642
-Campagneweg,7,,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614034,51.647172
 Campagneweg,9,,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614631,51.647281
 Campagneweg,10,,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.615099,51.648038
 Campagneweg,11,a,,4761RM,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.614455,51.647986
@@ -6866,4 +6856,5 @@ Zuidrand,3,a,,4761ZZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.592577,51.639091
 Zuidrand,3,,,4761ZZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.592484,51.638936
 Zuidrand,5,a,,4761ZZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.592522,51.638722
 Zuidrand,5,,,4761ZZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.592806,51.638854
-Zuidrand,7,,,4761ZZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.592594,51.638547
+Zuidrand,7,a,,4761ZZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.592594,51.638547
+Zuidrand,7,,,4761ZZ,Zevenbergen,Moerdijk,Noord-Brabant,VBO,4.592808,51.638481

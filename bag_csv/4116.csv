@@ -41,8 +41,9 @@ Voorstraat,9,,,4116BC,Buren,Buren,Gelderland,VBO,5.333372,51.911304
 Voorstraat,10,,,4116BC,Buren,Buren,Gelderland,VBO,5.333488,51.911529
 Voorstraat,11,,,4116BC,Buren,Buren,Gelderland,VBO,5.333310,51.911347
 Voorstraat,13,,,4116BC,Buren,Buren,Gelderland,VBO,5.333226,51.911358
-Achterbonenburg,1,,,4116BD,Buren,Buren,Gelderland,VBO,5.333371,51.911645
+Achterbonenburg,1,,,4116BD,Buren,Buren,Gelderland,VBO,5.333290,51.911553
 Achterbonenburg,2,,,4116BD,Buren,Buren,Gelderland,VBO,5.333633,51.911610
+Achterbonenburg,3,,,4116BD,Buren,Buren,Gelderland,VBO,5.333481,51.911692
 Achterbonenburg,6,,,4116BD,Buren,Buren,Gelderland,VBO,5.333880,51.911816
 Achterbonenburg,8,,,4116BD,Buren,Buren,Gelderland,VBO,5.333929,51.911980
 Achterbonenburg,10,,,4116BD,Buren,Buren,Gelderland,VBO,5.333981,51.912032
@@ -131,7 +132,7 @@ Kerkstraat,2,,,4116BL,Buren,Buren,Gelderland,VBO,5.334810,51.911233
 Kerkstraat,3,,,4116BL,Buren,Buren,Gelderland,VBO,5.334985,51.911377
 Kerkstraat,4,,,4116BL,Buren,Buren,Gelderland,VBO,5.335130,51.911466
 Kerkstraat,5,,,4116BL,Buren,Buren,Gelderland,VBO,5.334970,51.911515
-Kerkstraat,6,,,4116BL,Buren,Buren,Gelderland,VBO,5.334665,51.911655
+Kerkstraat,6,,,4116BL,Buren,Buren,Gelderland,VBO,5.334630,51.911665
 Zoetendaal,1,,,4116BM,Buren,Buren,Gelderland,VBO,5.334925,51.912338
 Zoetendaal,2,,,4116BM,Buren,Buren,Gelderland,VBO,5.335086,51.912114
 Zoetendaal,3,,,4116BM,Buren,Buren,Gelderland,VBO,5.335143,51.912491
@@ -198,7 +199,6 @@ Weeshuiswal,8,,,4116BR,Buren,Buren,Gelderland,VBO,5.336075,51.911350
 Weeshuiswal,9,,,4116BR,Buren,Buren,Gelderland,VBO,5.336346,51.911813
 Aalsdijk,1,,,4116BT,Buren,Buren,Gelderland,VBO,5.338340,51.912843
 Aalsdijk,2,,,4116BT,Buren,Buren,Gelderland,VBO,5.339222,51.912985
-Aalsdijk,3,A,,4116BT,Buren,Buren,Gelderland,VBO,5.343101,51.927340
 Aalsdijk,3,,,4116BT,Buren,Buren,Gelderland,VBO,5.339314,51.912996
 Aalsdijk,3,,,4116BT,Buren,Buren,Gelderland,VBO,5.339820,51.912990
 Commanderij,2,,,4116BV,Buren,Buren,Gelderland,VBO,5.336058,51.912986
@@ -461,7 +461,7 @@ Bernhardlaan,5,,,4116CS,Buren,Buren,Gelderland,VBO,5.330854,51.913658
 Bernhardlaan,6,,,4116CS,Buren,Buren,Gelderland,VBO,5.331407,51.913676
 Bernhardlaan,7,,,4116CS,Buren,Buren,Gelderland,VBO,5.330898,51.913712
 Bernhardlaan,8,,,4116CS,Buren,Buren,Gelderland,VBO,5.331450,51.913820
-Bernhardlaan,9,,,4116CS,Buren,Buren,Gelderland,VBO,5.330959,51.913800
+Bernhardlaan,9,,,4116CS,Buren,Buren,Gelderland,VBO,5.330964,51.913809
 Bernhardlaan,11,,,4116CS,Buren,Buren,Gelderland,VBO,5.331014,51.913846
 Bernhardlaan,13,,,4116CS,Buren,Buren,Gelderland,VBO,5.331174,51.914017
 Bernhardlaan,15,,,4116CS,Buren,Buren,Gelderland,VBO,5.331232,51.914089
@@ -584,6 +584,7 @@ Nederburcht,8,,,4116DH,Buren,Buren,Gelderland,VBO,5.327741,51.916245
 Nederburcht,10,,,4116DH,Buren,Buren,Gelderland,VBO,5.327683,51.916209
 Nederburcht,12,,,4116DH,Buren,Buren,Gelderland,VBO,5.327595,51.916191
 Nederburcht,16,,,4116DH,Buren,Buren,Gelderland,VBO,5.327494,51.916146
+Kasteellaan,1,a,,4116DJ,Buren,Buren,Gelderland,VBO,5.328371,51.915980
 Kasteellaan,1,,,4116DJ,Buren,Buren,Gelderland,VBO,5.328486,51.915883
 Kasteellaan,3,,,4116DJ,Buren,Buren,Gelderland,VBO,5.328308,51.916020
 Kasteellaan,5,,,4116DJ,Buren,Buren,Gelderland,VBO,5.328279,51.916047
@@ -982,7 +983,6 @@ Françoise de Lanoistraat,14,,,4116ET,Buren,Buren,Gelderland,VBO,5.341340,51.907
 Françoise de Lanoistraat,15,,,4116ET,Buren,Buren,Gelderland,VBO,5.339421,51.907405
 Françoise de Lanoistraat,16,,,4116ET,Buren,Buren,Gelderland,VBO,5.341747,51.907353
 Françoise de Lanoistraat,17,,,4116ET,Buren,Buren,Gelderland,VBO,5.339479,51.907412
-Françoise de Lanoistraat,18,,,4116ET,Buren,Buren,Gelderland,VBO,5.342043,51.907323
 Françoise de Lanoistraat,19,,,4116ET,Buren,Buren,Gelderland,VBO,5.339579,51.907418
 Françoise de Lanoistraat,21,,,4116ET,Buren,Buren,Gelderland,VBO,5.339664,51.907434
 Françoise de Lanoistraat,23,,,4116ET,Buren,Buren,Gelderland,VBO,5.339722,51.907429
@@ -1062,6 +1062,7 @@ Hulsterstraat,7,,,4116EZ,Buren,Buren,Gelderland,VBO,5.333179,51.901181
 Hulsterstraat,8,a,,4116EZ,Buren,Buren,Gelderland,VBO,5.333087,51.906153
 Hulsterstraat,8,,,4116EZ,Buren,Buren,Gelderland,VBO,5.333029,51.906144
 Hulsterstraat,10,,,4116EZ,Buren,Buren,Gelderland,VBO,5.333145,51.906162
+Hulsterstraat,12,,,4116EZ,Buren,Buren,Gelderland,VBO,5.333218,51.906163
 Hulsterstraat,14,,,4116EZ,Buren,Buren,Gelderland,VBO,5.330733,51.906278
 Hulsterstraat,16,,,4116EZ,Buren,Buren,Gelderland,VBO,5.333276,51.906172
 Hulsterstraat,18,,,4116EZ,Buren,Buren,Gelderland,VBO,5.333349,51.906181
@@ -1073,25 +1074,18 @@ Hulsterstraat,26,,,4116EZ,Buren,Buren,Gelderland,VBO,5.333407,51.906342
 Hulsterstraat,28,,,4116EZ,Buren,Buren,Gelderland,VBO,5.333392,51.906477
 Hulsterstraat,30,,,4116EZ,Buren,Buren,Gelderland,VBO,5.330849,51.906305
 Schuilheuvelstraat,1,,,4116GA,Buren,Buren,Gelderland,VBO,5.334845,51.906712
-Schuilheuvelstraat,2,a,,4116GA,Buren,Buren,Gelderland,VBO,5.335262,51.907269
-Schuilheuvelstraat,2,,,4116GA,Buren,Buren,Gelderland,VBO,5.335396,51.907266
 Schuilheuvelstraat,3,,,4116GA,Buren,Buren,Gelderland,VBO,5.334394,51.906864
-Schuilheuvelstraat,4,a,,4116GA,Buren,Buren,Gelderland,VBO,5.334939,51.907327
-Schuilheuvelstraat,4,,,4116GA,Buren,Buren,Gelderland,VBO,5.335093,51.907284
 Schuilheuvelstraat,5,,,4116GA,Buren,Buren,Gelderland,VBO,5.333871,51.907035
 Schuilheuvelstraat,6,a,,4116GA,Buren,Buren,Gelderland,VBO,5.334893,51.907633
-Schuilheuvelstraat,6,,,4116GA,Buren,Buren,Gelderland,VBO,5.335014,51.907514
 Erichemseweg,1,A,,4116GB,Buren,Buren,Gelderland,VBO,5.336428,51.906955
 Erichemseweg,1,B,,4116GB,Buren,Buren,Gelderland,VBO,5.336443,51.906901
 Erichemseweg,1,C,,4116GB,Buren,Buren,Gelderland,VBO,5.336501,51.906802
 Erichemseweg,1,D,,4116GB,Buren,Buren,Gelderland,VBO,5.336545,51.906748
-Erichemseweg,1,e,,4116GB,Buren,Buren,Gelderland,VBO,5.337364,51.906014
 Erichemseweg,1,f,,4116GB,Buren,Buren,Gelderland,VBO,5.338049,51.905697
 Erichemseweg,1,g,,4116GB,Buren,Buren,Gelderland,VBO,5.338475,51.905497
 Erichemseweg,1,h,,4116GB,Buren,Buren,Gelderland,VBO,5.339569,51.905251
 Erichemseweg,1,j,,4116GB,Buren,Buren,Gelderland,VBO,5.341779,51.903919
 Erichemseweg,2,,,4116GC,Buren,Buren,Gelderland,VBO,5.333084,51.908634
-Erichemseweg,4,,,4116GC,Buren,Buren,Gelderland,VBO,5.335363,51.907492
 Erichemseweg,4,,,4116GC,Buren,Buren,Gelderland,VBO,5.335483,51.907278
 Erichemseweg,6,A,,4116GC,Buren,Buren,Gelderland,VBO,5.336022,51.906622
 Erichemseweg,6,,,4116GC,Buren,Buren,Gelderland,VBO,5.336182,51.906290
@@ -1105,7 +1099,7 @@ Erichemsekade,4,,,4116GD,Buren,Buren,Gelderland,VBO,5.327343,51.909333
 Erichemsekade,5,A,,4116GD,Buren,Buren,Gelderland,VBO,5.324778,51.903696
 Erichemsekade,5,b,,4116GD,Buren,Buren,Gelderland,VBO,5.325519,51.902117
 Erichemsekade,5,,,4116GD,Buren,Buren,Gelderland,VBO,5.325345,51.903858
-Erichemsekade,6,a,,4116GD,Buren,Buren,Gelderland,VBO,5.323561,51.903443
+Erichemsekade,6,b,,4116GD,Buren,Buren,Gelderland,VBO,5.324237,51.904452
 Erichemsekade,6,,,4116GD,Buren,Buren,Gelderland,VBO,5.323326,51.903380
 Erichemsekade,7,A,,4116GD,Buren,Buren,Gelderland,VBO,5.325916,51.900658
 Erichemsekade,7,B,,4116GD,Buren,Buren,Gelderland,VBO,5.322506,51.897205
@@ -1122,13 +1116,15 @@ Erichemsekade,12,B,,4116GD,Buren,Buren,Gelderland,VBO,5.322094,51.890733
 Erichemsekade,12,c,,4116GD,Buren,Buren,Gelderland,VBO,5.321585,51.891290
 Graafschapsstraat,1,a,,4116GE,Buren,Buren,Gelderland,VBO,5.332257,51.907887
 Graafschapsstraat,1,,,4116GE,Buren,Buren,Gelderland,VBO,5.332300,51.908149
-Graafschapsstraat,2,b,,4116GE,Buren,Buren,Gelderland,VBO,5.332654,51.908606
+Graafschapsstraat,2,a,,4116GE,Buren,Buren,Gelderland,VBO,5.332666,51.908528
+Graafschapsstraat,2,b,,4116GE,Buren,Buren,Gelderland,VBO,5.332670,51.908606
 Graafschapsstraat,2,d,,4116GE,Buren,Buren,Gelderland,VBO,5.332717,51.908646
 Graafschapsstraat,2,e,,4116GE,Buren,Buren,Gelderland,VBO,5.332725,51.908705
 Graafschapsstraat,2,f,,4116GE,Buren,Buren,Gelderland,VBO,5.332733,51.908763
 Graafschapsstraat,2,,,4116GE,Buren,Buren,Gelderland,VBO,5.331746,51.909146
 Graafschapsstraat,3,c,,4116GE,Buren,Buren,Gelderland,VBO,5.332694,51.906562
-Graafschapsstraat,3,d,,4116GE,Buren,Buren,Gelderland,VBO,5.332967,51.906555
+Graafschapsstraat,3,d,,4116GE,Buren,Buren,Gelderland,VBO,5.332859,51.906587
+Graafschapsstraat,3,e,,4116GE,Buren,Buren,Gelderland,VBO,5.332949,51.906599
 Graafschapsstraat,3,,,4116GE,Buren,Buren,Gelderland,VBO,5.331900,51.907437
 Graafschapsstraat,4,A,,4116GE,Buren,Buren,Gelderland,VBO,5.331035,51.908400
 Graafschapsstraat,4,B,,4116GE,Buren,Buren,Gelderland,VBO,5.331206,51.907942
@@ -1144,8 +1140,13 @@ Graafschapsstraat,9,,,4116GE,Buren,Buren,Gelderland,VBO,5.332390,51.906108
 Graafschapsstraat,10,,,4116GE,Buren,Buren,Gelderland,STA,5.330344,51.907164
 Graafschapsstraat,12,,,4116GE,Buren,Buren,Gelderland,VBO,5.331430,51.906701
 Graafschapsstraat,14,,,4116GE,Buren,Buren,Gelderland,VBO,5.330892,51.906800
-De Bijen,1,,,4116GG,Buren,Buren,Gelderland,VBO,5.330962,51.909182
+De Bijen,1,,,4116GG,Buren,Buren,Gelderland,VBO,5.330927,51.909115
+De Bijen,3,,,4116GG,Buren,Buren,Gelderland,VBO,5.330958,51.908924
 Randweg,1,,,4116GH,Buren,Buren,Gelderland,VBO,5.336430,51.905634
+Randweg,2,,,4116GH,Buren,Buren,Gelderland,VBO,5.335592,51.905776
+Randweg,4,,,4116GH,Buren,Buren,Gelderland,VBO,5.335615,51.905653
+Randweg,6,,,4116GH,Buren,Buren,Gelderland,VBO,5.335402,51.905748
+Randweg,8,,,4116GH,Buren,Buren,Gelderland,VBO,5.335435,51.905653
 Randweg,9,,,4116GH,Buren,Buren,Gelderland,VBO,5.335836,51.904894
 Randweg,11,,,4116GH,Buren,Buren,Gelderland,VBO,5.336010,51.904774
 Hoge Kornseweg,1,,,4116GR,Buren,Buren,Gelderland,VBO,5.352587,51.908417
@@ -1160,8 +1161,6 @@ Concorde,5,,,4116HA,Buren,Buren,Gelderland,VBO,5.338230,51.906437
 Concorde,7,,,4116HA,Buren,Buren,Gelderland,VBO,5.338493,51.906538
 Concorde,9,,,4116HA,Buren,Buren,Gelderland,VBO,5.338808,51.906619
 Concorde,11,,,4116HA,Buren,Buren,Gelderland,VBO,5.339152,51.906667
-Concorde,13,,,4116HA,Buren,Buren,Gelderland,VBO,5.339498,51.906711
-Concorde,15,,,4116HA,Buren,Buren,Gelderland,VBO,5.340302,51.906794
 Concorde,17,,,4116HA,Buren,Buren,Gelderland,VBO,5.340592,51.906859
 Concorde,19,,,4116HA,Buren,Buren,Gelderland,VBO,5.341102,51.906882
 Concorde,21,,,4116HA,Buren,Buren,Gelderland,VBO,5.341302,51.906931
@@ -1247,7 +1246,6 @@ Elstar,10,,,4116HE,Buren,Buren,Gelderland,VBO,5.340897,51.906011
 Elstar,11,,,4116HE,Buren,Buren,Gelderland,VBO,5.340425,51.905926
 Elstar,12,,,4116HE,Buren,Buren,Gelderland,VBO,5.340881,51.906137
 Elstar,13,,,4116HE,Buren,Buren,Gelderland,VBO,5.340412,51.905976
-Elstar,14,,,4116HE,Buren,Buren,Gelderland,VBO,5.340854,51.906193
 Elstar,15,,,4116HE,Buren,Buren,Gelderland,VBO,5.340414,51.906027
 Elstar,17,,,4116HE,Buren,Buren,Gelderland,VBO,5.340404,51.906083
 Elstar,19,,,4116HE,Buren,Buren,Gelderland,VBO,5.340396,51.906135
@@ -1263,22 +1261,20 @@ Goudreinette,13,,,4116HG,Buren,Buren,Gelderland,VBO,5.341409,51.906206
 Goudreinette,15,,,4116HG,Buren,Buren,Gelderland,VBO,5.341394,51.906252
 Goudreinette,17,,,4116HG,Buren,Buren,Gelderland,VBO,5.341339,51.906286
 Goudreinette,19,,,4116HG,Buren,Buren,Gelderland,VBO,5.341328,51.906333
+Brederode,1,,,4116HH,Buren,Buren,Gelderland,VBO,5.339661,51.905561
 Brederode,2,,,4116HH,Buren,Buren,Gelderland,VBO,5.339974,51.905475
 Brederode,3,,,4116HH,Buren,Buren,Gelderland,VBO,5.340309,51.905419
 Brederode,4,,,4116HH,Buren,Buren,Gelderland,VBO,5.341193,51.905295
 Brederode,5,,,4116HH,Buren,Buren,Gelderland,VBO,5.341386,51.905482
-Brederode,6,,,4116HH,Buren,Buren,Gelderland,VBO,5.341531,51.905630
-Brederode,7,,,4116HH,Buren,Buren,Gelderland,VBO,5.341778,51.905774
 Brederode,8,,,4116HH,Buren,Buren,Gelderland,VBO,5.342319,51.906164
+Brederode,9,,,4116HH,Buren,Buren,Gelderland,VBO,5.342529,51.906312
 Brederode,10,,,4116HH,Buren,Buren,Gelderland,VBO,5.342421,51.906479
 Brederode,11,,,4116HH,Buren,Buren,Gelderland,VBO,5.342337,51.906517
 Aalsdijk,4,A,,4116LN,Buren,Buren,Gelderland,VBO,5.344129,51.929377
 Aalsdijk,4,b,,4116LN,Buren,Buren,Gelderland,VBO,5.344520,51.929483
 Aalsdijk,4,,,4116LN,Buren,Buren,Gelderland,VBO,5.344344,51.929367
 Aalsdijk,6,,,4116LN,Buren,Buren,Gelderland,VBO,5.341417,51.931036
-Achtmorgenstraat,2,,,4116LP,Buren,Buren,Gelderland,VBO,5.348922,51.928738
 Achtmorgenstraat,2,,,4116LP,Buren,Buren,Gelderland,VBO,5.349392,51.927780
-Haardijk,1,,,4116RJ,Buren,Buren,Gelderland,VBO,5.292775,51.922082
 Hennisdijk,2,a,,4116RK,Buren,Buren,Gelderland,VBO,5.313311,51.912217
 Hennisdijk,2,,,4116RK,Buren,Buren,Gelderland,VBO,5.321646,51.909267
 Hennisdijk,3,,,4116RK,Buren,Buren,Gelderland,VBO,5.322041,51.908556
@@ -1299,6 +1295,7 @@ Culemborgseweg,3,,,4116RL,Buren,Buren,Gelderland,VBO,5.329053,51.917416
 Culemborgseweg,4,,,4116RL,Buren,Buren,Gelderland,VBO,5.330415,51.916291
 Culemborgseweg,5,,,4116RL,Buren,Buren,Gelderland,VBO,5.328595,51.918555
 Culemborgseweg,6,A,,4116RL,Buren,Buren,Gelderland,VBO,5.327705,51.921557
+Culemborgseweg,6,b,,4116RL,Buren,Buren,Gelderland,VBO,5.330561,51.918391
 Culemborgseweg,6,,,4116RL,Buren,Buren,Gelderland,VBO,5.330036,51.917001
 Hofkampseweg,1,A,,4116RM,Buren,Buren,Gelderland,VBO,5.313042,51.919885
 Hofkampseweg,1,,,4116RM,Buren,Buren,Gelderland,VBO,5.312284,51.919858

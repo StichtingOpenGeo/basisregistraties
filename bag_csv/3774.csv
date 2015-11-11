@@ -148,7 +148,6 @@ Kosterijweg,26,,,3774BH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.667738,52.150
 Kosterijweg,28,,,3774BH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.667591,52.150704
 Kosterijweg,30,,,3774BH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.667413,52.150629
 Kosterijweg,32,,,3774BH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.667152,52.150516
-Kosterijweg,34,,,3774BH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666917,52.150391
 Kosterijweg,36,,,3774BH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666785,52.150347
 Kosterijweg,38,,,3774BH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666698,52.150311
 Kosterijweg,40,,,3774BH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666624,52.150275
@@ -185,6 +184,7 @@ Veluweweg,25,,,3774BK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666434,52.15251
 Veluweweg,27,A,,3774BK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666668,52.152637
 Veluweweg,27,,,3774BK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666697,52.152558
 Veluweweg,45,,,3774BK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.668116,52.152869
+Veluweweg,75,A,,3774BK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.672468,52.154464
 Veluweweg,75,,,3774BK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.672757,52.154463
 Veluweweg,81,,,3774BK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.672958,52.155976
 Veluweweg,99,,,3774BL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.675238,52.155962
@@ -312,6 +312,7 @@ Kootwijkerbroekerweg,55,,,3774BT,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.6845
 Kootwijkerbroekerweg,68,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680074,52.162355
 Kootwijkerbroekerweg,70,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680101,52.162483
 Kootwijkerbroekerweg,72,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680356,52.162637
+Kootwijkerbroekerweg,74,A,01,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.681188,52.163873
 Kootwijkerbroekerweg,74,A,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.681041,52.163846
 Kootwijkerbroekerweg,74,B,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.681459,52.164188
 Kootwijkerbroekerweg,74,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680782,52.163552
@@ -325,7 +326,6 @@ Kootwijkerbroekerweg,82,,bis,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.6
 Kootwijkerbroekerweg,82,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.684464,52.167812
 Kootwijkerbroekerweg,84,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.687769,52.170122
 Kootwijkerbroekerweg,86,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.689534,52.171817
-Kootwijkerbroekerweg,86,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.690040,52.171315
 Kootwijkerbroekerweg,88,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.691226,52.173385
 Kootwijkerbroekerweg,90,,,3774BV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.692652,52.174523
 Oosterbrinkweg,1,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.678041,52.166875
@@ -345,7 +345,7 @@ Oosterbrinkweg,8,,01,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.687514,52
 Oosterbrinkweg,8,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.687638,52.168136
 Oosterbrinkweg,9,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.683706,52.168048
 Oosterbrinkweg,12,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.690071,52.169083
-Oosterbrinkweg,14,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.690202,52.169002
+Oosterbrinkweg,14,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.690495,52.168566
 Oosterbrinkweg,16,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.690510,52.169154
 Oosterbrinkweg,17,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.690670,52.170846
 Oosterbrinkweg,20,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.691347,52.169373
@@ -353,7 +353,7 @@ Oosterbrinkweg,22,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.691623,52.
 Oosterbrinkweg,24,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.692560,52.169607
 Oosterbrinkweg,25,A,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.697672,52.171208
 Oosterbrinkweg,25,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.697042,52.170979
-Oosterbrinkweg,26,A,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.692276,52.168156
+Oosterbrinkweg,26,A,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.692225,52.168126
 Oosterbrinkweg,26,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.693019,52.168329
 Oosterbrinkweg,28,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.693739,52.168867
 Oosterbrinkweg,30,,,3774BW,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.694565,52.170060
@@ -422,6 +422,7 @@ Essenerweg,75,,,3774CB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.673553,52.1485
 Essenerweg,77,,,3774CB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.673641,52.148533
 Essenerweg,2,A,,3774CC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662831,52.151192
 Essenerweg,2,,,3774CC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662582,52.151129
+Essenerweg,4,A,,3774CC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662990,52.151114
 Essenerweg,4,,,3774CC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662947,52.151084
 Essenerweg,6,A,,3774CC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663284,52.150912
 Essenerweg,6,,,3774CC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663093,52.150975
@@ -471,6 +472,7 @@ Essenerweg,86,,,3774CD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.671787,52.1464
 Essenerweg,88,,,3774CD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.672437,52.147637
 Rehobothstraat,15,,,3774CE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.671334,52.151848
 Rehobothstraat,19,,,3774CE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.672584,52.152301
+Rehobothstraat,21,A,,3774CE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.672032,52.151643
 Rehobothstraat,21,,,3774CE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.671922,52.151602
 Rehobothstraat,23,,,3774CG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.671305,52.151100
 Rehobothstraat,25,,,3774CG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.671304,52.150947
@@ -778,7 +780,6 @@ Garderbroekerweg,173,,,3774JD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.683590,
 Garderbroekerweg,175,A,,3774JD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.684660,52.161972
 Garderbroekerweg,175,B,,3774JD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.685115,52.161957
 Garderbroekerweg,175,,,3774JD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.684239,52.162408
-Garderbroekerweg,175,,,3774JD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.684398,52.162267
 Garderbroekerweg,177,,,3774JD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.684466,52.161547
 Garderbroekerweg,181,,,3774JD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.685788,52.160175
 Garderbroekerweg,185,,,3774JD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.689574,52.158236
@@ -907,7 +908,6 @@ Harskamperweg,16,,01,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.701182,52
 Harskamperweg,16,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.699866,52.169228
 Harskamperweg,22,A,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702613,52.167019
 Harskamperweg,22,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702452,52.166965
-Harskamperweg,28,A,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.706794,52.163260
 Harskamperweg,28,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.706636,52.163422
 Harskamperweg,30,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.707246,52.162881
 Harskamperweg,32,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.707330,52.162323
@@ -915,7 +915,6 @@ Harskamperweg,34,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.708031,52.1
 Harskamperweg,36,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.707728,52.161341
 Harskamperweg,38,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.709341,52.161554
 Harskamperweg,40,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.709951,52.161049
-Harskamperweg,42,A,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.709217,52.160815
 Harskamperweg,42,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.708910,52.160575
 Harskamperweg,44,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.708501,52.160576
 Harskamperweg,50,,,3774JP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.712787,52.159680
@@ -927,7 +926,6 @@ Harskamperweg,66,,,3774JR,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.724028,52.1
 Harskamperweg,68,,,3774JR,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.725264,52.152953
 Harskamperweg,70,,01,3774JR,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.725941,52.152704
 Harskamperweg,70,,02,3774JR,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.725869,52.152654
-Harskamperweg,70,,03,3774JR,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.726110,52.152456
 Harskamperweg,70,,bis,3774JR,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.726111,52.152673
 Harskamperweg,70,,,3774JR,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.726153,52.152654
 Harskamperweg,72,,,3774JR,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.726333,52.152119
@@ -977,7 +975,6 @@ Kootwijkerdijk,14,,,3774JT,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.695281,52.
 Kootwijkerdijk,16,,,3774JT,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.696746,52.164041
 Kootwijkerdijk,18,,,3774JT,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.697994,52.164991
 Kootwijkerdijk,20,,,3774JT,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.703181,52.168824
-Kootwijkerdijk,22,,,3774JT,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.707104,52.170926
 Kootwijkerdijk,24,,,3774JT,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.706999,52.171221
 Kootwijkerdijk,26,,,3774JT,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.707877,52.171462
 Dr.A.A.Jessestraat,2,,,3774JV,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.678663,52.161373
@@ -1012,7 +1009,6 @@ Essenerweg,121,,,3774LB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.697293,52.146
 Essenerweg,125,,,3774LB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.698922,52.147156
 Essenerweg,129,,,3774LB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.701858,52.149135
 Essenerweg,131,,01,3774LB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702133,52.149698
-Essenerweg,131,,,3774LB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702421,52.149834
 Essenerweg,131,,,3774LB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702505,52.149708
 Essenerweg,135,,,3774LB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702954,52.150598
 Essenerweg,139,,,3774LB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.708657,52.151813
@@ -1090,7 +1086,7 @@ Kamperweg,1,A,,3774LG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702819,52.15183
 Kamperweg,1,,,3774LG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702856,52.151766
 Kamperweg,3,,,3774LG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.701388,52.152902
 Kamperweg,5,,,3774LG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.701770,52.153224
-Kamperweg,7,,bis,3774LG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.701270,52.153786
+Kamperweg,7,,bis,3774LG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.701268,52.153780
 Kamperweg,7,,,3774LG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.701394,52.153738
 Kamperweg,9,,,3774LG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.700526,52.154374
 Topperweg,1,,,3774LH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.684802,52.148280
@@ -1142,7 +1138,6 @@ Oude Garderenseweg,10,,,3774LK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.706115
 Oude Garderenseweg,14,,,3774LK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.709080,52.157762
 Oude Garderenseweg,15,,,3774LK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.704195,52.161325
 Oude Garderenseweg,22,,,3774LK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.706362,52.159854
-Esvelderweg,5,,,3774PC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.646390,52.144973
 Esvelderweg,13,,,3774PC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.647508,52.146840
 Esvelderweg,15,,01,3774PC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.648943,52.145643
 Esvelderweg,15,,02,3774PC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.649026,52.145868
@@ -1209,7 +1204,6 @@ Nachtegaalweg,20,,01,3774PG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655194,52
 Nachtegaalweg,20,,02,3774PG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655377,52.145425
 Nachtegaalweg,20,,03,3774PG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655397,52.145365
 Nachtegaalweg,20,,,3774PG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655348,52.146050
-Nachtegaalweg,20,,,3774PG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655372,52.146174
 Nachtegaalweg,22,,bis,3774PG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656532,52.144618
 Nachtegaalweg,22,,,3774PG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656622,52.144708
 Nachtegaalweg,24,,,3774PG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657443,52.146881
@@ -1233,11 +1227,11 @@ Puurveenseweg,29,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660917,52.1
 Puurveenseweg,31,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660865,52.146733
 Puurveenseweg,33,A,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661718,52.147981
 Puurveenseweg,33,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661714,52.147929
-Puurveenseweg,35,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662076,52.147911
 Puurveenseweg,37,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662502,52.147982
 Puurveenseweg,39,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662709,52.147991
 Puurveenseweg,41,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663279,52.148072
 Puurveenseweg,47,A,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663659,52.148008
+Puurveenseweg,47,B,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663732,52.148005
 Puurveenseweg,47,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663821,52.148269
 Puurveenseweg,51,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.664185,52.148088
 Puurveenseweg,53,,,3774PH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.664536,52.148051
@@ -1308,7 +1302,6 @@ Graafhorstweg,7,,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660747,52.16
 Graafhorstweg,12,,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659874,52.169345
 Graafhorstweg,14,,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658065,52.170121
 Graafhorstweg,15,,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658158,52.173295
-Graafhorstweg,16,A,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658755,52.171573
 Graafhorstweg,16,A,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659145,52.170815
 Graafhorstweg,16,B,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658485,52.171335
 Graafhorstweg,16,,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658316,52.170347
@@ -1325,6 +1318,7 @@ Graafhorstweg,30,,,3774RB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660142,52.1
 Kapweg,1,A,,3774RC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.633882,52.163623
 Kapweg,1,,bis,3774RC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.634316,52.163291
 Kapweg,1,,,3774RC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.634231,52.163281
+Kapweg,15,A,,3774RC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.639639,52.166245
 Kapweg,15,,,3774RC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.639903,52.166154
 Kapweg,21,,,3774RC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.641096,52.167707
 Kapweg,23,,,3774RC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.641200,52.168057
@@ -1358,6 +1352,7 @@ Kapweg,26,A,,3774RD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655296,52.171136
 Kapweg,26,,,3774RD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655104,52.171091
 Kapweg,28,,bis,3774RD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656880,52.171663
 Kapweg,28,,,3774RD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656657,52.171645
+Kapweg,30,A,,3774RD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659513,52.172831
 Kapweg,30,,,3774RD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659426,52.172841
 Kapweg,34,,,3774RD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661612,52.173880
 Kapweg,36,,,3774RD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661804,52.174185
@@ -1418,7 +1413,6 @@ Wencopperweg,80,,,3774RJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.634917,52.15
 Wencopperweg,82,,,3774RJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.634695,52.157357
 Wencopperweg,86,,,3774RJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.641405,52.157873
 Wencopperweg,88,,,3774RJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.641389,52.157666
-Wencopperweg,88,,,3774RJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.641941,52.157751
 Wencopperweg,92,,,3774RJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.647607,52.156430
 Wencopperweg,96,,,3774RJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.647742,52.154471
 Wencopperweg,102,,,3774RJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.640025,52.154155
@@ -1446,11 +1440,9 @@ Wesselseweg,129,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655146,52.15
 Wesselseweg,133,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656944,52.151466
 Wesselseweg,135,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656136,52.151843
 Wesselseweg,135,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656961,52.151870
-Wesselseweg,137,A,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657331,52.151511
 Wesselseweg,137,A,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657475,52.151436
 Wesselseweg,137,B,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657408,52.151411
 Wesselseweg,137,C,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657430,52.151492
-Wesselseweg,137,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657358,52.151423
 Wesselseweg,137,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657427,52.151474
 Wesselseweg,141,A,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658235,52.152862
 Wesselseweg,141,B,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658244,52.152802
@@ -1460,8 +1452,6 @@ Wesselseweg,141,E,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658416,52.1
 Wesselseweg,141,G,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658506,52.152447
 Wesselseweg,141,,bis,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658266,52.152078
 Wesselseweg,141,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658306,52.151993
-Wesselseweg,143,A,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659267,52.151651
-Wesselseweg,143,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659017,52.151646
 Wesselseweg,145,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659620,52.151685
 Wesselseweg,147,A,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659790,52.151732
 Wesselseweg,147,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659792,52.151634
@@ -1470,7 +1460,6 @@ Wesselseweg,151,A,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662398,52.1
 Wesselseweg,151,,01,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662887,52.151545
 Wesselseweg,151,,,3774RK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662513,52.151804
 Wesselseweg,100,A,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.636212,52.149031
-Wesselseweg,100,A,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.636632,52.149240
 Wesselseweg,100,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.636227,52.149166
 Wesselseweg,104,,01,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.640383,52.148633
 Wesselseweg,104,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.639613,52.148565
@@ -1482,7 +1471,7 @@ Wesselseweg,120,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.641917,52.14
 Wesselseweg,122,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.643446,52.149375
 Wesselseweg,132,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.647819,52.150192
 Wesselseweg,134,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.647815,52.150327
-Wesselseweg,136,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.649605,52.150782
+Wesselseweg,136,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.649631,52.150823
 Wesselseweg,140,,bis,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.651692,52.150510
 Wesselseweg,140,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.651636,52.150582
 Wesselseweg,142,,,3774RL,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.652539,52.150245
@@ -1533,10 +1522,8 @@ De Bonkelaar,4,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656998,52.150
 De Bonkelaar,5,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657324,52.149977
 De Bonkelaar,6,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657190,52.150311
 De Bonkelaar,7,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658039,52.149935
-De Bonkelaar,8,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657794,52.150302
 De Bonkelaar,9,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658565,52.149976
 De Bonkelaar,10,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659391,52.149911
-De Bonkelaar,11,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658678,52.149613
 De Bonkelaar,12,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659411,52.149854
 De Bonkelaar,13,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.658973,52.149508
 De Bonkelaar,14,,,3774SB,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659505,52.149556
@@ -1557,37 +1544,21 @@ De Standerd,9,A,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150
 De Standerd,9,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
 De Standerd,11,A,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
 De Standerd,11,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
-De Standerd,12,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661782,52.150127
 De Standerd,13,A,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
 De Standerd,13,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
-De Standerd,14,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661917,52.150130
 De Standerd,15,A,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
 De Standerd,15,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
-De Standerd,16,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662041,52.150134
 De Standerd,17,A,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
 De Standerd,17,B,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659940,52.150791
 De Standerd,17,C,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660034,52.150797
 De Standerd,17,D,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660128,52.150801
 De Standerd,17,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659685,52.150462
-De Standerd,18,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662159,52.150140
-De Standerd,20,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662286,52.150150
 De Standerd,21,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661152,52.150463
-De Standerd,22,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662408,52.150155
-De Standerd,24,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662517,52.150164
-De Standerd,26,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662633,52.149980
-De Standerd,28,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662529,52.149969
-De Standerd,30,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662409,52.149955
-De Standerd,32,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662285,52.149946
-De Standerd,34,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662163,52.149935
-De Standerd,36,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662038,52.149924
-De Standerd,38,,,3774SC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661889,52.149912
 De Spil,4,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655319,52.150050
 De Spil,6,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655431,52.149882
-De Spil,8,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.655543,52.149580
 De Spil,10,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656062,52.149535
 De Spil,12,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656361,52.149516
 De Spil,14,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656932,52.149421
-De Spil,17,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656308,52.149134
 De Spil,18,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657488,52.149345
 De Spil,19,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.656657,52.149114
 De Spil,21,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.657086,52.149056
@@ -1601,7 +1572,6 @@ De Spil,32,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659982,52.148899
 De Spil,33,A,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.659912,52.148508
 De Spil,33,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660018,52.148441
 De Spil,34,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660374,52.148588
-De Spil,35,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660155,52.148325
 De Spil,36,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660433,52.148552
 De Spil,38,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660607,52.148449
 De Spil,40,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660666,52.148410
@@ -1609,12 +1579,6 @@ De Spil,42,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660722,52.148374
 De Spil,44,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.660788,52.148339
 De Spil,48,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661033,52.148183
 De Spil,50,,,3774SE,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661469,52.147969
-De Windvaan,1,,,3774SG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663095,52.150015
-De Windvaan,2,,,3774SG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663070,52.150057
-De Windvaan,3,,,3774SG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663016,52.150097
-De Windvaan,4,,,3774SG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662989,52.150139
-De Windvaan,5,,,3774SG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662968,52.150180
-De Windvaan,6,,,3774SG,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662949,52.150227
 De Wiek,1,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661974,52.148255
 De Wiek,3,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661972,52.148310
 De Wiek,5,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661929,52.148439
@@ -1648,19 +1612,7 @@ De Wiek,59,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661416,52.149612
 De Wiek,61,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661490,52.149613
 De Wiek,63,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661565,52.149603
 De Wiek,65,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661654,52.149615
-De Wiek,67,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661869,52.149619
-De Wiek,69,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661950,52.149629
-De Wiek,71,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662029,52.149636
-De Wiek,73,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662108,52.149645
-De Wiek,75,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662190,52.149648
-De Wiek,77,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662306,52.149642
-De Wiek,79,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662385,52.149647
-De Wiek,81,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662460,52.149654
-De Wiek,83,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662545,52.149661
-De Wiek,85,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662725,52.149669
-De Wiek,87,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662816,52.149680
 De Wiek,89,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663271,52.149720
-De Wiek,91,,,3774SH,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663350,52.149722
 De Wiek,2,,,3774SJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662453,52.148266
 De Wiek,4,,,3774SJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662448,52.148314
 De Wiek,6,,,3774SJ,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662448,52.148366
@@ -1711,17 +1663,19 @@ De Maalsteen,7,,,3774SK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663304,52.149
 De Maalsteen,8,,,3774SK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662946,52.149045
 De Maalsteen,9,,,3774SK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663331,52.149045
 De Maalsteen,10,,,3774SK,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.662953,52.148995
-Walhuisweg,2,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.664788,52.147510
 Walhuisweg,3,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666694,52.146915
 Walhuisweg,7,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666331,52.140766
 Walhuisweg,8,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.664927,52.145219
 Walhuisweg,10,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.665201,52.144643
 Walhuisweg,13,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.666711,52.138402
 Walhuisweg,14,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.663672,52.143101
-Walhuisweg,16,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.665350,52.142674
+Walhuisweg,16,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.665348,52.142692
 Walhuisweg,17,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.668304,52.137950
+Walhuisweg,18,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.665293,52.142628
 Walhuisweg,19,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.668454,52.137859
-Walhuisweg,20,A,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661309,52.141720
+Walhuisweg,20,A,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661484,52.140909
+Walhuisweg,20,B,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661628,52.141598
+Walhuisweg,20,C,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661338,52.141669
 Walhuisweg,20,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.661283,52.141875
 Walhuisweg,21,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.668472,52.138175
 Walhuisweg,23,,,3774TA,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.667595,52.137384
@@ -1758,10 +1712,12 @@ Laageinderweg,35,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.677988,52.1
 Laageinderweg,37,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.677987,52.140639
 Laageinderweg,39,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.679459,52.140336
 Laageinderweg,45,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680212,52.139115
-Laageinderweg,47,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680329,52.139016
+Laageinderweg,47,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680303,52.139013
 Laageinderweg,49,A,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680092,52.138718
 Laageinderweg,49,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680190,52.138621
-Laageinderweg,55,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.681618,52.137476
+Laageinderweg,55,A,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.681853,52.137614
+Laageinderweg,55,B,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.681675,52.137492
+Laageinderweg,55,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.681498,52.137421
 Laageinderweg,59,A,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680587,52.136076
 Laageinderweg,59,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.680102,52.135655
 Laageinderweg,61,,,3774TC,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.679792,52.135134
@@ -1778,7 +1734,7 @@ Laageinderweg,18,A,,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.674309,52.
 Laageinderweg,18,,,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.674144,52.142608
 Laageinderweg,26,,,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.676874,52.140139
 Laageinderweg,28,,,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.676577,52.139349
-Laageinderweg,30,,bis,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.674496,52.138369
+Laageinderweg,30,,bis,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.674650,52.138447
 Laageinderweg,30,,,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.674541,52.138527
 Laageinderweg,32,,,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.674468,52.138608
 Laageinderweg,34,,,3774TD,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.678533,52.139200
@@ -1874,7 +1830,6 @@ Hulstweg,20,,,3774TM,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.700067,52.141697
 Hulstweg,22,,,3774TM,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.700903,52.142073
 Hulstweg,24,,bis,3774TM,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702034,52.142658
 Hulstweg,24,,,3774TM,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.702018,52.142735
-Hulstweg,30,,,3774TM,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.706691,52.144411
 Hulstweg,30,,,3774TM,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.706733,52.144394
 Hulstweg,32,,,3774TM,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.707264,52.145049
 Hulstweg,34,,,3774TM,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.709844,52.146237
@@ -1892,7 +1847,6 @@ Dijkerweg,16,,,3774TN,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.708369,52.14267
 Dijkerweg,17,A,,3774TN,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.714999,52.143249
 Dijkerweg,17,B,,3774TN,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.714750,52.143335
 Dijkerweg,17,,,3774TN,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.714786,52.143230
-Dijkerweg,19,,,3774TN,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.719633,52.144384
 Dijkerweg,20,,,3774TN,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.709292,52.140558
 Dijkerweg,21,,,3774TN,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.720259,52.144087
 Dijkerweg,22,,,3774TN,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.709532,52.141474
@@ -1908,6 +1862,6 @@ Velkemeensedijk,21,,,3774TP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.721269,52
 Velkemeensedijk,25,,,3774TP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.717691,52.138629
 Velkemeensedijk,27,,bis,3774TP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.719314,52.138760
 Velkemeensedijk,27,,,3774TP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.719245,52.138895
-Velkemeensedijk,35,A,,3774TP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.720968,52.146534
 Velkemeensedijk,37,A,,3774TP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.720934,52.146918
+Velkemeensedijk,37,,01,3774TP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.720968,52.146534
 Velkemeensedijk,37,,,3774TP,Kootwijkerbroek,Barneveld,Gelderland,VBO,5.720540,52.146486

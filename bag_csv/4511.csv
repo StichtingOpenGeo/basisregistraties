@@ -144,6 +144,7 @@ Boulevard,134,,,4511AE,Breskens,Sluis,Zeeland,VBO,3.553593,51.399720
 Boulevard,136,,,4511AE,Breskens,Sluis,Zeeland,VBO,3.553505,51.399771
 Oesterput,2,,,4511AG,Breskens,Sluis,Zeeland,VBO,3.557342,51.397404
 Oesterput,4,,,4511AG,Breskens,Sluis,Zeeland,VBO,3.557467,51.397342
+Oesterput,5,A,,4511AG,Breskens,Sluis,Zeeland,VBO,3.557718,51.396868
 Oesterput,5,,,4511AG,Breskens,Sluis,Zeeland,VBO,3.557671,51.397335
 Oesterput,6,A,,4511AG,Breskens,Sluis,Zeeland,VBO,3.557921,51.397361
 Oesterput,6,,,4511AG,Breskens,Sluis,Zeeland,VBO,3.557961,51.397147
@@ -202,7 +203,8 @@ Strandstraat,4,,T,4511AJ,Breskens,Sluis,Zeeland,VBO,3.558861,51.397122
 Spuiplein,1,A,,4511AN,Breskens,Sluis,Zeeland,VBO,3.557828,51.396899
 Spuiplein,1,C,,4511AN,Breskens,Sluis,Zeeland,VBO,3.557971,51.396945
 Spuiplein,1,D,,4511AN,Breskens,Sluis,Zeeland,VBO,3.558121,51.396933
-Spuiplein,1,,,4511AN,Breskens,Sluis,Zeeland,VBO,3.557676,51.396843
+Spuiplein,1,,001,4511AN,Breskens,Sluis,Zeeland,VBO,3.557766,51.396863
+Spuiplein,1,,,4511AN,Breskens,Sluis,Zeeland,VBO,3.557650,51.396858
 Spuiplein,3,A,,4511AN,Breskens,Sluis,Zeeland,VBO,3.558411,51.396985
 Spuiplein,3,,,4511AN,Breskens,Sluis,Zeeland,VBO,3.558356,51.396939
 Spuiplein,5,,,4511AN,Breskens,Sluis,Zeeland,VBO,3.558497,51.396954
@@ -497,7 +499,8 @@ Steenoven,10,,,4511BL,Breskens,Sluis,Zeeland,VBO,3.562457,51.393520
 Steenoven,11,,,4511BL,Breskens,Sluis,Zeeland,VBO,3.562490,51.393457
 Steenoven,12,,,4511BL,Breskens,Sluis,Zeeland,VBO,3.562526,51.393386
 Papendrecht,2,,,4511BM,Breskens,Sluis,Zeeland,VBO,3.562512,51.394175
-Papendrecht,4,,,4511BM,Breskens,Sluis,Zeeland,VBO,3.562651,51.394338
+Papendrecht,4,A,,4511BM,Breskens,Sluis,Zeeland,VBO,3.562721,51.394204
+Papendrecht,4,,,4511BM,Breskens,Sluis,Zeeland,VBO,3.562668,51.394378
 Papendrecht,6,,,4511BM,Breskens,Sluis,Zeeland,VBO,3.565143,51.394355
 Papendrecht,9,,,4511BM,Breskens,Sluis,Zeeland,VBO,3.564632,51.394596
 Molenwater,1,,101,4511BN,Breskens,Sluis,Zeeland,VBO,3.561764,51.394970
@@ -2142,11 +2145,8 @@ Steigerschuit,1,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.551239,51.391141
 Steigerschuit,3,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.550954,51.391187
 Steigerschuit,4,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.551191,51.391441
 Steigerschuit,5,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.550704,51.391276
-Steigerschuit,6,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.550962,51.391496
-Steigerschuit,8,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.550756,51.391553
 Steigerschuit,10,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.550512,51.391630
 Steigerschuit,12,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.550280,51.391696
-Steigerschuit,14,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.549962,51.391703
 Steigerschuit,16,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.549683,51.391749
 Steigerschuit,20,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.549269,51.391740
 Steigerschuit,22,,,4511HX,Breskens,Sluis,Zeeland,VBO,3.549017,51.391712
@@ -2588,7 +2588,6 @@ Deltahoek,38,,7,4511PA,Breskens,Sluis,Zeeland,VBO,3.567761,51.391369
 Deltahoek,38,,8,4511PA,Breskens,Sluis,Zeeland,VBO,3.567730,51.391326
 Deltahoek,38,,9,4511PA,Breskens,Sluis,Zeeland,VBO,3.567691,51.391286
 Deltahoek,42,,,4511PA,Breskens,Sluis,Zeeland,VBO,3.569511,51.390978
-Deltahoek,44,A,,4511PA,Breskens,Sluis,Zeeland,VBO,3.570511,51.390146
 Deltahoek,44,,,4511PA,Breskens,Sluis,Zeeland,VBO,3.570692,51.390312
 Deltahoek,46,,,4511PA,Breskens,Sluis,Zeeland,VBO,3.571202,51.390721
 Deltahoek,106,,,4511PA,Breskens,Sluis,Zeeland,VBO,3.575029,51.392144
@@ -2780,7 +2779,6 @@ de Lente,27,,,4511PS,Breskens,Sluis,Zeeland,VBO,3.559308,51.390664
 de Lente,29,,,4511PS,Breskens,Sluis,Zeeland,VBO,3.559183,51.390438
 de Lente,31,,,4511PS,Breskens,Sluis,Zeeland,VBO,3.559501,51.390362
 de Lente,33,,,4511PS,Breskens,Sluis,Zeeland,VBO,3.559790,51.390312
-Dokweg,1,,,4511PW,Breskens,Sluis,Zeeland,VBO,3.576499,51.391465
 Dokweg,2,,,4511PW,Breskens,Sluis,Zeeland,VBO,3.575710,51.390759
 Dokweg,11,,,4511PW,Breskens,Sluis,Zeeland,VBO,3.577942,51.390263
 Veerhaven,2,,,4511RA,Breskens,Sluis,Zeeland,VBO,3.547962,51.400857
@@ -2847,9 +2845,46 @@ Nieuwesluisweg,30,,,4511RE,Breskens,Sluis,Zeeland,VBO,3.541855,51.404733
 Nieuwesluisweg,32,,,4511RE,Breskens,Sluis,Zeeland,VBO,3.541871,51.404820
 Nieuwesluisweg,34,,,4511RE,Breskens,Sluis,Zeeland,VBO,3.541537,51.404634
 Nieuwesluisweg,36,,,4511RE,Breskens,Sluis,Zeeland,VBO,3.541011,51.404528
-Nieuwesluisweg,44,,,4511RE,Breskens,Sluis,Zeeland,VBO,3.536596,51.405319
 Nieuwesluisweg,44,,,4511RE,Breskens,Sluis,Zeeland,VBO,3.536672,51.405346
 Nieuwesluisweg,50,,,4511RE,Breskens,Sluis,Zeeland,VBO,3.529833,51.405960
+Nieuwesluisweg,1,A,1031,4511RG,Breskens,Sluis,Zeeland,VBO,3.537654,51.401937
+Nieuwesluisweg,1,A,1050,4511RG,Breskens,Sluis,Zeeland,VBO,3.537109,51.403331
+Nieuwesluisweg,1,A,1052,4511RG,Breskens,Sluis,Zeeland,VBO,3.537049,51.403606
+Nieuwesluisweg,1,A,1053,4511RG,Breskens,Sluis,Zeeland,VBO,3.537014,51.403711
+Nieuwesluisweg,1,A,1054,4511RG,Breskens,Sluis,Zeeland,VBO,3.536951,51.403878
+Nieuwesluisweg,1,A,1055,4511RG,Breskens,Sluis,Zeeland,VBO,3.537049,51.404004
+Nieuwesluisweg,1,A,1206,4511RG,Breskens,Sluis,Zeeland,VBO,3.536567,51.402278
+Nieuwesluisweg,1,A,1208,4511RG,Breskens,Sluis,Zeeland,VBO,3.536412,51.402336
+Nieuwesluisweg,1,A,1209,4511RG,Breskens,Sluis,Zeeland,VBO,3.536277,51.402403
+Nieuwesluisweg,1,A,1210,4511RG,Breskens,Sluis,Zeeland,VBO,3.536024,51.402490
+Nieuwesluisweg,1,A,1214,4511RG,Breskens,Sluis,Zeeland,VBO,3.536637,51.402771
+Nieuwesluisweg,1,A,1215,4511RG,Breskens,Sluis,Zeeland,VBO,3.536803,51.402660
+Nieuwesluisweg,1,A,1216,4511RG,Breskens,Sluis,Zeeland,VBO,3.536726,51.402457
+Nieuwesluisweg,1,A,1218,4511RG,Breskens,Sluis,Zeeland,VBO,3.537114,51.402617
+Nieuwesluisweg,1,A,1401,4511RG,Breskens,Sluis,Zeeland,VBO,3.536925,51.403279
+Nieuwesluisweg,1,A,1403,4511RG,Breskens,Sluis,Zeeland,VBO,3.536592,51.403176
+Nieuwesluisweg,1,A,1404,4511RG,Breskens,Sluis,Zeeland,VBO,3.536416,51.403132
+Nieuwesluisweg,1,A,1405,4511RG,Breskens,Sluis,Zeeland,VBO,3.536324,51.403265
+Nieuwesluisweg,1,A,1406,4511RG,Breskens,Sluis,Zeeland,VBO,3.536269,51.403382
+Nieuwesluisweg,1,A,1407,4511RG,Breskens,Sluis,Zeeland,VBO,3.536701,51.403450
+Nieuwesluisweg,1,A,1408,4511RG,Breskens,Sluis,Zeeland,VBO,3.536880,51.403485
+Nieuwesluisweg,1,A,1500,4511RG,Breskens,Sluis,Zeeland,VBO,3.536362,51.403940
+Nieuwesluisweg,1,A,1501,4511RG,Breskens,Sluis,Zeeland,VBO,3.536844,51.403644
+Nieuwesluisweg,1,A,1502,4511RG,Breskens,Sluis,Zeeland,VBO,3.536637,51.403619
+Nieuwesluisweg,1,A,1503,4511RG,Breskens,Sluis,Zeeland,VBO,3.536497,51.403511
+Nieuwesluisweg,1,A,1504,4511RG,Breskens,Sluis,Zeeland,VBO,3.536208,51.403511
+Nieuwesluisweg,1,A,1505,4511RG,Breskens,Sluis,Zeeland,VBO,3.536144,51.403634
+Nieuwesluisweg,1,A,1506,4511RG,Breskens,Sluis,Zeeland,VBO,3.536076,51.403757
+Nieuwesluisweg,1,A,1507,4511RG,Breskens,Sluis,Zeeland,VBO,3.536374,51.403805
+Nieuwesluisweg,1,A,1508,4511RG,Breskens,Sluis,Zeeland,VBO,3.536704,51.403868
+Nieuwesluisweg,1,A,1510,4511RG,Breskens,Sluis,Zeeland,VBO,3.536010,51.403877
+Nieuwesluisweg,1,A,1511,4511RG,Breskens,Sluis,Zeeland,VBO,3.535945,51.404006
+Nieuwesluisweg,1,A,1512,4511RG,Breskens,Sluis,Zeeland,VBO,3.535865,51.404168
+Nieuwesluisweg,1,A,1513,4511RG,Breskens,Sluis,Zeeland,VBO,3.536060,51.404144
+Nieuwesluisweg,1,A,1514,4511RG,Breskens,Sluis,Zeeland,VBO,3.536258,51.404123
+Nieuwesluisweg,1,A,1515,4511RG,Breskens,Sluis,Zeeland,VBO,3.536463,51.404100
+Nieuwesluisweg,1,A,1516,4511RG,Breskens,Sluis,Zeeland,VBO,3.536666,51.404083
+Nieuwesluisweg,1,A,1517,4511RG,Breskens,Sluis,Zeeland,VBO,3.536846,51.404072
 Nieuwesluisweg,1,,002,4511RG,Breskens,Sluis,Zeeland,VBO,3.543402,51.402169
 Nieuwesluisweg,1,,004,4511RG,Breskens,Sluis,Zeeland,VBO,3.543179,51.402194
 Nieuwesluisweg,1,,005,4511RG,Breskens,Sluis,Zeeland,VBO,3.542222,51.402190
@@ -3059,7 +3094,6 @@ Nieuwesluisweg,1,,252,4511RG,Breskens,Sluis,Zeeland,VBO,3.540728,51.402951
 Nieuwesluisweg,1,,254,4511RG,Breskens,Sluis,Zeeland,VBO,3.540935,51.402990
 Nieuwesluisweg,1,,256,4511RG,Breskens,Sluis,Zeeland,VBO,3.541204,51.403001
 Nieuwesluisweg,1,,,4511RG,Breskens,Sluis,Zeeland,VBO,3.543507,51.401588
-Nieuwesluisweg,5,,,4511RG,Breskens,Sluis,Zeeland,VBO,3.536986,51.402981
 Nieuwesluisweg,7,,,4511RG,Breskens,Sluis,Zeeland,VBO,3.531915,51.404484
 Nieuwesluisweg,9,,,4511RG,Breskens,Sluis,Zeeland,VBO,3.531003,51.404381
 Nieuwesluisweg,11,,,4511RG,Breskens,Sluis,Zeeland,VBO,3.526130,51.404209
@@ -3184,6 +3218,7 @@ Kieweg,4,,,4511RP,Breskens,Sluis,Zeeland,VBO,3.535569,51.401981
 't Killetje,8,,,4511RR,Breskens,Sluis,Zeeland,VBO,3.505707,51.404404
 't Killetje,10,,,4511RR,Breskens,Sluis,Zeeland,VBO,3.505575,51.404807
 't Killetje,20,,,4511RR,Breskens,Sluis,Zeeland,VBO,3.504694,51.404851
+Panoramaweg,1,,,4511RS,Breskens,Sluis,Zeeland,VBO,3.521361,51.406913
 Wulpenlaan,1,,,4511XA,Breskens,Sluis,Zeeland,VBO,3.552584,51.399022
 Wulpenlaan,3,,,4511XA,Breskens,Sluis,Zeeland,VBO,3.552117,51.399089
 Wulpenlaan,5,,,4511XA,Breskens,Sluis,Zeeland,VBO,3.551547,51.399108

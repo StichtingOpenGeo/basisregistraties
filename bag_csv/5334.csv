@@ -53,10 +53,10 @@ Provincialeweg,51,,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.311441,51.772763
 Provincialeweg,53,,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.311427,51.772710
 Provincialeweg,55,,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.311369,51.772575
 Provincialeweg,57,,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.311311,51.772467
-Provincialeweg,59,b,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.311225,51.772211
+Provincialeweg,59,a,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.311501,51.772062
 Provincialeweg,59,c,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.310726,51.771685
 Provincialeweg,59,d,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.310609,51.771680
-Provincialeweg,59,,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.311501,51.772062
+Provincialeweg,59,,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.311225,51.772211
 Provincialeweg,61,a,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.310168,51.771603
 Provincialeweg,61,,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.310429,51.771639
 Provincialeweg,63,,,5334JD,Velddriel,Maasdriel,Gelderland,VBO,5.308676,51.771342
@@ -94,7 +94,6 @@ Provincialeweg,14,,,5334JH,Velddriel,Maasdriel,Gelderland,VBO,5.313017,51.783910
 Provincialeweg,36,,,5334JH,Velddriel,Maasdriel,Gelderland,VBO,5.312326,51.780692
 Provincialeweg,40,,,5334JH,Velddriel,Maasdriel,Gelderland,VBO,5.312661,51.779748
 Provincialeweg,50,,,5334JJ,Velddriel,Maasdriel,Gelderland,VBO,5.311725,51.776242
-Provincialeweg,54,,,5334JJ,Velddriel,Maasdriel,Gelderland,VBO,5.311268,51.774982
 Provincialeweg,54,,,5334JJ,Velddriel,Maasdriel,Gelderland,VBO,5.311423,51.775002
 Provincialeweg,64,,,5334JJ,Velddriel,Maasdriel,Gelderland,VBO,5.309341,51.772259
 Provincialeweg,66,,,5334JJ,Velddriel,Maasdriel,Gelderland,VBO,5.308849,51.772016
@@ -426,6 +425,7 @@ Pastoor Wassenbergstraat,20,,,5334KG,Velddriel,Maasdriel,Gelderland,VBO,5.305309
 Pastoor Wassenbergstraat,22,,,5334KG,Velddriel,Maasdriel,Gelderland,VBO,5.305425,51.766665
 Pastoor Wassenbergstraat,24,,,5334KG,Velddriel,Maasdriel,Gelderland,VBO,5.305512,51.766486
 Pastoor Dingsplein,2,,,5334KH,Velddriel,Maasdriel,Gelderland,VBO,5.305024,51.769886
+Kromakkerweg,1,a,,5334KJ,Velddriel,Maasdriel,Gelderland,VBO,5.303581,51.771285
 Kromakkerweg,1,,,5334KJ,Velddriel,Maasdriel,Gelderland,VBO,5.303895,51.771410
 Kromakkerweg,5,,,5334KJ,Velddriel,Maasdriel,Gelderland,VBO,5.305010,51.771734
 Kromakkerweg,9,,,5334KJ,Velddriel,Maasdriel,Gelderland,VBO,5.306473,51.772086
@@ -512,7 +512,7 @@ De Tweede Geerden,4,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.288112,51.7578
 De Tweede Geerden,6,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.288538,51.758002
 De Tweede Geerden,8,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.289089,51.757863
 De Tweede Geerden,9,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.289363,51.758402
-De Tweede Geerden,10,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.292020,51.756917
+De Tweede Geerden,10,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.292099,51.756844
 De Tweede Geerden,11,a,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.290372,51.757910
 De Tweede Geerden,11,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.290561,51.757853
 De Tweede Geerden,13,a,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.291030,51.757774
@@ -524,7 +524,6 @@ De Tweede Geerden,21,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.293681,51.757
 De Tweede Geerden,23,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.293233,51.756706
 De Tweede Geerden,25,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.292851,51.756282
 De Tweede Geerden,27,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.292945,51.756041
-De Tweede Geerden,33,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.291368,51.755019
 De Tweede Geerden,35,,,5334LH,Velddriel,Maasdriel,Gelderland,VBO,5.290760,51.755884
 Koestraat,1,,,5334LJ,Velddriel,Maasdriel,Gelderland,VBO,5.312896,51.777699
 Koestraat,4,,,5334LJ,Velddriel,Maasdriel,Gelderland,VBO,5.312678,51.778247
@@ -543,7 +542,6 @@ Koestraat,24,,,5334LJ,Velddriel,Maasdriel,Gelderland,VBO,5.305828,51.779899
 Koestraat,26,,,5334LJ,Velddriel,Maasdriel,Gelderland,VBO,5.305445,51.779869
 Koestraat,28,,,5334LJ,Velddriel,Maasdriel,Gelderland,VBO,5.304918,51.780076
 Koestraat,30,,,5334LJ,Velddriel,Maasdriel,Gelderland,VBO,5.303604,51.780201
-Koestraat,32,,,5334LJ,Velddriel,Maasdriel,Gelderland,VBO,5.302971,51.780292
 Oude Weistraat,1,,,5334LK,Velddriel,Maasdriel,Gelderland,VBO,5.310725,51.776529
 Oude Weistraat,5,,,5334LK,Velddriel,Maasdriel,Gelderland,VBO,5.308058,51.776779
 Oude Weistraat,7,,,5334LK,Velddriel,Maasdriel,Gelderland,VBO,5.307855,51.776833
@@ -596,7 +594,6 @@ Sellikstraat,8,,,5334NR,Velddriel,Maasdriel,Gelderland,VBO,5.294858,51.762505
 Sellikstraat,10,,,5334NR,Velddriel,Maasdriel,Gelderland,VBO,5.295336,51.762433
 Laarstraat,1,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.324709,51.764682
 Laarstraat,2,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.322304,51.765373
-Laarstraat,3,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.323616,51.764617
 Laarstraat,6,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.320696,51.765479
 Laarstraat,7,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.309295,51.765221
 Laarstraat,13,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.307833,51.764941
@@ -613,6 +610,7 @@ Laarstraat,29,a,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.302998,51.763131
 Laarstraat,29,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.303316,51.763203
 Laarstraat,31,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.302650,51.763005
 Laarstraat,32,a,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.302069,51.763832
+Laarstraat,32,b,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.301916,51.763346
 Laarstraat,32,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.302765,51.763913
 Laarstraat,34,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.300883,51.763112
 Laarstraat,36,,,5334NS,Velddriel,Maasdriel,Gelderland,VBO,5.300102,51.762734

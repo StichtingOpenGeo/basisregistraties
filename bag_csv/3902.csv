@@ -507,6 +507,7 @@ Hofstede,19,,,3902CG,Veenendaal,Veenendaal,Utrecht,VBO,5.572433,52.035722
 Hofstede,21,,,3902CG,Veenendaal,Veenendaal,Utrecht,VBO,5.572439,52.035671
 Hofstede,23,,,3902CG,Veenendaal,Veenendaal,Utrecht,VBO,5.572431,52.035628
 Hofstede,25,,,3902CG,Veenendaal,Veenendaal,Utrecht,VBO,5.572436,52.035577
+Hofstede,27,A,,3902CG,Veenendaal,Veenendaal,Utrecht,VBO,5.572412,52.035052
 Hofstede,27,,,3902CG,Veenendaal,Veenendaal,Utrecht,VBO,5.572830,52.035232
 Hofstede,29,,,3902CH,Veenendaal,Veenendaal,Utrecht,VBO,5.571962,52.034514
 Hofstede,31,,,3902CH,Veenendaal,Veenendaal,Utrecht,VBO,5.571955,52.034451
@@ -1588,10 +1589,8 @@ Rauweveldseweg,1,,,3902HC,Veenendaal,Veenendaal,Utrecht,VBO,5.585551,52.011251
 Rauweveldseweg,2,,,3902HD,Veenendaal,Veenendaal,Utrecht,VBO,5.585333,52.011764
 Grebbeweg,1,B,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.570150,52.020339
 Grebbeweg,1,C,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.569840,52.020742
-Grebbeweg,1,D,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.570492,52.020207
 Grebbeweg,1,E,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.570834,52.020020
 Grebbeweg,1,G,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.572147,52.020151
-Grebbeweg,1,,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.569104,52.021452
 Grebbeweg,3,A,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.572764,52.018752
 Grebbeweg,3,,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.572554,52.019868
 Grebbeweg,5,,,3902HG,Veenendaal,Veenendaal,Utrecht,VBO,5.575201,52.017660
@@ -1681,8 +1680,7 @@ Spitsbergenweg,79,,,3902HM,Veenendaal,Veenendaal,Utrecht,VBO,5.578995,52.027032
 Spitsbergenweg,81,,,3902HM,Veenendaal,Veenendaal,Utrecht,VBO,5.579076,52.026837
 Einsteinstraat,1,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568475,52.037323
 Einsteinstraat,2,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.569336,52.037485
-Einsteinstraat,4,A,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.569574,52.037672
-Einsteinstraat,4,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.569356,52.037678
+Einsteinstraat,4,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.569446,52.037753
 Einsteinstraat,10,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.569363,52.038085
 Einsteinstraat,12,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.569634,52.038088
 Einsteinstraat,13,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.567422,52.037639
@@ -1699,11 +1697,11 @@ Einsteinstraat,22,A,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.569797,52.038878
 Einsteinstraat,22,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.569679,52.038881
 Einsteinstraat,23,A,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568045,52.038021
 Einsteinstraat,23,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568075,52.038020
-Einsteinstraat,25,A,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568056,52.038251
 Einsteinstraat,25,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568125,52.038142
 Einsteinstraat,27,A,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568442,52.038333
 Einsteinstraat,27,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568379,52.038267
 Einsteinstraat,29,A,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568572,52.038299
+Einsteinstraat,29,B,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568577,52.038338
 Einsteinstraat,29,,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568702,52.038278
 Einsteinstraat,31,A,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568397,52.038420
 Einsteinstraat,31,B,,3902HN,Veenendaal,Veenendaal,Utrecht,VBO,5.568232,52.038445
@@ -1744,13 +1742,16 @@ Newtonstraat,9,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.575295,52.036530
 Newtonstraat,12,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.577266,52.037369
 Newtonstraat,15,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.575782,52.036815
 Newtonstraat,17,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.575962,52.036921
-Newtonstraat,19,A,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576159,52.036917
-Newtonstraat,19,B,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576158,52.036944
-Newtonstraat,19,C,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576303,52.036901
-Newtonstraat,19,E,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576310,52.036927
-Newtonstraat,19,F,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576314,52.036954
-Newtonstraat,19,,01,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576287,52.036975
-Newtonstraat,19,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576169,52.036889
+Newtonstraat,19,A,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576365,52.036982
+Newtonstraat,19,B,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576174,52.036901
+Newtonstraat,19,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576322,52.036896
+Newtonstraat,21,A,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576438,52.036949
+Newtonstraat,21,B,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576229,52.037122
+Newtonstraat,21,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576195,52.036959
+Newtonstraat,23,A,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576281,52.037155
+Newtonstraat,23,B,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576108,52.037162
+Newtonstraat,23,C,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.575953,52.037125
+Newtonstraat,23,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576420,52.037148
 Newtonstraat,24,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.578038,52.036666
 Newtonstraat,25,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.576360,52.037353
 Newtonstraat,26,,,3902HP,Veenendaal,Veenendaal,Utrecht,VBO,5.577877,52.036708
@@ -1802,41 +1803,6 @@ Planckstraat,42,,,3902HS,Veenendaal,Veenendaal,Utrecht,VBO,5.578667,52.035254
 Planckstraat,44,,,3902HS,Veenendaal,Veenendaal,Utrecht,VBO,5.578659,52.035120
 Planckstraat,46,,,3902HS,Veenendaal,Veenendaal,Utrecht,VBO,5.578958,52.035307
 Planckstraat,48,,,3902HS,Veenendaal,Veenendaal,Utrecht,VBO,5.578938,52.035076
-Petrus Planciusstraat,1,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579143,52.031519
-Petrus Planciusstraat,2,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579170,52.031825
-Petrus Planciusstraat,3,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579223,52.031519
-Petrus Planciusstraat,4,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579259,52.031822
-Petrus Planciusstraat,5,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579298,52.031514
-Petrus Planciusstraat,6,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579352,52.031819
-Petrus Planciusstraat,7,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579376,52.031514
-Petrus Planciusstraat,8,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579441,52.031816
-Petrus Planciusstraat,9,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579461,52.031514
-Petrus Planciusstraat,10,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579526,52.031811
-Petrus Planciusstraat,11,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579534,52.031511
-Petrus Planciusstraat,12,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579620,52.031810
-Petrus Planciusstraat,13,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579614,52.031506
-Petrus Planciusstraat,14,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579703,52.031807
-Petrus Planciusstraat,15,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579691,52.031502
-Petrus Planciusstraat,16,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579790,52.031803
-Petrus Planciusstraat,17,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579779,52.031499
-Petrus Planciusstraat,18,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579107,52.031379
-Petrus Planciusstraat,19,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579075,52.031073
-Petrus Planciusstraat,20,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579187,52.031379
-Petrus Planciusstraat,21,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579159,52.031073
-Petrus Planciusstraat,22,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579260,52.031378
-Petrus Planciusstraat,23,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579236,52.031070
-Petrus Planciusstraat,24,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579339,52.031375
-Petrus Planciusstraat,25,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579316,52.031067
-Petrus Planciusstraat,26,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579421,52.031369
-Petrus Planciusstraat,27,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579397,52.031064
-Petrus Planciusstraat,28,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579496,52.031369
-Petrus Planciusstraat,29,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579477,52.031057
-Petrus Planciusstraat,30,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579576,52.031365
-Petrus Planciusstraat,31,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579552,52.031055
-Petrus Planciusstraat,32,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579651,52.031364
-Petrus Planciusstraat,33,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579631,52.031055
-Petrus Planciusstraat,34,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579735,52.031363
-Petrus Planciusstraat,35,,,3902HX,Veenendaal,Veenendaal,Utrecht,VBO,5.579711,52.031054
 Rondweg-oost,11,,,3902HZ,Veenendaal,Veenendaal,Utrecht,VBO,5.579832,52.030324
 Ruiterijweg,1,,,3902JA,Veenendaal,Veenendaal,Utrecht,VBO,5.577962,52.024423
 Ruiterijweg,2,,,3902JA,Veenendaal,Veenendaal,Utrecht,VBO,5.576762,52.026582

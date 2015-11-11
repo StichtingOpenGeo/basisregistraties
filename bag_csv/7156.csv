@@ -3,10 +3,9 @@ Grutto,6,,,7156HA,Beltrum,Berkelland,Gelderland,VBO,6.564997,52.065687
 Grutto,8,,,7156HA,Beltrum,Berkelland,Gelderland,VBO,6.565069,52.065665
 Grutto,10,,,7156HA,Beltrum,Berkelland,Gelderland,VBO,6.565132,52.065631
 Grutto,12,,,7156HA,Beltrum,Berkelland,Gelderland,VBO,6.565194,52.065600
-Grutto,18,,,7156HA,Beltrum,Berkelland,Gelderland,VBO,6.565656,52.065361
-Grutto,20,,,7156HA,Beltrum,Berkelland,Gelderland,VBO,6.565835,52.065262
 Bruinvisweg,1,,,7156JA,Beltrum,Berkelland,Gelderland,VBO,6.600965,52.055810
-Bruinvisweg,2,,,7156JA,Beltrum,Berkelland,Gelderland,VBO,6.598117,52.056693
+Bruinvisweg,2,a,,7156JA,Beltrum,Berkelland,Gelderland,VBO,6.598428,52.056727
+Bruinvisweg,2,,,7156JA,Beltrum,Berkelland,Gelderland,VBO,6.598431,52.056606
 Bruinvisweg,4,,,7156JA,Beltrum,Berkelland,Gelderland,VBO,6.603856,52.053784
 Deventer Kunstweg,11,,,7156JA,Beltrum,Berkelland,Gelderland,VBO,6.606018,52.065699
 Deventer Kunstweg,20,,,7156JA,Beltrum,Berkelland,Gelderland,VBO,6.604895,52.051769
@@ -177,6 +176,7 @@ Veldpapendijk,1,,,7156KA,Beltrum,Berkelland,Gelderland,VBO,6.583320,52.042102
 Veldpapendijk,2,a,,7156KA,Beltrum,Berkelland,Gelderland,VBO,6.582524,52.041130
 Veldpapendijk,2,,,7156KA,Beltrum,Berkelland,Gelderland,VBO,6.582679,52.041131
 Veldpapendijk,3,a,,7156KA,Beltrum,Berkelland,Gelderland,VBO,6.583328,52.041311
+Veldpapendijk,3,b,,7156KA,Beltrum,Berkelland,Gelderland,VBO,6.583713,52.040965
 Veldpapendijk,3,,,7156KA,Beltrum,Berkelland,Gelderland,VBO,6.583250,52.041123
 Veldpapendijk,4,,,7156KA,Beltrum,Berkelland,Gelderland,VBO,6.581212,52.040648
 Veldpapendijk,5,a,,7156KA,Beltrum,Berkelland,Gelderland,VBO,6.585779,52.038658
@@ -203,7 +203,6 @@ Helbargsweg,1,,,7156LA,Beltrum,Berkelland,Gelderland,VBO,6.593830,52.054854
 Helbargsweg,2,,,7156LA,Beltrum,Berkelland,Gelderland,VBO,6.592224,52.054461
 Helbargsweg,3,,,7156LA,Beltrum,Berkelland,Gelderland,VBO,6.593693,52.054320
 Grolseweg,19,,,7156LB,Beltrum,Berkelland,Gelderland,VBO,6.582227,52.055228
-Grolseweg,19,,,7156LB,Beltrum,Berkelland,Gelderland,VBO,6.582565,52.054865
 Grolseweg,21,,,7156LB,Beltrum,Berkelland,Gelderland,VBO,6.583622,52.054486
 Grolseweg,22,,,7156LB,Beltrum,Berkelland,Gelderland,VBO,6.584252,52.053527
 Grolseweg,24,,,7156LB,Beltrum,Berkelland,Gelderland,VBO,6.585303,52.053022
@@ -235,11 +234,12 @@ Grolseweg,3,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.568129,52.063029
 Grolseweg,4,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.567967,52.062410
 Grolseweg,5,a,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.571796,52.059972
 Grolseweg,5,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.571824,52.059927
-Grolseweg,6,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.568078,52.061663
+Grolseweg,6,a,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.568148,52.061621
+Grolseweg,6,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.568044,52.061683
 Grolseweg,7,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.572423,52.058887
 Grolseweg,8,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.570107,52.060645
 Grolseweg,10,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.570681,52.060280
-Grolseweg,12,a,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.571225,52.059559
+Grolseweg,12,a,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.571291,52.059567
 Grolseweg,12,,,7156LD,Beltrum,Berkelland,Gelderland,VBO,6.571375,52.059500
 Avesterweg,28,,,7156LE,Beltrum,Berkelland,Gelderland,VBO,6.568363,52.068591
 Avesterweg,30,a,,7156LE,Beltrum,Berkelland,Gelderland,VBO,6.570680,52.069044
@@ -587,6 +587,7 @@ Mariaplein,12,,,7156MG,Beltrum,Berkelland,Gelderland,VBO,6.562477,52.066618
 Avesterweg,1,a,,7156MH,Beltrum,Berkelland,Gelderland,VBO,6.564858,52.068744
 Avesterweg,1,b,,7156MH,Beltrum,Berkelland,Gelderland,VBO,6.564664,52.068586
 Avesterweg,1,,T01,7156MH,Beltrum,Berkelland,Gelderland,VBO,6.564994,52.069418
+Avesterweg,1,,T02,7156MH,Beltrum,Berkelland,Gelderland,VBO,6.567046,52.068758
 Avesterweg,1,,,7156MH,Beltrum,Berkelland,Gelderland,VBO,6.564968,52.068669
 Avesterweg,3,,,7156MH,Beltrum,Berkelland,Gelderland,VBO,6.569740,52.069377
 Avesterweg,4,,,7156MH,Beltrum,Berkelland,Gelderland,VBO,6.564316,52.067786
@@ -758,17 +759,13 @@ Bellegoorsweg,1,,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.567227,52.094625
 Bellegoorsweg,2,,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.568872,52.092820
 Bellegoorsweg,4,,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.570123,52.093203
 Bellegoorsweg,6,,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.573368,52.092864
-Bellegoorsweg,8,a,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.577570,52.092036
-Bellegoorsweg,8,b,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.577516,52.092020
-Bellegoorsweg,8,c,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.577525,52.092066
-Bellegoorsweg,8,d,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.577455,52.092055
-Bellegoorsweg,8,e,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.577433,52.092097
-Bellegoorsweg,8,f,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.577409,52.092050
+Bellegoorsweg,8,a,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.577554,52.092035
 Bellegoorsweg,8,,,7156NA,Beltrum,Berkelland,Gelderland,VBO,6.577729,52.092227
 Bruggertweg,1,a,,7156NB,Beltrum,Berkelland,Gelderland,VBO,6.555506,52.086175
 Bruggertweg,1,,,7156NB,Beltrum,Berkelland,Gelderland,VBO,6.556149,52.088461
 Bruggertweg,2,,,7156NB,Beltrum,Berkelland,Gelderland,VBO,6.562488,52.087580
 Bruggertweg,3,a,,7156NB,Beltrum,Berkelland,Gelderland,VBO,6.561874,52.089735
+Bruggertweg,3,b,,7156NB,Beltrum,Berkelland,Gelderland,VBO,6.561501,52.089302
 Bruggertweg,3,c,,7156NB,Beltrum,Berkelland,Gelderland,VBO,6.561250,52.089376
 Bruggertweg,3,,,7156NB,Beltrum,Berkelland,Gelderland,VBO,6.561448,52.089658
 Bruggertweg,4,,,7156NB,Beltrum,Berkelland,Gelderland,VBO,6.563048,52.091682
@@ -781,7 +778,8 @@ Zwarteweg,10,,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.558077,52.081835
 Zwarteweg,12,,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.554737,52.083567
 Zwarteweg,14,,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.553970,52.084914
 Zwarteweg,15,,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.553215,52.083924
-Zwarteweg,17,,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.546267,52.088891
+Zwarteweg,17,a,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.546329,52.088922
+Zwarteweg,17,,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.546255,52.088869
 Zwarteweg,18,,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.551345,52.086648
 Zwarteweg,20,,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.550626,52.088174
 Zwarteweg,21,a,,7156NC,Beltrum,Berkelland,Gelderland,VBO,6.541784,52.089815
@@ -795,6 +793,7 @@ Heelweg,12,,,7156ND,Beltrum,Berkelland,Gelderland,VBO,6.539902,52.083686
 Heelweg,14,a,,7156ND,Beltrum,Berkelland,Gelderland,VBO,6.536924,52.083761
 Heelweg,14,,,7156ND,Beltrum,Berkelland,Gelderland,VBO,6.536813,52.083818
 Heelweg,16,a,,7156ND,Beltrum,Berkelland,Gelderland,VBO,6.540443,52.086818
+Heelweg,16,b,,7156ND,Beltrum,Berkelland,Gelderland,VBO,6.540510,52.086373
 Heelweg,16,,,7156ND,Beltrum,Berkelland,Gelderland,VBO,6.540331,52.086756
 Heelweg,18,,,7156ND,Beltrum,Berkelland,Gelderland,VBO,6.536622,52.086640
 Heelweg,19,,,7156ND,Beltrum,Berkelland,Gelderland,VBO,6.540443,52.079780
@@ -828,6 +827,7 @@ Kooigootsweg,5,,,7156NG,Beltrum,Berkelland,Gelderland,VBO,6.529581,52.076437
 Kooigootsweg,7,a,,7156NG,Beltrum,Berkelland,Gelderland,VBO,6.527457,52.077359
 Kooigootsweg,7,,,7156NG,Beltrum,Berkelland,Gelderland,VBO,6.527917,52.077073
 Kooigootsweg,9,,,7156NG,Beltrum,Berkelland,Gelderland,VBO,6.526345,52.077877
+Peppelendijk,6,a,,7156NG,Beltrum,Berkelland,Gelderland,VBO,6.537443,52.071060
 Peppelendijk,6,,,7156NG,Beltrum,Berkelland,Gelderland,VBO,6.537475,52.071036
 Peppelendijk,8,,,7156NG,Beltrum,Berkelland,Gelderland,VBO,6.533908,52.068799
 Velddijk,3,a,,7156NG,Beltrum,Berkelland,Gelderland,VBO,6.528412,52.081030
@@ -930,11 +930,9 @@ Spilmansdijk,5,,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.590729,52.073155
 Spilmansdijk,6,,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.593383,52.067726
 Spilmansdijk,7,,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.597721,52.070639
 Spilmansdijk,8,,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.593501,52.068857
-Spilmansdijk,9,a,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.599358,52.071358
-Spilmansdijk,9,b,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.599210,52.071285
-Spilmansdijk,9,,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.599834,52.071624
 Spilmansdijk,10,,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.597757,52.069802
 Spilmansdijk,12,,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.598772,52.069028
+Spilmansdijk,13,,,7156NV,Beltrum,Berkelland,Gelderland,VBO,6.599839,52.071647
 Deventer Kunstweg,1,a,,7156NW,Beltrum,Berkelland,Gelderland,VBO,6.582360,52.088763
 Deventer Kunstweg,1,,,7156NW,Beltrum,Berkelland,Gelderland,VBO,6.582509,52.088860
 Deventer Kunstweg,2,a,,7156NW,Beltrum,Berkelland,Gelderland,VBO,6.570518,52.090485
@@ -1188,7 +1186,6 @@ Frankweg,8,,,7156SG,Beltrum,Berkelland,Gelderland,VBO,6.581512,52.044278
 Frankweg,12,,,7156SG,Beltrum,Berkelland,Gelderland,VBO,6.581516,52.043882
 Ringweg,29,,,7156SG,Beltrum,Berkelland,Gelderland,VBO,6.586211,52.050460
 Ringweg,31,,,7156SG,Beltrum,Berkelland,Gelderland,VBO,6.587604,52.051290
-Ringweg,31,,,7156SG,Beltrum,Berkelland,Gelderland,VBO,6.587888,52.051470
 Ringweg,34,,,7156SG,Beltrum,Berkelland,Gelderland,VBO,6.588899,52.049560
 Ringweg,36,,,7156SG,Beltrum,Berkelland,Gelderland,VBO,6.588659,52.049868
 Gunninkweg,1,a,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.587375,52.047202
@@ -1204,7 +1201,8 @@ Ringweg,25,,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.586883,52.042893
 Ringweg,26,a,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.585945,52.042147
 Ringweg,26,,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.581363,52.042518
 Ringweg,27,a,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.590695,52.045308
-Ringweg,27,,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.590259,52.045933
+Ringweg,27,b,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.590304,52.045932
+Ringweg,27,,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.590474,52.045934
 Ringweg,28,,01,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.586608,52.041393
 Ringweg,28,,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.587856,52.041652
 Ringweg,30,a,,7156SH,Beltrum,Berkelland,Gelderland,VBO,6.589345,52.042293

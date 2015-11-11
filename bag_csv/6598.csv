@@ -109,7 +109,6 @@ Erfsebosweg,26,,,6598AJ,Heijen,Gennep,Limburg,VBO,5.999737,51.654972
 Erfsebosweg,27,,,6598AJ,Heijen,Gennep,Limburg,VBO,6.000274,51.655167
 Erfsebosweg,28,,,6598AJ,Heijen,Gennep,Limburg,VBO,5.999784,51.655269
 Erfsebosweg,29,,,6598AJ,Heijen,Gennep,Limburg,VBO,5.999368,51.655487
-Erfsebosweg,30,,,6598AJ,Heijen,Gennep,Limburg,VBO,5.999700,51.655762
 Erfsebosweg,31,,,6598AJ,Heijen,Gennep,Limburg,VBO,6.000032,51.655456
 Erfsebosweg,32,a,,6598AJ,Heijen,Gennep,Limburg,VBO,6.000635,51.655183
 Erfsebosweg,32,,,6598AJ,Heijen,Gennep,Limburg,VBO,6.000110,51.655887
@@ -305,6 +304,7 @@ Nieuwwijkstraat,33,,,6598AT,Heijen,Gennep,Limburg,VBO,5.982778,51.675257
 Nieuwwijkstraat,35,,,6598AT,Heijen,Gennep,Limburg,VBO,5.983183,51.675309
 Nieuwwijkstraat,37,,,6598AT,Heijen,Gennep,Limburg,VBO,5.983472,51.675326
 De Groote Heeze,2,,,6598AV,Heijen,Gennep,Limburg,VBO,5.975915,51.677836
+De Groote Heeze,3,,,6598AV,Heijen,Gennep,Limburg,VBO,5.976003,51.677367
 De Groote Heeze,4,,,6598AV,Heijen,Gennep,Limburg,VBO,5.976410,51.678094
 De Groote Heeze,5,,,6598AV,Heijen,Gennep,Limburg,VBO,5.976663,51.677563
 De Groote Heeze,6,a,,6598AV,Heijen,Gennep,Limburg,VBO,5.976315,51.678580
@@ -768,7 +768,7 @@ Kranenveld,27,,,6598CH,Heijen,Gennep,Limburg,VBO,5.981480,51.670042
 Kranenveld,31,,,6598CH,Heijen,Gennep,Limburg,VBO,5.981883,51.669860
 Kranenveld,33,,,6598CH,Heijen,Gennep,Limburg,VBO,5.982170,51.669750
 Kranenveld,35,,,6598CH,Heijen,Gennep,Limburg,VBO,5.982347,51.669649
-Kranenveld,18,a,,6598CJ,Heijen,Gennep,Limburg,VBO,5.980312,51.670263
+Kranenveld,18,a,,6598CJ,Heijen,Gennep,Limburg,VBO,5.980259,51.670160
 Kranenveld,18,,,6598CJ,Heijen,Gennep,Limburg,VBO,5.980355,51.670236
 Kranenveld,24,,,6598CJ,Heijen,Gennep,Limburg,VBO,5.980843,51.669955
 Kranenveld,30,,,6598CJ,Heijen,Gennep,Limburg,VBO,5.981418,51.669673
@@ -850,7 +850,8 @@ Schaafsebosweg,1,,,6598DB,Heijen,Gennep,Limburg,VBO,5.990990,51.657921
 Schaafsebosweg,3,,,6598DB,Heijen,Gennep,Limburg,VBO,5.993116,51.659124
 Schaafsebosweg,5,,,6598DB,Heijen,Gennep,Limburg,VBO,5.994015,51.658328
 Schaafsebosweg,6,,,6598DB,Heijen,Gennep,Limburg,VBO,5.992825,51.656815
-Schaafsebosweg,10,,,6598DB,Heijen,Gennep,Limburg,VBO,5.996342,51.657372
+Schaafsebosweg,10,,,6598DB,Heijen,Gennep,Limburg,VBO,5.996239,51.657375
+Schaafsebosweg,12,,,6598DB,Heijen,Gennep,Limburg,VBO,6.000051,51.658094
 Sleeweg,1,,,6598DE,Heijen,Gennep,Limburg,VBO,5.991863,51.655166
 Sleeweg,3,,,6598DE,Heijen,Gennep,Limburg,VBO,5.993901,51.655155
 Sleeweg,7,,,6598DE,Heijen,Gennep,Limburg,VBO,5.994937,51.654818
@@ -892,8 +893,8 @@ De Grens,35,a,,6598DK,Heijen,Gennep,Limburg,VBO,5.990645,51.662021
 De Grens,35,b,,6598DK,Heijen,Gennep,Limburg,VBO,5.990686,51.661933
 De Grens,35,c,,6598DK,Heijen,Gennep,Limburg,VBO,5.990712,51.661852
 De Grens,35,d,,6598DK,Heijen,Gennep,Limburg,VBO,5.990768,51.661763
-De Grens,35,e,,6598DK,Heijen,Gennep,Limburg,VBO,5.990794,51.661697
-De Grens,35,,,6598DK,Heijen,Gennep,Limburg,VBO,5.990504,51.662012
+De Grens,35,e,,6598DK,Heijen,Gennep,Limburg,VBO,5.990993,51.661913
+De Grens,35,,,6598DK,Heijen,Gennep,Limburg,VBO,5.990520,51.662042
 De Grens,37,,,6598DK,Heijen,Gennep,Limburg,VBO,5.990874,51.661194
 De Grens,39,,,6598DK,Heijen,Gennep,Limburg,VBO,5.991774,51.661459
 De Grens,41,,,6598DK,Heijen,Gennep,Limburg,VBO,5.992347,51.660849
@@ -1775,9 +1776,7 @@ Brugfortstraat,2,,,6598ME,Heijen,Gennep,Limburg,VBO,6.022437,51.671247
 Brugfortstraat,3,,,6598ME,Heijen,Gennep,Limburg,VBO,6.021892,51.673641
 Brugfortstraat,5,t,,6598ME,Heijen,Gennep,Limburg,VBO,6.025097,51.670489
 Brugfortstraat,5,,,6598ME,Heijen,Gennep,Limburg,VBO,6.022203,51.672093
-Nieuw Erf,7,,,6598MG,Heijen,Gennep,Limburg,VBO,6.022078,51.667416
 Nieuw Erf,8,,,6598MG,Heijen,Gennep,Limburg,VBO,6.022293,51.668218
-Nieuw Erf,9,,,6598MG,Heijen,Gennep,Limburg,VBO,6.020477,51.666082
 Nieuw Erf,10,,,6598MG,Heijen,Gennep,Limburg,VBO,6.018579,51.665173
 Nieuw Erf,14,,,6598MG,Heijen,Gennep,Limburg,VBO,6.019527,51.663694
 Nieuw Erf,15,,,6598MG,Heijen,Gennep,Limburg,VBO,6.021899,51.662818
@@ -1792,7 +1791,6 @@ Kamperweg,6,,,6598MJ,Heijen,Gennep,Limburg,VBO,6.028052,51.675764
 Karrevenseweg,13,,,6598MK,Heijen,Gennep,Limburg,VBO,5.993620,51.666573
 Koore Venweg,2,,,6598ML,Heijen,Gennep,Limburg,VBO,6.001477,51.660725
 Koore Venweg,4,,,6598ML,Heijen,Gennep,Limburg,VBO,6.000642,51.661017
-Veedijk,5,,,6598MM,Heijen,Gennep,Limburg,VBO,6.024042,51.682287
 Schaafsebosweg,11,,,6598MN,Heijen,Gennep,Limburg,VBO,6.004544,51.660969
 Erfsebosweg,109,,,6598MP,Heijen,Gennep,Limburg,VBO,6.005983,51.658427
 Beekweg,1,,,6598MR,Heijen,Gennep,Limburg,VBO,6.003758,51.669413
@@ -1801,4 +1799,3 @@ Heiweg langs de Black,12,,,6598MT,Heijen,Gennep,Limburg,VBO,5.999731,51.681282
 Boxmeerseweg,60,,,6598MX,Heijen,Gennep,Limburg,VBO,5.975786,51.663464
 Boxmeerseweg,61,,,6598MX,Heijen,Gennep,Limburg,VBO,5.969943,51.655331
 Boxmeerseweg,62,t,,6598MX,Heijen,Gennep,Limburg,VBO,5.976140,51.662932
-Boxmeerseweg,63,,,6598MX,Heijen,Gennep,Limburg,VBO,5.969693,51.655045

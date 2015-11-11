@@ -32,7 +32,6 @@ Voorstraat,20,,,1779AD,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.032798,52.93
 Voorstraat,28,,,1779AD,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033233,52.935446
 Voorstraat,32,,,1779AD,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033239,52.935332
 Voorstraat,34,,,1779AD,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033504,52.935366
-Spuitsteeg,2,,,1779AE,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033022,52.935209
 Spuitsteeg,4,,,1779AE,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033187,52.935206
 Spuitsteeg,6,,,1779AE,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033231,52.935165
 Spuitsteeg,7,,,1779AE,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033983,52.934977
@@ -87,6 +86,7 @@ Gasthuisweg,42,,,1779AJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033512,52.9
 Gasthuisweg,44,,,1779AJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033512,52.934484
 Gasthuisweg,46,,,1779AJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033512,52.934484
 Gasthuisweg,48,,,1779AJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033512,52.934484
+Gasthuisweg,50,a,,1779AJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033954,52.934443
 Gasthuisweg,50,,,1779AJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033783,52.934542
 Gasthuisweg,52,,,1779AJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.034235,52.934488
 Gasthuisweg,54,,,1779AJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.034364,52.934479
@@ -338,7 +338,7 @@ Zwinstraat,60,,,1779BH,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033009,52.93
 Zwinstraat,62,,,1779BH,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033111,52.934159
 Zwinstraat,64,,,1779BH,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033241,52.934178
 Zwinstraat,66,a,,1779BH,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.034421,52.934102
-Zwinstraat,66,,,1779BH,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.034014,52.934229
+Zwinstraat,66,,,1779BH,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.034009,52.934262
 Zwinstraat,68,,,1779BH,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.034730,52.934095
 Robbenoordstraat,2,a,,1779BJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.030543,52.933491
 Robbenoordstraat,2,k,01,1779BJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.030502,52.933194
@@ -646,8 +646,6 @@ Noord-Gesterweg,4,,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.024931,5
 Noord-Gesterweg,6,,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.024930,52.934102
 Noord-Gesterweg,8,,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.024817,52.933982
 Noord-Gesterweg,10,,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.024616,52.933804
-Noord-Gesterweg,12,,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.024518,52.933678
-Noord-Gesterweg,14,,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.024388,52.933577
 Noord-Gesterweg,22,a,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.023889,52.933119
 Noord-Gesterweg,22,,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.023974,52.932981
 Noord-Gesterweg,24,,,1779EB,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.023691,52.932883
@@ -895,10 +893,12 @@ Gemeenelandsweg,53,b,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.007869
 Gemeenelandsweg,53,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.007734,52.931377
 Gemeenelandsweg,55,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.007898,52.931483
 Gemeenelandsweg,57,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.008104,52.931489
-Gemeenelandsweg,59,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.008909,52.931637
 Gemeenelandsweg,61,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.009213,52.931731
 Gemeenelandsweg,63,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.009677,52.931744
 Gemeenelandsweg,70,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.003543,52.930686
+Gemeenelandsweg,72,a,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.005581,52.931313
+Gemeenelandsweg,72,b,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.005526,52.931365
+Gemeenelandsweg,72,c,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.005475,52.931415
 Gemeenelandsweg,72,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.005794,52.931251
 Gemeenelandsweg,76,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.007202,52.931471
 Gemeenelandsweg,84,,,1779GC,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.008029,52.931642
@@ -961,7 +961,6 @@ Akkerweg,17,a,,1779GJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.011185,52.930
 Akkerweg,17,,,1779GJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.011323,52.930406
 Akkerweg,19,a,,1779GJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.011400,52.929745
 Akkerweg,19,b,,1779GJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.011486,52.929625
-Akkerweg,19,e,,1779GJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.012111,52.928982
 Akkerweg,19,,,1779GJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.011145,52.930117
 Akkerweg,21,,,1779GJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.012462,52.928331
 Akkerweg,23,,,1779GJ,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.013011,52.928163
@@ -1306,8 +1305,10 @@ Oosterkruisweg,4,,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.028482,52
 Oosterkruisweg,6,,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.028709,52.930933
 Oosterkruisweg,48,,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.030441,52.931605
 Oosterkruisweg,50,a,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.030922,52.931769
+Oosterkruisweg,50,b,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.031154,52.931451
 Oosterkruisweg,50,,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.030709,52.931678
 Oosterkruisweg,52,a,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.031325,52.931906
+Oosterkruisweg,52,b,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.031588,52.931600
 Oosterkruisweg,52,,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.031087,52.931825
 Oosterkruisweg,54,,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.031516,52.931972
 Oosterkruisweg,56,,,1779XR,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.031743,52.932051
@@ -1336,7 +1337,6 @@ Havenweg,4,,,1779XT,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.029812,52.92935
 Havenweg,5,,,1779XT,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.032992,52.931406
 Havenweg,10,a,,1779XT,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.032988,52.929692
 Havenweg,11,,,1779XT,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.034359,52.931896
-Havenweg,12,,,1779XT,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.032480,52.930389
 Havenweg,14,,,1779XT,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033496,52.930519
 Havenweg,18,t,,1779XT,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.033886,52.931076
 Havenweg,18,,,1779XT,Den Oever,Hollands Kroon,Noord-Holland,VBO,5.034603,52.931066

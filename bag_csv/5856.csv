@@ -1,6 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Rijksweg-Zuid,1,,,5856AA,Wellerlooi,Bergen (L.),Limburg,VBO,6.122220,51.538715
 Rijksweg-Zuid,3,a,,5856AA,Wellerlooi,Bergen (L.),Limburg,VBO,6.128669,51.534261
+Rijksweg-Zuid,3,,Unit,5856AA,Wellerlooi,Bergen (L.),Limburg,VBO,6.125029,51.536490
 Rijksweg-Zuid,3,,,5856AA,Wellerlooi,Bergen (L.),Limburg,VBO,6.124744,51.536222
 Rijksweg-Zuid,5,,,5856AA,Wellerlooi,Bergen (L.),Limburg,VBO,6.128370,51.533775
 Rijksweg-Zuid,7,,,5856AA,Wellerlooi,Bergen (L.),Limburg,VBO,6.128467,51.533648
@@ -381,9 +382,7 @@ Vliespas,4,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.140033,51.534187
 Vliespas,6,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139847,51.534147
 Vliespas,8,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139656,51.534090
 Vliespas,10,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139565,51.534070
-Vliespas,11,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139556,51.533819
 Vliespas,12,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139342,51.534021
-Vliespas,13,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139411,51.533793
 Vliespas,14,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139154,51.534030
 Vliespas,16,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139085,51.534042
 Vliespas,18,,,5856BD,Wellerlooi,Bergen (L.),Limburg,VBO,6.139015,51.534049
@@ -401,6 +400,7 @@ Paaldijk,8,,,5856CA,Wellerlooi,Bergen (L.),Limburg,VBO,6.165831,51.540619
 Paaldijk,10,,,5856CA,Wellerlooi,Bergen (L.),Limburg,VBO,6.166956,51.540906
 Paaldijk,12,,,5856CA,Wellerlooi,Bergen (L.),Limburg,VBO,6.168321,51.541158
 Venweg,1,a,,5856CB,Wellerlooi,Bergen (L.),Limburg,VBO,6.145557,51.540127
+Venweg,1,b,,5856CB,Wellerlooi,Bergen (L.),Limburg,VBO,6.146519,51.539424
 Venweg,1,,,5856CB,Wellerlooi,Bergen (L.),Limburg,VBO,6.152750,51.542251
 Venweg,2,,,5856CB,Wellerlooi,Bergen (L.),Limburg,VBO,6.156448,51.544356
 Venweg,3,,,5856CB,Wellerlooi,Bergen (L.),Limburg,VBO,6.156414,51.544905
@@ -462,9 +462,7 @@ Tuinstraat,8,b,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.171599,51.540746
 Tuinstraat,8,,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.171999,51.540166
 Tuinstraat,10,a,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.170902,51.541825
 Tuinstraat,10,b,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.169634,51.543808
-Tuinstraat,10,c,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.168424,51.544340
 Tuinstraat,10,d,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.166678,51.545959
-Tuinstraat,10,e,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.164493,51.548074
 Tuinstraat,10,,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.171093,51.541484
 Tuinstraat,12,,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.162977,51.549719
 Tuinstraat,14,,,5856CH,Wellerlooi,Bergen (L.),Limburg,VBO,6.161940,51.550751
@@ -488,6 +486,7 @@ Heerenvenweg,17,,,5856CJ,Wellerlooi,Bergen (L.),Limburg,VBO,6.212903,51.509788
 Heerenvenweg,19,a,,5856CJ,Wellerlooi,Bergen (L.),Limburg,VBO,6.201124,51.510487
 Heerenvenweg,19,,,5856CJ,Wellerlooi,Bergen (L.),Limburg,VBO,6.201014,51.510817
 Twistedenerweg,2,a,,5856CK,Wellerlooi,Bergen (L.),Limburg,VBO,6.170488,51.507892
+Twistedenerweg,2,,,5856CK,Wellerlooi,Bergen (L.),Limburg,VBO,6.170351,51.507549
 Twistedenerweg,3,,,5856CK,Wellerlooi,Bergen (L.),Limburg,VBO,6.184429,51.520538
 Twistedenerweg,4,,,5856CK,Wellerlooi,Bergen (L.),Limburg,VBO,6.183365,51.517369
 Twistedenerweg,5,,,5856CK,Wellerlooi,Bergen (L.),Limburg,VBO,6.193206,51.529377
@@ -501,13 +500,12 @@ Hamert,4,,,5856CL,Wellerlooi,Bergen (L.),Limburg,VBO,6.169985,51.505722
 Hamert,5,,,5856CL,Wellerlooi,Bergen (L.),Limburg,VBO,6.173276,51.504023
 Hamert,6,,,5856CL,Wellerlooi,Bergen (L.),Limburg,VBO,6.171442,51.505571
 Walbeckerweg,1,a,,5856CM,Wellerlooi,Bergen (L.),Limburg,VBO,6.192630,51.511666
-Walbeckerweg,1,,,5856CM,Wellerlooi,Bergen (L.),Limburg,VBO,6.210627,51.507802
 Walbeckerweg,1,,,5856CM,Wellerlooi,Bergen (L.),Limburg,VBO,6.210831,51.507923
 Walbeckerweg,2,,,5856CM,Wellerlooi,Bergen (L.),Limburg,VBO,6.189171,51.508657
 Walbeckerweg,4,,,5856CM,Wellerlooi,Bergen (L.),Limburg,VBO,6.194456,51.508401
 Walbeckerweg,6,,,5856CM,Wellerlooi,Bergen (L.),Limburg,VBO,6.194621,51.508370
 Bosrandweg,4,,,5856EA,Wellerlooi,Bergen (L.),Limburg,VBO,6.144900,51.534095
-Bosrandweg,6,,,5856EA,Wellerlooi,Bergen (L.),Limburg,VBO,6.145147,51.533858
+Bosrandweg,6,,,5856EA,Wellerlooi,Bergen (L.),Limburg,VBO,6.145265,51.533755
 Bosrandweg,8,,,5856EA,Wellerlooi,Bergen (L.),Limburg,VBO,6.145713,51.533242
 Westerweg,1,,,5856EB,Wellerlooi,Bergen (L.),Limburg,VBO,6.142278,51.533653
 Westerweg,2,,,5856EB,Wellerlooi,Bergen (L.),Limburg,VBO,6.142288,51.533053

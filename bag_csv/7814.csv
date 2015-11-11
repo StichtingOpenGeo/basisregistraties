@@ -84,7 +84,6 @@ Dorpsstraat,10,,,7814PR,Emmen,Emmen,Drenthe,VBO,6.908778,52.815465
 Dorpsstraat,11,,,7814PR,Emmen,Emmen,Drenthe,VBO,6.909216,52.815675
 Dorpsstraat,14,,,7814PR,Emmen,Emmen,Drenthe,VBO,6.909912,52.816079
 Dorpsstraat,18,,,7814PR,Emmen,Emmen,Drenthe,VBO,6.911027,52.816850
-Dorpsstraat,21,,,7814PR,Emmen,Emmen,Drenthe,VBO,6.912519,52.817673
 Dorpsstraat,22,,,7814PS,Emmen,Emmen,Drenthe,VBO,6.913322,52.817734
 Dorpsstraat,23,,TR,7814PS,Emmen,Emmen,Drenthe,VBO,6.913710,52.817370
 Dorpsstraat,23,,,7814PS,Emmen,Emmen,Drenthe,VBO,6.913871,52.817727
@@ -112,7 +111,8 @@ Dorpsstraat,45,A,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917795,52.818890
 Dorpsstraat,45,B,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917794,52.818889
 Dorpsstraat,45,C,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917796,52.818889
 Dorpsstraat,45,D,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917793,52.818891
-Dorpsstraat,45,,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917793,52.818891
+Dorpsstraat,45,E,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917799,52.818832
+Dorpsstraat,45,,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917812,52.818831
 Dorpsstraat,46,,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917557,52.818777
 Dorpsstraat,47,,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917419,52.818644
 Dorpsstraat,49,,,7814PT,Emmen,Emmen,Drenthe,VBO,6.917144,52.818413
@@ -279,7 +279,6 @@ Kromme Elleboog,2,,,7814TE,Emmen,Emmen,Drenthe,VBO,6.871471,52.785789
 Kromme Elleboog,3,,,7814TE,Emmen,Emmen,Drenthe,VBO,6.870733,52.785906
 Kromme Elleboog,8,,,7814TE,Emmen,Emmen,Drenthe,VBO,6.870373,52.786198
 Oude Schietbaanweg,1,,,7814TG,Emmen,Emmen,Drenthe,VBO,6.871239,52.787266
-Oude Schietbaanweg,2,,,7814TG,Emmen,Emmen,Drenthe,VBO,6.872307,52.786840
 Oude Schietbaanweg,3,,,7814TG,Emmen,Emmen,Drenthe,VBO,6.870867,52.787675
 Oude Schietbaanweg,4,,,7814TG,Emmen,Emmen,Drenthe,VBO,6.872247,52.786831
 Oude Schietbaanweg,5,,,7814TG,Emmen,Emmen,Drenthe,VBO,6.870253,52.787926
@@ -291,8 +290,10 @@ Odoornerweg,46,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.884473,52.802740
 Odoornerweg,47,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.884445,52.802776
 Odoornerweg,48,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.883865,52.803152
 Odoornerweg,50,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.883617,52.803299
-Odoornerweg,51,,NST,7814TH,Emmen,Emmen,Drenthe,VBO,6.882981,52.803765
 Odoornerweg,51,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.883293,52.803339
+Odoornerweg,52,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.882996,52.803764
+Odoornerweg,53,A,,7814TH,Emmen,Emmen,Drenthe,VBO,6.883580,52.804779
+Odoornerweg,53,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.883282,52.804487
 Odoornerweg,55,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.880883,52.805302
 Odoornerweg,57,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.875172,52.809202
 Odoornerweg,61,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.872195,52.814578
@@ -301,7 +302,6 @@ Odoornerweg,72,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.865527,52.814714
 Odoornerweg,75,A,,7814TH,Emmen,Emmen,Drenthe,VBO,6.872042,52.810086
 Odoornerweg,75,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.872193,52.810138
 Odoornerweg,80,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.880609,52.804667
-Odoornerweg,81,,TO,7814TH,Emmen,Emmen,Drenthe,VBO,6.883243,52.804490
 Odoornerweg,81,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.881375,52.804073
 Odoornerweg,91,,,7814TH,Emmen,Emmen,Drenthe,VBO,6.883812,52.802479
 Van der Meulenweg,2,,,7814TK,Emmen,Emmen,Drenthe,VBO,6.881662,52.800312
@@ -410,7 +410,7 @@ Langgrafweg,3,,,7814TZ,Emmen,Emmen,Drenthe,VBO,6.889572,52.789697
 Langgrafweg,4,,,7814TZ,Emmen,Emmen,Drenthe,VBO,6.889824,52.790257
 Langgrafweg,5,,,7814TZ,Emmen,Emmen,Drenthe,VBO,6.890188,52.789060
 Langgrafweg,9,,,7814TZ,Emmen,Emmen,Drenthe,VBO,6.889059,52.789865
-Nieuw-Amsterdamsestraat,32,A,,7814VA,Emmen,Emmen,Drenthe,VBO,6.874463,52.757359
+Nieuw-Amsterdamsestraat,32,A,,7814VA,Emmen,Emmen,Drenthe,VBO,6.874326,52.757362
 Nieuw-Amsterdamsestraat,32,,,7814VA,Emmen,Emmen,Drenthe,VBO,6.874346,52.757387
 Nieuw-Amsterdamsestraat,34,,,7814VA,Emmen,Emmen,Drenthe,VBO,6.873990,52.756511
 Nieuw-Amsterdamsestraat,40,,,7814VA,Emmen,Emmen,Drenthe,VBO,6.875186,52.755085
@@ -424,7 +424,8 @@ Nieuw-Amsterdamsestraat,79,A,,7814VA,Emmen,Emmen,Drenthe,VBO,6.875453,52.743307
 Nieuw-Amsterdamsestraat,79,,,7814VA,Emmen,Emmen,Drenthe,VBO,6.875646,52.743313
 Nieuw-Amsterdamsestraat,86,,,7814VA,Emmen,Emmen,Drenthe,VBO,6.874905,52.745938
 Ermerveen,11,,,7814VB,Emmen,Emmen,Drenthe,VBO,6.845921,52.736167
-Ermerveen,14,,,7814VB,Emmen,Emmen,Drenthe,VBO,6.844624,52.735852
+Ermerveen,14,,GD,7814VB,Emmen,Emmen,Drenthe,VBO,6.843489,52.735529
+Ermerveen,14,,,7814VB,Emmen,Emmen,Drenthe,VBO,6.843674,52.735746
 Ermerveen,17,,,7814VB,Emmen,Emmen,Drenthe,VBO,6.845111,52.734532
 Ermerveen,18,A,,7814VB,Emmen,Emmen,Drenthe,VBO,6.842918,52.735418
 Ermerveen,18,,,7814VB,Emmen,Emmen,Drenthe,VBO,6.842891,52.735449
@@ -434,7 +435,6 @@ Wilhelmsweg,23,,,7814VC,Emmen,Emmen,Drenthe,VBO,6.859545,52.741042
 Wilhelmsweg,24,,,7814VC,Emmen,Emmen,Drenthe,VBO,6.859172,52.740966
 Wilhelmsweg,26,A,,7814VD,Emmen,Emmen,Drenthe,VBO,6.855782,52.742347
 Wilhelmsweg,26,,,7814VD,Emmen,Emmen,Drenthe,VBO,6.857557,52.740518
-Wilhelmsweg,27,,TR,7814VD,Emmen,Emmen,Drenthe,VBO,6.854752,52.742356
 Wilhelmsweg,27,,,7814VD,Emmen,Emmen,Drenthe,VBO,6.855263,52.741427
 Wilhelmsweg,28,,,7814VD,Emmen,Emmen,Drenthe,VBO,6.853911,52.742190
 Wilhelmsweg,29,,,7814VD,Emmen,Emmen,Drenthe,VBO,6.852976,52.742121
@@ -456,7 +456,6 @@ Wilhelmsweg,85,,,7814VG,Emmen,Emmen,Drenthe,VBO,6.870590,52.747094
 Zandzoom,19,,,7814VH,Emmen,Emmen,Drenthe,VBO,6.862227,52.753891
 Zandzoom,23,,,7814VH,Emmen,Emmen,Drenthe,VBO,6.857094,52.753638
 Zandzoom,55,,,7814VJ,Emmen,Emmen,Drenthe,VBO,6.843750,52.748400
-Zandzoom,68,,,7814VJ,Emmen,Emmen,Drenthe,VBO,6.888588,52.788244
 Zandzoom,71,,,7814VJ,Emmen,Emmen,Drenthe,VBO,6.846057,52.742484
 Zandzoom,73,,,7814VJ,Emmen,Emmen,Drenthe,VBO,6.848060,52.742163
 Zijweg,6,,,7814VK,Emmen,Emmen,Drenthe,VBO,6.864962,52.740957
@@ -482,7 +481,6 @@ IJsspoorweg,4,,,7814XA,Emmen,Emmen,Drenthe,VBO,6.921103,52.820052
 IJsspoorweg,5,,,7814XA,Emmen,Emmen,Drenthe,VBO,6.921223,52.820078
 IJsspoorweg,7,,,7814XA,Emmen,Emmen,Drenthe,VBO,6.921686,52.820171
 IJsspoorweg,8,,,7814XA,Emmen,Emmen,Drenthe,VBO,6.922015,52.820229
-IJsspoorweg,10,,,7814XA,Emmen,Emmen,Drenthe,VBO,6.922397,52.820313
 IJsspoorweg,11,,,7814XA,Emmen,Emmen,Drenthe,VBO,6.924477,52.820833
 IJsspoorweg,12,,,7814XA,Emmen,Emmen,Drenthe,VBO,6.925924,52.821284
 IJsspoorweg,14,,,7814XA,Emmen,Emmen,Drenthe,VBO,6.927987,52.818364

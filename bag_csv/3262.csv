@@ -91,8 +91,8 @@ Gedempte Spui,3,D,,3262AD,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.41052
 Gedempte Spui,3,E,,3262AD,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.410529,51.827248
 Gedempte Spui,3,F,,3262AD,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.410542,51.827329
 Havendam,2,,,3262AE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411114,51.827056
-Havendam,3,A,,3262AE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411186,51.827065
-Havendam,3,,,3262AE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411186,51.827070
+Havendam,3,A,,3262AE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411186,51.827070
+Havendam,3,B,,3262AE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411186,51.827065
 Havendam,5,,,3262AE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411214,51.827116
 Havendam,7,,,3262AE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411198,51.827187
 Havendam,8,,,3262AE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411211,51.827245
@@ -305,6 +305,7 @@ Vierwiekenplein,103,,,3262AP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.40
 Vierwiekenplein,104,,,3262AP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409206,51.827720
 Vierwiekenplein,105,,,3262AP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409687,51.827295
 Vierwiekenplein,106,,,3262AP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.410035,51.827274
+Vierwiekenplein,107,,,3262AP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.410150,51.826988
 Vierwiekenplein,109,,,3262AP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.410339,51.827310
 Zinkweg,1,A,,3262BA,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.406022,51.826747
 Zinkweg,1,B,,3262BA,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.406022,51.826747
@@ -785,7 +786,6 @@ Zoomwijcklaan,19,,,3262CM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.39943
 Zoomwijcklaan,21,,,3262CM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.399502,51.825340
 Zoomwijcklaan,23,,,3262CM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.399372,51.825303
 Zoomwijcklaan,25,,,3262CM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.399373,51.825258
-Zoomwijcklaan,27,A,,3262CM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.399302,51.824817
 Zoomwijcklaan,27,,,3262CM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.399437,51.824661
 Zoomwijcklaan,29,,,3262CM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.399402,51.824612
 Zoomwijcklaan,31,,,3262CM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.399345,51.824557
@@ -2309,10 +2309,6 @@ Rembrandtstraat,55,,,3262HN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.407
 Rembrandtstraat,57,,,3262HN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.407312,51.815734
 Rembrandtstraat,59,,,3262HN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.407285,51.815671
 Rembrandtstraat,61,,,3262HN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.407272,51.815608
-Rembrandtstraat,63,A,,3262HN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404314,51.816084
-Rembrandtstraat,63,,,3262HN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404314,51.816084
-Rembrandtstraat,65,A,,3262HN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404314,51.816084
-Rembrandtstraat,65,,,3262HN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404314,51.816084
 Rembrandtstraat,69,,,3262HP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.402505,51.816691
 Rembrandtstraat,71,,,3262HP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.402157,51.816697
 Rembrandtstraat,73,,,3262HP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.402098,51.816742
@@ -2405,84 +2401,6 @@ Titiaanstraat,22,,,3262HT,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.40862
 Titiaanstraat,24,,,3262HT,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.408613,51.815268
 Titiaanstraat,26,,,3262HT,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.408586,51.815205
 Titiaanstraat,28,,,3262HT,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.408543,51.815151
-Rembrandtplein,1,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404314,51.816084
-Rembrandtplein,2,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,3,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404314,51.816084
-Rembrandtplein,5,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404314,51.816084
-Rembrandtplein,7,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404314,51.816084
-Rembrandtplein,8,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,10,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,12,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,14,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,16,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,18,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,20,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,22,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,24,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,26,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,28,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,30,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,32,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,34,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,36,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,38,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,40,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,42,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,44,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,46,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,48,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,50,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,52,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,54,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,56,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,58,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,60,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,62,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,64,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,66,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,68,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,70,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,72,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,74,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,76,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,78,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,80,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,82,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,84,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,86,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,88,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,90,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,92,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,94,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,96,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,98,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,100,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,102,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,104,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,106,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,108,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,110,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,112,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,114,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,116,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,118,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,120,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,122,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,124,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,126,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,128,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,130,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,132,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,134,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,136,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,138,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,140,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,142,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,144,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,146,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,148,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,150,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
-Rembrandtplein,152,,,3262HW,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403840,51.815485
 Bijl,1,A,,3262JA,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.410940,51.823692
 Bijl,1,,,3262JA,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411351,51.823444
 Bijl,2,,,3262JA,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411582,51.823527
@@ -2611,6 +2529,7 @@ Koninginneweg,126,,,3262JD,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.4153
 Oost-Voorstraat,2,,,3262JE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411839,51.826384
 Oost-Voorstraat,6,,,3262JE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411940,51.826374
 Oost-Voorstraat,10,,,3262JE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411918,51.826066
+Oost-Voorstraat,11,,,3262JE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411927,51.826028
 Oost-Voorstraat,16,,,3262JE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411998,51.825809
 Oost-Voorstraat,17,,,3262JE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412206,51.825805
 Oost-Voorstraat,18,,,3262JE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412026,51.825700
@@ -2672,6 +2591,7 @@ Oost-Voorstraat,84,,,3262JH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413
 Oost-Voorstraat,85,,,3262JH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412717,51.823348
 Oost-Voorstraat,86,,,3262JH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412719,51.823276
 Oost-Voorstraat,87,,,3262JH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412778,51.823204
+Oost-Voorstraat,88,A,,3262JH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413564,51.823060
 Oost-Voorstraat,88,,,3262JH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412743,51.823168
 Oost-Voorstraat,92,,,3262JH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412835,51.823058
 Oost-Voorstraat,95,A,,3262JH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413176,51.822893
@@ -2848,14 +2768,11 @@ Langeweg,22,,,3262LE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411345,51.
 Paradijs,1,A,,3262LG,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.406613,51.818888
 Paradijs,1,B,,3262LG,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.411717,51.819950
 Paradijs,1,,,3262LG,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.406942,51.818742
-Spuidijk,1,,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405431,51.826796
 Spuidijk,2,A,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.410514,51.829262
 Spuidijk,2,B,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.386424,51.822407
 Spuidijk,2,C,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.410087,51.829282
 Spuidijk,2,D,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409945,51.829291
-Spuidijk,3,,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405348,51.826801
 Spuidijk,4,,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.408666,51.828992
-Spuidijk,5,,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405272,51.826802
 Spuidijk,7,,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404925,51.826806
 Spuidijk,9,,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404417,51.826802
 Spuidijk,11,,,3262LH,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404140,51.826854
@@ -3243,6 +3160,7 @@ Nobelstraat,62,,,3262PM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409598,
 Nobelstraat,66,,,3262PM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409660,51.825201
 Nobelstraat,72,A,,3262PM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409766,51.824995
 Nobelstraat,72,,,3262PM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409649,51.825024
+Nobelstraat,74,,,3262PM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409641,51.824988
 Nobelstraat,98,A,,3262PM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409356,51.824798
 Nobelstraat,98,B,,3262PM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409464,51.824840
 Nobelstraat,98,C,,3262PM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.409478,51.824867
@@ -3556,6 +3474,7 @@ Boomgaardstraat,2,,,3262SB,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.4128
 Boterhof,1,A,,3262SC,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412988,51.825579
 Boterhof,1,,,3262SC,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412593,51.825382
 Boterhof,3,,,3262SC,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412599,51.825441
+Boterhof,5,,,3262SC,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.412428,51.825562
 Emmastraat,1,,,3262SE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414577,51.823857
 Emmastraat,3,,,3262SE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414605,51.823911
 Emmastraat,5,,,3262SE,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414647,51.823966
@@ -3629,7 +3548,6 @@ Julianastraat,18,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.41343
 Julianastraat,28,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413597,51.823562
 Julianastraat,30,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413815,51.823541
 Julianastraat,36,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413974,51.823556
-Julianastraat,40,A,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414151,51.823458
 Julianastraat,40,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414142,51.823544
 Julianastraat,42,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413486,51.823464
 Julianastraat,48,A,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414354,51.823127
@@ -3639,8 +3557,6 @@ Julianastraat,62,A,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.4149
 Julianastraat,62,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.415007,51.823438
 Julianastraat,64,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.415183,51.823323
 Julianastraat,66,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.415275,51.823099
-Julianastraat,66,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.415310,51.823330
-Julianastraat,68,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.415399,51.823319
 Julianastraat,74,A,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.415823,51.823265
 Julianastraat,74,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.416012,51.823222
 Julianastraat,76,,,3262SJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.416099,51.823223
@@ -3803,6 +3719,7 @@ Prins Bernhardstraat,92,,,3262SR,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,
 Prins Bernhardstraat,94,,,3262SR,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414923,51.821955
 Prins Bernhardstraat,96,,,3262SR,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414924,51.821910
 Prins Hendrikstraat,1,,,3262ST,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413659,51.824056
+Prins Hendrikstraat,2,A,,3262ST,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414138,51.823926
 Prins Hendrikstraat,2,,,3262ST,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414038,51.823952
 Prins Hendrikstraat,3,,,3262ST,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.413701,51.824111
 Prins Hendrikstraat,4,,,3262ST,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.414095,51.824024
@@ -4249,7 +4166,7 @@ Titus Brandsmastraat,2,A,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,
 Titus Brandsmastraat,2,B,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404544,51.818992
 Titus Brandsmastraat,2,C,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404530,51.818965
 Titus Brandsmastraat,2,D,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404530,51.818938
-Titus Brandsmastraat,2,E,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404951,51.818954
+Titus Brandsmastraat,2,E,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404526,51.818918
 Titus Brandsmastraat,2,F,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404517,51.818884
 Titus Brandsmastraat,2,,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404689,51.818993
 Titus Brandsmastraat,3,,,3262VJ,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404872,51.819255
@@ -4677,33 +4594,33 @@ Piet Heinstraat,44,,,3262XM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405
 Piet Heinstraat,46,,,3262XM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405971,51.823363
 Piet Heinstraat,48,,,3262XM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405958,51.823318
 Piet Heinstraat,50,,,3262XM,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405916,51.823264
-Witte de Withstraat,1,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404882,51.824282
-Witte de Withstraat,3,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404864,51.824235
-Witte de Withstraat,5,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404850,51.824182
-Witte de Withstraat,7,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404840,51.824134
-Witte de Withstraat,9,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404822,51.824083
-Witte de Withstraat,11,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404703,51.823897
-Witte de Withstraat,13,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404686,51.823849
-Witte de Withstraat,15,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404673,51.823795
-Witte de Withstraat,17,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404663,51.823747
-Witte de Withstraat,19,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404644,51.823695
+Witte de Withstraat,1,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405027,51.824285
+Witte de Withstraat,3,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405003,51.824222
+Witte de Withstraat,5,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404979,51.824163
+Witte de Withstraat,7,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404951,51.824106
+Witte de Withstraat,9,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404927,51.824045
+Witte de Withstraat,11,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404860,51.823827
+Witte de Withstraat,13,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404845,51.823763
+Witte de Withstraat,15,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404823,51.823705
+Witte de Withstraat,17,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404807,51.823645
+Witte de Withstraat,19,,,3262XN,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404777,51.823588
 Witte de Withstraat,2,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405400,51.824591
 Witte de Withstraat,4,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405319,51.824599
 Witte de Withstraat,6,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405242,51.824610
 Witte de Withstraat,8,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405158,51.824618
 Witte de Withstraat,10,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405080,51.824626
-Witte de Withstraat,12,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.405000,51.824637
-Witte de Withstraat,14,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404544,51.824197
-Witte de Withstraat,16,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404497,51.824153
-Witte de Withstraat,18,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404456,51.824113
-Witte de Withstraat,20,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404411,51.824072
-Witte de Withstraat,22,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404366,51.824028
-Witte de Withstraat,24,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404321,51.823988
-Witte de Withstraat,26,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404278,51.823947
-Witte de Withstraat,28,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404074,51.823745
-Witte de Withstraat,30,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404154,51.823738
-Witte de Withstraat,32,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404237,51.823729
-Witte de Withstraat,34,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404323,51.823719
+Witte de Withstraat,12,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404942,51.824678
+Witte de Withstraat,14,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404471,51.824228
+Witte de Withstraat,16,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404415,51.824173
+Witte de Withstraat,18,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404367,51.824128
+Witte de Withstraat,20,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404311,51.824074
+Witte de Withstraat,22,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404254,51.824022
+Witte de Withstraat,24,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404206,51.823966
+Witte de Withstraat,26,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404140,51.823929
+Witte de Withstraat,28,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403991,51.823677
+Witte de Withstraat,30,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404092,51.823670
+Witte de Withstraat,32,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404211,51.823654
+Witte de Withstraat,34,,,3262XP,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.404297,51.823640
 Bestevaerplein,1,,,3262XR,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403735,51.822796
 Bestevaerplein,3,,,3262XR,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403662,51.822832
 Bestevaerplein,5,,,3262XR,Oud-Beijerland,Oud-Beijerland,Zuid-Holland,VBO,4.403603,51.822867

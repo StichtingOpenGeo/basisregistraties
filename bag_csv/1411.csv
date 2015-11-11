@@ -1,8 +1,10 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 IJsselmeerweg,1,A,1,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143062,52.306975
 IJsselmeerweg,1,A,2,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143058,52.306934
-IJsselmeerweg,1,A,,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143057,52.307007
-IJsselmeerweg,1,B,,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143101,52.307008
+IJsselmeerweg,1,A,3,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143057,52.307007
+IJsselmeerweg,1,B,1,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143101,52.307008
+IJsselmeerweg,1,B,2,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143106,52.306976
+IJsselmeerweg,1,B,3,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143105,52.306939
 IJsselmeerweg,1,,,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143013,52.307007
 IJsselmeerweg,2,,,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.143107,52.307360
 IJsselmeerweg,3,A,,1411AA,Naarden,Naarden,Noord-Holland,VBO,5.142500,52.308434
@@ -78,7 +80,6 @@ Nikkelstraat,6,,,1411AJ,Naarden,Naarden,Noord-Holland,VBO,5.148459,52.303813
 Nikkelstraat,14,A,,1411AK,Naarden,Naarden,Noord-Holland,VBO,5.147279,52.304180
 Nikkelstraat,14,B,,1411AK,Naarden,Naarden,Noord-Holland,VBO,5.147358,52.304175
 Nikkelstraat,14,,,1411AK,Naarden,Naarden,Noord-Holland,VBO,5.147636,52.304216
-Nikkelstraat,16,,,1411AK,Naarden,Naarden,Noord-Holland,VBO,5.146897,52.304107
 Rubberstraat,2,,,1411AL,Naarden,Naarden,Noord-Holland,VBO,5.147617,52.303415
 Rubberstraat,4,,,1411AL,Naarden,Naarden,Noord-Holland,VBO,5.148095,52.303563
 Rubberstraat,6,A,,1411AL,Naarden,Naarden,Noord-Holland,VBO,5.146820,52.302817
@@ -308,7 +309,6 @@ Amsterdamsestraatweg,23,,,1411AW,Naarden,Naarden,Noord-Holland,VBO,5.148858,52.3
 Amsterdamsestraatweg,27,A,,1411AW,Naarden,Naarden,Noord-Holland,VBO,5.148509,52.302161
 Amsterdamsestraatweg,27,B,,1411AW,Naarden,Naarden,Noord-Holland,VBO,5.148298,52.302235
 Amsterdamsestraatweg,27,C,,1411AW,Naarden,Naarden,Noord-Holland,VBO,5.148448,52.302290
-Amsterdamsestraatweg,27,E,,1411AW,Naarden,Naarden,Noord-Holland,VBO,5.148236,52.302508
 Amsterdamsestraatweg,29,A,,1411AW,Naarden,Naarden,Noord-Holland,VBO,5.147548,52.302362
 Amsterdamsestraatweg,29,B,,1411AW,Naarden,Naarden,Noord-Holland,VBO,5.147241,52.302475
 Amsterdamsestraatweg,29,C,,1411AW,Naarden,Naarden,Noord-Holland,VBO,5.147541,52.302388
@@ -356,17 +356,7 @@ Amsterdamsestraatweg,61,C,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.127041,52.
 Amsterdamsestraatweg,61,,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.126359,52.310434
 Amsterdamsestraatweg,63,,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.123719,52.311125
 Amsterdamsestraatweg,65,A,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.124380,52.311718
-Amsterdamsestraatweg,65,B,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.123852,52.311335
-Amsterdamsestraatweg,65,C,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.123523,52.311358
-Amsterdamsestraatweg,65,D,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.123755,52.311530
-Amsterdamsestraatweg,65,E,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.123973,52.311451
-Amsterdamsestraatweg,65,F,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.123998,52.311478
-Amsterdamsestraatweg,65,G,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.124021,52.311503
-Amsterdamsestraatweg,65,H,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.124053,52.311539
-Amsterdamsestraatweg,65,J,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.124103,52.311521
-Amsterdamsestraatweg,65,K,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.124176,52.311496
-Amsterdamsestraatweg,65,L,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.124266,52.311495
-Amsterdamsestraatweg,65,,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.123630,52.311196
+Amsterdamsestraatweg,65,,,1411AX,Naarden,Naarden,Noord-Holland,VBO,5.123652,52.311451
 Amsterdamsestraatweg,67,A,,1411AZ,Naarden,Naarden,Noord-Holland,VBO,5.122666,52.311507
 Amsterdamsestraatweg,67,B,,1411AZ,Naarden,Naarden,Noord-Holland,VBO,5.123199,52.311505
 Amsterdamsestraatweg,67,C,,1411AZ,Naarden,Naarden,Noord-Holland,VBO,5.123255,52.311400
@@ -557,17 +547,11 @@ Meerstraat,84,,,1411BJ,Naarden,Naarden,Noord-Holland,VBO,5.150856,52.296638
 Meerstraat,86,,,1411BJ,Naarden,Naarden,Noord-Holland,VBO,5.150797,52.296602
 Meerstraat,88,,,1411BJ,Naarden,Naarden,Noord-Holland,VBO,5.150461,52.296268
 van Hogendorplaan,1,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152410,52.297301
-van Hogendorplaan,2,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152428,52.297544
 van Hogendorplaan,3,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152489,52.297272
-van Hogendorplaan,4,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152402,52.297562
 van Hogendorplaan,5,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152568,52.297244
-van Hogendorplaan,6,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152461,52.297565
 van Hogendorplaan,7,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152645,52.297215
-van Hogendorplaan,8,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152440,52.297580
 van Hogendorplaan,9,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152720,52.297189
-van Hogendorplaan,10,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152490,52.297584
 van Hogendorplaan,11,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152785,52.297141
-van Hogendorplaan,12,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152468,52.297597
 van Hogendorplaan,13,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152874,52.297132
 van Hogendorplaan,14,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152879,52.297437
 van Hogendorplaan,15,,,1411BK,Naarden,Naarden,Noord-Holland,VBO,5.152949,52.297106
@@ -1268,7 +1252,6 @@ Gooimeer,2,,46,1411DC,Naarden,Naarden,Noord-Holland,VBO,5.141249,52.306757
 Gooimeer,2,,47,1411DC,Naarden,Naarden,Noord-Holland,VBO,5.141311,52.306759
 Gooimeer,3,,10,1411DC,Naarden,Naarden,Noord-Holland,VBO,5.140830,52.307082
 Gooimeer,3,,15,1411DC,Naarden,Naarden,Noord-Holland,VBO,5.140830,52.307154
-Gooimeer,3,,20,1411DC,Naarden,Naarden,Noord-Holland,VBO,5.140830,52.307100
 Gooimeer,3,,25,1411DC,Naarden,Naarden,Noord-Holland,VBO,5.140830,52.307136
 Gooimeer,3,,30,1411DC,Naarden,Naarden,Noord-Holland,VBO,5.140830,52.307172
 Gooimeer,3,,35,1411DC,Naarden,Naarden,Noord-Holland,VBO,5.140830,52.307118
@@ -1315,51 +1298,6 @@ Gooimeer,15,,,1411DE,Naarden,Naarden,Noord-Holland,VBO,5.140950,52.307869
 Gooimeer,16,,,1411DE,Naarden,Naarden,Noord-Holland,VBO,5.141473,52.307961
 Gooimeer,17,,,1411DE,Naarden,Naarden,Noord-Holland,VBO,5.141996,52.307918
 Gooimeer,18,,,1411DE,Naarden,Naarden,Noord-Holland,VBO,5.142934,52.307937
-Boegspriet,1,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.148426,52.314095
-Boegspriet,2,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.148174,52.313850
-Boegspriet,3,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.148631,52.313968
-Boegspriet,4,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.148423,52.313719
-Boegspriet,5,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.148814,52.313828
-Boegspriet,6,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.148490,52.313662
-Boegspriet,7,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.149093,52.313682
-Boegspriet,8,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.148698,52.313533
-Boegspriet,9,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.149260,52.313563
-Boegspriet,10,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.149303,52.313070
-Boegspriet,11,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.149692,52.313211
-Boegspriet,12,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.149337,52.313020
-Boegspriet,13,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.149868,52.313074
-Boegspriet,14,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.149536,52.312875
-Boegspriet,15,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.150096,52.312896
-Boegspriet,16,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.149680,52.312692
-Boegspriet,17,,,1411DG,Naarden,Naarden,Noord-Holland,VBO,5.150272,52.312822
-Giek,1,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.150728,52.312625
-Giek,2,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.149216,52.312680
-Giek,3,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.150370,52.312509
-Giek,4,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.148966,52.312759
-Giek,5,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.150071,52.312431
-Giek,6,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.148867,52.312775
-Giek,7,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.149805,52.312370
-Giek,9,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.149728,52.312356
-Giek,11,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.149468,52.312329
-Giek,13,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.148973,52.312388
-Giek,15,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.148628,52.312463
-Giek,17,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.148307,52.312565
-Giek,19,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.147765,52.312628
-Giek,21,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.147495,52.312695
-Giek,23,,,1411DH,Naarden,Naarden,Noord-Holland,VBO,5.147221,52.312779
-Gaffel,1,,,1411DJ,Naarden,Naarden,Noord-Holland,VBO,5.148629,52.313014
-Gaffel,2,,,1411DJ,Naarden,Naarden,Noord-Holland,VBO,5.148383,52.313360
-Gaffel,3,,,1411DJ,Naarden,Naarden,Noord-Holland,VBO,5.148478,52.312862
-Gaffel,4,,,1411DJ,Naarden,Naarden,Noord-Holland,VBO,5.148316,52.313326
-Gaffel,6,,,1411DJ,Naarden,Naarden,Noord-Holland,VBO,5.148163,52.313147
-Gaffel,8,,,1411DJ,Naarden,Naarden,Noord-Holland,VBO,5.148107,52.313109
-Gaffel,10,,,1411DJ,Naarden,Naarden,Noord-Holland,VBO,5.147955,52.312917
-Helmstok,1,,,1411DK,Naarden,Naarden,Noord-Holland,VBO,5.147973,52.313612
-Helmstok,3,,,1411DK,Naarden,Naarden,Noord-Holland,VBO,5.147826,52.313481
-Helmstok,5,,,1411DK,Naarden,Naarden,Noord-Holland,VBO,5.147775,52.313411
-Helmstok,7,,,1411DK,Naarden,Naarden,Noord-Holland,VBO,5.147696,52.313248
-Helmstok,9,,,1411DK,Naarden,Naarden,Noord-Holland,VBO,5.147643,52.313204
-Helmstok,11,,,1411DK,Naarden,Naarden,Noord-Holland,VBO,5.147526,52.313043
 IJsselmeerweg,47,,,1411DL,Naarden,Naarden,Noord-Holland,VBO,5.143584,52.316734
 IJsselmeerweg,49,,,1411DL,Naarden,Naarden,Noord-Holland,VBO,5.143555,52.316734
 IJsselmeerweg,51,,,1411DL,Naarden,Naarden,Noord-Holland,VBO,5.143526,52.316734
@@ -1941,6 +1879,7 @@ Ernst Casimirlaan,5,,,1411GC,Naarden,Naarden,Noord-Holland,VBO,5.153311,52.28959
 Ernst Casimirlaan,7,,,1411GC,Naarden,Naarden,Noord-Holland,VBO,5.153253,52.289543
 Ernst Casimirlaan,9,,,1411GC,Naarden,Naarden,Noord-Holland,VBO,5.153107,52.289372
 Rijksweg,1,A,,1411GD,Naarden,Naarden,Noord-Holland,VBO,5.159551,52.287542
+Rijksweg,1,B,,1411GD,Naarden,Naarden,Noord-Holland,VBO,5.159598,52.287541
 Rijksweg,1,,,1411GD,Naarden,Naarden,Noord-Holland,VBO,5.159522,52.287560
 Rijksweg,3,,,1411GD,Naarden,Naarden,Noord-Holland,VBO,5.159050,52.287499
 Rijksweg,5,,,1411GD,Naarden,Naarden,Noord-Holland,VBO,5.158903,52.287517
@@ -2880,12 +2819,6 @@ Oud Blaricumerweg,28,,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.181419,52.2845
 Oud Blaricumerweg,30,A,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.181881,52.284633
 Oud Blaricumerweg,30,,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.181536,52.284574
 Oud Blaricumerweg,32,,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.181986,52.284628
-Oud Blaricumerweg,34,A,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.182367,52.284950
-Oud Blaricumerweg,34,B,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.182474,52.284950
-Oud Blaricumerweg,34,C,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.182352,52.284861
-Oud Blaricumerweg,34,D,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.182451,52.284846
-Oud Blaricumerweg,34,E,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.182344,52.284784
-Oud Blaricumerweg,34,F,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.182442,52.284782
 Oud Blaricumerweg,34,,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.182393,52.284891
 Oud Blaricumerweg,36,A,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.182205,52.285363
 Oud Blaricumerweg,36,B,,1411JT,Naarden,Naarden,Noord-Holland,VBO,5.181912,52.285327
@@ -3972,6 +3905,7 @@ Pastoorstraat,24,,,1411SE,Naarden,Naarden,Noord-Holland,VBO,5.160577,52.296249
 Pastoorstraat,26,,,1411SE,Naarden,Naarden,Noord-Holland,VBO,5.160537,52.296284
 Pastoorstraat,28,,,1411SE,Naarden,Naarden,Noord-Holland,VBO,5.160488,52.296325
 Pastoorstraat,30,,,1411SE,Naarden,Naarden,Noord-Holland,VBO,5.160412,52.296407
+Nieuwe Haven,1,F,,1411SG,Naarden,Naarden,Noord-Holland,VBO,5.161964,52.296695
 Nieuwe Haven,1,,,1411SG,Naarden,Naarden,Noord-Holland,VBO,5.161666,52.296944
 Nieuwe Haven,3,,,1411SG,Naarden,Naarden,Noord-Holland,VBO,5.161519,52.296877
 Nieuwe Haven,7,,,1411SG,Naarden,Naarden,Noord-Holland,VBO,5.161071,52.296678

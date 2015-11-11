@@ -147,6 +147,7 @@ Industrieweg,4,,,2821AL,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773576,51.968
 Industrieweg,6,a,,2821AL,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773429,51.969100
 Industrieweg,6,b,,2821AL,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773484,51.969177
 Industrieweg,6,,,2821AL,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773451,51.968991
+Industrieweg,8,a,,2821AL,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773164,51.969290
 Industrieweg,8,,,2821AL,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773260,51.969181
 Industrieweg,10,,,2821AL,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773314,51.969471
 Industrieweg,11,a,,2821AL,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.772363,51.970174
@@ -220,7 +221,6 @@ Dorpsplein,8,,,2821AS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.770978,51.97271
 Dorpsplein,9,a,,2821AS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771509,51.972536
 Dorpsplein,10,,,2821AS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771509,51.972536
 Dorpsplein,11,a,,2821AS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771676,51.972458
-Dorpsplein,11,,,2821AS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771658,51.972474
 Dorpsplein,11,,,2821AS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771701,51.972428
 Dorpsplein,12,,,2821AS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771725,51.972480
 Dorpsplein,13,,,2821AS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771789,51.972490
@@ -240,20 +240,18 @@ Nijverheidsweg,9,c,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775256,51.
 Nijverheidsweg,9,d,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775297,51.965949
 Nijverheidsweg,9,e,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775338,51.965958
 Nijverheidsweg,9,f,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775377,51.965968
-Nijverheidsweg,9,g,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775215,51.965837
-Nijverheidsweg,9,h,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775256,51.965845
-Nijverheidsweg,9,i,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775298,51.965853
-Nijverheidsweg,9,j,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775340,51.965861
-Nijverheidsweg,9,k,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775385,51.965868
-Nijverheidsweg,9,l,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775424,51.965878
+Nijverheidsweg,9,h,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775424,51.965878
+Nijverheidsweg,9,j,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775385,51.965868
+Nijverheidsweg,9,k,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775340,51.965861
+Nijverheidsweg,9,m,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775298,51.965853
+Nijverheidsweg,9,n,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775256,51.965845
+Nijverheidsweg,9,p,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775215,51.965837
 Nijverheidsweg,9,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775177,51.965822
 Nijverheidsweg,10,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773966,51.966354
-Nijverheidsweg,11,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775329,51.965726
 Nijverheidsweg,14,a,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774495,51.965385
 Nijverheidsweg,14,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774234,51.965401
 Nijverheidsweg,16,a,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775139,51.965110
 Nijverheidsweg,16,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774886,51.965229
-Nijverheidsweg,17,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775656,51.965430
 Nijverheidsweg,18,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774414,51.964931
 Nijverheidsweg,19,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775754,51.965129
 Nijverheidsweg,21,,,2821AT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775869,51.964954
@@ -277,23 +275,24 @@ Nijverheidsweg,1,,,2821AV,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774283,51.9
 Nijverheidsweg,3,a,,2821AV,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774662,51.967013
 Nijverheidsweg,3,b,,2821AV,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774739,51.966744
 Nijverheidsweg,3,,,2821AV,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774471,51.967151
-Nijverheidsweg,20,a,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775218,51.964739
-Nijverheidsweg,20,b,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775146,51.964724
-Nijverheidsweg,20,c,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775084,51.964708
-Nijverheidsweg,20,d,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775012,51.964690
-Nijverheidsweg,20,e,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774938,51.964674
-Nijverheidsweg,20,f,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774871,51.964658
-Nijverheidsweg,20,g,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774800,51.964644
+Nijverheidsweg,20,a,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775161,51.964725
+Nijverheidsweg,20,b,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775079,51.964707
+Nijverheidsweg,20,c,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775001,51.964688
+Nijverheidsweg,20,d,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774923,51.964669
+Nijverheidsweg,20,e,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774845,51.964652
+Nijverheidsweg,20,f,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774763,51.964635
+Nijverheidsweg,20,g,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774685,51.964616
 Nijverheidsweg,20,h,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775324,51.964562
-Nijverheidsweg,20,i,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775253,51.964545
-Nijverheidsweg,20,j,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775183,51.964528
-Nijverheidsweg,20,k,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775114,51.964512
-Nijverheidsweg,20,l,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775008,51.964491
-Nijverheidsweg,20,m,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774899,51.964466
-Nijverheidsweg,20,n,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774834,51.964447
-Nijverheidsweg,20,o,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774775,51.964508
-Nijverheidsweg,20,p,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774748,51.964560
-Nijverheidsweg,20,q,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774736,51.964626
+Nijverheidsweg,20,i,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775257,51.964504
+Nijverheidsweg,20,j,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775147,51.964483
+Nijverheidsweg,20,k,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775044,51.964459
+Nijverheidsweg,20,l,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774889,51.964424
+Nijverheidsweg,20,m,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774735,51.964389
+Nijverheidsweg,20,n,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774632,51.964366
+Nijverheidsweg,20,o,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774585,51.964443
+Nijverheidsweg,20,p,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774547,51.964507
+Nijverheidsweg,20,q,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.774508,51.964576
+Nijverheidsweg,20,,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775240,51.964742
 Nijverheidsweg,22,,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775299,51.964374
 Nijverheidsweg,24,,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775084,51.964123
 Nijverheidsweg,26,,,2821AW,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.775527,51.963986
@@ -515,37 +514,6 @@ Kerklaan,10,,,2821BM,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.769835,51.970947
 Kerklaan,12,,,2821BM,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.769951,51.970993
 Kerklaan,14,,,2821BM,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.770075,51.970993
 Kerklaan,16,,,2821BM,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.770183,51.971025
-Buitenom,2,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.768735,51.972937
-Buitenom,4,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.768661,51.972990
-Buitenom,6,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.768579,51.973046
-Buitenom,8,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.768486,51.973096
-Buitenom,10,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.768390,51.973145
-Buitenom,12,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.768390,51.973145
-Buitenom,14,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767941,51.972617
-Buitenom,16,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767915,51.972667
-Buitenom,18,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767800,51.972787
-Buitenom,20,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767753,51.972842
-Buitenom,22,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767612,51.972945
-Buitenom,24,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767577,51.972986
-Buitenom,26,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767540,51.973028
-Buitenom,28,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767446,51.973147
-Buitenom,30,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767415,51.973188
-Buitenom,32,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767387,51.973231
-Buitenom,34,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767282,51.973409
-Buitenom,36,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767242,51.973447
-Buitenom,38,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767138,51.973553
-Buitenom,40,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767107,51.973602
-Buitenom,42,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767075,51.973649
-Buitenom,44,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767061,51.973701
-Buitenom,46,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767040,51.973751
-Buitenom,48,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767012,51.973884
-Buitenom,50,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.766977,51.973927
-Buitenom,52,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.766818,51.974060
-Buitenom,54,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.766771,51.974106
-Buitenom,56,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.766714,51.974158
-Buitenom,58,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.766661,51.974208
-Buitenom,60,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.766623,51.974255
-Buitenom,62,,,2821BN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.766563,51.974308
 Benedenkerkseweg,41,a,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.768127,51.971538
 Benedenkerkseweg,41,,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.768127,51.971538
 Benedenkerkseweg,45,,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.767690,51.971381
@@ -573,7 +541,7 @@ Benedenkerkseweg,83,b,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.760877,
 Benedenkerkseweg,83,c,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.761758,51.967808
 Benedenkerkseweg,83,d,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.761966,51.967530
 Benedenkerkseweg,83,f,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.762250,51.966966
-Benedenkerkseweg,83,g,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.762500,51.966760
+Benedenkerkseweg,83,g,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.762510,51.966830
 Benedenkerkseweg,83,h,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.762357,51.966625
 Benedenkerkseweg,83,i,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.762620,51.966554
 Benedenkerkseweg,83,j,,2821LA,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.762695,51.966339
@@ -698,7 +666,7 @@ Benedenkerkseweg,146,,,2821LG,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.742421,
 't Vaartland,15,,,2821LH,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.765768,51.973519
 't Vaartland,19,,,2821LH,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.765395,51.973688
 't Vaartland,21,,,2821LH,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.765051,51.974119
-'t Vaartland,23,,,2821LH,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.764848,51.974054
+'t Vaartland,23,,,2821LH,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.764784,51.974013
 't Vaartland,31,,,2821LH,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.765029,51.974375
 Benedenheulseweg,1,a,,2821LR,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.738464,51.960263
 Benedenheulseweg,1,,,2821LR,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.739928,51.960903
@@ -840,7 +808,8 @@ Beijerscheweg,59,a,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.729757,51.
 Beijerscheweg,59,,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.730125,51.983026
 Beijerscheweg,61,,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.729554,51.982751
 Beijerscheweg,63,,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.729424,51.982723
-Beijerscheweg,65,,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.729092,51.982505
+Beijerscheweg,65,a,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.729189,51.982421
+Beijerscheweg,65,,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.729189,51.982421
 Beijerscheweg,67,,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.728925,51.982307
 Beijerscheweg,69,,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.728402,51.981926
 Beijerscheweg,71,,,2821ND,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.728240,51.982069
@@ -1016,7 +985,7 @@ Schoonouwenseweg,46,,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.799753,5
 Schoonouwenseweg,50,,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.800914,51.964407
 Schoonouwenseweg,52,a,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.802187,51.964800
 Schoonouwenseweg,52,,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.801608,51.964686
-Schoonouwenseweg,54,,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.804811,51.963795
+Schoonouwenseweg,54,,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.804712,51.963644
 Schoonouwenseweg,56,,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.804230,51.963721
 Schoonouwenseweg,58,,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.806666,51.964122
 Schoonouwenseweg,60,a,,2821NZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.807764,51.962763
@@ -1745,7 +1714,6 @@ In de Bogerd,1,c,,2821WZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771847,51.97
 In de Bogerd,1,d,,2821WZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771618,51.972521
 In de Bogerd,1,,,2821WZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771776,51.972705
 In de Bogerd,2,,,2821WZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771846,51.972904
-In de Bogerd,3,,,2821WZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771586,51.972713
 In de Bogerd,4,,,2821WZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771875,51.972877
 In de Bogerd,5,,,2821WZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771549,51.972767
 In de Bogerd,6,,,2821WZ,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.771919,51.972850
@@ -1981,7 +1949,6 @@ Bovenkerkseweg,11,a,,2821XS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.772543,51
 Bovenkerkseweg,11,,,2821XS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.772719,51.972683
 Bovenkerkseweg,13,,,2821XS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.772879,51.972873
 Bovenkerkseweg,15,,,2821XS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.772835,51.972909
-Bovenkerkseweg,17,a,,2821XS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.772907,51.973008
 Bovenkerkseweg,19,a,,2821XS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773233,51.973016
 Bovenkerkseweg,19,,,2821XS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773405,51.972777
 Bovenkerkseweg,21,,,2821XS,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.773666,51.972805
@@ -2303,20 +2270,20 @@ Groenhove,14,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.776665,51.97166
 Groenhove,15,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777200,51.972482
 Groenhove,16,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.776753,51.971662
 Groenhove,17,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777067,51.972643
-Groenhove,18,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777702,51.971960
+Groenhove,18,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778360,51.972057
 Groenhove,19,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777489,51.972654
-Groenhove,20,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777774,51.971976
+Groenhove,20,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778428,51.972072
 Groenhove,21,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777534,51.972524
-Groenhove,22,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777846,51.971991
+Groenhove,22,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778504,51.972089
 Groenhove,23,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777643,51.972113
-Groenhove,24,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777914,51.972008
+Groenhove,24,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778575,51.972101
 Groenhove,25,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777791,51.972186
-Groenhove,26,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777988,51.972024
-Groenhove,27,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778130,51.972224
-Groenhove,28,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778056,51.972038
-Groenhove,29,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778197,51.972240
-Groenhove,30,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778123,51.972055
-Groenhove,32,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778198,51.972069
+Groenhove,26,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778647,51.972117
+Groenhove,27,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778032,51.972220
+Groenhove,28,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778721,51.972130
+Groenhove,29,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778102,51.972236
+Groenhove,30,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778794,51.972143
+Groenhove,32,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778861,51.972159
 Groenhove,35,,,2821ZN,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778838,51.972427
 Poldertocht,1,,,2821ZP,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.779850,51.970725
 Poldertocht,3,,,2821ZP,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.779925,51.970627
@@ -2337,15 +2304,15 @@ Poldertocht,12,,,2821ZR,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.779874,51.970
 Poldertocht,14,,,2821ZR,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.779963,51.969908
 Poldertocht,16,,,2821ZR,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.780000,51.969863
 Poldertocht,18,,,2821ZR,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.780046,51.969737
-Weide,1,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777810,51.971793
-Weide,2,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777525,51.971852
-Weide,3,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777836,51.971746
-Weide,4,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777567,51.971791
-Weide,5,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777871,51.971697
-Weide,6,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777665,51.971700
-Weide,7,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777906,51.971652
-Weide,8,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777677,51.971632
-Weide,9,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.777933,51.971599
+Weide,1,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778466,51.971807
+Weide,2,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778003,51.971946
+Weide,3,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778498,51.971762
+Weide,4,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778024,51.971865
+Weide,5,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778527,51.971703
+Weide,6,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778124,51.971749
+Weide,7,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778546,51.971660
+Weide,8,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778176,51.971673
+Weide,9,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778584,51.971608
 Weide,10,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778208,51.971531
 Weide,12,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778259,51.971472
 Weide,14,,,2821ZT,Stolwijk,Krimpenerwaard,Zuid-Holland,VBO,4.778327,51.971363

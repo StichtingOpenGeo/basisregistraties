@@ -7,8 +7,6 @@ Ringbaan-Oost,417,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.103828,51.559546
 Ringbaan-Oost,419,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.103841,51.559489
 Ringbaan-Oost,421,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.103854,51.559432
 Ringbaan-Oost,423,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.104787,51.555951
-Ringbaan-Oost,425,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.104802,51.555751
-Ringbaan-Oost,427,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.104829,51.555722
 Ringbaan-Oost,429,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.105002,51.555706
 Ringbaan-Oost,431,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.105047,51.555654
 Ringbaan-Oost,433,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.105095,51.555600
@@ -19,7 +17,6 @@ Ringbaan-Oost,441,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.105281,51.555388
 Ringbaan-Oost,443,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.105329,51.555334
 Ringbaan-Oost,445,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.105376,51.555280
 Ringbaan-Oost,449,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.107215,51.553479
-Ringbaan-Oost,451,a,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.107480,51.553020
 Ringbaan-Oost,451,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.107516,51.553035
 Ringbaan-Oost,453,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.107702,51.552892
 Ringbaan-Oost,455,,,5017AA,Tilburg,Tilburg,Noord-Brabant,VBO,5.107756,51.552845
@@ -43,8 +40,10 @@ Ringbaan-Oost,489,,,5017AB,Tilburg,Tilburg,Noord-Brabant,VBO,5.108898,51.551902
 Ringbaan-Oost,491,,,5017AB,Tilburg,Tilburg,Noord-Brabant,VBO,5.108953,51.551857
 Ringbaan-Oost,493,,,5017AB,Tilburg,Tilburg,Noord-Brabant,VBO,5.109089,51.551746
 Sint Bernadettestraat,1,,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.106894,51.552735
-Sint Bernadettestraat,2,,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.107348,51.552532
+Sint Bernadettestraat,2,,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.107412,51.552751
 Sint Bernadettestraat,3,,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.106975,51.552656
+Sint Bernadettestraat,4,a,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.107393,51.552486
+Sint Bernadettestraat,4,,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.107317,51.552562
 Sint Bernadettestraat,5,,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.107046,51.552586
 Sint Bernadettestraat,6,,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.107473,51.552405
 Sint Bernadettestraat,9,,,5017AC,Tilburg,Tilburg,Noord-Brabant,VBO,5.107138,51.552511
@@ -97,6 +96,7 @@ Hoevenseweg,32,,,5017AE,Tilburg,Tilburg,Noord-Brabant,VBO,5.105072,51.553265
 Hoevenseweg,34,,,5017AE,Tilburg,Tilburg,Noord-Brabant,VBO,5.105115,51.553238
 Hoevenseweg,36,,,5017AE,Tilburg,Tilburg,Noord-Brabant,VBO,5.105169,51.553206
 Hoevenseweg,38,,,5017AE,Tilburg,Tilburg,Noord-Brabant,VBO,5.105216,51.553180
+Hoevenseweg,40,a,,5017AE,Tilburg,Tilburg,Noord-Brabant,VBO,5.105289,51.553174
 Hoevenseweg,40,,,5017AE,Tilburg,Tilburg,Noord-Brabant,VBO,5.105260,51.553154
 Hoevenseweg,42,,,5017AE,Tilburg,Tilburg,Noord-Brabant,VBO,5.105305,51.553129
 Hoevenseweg,44,,,5017AE,Tilburg,Tilburg,Noord-Brabant,VBO,5.105386,51.553084
@@ -156,7 +156,6 @@ Fatimastraat,9,,,5017AJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.104953,51.552560
 Fatimastraat,11,a,,5017AJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.104779,51.552642
 Fatimastraat,11,b,,5017AJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.104758,51.552665
 Fatimastraat,11,,,5017AJ,Tilburg,Tilburg,Noord-Brabant,VBO,5.104899,51.552539
-Lourdesplein,3,,,5017AK,Tilburg,Tilburg,Noord-Brabant,VBO,5.107060,51.553414
 Lourdesplein,5,,,5017AK,Tilburg,Tilburg,Noord-Brabant,VBO,5.104886,51.553670
 Lourdesplein,10,,,5017AK,Tilburg,Tilburg,Noord-Brabant,VBO,5.104967,51.554019
 Havendijk,5,,,5017AL,Tilburg,Tilburg,Noord-Brabant,LIG,5.105492,51.554863
@@ -328,10 +327,11 @@ Piushaven,5,,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.096489,51.552760
 Piushaven,6,,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.096308,51.552752
 Piushaven,9,,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.095585,51.552724
 Piushaven,17,,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.095132,51.552705
-Piushaven,20,a,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094761,51.552746
-Piushaven,20,b,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094712,51.552744
-Piushaven,20,c,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094662,51.552742
-Piushaven,20,e,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094564,51.552738
+Piushaven,20,a,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094931,51.552699
+Piushaven,20,b,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094820,51.552694
+Piushaven,20,c,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094748,51.552892
+Piushaven,20,e,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094612,51.552686
+Piushaven,20,f,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094489,51.552681
 Piushaven,21,,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094246,51.552753
 Piushaven,22,,01,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094009,51.552832
 Piushaven,22,,,5017AN,Tilburg,Tilburg,Noord-Brabant,VBO,5.094037,51.552663
@@ -357,39 +357,6 @@ Piushaven,40,,,5017AP,Tilburg,Tilburg,Noord-Brabant,VBO,5.092849,51.551839
 Schoenerstraat,1,,,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.095170,51.553150
 Schoenerstraat,3,,,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.095174,51.553107
 Schoenerstraat,5,,,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.095178,51.553066
-Schoenerstraat,7,,01,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094751,51.553000
-Schoenerstraat,7,,02,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094707,51.552998
-Schoenerstraat,7,,03,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094663,51.552996
-Schoenerstraat,7,,04,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094620,51.552995
-Schoenerstraat,7,,05,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094576,51.552993
-Schoenerstraat,7,,06,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094533,51.552991
-Schoenerstraat,7,,07,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094492,51.552989
-Schoenerstraat,7,,08,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094450,51.552988
-Schoenerstraat,7,,09,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094409,51.552986
-Schoenerstraat,7,,10,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094367,51.552985
-Schoenerstraat,7,,11,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094326,51.552984
-Schoenerstraat,7,,12,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094284,51.552982
-Schoenerstraat,7,,13,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094243,51.552981
-Schoenerstraat,7,,14,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094201,51.552979
-Schoenerstraat,7,,15,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094160,51.552978
-Schoenerstraat,7,,16,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094118,51.552977
-Schoenerstraat,7,,17,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094077,51.552975
-Schoenerstraat,7,,18,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094035,51.552974
-Schoenerstraat,7,,19,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094009,51.553154
-Schoenerstraat,7,,20,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094049,51.553155
-Schoenerstraat,7,,21,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094089,51.553157
-Schoenerstraat,7,,22,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094129,51.553159
-Schoenerstraat,7,,23,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094169,51.553161
-Schoenerstraat,7,,24,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094209,51.553162
-Schoenerstraat,7,,25,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094248,51.553164
-Schoenerstraat,7,,26,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094288,51.553166
-Schoenerstraat,7,,27,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094422,51.553159
-Schoenerstraat,7,,28,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094554,51.553122
-Schoenerstraat,7,,29,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094594,51.553124
-Schoenerstraat,7,,30,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094634,51.553125
-Schoenerstraat,7,,31,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094674,51.553127
-Schoenerstraat,7,,32,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094778,51.553117
-Schoenerstraat,7,,33,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.094899,51.553054
 Schoenerstraat,7,,,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.095182,51.553025
 Schoenerstraat,9,a,,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.095217,51.552741
 Schoenerstraat,9,,,5017AS,Tilburg,Tilburg,Noord-Brabant,VBO,5.095215,51.552850
@@ -779,7 +746,6 @@ Hoogvensestraat,157,,,5017CD,Tilburg,Tilburg,Noord-Brabant,VBO,5.092529,51.55514
 Hoogvensestraat,159,,,5017CD,Tilburg,Tilburg,Noord-Brabant,VBO,5.092465,51.555146
 Hoogvensestraat,161,a,,5017CD,Tilburg,Tilburg,Noord-Brabant,VBO,5.092236,51.555428
 Hoogvensestraat,161,,,5017CD,Tilburg,Tilburg,Noord-Brabant,VBO,5.092406,51.555150
-Hoogvensestraat,163,,,5017CD,Tilburg,Tilburg,Noord-Brabant,VBO,5.092486,51.555564
 Hoogvensestraat,165,,,5017CD,Tilburg,Tilburg,Noord-Brabant,VBO,5.092301,51.555159
 Hoogvensestraat,167,,,5017CD,Tilburg,Tilburg,Noord-Brabant,VBO,5.092237,51.555163
 Hoogvensestraat,169,,,5017CD,Tilburg,Tilburg,Noord-Brabant,VBO,5.092176,51.555168
@@ -1277,6 +1243,7 @@ Kotterstraat,69,,,5017CZ,Tilburg,Tilburg,Noord-Brabant,VBO,5.094676,51.553639
 Kotterstraat,71,,,5017CZ,Tilburg,Tilburg,Noord-Brabant,VBO,5.094678,51.553601
 Kotterstraat,73,,,5017CZ,Tilburg,Tilburg,Noord-Brabant,VBO,5.094679,51.553561
 Kempenaarplaats,2,,,5017DX,Tilburg,Tilburg,Noord-Brabant,VBO,5.099144,51.553722
+Kempenaarplaats,8,,,5017DX,Tilburg,Tilburg,Noord-Brabant,VBO,5.099191,51.553632
 Kempenaarplaats,12,,,5017DX,Tilburg,Tilburg,Noord-Brabant,VBO,5.099237,51.553511
 Kempenaarplaats,20,,,5017DX,Tilburg,Tilburg,Noord-Brabant,VBO,5.099367,51.553348
 Kempenaarplaats,22,,,5017DX,Tilburg,Tilburg,Noord-Brabant,VBO,5.099428,51.553360
@@ -1517,119 +1484,119 @@ Jan Aartestraat,98,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.092162,51.555825
 Jan Aartestraat,100,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.092042,51.555832
 Jan Aartestraat,104,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091935,51.555841
 Jan Aartestraat,106,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091824,51.555856
-Jan Aartestraat,108,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091487,51.555779
-Jan Aartestraat,110,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091314,51.555931
-Jan Aartestraat,112,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091381,51.555919
-Jan Aartestraat,114,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091448,51.555907
-Jan Aartestraat,116,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091508,51.555897
-Jan Aartestraat,118,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091575,51.555885
-Jan Aartestraat,120,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091633,51.555875
-Jan Aartestraat,122,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091691,51.555864
-Jan Aartestraat,124,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091432,51.555791
-Jan Aartestraat,126,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091418,51.555761
-Jan Aartestraat,128,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555730
-Jan Aartestraat,130,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555701
-Jan Aartestraat,132,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091377,51.555671
-Jan Aartestraat,134,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091363,51.555641
-Jan Aartestraat,136,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091351,51.555611
-Jan Aartestraat,138,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091092,51.555643
-Jan Aartestraat,140,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091108,51.555675
-Jan Aartestraat,142,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091122,51.555708
-Jan Aartestraat,144,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091138,51.555741
-Jan Aartestraat,146,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091153,51.555774
-Jan Aartestraat,148,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091168,51.555807
-Jan Aartestraat,150,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091183,51.555840
-Jan Aartestraat,152,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091198,51.555872
-Jan Aartestraat,154,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091213,51.555905
-Jan Aartestraat,156,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091228,51.555938
-Jan Aartestraat,158,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091310,51.555922
-Jan Aartestraat,160,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091377,51.555910
-Jan Aartestraat,162,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091444,51.555899
-Jan Aartestraat,164,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091504,51.555888
-Jan Aartestraat,166,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091418,51.555793
-Jan Aartestraat,168,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555763
-Jan Aartestraat,170,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555733
-Jan Aartestraat,172,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091377,51.555703
-Jan Aartestraat,174,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091363,51.555673
-Jan Aartestraat,176,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091349,51.555643
-Jan Aartestraat,178,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091335,51.555613
-Jan Aartestraat,180,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091107,51.555640
-Jan Aartestraat,182,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091122,51.555673
-Jan Aartestraat,184,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091137,51.555706
-Jan Aartestraat,186,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091152,51.555739
-Jan Aartestraat,188,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091167,51.555771
-Jan Aartestraat,190,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091182,51.555804
-Jan Aartestraat,192,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091197,51.555837
-Jan Aartestraat,194,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091212,51.555870
-Jan Aartestraat,196,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091227,51.555903
-Jan Aartestraat,198,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091242,51.555935
-Jan Aartestraat,200,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091306,51.555913
-Jan Aartestraat,202,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091373,51.555902
-Jan Aartestraat,204,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091440,51.555890
-Jan Aartestraat,206,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091500,51.555879
-Jan Aartestraat,208,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555796
-Jan Aartestraat,210,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555766
-Jan Aartestraat,212,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091377,51.555736
-Jan Aartestraat,214,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091363,51.555706
-Jan Aartestraat,216,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091349,51.555676
-Jan Aartestraat,218,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091335,51.555646
-Jan Aartestraat,220,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091320,51.555616
-Jan Aartestraat,222,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091120,51.555637
-Jan Aartestraat,224,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091135,51.555670
-Jan Aartestraat,226,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091151,51.555703
-Jan Aartestraat,228,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091166,51.555735
-Jan Aartestraat,230,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091181,51.555769
-Jan Aartestraat,232,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091196,51.555802
-Jan Aartestraat,234,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091211,51.555834
-Jan Aartestraat,236,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091226,51.555868
-Jan Aartestraat,238,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091241,51.555900
-Jan Aartestraat,240,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091256,51.555933
-Jan Aartestraat,242,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091392,51.555798
-Jan Aartestraat,244,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555768
-Jan Aartestraat,246,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091363,51.555738
-Jan Aartestraat,248,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091348,51.555708
-Jan Aartestraat,250,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091335,51.555678
-Jan Aartestraat,252,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091321,51.555648
-Jan Aartestraat,254,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091308,51.555618
-Jan Aartestraat,256,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091134,51.555635
-Jan Aartestraat,258,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091149,51.555668
-Jan Aartestraat,260,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091164,51.555701
-Jan Aartestraat,262,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091180,51.555733
-Jan Aartestraat,264,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091194,51.555766
-Jan Aartestraat,266,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091209,51.555799
-Jan Aartestraat,268,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091224,51.555832
-Jan Aartestraat,270,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555800
-Jan Aartestraat,272,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091363,51.555771
-Jan Aartestraat,274,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091349,51.555741
-Jan Aartestraat,276,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091335,51.555711
-Jan Aartestraat,278,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091194,51.555730
-Jan Aartestraat,280,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091210,51.555763
-Jan Aartestraat,282,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091223,51.555797
-Jan Aartestraat,284,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091238,51.555830
-Jan Aartestraat,286,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091363,51.555803
-Jan Aartestraat,288,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091349,51.555773
-Jan Aartestraat,290,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091335,51.555743
-Jan Aartestraat,292,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091321,51.555712
-Jan Aartestraat,294,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091207,51.555729
-Jan Aartestraat,296,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091222,51.555761
-Jan Aartestraat,298,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091237,51.555794
-Jan Aartestraat,300,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091252,51.555827
-Jan Aartestraat,302,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091349,51.555805
-Jan Aartestraat,304,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091335,51.555775
-Jan Aartestraat,306,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091321,51.555745
-Jan Aartestraat,308,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091307,51.555715
-Jan Aartestraat,310,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091221,51.555726
-Jan Aartestraat,312,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091236,51.555759
-Jan Aartestraat,314,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091252,51.555791
-Jan Aartestraat,316,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091266,51.555824
-Jan Aartestraat,318,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091335,51.555808
-Jan Aartestraat,320,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091321,51.555778
-Jan Aartestraat,322,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091307,51.555748
-Jan Aartestraat,324,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091293,51.555718
-Jan Aartestraat,326,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091235,51.555724
-Jan Aartestraat,328,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091250,51.555756
-Jan Aartestraat,330,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091265,51.555789
-Jan Aartestraat,332,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091281,51.555822
+Jan Aartestraat,108,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091528,51.555772
+Jan Aartestraat,110,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091355,51.555923
+Jan Aartestraat,112,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091422,51.555912
+Jan Aartestraat,114,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091489,51.555900
+Jan Aartestraat,116,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091549,51.555889
+Jan Aartestraat,118,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091616,51.555878
+Jan Aartestraat,120,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091674,51.555867
+Jan Aartestraat,122,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091718,51.555859
+Jan Aartestraat,124,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091473,51.555783
+Jan Aartestraat,126,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091459,51.555753
+Jan Aartestraat,128,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091445,51.555723
+Jan Aartestraat,130,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091432,51.555693
+Jan Aartestraat,132,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091418,51.555663
+Jan Aartestraat,134,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555633
+Jan Aartestraat,136,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555603
+Jan Aartestraat,138,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091134,51.555635
+Jan Aartestraat,140,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091149,51.555668
+Jan Aartestraat,142,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091164,51.555701
+Jan Aartestraat,144,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091178,51.555733
+Jan Aartestraat,146,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091193,51.555766
+Jan Aartestraat,148,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091208,51.555799
+Jan Aartestraat,150,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091223,51.555832
+Jan Aartestraat,152,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091239,51.555865
+Jan Aartestraat,154,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091254,51.555898
+Jan Aartestraat,156,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091269,51.555931
+Jan Aartestraat,158,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091351,51.555915
+Jan Aartestraat,160,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091418,51.555903
+Jan Aartestraat,162,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091485,51.555891
+Jan Aartestraat,164,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091545,51.555881
+Jan Aartestraat,166,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091459,51.555786
+Jan Aartestraat,168,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091445,51.555756
+Jan Aartestraat,170,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091431,51.555726
+Jan Aartestraat,172,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091418,51.555696
+Jan Aartestraat,174,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555666
+Jan Aartestraat,176,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555636
+Jan Aartestraat,178,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555606
+Jan Aartestraat,180,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091148,51.555633
+Jan Aartestraat,182,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091163,51.555666
+Jan Aartestraat,184,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091178,51.555698
+Jan Aartestraat,186,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091193,51.555731
+Jan Aartestraat,188,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091208,51.555764
+Jan Aartestraat,190,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091223,51.555797
+Jan Aartestraat,192,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091238,51.555830
+Jan Aartestraat,194,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091253,51.555863
+Jan Aartestraat,196,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091268,51.555896
+Jan Aartestraat,198,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091283,51.555928
+Jan Aartestraat,200,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091347,51.555906
+Jan Aartestraat,202,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091414,51.555894
+Jan Aartestraat,204,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091481,51.555883
+Jan Aartestraat,206,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091541,51.555872
+Jan Aartestraat,208,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091445,51.555788
+Jan Aartestraat,210,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091431,51.555758
+Jan Aartestraat,212,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091418,51.555728
+Jan Aartestraat,214,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555698
+Jan Aartestraat,216,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555668
+Jan Aartestraat,218,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555638
+Jan Aartestraat,220,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091362,51.555608
+Jan Aartestraat,222,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091162,51.555630
+Jan Aartestraat,224,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091177,51.555663
+Jan Aartestraat,226,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091192,51.555696
+Jan Aartestraat,228,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091207,51.555729
+Jan Aartestraat,230,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091222,51.555762
+Jan Aartestraat,232,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091237,51.555795
+Jan Aartestraat,234,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091252,51.555827
+Jan Aartestraat,236,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091267,51.555860
+Jan Aartestraat,238,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091282,51.555893
+Jan Aartestraat,240,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091297,51.555926
+Jan Aartestraat,242,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091431,51.555791
+Jan Aartestraat,244,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091418,51.555761
+Jan Aartestraat,246,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555731
+Jan Aartestraat,248,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555701
+Jan Aartestraat,250,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555671
+Jan Aartestraat,252,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091362,51.555641
+Jan Aartestraat,254,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091349,51.555611
+Jan Aartestraat,256,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091175,51.555628
+Jan Aartestraat,258,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091190,51.555661
+Jan Aartestraat,260,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091205,51.555693
+Jan Aartestraat,262,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091221,51.555726
+Jan Aartestraat,264,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091236,51.555759
+Jan Aartestraat,266,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091251,51.555792
+Jan Aartestraat,268,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091266,51.555825
+Jan Aartestraat,270,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091417,51.555793
+Jan Aartestraat,272,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555763
+Jan Aartestraat,274,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555733
+Jan Aartestraat,276,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555703
+Jan Aartestraat,278,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091234,51.555724
+Jan Aartestraat,280,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091249,51.555757
+Jan Aartestraat,282,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091264,51.555790
+Jan Aartestraat,284,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091279,51.555822
+Jan Aartestraat,286,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091404,51.555796
+Jan Aartestraat,288,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555766
+Jan Aartestraat,290,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555736
+Jan Aartestraat,292,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091362,51.555706
+Jan Aartestraat,294,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091248,51.555721
+Jan Aartestraat,296,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091263,51.555754
+Jan Aartestraat,298,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091278,51.555787
+Jan Aartestraat,300,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091293,51.555820
+Jan Aartestraat,302,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091390,51.555798
+Jan Aartestraat,304,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555768
+Jan Aartestraat,306,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091362,51.555738
+Jan Aartestraat,308,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091348,51.555708
+Jan Aartestraat,310,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091262,51.555719
+Jan Aartestraat,312,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091277,51.555752
+Jan Aartestraat,314,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091292,51.555785
+Jan Aartestraat,316,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091307,51.555817
+Jan Aartestraat,318,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091376,51.555801
+Jan Aartestraat,320,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091362,51.555771
+Jan Aartestraat,322,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091348,51.555741
+Jan Aartestraat,324,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091335,51.555711
+Jan Aartestraat,326,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091276,51.555716
+Jan Aartestraat,328,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091291,51.555749
+Jan Aartestraat,330,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091306,51.555782
+Jan Aartestraat,332,,,5017EE,Tilburg,Tilburg,Noord-Brabant,VBO,5.091321,51.555815
 Huzarenstraat,1,,,5017EG,Tilburg,Tilburg,Noord-Brabant,VBO,5.094420,51.556303
 Huzarenstraat,2,,,5017EG,Tilburg,Tilburg,Noord-Brabant,VBO,5.094629,51.556328
 Huzarenstraat,4,,,5017EG,Tilburg,Tilburg,Noord-Brabant,VBO,5.094605,51.556284
@@ -1958,7 +1925,7 @@ Prinsenhoeven,44,,,5017GC,Tilburg,Tilburg,Noord-Brabant,VBO,5.103401,51.554876
 Prinsenhoeven,46,,,5017GC,Tilburg,Tilburg,Noord-Brabant,VBO,5.103434,51.554847
 Prinsenhoeven,48,,,5017GC,Tilburg,Tilburg,Noord-Brabant,VBO,5.103467,51.554818
 Sint Josephstraat,1,a,,5017GD,Tilburg,Tilburg,Noord-Brabant,VBO,5.104420,51.556397
-Sint Josephstraat,3,,,5017GD,Tilburg,Tilburg,Noord-Brabant,VBO,5.103663,51.555962
+Sint Josephstraat,3,,,5017GD,Tilburg,Tilburg,Noord-Brabant,VBO,5.103058,51.557140
 Sint Josephstraat,51,,,5017GD,Tilburg,Tilburg,Noord-Brabant,VBO,5.102349,51.555608
 Sint Josephstraat,53,a,,5017GD,Tilburg,Tilburg,Noord-Brabant,VBO,5.102009,51.555643
 Sint Josephstraat,59,,,5017GD,Tilburg,Tilburg,Noord-Brabant,VBO,5.101642,51.555721
@@ -2043,7 +2010,6 @@ Sint Josephstraat,117,,,5017GG,Tilburg,Tilburg,Noord-Brabant,VBO,5.097299,51.556
 Sint Josephstraat,119,,,5017GG,Tilburg,Tilburg,Noord-Brabant,VBO,5.097203,51.556317
 Sint Josephstraat,121,,,5017GG,Tilburg,Tilburg,Noord-Brabant,VBO,5.097111,51.556326
 Sint Josephstraat,131,,,5017GG,Tilburg,Tilburg,Noord-Brabant,VBO,5.095778,51.556520
-Sint Josephstraat,133,a,,5017GG,Tilburg,Tilburg,Noord-Brabant,VBO,5.095383,51.556838
 Sint Josephstraat,133,,,5017GG,Tilburg,Tilburg,Noord-Brabant,VBO,5.095389,51.556811
 Sint Josephstraat,135,a,,5017GG,Tilburg,Tilburg,Noord-Brabant,VBO,5.094686,51.557041
 Sint Josephstraat,135,,,5017GG,Tilburg,Tilburg,Noord-Brabant,VBO,5.094707,51.556768
@@ -2406,9 +2372,8 @@ Tivolistraat,28,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095935,51.558525
 Tivolistraat,30,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095830,51.558482
 Tivolistraat,32,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095855,51.558460
 Tivolistraat,34,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095622,51.558398
-Tivolistraat,38,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095141,51.558102
-Tivolistraat,40,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095165,51.558080
-Tivolistraat,44,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095189,51.558057
+Tivolistraat,50,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095202,51.558128
+Tivolistraat,52,,,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.095226,51.558105
 Tivolistraat,60,,01,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.094627,51.557916
 Tivolistraat,60,,02,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.094723,51.557826
 Tivolistraat,60,,03,5017HR,Tilburg,Tilburg,Noord-Brabant,VBO,5.094657,51.557928
@@ -2674,33 +2639,7 @@ Enthovenseweg,17,,,5017JP,Tilburg,Tilburg,Noord-Brabant,VBO,5.101491,51.560012
 Enthovenseweg,19,,,5017JP,Tilburg,Tilburg,Noord-Brabant,VBO,5.101532,51.559973
 Spoorlaan,3,,,5017JR,Tilburg,Tilburg,Noord-Brabant,VBO,5.094090,51.559625
 Spoorlaan,2,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.103363,51.560791
-Spoorlaan,4,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102861,51.560741
 Spoorlaan,4,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.103036,51.560778
-Spoorlaan,6,,01,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102676,51.560689
-Spoorlaan,6,,02,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102741,51.560701
-Spoorlaan,6,,03,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102805,51.560712
-Spoorlaan,6,,04,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102868,51.560726
-Spoorlaan,6,,05,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102933,51.560736
-Spoorlaan,6,,06,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102997,51.560748
-Spoorlaan,6,,07,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.103061,51.560759
-Spoorlaan,6,,08,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102685,51.560672
-Spoorlaan,6,,09,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102749,51.560683
-Spoorlaan,6,,10,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102813,51.560695
-Spoorlaan,6,,11,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102877,51.560707
-Spoorlaan,6,,12,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102941,51.560719
-Spoorlaan,6,,13,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.103005,51.560730
-Spoorlaan,6,,14,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.103069,51.560742
-Spoorlaan,6,,15,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102693,51.560654
-Spoorlaan,6,,16,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102757,51.560666
-Spoorlaan,6,,17,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102821,51.560679
-Spoorlaan,6,,18,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102884,51.560691
-Spoorlaan,6,,19,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102949,51.560701
-Spoorlaan,6,,20,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.103013,51.560713
-Spoorlaan,6,,21,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.103077,51.560725
-Spoorlaan,6,,22,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102739,51.560646
-Spoorlaan,6,,23,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102841,51.560664
-Spoorlaan,6,,24,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102944,51.560683
-Spoorlaan,6,,25,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.103046,51.560702
 Spoorlaan,6,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102919,51.560750
 Spoorlaan,10,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102547,51.560683
 Spoorlaan,12,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.102463,51.560667
@@ -2714,8 +2653,6 @@ Spoorlaan,28,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101953,51.560574
 Spoorlaan,30,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101877,51.560560
 Spoorlaan,32,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101799,51.560546
 Spoorlaan,34,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101717,51.560531
-Spoorlaan,36,a,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101642,51.560489
-Spoorlaan,36,b,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101654,51.560463
 Spoorlaan,36,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101629,51.560514
 Spoorlaan,38,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101494,51.560488
 Spoorlaan,40,,,5017JS,Tilburg,Tilburg,Noord-Brabant,VBO,5.101506,51.560463
@@ -2799,7 +2736,6 @@ Flemingstraat,44,,,5017KB,Tilburg,Tilburg,Noord-Brabant,VBO,5.096552,51.556804
 Flemingstraat,46,,,5017KB,Tilburg,Tilburg,Noord-Brabant,VBO,5.096615,51.556748
 Flemingstraat,48,,,5017KB,Tilburg,Tilburg,Noord-Brabant,VBO,5.096537,51.556758
 Dunantstraat,7,,,5017KC,Tilburg,Tilburg,Noord-Brabant,VBO,5.095220,51.557334
-Dunantstraat,9,,,5017KC,Tilburg,Tilburg,Noord-Brabant,VBO,5.095215,51.557214
 Dunantstraat,15,,,5017KC,Tilburg,Tilburg,Noord-Brabant,VBO,5.095797,51.557046
 Dunantstraat,17,,,5017KC,Tilburg,Tilburg,Noord-Brabant,VBO,5.095813,51.556982
 Dunantstraat,19,,,5017KC,Tilburg,Tilburg,Noord-Brabant,VBO,5.095829,51.556920
