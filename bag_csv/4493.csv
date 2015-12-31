@@ -495,8 +495,6 @@ Dwarsstraat,7,,,4493BH,Kamperland,Noord-Beveland,Zeeland,VBO,3.700836,51.567283
 Dwarsstraat,8,,,4493BH,Kamperland,Noord-Beveland,Zeeland,VBO,3.701801,51.567315
 Dwarsstraat,10,,,4493BH,Kamperland,Noord-Beveland,Zeeland,VBO,3.701858,51.567290
 Dwarsstraat,12,,,4493BH,Kamperland,Noord-Beveland,Zeeland,VBO,3.701933,51.567275
-Uithaven,4,c,,4493BJ,Kamperland,Noord-Beveland,Zeeland,VBO,3.698295,51.565789
-Uithaven,5,a,,4493BJ,Kamperland,Noord-Beveland,Zeeland,VBO,3.697711,51.565583
 Uithaven,5,b,,4493BJ,Kamperland,Noord-Beveland,Zeeland,VBO,3.697442,51.565450
 Oosthavendijk,1,,,4493BK,Kamperland,Noord-Beveland,Zeeland,VBO,3.704733,51.565658
 Oosthavendijk,2,,,4493BK,Kamperland,Noord-Beveland,Zeeland,VBO,3.711627,51.564929
@@ -529,6 +527,8 @@ Spuidijk,12,,,4493BL,Kamperland,Noord-Beveland,Zeeland,VBO,3.698266,51.566697
 Spuidijk,13,,,4493BL,Kamperland,Noord-Beveland,Zeeland,VBO,3.698573,51.566459
 Spuidijk,14,,,4493BL,Kamperland,Noord-Beveland,Zeeland,VBO,3.695136,51.563616
 Spuidijk,15,,,4493BL,Kamperland,Noord-Beveland,Zeeland,VBO,3.698491,51.566332
+Spuidijk,17,,,4493BL,Kamperland,Noord-Beveland,Zeeland,LIG,3.695805,51.563221
+Spuidijk,19,,,4493BL,Kamperland,Noord-Beveland,Zeeland,LIG,3.695807,51.563170
 Westhavendijk,1,,,4493BM,Kamperland,Noord-Beveland,Zeeland,VBO,3.699911,51.566928
 Westhavendijk,3,,,4493BM,Kamperland,Noord-Beveland,Zeeland,VBO,3.699779,51.566989
 Westhavendijk,5,,,4493BM,Kamperland,Noord-Beveland,Zeeland,VBO,3.699648,51.567041
@@ -1372,7 +1372,7 @@ Oost-westweg,1,,,4493MR,Kamperland,Noord-Beveland,Zeeland,STA,3.645284,51.590167
 Middenhofweg,1,,,4493MS,Kamperland,Noord-Beveland,Zeeland,VBO,3.670487,51.579805
 Middenhofweg,2,,,4493MS,Kamperland,Noord-Beveland,Zeeland,VBO,3.670168,51.580600
 Havenweg,1,a,,4493MT,Kamperland,Noord-Beveland,Zeeland,VBO,3.693483,51.560613
-Havenweg,1,b,,4493MT,Kamperland,Noord-Beveland,Zeeland,VBO,3.695215,51.562270
+Havenweg,1,b,,4493MT,Kamperland,Noord-Beveland,Zeeland,VBO,3.695058,51.562182
 Havenweg,1,,,4493MT,Kamperland,Noord-Beveland,Zeeland,VBO,3.692766,51.560099
 Havenweg,2,,,4493MT,Kamperland,Noord-Beveland,Zeeland,VBO,3.692473,51.559935
 Havenweg,3,,,4493MT,Kamperland,Noord-Beveland,Zeeland,VBO,3.692125,51.559497
@@ -1581,9 +1581,10 @@ Krommeweg,3,,,4493NP,Kamperland,Noord-Beveland,Zeeland,VBO,3.700463,51.587424
 Anna Frisoweg,2,,,4493NR,Kamperland,Noord-Beveland,Zeeland,VBO,3.710147,51.592095
 Anna Frisoweg,3,a,,4493NR,Kamperland,Noord-Beveland,Zeeland,VBO,3.712422,51.590671
 Anna Frisoweg,4,,,4493NR,Kamperland,Noord-Beveland,Zeeland,VBO,3.712928,51.589869
+Strandhoekweg,1,,a,4493NS,Kamperland,Noord-Beveland,Zeeland,VBO,3.693089,51.597030
 Strandhoekweg,1,,,4493NS,Kamperland,Noord-Beveland,Zeeland,VBO,3.693091,51.597009
 Strandhoekweg,2,,,4493NS,Kamperland,Noord-Beveland,Zeeland,VBO,3.692749,51.596887
-Strandhoekweg,3,,,4493NS,Kamperland,Noord-Beveland,Zeeland,VBO,3.693304,51.597084
+Strandhoekweg,3,,,4493NS,Kamperland,Noord-Beveland,Zeeland,VBO,3.693383,51.597195
 Brededijk,1,a,,4493NT,Kamperland,Noord-Beveland,Zeeland,VBO,3.688753,51.580611
 Brededijk,1,b,,4493NT,Kamperland,Noord-Beveland,Zeeland,VBO,3.694761,51.580491
 Brededijk,1,,,4493NT,Kamperland,Noord-Beveland,Zeeland,VBO,3.694401,51.580468
@@ -1597,9 +1598,9 @@ Rippolderseweg,1,,,4493NX,Kamperland,Noord-Beveland,Zeeland,VBO,3.695213,51.5933
 Paviljoenweg,1,,,4493NZ,Kamperland,Noord-Beveland,Zeeland,VBO,3.693007,51.562539
 Nieuweweg,4,,,4493PA,Kamperland,Noord-Beveland,Zeeland,VBO,3.721071,51.583494
 Nieuweweg,5,,,4493PA,Kamperland,Noord-Beveland,Zeeland,VBO,3.721303,51.582689
-Nieuweweg,6,a,,4493PA,Kamperland,Noord-Beveland,Zeeland,VBO,3.711458,51.576524
+Nieuweweg,6,a,,4493PA,Kamperland,Noord-Beveland,Zeeland,VBO,3.712081,51.576808
 Nieuweweg,6,b,,4493PA,Kamperland,Noord-Beveland,Zeeland,VBO,3.710935,51.576247
-Nieuweweg,6,,,4493PA,Kamperland,Noord-Beveland,Zeeland,VBO,3.712054,51.576794
+Nieuweweg,6,,,4493PA,Kamperland,Noord-Beveland,Zeeland,VBO,3.711604,51.576590
 Nieuweweg,7,,,4493PA,Kamperland,Noord-Beveland,Zeeland,VBO,3.708860,51.575381
 Hooidijk,1,,,4493PB,Kamperland,Noord-Beveland,Zeeland,VBO,3.715931,51.589840
 Longroomweg,5,,,4493PC,Kamperland,Noord-Beveland,Zeeland,VBO,3.728769,51.586885
@@ -1637,22 +1638,23 @@ Stekeldijk,22,,,4493PE,Kamperland,Noord-Beveland,Zeeland,VBO,3.749438,51.555630
 Stekeldijk,26,,,4493PE,Kamperland,Noord-Beveland,Zeeland,VBO,3.764379,51.562087
 Ruiterplaatweg,1,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.707310,51.575952
 Ruiterplaatweg,2,a,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.704161,51.574873
-Ruiterplaatweg,2,b,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.705028,51.574841
+Ruiterplaatweg,2,b,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.704665,51.575080
 Ruiterplaatweg,2,d,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702454,51.573878
 Ruiterplaatweg,2,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.705305,51.575159
 Ruiterplaatweg,3,a,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.696862,51.569787
 Ruiterplaatweg,3,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.695059,51.567846
 Ruiterplaatweg,5,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.701837,51.572961
-Ruiterplaatweg,7,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702270,51.572804
+Ruiterplaatweg,7,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702332,51.572766
 Ruiterplaatweg,9,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702250,51.572683
-Ruiterplaatweg,11,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702792,51.572701
-Ruiterplaatweg,13,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702864,51.572774
-Ruiterplaatweg,17,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702979,51.572895
-Ruiterplaatweg,19,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703032,51.572955
-Ruiterplaatweg,21,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703108,51.573064
-Ruiterplaatweg,23,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703135,51.573098
-Ruiterplaatweg,25,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703131,51.573137
-Ruiterplaatweg,27,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703092,51.573248
+Ruiterplaatweg,11,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702616,51.572662
+Ruiterplaatweg,13,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702877,51.572726
+Ruiterplaatweg,15,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702938,51.572778
+Ruiterplaatweg,17,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702979,51.572827
+Ruiterplaatweg,19,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703048,51.572874
+Ruiterplaatweg,21,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.702951,51.572959
+Ruiterplaatweg,23,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703113,51.572971
+Ruiterplaatweg,25,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703154,51.573041
+Ruiterplaatweg,27,,,4493PG,Kamperland,Noord-Beveland,Zeeland,VBO,3.703079,51.573172
 Mariapolderseweg,1,,01,4493PH,Kamperland,Noord-Beveland,Zeeland,STA,3.720936,51.587728
 Mariapolderseweg,1,,02,4493PH,Kamperland,Noord-Beveland,Zeeland,STA,3.721020,51.587863
 Mariapolderseweg,1,,03,4493PH,Kamperland,Noord-Beveland,Zeeland,STA,3.720840,51.587963
@@ -1849,7 +1851,9 @@ Ostrea,168,,,4493PJ,Kamperland,Noord-Beveland,Zeeland,VBO,3.718702,51.591021
 Ostrea,170,,,4493PJ,Kamperland,Noord-Beveland,Zeeland,VBO,3.719004,51.591062
 Uithaven,4,a,,4493PK,Kamperland,Noord-Beveland,Zeeland,VBO,3.698197,51.565716
 Uithaven,4,b,,4493PK,Kamperland,Noord-Beveland,Zeeland,VBO,3.698486,51.565684
+Uithaven,4,c,,4493PK,Kamperland,Noord-Beveland,Zeeland,VBO,3.698295,51.565789
 Uithaven,4,,,4493PK,Kamperland,Noord-Beveland,Zeeland,VBO,3.698386,51.565656
+Uithaven,5,a,,4493PK,Kamperland,Noord-Beveland,Zeeland,VBO,3.697711,51.565583
 Uithaven,5,c,,4493PK,Kamperland,Noord-Beveland,Zeeland,VBO,3.697285,51.565288
 Uithaven,5,,,4493PK,Kamperland,Noord-Beveland,Zeeland,VBO,3.697777,51.565359
 Uithaven,6,,,4493PK,Kamperland,Noord-Beveland,Zeeland,VBO,3.697243,51.564587
@@ -1886,7 +1890,6 @@ Stroodorp,11,,,4493PM,Kamperland,Noord-Beveland,Zeeland,VBO,3.727416,51.560354
 Stroodorp,12,,,4493PM,Kamperland,Noord-Beveland,Zeeland,VBO,3.725812,51.560835
 Stroodorp,13,,,4493PN,Kamperland,Noord-Beveland,Zeeland,VBO,3.724109,51.560846
 Stroodorp,14,,,4493PN,Kamperland,Noord-Beveland,Zeeland,VBO,3.724372,51.560778
-Stroodorp,15,,,4493PN,Kamperland,Noord-Beveland,Zeeland,VBO,3.724590,51.560718
 Stroodorp,16,,,4493PN,Kamperland,Noord-Beveland,Zeeland,VBO,3.724998,51.560616
 Stroodorp,17,,,4493PN,Kamperland,Noord-Beveland,Zeeland,VBO,3.725231,51.560557
 Stroodorp,18,,,4493PN,Kamperland,Noord-Beveland,Zeeland,VBO,3.725347,51.560531

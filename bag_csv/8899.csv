@@ -122,7 +122,6 @@ Dorpsstraat,12,,,8899AH,Vlieland,Vlieland,Friesland,VBO,5.072631,53.296448
 Dorpsstraat,14,,,8899AH,Vlieland,Vlieland,Friesland,VBO,5.072542,53.296394
 Dorpsstraat,16,,,8899AH,Vlieland,Vlieland,Friesland,VBO,5.072452,53.296394
 Dorpsstraat,18,A,,8899AH,Vlieland,Vlieland,Friesland,VBO,5.072242,53.296569
-Dorpsstraat,18,B,,8899AH,Vlieland,Vlieland,Friesland,VBO,5.072290,53.296374
 Dorpsstraat,18,,,8899AH,Vlieland,Vlieland,Friesland,VBO,5.072272,53.296402
 Dorpsstraat,20,A,,8899AH,Vlieland,Vlieland,Friesland,VBO,5.072161,53.296471
 Dorpsstraat,20,B,,8899AH,Vlieland,Vlieland,Friesland,VBO,5.072187,53.296356
@@ -200,7 +199,7 @@ Dorpsstraat,114,,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.067377,53.295612
 Dorpsstraat,116,A,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.067271,53.295668
 Dorpsstraat,116,,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.067313,53.295595
 Dorpsstraat,118,,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.067208,53.295607
-Dorpsstraat,120,A,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.067067,53.295731
+Dorpsstraat,120,A,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.067164,53.295552
 Dorpsstraat,120,,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.067088,53.295616
 Dorpsstraat,122,A,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.066987,53.295688
 Dorpsstraat,122,,,8899AM,Vlieland,Vlieland,Friesland,VBO,5.066984,53.295526
@@ -416,6 +415,7 @@ Kerkplein,11,,,8899AW,Vlieland,Vlieland,Friesland,VBO,5.064845,53.295267
 Achteromweg,1,,,8899AX,Vlieland,Vlieland,Friesland,VBO,5.065634,53.295531
 Achteromweg,2,,,8899AX,Vlieland,Vlieland,Friesland,VBO,5.067137,53.295742
 Achteromweg,3,,,8899AX,Vlieland,Vlieland,Friesland,VBO,5.065874,53.295612
+Achteromweg,4,,,8899AX,Vlieland,Vlieland,Friesland,VBO,5.067067,53.295731
 Achteromweg,5,A,,8899AX,Vlieland,Vlieland,Friesland,VBO,5.065982,53.295758
 Achteromweg,5,,,8899AX,Vlieland,Vlieland,Friesland,VBO,5.066038,53.295631
 Achteromweg,7,A,,8899AX,Vlieland,Vlieland,Friesland,VBO,5.067204,53.296048
@@ -916,14 +916,13 @@ Duinkersoord,113,,34,8899BW,Vlieland,Vlieland,Friesland,VBO,5.063605,53.305059
 Duinkersoord,113,,35,8899BW,Vlieland,Vlieland,Friesland,VBO,5.063639,53.305009
 Duinkersoord,113,,36,8899BW,Vlieland,Vlieland,Friesland,VBO,5.063668,53.304972
 Kampweg,1,,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.080176,53.304743
+Kampweg,3,A,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.078317,53.304611
 Kampweg,3,,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.079263,53.304462
-Kampweg,4,,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.078317,53.304611
 Kampweg,5,A,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.076133,53.304942
 Kampweg,5,B,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.076119,53.304890
 Kampweg,5,C,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.076098,53.304855
 Kampweg,5,,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.076170,53.304894
 Kampweg,7,,,8899BX,Vlieland,Vlieland,Friesland,VBO,5.074651,53.304495
-Duinkersoord,98,,,8899BZ,Vlieland,Vlieland,Friesland,VBO,5.061468,53.303625
 Postweg,1,A,,8899BZ,Vlieland,Vlieland,Friesland,VBO,5.028928,53.283809
 Postweg,1,C,,8899BZ,Vlieland,Vlieland,Friesland,VBO,5.011007,53.276752
 Postweg,1,D,,8899BZ,Vlieland,Vlieland,Friesland,VBO,5.011702,53.276817
@@ -939,6 +938,10 @@ Postweg,9,,,8899BZ,Vlieland,Vlieland,Friesland,VBO,4.944047,53.254233
 Vliehors,3,,,8899BZ,Vlieland,Vlieland,Friesland,VBO,4.920799,53.240005
 Boereglop,1,,,8899CA,Vlieland,Vlieland,Friesland,VBO,5.069746,53.296099
 Boereglop,2,,,8899CA,Vlieland,Vlieland,Friesland,VBO,5.070023,53.296270
+Boereglop,3,,,8899CA,Vlieland,Vlieland,Friesland,VBO,5.069886,53.296280
+Boereglop,5,,,8899CA,Vlieland,Vlieland,Friesland,VBO,5.069863,53.296321
+Boereglop,7,,,8899CA,Vlieland,Vlieland,Friesland,VBO,5.069843,53.296365
+Boereglop,9,,,8899CA,Vlieland,Vlieland,Friesland,VBO,5.069820,53.296406
 Korenmansweg,2,,,8899CB,Vlieland,Vlieland,Friesland,VBO,5.091903,53.298662
 Korenmansweg,3,,,8899CB,Vlieland,Vlieland,Friesland,VBO,5.091261,53.298221
 Korenmansweg,4,,,8899CB,Vlieland,Vlieland,Friesland,VBO,5.091427,53.298728
@@ -1179,6 +1182,7 @@ Duinkersoord,94,B,,8899KC,Vlieland,Vlieland,Friesland,VBO,5.061091,53.303390
 Duinkersoord,94,,,8899KC,Vlieland,Vlieland,Friesland,VBO,5.060656,53.303308
 Duinkersoord,96,,,8899KC,Vlieland,Vlieland,Friesland,VBO,5.061317,53.303157
 Duinkersoord,98,,,8899KC,Vlieland,Vlieland,Friesland,VBO,5.061284,53.303606
+Duinkersoord,98,,,8899KC,Vlieland,Vlieland,Friesland,VBO,5.061468,53.303625
 Duinkersoord,100,,,8899KC,Vlieland,Vlieland,Friesland,VBO,5.062124,53.303617
 Duinkersoord,102,,,8899KC,Vlieland,Vlieland,Friesland,VBO,5.062918,53.303727
 Duinkersoord,104,,,8899KC,Vlieland,Vlieland,Friesland,VBO,5.063756,53.304026

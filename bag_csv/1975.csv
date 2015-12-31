@@ -63,10 +63,9 @@ Steigerweg,5,,8000,1975AH,IJmuiden,Velsen,Noord-Holland,VBO,4.595944,52.463518
 Steigerweg,5,,,1975AH,IJmuiden,Velsen,Noord-Holland,VBO,4.595566,52.463518
 Steigerweg,8,,,1975AH,IJmuiden,Velsen,Noord-Holland,VBO,4.596188,52.463518
 Kanaaldijk,226,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.596435,52.463207
-Kanaaldijk,227,,8000,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.604701,52.463585
 Kanaaldijk,227,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.596328,52.463209
 Kanaaldijk,228,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.596227,52.463212
-Kanaaldijk,229,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.595870,52.463219
+Kanaaldijk,229,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.595870,52.463218
 Kanaaldijk,230,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.595765,52.463221
 Kanaaldijk,231,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.595667,52.463223
 Kanaaldijk,232,,,1975AJ,IJmuiden,Velsen,Noord-Holland,VBO,4.594860,52.463155
@@ -76,6 +75,7 @@ Zuidersluisweg,1,,,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.588434,52.464730
 Zuidersluisweg,3,,,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.589861,52.464973
 Zuidersluisweg,5,,,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.590368,52.464860
 Zuidersluisweg,14,,8000,1975AK,IJmuiden,Velsen,Noord-Holland,VBO,4.593247,52.464796
+Zuidersluisweg,14,,,1975AK,IJmuiden,Velsen,Noord-Holland,LIG,4.593327,52.464640
 Middensluisweg,2,,,1975AL,IJmuiden,Velsen,Noord-Holland,VBO,4.606079,52.466750
 Middensluisweg,5,,,1975AL,IJmuiden,Velsen,Noord-Holland,VBO,4.596261,52.466615
 Noordersluisweg,1,,9000,1975AM,IJmuiden,Velsen,Noord-Holland,VBO,4.596181,52.471412
@@ -838,11 +838,6 @@ President Steynstraat,13,,,1975DH,IJmuiden,Velsen,Noord-Holland,VBO,4.596924,52.
 President Steynstraat,15,,,1975DH,IJmuiden,Velsen,Noord-Holland,VBO,4.596998,52.462032
 President Steynstraat,17,,,1975DH,IJmuiden,Velsen,Noord-Holland,VBO,4.597071,52.462032
 President Steynstraat,39,,,1975DH,IJmuiden,Velsen,Noord-Holland,VBO,4.598927,52.462266
-President Steynstraat,2,,,1975DJ,IJmuiden,Velsen,Noord-Holland,VBO,4.596948,52.461900
-President Steynstraat,4,,,1975DJ,IJmuiden,Velsen,Noord-Holland,VBO,4.597025,52.461901
-President Steynstraat,6,,,1975DJ,IJmuiden,Velsen,Noord-Holland,VBO,4.597097,52.461902
-President Steynstraat,8,,,1975DJ,IJmuiden,Velsen,Noord-Holland,VBO,4.597172,52.461903
-President Steynstraat,10,,,1975DJ,IJmuiden,Velsen,Noord-Holland,VBO,4.597260,52.461903
 De Wetstraat,1,,,1975DM,IJmuiden,Velsen,Noord-Holland,VBO,4.597277,52.462967
 De Wetstraat,2,,,1975DM,IJmuiden,Velsen,Noord-Holland,VBO,4.596934,52.463133
 De Wetstraat,4,,,1975DM,IJmuiden,Velsen,Noord-Holland,VBO,4.596935,52.463069
@@ -966,10 +961,6 @@ S.P. Kuijperplantsoen,68,,,1975DZ,IJmuiden,Velsen,Noord-Holland,VBO,4.596324,52.
 S.P. Kuijperplantsoen,69,,,1975DZ,IJmuiden,Velsen,Noord-Holland,VBO,4.596327,52.461348
 S.P. Kuijperplantsoen,70,,,1975DZ,IJmuiden,Velsen,Noord-Holland,VBO,4.596328,52.461264
 S.P. Kuijperplantsoen,71,,,1975DZ,IJmuiden,Velsen,Noord-Holland,VBO,4.596330,52.461181
-S.P. Kuijperplantsoen,72,,,1975DZ,IJmuiden,Velsen,Noord-Holland,VBO,4.596620,52.461893
-S.P. Kuijperplantsoen,73,,,1975DZ,IJmuiden,Velsen,Noord-Holland,VBO,4.596621,52.461849
-S.P. Kuijperplantsoen,74,,,1975DZ,IJmuiden,Velsen,Noord-Holland,VBO,4.596621,52.461801
-S.P. Kuijperplantsoen,75,,,1975DZ,IJmuiden,Velsen,Noord-Holland,VBO,4.596621,52.461756
 Keizer Wilhelmstraat,1,,0101,1975EA,IJmuiden,Velsen,Noord-Holland,VBO,4.594727,52.462518
 Keizer Wilhelmstraat,1,,0102,1975EA,IJmuiden,Velsen,Noord-Holland,VBO,4.594728,52.462479
 Keizer Wilhelmstraat,1,,0103,1975EA,IJmuiden,Velsen,Noord-Holland,VBO,4.594728,52.462440
@@ -1324,15 +1315,6 @@ Kadestraat,3,,,1975EW,IJmuiden,Velsen,Noord-Holland,VBO,4.598806,52.461021
 Kadestraat,4,,,1975EW,IJmuiden,Velsen,Noord-Holland,VBO,4.598531,52.461127
 Kadestraat,5,,,1975EW,IJmuiden,Velsen,Noord-Holland,VBO,4.598831,52.461025
 Kadestraat,6,,RD,1975EW,IJmuiden,Velsen,Noord-Holland,VBO,4.598576,52.460976
-Willemsplein,1,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.596641,52.461549
-Willemsplein,2,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.596718,52.461550
-Willemsplein,3,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.596791,52.461550
-Willemsplein,4,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.596871,52.461551
-Willemsplein,5,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.596944,52.461551
-Willemsplein,6,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.597016,52.461552
-Willemsplein,7,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.597090,52.461552
-Willemsplein,8,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.597171,52.461553
-Willemsplein,9,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.597241,52.461553
 Willemsplein,10,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.597459,52.461458
 Willemsplein,11,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.597474,52.461408
 Willemsplein,12,,,1975EX,IJmuiden,Velsen,Noord-Holland,VBO,4.597489,52.461357

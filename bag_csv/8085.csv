@@ -1,4 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
+Zuiderzeestraatweg West,1,A,,8085AA,Doornspijk,Elburg,Gelderland,VBO,5.833335,52.434641
 Zuiderzeestraatweg West,1,,,8085AA,Doornspijk,Elburg,Gelderland,VBO,5.828694,52.428039
 Zuiderzeestraatweg West,3,A,,8085AA,Doornspijk,Elburg,Gelderland,VBO,5.827900,52.427322
 Zuiderzeestraatweg West,3,,,8085AA,Doornspijk,Elburg,Gelderland,VBO,5.828153,52.427881
@@ -472,7 +473,8 @@ Staelsweg,12,,,8085BD,Doornspijk,Elburg,Gelderland,VBO,5.819538,52.421180
 Staelsweg,14,,,8085BD,Doornspijk,Elburg,Gelderland,VBO,5.819469,52.421223
 Staelsweg,16,,,8085BD,Doornspijk,Elburg,Gelderland,VBO,5.819399,52.421247
 Kerkdijk,1,A,,8085BE,Doornspijk,Elburg,Gelderland,VBO,5.821236,52.421599
-Kerkdijk,1,,,8085BE,Doornspijk,Elburg,Gelderland,VBO,5.821399,52.421652
+Kerkdijk,1,B,,8085BE,Doornspijk,Elburg,Gelderland,VBO,5.821251,52.421634
+Kerkdijk,1,,,8085BE,Doornspijk,Elburg,Gelderland,VBO,5.821434,52.421650
 Kerkdijk,3,,,8085BE,Doornspijk,Elburg,Gelderland,VBO,5.821320,52.421822
 Kerkdijk,5,,,8085BE,Doornspijk,Elburg,Gelderland,VBO,5.821294,52.421888
 Kerkdijk,7,,,8085BE,Doornspijk,Elburg,Gelderland,VBO,5.821223,52.422128
@@ -1230,60 +1232,190 @@ Verlengde Haerderweg,5,R,A1,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855254,52.
 Verlengde Haerderweg,5,R,A10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855234,52.403081
 Verlengde Haerderweg,5,R,A2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855429,52.403449
 Verlengde Haerderweg,5,R,A3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855573,52.403178
+Verlengde Haerderweg,5,R,A4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855050,52.403644
+Verlengde Haerderweg,5,R,A5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855053,52.403539
 Verlengde Haerderweg,5,R,A6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855470,52.403134
 Verlengde Haerderweg,5,R,A7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854842,52.403523
+Verlengde Haerderweg,5,R,A8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854859,52.403455
 Verlengde Haerderweg,5,R,A9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854884,52.403307
 Verlengde Haerderweg,5,R,B1,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855763,52.403034
 Verlengde Haerderweg,5,R,B2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855880,52.402979
 Verlengde Haerderweg,5,R,B3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856026,52.402880
+Verlengde Haerderweg,5,R,B4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856176,52.402708
+Verlengde Haerderweg,5,R,B5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855523,52.403052
 Verlengde Haerderweg,5,R,B6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855905,52.402593
+Verlengde Haerderweg,5,R,B7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855373,52.402921
 Verlengde Haerderweg,5,R,B8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855422,52.402757
 Verlengde Haerderweg,5,R,B9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855640,52.402513
+Verlengde Haerderweg,5,R,C1,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854533,52.403454
+Verlengde Haerderweg,5,R,C11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854107,52.402967
 Verlengde Haerderweg,5,R,C12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854189,52.402878
 Verlengde Haerderweg,5,R,C13,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853663,52.403177
+Verlengde Haerderweg,5,R,C14,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853862,52.403015
 Verlengde Haerderweg,5,R,C15,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853925,52.402915
 Verlengde Haerderweg,5,R,C17,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854309,52.403129
+Verlengde Haerderweg,5,R,C2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854585,52.403351
+Verlengde Haerderweg,5,R,C3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854787,52.403193
 Verlengde Haerderweg,5,R,C4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854749,52.403038
 Verlengde Haerderweg,5,R,C6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854572,52.402976
 Verlengde Haerderweg,5,R,C7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854193,52.403256
 Verlengde Haerderweg,5,R,C8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854351,52.402941
 Verlengde Haerderweg,5,R,C9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853825,52.403176
+Verlengde Haerderweg,5,R,D1,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854962,52.402810
+Verlengde Haerderweg,5,R,D10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854291,52.402602
+Verlengde Haerderweg,5,R,D11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854327,52.402475
 Verlengde Haerderweg,5,R,D12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854477,52.402338
+Verlengde Haerderweg,5,R,D13,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854917,52.402298
 Verlengde Haerderweg,5,R,D14,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854537,52.402499
+Verlengde Haerderweg,5,R,D2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855044,52.402732
 Verlengde Haerderweg,5,R,D3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855258,52.402578
 Verlengde Haerderweg,5,R,D4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855286,52.402434
+Verlengde Haerderweg,5,R,D5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854826,52.402778
 Verlengde Haerderweg,5,R,D6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854877,52.402665
 Verlengde Haerderweg,5,R,D7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855051,52.402470
 Verlengde Haerderweg,5,R,D8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855109,52.402389
+Verlengde Haerderweg,5,R,D9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854531,52.402663
+Verlengde Haerderweg,5,R,E10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857762,52.402055
+Verlengde Haerderweg,5,R,E11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857679,52.401976
+Verlengde Haerderweg,5,R,E3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858061,52.402361
+Verlengde Haerderweg,5,R,E4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858337,52.402267
+Verlengde Haerderweg,5,R,E5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857881,52.402304
+Verlengde Haerderweg,5,R,E7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857808,52.402266
+Verlengde Haerderweg,5,R,E8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857961,52.402123
 Verlengde Haerderweg,5,R,E9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857649,52.402200
+Verlengde Haerderweg,5,R,F1,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857030,52.403038
+Verlengde Haerderweg,5,R,F10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857354,52.402520
+Verlengde Haerderweg,5,R,F11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858128,52.402626
+Verlengde Haerderweg,5,R,F12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857965,52.402549
+Verlengde Haerderweg,5,R,F13,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857846,52.402486
+Verlengde Haerderweg,5,R,F14,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857697,52.402449
+Verlengde Haerderweg,5,R,F16,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857553,52.402375
+Verlengde Haerderweg,5,R,F2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857132,52.402924
+Verlengde Haerderweg,5,R,F3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857208,52.402846
+Verlengde Haerderweg,5,R,F5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857444,52.402632
+Verlengde Haerderweg,5,R,F7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856955,52.402870
+Verlengde Haerderweg,5,R,F8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856986,52.402811
+Verlengde Haerderweg,5,R,F9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857140,52.402690
+Verlengde Haerderweg,5,R,G10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857669,52.402670
+Verlengde Haerderweg,5,R,G5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857877,52.402795
+Verlengde Haerderweg,5,R,G6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857316,52.403177
 Verlengde Haerderweg,5,R,G7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857379,52.403063
+Verlengde Haerderweg,5,R,G8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857452,52.402967
+Verlengde Haerderweg,5,R,H10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856727,52.402531
+Verlengde Haerderweg,5,R,H11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856864,52.402411
+Verlengde Haerderweg,5,R,H12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856961,52.402292
+Verlengde Haerderweg,5,R,H3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856786,52.402646
+Verlengde Haerderweg,5,R,H4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856860,52.402574
+Verlengde Haerderweg,5,R,H6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857115,52.402312
+Verlengde Haerderweg,5,R,H7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856460,52.402851
+Verlengde Haerderweg,5,R,H8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856458,52.402780
+Verlengde Haerderweg,5,R,H9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856577,52.402658
+Verlengde Haerderweg,5,R,J6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855890,52.403399
+Verlengde Haerderweg,5,R,J7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856000,52.403264
+Verlengde Haerderweg,5,R,J8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856101,52.403162
 Verlengde Haerderweg,5,R,J9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856248,52.403050
 Verlengde Haerderweg,5,R,K2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855670,52.404005
+Verlengde Haerderweg,5,R,K3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855750,52.403879
+Verlengde Haerderweg,5,R,K4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855854,52.403782
+Verlengde Haerderweg,5,R,K5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855951,52.403679
+Verlengde Haerderweg,5,R,K5a,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856052,52.403565
+Verlengde Haerderweg,5,R,K6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855325,52.403938
+Verlengde Haerderweg,5,R,K7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855494,52.403761
+Verlengde Haerderweg,5,R,K8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855585,52.403672
+Verlengde Haerderweg,5,R,K9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855672,52.403564
+Verlengde Haerderweg,5,R,L1,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856294,52.404261
+Verlengde Haerderweg,5,R,L10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855871,52.404120
+Verlengde Haerderweg,5,R,L10a,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856066,52.404208
 Verlengde Haerderweg,5,R,L11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856872,52.403722
+Verlengde Haerderweg,5,R,L12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856972,52.403572
+Verlengde Haerderweg,5,R,L13,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857105,52.403488
+Verlengde Haerderweg,5,R,L14,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857117,52.403355
 Verlengde Haerderweg,5,R,L15,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856926,52.403281
+Verlengde Haerderweg,5,R,L17,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856637,52.403156
 Verlengde Haerderweg,5,R,L18,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856416,52.403153
+Verlengde Haerderweg,5,R,L2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856386,52.404196
+Verlengde Haerderweg,5,R,L20,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856217,52.403296
+Verlengde Haerderweg,5,R,L22,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856408,52.403508
+Verlengde Haerderweg,5,R,L24,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856558,52.403603
+Verlengde Haerderweg,5,R,L3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856554,52.404094
+Verlengde Haerderweg,5,R,L4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856605,52.403963
 Verlengde Haerderweg,5,R,L5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856756,52.403857
 Verlengde Haerderweg,5,R,L6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856505,52.403723
+Verlengde Haerderweg,5,R,L7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856223,52.403637
+Verlengde Haerderweg,5,R,L8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856103,52.403777
+Verlengde Haerderweg,5,R,L9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855961,52.403971
+Verlengde Haerderweg,5,R,M10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855794,52.404563
+Verlengde Haerderweg,5,R,M12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855455,52.404824
+Verlengde Haerderweg,5,R,M13,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855343,52.404938
+Verlengde Haerderweg,5,R,M14,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855164,52.405064
+Verlengde Haerderweg,5,R,M15,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855068,52.405170
+Verlengde Haerderweg,5,R,M16,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855025,52.405270
 Verlengde Haerderweg,5,R,M17,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854742,52.405213
+Verlengde Haerderweg,5,R,M19,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854314,52.405000
+Verlengde Haerderweg,5,R,M20,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854824,52.404505
+Verlengde Haerderweg,5,R,M21,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854635,52.404628
 Verlengde Haerderweg,5,R,M22,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854547,52.404773
 Verlengde Haerderweg,5,R,M23,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854769,52.404961
 Verlengde Haerderweg,5,R,M24,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854931,52.405014
 Verlengde Haerderweg,5,R,M25,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855121,52.404843
+Verlengde Haerderweg,5,R,M26,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855261,52.404694
+Verlengde Haerderweg,5,R,M27,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855445,52.404608
+Verlengde Haerderweg,5,R,M28,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855493,52.404485
 Verlengde Haerderweg,5,R,M29,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855306,52.404330
 Verlengde Haerderweg,5,R,M3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855388,52.405076
+Verlengde Haerderweg,5,R,M4a,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855574,52.404937
+Verlengde Haerderweg,5,R,M4b,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855624,52.404892
+Verlengde Haerderweg,5,R,M5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855705,52.404816
 Verlengde Haerderweg,5,R,M6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855825,52.404723
+Verlengde Haerderweg,5,R,M7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855982,52.404569
+Verlengde Haerderweg,5,R,M8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856008,52.404506
+Verlengde Haerderweg,5,R,M9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855904,52.404423
 Verlengde Haerderweg,5,R,N1,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854354,52.406023
 Verlengde Haerderweg,5,R,N2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854044,52.405890
 Verlengde Haerderweg,5,R,N3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854440,52.405789
+Verlengde Haerderweg,5,R,N4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854543,52.405695
 Verlengde Haerderweg,5,R,N5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854644,52.405627
 Verlengde Haerderweg,5,R,N7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854642,52.405438
 Verlengde Haerderweg,5,R,N8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854922,52.405554
+Verlengde Haerderweg,5,R,O11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855900,52.404960
+Verlengde Haerderweg,5,R,O12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856001,52.404868
+Verlengde Haerderweg,5,R,O14,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856223,52.404666
+Verlengde Haerderweg,5,R,O15,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856401,52.404512
+Verlengde Haerderweg,5,R,O16,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856422,52.404443
 Verlengde Haerderweg,5,R,O17,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856643,52.404298
+Verlengde Haerderweg,5,R,O18,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856698,52.404221
+Verlengde Haerderweg,5,R,O19,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856781,52.404101
+Verlengde Haerderweg,5,R,O20,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.856885,52.404016
+Verlengde Haerderweg,5,R,O3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854706,52.405859
+Verlengde Haerderweg,5,R,O4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854838,52.405744
 Verlengde Haerderweg,5,R,O5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855115,52.405715
 Verlengde Haerderweg,5,R,O6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855261,52.405606
 Verlengde Haerderweg,5,R,O7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855406,52.405453
-Verlengde Haerderweg,5,R,Q4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857911,52.401920
+Verlengde Haerderweg,5,R,O8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855477,52.405275
+Verlengde Haerderweg,5,R,O9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.855653,52.405174
+Verlengde Haerderweg,5,R,P10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857867,52.403063
+Verlengde Haerderweg,5,R,P11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857977,52.403031
+Verlengde Haerderweg,5,R,P12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858153,52.402957
+Verlengde Haerderweg,5,R,P13,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858228,52.402834
+Verlengde Haerderweg,5,R,P14,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858347,52.402718
+Verlengde Haerderweg,5,R,P15,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858459,52.402619
+Verlengde Haerderweg,5,R,P16,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858553,52.402468
+Verlengde Haerderweg,5,R,P18,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858859,52.402235
+Verlengde Haerderweg,5,R,P19,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858687,52.402143
+Verlengde Haerderweg,5,R,P2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857080,52.403871
+Verlengde Haerderweg,5,R,P3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857174,52.403768
+Verlengde Haerderweg,5,R,P4,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857307,52.403675
+Verlengde Haerderweg,5,R,P5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857414,52.403585
+Verlengde Haerderweg,5,R,P6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857484,52.403513
+Verlengde Haerderweg,5,R,P7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857586,52.403426
+Verlengde Haerderweg,5,R,P8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857660,52.403295
+Verlengde Haerderweg,5,R,P9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857771,52.403215
+Verlengde Haerderweg,5,R,Q1,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858322,52.402042
+Verlengde Haerderweg,5,R,Q2,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.858115,52.401960
+Verlengde Haerderweg,5,R,Q3,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857911,52.401920
+Verlengde Haerderweg,5,R,Q5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857601,52.401780
 Verlengde Haerderweg,5,R,Q7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857383,52.402030
+Verlengde Haerderweg,5,R,Q9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.857115,52.402091
 Verlengde Haerderweg,6,,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.851530,52.406719
 Verlengde Haerderweg,7,,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853490,52.405299
 Verlengde Haerderweg,8,,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.852087,52.406309
@@ -1291,7 +1423,18 @@ Verlengde Haerderweg,9,A,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853555,52.40
 Verlengde Haerderweg,9,B,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853612,52.405714
 Verlengde Haerderweg,9,C,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854069,52.405536
 Verlengde Haerderweg,9,D,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854136,52.405237
+Verlengde Haerderweg,9,R,10,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854041,52.403873
+Verlengde Haerderweg,9,R,11,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853923,52.403972
+Verlengde Haerderweg,9,R,12,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853880,52.404083
+Verlengde Haerderweg,9,R,13,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853674,52.404256
+Verlengde Haerderweg,9,R,14,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853806,52.404371
+Verlengde Haerderweg,9,R,15,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854321,52.404439
+Verlengde Haerderweg,9,R,16,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854491,52.404306
 Verlengde Haerderweg,9,R,5,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853398,52.404760
+Verlengde Haerderweg,9,R,6,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854711,52.404065
+Verlengde Haerderweg,9,R,7,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854705,52.403808
+Verlengde Haerderweg,9,R,8,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854435,52.403712
+Verlengde Haerderweg,9,R,9,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.854273,52.403765
 Verlengde Haerderweg,9,,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853812,52.404716
 Verlengde Haerderweg,11,,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.853364,52.404953
 Verlengde Haerderweg,13,,,8085RJ,Doornspijk,Elburg,Gelderland,VBO,5.852881,52.404868
@@ -1325,7 +1468,6 @@ Badweg,7,,,8085RL,Doornspijk,Elburg,Gelderland,VBO,5.846649,52.403898
 Badweg,9,A,,8085RL,Doornspijk,Elburg,Gelderland,VBO,5.849309,52.404056
 Badweg,9,,,8085RL,Doornspijk,Elburg,Gelderland,VBO,5.847149,52.403502
 Badweg,10,,,8085RL,Doornspijk,Elburg,Gelderland,VBO,5.845277,52.402086
-Badweg,11,,,8085RL,Doornspijk,Elburg,Gelderland,VBO,5.847516,52.403178
 Badweg,12,,,8085RL,Doornspijk,Elburg,Gelderland,VBO,5.843525,52.400456
 Badweg,13,,,8085RL,Doornspijk,Elburg,Gelderland,VBO,5.847958,52.402822
 Badweg,14,,,8085RL,Doornspijk,Elburg,Gelderland,VBO,5.843630,52.400923
@@ -1345,7 +1487,9 @@ Berkenweg,2,R,1,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.834709,52.398252
 Berkenweg,2,,,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.835094,52.398320
 Berkenweg,3,A,,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.835800,52.401075
 Berkenweg,3,,,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.835810,52.401016
+Berkenweg,4,,,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.833889,52.401216
 Berkenweg,5,,,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.836915,52.398956
+Berkenweg,6,,,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.834483,52.401562
 Berkenweg,7,R,1,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.837695,52.399311
 Berkenweg,7,,,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.837905,52.399283
 Berkenweg,9,A,,8085RT,Doornspijk,Elburg,Gelderland,VBO,5.838374,52.398788
@@ -1366,7 +1510,6 @@ Schootbruggeweg,5,,,8085RV,Doornspijk,Elburg,Gelderland,VBO,5.832738,52.400640
 Schootbruggeweg,7,A,,8085RV,Doornspijk,Elburg,Gelderland,VBO,5.833485,52.400725
 Schootbruggeweg,7,,,8085RV,Doornspijk,Elburg,Gelderland,VBO,5.833260,52.401165
 Schootbruggeweg,9,,,8085RV,Doornspijk,Elburg,Gelderland,VBO,5.833643,52.400819
-Schootbruggeweg,11,,,8085RV,Doornspijk,Elburg,Gelderland,VBO,5.833889,52.401216
 Schootbruggeweg,2,,,8085RW,Doornspijk,Elburg,Gelderland,VBO,5.831081,52.399988
 Schootbruggeweg,4,A,,8085RW,Doornspijk,Elburg,Gelderland,VBO,5.830786,52.398077
 Schootbruggeweg,4,,,8085RW,Doornspijk,Elburg,Gelderland,VBO,5.830437,52.397835
@@ -1491,7 +1634,7 @@ Klaterweg,9,R,C79,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.834515,52.388000
 Klaterweg,9,R,C80,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.834626,52.387918
 Klaterweg,9,R,C81,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.834716,52.388076
 Klaterweg,9,R,C82,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.834936,52.388069
-Klaterweg,9,R,C84,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.835247,52.388284
+Klaterweg,9,R,C83,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.835088,52.388210
 Klaterweg,9,R,C85,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.835391,52.388401
 Klaterweg,9,R,C86,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.835557,52.388451
 Klaterweg,9,R,D1,8085SB,Doornspijk,Elburg,Gelderland,VBO,5.834859,52.387737
@@ -1655,9 +1798,9 @@ Bovenweg,57,,,8085SE,Doornspijk,Elburg,Gelderland,VBO,5.847708,52.405218
 Bovenweg,59,,,8085SE,Doornspijk,Elburg,Gelderland,VBO,5.841438,52.405004
 Bovenweg,61,R,1,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.835008,52.401542
 Bovenweg,61,,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.834949,52.401751
-Bovenweg,63,A,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.833718,52.401729
+Bovenweg,63,A,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.833638,52.401701
 Bovenweg,63,B,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.833157,52.401879
-Bovenweg,63,,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.834483,52.401562
+Bovenweg,63,,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.833814,52.401771
 Bovenweg,65,A,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.832338,52.401653
 Bovenweg,65,B,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.829338,52.401575
 Bovenweg,65,,,8085SG,Doornspijk,Elburg,Gelderland,VBO,5.833159,52.401945
@@ -1736,6 +1879,9 @@ Rode Landsweg,28,B,,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.821235,52.403859
 Rode Landsweg,28,C,,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.820057,52.403465
 Rode Landsweg,28,D,,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.820911,52.404272
 Rode Landsweg,28,E,,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.820679,52.404220
+Rode Landsweg,28,R,1,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.820622,52.404407
+Rode Landsweg,28,R,6,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.819905,52.403933
+Rode Landsweg,28,R,7,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.819701,52.403595
 Rode Landsweg,30,,,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.822332,52.402442
 Rode Landsweg,32,A,,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.823644,52.402380
 Rode Landsweg,32,,,8085SM,Doornspijk,Elburg,Gelderland,VBO,5.823583,52.402360
@@ -1780,7 +1926,7 @@ Glindeweg,22,,,8085SP,Doornspijk,Elburg,Gelderland,VBO,5.814965,52.402534
 Glindeweg,24,A,,8085SP,Doornspijk,Elburg,Gelderland,VBO,5.816326,52.401989
 Glindeweg,24,,,8085SP,Doornspijk,Elburg,Gelderland,VBO,5.816771,52.401932
 Nieuweweg,1,,,8085SR,Doornspijk,Elburg,Gelderland,VBO,5.808771,52.411852
-Nieuweweg,2,,,8085SR,Doornspijk,Elburg,Gelderland,VBO,5.808457,52.412788
+Nieuweweg,2,,,8085SR,Doornspijk,Elburg,Gelderland,VBO,5.808459,52.412774
 Nieuweweg,3,A,,8085SR,Doornspijk,Elburg,Gelderland,VBO,5.807950,52.412686
 Nieuweweg,3,,,8085SR,Doornspijk,Elburg,Gelderland,VBO,5.807993,52.412618
 Nieuweweg,4,A,,8085SR,Doornspijk,Elburg,Gelderland,VBO,5.807894,52.413266
@@ -1883,7 +2029,6 @@ Knibbelweg,8,,,8085TA,Doornspijk,Elburg,Gelderland,VBO,5.776166,52.408030
 Oude Zeeweg,3,,,8085TB,Doornspijk,Elburg,Gelderland,VBO,5.778648,52.411196
 Oude Zeeweg,5,,,8085TB,Doornspijk,Elburg,Gelderland,VBO,5.782132,52.415837
 Oude Zeeweg,10,,,8085TB,Doornspijk,Elburg,Gelderland,VBO,5.777304,52.411930
-Oude Zeeweg,12,,,8085TB,Doornspijk,Elburg,Gelderland,VBO,5.772124,52.413292
 Oude Zeeweg,14,,,8085TB,Doornspijk,Elburg,Gelderland,VBO,5.776960,52.416196
 Drostenweg,6,,,8085TC,Doornspijk,Elburg,Gelderland,VBO,5.783404,52.412632
 Drostenweg,8,,,8085TC,Doornspijk,Elburg,Gelderland,VBO,5.782893,52.412302

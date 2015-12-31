@@ -349,7 +349,6 @@ Hexelseweg,30,,,7641BC,Wierden,Wierden,Overijssel,VBO,6.585086,52.363781
 Hexelseweg,32,,,7641BC,Wierden,Wierden,Overijssel,VBO,6.583628,52.364713
 Hexelseweg,34,,,7641BC,Wierden,Wierden,Overijssel,VBO,6.582702,52.365189
 Hexelseweg,36,,inwo,7641BC,Wierden,Wierden,Overijssel,VBO,6.582366,52.365864
-Hexelseweg,36,,traf,7641BC,Wierden,Wierden,Overijssel,VBO,6.581698,52.366098
 Hexelseweg,36,,,7641BC,Wierden,Wierden,Overijssel,VBO,6.582454,52.365761
 Violenhoeksweg,1,,,7641BD,Wierden,Wierden,Overijssel,VBO,6.587506,52.361509
 Violenhoeksweg,3,a,,7641BD,Wierden,Wierden,Overijssel,VBO,6.586978,52.361515
@@ -584,7 +583,8 @@ Kerkstraat,12,,,7641BT,Wierden,Wierden,Overijssel,VBO,6.591229,52.360177
 Kerkstraat,14,,,7641BT,Wierden,Wierden,Overijssel,VBO,6.591114,52.360277
 Kerkstraat,16,,,7641BT,Wierden,Wierden,Overijssel,VBO,6.590867,52.360370
 Kerkstraat,18,,,7641BT,Wierden,Wierden,Overijssel,VBO,6.590795,52.360424
-Kerkstraat,20,,,7641BT,Wierden,Wierden,Overijssel,VBO,6.590708,52.360479
+Kerkstraat,20,a,,7641BT,Wierden,Wierden,Overijssel,VBO,6.590806,52.360562
+Kerkstraat,20,,,7641BT,Wierden,Wierden,Overijssel,VBO,6.590708,52.360491
 Kerkstraat,22,,,7641BT,Wierden,Wierden,Overijssel,VBO,6.590607,52.360525
 Kerkstraat,24,a,,7641BT,Wierden,Wierden,Overijssel,VBO,6.590233,52.360826
 Kerkstraat,24,,,7641BT,Wierden,Wierden,Overijssel,VBO,6.590197,52.360810
@@ -621,8 +621,7 @@ Stationsstraat,16,,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592249,52.358845
 Stationsstraat,18,,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592266,52.358926
 Stationsstraat,20,,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592513,52.359364
 Stationsstraat,22,,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592547,52.359535
-Stationsstraat,24,a,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592471,52.359985
-Stationsstraat,24,b,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592202,52.360052
+Stationsstraat,24,a,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592193,52.360025
 Stationsstraat,24,,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592262,52.360002
 Stationsstraat,26,,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592338,52.360047
 Stationsstraat,28,a,,7641BW,Wierden,Wierden,Overijssel,VBO,6.592272,52.360221
@@ -921,6 +920,7 @@ Tichelgaarde,27,,,7641CR,Wierden,Wierden,Overijssel,VBO,6.592355,52.358413
 Tichelgaarde,29,,,7641CR,Wierden,Wierden,Overijssel,VBO,6.592355,52.358413
 Tichelgaarde,31,,,7641CR,Wierden,Wierden,Overijssel,VBO,6.592355,52.358413
 Tichelgaarde,33,,,7641CR,Wierden,Wierden,Overijssel,VBO,6.592476,52.358529
+Tichelgaarde,35,,,7641CR,Wierden,Wierden,Overijssel,VBO,6.592362,52.358789
 Akeleistraat,1,,,7641CS,Wierden,Wierden,Overijssel,VBO,6.600067,52.356959
 Akeleistraat,2,,,7641CS,Wierden,Wierden,Overijssel,VBO,6.600953,52.357678
 Akeleistraat,4,,,7641CS,Wierden,Wierden,Overijssel,VBO,6.600985,52.357803
@@ -2027,7 +2027,7 @@ Hooiland,34,,,7641HT,Wierden,Wierden,Overijssel,VBO,6.600283,52.367015
 Hooiland,36,,,7641HT,Wierden,Wierden,Overijssel,VBO,6.600286,52.367123
 Hooiland,38,,,7641HT,Wierden,Wierden,Overijssel,VBO,6.600288,52.367177
 Hooiland,40,,,7641HT,Wierden,Wierden,Overijssel,VBO,6.600276,52.367285
-Hooiland,42,,,7641HT,Wierden,Wierden,Overijssel,VBO,6.600277,52.367329
+Hooiland,42,,,7641HT,Wierden,Wierden,Overijssel,VBO,6.600277,52.367366
 Hooiland,44,,,7641HT,Wierden,Wierden,Overijssel,VBO,6.600342,52.367545
 Hooiland,46,,,7641HV,Wierden,Wierden,Overijssel,VBO,6.600343,52.367598
 Hooiland,48,,,7641HV,Wierden,Wierden,Overijssel,VBO,6.600004,52.368069
@@ -2422,7 +2422,7 @@ Stoppelland,83,,,7641KN,Wierden,Wierden,Overijssel,VBO,6.602741,52.367205
 Wetering,7,,,7641LG,Wierden,Wierden,Overijssel,VBO,6.603171,52.375764
 Wetering,8,,,7641LG,Wierden,Wierden,Overijssel,VBO,6.602843,52.376103
 Vijverweg,2,,,7641LH,Wierden,Wierden,Overijssel,VBO,6.603694,52.374659
-Vijverweg,3,,,7641LH,Wierden,Wierden,Overijssel,VBO,6.606654,52.367651
+Vijverweg,3,,,7641LH,Wierden,Wierden,Overijssel,VBO,6.601004,52.374710
 Vijverweg,4,,,7641LH,Wierden,Wierden,Overijssel,VBO,6.602846,52.375047
 Vijverweg,10,,,7641LH,Wierden,Wierden,Overijssel,VBO,6.601060,52.375507
 Twijnspil,1,,,7641LJ,Wierden,Wierden,Overijssel,VBO,6.602390,52.371550
@@ -2883,14 +2883,14 @@ Vlierdijk,3,,,7641PB,Wierden,Wierden,Overijssel,VBO,6.577490,52.375550
 Vlierdijk,5,,,7641PB,Wierden,Wierden,Overijssel,VBO,6.595664,52.376922
 Vlierdijk,7,,,7641PB,Wierden,Wierden,Overijssel,VBO,6.596358,52.377059
 2e Lageveldsweg,1,,,7641PC,Wierden,Wierden,Overijssel,VBO,6.588225,52.370149
-2e Lageveldsweg,2,a,,7641PC,Wierden,Wierden,Overijssel,VBO,6.589436,52.368797
 2e Lageveldsweg,3,a,OPST,7641PC,Wierden,Wierden,Overijssel,VBO,6.585767,52.372142
 2e Lageveldsweg,3,a,,7641PC,Wierden,Wierden,Overijssel,VBO,6.585853,52.372034
 2e Lageveldsweg,3,b,,7641PC,Wierden,Wierden,Overijssel,VBO,6.585777,52.371962
 2e Lageveldsweg,3,c,,7641PC,Wierden,Wierden,Overijssel,VBO,6.587168,52.371368
 2e Lageveldsweg,3,,,7641PC,Wierden,Wierden,Overijssel,VBO,6.587947,52.370745
+2e Lageveldsweg,4,a,,7641PC,Wierden,Wierden,Overijssel,VBO,6.589422,52.368824
 2e Lageveldsweg,4,,SCHR,7641PC,Wierden,Wierden,Overijssel,VBO,6.588266,52.368718
-2e Lageveldsweg,4,,,7641PC,Wierden,Wierden,Overijssel,VBO,6.589422,52.368824
+2e Lageveldsweg,4,,,7641PC,Wierden,Wierden,Overijssel,VBO,6.589436,52.368797
 2e Lageveldsweg,5,a,,7641PC,Wierden,Wierden,Overijssel,VBO,6.585870,52.373750
 2e Lageveldsweg,5,,,7641PC,Wierden,Wierden,Overijssel,VBO,6.587354,52.373232
 2e Lageveldsweg,6,a,,7641PC,Wierden,Wierden,Overijssel,VBO,6.588532,52.370788
@@ -2940,11 +2940,11 @@ Vriezenveenseweg,60,b,,7641PE,Wierden,Wierden,Overijssel,VBO,6.594109,52.382403
 Vriezenveenseweg,60,,,7641PE,Wierden,Wierden,Overijssel,VBO,6.593638,52.378797
 Vriezenveenseweg,62,,,7641PE,Wierden,Wierden,Overijssel,VBO,6.594336,52.382718
 Zenderink,1,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.582653,52.366323
-Zenderink,3,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.582868,52.366586
+Zenderink,3,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.582651,52.366502
 Zenderink,5,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.582210,52.366400
 Zenderink,7,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.582561,52.366807
 Zenderink,9,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.582437,52.366964
-Zenderink,11,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.582220,52.366895
+Zenderink,11,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.582040,52.366849
 Zenderink,15,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.581436,52.367175
 Zenderink,17,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.581331,52.367471
 Zenderink,19,,,7641PM,Wierden,Wierden,Overijssel,VBO,6.581607,52.367478
@@ -3060,7 +3060,7 @@ Erve Meijerinksweg,2,,,7641RT,Wierden,Wierden,Overijssel,VBO,6.569624,52.363783
 Erve Meijerinksweg,3,,,7641RT,Wierden,Wierden,Overijssel,VBO,6.554761,52.365813
 Erve Meijerinksweg,4,a,,7641RT,Wierden,Wierden,Overijssel,VBO,6.541476,52.368607
 Erve Meijerinksweg,4,,,7641RT,Wierden,Wierden,Overijssel,VBO,6.541345,52.368563
-Erve Meijerinksweg,5,,,7641RT,Wierden,Wierden,Overijssel,VBO,6.554849,52.365770
+Erve Meijerinksweg,5,,,7641RT,Wierden,Wierden,Overijssel,VBO,6.554173,52.365568
 Erve Meijerinksweg,6,,inwo,7641RT,Wierden,Wierden,Overijssel,VBO,6.537659,52.368773
 Erve Meijerinksweg,6,,,7641RT,Wierden,Wierden,Overijssel,VBO,6.537656,52.368752
 1e Meijerinkshoekweg,1,a,,7641RV,Wierden,Wierden,Overijssel,VBO,6.567141,52.361463
