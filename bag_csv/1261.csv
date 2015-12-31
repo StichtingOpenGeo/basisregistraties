@@ -180,7 +180,6 @@ Dwarslaan,51,,,1261BB,Blaricum,Blaricum,Noord-Holland,VBO,5.240337,52.279966
 Dwarslaan,53,,,1261BB,Blaricum,Blaricum,Noord-Holland,VBO,5.240721,52.280034
 Dwarslaan,55,,,1261BB,Blaricum,Blaricum,Noord-Holland,VBO,5.241043,52.280098
 Houtwal,25,,,1261BC,Blaricum,Blaricum,Noord-Holland,VBO,5.240967,52.280324
-Houtwal,27,,,1261BC,Blaricum,Blaricum,Noord-Holland,VBO,5.240949,52.280600
 Houtwal,29,,,1261BC,Blaricum,Blaricum,Noord-Holland,VBO,5.240990,52.280853
 Houtwal,31,,,1261BC,Blaricum,Blaricum,Noord-Holland,VBO,5.241138,52.281138
 Oude Huizerweg,1,,,1261BD,Blaricum,Blaricum,Noord-Holland,VBO,5.239152,52.277576
@@ -1505,6 +1504,7 @@ Capittenweg,18,,,1261JM,Blaricum,Blaricum,Noord-Holland,VBO,5.245686,52.268491
 Capittenweg,20,,,1261JM,Blaricum,Blaricum,Noord-Holland,VBO,5.245695,52.268295
 Capittenweg,22,a,,1261JM,Blaricum,Blaricum,Noord-Holland,VBO,5.245176,52.268645
 Capittenweg,22,b,,1261JM,Blaricum,Blaricum,Noord-Holland,VBO,5.244731,52.268508
+Capittenweg,22,c,,1261JM,Blaricum,Blaricum,Noord-Holland,VBO,5.244798,52.267902
 Capittenweg,22,,,1261JM,Blaricum,Blaricum,Noord-Holland,VBO,5.245598,52.268075
 Capittenweg,24,,,1261JN,Blaricum,Blaricum,Noord-Holland,VBO,5.245403,52.267702
 Capittenweg,26,,,1261JN,Blaricum,Blaricum,Noord-Holland,VBO,5.245478,52.267454
@@ -3489,7 +3489,6 @@ Molenveenweg,59,,,1261TG,Blaricum,Blaricum,Noord-Holland,VBO,5.250735,52.270187
 Molenveenweg,61,,,1261TG,Blaricum,Blaricum,Noord-Holland,VBO,5.250707,52.270130
 Molenveenweg,63,,,1261TG,Blaricum,Blaricum,Noord-Holland,VBO,5.250638,52.270080
 Molenveenweg,65,,,1261TG,Blaricum,Blaricum,Noord-Holland,VBO,5.250567,52.270029
-Kerkpad,1,,,1261TH,Blaricum,Blaricum,Noord-Holland,VBO,5.246720,52.271426
 Kerkpad,3,,,1261TH,Blaricum,Blaricum,Noord-Holland,VBO,5.247083,52.271404
 Kerkpad,5,,,1261TH,Blaricum,Blaricum,Noord-Holland,VBO,5.247175,52.271379
 Kerkpad,7,,,1261TH,Blaricum,Blaricum,Noord-Holland,VBO,5.247383,52.271302
@@ -3999,6 +3998,7 @@ De Graaflaan,13,,,1261WR,Blaricum,Blaricum,Noord-Holland,VBO,5.276528,52.290161
 De Graaflaan,15,,,1261WR,Blaricum,Blaricum,Noord-Holland,VBO,5.276466,52.290186
 De Graaflaan,17,,,1261WR,Blaricum,Blaricum,Noord-Holland,VBO,5.276323,52.290273
 De Graaflaan,19,,,1261WR,Blaricum,Blaricum,Noord-Holland,VBO,5.276247,52.290309
+Lanphenlaan,15,,,1261WS,Blaricum,Blaricum,Noord-Holland,VBO,5.275845,52.289694
 Binnendelta,9,a,,1261WZ,Blaricum,Blaricum,Noord-Holland,VBO,5.282760,52.291113
 Binnendelta,9,b,,1261WZ,Blaricum,Blaricum,Noord-Holland,VBO,5.282846,52.291150
 Binnendelta,9,c,,1261WZ,Blaricum,Blaricum,Noord-Holland,VBO,5.282936,52.291195
@@ -4352,15 +4352,27 @@ Korte Bergweg,7,,,1261ZA,Blaricum,Blaricum,Noord-Holland,VBO,5.248706,52.277277
 Korte Bergweg,9,A,,1261ZA,Blaricum,Blaricum,Noord-Holland,VBO,5.248184,52.277070
 Korte Bergweg,9,B,,1261ZA,Blaricum,Blaricum,Noord-Holland,VBO,5.248111,52.277028
 Korte Bergweg,9,C,,1261ZA,Blaricum,Blaricum,Noord-Holland,VBO,5.248031,52.276990
-Krijnenlaan,2,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275314,52.289942
-Krijnenlaan,3,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275094,52.289844
-Krijnenlaan,5,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274980,52.289898
-Krijnenlaan,6,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274639,52.290311
-Krijnenlaan,15,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274650,52.290068
-Krijnenlaan,17,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274611,52.290084
+Krijnenlaan,2,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275442,52.290005
+Krijnenlaan,3,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275047,52.289867
+Krijnenlaan,4,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275329,52.290050
+Krijnenlaan,5,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274990,52.289978
+Krijnenlaan,6,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274821,52.290262
+Krijnenlaan,7,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274924,52.290006
+Krijnenlaan,9,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274858,52.290036
+Krijnenlaan,11,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274796,52.290063
+Krijnenlaan,12,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275144,52.290463
+Krijnenlaan,13,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274732,52.290093
+Krijnenlaan,14,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275196,52.290505
+Krijnenlaan,15,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274572,52.290132
+Krijnenlaan,16,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275442,52.290377
+Krijnenlaan,17,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274472,52.290168
+Krijnenlaan,18,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275502,52.290348
+Krijnenlaan,19,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.274324,52.290196
+Krijnenlaan,20,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275563,52.290319
 Krijnenlaan,21,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275724,52.290453
-Krijnenlaan,22,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275553,52.290309
+Krijnenlaan,22,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275623,52.290287
 Krijnenlaan,23,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275798,52.290424
+Krijnenlaan,24,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275685,52.290255
 Krijnenlaan,25,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275864,52.290394
 Krijnenlaan,26,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275761,52.290224
 Krijnenlaan,27,,,1261ZB,Blaricum,Blaricum,Noord-Holland,VBO,5.275944,52.290361
@@ -4384,6 +4396,7 @@ Floris V Dreef,7,,,1261ZH,Blaricum,Blaricum,Noord-Holland,VBO,5.277278,52.289659
 Floris V Dreef,9,,,1261ZH,Blaricum,Blaricum,Noord-Holland,VBO,5.277328,52.289700
 Floris V Dreef,11,,,1261ZH,Blaricum,Blaricum,Noord-Holland,VBO,5.277371,52.289738
 Floris V Dreef,13,,,1261ZH,Blaricum,Blaricum,Noord-Holland,VBO,5.277420,52.289779
+Floris V Dreef,21,,,1261ZH,Blaricum,Blaricum,Noord-Holland,VBO,5.277702,52.290299
 Floris V Dreef,51,,,1261ZH,Blaricum,Blaricum,Noord-Holland,VBO,5.276903,52.293470
 Floris V Dreef,53,,,1261ZH,Blaricum,Blaricum,Noord-Holland,VBO,5.276881,52.293519
 Floris V Dreef,55,,,1261ZH,Blaricum,Blaricum,Noord-Holland,VBO,5.276855,52.293579
@@ -4467,20 +4480,39 @@ Laantje van Hynckes,27,,,1261ZL,Blaricum,Blaricum,Noord-Holland,VBO,5.275657,52.
 Laantje van Hynckes,29,,,1261ZL,Blaricum,Blaricum,Noord-Holland,VBO,5.275704,52.294326
 Deltazijde,3,,01,1261ZM,Blaricum,Blaricum,Noord-Holland,VBO,5.283671,52.292119
 Deltazijde,3,,03,1261ZM,Blaricum,Blaricum,Noord-Holland,VBO,5.283752,52.292336
+Laantje van Israels,1,,,1261ZN,Blaricum,Blaricum,Noord-Holland,VBO,5.273667,52.292419
+Laantje van Israels,3,,,1261ZN,Blaricum,Blaricum,Noord-Holland,VBO,5.273743,52.292466
+Laantje van Israels,5,,,1261ZN,Blaricum,Blaricum,Noord-Holland,VBO,5.273820,52.292518
+Laantje van Israels,7,,,1261ZN,Blaricum,Blaricum,Noord-Holland,VBO,5.273898,52.292567
+Erfgooiersdreef,1,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275115,52.293099
 Erfgooiersdreef,2,a,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274049,52.291441
 Erfgooiersdreef,2,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274399,52.291871
+Erfgooiersdreef,3,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275036,52.293137
 Erfgooiersdreef,4,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274507,52.291830
+Erfgooiersdreef,5,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275229,52.293162
 Erfgooiersdreef,6,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274610,52.291783
+Erfgooiersdreef,7,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275162,52.293097
 Erfgooiersdreef,8,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274840,52.291673
+Erfgooiersdreef,9,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275077,52.293138
 Erfgooiersdreef,10,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274944,52.291620
+Erfgooiersdreef,11,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275143,52.293216
 Erfgooiersdreef,12,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275075,52.291571
+Erfgooiersdreef,13,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275264,52.293163
 Erfgooiersdreef,14,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274992,52.291764
+Erfgooiersdreef,15,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275202,52.293096
 Erfgooiersdreef,16,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274895,52.291819
+Erfgooiersdreef,17,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275118,52.293136
+Erfgooiersdreef,19,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275182,52.293218
 Erfgooiersdreef,20,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.274457,52.292020
+Erfgooiersdreef,21,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275301,52.293165
 Erfgooiersdreef,22,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275851,52.293105
+Erfgooiersdreef,23,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275248,52.293096
 Erfgooiersdreef,24,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275965,52.293060
+Erfgooiersdreef,25,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275160,52.293137
 Erfgooiersdreef,26,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.276106,52.293139
+Erfgooiersdreef,27,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275223,52.293218
 Erfgooiersdreef,28,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275874,52.293230
+Erfgooiersdreef,29,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275340,52.293167
 Erfgooiersdreef,30,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275875,52.293124
 Erfgooiersdreef,32,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.275986,52.293078
 Erfgooiersdreef,34,,,1261ZP,Blaricum,Blaricum,Noord-Holland,VBO,5.276088,52.293123

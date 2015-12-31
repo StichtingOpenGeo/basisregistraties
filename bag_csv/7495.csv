@@ -158,7 +158,6 @@ Flierweg,1,,,7495PT,Ambt Delden,Hof van Twente,Overijssel,VBO,6.718869,52.250549
 Flierweg,2,,,7495PT,Ambt Delden,Hof van Twente,Overijssel,VBO,6.718208,52.250970
 Flierweg,4,,,7495PT,Ambt Delden,Hof van Twente,Overijssel,VBO,6.718206,52.250916
 Peppelendijk,1,,,7495PV,Ambt Delden,Hof van Twente,Overijssel,VBO,6.721756,52.251586
-Peppelendijk,2,,,7495PV,Ambt Delden,Hof van Twente,Overijssel,VBO,6.721118,52.250820
 Peppelendijk,3,,,7495PV,Ambt Delden,Hof van Twente,Overijssel,VBO,6.721916,52.251072
 Oelerweg,2,a,,7495PW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.720653,52.249676
 Oelerweg,2,,,7495PW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.720398,52.249759
@@ -233,8 +232,9 @@ Langenhorsterweg,18,,,7495RD,Ambt Delden,Hof van Twente,Overijssel,VBO,6.673342,
 Langenhorsterweg,20,a,,7495RD,Ambt Delden,Hof van Twente,Overijssel,VBO,6.673507,52.258830
 Langenhorsterweg,20,,,7495RD,Ambt Delden,Hof van Twente,Overijssel,VBO,6.673380,52.258802
 Wicherinksweg,2,,,7495RE,Ambt Delden,Hof van Twente,Overijssel,VBO,6.681185,52.263103
-Molenweg,1,a,,7495RG,Ambt Delden,Hof van Twente,Overijssel,VBO,6.668936,52.250801
-Molenweg,1,,,7495RG,Ambt Delden,Hof van Twente,Overijssel,VBO,6.668817,52.250709
+Molenweg,1,a,,7495RG,Ambt Delden,Hof van Twente,Overijssel,VBO,6.668795,52.250704
+Molenweg,1,b,,7495RG,Ambt Delden,Hof van Twente,Overijssel,VBO,6.669467,52.250218
+Molenweg,1,,,7495RG,Ambt Delden,Hof van Twente,Overijssel,VBO,6.668890,52.250810
 Molenweg,2,,,7495RG,Ambt Delden,Hof van Twente,Overijssel,VBO,6.672377,52.251325
 Molenweg,3,,,7495RG,Ambt Delden,Hof van Twente,Overijssel,VBO,6.672444,52.252142
 Rijksweg,5,,,7495RH,Ambt Delden,Hof van Twente,Overijssel,VBO,6.644869,52.250183
@@ -281,7 +281,7 @@ Tankinksweg,3,,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.649058,52.246
 Tankinksweg,4,a,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.647069,52.248444
 Tankinksweg,4,,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.646835,52.248528
 Tankinksweg,5,a,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.647936,52.243660
-Tankinksweg,5,,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.647296,52.243298
+Tankinksweg,5,,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.647213,52.243328
 Tankinksweg,6,a,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.648951,52.246752
 Tankinksweg,6,,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.648745,52.246823
 Tankinksweg,7,,,7495RL,Ambt Delden,Hof van Twente,Overijssel,VBO,6.649040,52.241824
@@ -297,8 +297,8 @@ Rikkerinksweg,4,,,7495RM,Ambt Delden,Hof van Twente,Overijssel,VBO,6.633625,52.2
 Rikkerinksweg,5,a,,7495RM,Ambt Delden,Hof van Twente,Overijssel,VBO,6.633554,52.266431
 Rikkerinksweg,5,,,7495RM,Ambt Delden,Hof van Twente,Overijssel,VBO,6.633358,52.266419
 Rikkerinksweg,6,,,7495RM,Ambt Delden,Hof van Twente,Overijssel,VBO,6.643389,52.261542
-Rikkerinksweg,8,a,,7495RM,Ambt Delden,Hof van Twente,Overijssel,VBO,6.643916,52.261537
 Rikkerinksweg,8,,,7495RM,Ambt Delden,Hof van Twente,Overijssel,VBO,6.643698,52.261593
+Rikkerinksweg,10,,,7495RM,Ambt Delden,Hof van Twente,Overijssel,VBO,6.643916,52.261537
 Kappelhofsweg,2,a,,7495RN,Ambt Delden,Hof van Twente,Overijssel,VBO,6.666367,52.266006
 Kappelhofsweg,2,b,,7495RN,Ambt Delden,Hof van Twente,Overijssel,VBO,6.665638,52.266553
 Kappelhofsweg,2,c,,7495RN,Ambt Delden,Hof van Twente,Overijssel,VBO,6.665526,52.266035
@@ -386,10 +386,11 @@ Bollenweg,19,,,7495RV,Ambt Delden,Hof van Twente,Overijssel,VBO,6.635082,52.2479
 Bollenweg,21,,,7495RV,Ambt Delden,Hof van Twente,Overijssel,VBO,6.634269,52.248192
 Mossendamsweg,2,a,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.615916,52.249407
 Mossendamsweg,2,b,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.616942,52.249397
+Mossendamsweg,2,c,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.617387,52.249914
 Mossendamsweg,2,,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.613244,52.249331
 Mossendamsweg,4,a,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.621826,52.249748
 Mossendamsweg,4,b,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.621254,52.250450
-Mossendamsweg,4,,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.617258,52.250006
+Mossendamsweg,4,,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.617206,52.249983
 Mossendamsweg,6,,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.619785,52.251364
 Mossendamsweg,8,,,7495RW,Ambt Delden,Hof van Twente,Overijssel,VBO,6.620608,52.252497
 Rouwelerweg,1,,,7495RX,Ambt Delden,Hof van Twente,Overijssel,VBO,6.612172,52.250382
@@ -779,6 +780,7 @@ Kalkboerweg,15,,,7495WN,Ambt Delden,Hof van Twente,Overijssel,VBO,6.741958,52.26
 Kalkboerweg,17,,,7495WN,Ambt Delden,Hof van Twente,Overijssel,VBO,6.741877,52.263695
 Kanaaldijk,38,,,7495WP,Ambt Delden,Hof van Twente,Overijssel,VBO,6.738551,52.252429
 Kanaaldijk,40,,,7495WP,Ambt Delden,Hof van Twente,Overijssel,VBO,6.738622,52.252356
+Kanaaldijk,44,a,,7495WP,Ambt Delden,Hof van Twente,Overijssel,VBO,6.732979,52.253474
 Kanaaldijk,44,,,7495WP,Ambt Delden,Hof van Twente,Overijssel,VBO,6.733063,52.253058
 Loofrietweg,12,,,7495WR,Ambt Delden,Hof van Twente,Overijssel,VBO,6.746383,52.259009
 Loofrietweg,13,,,7495WR,Ambt Delden,Hof van Twente,Overijssel,VBO,6.746911,52.259039

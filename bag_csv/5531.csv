@@ -16,6 +16,7 @@ Hallenstraat,2,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.205164,51.358553
 Hallenstraat,3,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.203399,51.358847
 Hallenstraat,4,A,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.204448,51.358548
 Hallenstraat,4,B,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.204114,51.358540
+Hallenstraat,4,C,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.204130,51.358026
 Hallenstraat,4,D,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.204493,51.358035
 Hallenstraat,4,E,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.204375,51.358254
 Hallenstraat,4,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.204733,51.358552
@@ -88,7 +89,6 @@ Ambachtsweg,5,V,,5531AC,Bladel,Bladel,Noord-Brabant,VBO,5.193191,51.359719
 Ambachtsweg,5,W,,5531AC,Bladel,Bladel,Noord-Brabant,VBO,5.193194,51.359766
 Ambachtsweg,5,X,,5531AC,Bladel,Bladel,Noord-Brabant,VBO,5.193193,51.359813
 Ambachtsweg,5,,,5531AC,Bladel,Bladel,Noord-Brabant,VBO,5.194462,51.359830
-Ambachtsweg,5,,,5531AC,Bladel,Bladel,Noord-Brabant,VBO,5.194595,51.359484
 Ambachtsweg,7,,,5531AC,Bladel,Bladel,Noord-Brabant,VBO,5.194532,51.359606
 Ambachtsweg,8,,,5531AC,Bladel,Bladel,Noord-Brabant,VBO,5.195054,51.360368
 Ambachtsweg,9,,,5531AC,Bladel,Bladel,Noord-Brabant,VBO,5.194602,51.359345
@@ -162,7 +162,6 @@ Raambrug,28,A,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205721,51.360360
 Raambrug,28,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205547,51.360492
 Raambrug,30,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205717,51.360182
 Raambrug,34,A,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205768,51.359791
-Raambrug,34,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205784,51.359790
 Raambrug,34,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.206012,51.359786
 Raambrug,36,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205892,51.359385
 Raambrug,38,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.206243,51.358749
@@ -860,6 +859,7 @@ Bleijenhoek,12,,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.213485,51.365184
 Bleijenhoek,14,A,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.213017,51.364953
 Bleijenhoek,14,,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.213202,51.365033
 Bleijenhoek,16,,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.212876,51.364886
+Bleijenhoek,18,,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.212246,51.364519
 Bleijenhoek,20,A,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.211948,51.364471
 Bleijenhoek,24,A,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.211800,51.364411
 Bleijenhoek,24,,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.211727,51.364382
@@ -3370,8 +3370,14 @@ Isegrim,5,,,5531KM,Bladel,Bladel,Noord-Brabant,VBO,5.208341,51.374909
 Pimpernel,1,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209331,51.373516
 Pimpernel,3,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209369,51.373584
 Pimpernel,5,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209407,51.373649
+Pimpernel,6,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.208920,51.373506
 Pimpernel,7,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209443,51.373707
+Pimpernel,8,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.208945,51.373551
 Pimpernel,9,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209478,51.373766
+Pimpernel,10,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209010,51.373654
+Pimpernel,12,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209040,51.373701
+Pimpernel,14,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209092,51.373810
+Pimpernel,16,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209129,51.373855
 Pimpernel,18,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209131,51.373978
 Pimpernel,20,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209271,51.373951
 Pimpernel,22,,,5531KN,Bladel,Bladel,Noord-Brabant,VBO,5.209344,51.373951
@@ -3978,6 +3984,7 @@ Franse Hoef,2,A,,5531PD,Bladel,Bladel,Noord-Brabant,VBO,5.209707,51.375408
 Franse Hoef,2,B,,5531PD,Bladel,Bladel,Noord-Brabant,VBO,5.209268,51.375303
 Franse Hoef,2,,,5531PD,Bladel,Bladel,Noord-Brabant,VBO,5.210185,51.375512
 Franse Hoef,4,,,5531PD,Bladel,Bladel,Noord-Brabant,VBO,5.208771,51.375182
+Franse Hoef,5,A,,5531PD,Bladel,Bladel,Noord-Brabant,VBO,5.204323,51.375917
 Franse Hoef,5,,,5531PD,Bladel,Bladel,Noord-Brabant,VBO,5.204887,51.375513
 Franse Hoef,7,,,5531PD,Bladel,Bladel,Noord-Brabant,VBO,5.203671,51.375618
 Franse Hoef,9,,,5531PD,Bladel,Bladel,Noord-Brabant,VBO,5.202621,51.375818

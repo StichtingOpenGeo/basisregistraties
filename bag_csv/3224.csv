@@ -63,6 +63,7 @@ Kanaalweg Oostzijde,144,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,
 Kanaalweg Oostzijde,146,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.156018,51.836621
 Kanaalweg Oostzijde,148,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.156851,51.836963
 Kanaalweg Oostzijde,152,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.157194,51.837146
+Kanaalweg Oostzijde,153,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.157740,51.837341
 Kanaalweg Oostzijde,154,a,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.158256,51.837562
 Kanaalweg Oostzijde,154,b,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.158514,51.837681
 Kanaalweg Oostzijde,154,c,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.158586,51.837709
@@ -86,7 +87,6 @@ Kanaalweg Oostzijde,180,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,
 Kanaalweg Oostzijde,182,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.171504,51.842976
 Kanaalweg Oostzijde,184,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.173390,51.844084
 Kanaalweg Oostzijde,188,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.183891,51.848641
-Kanaalweg Westzijde,153,,,3224AD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.157740,51.837341
 Kanaalweg Oostzijde,3,,,3224AE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,LIG,4.137463,51.827473
 Kanaalweg Oostzijde,5,,,3224AE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,LIG,4.137370,51.827307
 Kanaalweg Oostzijde,7,,,3224AE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,LIG,4.138760,51.828951
@@ -106,7 +106,7 @@ Molshoek,2,,,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.139153,51.8
 Molshoek,3,,1,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.139476,51.827197
 Molshoek,5,,,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.139728,51.827532
 Molshoek,6,,,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.139188,51.828174
-Molshoek,7,a,TRAF,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.138505,51.827159
+Molshoek,7,a,,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.138505,51.827159
 Molshoek,8,,,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.139225,51.826826
 Molshoek,9,a,,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.139730,51.828000
 Molshoek,9,,002,3224AH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.139730,51.828000
@@ -120,7 +120,7 @@ Oostdijk,25,,,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.149905,51.
 Oostdijk,27,,,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.149982,51.833466
 Oostdijk,29,,,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.150042,51.833385
 Oostdijk,31,,,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.150364,51.833533
-Oostdijk,33,,HORE,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.150262,51.833307
+Oostdijk,33,,,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.150262,51.833307
 Oostdijk,35,,,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.150902,51.832720
 Oostdijk,37,a,,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.151900,51.831778
 Oostdijk,37,,,3224AK,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.152050,51.831600
@@ -342,7 +342,7 @@ Roterij,56,,,3224BD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.142349,51.8
 Roterij,1,a,,3224BE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144534,51.827394
 Roterij,1,b,,3224BE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144577,51.827404
 Roterij,1,c,,3224BE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144606,51.827413
-Roterij,1,d,,3224BE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144649,51.827413
+Roterij,1,d,,3224BE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144651,51.827416
 Roterij,1,e,,3224BE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144693,51.827423
 Roterij,1,f,,3224BE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144736,51.827432
 Roterij,1,g,,3224BE,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144780,51.827433
@@ -1471,10 +1471,10 @@ Branding,20,,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153173,51.
 Branding,21,,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.151020,51.825233
 Branding,22,,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153259,51.825572
 Branding,23,,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.151107,51.825243
-Branding,24,a,GARA,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153736,51.825667
-Branding,24,b,GARA,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153779,51.825676
-Branding,24,c,GARA,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153822,51.825685
-Branding,24,d,GARA,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153866,51.825686
+Branding,24,a,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153736,51.825667
+Branding,24,b,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153779,51.825676
+Branding,24,c,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153822,51.825685
+Branding,24,d,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153866,51.825686
 Branding,24,,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153346,51.825582
 Branding,25,,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.151223,51.825236
 Branding,26,,,3224GA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.153952,51.825723
@@ -1828,187 +1828,187 @@ de Windhond,25,,,3224GR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.155640,
 de Windhond,27,,,3224GR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.155656,51.825992
 de Windhond,29,,,3224GR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.155672,51.825948
 Struytse Hoeck,1,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146907,51.830799
-Struytse Hoeck,5,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145736,51.830634
-Struytse Hoeck,9,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145678,51.830634
-Struytse Hoeck,11,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145706,51.830661
-Struytse Hoeck,13,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145987,51.830987
-Struytse Hoeck,15,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145993,51.830250
-Struytse Hoeck,17,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145621,51.830049
-Struytse Hoeck,21,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145708,51.830607
-Struytse Hoeck,29,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145959,51.830969
-Struytse Hoeck,31,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145987,51.830996
-Struytse Hoeck,33,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145663,51.830633
-Struytse Hoeck,37,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146031,51.830970
-Struytse Hoeck,39,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146017,51.830952
-Struytse Hoeck,43,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145677,51.830651
-Struytse Hoeck,49,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145735,51.830670
-Struytse Hoeck,51,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145764,51.830652
-Struytse Hoeck,55,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147746,51.831410
-Struytse Hoeck,57,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145779,51.830635
-Struytse Hoeck,59,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145765,51.830616
-Struytse Hoeck,61,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145046,51.830914
-Struytse Hoeck,63,b,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145724,51.832135
-Struytse Hoeck,63,c,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145724,51.832135
-Struytse Hoeck,63,d,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145724,51.832135
-Struytse Hoeck,63,e,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145724,51.832135
-Struytse Hoeck,63,f,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145724,51.832135
-Struytse Hoeck,63,g,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145724,51.832135
-Struytse Hoeck,63,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146387,51.832268
-Struytse Hoeck,67,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146209,51.831907
-Struytse Hoeck,71,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146209,51.831907
-Struytse Hoeck,75,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145864,51.831238
-Struytse Hoeck,79,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145865,51.831202
-Struytse Hoeck,81,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145836,51.831219
-Struytse Hoeck,83,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145733,51.831272
-Struytse Hoeck,89,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145864,51.831247
-Struytse Hoeck,91,a,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145344,51.830630
-Struytse Hoeck,91,b,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145344,51.830648
-Struytse Hoeck,91,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145417,51.830640
-Struytse Hoeck,93,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145271,51.830126
-Struytse Hoeck,95,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144502,51.830136
-Struytse Hoeck,101,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145679,51.830598
-Struytse Hoeck,103,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145649,51.830615
-Struytse Hoeck,105,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145634,51.830633
-Struytse Hoeck,107,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145648,51.830651
-Struytse Hoeck,109,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145677,51.830669
-Struytse Hoeck,111,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145705,51.830688
-Struytse Hoeck,113,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145734,51.830688
-Struytse Hoeck,115,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145764,51.830670
-Struytse Hoeck,117,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145773,51.830347
-Struytse Hoeck,119,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145793,51.830653
-Struytse Hoeck,121,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145794,51.830635
-Struytse Hoeck,123,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145794,51.830617
-Struytse Hoeck,125,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145766,51.830599
-Struytse Hoeck,127,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145737,51.830580
-Struytse Hoeck,129,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145708,51.830580
-Struytse Hoeck,131,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145679,51.830580
-Struytse Hoeck,133,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145650,51.830597
-Struytse Hoeck,135,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145620,51.830615
-Struytse Hoeck,137,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145620,51.830633
-Struytse Hoeck,139,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146275,51.831089
-Struytse Hoeck,141,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145619,51.830651
-Struytse Hoeck,143,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145648,51.830669
-Struytse Hoeck,145,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145676,51.830687
-Struytse Hoeck,147,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145705,51.830706
-Struytse Hoeck,149,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145734,51.830697
-Struytse Hoeck,151,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145778,51.830689
-Struytse Hoeck,153,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145793,51.830680
-Struytse Hoeck,155,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,157,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,159,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,161,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,163,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,165,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,167,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146168,51.831789
-Struytse Hoeck,169,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146198,51.831772
-Struytse Hoeck,171,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145732,51.831290
-Struytse Hoeck,173,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145747,51.831272
-Struytse Hoeck,175,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145733,51.831254
-Struytse Hoeck,179,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145705,51.831245
-Struytse Hoeck,181,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145675,51.831254
-Struytse Hoeck,183,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145660,51.831272
-Struytse Hoeck,185,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145761,51.831291
-Struytse Hoeck,187,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145776,51.831273
-Struytse Hoeck,189,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145762,51.831255
-Struytse Hoeck,191,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145808,51.830653
-Struytse Hoeck,193,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145823,51.830635
-Struytse Hoeck,195,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145809,51.830617
-Struytse Hoeck,2,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146707,51.830662
-Struytse Hoeck,4,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145693,51.830616
-Struytse Hoeck,8,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145635,51.830615
-Struytse Hoeck,10,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145663,51.830642
-Struytse Hoeck,16,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145621,51.830049
-Struytse Hoeck,20,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145665,51.830588
-Struytse Hoeck,24,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145635,51.830597
-Struytse Hoeck,26,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145987,51.831014
-Struytse Hoeck,28,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145620,51.830615
-Struytse Hoeck,32,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145660,51.830768
-Struytse Hoeck,34,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146016,51.831006
-Struytse Hoeck,38,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146060,51.830970
-Struytse Hoeck,44,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145692,51.830652
-Struytse Hoeck,46,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146046,51.830952
-Struytse Hoeck,56,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145694,51.830580
-Struytse Hoeck,58,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145665,51.830570
-Struytse Hoeck,60,a,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145636,51.830579
-Struytse Hoeck,60,b,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145606,51.830597
-Struytse Hoeck,60,c,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145591,51.830615
-Struytse Hoeck,60,d,2,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146816,51.831967
-Struytse Hoeck,60,e,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145634,51.830651
-Struytse Hoeck,60,f,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145662,51.830669
-Struytse Hoeck,60,g,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145691,51.830670
-Struytse Hoeck,60,h,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145721,51.830652
-Struytse Hoeck,62,a,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146389,51.832196
-Struytse Hoeck,62,b,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146389,51.832196
-Struytse Hoeck,62,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146476,51.832197
-Struytse Hoeck,68,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146326,51.831845
-Struytse Hoeck,70,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146298,51.831827
-Struytse Hoeck,72,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145989,51.830924
-Struytse Hoeck,74,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145960,51.830933
-Struytse Hoeck,76,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145879,51.831238
-Struytse Hoeck,78,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145908,51.831220
-Struytse Hoeck,80,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145880,51.831202
-Struytse Hoeck,82,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145850,51.831220
-Struytse Hoeck,86,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145930,51.830951
-Struytse Hoeck,88,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145879,51.831247
-Struytse Hoeck,90,a,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145369,51.830774
-Struytse Hoeck,90,b,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145456,51.830775
-Struytse Hoeck,90,c,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145428,51.830757
-Struytse Hoeck,90,d,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145302,51.830063
-Struytse Hoeck,90,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145442,51.830757
-Struytse Hoeck,92,a,II,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145302,51.830063
-Struytse Hoeck,92,a,III,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145357,51.830693
-Struytse Hoeck,92,b,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145251,51.830341
-Struytse Hoeck,92,c,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145221,51.830359
-Struytse Hoeck,92,d,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145249,51.830386
-Struytse Hoeck,94,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144895,51.830086
-Struytse Hoeck,102,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145750,51.830634
-Struytse Hoeck,104,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145751,51.830616
-Struytse Hoeck,106,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145751,51.830598
-Struytse Hoeck,108,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145723,51.830580
-Struytse Hoeck,110,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145694,51.830562
-Struytse Hoeck,112,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145665,51.830561
-Struytse Hoeck,114,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145636,51.830561
-Struytse Hoeck,116,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145773,51.830347
-Struytse Hoeck,118,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145607,51.830579
-Struytse Hoeck,120,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145577,51.830597
-Struytse Hoeck,122,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145577,51.830614
-Struytse Hoeck,124,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145576,51.830632
-Struytse Hoeck,126,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145605,51.830651
-Struytse Hoeck,128,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145633,51.830669
-Struytse Hoeck,130,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145834,51.830752
-Struytse Hoeck,132,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145662,51.830687
-Struytse Hoeck,134,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145691,51.830679
-Struytse Hoeck,136,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145735,51.830670
-Struytse Hoeck,138,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145750,51.830661
-Struytse Hoeck,140,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145765,51.830634
-Struytse Hoeck,142,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145780,51.830617
-Struytse Hoeck,144,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145766,51.830599
-Struytse Hoeck,146,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145752,51.830571
-Struytse Hoeck,148,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145738,51.830562
-Struytse Hoeck,150,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145695,51.830553
-Struytse Hoeck,152,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145666,51.830544
-Struytse Hoeck,154,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147134,51.830982
-Struytse Hoeck,156,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,158,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,160,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,162,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,164,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146958,51.831564
-Struytse Hoeck,166,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146065,51.831851
-Struytse Hoeck,168,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146065,51.831851
-Struytse Hoeck,170,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146065,51.831851
-Struytse Hoeck,172,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145690,51.831263
-Struytse Hoeck,174,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145719,51.831245
-Struytse Hoeck,176,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145691,51.831227
-Struytse Hoeck,178,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145661,51.831245
-Struytse Hoeck,180,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145689,51.831272
-Struytse Hoeck,182,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145719,51.831263
-Struytse Hoeck,184,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145734,51.831245
-Struytse Hoeck,186,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145720,51.831227
-Struytse Hoeck,188,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145691,51.831218
-Struytse Hoeck,190,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144644,51.830784
-Struytse Hoeck,192,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144673,51.830767
-Struytse Hoeck,194,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144645,51.830748
-Struytse Hoeck,196,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144615,51.830766
+Struytse Hoeck,5,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146419,51.830680
+Struytse Hoeck,9,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146318,51.830554
+Struytse Hoeck,11,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146066,51.830449
+Struytse Hoeck,13,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145986,51.830371
+Struytse Hoeck,15,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145936,51.830320
+Struytse Hoeck,17,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145696,51.830149
+Struytse Hoeck,21,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145725,51.830409
+Struytse Hoeck,29,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145746,51.830747
+Struytse Hoeck,31,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145761,51.830818
+Struytse Hoeck,33,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146040,51.831055
+Struytse Hoeck,37,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146175,51.831126
+Struytse Hoeck,39,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146248,51.831185
+Struytse Hoeck,43,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146478,51.831217
+Struytse Hoeck,50,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146860,51.831216
+Struytse Hoeck,51,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147111,51.831083
+Struytse Hoeck,55,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147658,51.831360
+Struytse Hoeck,57,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147410,51.831485
+Struytse Hoeck,59,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147253,51.831653
+Struytse Hoeck,61,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147230,51.831948
+Struytse Hoeck,63,b,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146175,51.832439
+Struytse Hoeck,63,c,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145949,51.832346
+Struytse Hoeck,63,d,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145609,51.832142
+Struytse Hoeck,63,e,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145653,51.832112
+Struytse Hoeck,63,f,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145739,51.832095
+Struytse Hoeck,63,g,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145777,51.832060
+Struytse Hoeck,63,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146545,51.832382
+Struytse Hoeck,67,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146208,51.831912
+Struytse Hoeck,71,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146369,51.831679
+Struytse Hoeck,75,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146419,51.831572
+Struytse Hoeck,79,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146188,51.831459
+Struytse Hoeck,81,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146130,51.831406
+Struytse Hoeck,83,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145883,51.831295
+Struytse Hoeck,89,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145556,51.831032
+Struytse Hoeck,91,a,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144659,51.830417
+Struytse Hoeck,91,b,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145219,51.830484
+Struytse Hoeck,91,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145011,51.830727
+Struytse Hoeck,93,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145312,51.830104
+Struytse Hoeck,95,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144496,51.830109
+Struytse Hoeck,101,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146779,51.830700
+Struytse Hoeck,103,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146648,51.830659
+Struytse Hoeck,105,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146508,51.830587
+Struytse Hoeck,107,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146355,51.830521
+Struytse Hoeck,109,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146242,51.830437
+Struytse Hoeck,111,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146142,51.830352
+Struytse Hoeck,113,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146051,51.830276
+Struytse Hoeck,115,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145849,51.830028
+Struytse Hoeck,117,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145677,51.830087
+Struytse Hoeck,119,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145636,51.830255
+Struytse Hoeck,121,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145644,51.830356
+Struytse Hoeck,123,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145689,51.830455
+Struytse Hoeck,125,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145645,51.830605
+Struytse Hoeck,127,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145664,51.830711
+Struytse Hoeck,129,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145691,51.830812
+Struytse Hoeck,131,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145709,51.830913
+Struytse Hoeck,133,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145963,51.830984
+Struytse Hoeck,135,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146092,51.831048
+Struytse Hoeck,137,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146171,51.831151
+Struytse Hoeck,139,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146287,51.831232
+Struytse Hoeck,141,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146478,51.831287
+Struytse Hoeck,143,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146666,51.831272
+Struytse Hoeck,145,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146818,51.831263
+Struytse Hoeck,147,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146980,51.831241
+Struytse Hoeck,149,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147145,51.831187
+Struytse Hoeck,151,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147279,51.831110
+Struytse Hoeck,153,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147384,51.831055
+Struytse Hoeck,155,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146778,51.831664
+Struytse Hoeck,157,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146752,51.831775
+Struytse Hoeck,159,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147280,51.831843
+Struytse Hoeck,161,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147189,51.831934
+Struytse Hoeck,163,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146835,51.831955
+Struytse Hoeck,165,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146742,51.832046
+Struytse Hoeck,167,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146266,51.831870
+Struytse Hoeck,169,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146354,51.831787
+Struytse Hoeck,171,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146593,51.831631
+Struytse Hoeck,173,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146541,51.831634
+Struytse Hoeck,175,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146345,51.831541
+Struytse Hoeck,179,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146100,51.831400
+Struytse Hoeck,181,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145982,51.831335
+Struytse Hoeck,183,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145845,51.831277
+Struytse Hoeck,185,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145708,51.831223
+Struytse Hoeck,187,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145651,51.831120
+Struytse Hoeck,189,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145633,51.831025
+Struytse Hoeck,191,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145399,51.830841
+Struytse Hoeck,193,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145362,51.830746
+Struytse Hoeck,195,,,3224HA,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145354,51.830627
+Struytse Hoeck,2,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146980,51.830864
+Struytse Hoeck,4,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146662,51.830767
+Struytse Hoeck,8,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146255,51.830587
+Struytse Hoeck,10,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146196,51.830547
+Struytse Hoeck,16,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145808,51.830104
+Struytse Hoeck,20,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145691,51.830312
+Struytse Hoeck,24,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145752,51.830512
+Struytse Hoeck,26,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145702,51.830616
+Struytse Hoeck,28,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145729,51.830694
+Struytse Hoeck,32,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145807,51.830905
+Struytse Hoeck,34,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146010,51.830983
+Struytse Hoeck,38,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146119,51.831154
+Struytse Hoeck,44,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146608,51.831186
+Struytse Hoeck,46,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146758,51.831192
+Struytse Hoeck,56,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147215,51.831346
+Struytse Hoeck,58,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146882,51.831230
+Struytse Hoeck,60,a,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146823,51.831661
+Struytse Hoeck,60,b,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147289,51.831611
+Struytse Hoeck,60,c,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147072,51.831849
+Struytse Hoeck,60,d,2,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147130,51.831875
+Struytse Hoeck,60,e,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146926,51.831893
+Struytse Hoeck,60,f,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146886,51.831940
+Struytse Hoeck,60,g,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146844,51.831973
+Struytse Hoeck,60,h,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147172,51.831914
+Struytse Hoeck,62,a,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146760,51.832177
+Struytse Hoeck,62,b,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146700,51.832241
+Struytse Hoeck,62,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146949,51.832309
+Struytse Hoeck,68,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146239,51.831764
+Struytse Hoeck,70,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146316,51.831712
+Struytse Hoeck,72,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146490,51.831634
+Struytse Hoeck,74,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146502,51.831605
+Struytse Hoeck,76,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146345,51.831541
+Struytse Hoeck,78,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146258,51.831495
+Struytse Hoeck,80,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146075,51.831387
+Struytse Hoeck,82,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145952,51.831322
+Struytse Hoeck,86,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145650,51.831175
+Struytse Hoeck,88,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145567,51.831139
+Struytse Hoeck,90,a,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145023,51.830936
+Struytse Hoeck,90,b,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145368,51.830948
+Struytse Hoeck,90,c,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145289,51.830856
+Struytse Hoeck,90,d,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145169,51.830970
+Struytse Hoeck,90,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144870,51.830949
+Struytse Hoeck,92,a,II,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145214,51.830308
+Struytse Hoeck,92,a,III,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145214,51.830308
+Struytse Hoeck,92,b,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145258,51.830288
+Struytse Hoeck,92,c,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145252,51.830262
+Struytse Hoeck,92,d,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145246,51.830237
+Struytse Hoeck,94,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144939,51.830067
+Struytse Hoeck,102,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146714,51.830686
+Struytse Hoeck,104,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146582,51.830618
+Struytse Hoeck,106,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146436,51.830556
+Struytse Hoeck,108,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146304,51.830483
+Struytse Hoeck,110,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146199,51.830399
+Struytse Hoeck,112,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146087,51.830313
+Struytse Hoeck,114,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145992,51.830236
+Struytse Hoeck,116,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145729,51.830014
+Struytse Hoeck,118,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145723,51.830137
+Struytse Hoeck,120,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145645,51.830309
+Struytse Hoeck,122,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145667,51.830409
+Struytse Hoeck,124,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145664,51.830550
+Struytse Hoeck,126,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145649,51.830658
+Struytse Hoeck,128,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145682,51.830757
+Struytse Hoeck,130,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145692,51.830860
+Struytse Hoeck,132,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145901,51.830954
+Struytse Hoeck,134,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146027,51.831018
+Struytse Hoeck,136,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146163,51.831079
+Struytse Hoeck,138,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146219,51.831197
+Struytse Hoeck,140,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146355,51.831264
+Struytse Hoeck,142,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146578,51.831270
+Struytse Hoeck,144,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146739,51.831263
+Struytse Hoeck,146,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146902,51.831251
+Struytse Hoeck,148,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147079,51.831236
+Struytse Hoeck,150,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147236,51.831152
+Struytse Hoeck,152,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147374,51.831081
+Struytse Hoeck,154,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146823,51.831661
+Struytse Hoeck,156,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146806,51.831743
+Struytse Hoeck,158,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147332,51.831798
+Struytse Hoeck,160,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147244,51.831884
+Struytse Hoeck,162,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146873,51.831920
+Struytse Hoeck,164,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146782,51.831995
+Struytse Hoeck,166,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146208,51.831912
+Struytse Hoeck,168,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146313,51.831827
+Struytse Hoeck,170,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146403,51.831749
+Struytse Hoeck,172,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146552,51.831614
+Struytse Hoeck,174,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146419,51.831572
+Struytse Hoeck,176,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146258,51.831495
+Struytse Hoeck,178,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146164,51.831433
+Struytse Hoeck,180,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146026,51.831368
+Struytse Hoeck,182,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145909,51.831307
+Struytse Hoeck,184,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145782,51.831250
+Struytse Hoeck,186,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145650,51.831175
+Struytse Hoeck,188,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145652,51.831075
+Struytse Hoeck,190,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145393,51.830892
+Struytse Hoeck,192,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145378,51.830791
+Struytse Hoeck,194,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145356,51.830690
+Struytse Hoeck,196,,,3224HB,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145328,51.830590
 de Sprong,1,,,3224HC,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.150855,51.832324
 de Sprong,2,,,3224HC,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.149580,51.832230
 Wetering,1,a,A,3224HD,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.149508,51.831699
@@ -2895,6 +2895,7 @@ Zeegat,65,,,3224SH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146017,51.82
 Zeegat,67,,,3224SH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146161,51.824148
 Zeegat,69,,,3224SH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146277,51.824159
 Zeegat,71,,,3224SH,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.146407,51.824178
+Zeegat,2,a,,3224SJ,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144785,51.824006
 Zeegat,2,,,3224SJ,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.144783,51.824032
 Zeegat,6,,,3224SJ,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145047,51.823525
 Zeegat,8,,,3224SJ,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.145504,51.823243
@@ -3306,7 +3307,7 @@ Kamperfoelie,21,,,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.148615
 Kamperfoelie,22,,,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.148377,51.827345
 Kamperfoelie,23,a,,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.148441,51.826159
 Kamperfoelie,23,,,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.148528,51.826169
-Kamperfoelie,24,,PRAK,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147961,51.827260
+Kamperfoelie,24,,,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.147961,51.827260
 Kamperfoelie,25,,,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.148349,51.826356
 Kamperfoelie,26,,,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.148010,51.827071
 Kamperfoelie,27,,,3224TL,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.148333,51.826419
@@ -4030,26 +4031,26 @@ Rangeerlok,4,,,3224XN,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.138230,51
 Rangeerlok,6,,,3224XN,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.138156,51.825896
 Rangeerlok,8,,,3224XN,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.138077,51.825910
 Smalspoor,1,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.138138,51.825571
-Smalspoor,2,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
+Smalspoor,2,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
 Smalspoor,3,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.138046,51.825585
-Smalspoor,4,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
+Smalspoor,4,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
 Smalspoor,5,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137975,51.825602
-Smalspoor,6,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
+Smalspoor,6,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
 Smalspoor,7,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137898,51.825620
-Smalspoor,8,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,10,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,12,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,14,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,16,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,18,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,20,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,22,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,24,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,26,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,28,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,30,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,32,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,34,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,36,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,38,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
-Smalspoor,40,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137744,51.825809
+Smalspoor,8,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,10,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,12,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,14,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,16,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,18,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,20,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,22,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,24,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,26,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,28,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,30,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,32,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,34,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,36,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,38,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
+Smalspoor,40,,,3224XR,Hellevoetsluis,Hellevoetsluis,Zuid-Holland,VBO,4.137646,51.825834
