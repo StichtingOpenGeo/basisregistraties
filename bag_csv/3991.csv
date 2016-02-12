@@ -1,4 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
+Kerksteeg,4,,,3991AA,Houten,Houten,Utrecht,VBO,5.163144,52.026939
+Kerksteeg,6,,,3991AA,Houten,Houten,Utrecht,VBO,5.163098,52.026964
 Kerksteeg,8,,,3991AA,Houten,Houten,Utrecht,VBO,5.163090,52.026936
 Loerikseweg,1,a,,3991AA,Houten,Houten,Utrecht,VBO,5.162693,52.026811
 Loerikseweg,1,,,3991AA,Houten,Houten,Utrecht,VBO,5.162692,52.026860
@@ -46,8 +48,6 @@ Loerikseweg,2,a,,3991AD,Houten,Houten,Utrecht,VBO,5.162894,52.027045
 Loerikseweg,2,,,3991AD,Houten,Houten,Utrecht,VBO,5.162859,52.027011
 Loerikseweg,4,a,,3991AD,Houten,Houten,Utrecht,VBO,5.163008,52.027013
 Loerikseweg,4,,,3991AD,Houten,Houten,Utrecht,VBO,5.162993,52.026980
-Loerikseweg,6,a,,3991AD,Houten,Houten,Utrecht,VBO,5.163098,52.026964
-Loerikseweg,6,b,,3991AD,Houten,Houten,Utrecht,VBO,5.163144,52.026939
 Loerikseweg,6,,,3991AD,Houten,Houten,Utrecht,VBO,5.163046,52.026922
 Loerikseweg,8,,0001,3991AD,Houten,Houten,Utrecht,VBO,5.163197,52.026887
 Loerikseweg,8,,,3991AD,Houten,Houten,Utrecht,VBO,5.163247,52.026905
@@ -195,6 +195,7 @@ Korte Schaft,8,,,3991AT,Houten,Houten,Utrecht,VBO,5.172012,52.022262
 Korte Schaft,9,,0001,3991AT,Houten,Houten,Utrecht,VBO,5.172249,52.022031
 Korte Schaft,9,,,3991AT,Houten,Houten,Utrecht,VBO,5.172498,52.022146
 Korte Schaft,10,,,3991AT,Houten,Houten,Utrecht,VBO,5.172012,52.022262
+Korte Schaft,12,,,3991AT,Houten,Houten,Utrecht,VBO,5.172121,52.022796
 Korte Schaft,13,,,3991AT,Houten,Houten,Utrecht,VBO,5.172628,52.022388
 Korte Schaft,17,,0001,3991AT,Houten,Houten,Utrecht,VBO,5.173980,52.022517
 Korte Schaft,17,,,3991AT,Houten,Houten,Utrecht,VBO,5.172751,52.022597
@@ -2950,6 +2951,10 @@ Vikingenpoort,41,,,3991JP,Houten,Houten,Utrecht,VBO,5.154470,52.026980
 Vikingenpoort,43,,,3991JP,Houten,Houten,Utrecht,VBO,5.154367,52.026957
 Vikingenpoort,45,,,3991JP,Houten,Houten,Utrecht,VBO,5.154274,52.026967
 Vikingenpoort,47,,,3991JP,Houten,Houten,Utrecht,VBO,5.154213,52.026988
+Galliërspoort,14,,,3991JR,Houten,Houten,Utrecht,VBO,5.154523,52.025884
+Galliërspoort,18,,,3991JR,Houten,Houten,Utrecht,VBO,5.154161,52.025916
+Galliërspoort,20,,,3991JR,Houten,Houten,Utrecht,VBO,5.153912,52.025960
+Galliërspoort,22,,,3991JR,Houten,Houten,Utrecht,VBO,5.153787,52.025971
 Vikingenpoort,49,,,3991JR,Houten,Houten,Utrecht,VBO,5.153888,52.027157
 Vikingenpoort,51,,,3991JR,Houten,Houten,Utrecht,VBO,5.153802,52.027137
 Vikingenpoort,53,,,3991JR,Houten,Houten,Utrecht,VBO,5.153732,52.027173
@@ -2974,10 +2979,13 @@ Vikingenpoort,89,,,3991JR,Houten,Houten,Utrecht,VBO,5.153925,52.028816
 Vikingenpoort,91,,,3991JR,Houten,Houten,Utrecht,VBO,5.153914,52.028867
 Vikingenpoort,93,,,3991JR,Houten,Houten,Utrecht,VBO,5.153969,52.028918
 Vikingenpoort,95,,,3991JR,Houten,Houten,Utrecht,VBO,5.153998,52.028981
+Galliërspoort,3,,,3991JS,Houten,Houten,Utrecht,VBO,5.154408,52.026219
 Vikingenpoort,4,,,3991JS,Houten,Houten,Utrecht,VBO,5.157334,52.026875
 Vikingenpoort,6,,,3991JS,Houten,Houten,Utrecht,VBO,5.157061,52.026760
 Vikingenpoort,10,,,3991JS,Houten,Houten,Utrecht,VBO,5.156700,52.026578
 Vikingenpoort,16,,,3991JS,Houten,Houten,Utrecht,VBO,5.156098,52.026453
+Vikingenpoort,22,,,3991JS,Houten,Houten,Utrecht,VBO,5.154777,52.026257
+Vikingenpoort,24,,,3991JS,Houten,Houten,Utrecht,VBO,5.154796,52.026508
 Vikingenpoort,30,,,3991JS,Houten,Houten,Utrecht,VBO,5.153232,52.029023
 Eburonenpoort,1,,,3991JT,Houten,Houten,Utrecht,VBO,5.156354,52.027162
 Eburonenpoort,3,,,3991JT,Houten,Houten,Utrecht,VBO,5.156320,52.027303
@@ -3070,6 +3078,13 @@ Keltenpoort,18,,,3991JX,Houten,Houten,Utrecht,VBO,5.153997,52.027772
 Keltenpoort,19,,,3991JX,Houten,Houten,Utrecht,VBO,5.154427,52.027753
 Keltenpoort,21,,,3991JX,Houten,Houten,Utrecht,VBO,5.154436,52.027803
 Keltenpoort,23,,,3991JX,Houten,Houten,Utrecht,VBO,5.154442,52.027864
+Warinenpoort,21,,,3991JZ,Houten,Houten,Utrecht,VBO,5.154453,52.025598
+Warinenpoort,23,,,3991JZ,Houten,Houten,Utrecht,VBO,5.154145,52.025610
+Warinenpoort,25,,,3991JZ,Houten,Houten,Utrecht,VBO,5.154022,52.025614
+Warinenpoort,27,,,3991JZ,Houten,Houten,Utrecht,VBO,5.153782,52.025611
+Warinenpoort,29,,,3991JZ,Houten,Houten,Utrecht,VBO,5.153681,52.025633
+Warinenpoort,31,,,3991JZ,Houten,Houten,Utrecht,VBO,5.153442,52.025638
+Warinenpoort,33,,,3991JZ,Houten,Houten,Utrecht,VBO,5.153337,52.025647
 Warinenpoort,52,,,3991JZ,Houten,Houten,Utrecht,VBO,5.156378,52.026144
 Warinenpoort,54,,,3991JZ,Houten,Houten,Utrecht,VBO,5.156524,52.026008
 Warinenpoort,56,,,3991JZ,Houten,Houten,Utrecht,VBO,5.156548,52.025948
@@ -3789,8 +3804,13 @@ Kristalwater,20,,,3991LX,Houten,Houten,Utrecht,VBO,5.167712,52.016406
 Kristalwater,22,a,,3991LX,Houten,Houten,Utrecht,VBO,5.168132,52.016264
 Kristalwater,22,,,3991LX,Houten,Houten,Utrecht,VBO,5.168002,52.016315
 Groene Hoon,1,,,3991LZ,Houten,Houten,Utrecht,VBO,5.150355,52.017075
+Het Hout,9,,,3991MA,Houten,Houten,Utrecht,VBO,5.169198,52.019497
+Het Hout,11,,,3991MA,Houten,Houten,Utrecht,VBO,5.169138,52.019419
 Ebbenhout,3,,,3991MB,Houten,Houten,Utrecht,VBO,5.168373,52.019292
+Ebbenhout,4,,,3991MB,Houten,Houten,Utrecht,VBO,5.168484,52.019501
 Ebbenhout,5,,,3991MB,Houten,Houten,Utrecht,VBO,5.168448,52.019271
+Ebbenhout,6,,,3991MB,Houten,Houten,Utrecht,VBO,5.168576,52.019477
+Ebbenhout,8,,,3991MB,Houten,Houten,Utrecht,VBO,5.168797,52.019438
 Ebbenhout,11,,,3991MB,Houten,Houten,Utrecht,VBO,5.168553,52.018826
 Ebbenhout,13,,,3991MB,Houten,Houten,Utrecht,VBO,5.168520,52.018763
 Ebbenhout,19,,,3991MB,Houten,Houten,Utrecht,VBO,5.168308,52.018151
@@ -3898,15 +3918,19 @@ Vijverwater,9,,,3991ML,Houten,Houten,Utrecht,VBO,5.165686,52.015426
 Vijverwater,10,,,3991ML,Houten,Houten,Utrecht,VBO,5.165698,52.015354
 Vijverwater,11,,,3991ML,Houten,Houten,Utrecht,VBO,5.165658,52.015289
 Vijverwater,12,,,3991ML,Houten,Houten,Utrecht,VBO,5.165691,52.015209
+Mahoniehout,4,,,3991MM,Houten,Houten,Utrecht,VBO,5.167969,52.019151
+Mahoniehout,5,,,3991MM,Houten,Houten,Utrecht,VBO,5.167555,52.018787
 Mahoniehout,6,,,3991MM,Houten,Houten,Utrecht,VBO,5.167954,52.019000
 Mahoniehout,7,,,3991MM,Houten,Houten,Utrecht,VBO,5.167338,52.018870
 Mahoniehout,8,,,3991MM,Houten,Houten,Utrecht,VBO,5.167957,52.018931
 Mahoniehout,9,,,3991MM,Houten,Houten,Utrecht,VBO,5.167240,52.018893
 Mahoniehout,10,,,3991MM,Houten,Houten,Utrecht,VBO,5.168064,52.018739
+Mahoniehout,12,,,3991MM,Houten,Houten,Utrecht,VBO,5.167938,52.018536
 Mahoniehout,14,,,3991MM,Houten,Houten,Utrecht,VBO,5.167804,52.018377
 Mahoniehout,15,,,3991MM,Houten,Houten,Utrecht,VBO,5.167084,52.018705
 Mahoniehout,16,,,3991MM,Houten,Houten,Utrecht,VBO,5.167704,52.018213
 Mahoniehout,17,,,3991MM,Houten,Houten,Utrecht,VBO,5.167170,52.018680
+Mahoniehout,19,,,3991MM,Houten,Houten,Utrecht,VBO,5.167406,52.018602
 Mineraalwater,1,,,3991MN,Houten,Houten,Utrecht,VBO,5.165632,52.016101
 Mineraalwater,2,,,3991MN,Houten,Houten,Utrecht,VBO,5.165505,52.015923
 Mineraalwater,3,,,3991MN,Houten,Houten,Utrecht,VBO,5.165543,52.016104
@@ -6005,6 +6029,7 @@ Lupine-oord,42,,,3991VJ,Houten,Houten,Utrecht,VBO,5.158250,52.032190
 Lupine-oord,44,,,3991VJ,Houten,Houten,Utrecht,VBO,5.157342,52.031699
 Lupine-oord,46,,,3991VJ,Houten,Houten,Utrecht,VBO,5.156975,52.031607
 Lupine-oord,48,,,3991VJ,Houten,Houten,Utrecht,VBO,5.156708,52.031488
+Lupine-oord,50,a,,3991VJ,Houten,Houten,Utrecht,VBO,5.156429,52.030636
 Lupine-oord,50,,,3991VJ,Houten,Houten,Utrecht,VBO,5.156358,52.030829
 Lupine-oord,52,,,3991VJ,Houten,Houten,Utrecht,VBO,5.156512,52.030346
 Lupine-oord,54,,,3991VJ,Houten,Houten,Utrecht,VBO,5.156875,52.029881
