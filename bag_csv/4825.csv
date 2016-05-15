@@ -1,7 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Backer en Ruebweg,2,,,4825AA,Breda,Breda,Noord-Brabant,VBO,4.768742,51.602250
 Steenen Hoofd,61,,,4825AJ,Breda,Breda,Noord-Brabant,VBO,4.764778,51.602893
-Steenen Hoofd,69,,,4825AJ,Breda,Breda,Noord-Brabant,VBO,4.761066,51.604633
+Steenen Hoofd,63,,,4825AJ,Breda,Breda,Noord-Brabant,VBO,4.764421,51.602804
 Steenen Hoofd,2,,,4825AK,Breda,Breda,Noord-Brabant,VBO,4.769519,51.604035
 Steenen Hoofd,14,,,4825AK,Breda,Breda,Noord-Brabant,VBO,4.768158,51.603829
 Steenen Hoofd,20,,,4825AK,Breda,Breda,Noord-Brabant,VBO,4.767276,51.603649
@@ -11,7 +11,6 @@ Steenen Hoofd,30,,I,4825AK,Breda,Breda,Noord-Brabant,VBO,4.765346,51.603735
 Steenen Hoofd,32,,,4825AK,Breda,Breda,Noord-Brabant,VBO,4.764830,51.603233
 Steenen Hoofd,40,,,4825AK,Breda,Breda,Noord-Brabant,VBO,4.761592,51.604428
 Steenen Hoofd,44,,,4825AK,Breda,Breda,Noord-Brabant,VBO,4.763371,51.605957
-Steenen Hoofd,2370,,TRD,4825AK,Breda,Breda,Noord-Brabant,VBO,4.765664,51.603075
 Kalshoven,7,,,4825AL,Breda,Breda,Noord-Brabant,VBO,4.768623,51.604147
 Kalshoven,11,,,4825AL,Breda,Breda,Noord-Brabant,VBO,4.768286,51.604558
 Kalshoven,13,,,4825AL,Breda,Breda,Noord-Brabant,VBO,4.768258,51.604805
@@ -66,6 +65,7 @@ Kleine Krogt,31,,,4825AN,Breda,Breda,Noord-Brabant,VBO,4.772451,51.604650
 Kleine Krogt,32,,,4825AN,Breda,Breda,Noord-Brabant,VBO,4.772835,51.604509
 Kleine Krogt,34,,,4825AN,Breda,Breda,Noord-Brabant,VBO,4.772810,51.604633
 Kleine Krogt,35,,,4825AN,Breda,Breda,Noord-Brabant,VBO,4.772300,51.604835
+Kleine Krogt,37,A,,4825AN,Breda,Breda,Noord-Brabant,VBO,4.772269,51.605045
 Kleine Krogt,37,,,4825AN,Breda,Breda,Noord-Brabant,VBO,4.772259,51.605307
 Riethil,1,,,4825AP,Breda,Breda,Noord-Brabant,VBO,4.770870,51.605918
 Riethil,3,,,4825AP,Breda,Breda,Noord-Brabant,VBO,4.771804,51.605986
@@ -77,8 +77,6 @@ Riethil,11,,,4825AP,Breda,Breda,Noord-Brabant,VBO,4.774516,51.606481
 Riethil,12,,,4825AP,Breda,Breda,Noord-Brabant,VBO,4.772963,51.605890
 Riethil,14,,,4825AP,Breda,Breda,Noord-Brabant,VBO,4.773730,51.605973
 Riethil,20,,,4825AP,Breda,Breda,Noord-Brabant,VBO,4.774466,51.606119
-Riethil,2500,,TRV,4825AP,Breda,Breda,Noord-Brabant,VBO,4.775144,51.605988
-Riethil,2910,,TRG,4825AP,Breda,Breda,Noord-Brabant,VBO,4.774956,51.606122
 Moerlaken,3,A,,4825AR,Breda,Breda,Noord-Brabant,VBO,4.771152,51.611252
 Moerlaken,3,,,4825AR,Breda,Breda,Noord-Brabant,VBO,4.770997,51.611272
 Moerlaken,7,,,4825AR,Breda,Breda,Noord-Brabant,VBO,4.770382,51.611354
@@ -128,7 +126,9 @@ Hazepad,6,B,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.769369,51.617157
 Hazepad,6,C,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.769472,51.617168
 Hazepad,6,D,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.769414,51.617026
 Hazepad,6,,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.769244,51.617145
+Hazepad,7,A,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.768644,51.618225
 Hazepad,7,B,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.767995,51.619734
+Hazepad,7,C,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.770089,51.619494
 Hazepad,8,B,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.769761,51.617690
 Hazepad,8,C,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.769794,51.617547
 Hazepad,8,D,,4825AV,Breda,Breda,Noord-Brabant,VBO,4.769827,51.617400
@@ -200,6 +200,10 @@ Crogtdijk,52,,,4825BA,Breda,Breda,Noord-Brabant,VBO,4.772685,51.602165
 Crogtdijk,54,,,4825BA,Breda,Breda,Noord-Brabant,VBO,4.771910,51.602095
 Crogtdijk,58,,,4825BA,Breda,Breda,Noord-Brabant,VBO,4.771261,51.602250
 Konijnenberg,1,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769395,51.601362
+Konijnenberg,3,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768497,51.601411
+Konijnenberg,3,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768515,51.601482
+Konijnenberg,5,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.767659,51.601547
+Konijnenberg,7,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.767200,51.601568
 Konijnenberg,33,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768148,51.603018
 Konijnenberg,35,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769840,51.604154
 Konijnenberg,37,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.770000,51.604441
@@ -207,14 +211,15 @@ Konijnenberg,43,A,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769824,51.604979
 Konijnenberg,43,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769997,51.605012
 Konijnenberg,45,A,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769925,51.605422
 Konijnenberg,45,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769712,51.605465
-Konijnenberg,47,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769760,51.605883
+Konijnenberg,47,A,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769743,51.605910
+Konijnenberg,47,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769774,51.605859
 Konijnenberg,49,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769728,51.606203
 Konijnenberg,51,A,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.767827,51.606961
 Konijnenberg,51,B,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768230,51.607317
 Konijnenberg,51,D,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768124,51.607504
 Konijnenberg,51,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.769284,51.606909
 Konijnenberg,53,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768896,51.607610
-Konijnenberg,55,A,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768694,51.607860
+Konijnenberg,55,A,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768734,51.607916
 Konijnenberg,57,A,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.767949,51.607975
 Konijnenberg,57,B,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768571,51.608035
 Konijnenberg,57,,,4825BC,Breda,Breda,Noord-Brabant,VBO,4.768420,51.608310
@@ -305,11 +310,10 @@ Oude Baan,47,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.770935,51.610394
 Oude Baan,49,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.770759,51.610395
 Oude Baan,51,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.770586,51.610398
 Oude Baan,53,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.770406,51.610399
-Oude Baan,60,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.772677,51.610952
+Oude Baan,60,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.772856,51.610798
 Oude Baan,66,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.772210,51.611062
 Oude Baan,75,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.770936,51.610633
 Oude Baan,77,,,4825BL,Breda,Breda,Noord-Brabant,VBO,4.769786,51.610663
-Oude Baan,1100,,TRD,4825BL,Breda,Breda,Noord-Brabant,VBO,4.776198,51.605792
 Trekpot,1,,,4825BM,Breda,Breda,Noord-Brabant,VBO,4.775386,51.602707
 Trekpot,5,,,4825BM,Breda,Breda,Noord-Brabant,VBO,4.776536,51.603668
 Trekpot,2,A,,4825BN,Breda,Breda,Noord-Brabant,VBO,4.775818,51.602405
@@ -358,7 +362,6 @@ Nieuwe Bredase Baan,18,,,4825BP,Breda,Breda,Noord-Brabant,VBO,4.768818,51.622096
 Nieuwe Bredase Baan,22,,,4825BP,Breda,Breda,Noord-Brabant,VBO,4.768407,51.621288
 Nieuwe Bredase Baan,24,,,4825BP,Breda,Breda,Noord-Brabant,VBO,4.769570,51.621231
 Nieuwe Bredase Baan,26,,,4825BP,Breda,Breda,Noord-Brabant,VBO,4.770040,51.620369
-Nieuwe Bredase Baan,50504,,TRAF,4825BP,Breda,Breda,Noord-Brabant,VBO,4.769353,51.621695
 Salesdreef,1,,,4825BX,Breda,Breda,Noord-Brabant,VBO,4.785890,51.634794
 Hartelweg,1,A,,4825BZ,Breda,Breda,Noord-Brabant,VBO,4.776985,51.626183
 Hartelweg,1,,,4825BZ,Breda,Breda,Noord-Brabant,VBO,4.776663,51.625973

@@ -25,7 +25,6 @@ Badweg,21,,,3312AB,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.690599,51.815673
 Badweg,23,,,3312AB,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.690965,51.815532
 Badweg,25,,,3312AB,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.691043,51.815500
 Badweg,27,,,3312AB,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.692670,51.815078
-Hooikade,3,,,3312AB,Dordrecht,Dordrecht,Zuid-Holland,LIG,4.659337,51.815538
 Nagtegaalplaats,7,,,3312AC,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.685575,51.813432
 Nagtegaalplaats,9,,,3312AC,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.685603,51.813435
 Nagtegaalplaats,11,,,3312AC,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.685630,51.813438
@@ -306,6 +305,7 @@ Middelweg,17,,,3312AL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.702034,51.812703
 Middelweg,18,,,3312AL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.700991,51.811497
 Middelweg,19,,,3312AL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.701018,51.812916
 Middelweg,50,,,3312AL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.696955,51.809684
+Middelweg,999,,,3312AL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.702218,51.811007
 Noordendijk,613,,,3312AL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687954,51.810472
 Noordendijk,615,,,3312AL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.688001,51.810444
 Noordendijk,617,,,3312AL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687939,51.810462
@@ -380,7 +380,7 @@ Vlotlaan,11,,,3312AR,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.689150,51.815471
 Vlotlaan,17,,,3312AR,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.688510,51.814903
 Vlotlaan,19,,,3312AR,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.688450,51.814848
 Vlotlaan,21,,,3312AR,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.688232,51.814605
-Vlijweg,1,,,3312AS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.688039,51.813684
+Vlijweg,1,,,3312AS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.688039,51.813685
 Vlijweg,2,,,3312AS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.686641,51.814401
 Vlijweg,3,,,3312AS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.688250,51.813812
 Vlijweg,4,,,3312AS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.686983,51.814255
@@ -985,7 +985,7 @@ Anthonie Camerlingstraat,3,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.67478
 Anthonie Camerlingstraat,4,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.674868,51.807547
 Anthonie Camerlingstraat,5,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.674818,51.807424
 Anthonie Camerlingstraat,6,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.674899,51.807513
-Anthonie Camerlingstraat,7,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.674850,51.807390
+Anthonie Camerlingstraat,7,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.674849,51.807390
 Anthonie Camerlingstraat,8,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.674930,51.807481
 Anthonie Camerlingstraat,10,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.674962,51.807447
 Anthonie Camerlingstraat,11,,,3312EA,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.674916,51.807318
@@ -1449,12 +1449,17 @@ Toulonselaan,22,,,3312ET,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676721,51.808737
 Toulonselaan,26,,,3312ET,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676642,51.808702
 Toulonselaan,28,,,3312ET,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676654,51.808690
 Toulonselaan,30,,,3312ET,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676577,51.808671
-Toulonselaan,38,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676475,51.808622
+Toulonselaan,38,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676475,51.808623
 Toulonselaan,42,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676408,51.808591
 Toulonselaan,46,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676341,51.808558
 Toulonselaan,48,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676270,51.808526
 Toulonselaan,50,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676223,51.808492
+Toulonselaan,52,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676158,51.808428
+Toulonselaan,54,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676247,51.808468
+Toulonselaan,56,A,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676090,51.808404
+Toulonselaan,56,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676188,51.808405
 Toulonselaan,58,A,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676066,51.808431
+Toulonselaan,58,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.676132,51.808457
 Toulonselaan,60,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.675851,51.808330
 Toulonselaan,62,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.675872,51.808317
 Toulonselaan,64,,,3312EV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.675785,51.808299
@@ -1741,7 +1746,7 @@ Halmaheiraplein,10,,,3312GH,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.692287,51.806
 Halmaheiraplein,25,,,3312GH,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.695715,51.804636
 Halmaheiraplein,26,,,3312GH,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.696302,51.804555
 Halmaheiraplein,35,,,3312GH,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.696364,51.805635
-Halmaheiraplein,37,,,3312GH,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.697475,51.805579
+Halmaheiraplein,37,,,3312GH,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.697475,51.805580
 Oranjelaan,78,A,,3312GJ,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684186,51.812511
 Oranjelaan,78,,,3312GJ,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683963,51.812453
 Oranjelaan,80,,,3312GJ,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683997,51.812483
@@ -1841,7 +1846,7 @@ Oranjelaan,220,A,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682857,51.811460
 Oranjelaan,220,B,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682871,51.811450
 Oranjelaan,220,C,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682884,51.811439
 Oranjelaan,220,,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682846,51.811472
-Oranjelaan,222,A,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682856,51.811386
+Oranjelaan,222,A,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682855,51.811386
 Oranjelaan,222,,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682632,51.811373
 Oranjelaan,224,,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682694,51.811400
 Oranjelaan,226,,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682755,51.811427
@@ -1865,19 +1870,33 @@ Oranjelaan,256,,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682587,51.811336
 Oranjelaan,258,,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682461,51.811265
 Oranjelaan,260,A,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682470,51.811258
 Oranjelaan,260,,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682507,51.811285
+Oranjelaan,262,A,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682095,51.811100
 Oranjelaan,262,A,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682109,51.811110
+Oranjelaan,262,B,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682029,51.811068
 Oranjelaan,262,B,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682048,51.811079
+Oranjelaan,262,C,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681947,51.811026
 Oranjelaan,262,C,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681994,51.811056
+Oranjelaan,262,D,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681886,51.810998
 Oranjelaan,262,D,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681929,51.811024
+Oranjelaan,262,E,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681819,51.810965
 Oranjelaan,262,E,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681868,51.810992
+Oranjelaan,262,F,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681764,51.810936
 Oranjelaan,262,F,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681806,51.810960
+Oranjelaan,262,G,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681686,51.810899
 Oranjelaan,262,G,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681745,51.810929
+Oranjelaan,262,H,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681481,51.810798
 Oranjelaan,262,H,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681686,51.810889
+Oranjelaan,262,J,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681413,51.810765
 Oranjelaan,262,J,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681536,51.810829
+Oranjelaan,262,K,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681336,51.810726
 Oranjelaan,262,K,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681461,51.810792
+Oranjelaan,262,L,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681273,51.810696
 Oranjelaan,262,L,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681396,51.810759
+Oranjelaan,262,M,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681204,51.810662
 Oranjelaan,262,M,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681351,51.810736
+Oranjelaan,262,N,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681149,51.810634
 Oranjelaan,262,N,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681294,51.810707
+Oranjelaan,262,P,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681072,51.810597
 Oranjelaan,262,P,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681224,51.810678
 Oranjelaan,262,Q,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681163,51.810645
 Oranjelaan,262,R,,3312GM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681097,51.810608
@@ -1952,7 +1971,42 @@ Vogelplein,40,,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684021,51.810065
 Vogelplein,41,,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683965,51.810041
 Vogelplein,42,,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683870,51.809999
 Vogelplein,43,,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683831,51.809987
-Vogelplein,44,,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683281,51.810696
+Vogelplein,44,A,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682873,51.810876
+Vogelplein,44,B,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682937,51.810814
+Vogelplein,44,C,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682993,51.810762
+Vogelplein,44,D,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683042,51.810716
+Vogelplein,44,E,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683175,51.810599
+Vogelplein,44,F,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683379,51.810680
+Vogelplein,44,G,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683469,51.810720
+Vogelplein,44,H,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683604,51.810777
+Vogelplein,46,A,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682891,51.810884
+Vogelplein,46,B,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682951,51.810820
+Vogelplein,46,C,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683004,51.810769
+Vogelplein,46,D,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683058,51.810723
+Vogelplein,46,E,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683178,51.810609
+Vogelplein,46,F,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683368,51.810690
+Vogelplein,46,G,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683461,51.810734
+Vogelplein,46,H,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683528,51.810756
+Vogelplein,46,K,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683590,51.810790
+Vogelplein,46,L,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683636,51.810851
+Vogelplein,46,M,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683661,51.810918
+Vogelplein,46,N,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683690,51.810981
+Vogelplein,48,A,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682904,51.810892
+Vogelplein,48,B,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682964,51.810825
+Vogelplein,48,C,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683020,51.810775
+Vogelplein,48,D,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683067,51.810730
+Vogelplein,48,E,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683180,51.810618
+Vogelplein,48,F,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683359,51.810700
+Vogelplein,48,G,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683448,51.810741
+Vogelplein,48,H,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683514,51.810766
+Vogelplein,48,K,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683580,51.810797
+Vogelplein,48,L,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683619,51.810855
+Vogelplein,48,M,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683645,51.810923
+Vogelplein,48,N,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683668,51.810987
+Vogelplein,48,P,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683350,51.810713
+Vogelplein,48,R,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683438,51.810748
+Vogelplein,48,T,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683569,51.810807
+Vogelplein,48,,S,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683503,51.810775
 Vogelplein,50,,,3312GS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683882,51.810392
 Bankastraat,158,,,3312GT,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.686454,51.807973
 Besarstraat,2,,,3312GV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683493,51.809059
@@ -1986,7 +2040,7 @@ Denpasarstraat,16,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684331,51.8080
 Denpasarstraat,17,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684080,51.808105
 Denpasarstraat,18,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684292,51.808009
 Denpasarstraat,19,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684037,51.808061
-Denpasarstraat,21,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683992,51.808015
+Denpasarstraat,21,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683991,51.808015
 Denpasarstraat,23,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683947,51.807970
 Denpasarstraat,24,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683942,51.807666
 Denpasarstraat,25,,,3312GW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683904,51.807927
@@ -2829,6 +2883,30 @@ Maria Montessorilaan,3,A,,3312KJ,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.678831,5
 Maria Montessorilaan,3,,,3312KJ,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.678819,51.798760
 Maria Montessorilaan,10,,,3312KJ,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.678967,51.796465
 Maria Montessorilaan,11,,,3312KJ,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.678141,51.796647
+Max Gootelaan,6,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679311,51.800054
+Max Gootelaan,8,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679108,51.800088
+Max Gootelaan,10,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679330,51.800108
+Max Gootelaan,12,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679345,51.800165
+Max Gootelaan,14,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679373,51.800222
+Max Gootelaan,16,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679398,51.800292
+Max Gootelaan,18,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679419,51.800351
+Max Gootelaan,20,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679288,51.800062
+Max Gootelaan,22,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679109,51.800102
+Max Gootelaan,24,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679306,51.800114
+Max Gootelaan,26,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679323,51.800174
+Max Gootelaan,28,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679350,51.800225
+Max Gootelaan,30,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679371,51.800299
+Max Gootelaan,32,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679385,51.800360
+Max Gootelaan,34,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679262,51.800069
+Max Gootelaan,36,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679113,51.800113
+Max Gootelaan,38,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679285,51.800119
+Max Gootelaan,40,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679298,51.800180
+Max Gootelaan,42,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679326,51.800233
+Max Gootelaan,44,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679347,51.800306
+Max Gootelaan,46,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679362,51.800363
+Max Gootelaan,52,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679104,51.800072
+Max Gootelaan,56,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.678957,51.800100
+Max Gootelaan,60,,,3312KK,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.678828,51.800115
 Prof. Kohnstammlaan,1,A,,3312KL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682910,51.800346
 Prof. Kohnstammlaan,5,,,3312KL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681265,51.798633
 Prof. Kohnstammlaan,10,,,3312KL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681246,51.797756
@@ -2864,6 +2942,8 @@ Prof. Waterinklaan,41,A,,3312KM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679813,51
 Prof. Waterinklaan,41,,,3312KM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679695,51.801230
 Prof. Waterinklaan,43,A,,3312KM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679127,51.800667
 Prof. Waterinklaan,43,,,3312KM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679677,51.800758
+Prof. Waterinklaan,45,,,3312KM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679453,51.800311
+Prof. Waterinklaan,47,,,3312KM,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.679361,51.800066
 Prof. Waterinklaan,2,,,3312KN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680319,51.800901
 Prof. Waterinklaan,4,,,3312KN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680268,51.800851
 Prof. Waterinklaan,6,,,3312KN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680223,51.800807
@@ -2889,6 +2969,7 @@ Romboutslaan,20,,,3312KP,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683783,51.799630
 Romboutslaan,22,,,3312KP,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683762,51.799581
 Romboutslaan,30,,,3312KP,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683683,51.799400
 Romboutslaan,34,,,3312KP,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683456,51.799055
+Romboutslaan,38,T,,3312KP,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683214,51.798484
 Romboutslaan,38,,,3312KP,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683291,51.798659
 Romboutslaan,40,,,3312KP,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683196,51.798198
 Romboutslaan,101,,,3312KP,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682581,51.798088
@@ -3032,7 +3113,7 @@ Leerparkpromenade,180,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680569,51.
 Leerparkpromenade,181,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680646,51.798445
 Leerparkpromenade,182,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680721,51.798432
 Leerparkpromenade,183,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680796,51.798421
-Leerparkpromenade,184,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680873,51.798407
+Leerparkpromenade,184,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680873,51.798408
 Leerparkpromenade,185,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680674,51.798753
 Leerparkpromenade,186,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680598,51.798814
 Leerparkpromenade,187,,,3312KW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680520,51.798817
@@ -3699,7 +3780,7 @@ Herradesstraat,47,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684152,51.8039
 Herradesstraat,49,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684115,51.803936
 Herradesstraat,51,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684076,51.803899
 Herradesstraat,53,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.684040,51.803864
-Herradesstraat,55,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683994,51.803819
+Herradesstraat,55,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683993,51.803819
 Herradesstraat,57,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683961,51.803787
 Herradesstraat,59,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683918,51.803745
 Herradesstraat,61,,,3312NL,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.683872,51.803701
@@ -4435,7 +4516,7 @@ Waterhoenstraat,21,,,3312RR,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.689915,51.807
 Waterhoenstraat,23,,,3312RR,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.689901,51.807319
 Waterhoenstraat,25,,,3312RR,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.689887,51.807268
 Waterhoenstraat,27,,,3312RR,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.689873,51.807217
-Waterhoenstraat,2,,,3312RS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.692097,51.807716
+Waterhoenstraat,2,,,3312RS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.692097,51.807717
 Waterhoenstraat,4,,,3312RS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.692095,51.807699
 Waterhoenstraat,6,,,3312RS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.692089,51.807679
 Waterhoenstraat,8,,,3312RS,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.692082,51.807656
@@ -4872,7 +4953,7 @@ Buizerdstraat,65,,,3312TD,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.685447,51.81074
 Buizerdstraat,67,,,3312TD,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.685533,51.810729
 Buizerdstraat,69,,,3312TD,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.685481,51.810569
 Buizerdstraat,71,,,3312TD,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.685461,51.810516
-Buizerdstraat,2,,,3312TE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.686137,51.811245
+Buizerdstraat,2,,,3312TE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.686136,51.811245
 Buizerdstraat,4,,,3312TE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.686117,51.811194
 Buizerdstraat,6,,,3312TE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.686099,51.811147
 Buizerdstraat,8,,,3312TE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.686077,51.811090
@@ -5035,7 +5116,7 @@ Valkstraat,16,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687556,51.810152
 Valkstraat,18,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687568,51.810184
 Valkstraat,20,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687566,51.810121
 Valkstraat,22,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687580,51.810157
-Valkstraat,24,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687591,51.810181
+Valkstraat,24,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687590,51.810181
 Valkstraat,26,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687503,51.810013
 Valkstraat,28,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687516,51.810049
 Valkstraat,30,,,3312TN,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.687530,51.810084
@@ -5484,6 +5565,8 @@ Javastraat,25,,,3312XE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681394,51.809719
 Javastraat,27,,,3312XE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681419,51.809667
 Javastraat,33,,,3312XE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681441,51.809615
 Javastraat,35,,,3312XE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681455,51.809575
+Javastraat,35,,,3312XE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681465,51.809554
+Javastraat,37,,,3312XE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681437,51.809548
 Javastraat,39,,,3312XE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681477,51.809525
 Javastraat,41,,,3312XE,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681488,51.809501
 Javastraat,43,,,3312XG,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681460,51.809298
@@ -5662,7 +5745,9 @@ Sumatrastraat,24,,,3312XT,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680928,51.80901
 Sumatrastraat,28,,,3312XT,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.680996,51.808994
 Sumatrastraat,32,,,3312XT,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681050,51.808974
 Sumatrastraat,34,,,3312XT,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681085,51.808961
+Sumatrastraat,36,,,3312XT,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681118,51.808946
 Sumatrastraat,36,,,3312XT,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681139,51.808937
+Sumatrastraat,38,,,3312XT,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681159,51.808928
 Sumatrastraat,40,,,3312XV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681180,51.808921
 Sumatrastraat,42,,,3312XV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681220,51.808906
 Sumatrastraat,46,,,3312XV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681281,51.808884
@@ -5673,7 +5758,22 @@ Sumatrastraat,54,,,3312XV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681437,51.80882
 Sumatrastraat,58,,,3312XV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681493,51.808806
 Sumatrastraat,60,,,3312XV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681556,51.808782
 Sumatrastraat,64,,,3312XV,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681626,51.808754
+Ternatestraat,1,A,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682491,51.810350
+Ternatestraat,1,B,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682556,51.810408
+Ternatestraat,1,C,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682616,51.810453
+Ternatestraat,1,D,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682666,51.810483
+Ternatestraat,1,E,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682619,51.810530
+Ternatestraat,3,A,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682559,51.810355
+Ternatestraat,3,B,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682597,51.810395
+Ternatestraat,3,C,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682657,51.810446
+Ternatestraat,3,D,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682709,51.810470
+Ternatestraat,3,E,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682672,51.810550
 Ternatestraat,4,,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681936,51.810407
+Ternatestraat,5,A,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682584,51.810345
+Ternatestraat,5,B,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682643,51.810376
+Ternatestraat,5,C,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682752,51.810454
+Ternatestraat,5,D,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682755,51.810478
+Ternatestraat,5,E,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.682691,51.810565
 Ternatestraat,6,,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681883,51.810448
 Ternatestraat,8,,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681835,51.810485
 Ternatestraat,10,,,3312XW,Dordrecht,Dordrecht,Zuid-Holland,VBO,4.681788,51.810522

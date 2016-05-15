@@ -282,6 +282,7 @@ Hinvertsweg,14,,,7665AX,Albergen,Tubbergen,Overijssel,VBO,6.759997,52.370154
 Hinvertsweg,16,,,7665AX,Albergen,Tubbergen,Overijssel,VBO,6.759854,52.370073
 Hinvertsweg,18,,,7665AX,Albergen,Tubbergen,Overijssel,VBO,6.759539,52.369905
 Hinvertsweg,24,,,7665AX,Albergen,Tubbergen,Overijssel,VBO,6.758840,52.369693
+Hinvertsweg,26,,,7665AX,Albergen,Tubbergen,Overijssel,VBO,6.757972,52.369370
 Calligrafiestraat,1,,,7665AZ,Albergen,Tubbergen,Overijssel,VBO,6.766791,52.371211
 Calligrafiestraat,2,,,7665AZ,Albergen,Tubbergen,Overijssel,VBO,6.767346,52.371392
 Calligrafiestraat,3,,,7665AZ,Albergen,Tubbergen,Overijssel,VBO,6.766698,52.371224
@@ -358,6 +359,8 @@ Kapittelhuisstraat,45,,,7665BC,Albergen,Tubbergen,Overijssel,VBO,6.763503,52.371
 Kapittelhuisstraat,47,,,7665BC,Albergen,Tubbergen,Overijssel,VBO,6.763188,52.371131
 Kapittelhuisstraat,53,,,7665BC,Albergen,Tubbergen,Overijssel,VBO,6.762700,52.370944
 Kapittelhuisstraat,55,,,7665BC,Albergen,Tubbergen,Overijssel,VBO,6.762059,52.370737
+Meidoorn,1,,,7665BD,Albergen,Tubbergen,Overijssel,VBO,6.767355,52.370456
+Meidoorn,1,,,7665BD,Albergen,Tubbergen,Overijssel,VBO,6.767390,52.370450
 Bennekerstraat,2,,,7665CA,Albergen,Tubbergen,Overijssel,VBO,6.760676,52.368892
 Bennekerstraat,4,,,7665CA,Albergen,Tubbergen,Overijssel,VBO,6.760413,52.368959
 Bennekerstraat,8,,,7665CA,Albergen,Tubbergen,Overijssel,VBO,6.759981,52.369062
@@ -655,8 +658,10 @@ De Zegge,9,,,7665EG,Albergen,Tubbergen,Overijssel,VBO,6.768735,52.371649
 De Zegge,10,,,7665EG,Albergen,Tubbergen,Overijssel,VBO,6.769188,52.371771
 De Zegge,11,,,7665EG,Albergen,Tubbergen,Overijssel,VBO,6.768830,52.371777
 Korenmolen,1,,,7665EH,Albergen,Tubbergen,Overijssel,VBO,6.768748,52.367247
+Korenmolen,2,,,7665EH,Albergen,Tubbergen,Overijssel,VBO,6.769834,52.367226
 Korenmolen,3,,,7665EH,Albergen,Tubbergen,Overijssel,VBO,6.768988,52.367313
 Korenmolen,5,,,7665EH,Albergen,Tubbergen,Overijssel,VBO,6.769212,52.367383
+Korenmolen,8,,,7665EH,Albergen,Tubbergen,Overijssel,VBO,6.770440,52.367226
 Korenmolen,9,,,7665EH,Albergen,Tubbergen,Overijssel,VBO,6.770115,52.367712
 Korenmolen,11,,,7665EH,Albergen,Tubbergen,Overijssel,VBO,6.769946,52.367864
 Korenmolen,13,,,7665EH,Albergen,Tubbergen,Overijssel,VBO,6.769913,52.367921
@@ -692,11 +697,43 @@ Graanmolen,6,,,7665EL,Albergen,Tubbergen,Overijssel,VBO,6.769393,52.367756
 Graanmolen,8,,,7665EL,Albergen,Tubbergen,Overijssel,VBO,6.769298,52.367989
 Graanmolen,10,,,7665EL,Albergen,Tubbergen,Overijssel,VBO,6.769534,52.368073
 Graanmolen,12,,,7665EL,Albergen,Tubbergen,Overijssel,VBO,6.769755,52.368138
+Vlamoven,1,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.770126,52.368451
+Vlamoven,3,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.770206,52.368417
+Vlamoven,4,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.773890,52.367837
+Vlamoven,5,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.770361,52.368373
+Vlamoven,7,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.770459,52.368347
+Vlamoven,9,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.770595,52.368290
+Vlamoven,11,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.770690,52.368263
+Vlamoven,17,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.771177,52.368060
+Vlamoven,19,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.771287,52.368037
+Vlamoven,23,,,7665EM,Albergen,Tubbergen,Overijssel,VBO,6.771832,52.367634
+Panoven,2,,,7665EN,Albergen,Tubbergen,Overijssel,VBO,6.771333,52.368339
+Panoven,4,,,7665EN,Albergen,Tubbergen,Overijssel,VBO,6.771412,52.368371
+Panoven,6,,,7665EN,Albergen,Tubbergen,Overijssel,VBO,6.771484,52.368392
+Panoven,8,,,7665EN,Albergen,Tubbergen,Overijssel,VBO,6.771557,52.368421
+Panoven,10,,,7665EN,Albergen,Tubbergen,Overijssel,VBO,6.771651,52.368433
+Panoven,12,,,7665EN,Albergen,Tubbergen,Overijssel,VBO,6.771840,52.368477
+Panoven,14,,,7665EN,Albergen,Tubbergen,Overijssel,VBO,6.771960,52.368521
+Tunneloven,1,,,7665ER,Albergen,Tubbergen,Overijssel,VBO,6.771676,52.368092
+Tunneloven,3,,,7665ER,Albergen,Tubbergen,Overijssel,VBO,6.771796,52.368118
+Tunneloven,5,,,7665ER,Albergen,Tubbergen,Overijssel,VBO,6.771976,52.368184
+Tunneloven,7,,,7665ER,Albergen,Tubbergen,Overijssel,VBO,6.772117,52.368252
+Tunneloven,9,,,7665ER,Albergen,Tubbergen,Overijssel,VBO,6.772206,52.368273
+Ringoven,1,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.770792,52.368503
+Ringoven,2,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.770746,52.369125
+Ringoven,3,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.770631,52.368700
+Ringoven,4,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.770999,52.369174
+Ringoven,5,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.770428,52.368639
 Ringoven,6,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771224,52.369252
+Ringoven,7,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.770050,52.368838
 Ringoven,8,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771428,52.369334
 Ringoven,9,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.770449,52.368889
 Ringoven,10,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771644,52.369384
 Ringoven,11,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.770357,52.369016
+Ringoven,12,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771944,52.369143
+Ringoven,14,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771820,52.369119
+Ringoven,16,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771686,52.369050
+Ringoven,18,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771563,52.369021
 Ringoven,20,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771412,52.368936
 Ringoven,22,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771319,52.368907
 Ringoven,24,,,7665ES,Albergen,Tubbergen,Overijssel,VBO,6.771384,52.368977
@@ -828,11 +865,14 @@ Peggenweg,8,a,,7665RN,Albergen,Tubbergen,Overijssel,VBO,6.749713,52.379404
 Peggenweg,8,,,7665RN,Albergen,Tubbergen,Overijssel,VBO,6.749588,52.379362
 Peggenweg,9,a,,7665RN,Albergen,Tubbergen,Overijssel,VBO,6.744889,52.378247
 Peggenweg,9,,,7665RN,Albergen,Tubbergen,Overijssel,VBO,6.744840,52.378177
+Peggenweg,10,a,,7665RN,Albergen,Tubbergen,Overijssel,VBO,6.744090,52.378393
+Peggenweg,10,,,7665RN,Albergen,Tubbergen,Overijssel,VBO,6.744061,52.378461
 Peggenweg,10,,,7665RN,Albergen,Tubbergen,Overijssel,VBO,6.744142,52.378307
 Schopmansweg,2,a,,7665RP,Albergen,Tubbergen,Overijssel,VBO,6.740832,52.377662
 Schopmansweg,2,,,7665RP,Albergen,Tubbergen,Overijssel,VBO,6.740844,52.377765
 Schopmansweg,3,,,7665RP,Albergen,Tubbergen,Overijssel,VBO,6.740759,52.375725
 Schopmansweg,5,,,7665RP,Albergen,Tubbergen,Overijssel,VBO,6.741282,52.374446
+Schopmansweg,6,,,7665RP,Albergen,Tubbergen,Overijssel,VBO,6.739280,52.375988
 Schopmansweg,7,,,7665RP,Albergen,Tubbergen,Overijssel,VBO,6.737889,52.373922
 Hofmaatsweg,2,a,,7665RR,Albergen,Tubbergen,Overijssel,VBO,6.735533,52.376740
 Hofmaatsweg,2,,,7665RR,Albergen,Tubbergen,Overijssel,VBO,6.735638,52.376792
@@ -841,6 +881,8 @@ Hofmaatsweg,4,,,7665RR,Albergen,Tubbergen,Overijssel,VBO,6.732669,52.377056
 Hofmaatsweg,5,,,7665RR,Albergen,Tubbergen,Overijssel,VBO,6.728660,52.375309
 Hofmaatsweg,7,a,,7665RR,Albergen,Tubbergen,Overijssel,VBO,6.727651,52.374575
 Hofmaatsweg,7,,,7665RR,Albergen,Tubbergen,Overijssel,VBO,6.727549,52.374610
+Hofmaatsweg,9,a,,7665RR,Albergen,Tubbergen,Overijssel,VBO,6.727064,52.374269
+Hofmaatsweg,9,,,7665RR,Albergen,Tubbergen,Overijssel,VBO,6.726947,52.374329
 Markgravenweg,5,,,7665RS,Albergen,Tubbergen,Overijssel,VBO,6.728089,52.380290
 Telgenkampsweg,2,,,7665RT,Albergen,Tubbergen,Overijssel,VBO,6.739610,52.372168
 Telgenkampsweg,4,a,,7665RT,Albergen,Tubbergen,Overijssel,VBO,6.739757,52.373556
@@ -905,6 +947,7 @@ Ootmarsumseweg,187,,,7665RX,Albergen,Tubbergen,Overijssel,VBO,6.776514,52.375868
 Ootmarsumseweg,189,,,7665RX,Albergen,Tubbergen,Overijssel,VBO,6.777738,52.376174
 Ootmarsumseweg,191,,,7665RX,Albergen,Tubbergen,Overijssel,VBO,6.781293,52.376811
 Zuidesweg,5,,,7665RZ,Albergen,Tubbergen,Overijssel,VBO,6.750031,52.368220
+Zuidesweg,7,,,7665RZ,Albergen,Tubbergen,Overijssel,VBO,6.749701,52.368621
 Zuidesweg,11,a,,7665RZ,Albergen,Tubbergen,Overijssel,VBO,6.747429,52.364894
 Zuidesweg,11,,ZH01,7665RZ,Albergen,Tubbergen,Overijssel,VBO,6.742259,52.365314
 Zuidesweg,11,,,7665RZ,Albergen,Tubbergen,Overijssel,VBO,6.747393,52.364856
@@ -933,7 +976,7 @@ Ootmarsumseweg,100,,,7665SC,Albergen,Tubbergen,Overijssel,VBO,6.754578,52.371430
 Ootmarsumseweg,104,,,7665SE,Albergen,Tubbergen,Overijssel,VBO,6.755588,52.371455
 Ootmarsumseweg,110,a,,7665SE,Albergen,Tubbergen,Overijssel,VBO,6.756226,52.371688
 Ootmarsumseweg,110,,,7665SE,Albergen,Tubbergen,Overijssel,VBO,6.755873,52.371459
-Ootmarsumseweg,112,,,7665SE,Albergen,Tubbergen,Overijssel,VBO,6.756607,52.371559
+Ootmarsumseweg,114,t,,7665SE,Albergen,Tubbergen,Overijssel,VBO,6.756607,52.371559
 Ootmarsumseweg,154,a,,7665SE,Albergen,Tubbergen,Overijssel,VBO,6.762419,52.373474
 Ootmarsumseweg,154,,,7665SE,Albergen,Tubbergen,Overijssel,VBO,6.762773,52.373488
 Ootmarsumseweg,156,a,,7665SE,Albergen,Tubbergen,Overijssel,VBO,6.762665,52.373474
@@ -1033,6 +1076,7 @@ Tichelweg,12,,,7665SN,Albergen,Tubbergen,Overijssel,VBO,6.736983,52.367065
 Tichelweg,14,a,,7665SN,Albergen,Tubbergen,Overijssel,VBO,6.736646,52.366388
 Tichelweg,14,,,7665SN,Albergen,Tubbergen,Overijssel,VBO,6.736494,52.366358
 Tichelweg,15,,,7665SN,Albergen,Tubbergen,Overijssel,VBO,6.737170,52.365804
+Tichelweg,16,,,7665SN,Albergen,Tubbergen,Overijssel,VBO,6.732854,52.364934
 Tichelweg,17,,,7665SN,Albergen,Tubbergen,Overijssel,VBO,6.737037,52.364884
 Tichelweg,18,,,7665SN,Albergen,Tubbergen,Overijssel,VBO,6.736190,52.364615
 Tichelweg,19,,,7665SN,Albergen,Tubbergen,Overijssel,VBO,6.737533,52.364596
@@ -1059,6 +1103,7 @@ Kanaal N.Z.,39,,,7665SP,Albergen,Tubbergen,Overijssel,VBO,6.763546,52.364129
 Kanaal N.Z.,41,,,7665SP,Albergen,Tubbergen,Overijssel,VBO,6.763054,52.363200
 Kanaal N.Z.,43,,,7665SP,Albergen,Tubbergen,Overijssel,VBO,6.762764,52.363075
 Kanaal N.Z.,45,,,7665SP,Albergen,Tubbergen,Overijssel,VBO,6.763737,52.363280
+Kanaal N.Z.,45,,,7665SP,Albergen,Tubbergen,Overijssel,VBO,6.763803,52.363389
 Kanaal N.Z.,47,,,7665SP,Albergen,Tubbergen,Overijssel,VBO,6.764447,52.363356
 Grimbergweg,2,a,,7665SR,Albergen,Tubbergen,Overijssel,VBO,6.749601,52.357342
 Grimbergweg,2,,,7665SR,Albergen,Tubbergen,Overijssel,VBO,6.749686,52.357405
@@ -1090,14 +1135,17 @@ Vleerboersweg,25,,,7665ST,Albergen,Tubbergen,Overijssel,VBO,6.747906,52.358674
 Vleerboersweg,26,,,7665ST,Albergen,Tubbergen,Overijssel,VBO,6.747148,52.359391
 Vleerboersweg,28,a,,7665ST,Albergen,Tubbergen,Overijssel,VBO,6.739988,52.356354
 Vleerboersweg,28,,,7665ST,Albergen,Tubbergen,Overijssel,VBO,6.739867,52.356307
+Vleerboersweg,33,,,7665ST,Albergen,Tubbergen,Overijssel,VBO,6.745108,52.356637
 Vleerboersweg,35,,,7665ST,Albergen,Tubbergen,Overijssel,VBO,6.744104,52.355764
 Geerdinksweg,2,a,,7665SV,Albergen,Tubbergen,Overijssel,VBO,6.737029,52.360058
 Geerdinksweg,2,,,7665SV,Albergen,Tubbergen,Overijssel,VBO,6.737147,52.359997
+Postweg,2,,,7665SW,Albergen,Tubbergen,Overijssel,VBO,6.732121,52.357647
 Postweg,3,a,,7665SW,Albergen,Tubbergen,Overijssel,VBO,6.730640,52.362678
 Postweg,3,,,7665SW,Albergen,Tubbergen,Overijssel,VBO,6.730660,52.362632
 Vossenveenweg,2,,,7665SX,Albergen,Tubbergen,Overijssel,VBO,6.722647,52.360249
 Vossenveenweg,4,,,7665SX,Albergen,Tubbergen,Overijssel,VBO,6.728881,52.360799
 Braakvenweg,1,,,7665SZ,Albergen,Tubbergen,Overijssel,VBO,6.735683,52.371774
+Kanaal Z.Z.,12,,,7665SZ,Albergen,Tubbergen,Overijssel,VBO,6.720668,52.365571
 Kanaal Z.Z.,18,a,,7665SZ,Albergen,Tubbergen,Overijssel,VBO,6.735228,52.362437
 Kanaal Z.Z.,18,,,7665SZ,Albergen,Tubbergen,Overijssel,VBO,6.735226,52.362359
 Kanaal Z.Z.,20,,,7665SZ,Albergen,Tubbergen,Overijssel,VBO,6.740831,52.358977
@@ -1112,6 +1160,7 @@ Kanaal Z.Z.,52,,,7665SZ,Albergen,Tubbergen,Overijssel,VBO,6.770791,52.363022
 Kanaal Z.Z.,54,,,7665SZ,Albergen,Tubbergen,Overijssel,VBO,6.770697,52.362610
 Leemhuisweg,2,a,,7665TA,Albergen,Tubbergen,Overijssel,VBO,6.726551,52.358826
 Leemhuisweg,2,,,7665TA,Albergen,Tubbergen,Overijssel,VBO,6.726505,52.358769
+Leemhuisweg,6,,,7665TA,Albergen,Tubbergen,Overijssel,VBO,6.726338,52.362767
 Leemhuisweg,8,,,7665TA,Albergen,Tubbergen,Overijssel,VBO,6.725902,52.363313
 Broekzijdeweg,1,,,7665TB,Albergen,Tubbergen,Overijssel,VBO,6.754113,52.348600
 Broekzijdeweg,5,a,,7665TB,Albergen,Tubbergen,Overijssel,VBO,6.748179,52.351672
@@ -1165,6 +1214,7 @@ Looleeweg,8,,,7665TH,Albergen,Tubbergen,Overijssel,VBO,6.735094,52.350475
 Looleeweg,10,,,7665TH,Albergen,Tubbergen,Overijssel,VBO,6.734180,52.350458
 Looleeweg,11,a,,7665TH,Albergen,Tubbergen,Overijssel,VBO,6.735664,52.350021
 Looleeweg,11,,,7665TH,Albergen,Tubbergen,Overijssel,VBO,6.735691,52.350097
+Looleeweg,12,,,7665TH,Albergen,Tubbergen,Overijssel,VBO,6.733524,52.347271
 Looleeweg,13,,,7665TH,Albergen,Tubbergen,Overijssel,VBO,6.732693,52.344762
 Looleeweg,14,a,,7665TH,Albergen,Tubbergen,Overijssel,VBO,6.728918,52.345906
 Looleeweg,14,,,7665TH,Albergen,Tubbergen,Overijssel,VBO,6.728876,52.346110
@@ -1266,7 +1316,7 @@ Diepegoorsweg,2,a,,7665TS,Albergen,Tubbergen,Overijssel,VBO,6.756102,52.338305
 Diepegoorsweg,2,b,,7665TS,Albergen,Tubbergen,Overijssel,VBO,6.754280,52.341375
 Diepegoorsweg,2,,,7665TS,Albergen,Tubbergen,Overijssel,VBO,6.756394,52.337389
 Diepegoorsweg,4,a,,7665TS,Albergen,Tubbergen,Overijssel,VBO,6.755965,52.335576
-Diepegoorsweg,4,,,7665TS,Albergen,Tubbergen,Overijssel,VBO,6.756772,52.335383
+Diepegoorsweg,4,,,7665TS,Albergen,Tubbergen,Overijssel,VBO,6.757567,52.335104
 Blokweg,4,a,,7665TV,Albergen,Tubbergen,Overijssel,VBO,6.759938,52.344909
 Blokweg,4,,,7665TV,Albergen,Tubbergen,Overijssel,VBO,6.759610,52.344781
 Broekhuisweg,2,,,7665TW,Albergen,Tubbergen,Overijssel,VBO,6.758918,52.348792
@@ -1280,6 +1330,7 @@ Broekhuisweg,9,,,7665TW,Albergen,Tubbergen,Overijssel,VBO,6.764784,52.345368
 Weemselerweg,1,,,7665TX,Albergen,Tubbergen,Overijssel,VBO,6.770775,52.373733
 Weemselerweg,2,a,,7665TX,Albergen,Tubbergen,Overijssel,VBO,6.768597,52.373487
 Weemselerweg,2,,,7665TX,Albergen,Tubbergen,Overijssel,VBO,6.768539,52.373568
+Weemselerweg,3,,,7665TX,Albergen,Tubbergen,Overijssel,VBO,6.770668,52.373070
 Weemselerweg,6,,,7665TX,Albergen,Tubbergen,Overijssel,VBO,6.768570,52.373007
 Weemselerweg,8,,,7665TX,Albergen,Tubbergen,Overijssel,VBO,6.768568,52.372865
 Weemselerweg,10,,,7665TX,Albergen,Tubbergen,Overijssel,VBO,6.768571,52.372737
@@ -1325,6 +1376,7 @@ Zondermansweg,11,a,,7665VA,Albergen,Tubbergen,Overijssel,VBO,6.771493,52.355144
 Zondermansweg,11,,,7665VA,Albergen,Tubbergen,Overijssel,VBO,6.771311,52.355122
 Zondermansweg,12,a,,7665VA,Albergen,Tubbergen,Overijssel,VBO,6.767591,52.355446
 Zondermansweg,12,,,7665VA,Albergen,Tubbergen,Overijssel,VBO,6.767497,52.355544
+Zondermansweg,13,,,7665VA,Albergen,Tubbergen,Overijssel,VBO,6.773288,52.353725
 Zondermansweg,13,,,7665VA,Albergen,Tubbergen,Overijssel,VBO,6.773305,52.353706
 Diekersweg,1,,,7665VB,Albergen,Tubbergen,Overijssel,VBO,6.777375,52.360312
 Diekersweg,2,a,,7665VB,Albergen,Tubbergen,Overijssel,VBO,6.773296,52.359093
@@ -1382,6 +1434,7 @@ Molendijk,28,,,7665VE,Albergen,Tubbergen,Overijssel,VBO,6.767040,52.367025
 Molendijk,29,,,7665VE,Albergen,Tubbergen,Overijssel,VBO,6.768412,52.367270
 Molendijk,30,,,7665VE,Albergen,Tubbergen,Overijssel,VBO,6.767118,52.367045
 Molendijk,32,,,7665VE,Albergen,Tubbergen,Overijssel,VBO,6.767187,52.367065
+Molendijk,33,,,7665VE,Albergen,Tubbergen,Overijssel,VBO,6.769841,52.366988
 Molendijk,34,,,7665VE,Albergen,Tubbergen,Overijssel,VBO,6.767349,52.367115
 Molendijk,36,,,7665VE,Albergen,Tubbergen,Overijssel,VBO,6.767424,52.367142
 Molendijk,38,,,7665VE,Albergen,Tubbergen,Overijssel,VBO,6.767764,52.367089

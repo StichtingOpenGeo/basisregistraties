@@ -646,8 +646,7 @@ Braken,29,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.895221,52.670527
 Braken,30,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.893055,52.668732
 Braken,31,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.894291,52.670347
 Braken,32,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.893014,52.668659
-Braken,33,a,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.894109,52.669816
-Braken,33,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.894148,52.669906
+Braken,33,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.894165,52.669904
 Braken,35,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.894062,52.669726
 Braken,37,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.894034,52.669646
 Braken,39,,,1713GC,Obdam,Koggenland,Noord-Holland,VBO,4.893990,52.669573
@@ -699,6 +698,7 @@ Duinweid,10,,,1713GE,Obdam,Koggenland,Noord-Holland,VBO,4.928402,52.669806
 Duinweid,11,,,1713GE,Obdam,Koggenland,Noord-Holland,VBO,4.928829,52.669146
 Duinweid,14,,,1713GE,Obdam,Koggenland,Noord-Holland,VBO,4.931145,52.669111
 Hofland,1,,,1713GG,Obdam,Koggenland,Noord-Holland,VBO,4.933783,52.673390
+Hofland,2,A,,1713GG,Obdam,Koggenland,Noord-Holland,VBO,4.931392,52.673962
 Hofland,2,,,1713GG,Obdam,Koggenland,Noord-Holland,VBO,4.931823,52.673871
 Hofland,3,,,1713GG,Obdam,Koggenland,Noord-Holland,VBO,4.918261,52.676807
 Hofland,4,,,1713GG,Obdam,Koggenland,Noord-Holland,VBO,4.918067,52.676873
@@ -741,7 +741,7 @@ Poel,2,,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.891667,52.671750
 Poel,4,,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.891366,52.671804
 Poel,5,,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.891007,52.671106
 Poel,6,,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.890865,52.671897
-Poel,7,,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.891511,52.671054
+Poel,7,,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.890862,52.670926
 Poel,8,,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.890688,52.671923
 Poel,9,a,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.890473,52.670691
 Poel,9,b,,1713GL,Obdam,Koggenland,Noord-Holland,VBO,4.890606,52.670664
@@ -834,6 +834,7 @@ Tocht,25,,,1713GP,Obdam,Koggenland,Noord-Holland,VBO,4.889641,52.668169
 Tocht,27,,,1713GP,Obdam,Koggenland,Noord-Holland,VBO,4.889595,52.668276
 Tocht,29,,,1713GP,Obdam,Koggenland,Noord-Holland,VBO,4.889773,52.668250
 Tocht,31,,,1713GP,Obdam,Koggenland,Noord-Holland,VBO,4.889063,52.668254
+Vaart,1,,,1713GR,Obdam,Koggenland,Noord-Holland,VBO,4.890031,52.669468
 Vaart,2,A,,1713GR,Obdam,Koggenland,Noord-Holland,VBO,4.889707,52.669289
 Vaart,2,B,,1713GR,Obdam,Koggenland,Noord-Holland,VBO,4.889853,52.669265
 Vaart,2,C,,1713GR,Obdam,Koggenland,Noord-Holland,VBO,4.889950,52.669249
@@ -855,11 +856,14 @@ Vaart,5,,,1713GR,Obdam,Koggenland,Noord-Holland,VBO,4.889878,52.668700
 Vaart,6,,,1713GR,Obdam,Koggenland,Noord-Holland,VBO,4.889693,52.668731
 Vaart,7,,,1713GR,Obdam,Koggenland,Noord-Holland,VBO,4.889458,52.668770
 Vaart,8,,,1713GR,Obdam,Koggenland,Noord-Holland,VBO,4.889346,52.668682
+Wissel,1,,,1713GX,Obdam,Koggenland,Noord-Holland,VBO,4.915786,52.677128
 Wissel,2,,,1713GX,Obdam,Koggenland,Noord-Holland,VBO,4.915468,52.677211
 Wissel,3,,,1713GX,Obdam,Koggenland,Noord-Holland,VBO,4.915613,52.676845
 Dubbelspoor,13,,,1713GZ,Obdam,Koggenland,Noord-Holland,VBO,4.917671,52.676432
 Dubbelspoor,15,,,1713GZ,Obdam,Koggenland,Noord-Holland,VBO,4.917754,52.676408
+Dorpsstraat,1,A,,1713HA,Obdam,Koggenland,Noord-Holland,VBO,4.893852,52.665717
 Dorpsstraat,1,B,,1713HA,Obdam,Koggenland,Noord-Holland,VBO,4.894048,52.665782
+Dorpsstraat,1,,,1713HA,Obdam,Koggenland,Noord-Holland,VBO,4.893805,52.665673
 Dorpsstraat,3,,,1713HA,Obdam,Koggenland,Noord-Holland,VBO,4.896283,52.667363
 Dorpsstraat,7,,,1713HA,Obdam,Koggenland,Noord-Holland,VBO,4.897001,52.667905
 Dorpsstraat,11,,,1713HA,Obdam,Koggenland,Noord-Holland,VBO,4.897596,52.668321
@@ -887,6 +891,22 @@ Dorpsstraat,61,a,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903181,52.672274
 Dorpsstraat,61,b,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903295,52.672343
 Dorpsstraat,61,c,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903371,52.672388
 Dorpsstraat,61,,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903126,52.672235
+Dorpsstraat,63,A,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903547,52.672486
+Dorpsstraat,63,B,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903777,52.672391
+Dorpsstraat,63,C,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903588,52.672507
+Dorpsstraat,63,D,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903814,52.672417
+Dorpsstraat,63,E,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903622,52.672527
+Dorpsstraat,63,F,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903742,52.672377
+Dorpsstraat,65,A,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903698,52.672588
+Dorpsstraat,65,B,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903894,52.672481
+Dorpsstraat,65,C,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903737,52.672613
+Dorpsstraat,65,D,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903926,52.672506
+Dorpsstraat,65,E,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903768,52.672640
+Dorpsstraat,65,F,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903961,52.672530
+Dorpsstraat,67,A,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903884,52.672729
+Dorpsstraat,67,B,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.904085,52.672608
+Dorpsstraat,67,C,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.903910,52.672749
+Dorpsstraat,67,D,,1713HB,Obdam,Koggenland,Noord-Holland,VBO,4.904118,52.672633
 Dorpsstraat,71,,,1713HC,Obdam,Koggenland,Noord-Holland,VBO,4.904068,52.672847
 Dorpsstraat,73,,,1713HC,Obdam,Koggenland,Noord-Holland,VBO,4.904301,52.673015
 Dorpsstraat,75,,,1713HC,Obdam,Koggenland,Noord-Holland,VBO,4.904495,52.673164
@@ -924,6 +944,13 @@ Dorpsstraat,103,,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.906334,52.674479
 Dorpsstraat,105,,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.906430,52.674597
 Dorpsstraat,107,,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.906552,52.674738
 Dorpsstraat,109,,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.906709,52.674878
+Dorpsstraat,111,A,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907040,52.674993
+Dorpsstraat,111,B,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907222,52.674879
+Dorpsstraat,111,C,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907286,52.674981
+Dorpsstraat,111,D,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907194,52.675039
+Dorpsstraat,111,E,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907125,52.675008
+Dorpsstraat,111,F,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907167,52.674983
+Dorpsstraat,111,G,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907206,52.674956
 Dorpsstraat,111,,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907086,52.675023
 Dorpsstraat,113,,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907582,52.674970
 Dorpsstraat,115,a,,1713HD,Obdam,Koggenland,Noord-Holland,VBO,4.907485,52.675281
@@ -976,6 +1003,8 @@ Stationsweg,10,,,1713HE,Obdam,Koggenland,Noord-Holland,VBO,4.907681,52.680156
 Stationsweg,12,A,,1713HE,Obdam,Koggenland,Noord-Holland,VBO,4.906182,52.678574
 Stationsweg,12,,,1713HE,Obdam,Koggenland,Noord-Holland,VBO,4.906664,52.678468
 Stationsweg,14,,,1713HE,Obdam,Koggenland,Noord-Holland,VBO,4.904746,52.678555
+Dorpsstraat,183,,,1713HG,Obdam,Koggenland,Noord-Holland,VBO,4.911695,52.678095
+Dorpsstraat,185,,,1713HG,Obdam,Koggenland,Noord-Holland,VBO,4.911749,52.678133
 Dorpsstraat,187,,,1713HG,Obdam,Koggenland,Noord-Holland,VBO,4.911910,52.678193
 Dorpsstraat,189,a,,1713HG,Obdam,Koggenland,Noord-Holland,VBO,4.912406,52.678266
 Dorpsstraat,189,,,1713HG,Obdam,Koggenland,Noord-Holland,VBO,4.912205,52.678365
@@ -1201,7 +1230,7 @@ Dorpsstraat,196,,,1713HN,Obdam,Koggenland,Noord-Holland,VBO,4.913099,52.679303
 Dorpsstraat,198,,,1713HN,Obdam,Koggenland,Noord-Holland,VBO,4.913223,52.679378
 Dorpsstraat,200,,,1713HN,Obdam,Koggenland,Noord-Holland,VBO,4.913326,52.679452
 Dorpsstraat,202,,,1713HP,Obdam,Koggenland,Noord-Holland,VBO,4.913670,52.679663
-Dorpsstraat,204,,,1713HP,Obdam,Koggenland,Noord-Holland,VBO,4.913760,52.679710
+Dorpsstraat,204,,,1713HP,Obdam,Koggenland,Noord-Holland,VBO,4.913760,52.679711
 Dorpsstraat,206,,,1713HP,Obdam,Koggenland,Noord-Holland,VBO,4.913871,52.679776
 Dorpsstraat,208,,,1713HP,Obdam,Koggenland,Noord-Holland,VBO,4.913980,52.679839
 Dorpsstraat,210,,,1713HP,Obdam,Koggenland,Noord-Holland,VBO,4.914090,52.679893
@@ -1448,6 +1477,7 @@ Burgemeester Dekkerstraat,6,,,1713JG,Obdam,Koggenland,Noord-Holland,VBO,4.907367
 Burgemeester Dekkerstraat,9,,,1713JG,Obdam,Koggenland,Noord-Holland,VBO,4.906894,52.676772
 Burgemeester Dekkerstraat,10,,,1713JG,Obdam,Koggenland,Noord-Holland,VBO,4.906845,52.676710
 Bosstraat,1,A,,1713JH,Obdam,Koggenland,Noord-Holland,VBO,4.905298,52.675076
+Bosstraat,1,,,1713JH,Obdam,Koggenland,Noord-Holland,VBO,4.905443,52.675205
 Bosstraat,2,a,,1713JH,Obdam,Koggenland,Noord-Holland,VBO,4.905102,52.674821
 Bosstraat,2,,,1713JH,Obdam,Koggenland,Noord-Holland,VBO,4.905221,52.674980
 Bosstraat,3,,,1713JH,Obdam,Koggenland,Noord-Holland,VBO,4.904849,52.674821
@@ -1619,7 +1649,7 @@ Anemonenstraat,6,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.903169,52.675424
 Anemonenstraat,7,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.903021,52.675468
 Anemonenstraat,8,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.902932,52.675486
 Anemonenstraat,9,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.902843,52.675503
-Anemonenstraat,10,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.902754,52.675529
+Anemonenstraat,10,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.902754,52.675530
 Anemonenstraat,11,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.902612,52.675564
 Anemonenstraat,12,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.902523,52.675581
 Anemonenstraat,13,,,1713JW,Obdam,Koggenland,Noord-Holland,VBO,4.902434,52.675608
@@ -1655,11 +1685,12 @@ Victorstaete,24,,,1713JX,Obdam,Koggenland,Noord-Holland,VBO,4.905428,52.676362
 Victorstaete,25,,,1713JX,Obdam,Koggenland,Noord-Holland,VBO,4.905518,52.676348
 Lutkedijk,2,,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.904494,52.686943
 Lutkedijk,4,A,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.905412,52.686121
-Lutkedijk,4,,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.905186,52.686747
 Lutkedijk,6,,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.908016,52.685593
 Lutkedijk,8,,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.908646,52.685338
 Lutkedijk,10,a,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.910698,52.684759
 Lutkedijk,10,,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.910122,52.684974
+Lutkedijk,12,A,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.911584,52.684426
+Lutkedijk,12,B,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.912001,52.684405
 Lutkedijk,12,C,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.912429,52.684304
 Lutkedijk,12,,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.911330,52.684625
 Lutkedijk,14,,,1713KP,Obdam,Koggenland,Noord-Holland,VBO,4.912863,52.684210
@@ -1697,6 +1728,8 @@ Berkmeerdijk,12,,,1713KW,Obdam,Koggenland,Noord-Holland,VBO,4.885686,52.681809
 Berkmeerdijk,13,,,1713KW,Obdam,Koggenland,Noord-Holland,VBO,4.885435,52.681324
 Berkmeerdijk,14,,,1713KW,Obdam,Koggenland,Noord-Holland,VBO,4.882475,52.680555
 Berkmeerdijk,15,,,1713KW,Obdam,Koggenland,Noord-Holland,VBO,4.882526,52.687922
+Berkmeerdijk,16,A,,1713KW,Obdam,Koggenland,Noord-Holland,VBO,4.886813,52.689630
+Berkmeerdijk,16,,,1713KW,Obdam,Koggenland,Noord-Holland,VBO,4.886702,52.689596
 Berkmeerdijk,18,a,,1713KX,Obdam,Koggenland,Noord-Holland,VBO,4.891579,52.694726
 Berkmeerdijk,18,,,1713KX,Obdam,Koggenland,Noord-Holland,VBO,4.889459,52.690724
 Berkmeerdijk,19,,,1713KX,Obdam,Koggenland,Noord-Holland,VBO,4.893714,52.695390
@@ -1797,7 +1830,7 @@ Lijster,12,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.897806,52.673481
 Lijster,14,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.897632,52.673556
 Lijster,16,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.897791,52.673801
 Lijster,18,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.897508,52.673894
-Lijster,20,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.897271,52.673640
+Lijster,20,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.897270,52.673640
 Lijster,22,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.897073,52.673668
 Lijster,24,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.896686,52.673779
 Lijster,26,,,1713SH,Obdam,Koggenland,Noord-Holland,VBO,4.896774,52.673901
@@ -2016,7 +2049,7 @@ Dokter Lohmanstraat,43,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901140,52.6
 Dokter Lohmanstraat,45,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901296,52.676281
 Dokter Lohmanstraat,47,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901210,52.676301
 Dokter Lohmanstraat,49,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901112,52.676323
-Dokter Lohmanstraat,51,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901272,52.676237
+Dokter Lohmanstraat,51,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901272,52.676238
 Dokter Lohmanstraat,53,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901177,52.676261
 Dokter Lohmanstraat,55,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901083,52.676281
 Dokter Lohmanstraat,57,,,1713TH,Obdam,Koggenland,Noord-Holland,VBO,4.901245,52.676193
@@ -2185,7 +2218,7 @@ Grutto,1,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.900328,52.674488
 Grutto,3,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.900247,52.674511
 Grutto,5,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.900180,52.674523
 Grutto,7,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.900099,52.674546
-Grutto,9,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.899987,52.674576
+Grutto,9,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.899987,52.674577
 Grutto,11,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.899818,52.674567
 Grutto,13,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.899730,52.674539
 Grutto,15,,,1713TV,Obdam,Koggenland,Noord-Holland,VBO,4.899627,52.674476

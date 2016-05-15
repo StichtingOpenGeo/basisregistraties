@@ -132,7 +132,7 @@ IJsselkade,72,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913670,52.562153
 IJsselkade,73,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913627,52.562188
 IJsselkade,74,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913569,52.562235
 IJsselkade,75,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913524,52.562286
-IJsselkade,76,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913468,52.562329
+IJsselkade,76,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913468,52.562330
 IJsselkade,77,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913422,52.562371
 IJsselkade,78,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913370,52.562418
 IJsselkade,79,,,8261AH,Kampen,Kampen,Overijssel,VBO,5.913312,52.562469
@@ -272,7 +272,6 @@ Buiten Nieuwstraat,47,,II,8261AR,Kampen,Kampen,Overijssel,VBO,5.914657,52.559876
 Buiten Nieuwstraat,47,,III,8261AR,Kampen,Kampen,Overijssel,VBO,5.914707,52.559901
 Buiten Nieuwstraat,47,,IV,8261AR,Kampen,Kampen,Overijssel,VBO,5.914754,52.559925
 Buiten Nieuwstraat,49,,,8261AR,Kampen,Kampen,Overijssel,VBO,5.914556,52.559869
-Buiten Nieuwstraat,51,,I,8261AR,Kampen,Kampen,Overijssel,VBO,5.914518,52.559932
 Buiten Nieuwstraat,51,,,8261AR,Kampen,Kampen,Overijssel,VBO,5.914516,52.559909
 Buiten Nieuwstraat,53,,,8261AR,Kampen,Kampen,Overijssel,VBO,5.914460,52.559956
 Buiten Nieuwstraat,57,,,8261AR,Kampen,Kampen,Overijssel,VBO,5.914364,52.560081
@@ -490,15 +489,16 @@ Schapensteeg,15,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.913248,52.561422
 Schapensteeg,17,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.913197,52.561362
 Schapensteeg,19,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.913171,52.561336
 Schapensteeg,21,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.913138,52.561304
-Schapensteeg,23,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.912831,52.561021
 Schapensteeg,25,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.912758,52.560949
-Schapensteeg,27,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.912693,52.560910
 Schapensteeg,29,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.912610,52.560812
 Schapensteeg,31,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.912576,52.560782
 Schapensteeg,33,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.912543,52.560751
 Schapensteeg,35,,,8261BH,Kampen,Kampen,Overijssel,VBO,5.912489,52.560704
 Schapensteeg,4,,,8261BJ,Kampen,Kampen,Overijssel,VBO,5.913521,52.561794
 Schapensteeg,6,,,8261BJ,Kampen,Kampen,Overijssel,VBO,5.913490,52.561767
+Schapensteeg,8,A,,8261BJ,Kampen,Kampen,Overijssel,VBO,5.913442,52.561709
+Schapensteeg,8,B,,8261BJ,Kampen,Kampen,Overijssel,VBO,5.913411,52.561722
+Schapensteeg,8,C,,8261BJ,Kampen,Kampen,Overijssel,VBO,5.913382,52.561738
 Schapensteeg,8,,,8261BJ,Kampen,Kampen,Overijssel,VBO,5.913454,52.561739
 Schapensteeg,10,,01,8261BJ,Kampen,Kampen,Overijssel,VBO,5.913062,52.561432
 Schapensteeg,10,,02,8261BJ,Kampen,Kampen,Overijssel,VBO,5.913035,52.561450
@@ -660,7 +660,7 @@ Torenstraat,6,,,8261BT,Kampen,Kampen,Overijssel,VBO,5.915657,52.558985
 Torenstraat,9,,,8261BT,Kampen,Kampen,Overijssel,VBO,5.915710,52.558876
 Torenstraat,10,,,8261BT,Kampen,Kampen,Overijssel,VBO,5.915431,52.558943
 Torenstraat,11,,,8261BT,Kampen,Kampen,Overijssel,VBO,5.915554,52.558845
-Plantage,1,,,8261BV,Kampen,Kampen,Overijssel,VBO,5.916783,52.558257
+Plantage,1,,,8261BV,Kampen,Kampen,Overijssel,VBO,5.916783,52.558258
 Plantage,2,,,8261BV,Kampen,Kampen,Overijssel,VBO,5.916205,52.558450
 Plantage,3,,,8261BV,Kampen,Kampen,Overijssel,VBO,5.916587,52.558204
 Plantage,4,,,8261BV,Kampen,Kampen,Overijssel,VBO,5.916368,52.558529
@@ -797,6 +797,20 @@ Oudestraat,210,,,8261CA,Kampen,Kampen,Overijssel,VBO,5.914671,52.560738
 Oudestraat,212,,,8261CA,Kampen,Kampen,Overijssel,VBO,5.914561,52.560845
 Oudestraat,214,,I,8261CA,Kampen,Kampen,Overijssel,VBO,5.914468,52.560858
 Oudestraat,214,,,8261CA,Kampen,Kampen,Overijssel,VBO,5.914504,52.560893
+Oudestraat,216,A,,8261CA,Kampen,Kampen,Overijssel,VBO,5.914083,52.560989
+Oudestraat,216,B,,8261CA,Kampen,Kampen,Overijssel,VBO,5.914021,52.560941
+Oudestraat,216,C,,8261CA,Kampen,Kampen,Overijssel,VBO,5.914054,52.561269
+Oudestraat,216,D,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913932,52.561426
+Oudestraat,216,E,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913899,52.561404
+Oudestraat,216,F,,8261CA,Kampen,Kampen,Overijssel,VBO,5.914002,52.561353
+Oudestraat,216,G,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913817,52.561346
+Oudestraat,216,H,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913879,52.561391
+Oudestraat,216,K,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913985,52.561337
+Oudestraat,216,M,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913796,52.561330
+Oudestraat,216,N,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913922,52.561369
+Oudestraat,216,P,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913945,52.561304
+Oudestraat,216,R,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913765,52.561311
+Oudestraat,216,,,8261CA,Kampen,Kampen,Overijssel,VBO,5.914330,52.560978
 Oudestraat,218,,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913904,52.561499
 Oudestraat,220,,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913877,52.561532
 Oudestraat,222,,,8261CA,Kampen,Kampen,Overijssel,VBO,5.913841,52.561578
@@ -817,6 +831,11 @@ Oudestraat,238,,I,8261CB,Kampen,Kampen,Overijssel,VBO,5.913341,52.561966
 Oudestraat,238,,,8261CB,Kampen,Kampen,Overijssel,VBO,5.913382,52.562011
 Oudestraat,240,,I,8261CB,Kampen,Kampen,Overijssel,VBO,5.913274,52.562004
 Oudestraat,240,,,8261CB,Kampen,Kampen,Overijssel,VBO,5.913320,52.562038
+Oudestraat,242,A,,8261CB,Kampen,Kampen,Overijssel,VBO,5.913186,52.562039
+Oudestraat,242,B,,8261CB,Kampen,Kampen,Overijssel,VBO,5.913198,52.562016
+Oudestraat,242,C,,8261CB,Kampen,Kampen,Overijssel,VBO,5.913123,52.561981
+Oudestraat,242,D,,8261CB,Kampen,Kampen,Overijssel,VBO,5.913135,52.561954
+Oudestraat,242,,,8261CB,Kampen,Kampen,Overijssel,VBO,5.913229,52.562066
 Oudestraat,244,,,8261CB,Kampen,Kampen,Overijssel,VBO,5.912905,52.562085
 Oudestraat,246,,,8261CB,Kampen,Kampen,Overijssel,VBO,5.912285,52.562167
 Oudestraat,248,A,,8261CB,Kampen,Kampen,Overijssel,VBO,5.912189,52.562153
@@ -861,6 +880,7 @@ Oudestraat,19,,,8261CC,Kampen,Kampen,Overijssel,VBO,5.919637,52.555756
 Oudestraat,21,,I,8261CC,Kampen,Kampen,Overijssel,VBO,5.919625,52.555843
 Oudestraat,21,,II,8261CC,Kampen,Kampen,Overijssel,VBO,5.919685,52.555867
 Oudestraat,21,,,8261CC,Kampen,Kampen,Overijssel,VBO,5.919574,52.555817
+Oudestraat,23,A,,8261CC,Kampen,Kampen,Overijssel,VBO,5.919662,52.555985
 Oudestraat,23,,01,8261CC,Kampen,Kampen,Overijssel,VBO,5.919535,52.555892
 Oudestraat,23,,02,8261CC,Kampen,Kampen,Overijssel,VBO,5.919557,52.555940
 Oudestraat,23,,03,8261CC,Kampen,Kampen,Overijssel,VBO,5.919589,52.555916
@@ -1035,6 +1055,8 @@ Blauwehandsteeg,1,,02,8261CP,Kampen,Kampen,Overijssel,VBO,5.919742,52.556207
 Blauwehandsteeg,1,,03,8261CP,Kampen,Kampen,Overijssel,VBO,5.919712,52.556125
 Blauwehandsteeg,1,,04,8261CP,Kampen,Kampen,Overijssel,VBO,5.919795,52.556158
 Blauwehandsteeg,1,,,8261CP,Kampen,Kampen,Overijssel,VBO,5.919520,52.556129
+Oudestraat,2,A,,8261CP,Kampen,Kampen,Overijssel,VBO,5.919892,52.555294
+Oudestraat,2,B,,8261CP,Kampen,Kampen,Overijssel,VBO,5.919824,52.555274
 Oudestraat,2,,,8261CP,Kampen,Kampen,Overijssel,VBO,5.919924,52.555276
 Oudestraat,4,,,8261CP,Kampen,Kampen,Overijssel,VBO,5.919829,52.555328
 Oudestraat,6,,,8261CP,Kampen,Kampen,Overijssel,VBO,5.919668,52.555465
@@ -1152,6 +1174,7 @@ Oudestraat,140,,03,8261CX,Kampen,Kampen,Overijssel,VBO,5.915980,52.558891
 Oudestraat,140,,04,8261CX,Kampen,Kampen,Overijssel,VBO,5.916005,52.558866
 Oudestraat,140,,,8261CX,Kampen,Kampen,Overijssel,VBO,5.916270,52.558927
 Oudestraat,142,,01,8261CX,Kampen,Kampen,Overijssel,VBO,5.916194,52.558961
+Oudestraat,142,,02,8261CX,Kampen,Kampen,Overijssel,VBO,5.916045,52.558925
 Oudestraat,144,,,8261CX,Kampen,Kampen,Overijssel,VBO,5.916206,52.559003
 Oudestraat,146,,,8261CZ,Kampen,Kampen,Overijssel,VBO,5.916167,52.559044
 Oudestraat,148,,,8261CZ,Kampen,Kampen,Overijssel,VBO,5.916077,52.559157
@@ -1189,6 +1212,7 @@ Korteweg,1,,,8261DC,Kampen,Kampen,Overijssel,VBO,5.909244,52.557089
 Korteweg,3,,,8261DC,Kampen,Kampen,Overijssel,VBO,5.908914,52.557560
 Korteweg,4,,,8261DC,Kampen,Kampen,Overijssel,VBO,5.906898,52.556978
 Burgemeester Berghuisplein,1,,,8261DD,Kampen,Kampen,Overijssel,VBO,5.912923,52.551525
+Burgemeester Berghuisplein,2,,,8261DD,Kampen,Kampen,Overijssel,VBO,5.911085,52.553124
 Hagenkade,1,,,8261ED,Kampen,Kampen,Overijssel,VBO,5.911403,52.562047
 Hagenkade,2,,I,8261ED,Kampen,Kampen,Overijssel,VBO,5.911301,52.561934
 Hagenkade,3,,I,8261ED,Kampen,Kampen,Overijssel,VBO,5.911279,52.561868
@@ -1648,7 +1672,7 @@ Vloeddijk,151,,,8261GL,Kampen,Kampen,Overijssel,VBO,5.911463,52.560649
 Vloeddijk,152,,,8261GL,Kampen,Kampen,Overijssel,VBO,5.911420,52.560687
 Vloeddijk,153,,,8261GL,Kampen,Kampen,Overijssel,VBO,5.911384,52.560722
 Vloeddijk,154,,,8261GL,Kampen,Kampen,Overijssel,VBO,5.911353,52.560756
-Vloeddijk,155,,,8261GL,Kampen,Kampen,Overijssel,VBO,5.911314,52.560793
+Vloeddijk,155,,,8261GL,Kampen,Kampen,Overijssel,VBO,5.911313,52.560793
 Vloeddijk,156,,,8261GL,Kampen,Kampen,Overijssel,VBO,5.911267,52.560834
 Vloeddijk,158,,,8261GM,Kampen,Kampen,Overijssel,VBO,5.911210,52.560905
 Vloeddijk,159,A,,8261GM,Kampen,Kampen,Overijssel,VBO,5.911023,52.561129
@@ -1662,6 +1686,9 @@ Vloeddijk,162,,,8261GM,Kampen,Kampen,Overijssel,VBO,5.910768,52.561425
 Vloeddijk,164,,,8261GM,Kampen,Kampen,Overijssel,VBO,5.910729,52.561481
 Vloeddijk,169,,,8261GM,Kampen,Kampen,Overijssel,VBO,5.910671,52.561539
 Vloeddijk,170,,,8261GM,Kampen,Kampen,Overijssel,VBO,5.910636,52.561573
+Broederstraat,3,A,,8261GN,Kampen,Kampen,Overijssel,VBO,5.916507,52.558612
+Broederstraat,3,B,,8261GN,Kampen,Kampen,Overijssel,VBO,5.916431,52.558593
+Broederstraat,3,,,8261GN,Kampen,Kampen,Overijssel,VBO,5.916549,52.558621
 Broederstraat,5,,,8261GN,Kampen,Kampen,Overijssel,VBO,5.916269,52.558562
 Broederstraat,7,,,8261GN,Kampen,Kampen,Overijssel,VBO,5.916200,52.558538
 Broederstraat,9,,,8261GN,Kampen,Kampen,Overijssel,VBO,5.916135,52.558522
@@ -2141,6 +2168,11 @@ Burgwalstraat,22,,I,8261HK,Kampen,Kampen,Overijssel,VBO,5.916673,52.556343
 Burgwalstraat,22,,II,8261HK,Kampen,Kampen,Overijssel,VBO,5.916720,52.556375
 Burgwalstraat,22,,,8261HK,Kampen,Kampen,Overijssel,VBO,5.916737,52.556350
 Burgwalstraat,24,,,8261HK,Kampen,Kampen,Overijssel,VBO,5.916599,52.556335
+Burgwalstraat,26,A,,8261HK,Kampen,Kampen,Overijssel,VBO,5.916460,52.556358
+Burgwalstraat,26,B,,8261HK,Kampen,Kampen,Overijssel,VBO,5.916327,52.556342
+Burgwalstraat,26,C,,8261HK,Kampen,Kampen,Overijssel,VBO,5.916193,52.556334
+Burgwalstraat,26,D,,8261HK,Kampen,Kampen,Overijssel,VBO,5.916087,52.556314
+Burgwalstraat,26,E,,8261HK,Kampen,Kampen,Overijssel,VBO,5.915988,52.556288
 Burgwalstraat,26,,,8261HK,Kampen,Kampen,Overijssel,VBO,5.916277,52.556302
 Geerstraat,1,,1,8261HL,Kampen,Kampen,Overijssel,VBO,5.919211,52.555698
 Geerstraat,1,,,8261HL,Kampen,Kampen,Overijssel,VBO,5.919192,52.555717
@@ -2563,7 +2595,7 @@ de la Sablonièrekade,6,,,8261JN,Kampen,Kampen,Overijssel,VBO,5.923395,52.553169
 de la Sablonièrekade,7,,,8261JN,Kampen,Kampen,Overijssel,VBO,5.923342,52.553234
 de la Sablonièrekade,8,,,8261JP,Kampen,Kampen,Overijssel,VBO,5.923239,52.553372
 de la Sablonièrekade,9,,,8261JP,Kampen,Kampen,Overijssel,VBO,5.923186,52.553447
-de la Sablonièrekade,10,,,8261JP,Kampen,Kampen,Overijssel,VBO,5.923111,52.553531
+de la Sablonièrekade,10,,,8261JP,Kampen,Kampen,Overijssel,VBO,5.923111,52.553532
 de la Sablonièrekade,11,,,8261JP,Kampen,Kampen,Overijssel,VBO,5.923066,52.553595
 de la Sablonièrekade,12,,,8261JP,Kampen,Kampen,Overijssel,VBO,5.923022,52.553646
 de la Sablonièrekade,13,,,8261JP,Kampen,Kampen,Overijssel,VBO,5.922977,52.553700
@@ -2697,7 +2729,15 @@ Koornmarkt,24,,I,8261JX,Kampen,Kampen,Overijssel,VBO,5.920390,52.555399
 Koornmarkt,24,,,8261JX,Kampen,Kampen,Overijssel,VBO,5.920418,52.555372
 Koornmarkt,26,,,8261JX,Kampen,Kampen,Overijssel,VBO,5.920307,52.555349
 Koornmarkt,28,,,8261JX,Kampen,Kampen,Overijssel,VBO,5.920183,52.554929
+Muntplein,1,A,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.920266,52.554587
+Muntplein,1,B,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.920185,52.554557
+Muntplein,1,C,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.920141,52.554542
+Muntplein,1,D,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.920095,52.554527
+Muntplein,1,,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.920313,52.554602
+Muntplein,2,A,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.919741,52.555251
+Muntplein,2,,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.919756,52.555225
 Muntplein,3,,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.920040,52.554505
+Muntplein,4,,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.919591,52.555187
 Muntplein,5,,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.919982,52.554487
 Muntplein,6,,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.919411,52.555156
 Muntplein,7,,,8261JZ,Kampen,Kampen,Overijssel,VBO,5.919924,52.554470
@@ -3070,7 +3110,10 @@ Graafschap,26,,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921373,52.553196
 Graafschap,28,,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921323,52.553236
 Graafschap,30,,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921220,52.553366
 Graafschap,32,,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921176,52.553408
-Graafschap,34,,1,8261LC,Kampen,Kampen,Overijssel,VBO,5.921072,52.553427
+Graafschap,34,A,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921093,52.553443
+Graafschap,34,B,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921057,52.553404
+Graafschap,34,C,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921008,52.553401
+Graafschap,34,D,,8261LC,Kampen,Kampen,Overijssel,VBO,5.920981,52.553422
 Graafschap,34,,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921132,52.553449
 Graafschap,36,A,,8261LC,Kampen,Kampen,Overijssel,VBO,5.921058,52.553552
 Graafschap,36,,01,8261LC,Kampen,Kampen,Overijssel,VBO,5.921025,52.553534
@@ -3092,7 +3135,7 @@ Molenhof,8,,,8261LD,Kampen,Kampen,Overijssel,VBO,5.922029,52.553396
 Molendwarsstraat,1,A,,8261LG,Kampen,Kampen,Overijssel,VBO,5.922527,52.552882
 Molendwarsstraat,1,,,8261LG,Kampen,Kampen,Overijssel,VBO,5.922567,52.552922
 Molendwarsstraat,3,,,8261LG,Kampen,Kampen,Overijssel,VBO,5.922608,52.552971
-Molendwarsstraat,4,,,8261LG,Kampen,Kampen,Overijssel,VBO,5.922852,52.553051
+Molendwarsstraat,4,,,8261LG,Kampen,Kampen,Overijssel,VBO,5.922852,52.553052
 Molendwarsstraat,5,,,8261LG,Kampen,Kampen,Overijssel,VBO,5.922624,52.553011
 Molendwarsstraat,7,,,8261LG,Kampen,Kampen,Overijssel,VBO,5.922651,52.553043
 Molendwarsstraat,9,,,8261LG,Kampen,Kampen,Overijssel,VBO,5.922683,52.553084
@@ -3479,6 +3522,11 @@ Groenestraat,218,,,8261VM,Kampen,Kampen,Overijssel,VBO,5.912075,52.559585
 Groenestraat,220,,,8261VM,Kampen,Kampen,Overijssel,VBO,5.912039,52.559624
 Groenestraat,222,,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911756,52.559474
 Groenestraat,224,A,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911699,52.559571
+Groenestraat,224,B,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911797,52.559585
+Groenestraat,224,C,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911849,52.559619
+Groenestraat,224,D,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911691,52.559592
+Groenestraat,224,E,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911762,52.559622
+Groenestraat,224,F,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911824,52.559654
 Groenestraat,224,,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911938,52.559666
 Groenestraat,228,,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911896,52.559739
 Groenestraat,230,,,8261VM,Kampen,Kampen,Overijssel,VBO,5.911857,52.559769
@@ -3680,6 +3728,18 @@ Meeuwenweg,2,,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913187,52.559148
 Meeuwenweg,6,,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.912969,52.559071
 Meeuwenweg,8,,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.912961,52.558989
 Meeuwenweg,9,,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.912925,52.559243
+Meeuwenweg,10,A,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913330,52.559220
+Meeuwenweg,10,B,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913212,52.559190
+Meeuwenweg,10,C,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913088,52.559148
+Meeuwenweg,10,D,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.912915,52.559065
+Meeuwenweg,10,E,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.912983,52.558955
+Meeuwenweg,10,F,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913072,52.558990
+Meeuwenweg,10,G,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913356,52.559190
+Meeuwenweg,10,H,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913254,52.559154
+Meeuwenweg,10,K,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913129,52.559112
+Meeuwenweg,10,M,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.912936,52.559041
+Meeuwenweg,10,N,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913050,52.558967
+Meeuwenweg,10,P,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913011,52.558986
 Meeuwenweg,10,,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.913036,52.558945
 Meeuwenweg,11,,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.912854,52.559202
 Meeuwenweg,12,,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.912634,52.558941
@@ -3692,6 +3752,9 @@ Meeuwenweg,19,,,8261VZ,Kampen,Kampen,Overijssel,VBO,5.911932,52.558960
 Meeuwenplein,1,,,8261WB,Kampen,Kampen,Overijssel,VBO,5.911487,52.558618
 Meeuwenplein,2,,,8261WB,Kampen,Kampen,Overijssel,VBO,5.911525,52.558569
 Meeuwenplein,3,,,8261WB,Kampen,Kampen,Overijssel,VBO,5.911559,52.558517
+Meeuwenplein,4,A,,8261WB,Kampen,Kampen,Overijssel,VBO,5.912143,52.558356
+Meeuwenplein,4,B,,8261WB,Kampen,Kampen,Overijssel,VBO,5.912199,52.558259
+Meeuwenplein,4,C,,8261WB,Kampen,Kampen,Overijssel,VBO,5.912244,52.558177
 Meeuwenplein,4,,,8261WB,Kampen,Kampen,Overijssel,VBO,5.912349,52.558377
 Meeuwenplein,5,,,8261WB,Kampen,Kampen,Overijssel,VBO,5.912551,52.558514
 Meeuwenplein,6,,,8261WB,Kampen,Kampen,Overijssel,VBO,5.912732,52.558554
@@ -3733,7 +3796,7 @@ Spuistraat,20,,,8261XB,Kampen,Kampen,Overijssel,VBO,5.913321,52.556415
 1e Ebbingestraat,15,,,8261XC,Kampen,Kampen,Overijssel,VBO,5.919725,52.552417
 1e Ebbingestraat,16,,I,8261XC,Kampen,Kampen,Overijssel,VBO,5.919657,52.552474
 1e Ebbingestraat,16,,,8261XC,Kampen,Kampen,Overijssel,VBO,5.919630,52.552450
-1e Ebbingestraat,18,,,8261XC,Kampen,Kampen,Overijssel,VBO,5.919302,52.552667
+1e Ebbingestraat,18,,,8261XC,Kampen,Kampen,Overijssel,VBO,5.919302,52.552668
 1e Ebbingestraat,19,,,8261XC,Kampen,Kampen,Overijssel,VBO,5.919190,52.552723
 1e Ebbingestraat,20,,,8261XC,Kampen,Kampen,Overijssel,VBO,5.918690,52.552733
 1e Ebbingestraat,21,,,8261XC,Kampen,Kampen,Overijssel,VBO,5.918635,52.552762

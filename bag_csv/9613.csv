@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Hoofdweg,201,,,9613AA,Meerstad,Slochteren,Groningen,VBO,6.646854,53.221700
 Hoofdweg,211,,,9613AA,Meerstad,Slochteren,Groningen,VBO,6.645313,53.224596
 Meeroeverslaan,231,,,9613AE,Meerstad,Slochteren,Groningen,VBO,6.652320,53.221171
 Meeroeverslaan,233,,,9613AE,Meerstad,Slochteren,Groningen,VBO,6.652475,53.221061
@@ -11,6 +10,7 @@ Meeroeverslaan,302,,,9613AE,Meerstad,Slochteren,Groningen,VBO,6.654033,53.220611
 Meeroeverslaan,304,,,9613AE,Meerstad,Slochteren,Groningen,VBO,6.654125,53.220541
 Meeroeverslaan,306,,,9613AE,Meerstad,Slochteren,Groningen,VBO,6.654177,53.220507
 Meeroeverslaan,308,,,9613AE,Meerstad,Slochteren,Groningen,VBO,6.654228,53.220470
+Meeroeverslaan,310,,TRAF,9613AE,Meerstad,Slochteren,Groningen,VBO,6.654688,53.220675
 Meeroeverslaan,310,,,9613AE,Meerstad,Slochteren,Groningen,VBO,6.654277,53.220432
 Meeroeverslaan,312,,,9613AE,Meerstad,Slochteren,Groningen,VBO,6.656403,53.219794
 Woldmeerweg,100,,,9613AG,Meerstad,Slochteren,Groningen,VBO,6.652310,53.222209
@@ -44,6 +44,19 @@ Bitterzoet,5,,,9613AK,Meerstad,Slochteren,Groningen,VBO,6.649320,53.224125
 Bitterzoet,7,,,9613AK,Meerstad,Slochteren,Groningen,VBO,6.649394,53.224154
 Bitterzoet,9,,,9613AK,Meerstad,Slochteren,Groningen,VBO,6.649577,53.224227
 Bitterzoet,11,,,9613AK,Meerstad,Slochteren,Groningen,VBO,6.649654,53.224254
+Oeverpad,119,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.647657,53.227648
+Oeverpad,121,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.647693,53.227575
+Oeverpad,123,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.647731,53.227502
+Oeverpad,125,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.647790,53.227418
+Oeverpad,127,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.647870,53.227341
+Oeverpad,129,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.647927,53.227270
+Oeverpad,131,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.648099,53.227147
+Oeverpad,133,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.648176,53.227086
+Oeverpad,135,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.648250,53.227023
+Oeverpad,137,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.648328,53.226938
+Oeverpad,139,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.648359,53.226887
+Oeverpad,141,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.648384,53.226840
+Oeverpad,143,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.648410,53.226789
 Oeverpad,201,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.650106,53.224432
 Oeverpad,203,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.650155,53.224389
 Oeverpad,205,,,9613AL,Meerstad,Slochteren,Groningen,VBO,6.650205,53.224347
@@ -88,10 +101,16 @@ Zwaneneiland,10,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.652908,53.223693
 Zwaneneiland,13,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.655678,53.224745
 Zwaneneiland,15,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.655451,53.224667
 Zwaneneiland,17,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.655148,53.224601
+Zwaneneiland,19,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.654991,53.224509
 Zwaneneiland,21,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.654697,53.224416
+Zwaneneiland,23,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.654508,53.224378
+Zwaneneiland,25,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.654220,53.224249
 Zwaneneiland,27,,,9613AP,Meerstad,Slochteren,Groningen,VBO,6.654010,53.224207
 Futeneiland,2,,,9613AR,Meerstad,Slochteren,Groningen,VBO,6.652892,53.224338
 Futeneiland,3,,,9613AR,Meerstad,Slochteren,Groningen,VBO,6.653701,53.224657
+Futeneiland,4,,,9613AR,Meerstad,Slochteren,Groningen,VBO,6.652506,53.224152
+Futeneiland,7,,,9613AR,Meerstad,Slochteren,Groningen,VBO,6.653407,53.224834
+Pleviereneiland,1,,,9613AS,Meerstad,Slochteren,Groningen,VBO,6.652840,53.225063
 Pleviereneiland,3,,,9613AS,Meerstad,Slochteren,Groningen,VBO,6.653065,53.225232
 Pleviereneiland,5,,,9613AS,Meerstad,Slochteren,Groningen,VBO,6.652361,53.225267
 Pleviereneiland,7,,,9613AS,Meerstad,Slochteren,Groningen,VBO,6.652765,53.225422
@@ -99,10 +118,18 @@ Pleviereneiland,8,,,9613AS,Meerstad,Slochteren,Groningen,VBO,6.651157,53.224675
 Talingeneiland,1,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.653654,53.226940
 Talingeneiland,2,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.653308,53.227047
 Talingeneiland,3,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.653237,53.226787
+Talingeneiland,4,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.652946,53.226964
 Talingeneiland,5,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.652975,53.226712
+Talingeneiland,6,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.652771,53.226900
 Talingeneiland,7,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.652720,53.226599
+Talingeneiland,9,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.652429,53.226578
+Talingeneiland,11,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.652086,53.226508
+Talingeneiland,12,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.651679,53.226709
+Talingeneiland,14,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.651512,53.226683
+Talingeneiland,15,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.651563,53.226338
 Talingeneiland,16,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.651238,53.226612
 Talingeneiland,17,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.651214,53.226387
+Talingeneiland,18,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.650937,53.226572
 Talingeneiland,19,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.650878,53.226363
 Talingeneiland,20,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.650680,53.226554
 Talingeneiland,21,,,9613AT,Meerstad,Slochteren,Groningen,VBO,6.650408,53.226309
@@ -111,6 +138,7 @@ Langs de erven,215,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.647508,53.222668
 Langs de erven,217,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.647742,53.222748
 Langs de erven,219,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.647969,53.222820
 Langs de erven,221,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.648335,53.222467
+Langs de erven,225,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.647892,53.222333
 Langs de erven,227,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.647684,53.222252
 Langs de erven,243,,TRAF,9613AW,Meerstad,Slochteren,Groningen,VBO,6.650905,53.220742
 Langs de erven,243,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.651187,53.220579
@@ -131,7 +159,7 @@ Langs de erven,271,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.653006,53.219363
 Langs de erven,273,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.653059,53.219327
 Langs de erven,275,,,9613AW,Meerstad,Slochteren,Groningen,VBO,6.653116,53.219288
 Langs de erven,200,,,9613AX,Meerstad,Slochteren,Groningen,VBO,6.647957,53.223273
-Langs de erven,202,,,9613AX,Meerstad,Slochteren,Groningen,VBO,6.648073,53.223122
+Langs de erven,202,,,9613AX,Meerstad,Slochteren,Groningen,VBO,6.648073,53.223123
 Langs de erven,204,,,9613AX,Meerstad,Slochteren,Groningen,VBO,6.648131,53.223075
 Langs de erven,206,,,9613AX,Meerstad,Slochteren,Groningen,VBO,6.648247,53.222919
 Langs de erven,208,,,9613AX,Meerstad,Slochteren,Groningen,VBO,6.648301,53.222873
@@ -187,7 +215,34 @@ Valeriaan,5,,,9613BB,Meerstad,Slochteren,Groningen,VBO,6.653729,53.220993
 Valeriaan,7,,,9613BB,Meerstad,Slochteren,Groningen,VBO,6.653786,53.221024
 Valeriaan,9,,,9613BB,Meerstad,Slochteren,Groningen,VBO,6.653844,53.221050
 Valeriaan,11,,,9613BB,Meerstad,Slochteren,Groningen,VBO,6.653901,53.221081
+Oude Merenweg,6,,,9613BC,Meerstad,Slochteren,Groningen,VBO,6.647384,53.226548
+Oude Merenweg,8,,,9613BC,Meerstad,Slochteren,Groningen,VBO,6.647692,53.226619
+Penningkruid,1,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647171,53.226848
+Penningkruid,3,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647131,53.226898
+Penningkruid,5,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647108,53.226953
+Penningkruid,7,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647085,53.227002
+Penningkruid,9,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647036,53.227089
+Penningkruid,11,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647020,53.227145
+Penningkruid,13,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.646983,53.227196
+Penningkruid,15,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.646886,53.227327
+Penningkruid,17,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.646854,53.227384
+Penningkruid,19,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.646746,53.227623
 Penningkruid,21,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647043,53.227764
 Penningkruid,23,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647277,53.227857
 Penningkruid,25,,,9613BD,Meerstad,Slochteren,Groningen,VBO,6.647618,53.227922
+Vederkruid,1,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645316,53.226385
+Vederkruid,3,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645289,53.226441
+Vederkruid,5,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645195,53.226634
+Vederkruid,7,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645166,53.226691
+Vederkruid,9,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645146,53.226901
+Vederkruid,11,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645117,53.226954
+Vederkruid,13,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645746,53.227077
+Vederkruid,15,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645774,53.227020
+Vederkruid,17,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645785,53.226810
+Vederkruid,19,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645812,53.226755
+Vederkruid,21,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645831,53.226545
+Vederkruid,23,,,9613BE,Meerstad,Slochteren,Groningen,VBO,6.645857,53.226488
+Smienteneiland,1,,,9613BG,Meerstad,Slochteren,Groningen,VBO,6.650081,53.227991
+Smienteneiland,11,,,9613BG,Meerstad,Slochteren,Groningen,VBO,6.651651,53.228314
+Smienteneiland,16,,,9613BG,Meerstad,Slochteren,Groningen,VBO,6.652177,53.228205
 Waterviolier,2,,,9613BH,Meerstad,Slochteren,Groningen,VBO,6.656761,53.220926
