@@ -1,6 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Hoge Naarderweg,1,A,,1217AB,Hilversum,Hilversum,Noord-Holland,VBO,5.168135,52.227722
-Hoge Naarderweg,1,,,1217AB,Hilversum,Hilversum,Noord-Holland,VBO,5.168578,52.227930
+Hoge Naarderweg,1,A,,1217AB,Hilversum,Hilversum,Noord-Holland,VBO,5.168578,52.227930
+Hoge Naarderweg,1,D,,1217AB,Hilversum,Hilversum,Noord-Holland,VBO,5.168135,52.227722
 Hoge Naarderweg,3,A,,1217AB,Hilversum,Hilversum,Noord-Holland,VBO,5.168294,52.228198
 Hoge Naarderweg,3,,,1217AB,Hilversum,Hilversum,Noord-Holland,VBO,5.168120,52.228172
 Hoge Naarderweg,5,,,1217AB,Hilversum,Hilversum,Noord-Holland,VBO,5.168094,52.228399
@@ -35,7 +35,9 @@ Hoge Naarderweg,43,,,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168135,52.22
 Hoge Naarderweg,45,,,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168136,52.228934
 Hoge Naarderweg,47,,,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168082,52.228986
 Hoge Naarderweg,49,,,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168081,52.229022
-Hoge Naarderweg,51,,,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168074,52.229058
+Hoge Naarderweg,51,,G1,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168160,52.229112
+Hoge Naarderweg,51,,,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168141,52.229063
+Hoge Naarderweg,53,,,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168100,52.229060
 Hoge Naarderweg,59,,1,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168079,52.229349
 Hoge Naarderweg,59,,2,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168079,52.229349
 Hoge Naarderweg,59,,3,1217AC,Hilversum,Hilversum,Noord-Holland,VBO,5.168079,52.229349
@@ -173,6 +175,7 @@ Witte Kruislaan,4,,,1217AN,Hilversum,Hilversum,Noord-Holland,VBO,5.162457,52.239
 Witte Kruislaan,6,A,,1217AP,Hilversum,Hilversum,Noord-Holland,VBO,5.165641,52.239831
 Witte Kruislaan,6,B,,1217AP,Hilversum,Hilversum,Noord-Holland,VBO,5.165868,52.240006
 Witte Kruislaan,6,C,,1217AP,Hilversum,Hilversum,Noord-Holland,VBO,5.166774,52.239963
+Witte Kruislaan,6,D,,1217AP,Hilversum,Hilversum,Noord-Holland,VBO,5.166018,52.240207
 Witte Kruislaan,6,,,1217AP,Hilversum,Hilversum,Noord-Holland,VBO,5.163840,52.239121
 Witte Kruislaan,8,A,,1217AP,Hilversum,Hilversum,Noord-Holland,VBO,5.166446,52.240634
 Witte Kruislaan,8,B,,1217AP,Hilversum,Hilversum,Noord-Holland,VBO,5.167153,52.240327
@@ -192,15 +195,26 @@ Van Hengellaan,19,,,1217AR,Hilversum,Hilversum,Noord-Holland,VBO,5.164703,52.239
 Van Hengellaan,21,,,1217AR,Hilversum,Hilversum,Noord-Holland,VBO,5.164602,52.239299
 Van Hengellaan,25,,,1217AR,Hilversum,Hilversum,Noord-Holland,VBO,5.164082,52.239147
 Van Hengellaan,2,,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164080,52.237417
+Van Hengellaan,6,A,1,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164704,52.237958
+Van Hengellaan,6,A,2,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164659,52.237907
+Van Hengellaan,6,A,3,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164727,52.237889
+Van Hengellaan,6,A,4,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164822,52.237862
+Van Hengellaan,6,A,5,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164855,52.237911
 Van Hengellaan,6,A,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164775,52.237799
+Van Hengellaan,6,B,1,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164527,52.237740
+Van Hengellaan,6,B,2,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164465,52.237662
+Van Hengellaan,6,B,3,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164566,52.237628
+Van Hengellaan,6,B,4,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164634,52.237704
 Van Hengellaan,6,B,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164544,52.237688
 Van Hengellaan,6,C,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.165354,52.237139
 Van Hengellaan,6,D,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.165450,52.237522
 Van Hengellaan,6,E,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.165464,52.237962
 Van Hengellaan,6,,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.164898,52.238146
+Van Hengellaan,8,,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.165255,52.238373
 Van Hengellaan,10,,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.165312,52.238582
 Van Hengellaan,14,,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.165336,52.238939
 Van Hengellaan,16,,,1217AS,Hilversum,Hilversum,Noord-Holland,VBO,5.165394,52.239172
+Doodweg,9,C,,1217AT,Hilversum,Hilversum,Noord-Holland,VBO,5.153842,52.240269
 Doodweg,9,,,1217AT,Hilversum,Hilversum,Noord-Holland,VBO,5.147252,52.239650
 Doodweg,11,,,1217AT,Hilversum,Hilversum,Noord-Holland,VBO,5.154403,52.240353
 Kroonlaan,1,,,1217AV,Hilversum,Hilversum,Noord-Holland,VBO,5.162913,52.239670
@@ -498,7 +512,7 @@ Palestrinalaan,1,,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.159006,52.2364
 Palestrinalaan,5,A,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.159880,52.237604
 Palestrinalaan,5,B,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.159965,52.237753
 Palestrinalaan,5,C,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.160024,52.237657
-Palestrinalaan,5,D,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.160018,52.237589
+Palestrinalaan,5,D,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.160018,52.237590
 Palestrinalaan,5,E,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.159761,52.237621
 Palestrinalaan,5,F,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.159959,52.237664
 Palestrinalaan,5,G,,1217CD,Hilversum,Hilversum,Noord-Holland,VBO,5.159963,52.237597
@@ -600,6 +614,7 @@ Mozartlaan,27,B,,1217CM,Hilversum,Hilversum,Noord-Holland,VBO,5.154672,52.237253
 Mozartlaan,27,C,,1217CM,Hilversum,Hilversum,Noord-Holland,VBO,5.154672,52.237253
 Mozartlaan,27,D,,1217CM,Hilversum,Hilversum,Noord-Holland,VBO,5.154672,52.237253
 Mozartlaan,27,E,,1217CM,Hilversum,Hilversum,Noord-Holland,VBO,5.154672,52.237253
+Mozartlaan,27,,,1217CM,Hilversum,Hilversum,Noord-Holland,VBO,5.154721,52.237208
 Mozartlaan,29,,,1217CM,Hilversum,Hilversum,Noord-Holland,VBO,5.154342,52.237659
 Mozartlaan,31,,,1217CM,Hilversum,Hilversum,Noord-Holland,VBO,5.154119,52.238320
 Mozartlaan,33,A,,1217CM,Hilversum,Hilversum,Noord-Holland,VBO,5.153713,52.238751
@@ -675,6 +690,7 @@ Catharina van Renneslaan,10,,,1217CX,Hilversum,Hilversum,Noord-Holland,VBO,5.154
 Catharina van Renneslaan,12,,,1217CX,Hilversum,Hilversum,Noord-Holland,VBO,5.153318,52.236529
 Catharina van Renneslaan,20,,,1217CX,Hilversum,Hilversum,Noord-Holland,VBO,5.153486,52.236798
 Catharina van Renneslaan,22,,,1217CX,Hilversum,Hilversum,Noord-Holland,VBO,5.152682,52.236523
+Catharina van Renneslaan,24,,,1217CX,Hilversum,Hilversum,Noord-Holland,VBO,5.152924,52.237112
 Hoflaan,1,,,1217CZ,Hilversum,Hilversum,Noord-Holland,VBO,5.150941,52.235356
 Hoflaan,5,,,1217CZ,Hilversum,Hilversum,Noord-Holland,VBO,5.151167,52.235752
 Hoflaan,7,,,1217CZ,Hilversum,Hilversum,Noord-Holland,VBO,5.150995,52.236024
@@ -688,6 +704,7 @@ Spanderslaan,1,,,1217DB,Hilversum,Hilversum,Noord-Holland,VBO,5.160957,52.248388
 Akkerweg,1,,,1217DC,Hilversum,Hilversum,Noord-Holland,VBO,5.165237,52.236193
 Akkerweg,3,,,1217DC,Hilversum,Hilversum,Noord-Holland,VBO,5.165519,52.236302
 Binnenweg,2,,,1217DE,Hilversum,Hilversum,Noord-Holland,VBO,5.157480,52.242823
+Hoge Naarderweg,225,,,1217DG,Hilversum,Hilversum,Noord-Holland,VBO,5.165523,52.238324
 Hoge Naarderweg,229,,,1217DG,Hilversum,Hilversum,Noord-Holland,VBO,5.165912,52.238844
 Hoge Naarderweg,231,,,1217DG,Hilversum,Hilversum,Noord-Holland,VBO,5.165992,52.239013
 Hoge Naarderweg,237,,,1217DG,Hilversum,Hilversum,Noord-Holland,VBO,5.166421,52.239777
@@ -830,7 +847,7 @@ Vivaldipark,56,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.163649,52.240170
 Vivaldipark,58,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.164221,52.240237
 Vivaldipark,60,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.164567,52.240360
 Vivaldipark,62,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.164927,52.240516
-Vivaldipark,64,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.165072,52.240746
+Vivaldipark,64,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.165071,52.240746
 Vivaldipark,66,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.165215,52.241009
 Vivaldipark,68,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.165220,52.241091
 Vivaldipark,70,,,1217DW,Hilversum,Hilversum,Noord-Holland,VBO,5.165184,52.241340
@@ -1229,7 +1246,6 @@ Sumatralaan,35,,,1217GP,Hilversum,Hilversum,Noord-Holland,VBO,5.174229,52.233213
 Sumatralaan,37,,,1217GP,Hilversum,Hilversum,Noord-Holland,VBO,5.174212,52.233328
 Sumatralaan,39,,,1217GP,Hilversum,Hilversum,Noord-Holland,VBO,5.174107,52.233638
 Sumatralaan,41,,,1217GP,Hilversum,Hilversum,Noord-Holland,VBO,5.173952,52.233849
-Sumatralaan,45,,,1217GP,Hilversum,Hilversum,Noord-Holland,VBO,5.167309,52.240984
 Sumatralaan,2,A,,1217GR,Hilversum,Hilversum,Noord-Holland,VBO,5.174938,52.230542
 Sumatralaan,2,B,,1217GR,Hilversum,Hilversum,Noord-Holland,VBO,5.174938,52.230542
 Sumatralaan,2,C,,1217GR,Hilversum,Hilversum,Noord-Holland,VBO,5.174938,52.230542
@@ -1483,6 +1499,7 @@ Godelindeweg,11,,,1217HP,Hilversum,Hilversum,Noord-Holland,VBO,5.165543,52.23422
 Godelindeweg,15,,,1217HP,Hilversum,Hilversum,Noord-Holland,VBO,5.166793,52.234047
 Godelindeweg,17,,,1217HP,Hilversum,Hilversum,Noord-Holland,VBO,5.167850,52.234074
 Godelindeweg,2,A,,1217HR,Hilversum,Hilversum,Noord-Holland,VBO,5.164406,52.233906
+Godelindeweg,2,B,,1217HR,Hilversum,Hilversum,Noord-Holland,VBO,5.164428,52.233841
 Godelindeweg,2,,,1217HR,Hilversum,Hilversum,Noord-Holland,VBO,5.164154,52.233967
 Godelindeweg,4,,,1217HR,Hilversum,Hilversum,Noord-Holland,VBO,5.164745,52.233851
 Godelindeweg,6,,,1217HR,Hilversum,Hilversum,Noord-Holland,VBO,5.165152,52.233803
@@ -1530,7 +1547,14 @@ Dalweg,11,,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.168975,52.231256
 Dalweg,15,,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169760,52.231592
 Dalweg,17,,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169820,52.231631
 Dalweg,19,,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.170054,52.231721
+Dalweg,21,A,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169658,52.231849
+Dalweg,21,B,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169543,52.231799
+Dalweg,21,C,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169330,52.231778
+Dalweg,21,D,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169241,52.231847
 Dalweg,21,,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.170135,52.231764
+Dalweg,23,A,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169496,52.232169
+Dalweg,23,B,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169619,52.232172
+Dalweg,23,C,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169704,52.232104
 Dalweg,23,D,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169557,52.232348
 Dalweg,23,E,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169617,52.232438
 Dalweg,23,F,,1217HX,Hilversum,Hilversum,Noord-Holland,VBO,5.169892,52.232485
@@ -1579,7 +1603,8 @@ Oude Enghweg,20,,,1217JC,Hilversum,Hilversum,Noord-Holland,VBO,5.170993,52.22822
 Oude Enghweg,22,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171013,52.228352
 Oude Enghweg,24,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171146,52.228530
 Oude Enghweg,26,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171865,52.228547
-Oude Enghweg,28,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171331,52.228705
+Oude Enghweg,28,A,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171400,52.228686
+Oude Enghweg,28,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171276,52.228713
 Oude Enghweg,30,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171564,52.228874
 Oude Enghweg,32,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171705,52.228999
 Oude Enghweg,34,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171741,52.229142
@@ -1590,7 +1615,7 @@ Oude Enghweg,42,,,1217JD,Hilversum,Hilversum,Noord-Holland,VBO,5.171927,52.22970
 Dudokpark,1,,,1217JE,Hilversum,Hilversum,Noord-Holland,VBO,5.169205,52.229402
 Dudokpark,3,,,1217JE,Hilversum,Hilversum,Noord-Holland,VBO,5.170373,52.229525
 Dudokpark,5,,,1217JE,Hilversum,Hilversum,Noord-Holland,VBO,5.170389,52.229069
-Dudokpark,10,,,1217JE,Hilversum,Hilversum,Noord-Holland,VBO,5.170242,52.228359
+Dudokpark,10,,,1217JE,Hilversum,Hilversum,Noord-Holland,VBO,5.170357,52.228413
 Jacobus Pennweg,1,,,1217JG,Hilversum,Hilversum,Noord-Holland,VBO,5.161986,52.232997
 Jacobus Pennweg,3,,,1217JG,Hilversum,Hilversum,Noord-Holland,VBO,5.162169,52.233222
 Jacobus Pennweg,5,,,1217JG,Hilversum,Hilversum,Noord-Holland,VBO,5.162472,52.233382
@@ -1603,6 +1628,7 @@ Jacobus Pennweg,15,,,1217JG,Hilversum,Hilversum,Noord-Holland,VBO,5.163205,52.23
 Jacobus Pennweg,19,,,1217JG,Hilversum,Hilversum,Noord-Holland,VBO,5.162862,52.235162
 Jacobus Pennweg,21,,,1217JG,Hilversum,Hilversum,Noord-Holland,VBO,5.163076,52.235492
 Jacobus Pennweg,23,,,1217JG,Hilversum,Hilversum,Noord-Holland,VBO,5.163102,52.235738
+Jacobus Pennweg,25,,,1217JG,Hilversum,Hilversum,Noord-Holland,VBO,5.162839,52.235798
 Jacobus Pennweg,4,,,1217JH,Hilversum,Hilversum,Noord-Holland,VBO,5.162896,52.233051
 Jacobus Pennweg,14,,,1217JH,Hilversum,Hilversum,Noord-Holland,VBO,5.163769,52.233805
 Jacobus Pennweg,16,,,1217JH,Hilversum,Hilversum,Noord-Holland,VBO,5.163911,52.234137
@@ -1826,6 +1852,7 @@ Lindenheuvel,8,,,1217JW,Hilversum,Hilversum,Noord-Holland,VBO,5.162934,52.229070
 Lindenheuvel,10,,,1217JW,Hilversum,Hilversum,Noord-Holland,VBO,5.162569,52.229073
 Lindenheuvel,12,A,,1217JX,Hilversum,Hilversum,Noord-Holland,VBO,5.161687,52.229298
 Lindenheuvel,12,,,1217JX,Hilversum,Hilversum,Noord-Holland,VBO,5.161761,52.229364
+Lindenheuvel,14,A,,1217JX,Hilversum,Hilversum,Noord-Holland,VBO,5.161469,52.229331
 Lindenheuvel,14,,,1217JX,Hilversum,Hilversum,Noord-Holland,VBO,5.161604,52.229089
 Lindenheuvel,16,,,1217JX,Hilversum,Hilversum,Noord-Holland,VBO,5.161410,52.229085
 Lindenheuvel,18,,,1217JX,Hilversum,Hilversum,Noord-Holland,VBO,5.161123,52.229018
@@ -1833,7 +1860,7 @@ Melkpad,3,,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175703,52.227056
 Melkpad,5,,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175624,52.227037
 Melkpad,7,,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175556,52.227061
 Melkpad,9,A,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175405,52.227060
-Melkpad,9,,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175477,52.227023
+Melkpad,9,,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175475,52.227041
 Melkpad,11,A,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175138,52.226804
 Melkpad,11,,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175272,52.226988
 Melkpad,13,,,1217JZ,Hilversum,Hilversum,Noord-Holland,VBO,5.175196,52.227012
@@ -1847,6 +1874,7 @@ Melkpad,25,A,2,1217KA,Hilversum,Hilversum,Noord-Holland,VBO,5.174007,52.227133
 Melkpad,25,A,3,1217KA,Hilversum,Hilversum,Noord-Holland,VBO,5.174007,52.227133
 Melkpad,25,A,4,1217KA,Hilversum,Hilversum,Noord-Holland,VBO,5.174007,52.227133
 Melkpad,25,A,5,1217KA,Hilversum,Hilversum,Noord-Holland,VBO,5.174021,52.227188
+Melkpad,25,A,6,1217KA,Hilversum,Hilversum,Noord-Holland,VBO,5.174045,52.227184
 Melkpad,25,A,,1217KA,Hilversum,Hilversum,Noord-Holland,VBO,5.174007,52.227133
 Melkpad,25,,1,1217KA,Hilversum,Hilversum,Noord-Holland,VBO,5.174151,52.227118
 Melkpad,25,,2,1217KA,Hilversum,Hilversum,Noord-Holland,VBO,5.174151,52.227118
@@ -1984,7 +2012,8 @@ Koninginneweg,35,,8,1217KS,Hilversum,Hilversum,Noord-Holland,VBO,5.172130,52.230
 Koninginneweg,35,,9,1217KS,Hilversum,Hilversum,Noord-Holland,VBO,5.172155,52.230276
 Koninginneweg,37,,,1217KS,Hilversum,Hilversum,Noord-Holland,VBO,5.172468,52.230458
 Koninginneweg,39,,,1217KS,Hilversum,Hilversum,Noord-Holland,VBO,5.172789,52.230450
-Koninginneweg,41,,,1217KT,Hilversum,Hilversum,Noord-Holland,VBO,5.173116,52.230525
+Koninginneweg,41,A,,1217KT,Hilversum,Hilversum,Noord-Holland,VBO,5.173144,52.230540
+Koninginneweg,41,,,1217KT,Hilversum,Hilversum,Noord-Holland,VBO,5.173112,52.230493
 Koninginneweg,43,,,1217KV,Hilversum,Hilversum,Noord-Holland,VBO,5.173715,52.230512
 Koninginneweg,45,,,1217KV,Hilversum,Hilversum,Noord-Holland,VBO,5.173949,52.230546
 Koninginneweg,47,,,1217KV,Hilversum,Hilversum,Noord-Holland,VBO,5.174053,52.230548
@@ -1994,7 +2023,8 @@ Koninginneweg,53,,,1217KV,Hilversum,Hilversum,Noord-Holland,VBO,5.175740,52.2305
 Koninginneweg,55,,,1217KV,Hilversum,Hilversum,Noord-Holland,VBO,5.175933,52.230525
 Koninginneweg,2,A,,1217KW,Hilversum,Hilversum,Noord-Holland,VBO,5.166344,52.229133
 Koninginneweg,2,B,,1217KW,Hilversum,Hilversum,Noord-Holland,VBO,5.166502,52.229162
-Koninginneweg,2,,,1217KW,Hilversum,Hilversum,Noord-Holland,VBO,5.165632,52.229111
+Koninginneweg,2,,1,1217KW,Hilversum,Hilversum,Noord-Holland,VBO,5.165588,52.229101
+Koninginneweg,2,,,1217KW,Hilversum,Hilversum,Noord-Holland,VBO,5.165593,52.229134
 Koninginneweg,4,A,,1217KX,Hilversum,Hilversum,Noord-Holland,VBO,5.166805,52.229132
 Koninginneweg,4,,,1217KX,Hilversum,Hilversum,Noord-Holland,VBO,5.166805,52.229132
 Koninginneweg,6,A,,1217KX,Hilversum,Hilversum,Noord-Holland,VBO,5.167234,52.229182
@@ -2002,6 +2032,7 @@ Koninginneweg,6,,,1217KX,Hilversum,Hilversum,Noord-Holland,VBO,5.167156,52.22917
 Koninginneweg,8,,,1217KX,Hilversum,Hilversum,Noord-Holland,VBO,5.167613,52.229286
 Koninginneweg,10,,,1217KX,Hilversum,Hilversum,Noord-Holland,VBO,5.170851,52.229799
 Koninginneweg,12,,,1217KX,Hilversum,Hilversum,Noord-Holland,VBO,5.171248,52.229880
+Koninginneweg,14,,,1217KX,Hilversum,Hilversum,Noord-Holland,VBO,5.171563,52.229864
 Koninginneweg,16,,,1217KZ,Hilversum,Hilversum,Noord-Holland,VBO,5.171970,52.229842
 Koninginneweg,18,,,1217KZ,Hilversum,Hilversum,Noord-Holland,VBO,5.172260,52.229848
 Koninginneweg,20,A,,1217KZ,Hilversum,Hilversum,Noord-Holland,VBO,5.172509,52.229875
@@ -2040,13 +2071,16 @@ Burgemeester Lambooylaan,8,,,1217LD,Hilversum,Hilversum,Noord-Holland,VBO,5.1726
 Burgemeester Lambooylaan,10,,,1217LD,Hilversum,Hilversum,Noord-Holland,VBO,5.172683,52.228628
 Burgemeester Lambooylaan,12,,,1217LD,Hilversum,Hilversum,Noord-Holland,VBO,5.172678,52.228685
 Burgemeester Lambooylaan,14,,,1217LD,Hilversum,Hilversum,Noord-Holland,VBO,5.172689,52.228823
-Burgemeester Lambooylaan,18,,,1217LD,Hilversum,Hilversum,Noord-Holland,VBO,5.172765,52.228988
+Burgemeester Lambooylaan,18,A,,1217LD,Hilversum,Hilversum,Noord-Holland,VBO,5.172824,52.228964
+Burgemeester Lambooylaan,18,,,1217LD,Hilversum,Hilversum,Noord-Holland,VBO,5.172796,52.228995
 Burgemeester Lambooylaan,20,,,1217LE,Hilversum,Hilversum,Noord-Holland,VBO,5.173454,52.229200
 Burgemeester Lambooylaan,22,,,1217LE,Hilversum,Hilversum,Noord-Holland,VBO,5.173683,52.229295
 Burgemeester Lambooylaan,24,,,1217LE,Hilversum,Hilversum,Noord-Holland,VBO,5.174348,52.229711
 Burgemeester Lambooylaan,26,,,1217LE,Hilversum,Hilversum,Noord-Holland,VBO,5.174463,52.229816
 Burgemeester Lambooylaan,28,,,1217LE,Hilversum,Hilversum,Noord-Holland,VBO,5.174498,52.229870
 Burgemeester Lambooylaan,30,,,1217LE,Hilversum,Hilversum,Noord-Holland,VBO,5.174526,52.229915
+Tesselschadelaan,9,,,1217LG,Hilversum,Hilversum,Noord-Holland,VBO,5.175744,52.229530
+Tesselschadelaan,11,,,1217LG,Hilversum,Hilversum,Noord-Holland,VBO,5.175641,52.229531
 Tesselschadelaan,13,,,1217LG,Hilversum,Hilversum,Noord-Holland,VBO,5.175111,52.229454
 Tesselschadelaan,15,A,,1217LG,Hilversum,Hilversum,Noord-Holland,VBO,5.174524,52.229383
 Tesselschadelaan,15,B,,1217LG,Hilversum,Hilversum,Noord-Holland,VBO,5.174523,52.229214
@@ -2177,7 +2211,8 @@ Oranjelaan,10,,,1217LW,Hilversum,Hilversum,Noord-Holland,VBO,5.161461,52.228188
 Oranjelaan,12,,,1217LW,Hilversum,Hilversum,Noord-Holland,VBO,5.161173,52.228143
 Burgemeester Schooklaan,3,,,1217LX,Hilversum,Hilversum,Noord-Holland,VBO,5.162125,52.226543
 Burgemeester Schooklaan,5,,,1217LX,Hilversum,Hilversum,Noord-Holland,VBO,5.162106,52.226688
-Burgemeester Schooklaan,7,,,1217LX,Hilversum,Hilversum,Noord-Holland,VBO,5.162202,52.226844
+Burgemeester Schooklaan,7,A,,1217LX,Hilversum,Hilversum,Noord-Holland,VBO,5.162168,52.226845
+Burgemeester Schooklaan,7,,,1217LX,Hilversum,Hilversum,Noord-Holland,VBO,5.162232,52.226838
 Burgemeester Schooklaan,9,,,1217LX,Hilversum,Hilversum,Noord-Holland,VBO,5.162125,52.226978
 Burgemeester Schooklaan,11,,,1217LX,Hilversum,Hilversum,Noord-Holland,VBO,5.162077,52.227471
 Burgemeester Schooklaan,13,,,1217LX,Hilversum,Hilversum,Noord-Holland,VBO,5.162117,52.227682
@@ -2213,6 +2248,9 @@ Albertus Perksteeg,15,F,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170685,5
 Albertus Perksteeg,17,A,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170623,52.225737
 Albertus Perksteeg,17,B,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170623,52.225737
 Albertus Perksteeg,17,C,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170623,52.225737
+Albertus Perksteeg,19,A,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170871,52.225782
+Albertus Perksteeg,19,B,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170828,52.225765
+Albertus Perksteeg,19,C,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170786,52.225743
 Albertus Perksteeg,21,C,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170796,52.225695
 Albertus Perksteeg,23,A,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170951,52.225680
 Albertus Perksteeg,23,B,,1217MA,Hilversum,Hilversum,Noord-Holland,VBO,5.170919,52.225669
@@ -2446,7 +2484,12 @@ Albertus Perkstraat,10,,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.168208,5
 Albertus Perkstraat,12,A,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.167203,52.226231
 Albertus Perkstraat,12,B,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.167114,52.226232
 Albertus Perkstraat,12,,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.167527,52.226380
+Albertus Perkstraat,14,,k01,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166950,52.226557
+Albertus Perkstraat,14,,k02,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166950,52.226557
+Albertus Perkstraat,14,,k03,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166950,52.226557
+Albertus Perkstraat,14,,k04,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166950,52.226557
 Albertus Perkstraat,14,,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166941,52.226511
+Albertus Perkstraat,14,,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166950,52.226557
 Albertus Perkstraat,16,A,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166707,52.226239
 Albertus Perkstraat,16,B,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166923,52.226241
 Albertus Perkstraat,16,C,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166695,52.226281
@@ -2455,6 +2498,22 @@ Albertus Perkstraat,16,E,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166695,
 Albertus Perkstraat,16,F,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166912,52.226325
 Albertus Perkstraat,16,G,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166693,52.226356
 Albertus Perkstraat,16,H,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166906,52.226351
+Albertus Perkstraat,16,,k01,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k02,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k03,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k04,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k05,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k06,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k07,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k08,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k09,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k10,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k11,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k12,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k13,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k14,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,k15,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
+Albertus Perkstraat,16,,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166817,52.226287
 Albertus Perkstraat,18,,,1217NS,Hilversum,Hilversum,Noord-Holland,VBO,5.166478,52.226285
 Albertus Perkstraat,20,,,1217NT,Hilversum,Hilversum,Noord-Holland,VBO,5.165600,52.226353
 Albertus Perkstraat,22,,,1217NT,Hilversum,Hilversum,Noord-Holland,VBO,5.165600,52.226353
@@ -2498,7 +2557,7 @@ Burgemeester Gülcherlaan,9,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.164
 Burgemeester Gülcherlaan,11,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.164522,52.225339
 Burgemeester Gülcherlaan,13,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.164335,52.225273
 Burgemeester Gülcherlaan,15,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.164124,52.225334
-Burgemeester Gülcherlaan,17,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.163951,52.225266
+Burgemeester Gülcherlaan,17,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.163951,52.225267
 Burgemeester Gülcherlaan,19,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.163554,52.225326
 Burgemeester Gülcherlaan,21,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.163446,52.225322
 Burgemeester Gülcherlaan,23,,,1217NX,Hilversum,Hilversum,Noord-Holland,VBO,5.163166,52.225321
@@ -2619,13 +2678,14 @@ Van der Lindenlaan,121,,,1217PJ,Hilversum,Hilversum,Noord-Holland,VBO,5.160154,5
 Van der Lindenlaan,125,A,,1217PJ,Hilversum,Hilversum,Noord-Holland,VBO,5.158752,52.229972
 Van der Lindenlaan,125,,,1217PJ,Hilversum,Hilversum,Noord-Holland,VBO,5.159589,52.229443
 Van der Lindenlaan,135,,,1217PJ,Hilversum,Hilversum,Noord-Holland,VBO,5.158142,52.230216
+Van der Lindenlaan,2,A,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.164253,52.228444
 Van der Lindenlaan,2,B,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.164119,52.228447
 Van der Lindenlaan,2,C,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.164380,52.228604
 Van der Lindenlaan,2,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.164656,52.228436
 Van der Lindenlaan,4,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.163846,52.228451
 Van der Lindenlaan,6,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.163731,52.228456
 Van der Lindenlaan,8,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.163448,52.228464
-Van der Lindenlaan,10,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.163324,52.228470
+Van der Lindenlaan,10,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.163323,52.228470
 Van der Lindenlaan,12,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.163119,52.228529
 Van der Lindenlaan,14,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.162956,52.228534
 Van der Lindenlaan,16,,,1217PK,Hilversum,Hilversum,Noord-Holland,VBO,5.162739,52.228530
@@ -2860,11 +2920,15 @@ Lambertus Hortensiuslaan,26,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159
 Lambertus Hortensiuslaan,28,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159479,52.223217
 Lambertus Hortensiuslaan,30,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159479,52.223217
 Lambertus Hortensiuslaan,32,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159479,52.223217
+Lambertus Hortensiuslaan,36,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159334,52.223476
 Lambertus Hortensiuslaan,38,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159311,52.223690
 Lambertus Hortensiuslaan,40,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159323,52.223757
 Lambertus Hortensiuslaan,42,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159326,52.224004
 Lambertus Hortensiuslaan,44,,,1217RE,Hilversum,Hilversum,Noord-Holland,VBO,5.159249,52.224174
 Burgemeester Andriessenstraat,2,A,,1217RG,Hilversum,Hilversum,Noord-Holland,VBO,5.170364,52.225545
+Burgemeester Andriessenstraat,2,B,,1217RG,Hilversum,Hilversum,Noord-Holland,VBO,5.170192,52.225110
+Burgemeester Andriessenstraat,2,C,,1217RG,Hilversum,Hilversum,Noord-Holland,VBO,5.170179,52.225063
+Burgemeester Andriessenstraat,2,D,,1217RG,Hilversum,Hilversum,Noord-Holland,VBO,5.170170,52.225011
 Burgemeester Andriessenstraat,2,,,1217RG,Hilversum,Hilversum,Noord-Holland,VBO,5.170127,52.225321
 Burgemeester Andriessenstraat,4,,,1217RG,Hilversum,Hilversum,Noord-Holland,VBO,5.170127,52.225321
 Burgemeester Andriessenstraat,6,,,1217RG,Hilversum,Hilversum,Noord-Holland,VBO,5.170127,52.225321
@@ -3120,10 +3184,10 @@ Bergweg,1,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.165158,52.224511
 Bergweg,3,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.165158,52.224511
 Bergweg,5,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.165158,52.224511
 Bergweg,7,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.165158,52.224511
-Bergweg,9,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164937,52.224500
-Bergweg,11,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164937,52.224500
-Bergweg,13,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164937,52.224500
-Bergweg,15,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164937,52.224500
+Bergweg,9,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164937,52.224501
+Bergweg,11,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164937,52.224501
+Bergweg,13,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164937,52.224501
+Bergweg,15,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164937,52.224501
 Bergweg,17,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164714,52.224492
 Bergweg,19,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164714,52.224492
 Bergweg,21,,,1217RZ,Hilversum,Hilversum,Noord-Holland,VBO,5.164714,52.224492
@@ -3167,6 +3231,13 @@ Bergweg,42,,,1217SC,Hilversum,Hilversum,Noord-Holland,VBO,5.158754,52.225178
 Bergweg,46,,,1217SC,Hilversum,Hilversum,Noord-Holland,VBO,5.158754,52.225178
 Bergweg,50,,,1217SC,Hilversum,Hilversum,Noord-Holland,VBO,5.158754,52.225178
 Bergweg,70,,,1217SC,Hilversum,Hilversum,Noord-Holland,VBO,5.157749,52.225354
+Bergweg,16,A,,1217SE,Hilversum,Hilversum,Noord-Holland,VBO,5.162931,52.224811
+Bergweg,16,B,,1217SE,Hilversum,Hilversum,Noord-Holland,VBO,5.162667,52.224759
+Bergweg,16,C,,1217SE,Hilversum,Hilversum,Noord-Holland,VBO,5.162667,52.224759
+Bergweg,16,D,,1217SE,Hilversum,Hilversum,Noord-Holland,VBO,5.162667,52.224759
+Bergweg,16,E,,1217SE,Hilversum,Hilversum,Noord-Holland,VBO,5.162667,52.224759
+Bergweg,16,F,,1217SE,Hilversum,Hilversum,Noord-Holland,VBO,5.162667,52.224759
+Bergweg,16,G,,1217SE,Hilversum,Hilversum,Noord-Holland,VBO,5.162427,52.224794
 Bergweg,16,,,1217SE,Hilversum,Hilversum,Noord-Holland,VBO,5.162735,52.224817
 Paulus van Loolaan,1,,,1217SG,Hilversum,Hilversum,Noord-Holland,VBO,5.162422,52.223071
 Paulus van Loolaan,2,,,1217SG,Hilversum,Hilversum,Noord-Holland,VBO,5.162970,52.223251
@@ -3197,10 +3268,7 @@ Badhuislaan,19,,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163740,52.221284
 Badhuislaan,21,,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163683,52.221219
 Badhuislaan,23,,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163642,52.221182
 Badhuislaan,25,,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163526,52.221074
-Badhuislaan,27,A,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163312,52.220682
-Badhuislaan,27,B,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163312,52.220682
-Badhuislaan,27,C,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163312,52.220682
-Badhuislaan,27,,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163312,52.220682
+Badhuislaan,27,,,1217SJ,Hilversum,Hilversum,Noord-Holland,VBO,5.163312,52.220677
 Badhuislaan,2,,,1217SK,Hilversum,Hilversum,Noord-Holland,VBO,5.164005,52.222253
 Badhuislaan,4,,,1217SK,Hilversum,Hilversum,Noord-Holland,VBO,5.163947,52.222134
 Badhuislaan,6,,,1217SK,Hilversum,Hilversum,Noord-Holland,VBO,5.163917,52.222074
@@ -3276,6 +3344,11 @@ Vaartweg,97,,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.161547,52.222569
 Vaartweg,103,,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.161366,52.222524
 Vaartweg,105,,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.161050,52.222564
 Vaartweg,107,,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.160945,52.222598
+Vaartweg,109,A,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.160712,52.222639
+Vaartweg,109,B,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.160717,52.222607
+Vaartweg,109,C,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.160666,52.222576
+Vaartweg,109,D,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.160603,52.222432
+Vaartweg,109,E,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.160648,52.222393
 Vaartweg,111,,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.161022,52.222063
 Vaartweg,113,,,1217SM,Hilversum,Hilversum,Noord-Holland,VBO,5.160281,52.222509
 Vaartweg,115,,,1217SN,Hilversum,Hilversum,Noord-Holland,VBO,5.159364,52.222729
@@ -3475,8 +3548,10 @@ Vaartweg,44,,403,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.166091,52.222880
 Vaartweg,46,,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.165482,52.222740
 Vaartweg,48,,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.165205,52.222740
 Vaartweg,50,B,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.164608,52.222779
+Vaartweg,50,C,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.164761,52.222991
 Vaartweg,50,,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.164905,52.222750
 Vaartweg,52,,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.164389,52.223873
+Vaartweg,54,B,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.163646,52.223316
 Vaartweg,54,,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.163949,52.223009
 Vaartweg,66,,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.163337,52.223079
 Vaartweg,68,,,1217SV,Hilversum,Hilversum,Noord-Holland,VBO,5.162876,52.223031
@@ -3597,7 +3672,7 @@ Couperusweg,15,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.159978,52.221561
 Couperusweg,16,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.159708,52.221592
 Couperusweg,17,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.159606,52.221592
 Couperusweg,18,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.159511,52.221608
-Couperusweg,19,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.158624,52.221821
+Couperusweg,19,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.158623,52.221821
 Couperusweg,20,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.158541,52.221859
 Couperusweg,21,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.158361,52.221948
 Couperusweg,22,,,1217TB,Hilversum,Hilversum,Noord-Holland,VBO,5.158297,52.221998
@@ -3781,6 +3856,7 @@ André van Duinboulevard,2,,,1217WH,Hilversum,Hilversum,Noord-Holland,VBO,5.1725
 André van Duinboulevard,4,,,1217WH,Hilversum,Hilversum,Noord-Holland,VBO,5.172409,52.236903
 André van Duinboulevard,6,,,1217WH,Hilversum,Hilversum,Noord-Holland,VBO,5.172206,52.237277
 André van Duinboulevard,7,,,1217WH,Hilversum,Hilversum,Noord-Holland,VBO,5.171586,52.237604
+Joop van den Endeplein,1,,A,1217WJ,Hilversum,Hilversum,Noord-Holland,VBO,5.171400,52.237958
 Joop van den Endeplein,1,,,1217WJ,Hilversum,Hilversum,Noord-Holland,VBO,5.171165,52.237734
 Joop van den Endeplein,3,,,1217WJ,Hilversum,Hilversum,Noord-Holland,VBO,5.171080,52.238264
 Joop van den Endeplein,5,,,1217WJ,Hilversum,Hilversum,Noord-Holland,VBO,5.171405,52.238317
@@ -3793,6 +3869,7 @@ Joop van den Endeplein,17,,,1217WJ,Hilversum,Hilversum,Noord-Holland,VBO,5.17192
 Johnny Kraaijkampplantsoen,1,,,1217WK,Hilversum,Hilversum,Noord-Holland,VBO,5.170842,52.237942
 Johnny Kraaijkampplantsoen,3,,,1217WK,Hilversum,Hilversum,Noord-Holland,VBO,5.170860,52.237874
 Willem Ruisweg,2,,,1217WL,Hilversum,Hilversum,Noord-Holland,VBO,5.171499,52.240416
+Willem Ruisweg,4,,,1217WL,Hilversum,Hilversum,Noord-Holland,VBO,5.171633,52.240055
 Willem Ruisweg,6,,,1217WL,Hilversum,Hilversum,Noord-Holland,VBO,5.172272,52.239335
 Willem Ruisweg,12,,,1217WL,Hilversum,Hilversum,Noord-Holland,VBO,5.172799,52.238386
 Willem Ruisweg,16,,,1217WL,Hilversum,Hilversum,Noord-Holland,VBO,5.172839,52.238086

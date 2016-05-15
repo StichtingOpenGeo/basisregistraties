@@ -1,5 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Dijkhuizenweg,1,,I,9903AA,Appingedam,Appingedam,Groningen,VBO,6.853029,53.319729
+Dijkhuizenweg,1,a,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.853029,53.319729
 Dijkhuizenweg,1,,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.853158,53.319751
 Dijkhuizenweg,3,,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.852917,53.319708
 Dijkhuizenweg,5,,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.851757,53.319448
@@ -13,10 +13,10 @@ Dijkhuizenweg,23,,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.850947,53.319356
 Dijkhuizenweg,25,,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.850595,53.319273
 Dijkhuizenweg,27,,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.850415,53.319266
 Dijkhuizenweg,29,,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.850340,53.319267
-Dijkhuizenweg,31,,I,9903AA,Appingedam,Appingedam,Groningen,VBO,6.850026,53.319298
-Dijkhuizenweg,31,,II,9903AA,Appingedam,Appingedam,Groningen,VBO,6.849862,53.319336
-Dijkhuizenweg,31,,III,9903AA,Appingedam,Appingedam,Groningen,VBO,6.849637,53.319348
-Dijkhuizenweg,31,,IV,9903AA,Appingedam,Appingedam,Groningen,VBO,6.849127,53.319336
+Dijkhuizenweg,31,a,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.850026,53.319298
+Dijkhuizenweg,31,b,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.849862,53.319336
+Dijkhuizenweg,31,c,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.849637,53.319348
+Dijkhuizenweg,31,d,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.849127,53.319336
 Dijkhuizenweg,31,,,9903AA,Appingedam,Appingedam,Groningen,VBO,6.850131,53.319288
 Dijkhuizenweg,33,,,9903AB,Appingedam,Appingedam,Groningen,VBO,6.848735,53.319287
 Dijkhuizenweg,35,,,9903AB,Appingedam,Appingedam,Groningen,VBO,6.848570,53.319298
@@ -111,8 +111,8 @@ Westerkade,13,,,9903AH,Appingedam,Appingedam,Groningen,VBO,6.854338,53.318994
 Westerkade,14,,,9903AH,Appingedam,Appingedam,Groningen,VBO,6.854396,53.318948
 Westerkade,15,,,9903AH,Appingedam,Appingedam,Groningen,VBO,6.854559,53.318883
 Westerkade,16,,,9903AJ,Appingedam,Appingedam,Groningen,VBO,6.854618,53.318847
-Westerkade,17,,I,9903AJ,Appingedam,Appingedam,Groningen,VBO,6.854854,53.318736
-Westerkade,17,,II,9903AJ,Appingedam,Appingedam,Groningen,VBO,6.854974,53.318726
+Westerkade,17,a,,9903AJ,Appingedam,Appingedam,Groningen,VBO,6.854854,53.318736
+Westerkade,17,b,,9903AJ,Appingedam,Appingedam,Groningen,VBO,6.854974,53.318726
 Westerkade,17,,,9903AJ,Appingedam,Appingedam,Groningen,VBO,6.854721,53.318792
 Westerkade,18,,,9903AJ,Appingedam,Appingedam,Groningen,VBO,6.855124,53.318733
 Westerkade,19,,,9903AJ,Appingedam,Appingedam,Groningen,VBO,6.855199,53.318732
@@ -181,7 +181,7 @@ Derk Boeremastraat,45,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.852275,53.3
 Derk Boeremastraat,47,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.852155,53.318347
 Derk Boeremastraat,49,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.851974,53.318331
 Derk Boeremastraat,51,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.851869,53.318332
-Derk Boeremastraat,53,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.851674,53.318343
+Derk Boeremastraat,53,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.851674,53.318344
 Derk Boeremastraat,55,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.851555,53.318354
 Derk Boeremastraat,57,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.851405,53.318365
 Derk Boeremastraat,59,,,9903AN,Appingedam,Appingedam,Groningen,VBO,6.851300,53.318366
@@ -400,7 +400,7 @@ Wulpstraat,1,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.845625,53.317669
 Wulpstraat,2,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.846039,53.317610
 Wulpstraat,3,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.845670,53.317716
 Wulpstraat,4,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.846102,53.317589
-Wulpstraat,5,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.845753,53.317827
+Wulpstraat,5,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.845753,53.317828
 Wulpstraat,6,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.846255,53.317740
 Wulpstraat,7,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.845814,53.317863
 Wulpstraat,8,,,9903BN,Appingedam,Appingedam,Groningen,VBO,6.846260,53.317690
@@ -566,7 +566,7 @@ Korenbloemstraat,10,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851219,53.317
 Korenbloemstraat,11,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851886,53.317514
 Korenbloemstraat,12,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851123,53.317146
 Korenbloemstraat,13,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851823,53.317407
-Korenbloemstraat,14,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851091,53.317083
+Korenbloemstraat,14,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851091,53.317084
 Korenbloemstraat,15,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851731,53.317354
 Korenbloemstraat,17,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851669,53.317292
 Korenbloemstraat,19,,,9903EC,Appingedam,Appingedam,Groningen,VBO,6.851606,53.317221
@@ -695,7 +695,7 @@ Meerkoetlaan,2,,,9903EP,Appingedam,Appingedam,Groningen,VBO,6.844746,53.315849
 Meerkoetlaan,4,,,9903EP,Appingedam,Appingedam,Groningen,VBO,6.844766,53.315983
 Meerkoetlaan,6,,,9903EP,Appingedam,Appingedam,Groningen,VBO,6.844831,53.316135
 Meerkoetlaan,8,,,9903EP,Appingedam,Appingedam,Groningen,VBO,6.845188,53.316481
-De Koperwiek,1,,,9903ER,Appingedam,Appingedam,Groningen,VBO,6.845573,53.315874
+De Koperwiek,1,,,9903ER,Appingedam,Appingedam,Groningen,VBO,6.845573,53.315875
 De Koperwiek,2,,,9903ER,Appingedam,Appingedam,Groningen,VBO,6.846038,53.315878
 De Koperwiek,3,,,9903ER,Appingedam,Appingedam,Groningen,VBO,6.845471,53.315966
 De Koperwiek,4,,,9903ER,Appingedam,Appingedam,Groningen,VBO,6.845969,53.316040
@@ -788,6 +788,7 @@ Lange Sissen,10,,,9903GC,Appingedam,Appingedam,Groningen,VBO,6.845578,53.314887
 Lange Sissen,11,,,9903GC,Appingedam,Appingedam,Groningen,VBO,6.846065,53.314613
 Lange Sissen,12,,,9903GC,Appingedam,Appingedam,Groningen,VBO,6.845323,53.314862
 Lange Sissen,13,,,9903GC,Appingedam,Appingedam,Groningen,VBO,6.845842,53.314599
+Lange Sissen,14,,,9903GC,Appingedam,Appingedam,Groningen,VBO,6.845014,53.314868
 Lange Sissen,15,,,9903GC,Appingedam,Appingedam,Groningen,VBO,6.845745,53.314603
 Lange Sissen,16,,,9903GC,Appingedam,Appingedam,Groningen,VBO,6.844644,53.314855
 Lange Sissen,17,,,9903GC,Appingedam,Appingedam,Groningen,VBO,6.845520,53.314591

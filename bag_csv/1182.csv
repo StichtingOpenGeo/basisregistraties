@@ -204,7 +204,7 @@ Rijksweg A9,1,,,1182AW,Amstelveen,Amstelveen,Noord-Holland,VBO,4.836156,52.30595
 Rijksweg A9,2,,,1182AW,Amstelveen,Amstelveen,Noord-Holland,VBO,4.837358,52.305079
 Stadhouderslaan,1,,,1182AX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.851879,52.316050
 Stadhouderslaan,2,,,1182AX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.852131,52.316002
-Stadhouderslaan,3,,,1182AX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.851913,52.316108
+Stadhouderslaan,3,,,1182AX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.851912,52.316108
 Stadhouderslaan,4,,BV,1182AX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.852166,52.316058
 Stadhouderslaan,4,,HS,1182AX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.852166,52.316058
 Nassaupark,1,,,1182AZ,Amstelveen,Amstelveen,Noord-Holland,VBO,4.851129,52.315853
@@ -286,6 +286,7 @@ Prinses Margrietlaan,7,,,1182BG,Amstelveen,Amstelveen,Noord-Holland,VBO,4.845524
 Prinses Margrietlaan,16,,,1182BG,Amstelveen,Amstelveen,Noord-Holland,VBO,4.845944,52.316181
 Prinses Margrietlaan,18,,,1182BG,Amstelveen,Amstelveen,Noord-Holland,VBO,4.845942,52.316355
 Prinses Beatrixlaan,1,,,1182BH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.845998,52.315385
+Prinses Beatrixlaan,3,,,1182BH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.844559,52.315370
 Prinses Beatrixlaan,4,,,1182BH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.846102,52.315872
 Prinses Beatrixlaan,5,,,1182BH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.844065,52.315379
 Prinses Beatrixlaan,7,A,,1182BH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.842980,52.315402
@@ -836,8 +837,7 @@ Landscheidingskade,58,,,1182CX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.841973,
 Landscheidingskade,59,,,1182CX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.841967,52.310078
 Landscheidingskade,60,A,,1182CX,Amstelveen,Amstelveen,Noord-Holland,LIG,4.841639,52.310250
 Landscheidingskade,60,,,1182CX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.841960,52.310135
-Landscheidingskade,61,,,1182CX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.841930,52.310442
-Landscheidingskade,62,,,1182CX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.841924,52.310500
+Landscheidingskade,62,,,1182CX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.841938,52.310442
 Landscheidingskade,63,,,1182CX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.841855,52.310803
 Landscheidingskade,64,,,1182CX,Amstelveen,Amstelveen,Noord-Holland,VBO,4.841850,52.310858
 Bosbaanweg,1,,,1182DA,Amstelveen,Amstelveen,Noord-Holland,VBO,4.856158,52.328089
@@ -1549,7 +1549,11 @@ Amsterdamseweg,102,,,1182HG,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847113,52.
 Amsterdamseweg,104,A,,1182HG,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847275,52.308248
 Amsterdamseweg,104,B,,1182HG,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847183,52.308176
 Amsterdamseweg,104,,,1182HG,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847127,52.308180
-Amsterdamseweg,106,,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847069,52.308547
+Amsterdamseweg,106,A,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847066,52.308535
+Amsterdamseweg,106,B,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847311,52.308519
+Amsterdamseweg,106,C,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847068,52.308558
+Amsterdamseweg,106,D,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847310,52.308547
+Amsterdamseweg,106,E,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847069,52.308579
 Amsterdamseweg,108,,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847073,52.308655
 Amsterdamseweg,110,,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847073,52.308655
 Amsterdamseweg,114,,,1182HH,Amstelveen,Amstelveen,Noord-Holland,VBO,4.847063,52.308832

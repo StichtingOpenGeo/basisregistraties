@@ -1,6 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Dijk,1,,,1721AA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.800908,52.668692
 Dijk,3,,,1721AA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.800980,52.668800
+Dijk,5,A,,1721AA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.800899,52.668997
 Dijk,5,,,1721AA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.801038,52.668882
 Dijk,7,,,1721AA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.801154,52.669044
 Dijk,9,,,1721AA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.801064,52.669151
@@ -113,8 +114,8 @@ Dijk,64,,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803418,52.6711
 Dijk,66,,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803476,52.671239
 Dijk,68,,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803564,52.671294
 Dijk,70,,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803636,52.671393
-Dijk,72,,BOVE,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803665,52.671438
-Dijk,72,,BY,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.804035,52.671422
+Dijk,72,A,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803665,52.671438
+Dijk,72,B,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.804035,52.671422
 Dijk,72,,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803694,52.671456
 Dijk,74,,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803958,52.671637
 Dijk,76,,,1721AG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.804045,52.671781
@@ -454,7 +455,7 @@ Dorpsstraat,73,,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806497,
 Dorpsstraat,75,A,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806702,52.677690
 Dorpsstraat,75,,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806776,52.677717
 Dorpsstraat,77,A,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806746,52.677699
-Dorpsstraat,77,B,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806776,52.677726
+Dorpsstraat,77,B,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806775,52.677726
 Dorpsstraat,77,,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806776,52.677681
 Dorpsstraat,79,A,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806732,52.677672
 Dorpsstraat,79,,,1721BC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806716,52.677726
@@ -474,6 +475,7 @@ Dorpsstraat,107,,,1721BD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.807542
 Dorpsstraat,109,,,1721BD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.807585,52.679123
 Dorpsstraat,111,,,1721BD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.807569,52.679195
 Dorpsstraat,113,A,,1721BD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.807539,52.679294
+Dorpsstraat,113,B,,1721BD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.807482,52.679285
 Dorpsstraat,113,,,1721BD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.807539,52.679294
 Dorpsstraat,115,A,,1721BD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.807611,52.679393
 Dorpsstraat,115,B,,1721BD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.807626,52.679366
@@ -802,6 +804,8 @@ Westelijke Randweg,3,A,,1721CH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.
 Westelijke Randweg,3,,,1721CH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.800886,52.671415
 Westelijke Randweg,4,,,1721CH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.800759,52.679854
 Westelijke Randweg,5,,,1721CH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802510,52.673787
+Westelijke Randweg,7,,,1721CH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.801699,52.674522
+Westelijke Randweg,11,,,1721CH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802884,52.675173
 Westelijke Randweg,21,,,1721CH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794134,52.682050
 Eilandpad,2,,,1721CJ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806504,52.675927
 Eilandpad,4,,,1721CJ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806268,52.675799
@@ -942,6 +946,7 @@ Dokter Manjoeroplantsoen,26,,,1721CP,Broek op Langedijk,Langedijk,Noord-Holland,
 Dokter Manjoeroplantsoen,28,,,1721CP,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.810616,52.679138
 Dokter Manjoeroplantsoen,30,,,1721CP,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.810498,52.679137
 Dokter Manjoeroplantsoen,32,,,1721CP,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.810380,52.679137
+Voorburggracht,2,,,1721CR,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802932,52.680502
 Voorburggracht,4,,,1721CR,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803294,52.680524
 Voorburggracht,6,,,1721CR,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803493,52.680537
 Voorburggracht,8,,,1721CR,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803679,52.680545
@@ -1057,8 +1062,11 @@ Grotendorst,16,,,1721CW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.797745,
 Grotendorst,18,,,1721CW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.797139,52.678542
 Broekerplein,1,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802960,52.680137
 Broekerplein,3,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802970,52.680090
-Broekerplein,5,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803237,52.680180
-Broekerplein,7,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803387,52.680182
+Broekerplein,5,A,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803305,52.680175
+Broekerplein,5,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803238,52.680180
+Broekerplein,7,A,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803438,52.680175
+Broekerplein,7,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803363,52.680175
+Broekerplein,9,A,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803569,52.680181
 Broekerplein,9,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803518,52.680184
 Broekerplein,11,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803660,52.680188
 Broekerplein,13,,,1721CX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802981,52.680503
@@ -1426,6 +1434,20 @@ Weide Heijning,20,,,1721EG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.8034
 Weide Heijning,22,,,1721EG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803582,52.677616
 Weide Heijning,24,,,1721EG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803644,52.677614
 Weide Heijning,26,,,1721EG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803731,52.677604
+Hoogrijm,1,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802625,52.677293
+Hoogrijm,2,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802808,52.677088
+Hoogrijm,3,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802702,52.677303
+Hoogrijm,4,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802890,52.677083
+Hoogrijm,5,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802780,52.677288
+Hoogrijm,6,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802975,52.677080
+Hoogrijm,7,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802865,52.677286
+Hoogrijm,8,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803057,52.677077
+Hoogrijm,9,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802990,52.677278
+Hoogrijm,10,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803135,52.677074
+Hoogrijm,11,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803065,52.677275
+Hoogrijm,12,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803215,52.677072
+Hoogrijm,13,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803143,52.677272
+Hoogrijm,15,,,1721EH,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.803225,52.677271
 Boeier,2,K,001,1721GA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.805867,52.681694
 Boeier,2,K,002,1721GA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.805884,52.681638
 Boeier,2,K,003,1721GA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.805898,52.681584
@@ -1507,7 +1529,7 @@ Grundel,9,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806905,52.68
 Grundel,11,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806831,52.682463
 Grundel,13,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806757,52.682453
 Grundel,15,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806669,52.682444
-Grundel,17,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806580,52.682434
+Grundel,17,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806580,52.682435
 Grundel,19,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806492,52.682425
 Grundel,21,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806418,52.682425
 Grundel,23,,,1721GC,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.806359,52.682415
@@ -2216,7 +2238,7 @@ Breesloot,10,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.797168,52
 Breesloot,11,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.796635,52.681900
 Breesloot,12,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.797184,52.681804
 Breesloot,13,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.796560,52.681972
-Breesloot,14,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.797244,52.681741
+Breesloot,14,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.797244,52.681742
 Breesloot,15,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.796340,52.682968
 Breesloot,16,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.796881,52.682324
 Breesloot,17,,,1721HT,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.796605,52.683015
@@ -2292,25 +2314,46 @@ Dromersloot,9,,,1721HW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.798700,5
 Dromersloot,11,,,1721HW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.798685,52.682342
 Dromersloot,13,,,1721HW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.798655,52.682387
 Bijloort,1,,,1721JA,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.795737,52.679388
+Grootoort,1,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794535,52.680405
+Grootoort,3,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794446,52.680393
 Grootoort,4,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793297,52.680545
+Grootoort,5,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794201,52.680369
 Grootoort,6,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793179,52.680526
+Grootoort,7,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794129,52.680355
 Grootoort,8,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793075,52.680507
 Grootoort,9,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793906,52.680300
 Grootoort,10,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792957,52.680489
+Grootoort,11,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793685,52.680268
 Grootoort,12,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792854,52.680470
+Grootoort,13,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793596,52.680249
 Grootoort,14,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792766,52.680452
+Grootoort,15,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793363,52.680230
 Grootoort,16,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792618,52.680451
+Grootoort,17,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793272,52.680203
 Grootoort,18,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792544,52.680442
+Grootoort,19,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793050,52.680166
 Grootoort,20,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792470,52.680424
+Grootoort,21,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792962,52.680138
 Grootoort,22,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792396,52.680414
+Grootoort,23,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792711,52.680128
 Grootoort,24,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792308,52.680396
+Grootoort,25,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792637,52.680119
 Grootoort,26,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792234,52.680386
+Grootoort,27,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792416,52.680064
 Grootoort,28,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792043,52.680323
+Grootoort,29,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792327,52.680045
 Grootoort,30,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791939,52.680322
+Grootoort,31,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792091,52.680017
 Grootoort,32,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791836,52.680304
+Grootoort,33,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792003,52.679990
 Grootoort,34,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791733,52.680285
+Grootoort,35,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791786,52.679960
 Grootoort,36,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791615,52.680267
+Grootoort,37,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791698,52.679943
 Grootoort,38,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791511,52.680248
+Grootoort,39,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791491,52.679898
+Grootoort,40,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791307,52.680260
+Grootoort,41,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791400,52.679884
 Grootoort,42,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791084,52.680362
 Grootoort,44,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791066,52.680408
 Grootoort,46,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791035,52.680452
@@ -2338,6 +2381,9 @@ Grootoort,92,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790483,52
 Grootoort,94,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790482,52.681995
 Grootoort,96,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790481,52.682040
 Grootoort,98,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790481,52.682085
+Grootoort,100,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790488,52.682144
+Grootoort,107,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790719,52.679786
+Grootoort,109,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790689,52.679839
 Grootoort,111,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790732,52.679930
 Grootoort,113,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790717,52.679974
 Grootoort,115,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790701,52.680019
@@ -2352,6 +2398,7 @@ Grootoort,133,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790457,5
 Grootoort,135,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790442,52.680593
 Grootoort,137,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790427,52.680638
 Grootoort,139,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790411,52.680692
+Grootoort,141,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790476,52.680814
 Grootoort,143,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790497,52.680917
 Grootoort,145,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790481,52.680953
 Grootoort,147,,,1721JB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790451,52.681007
@@ -2425,7 +2472,7 @@ Groenoort,10,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792016,52
 Groenoort,11,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792151,52.681042
 Groenoort,12,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791913,52.681176
 Groenoort,13,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.792078,52.681024
-Groenoort,14,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791633,52.681129
+Groenoort,14,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791632,52.681129
 Groenoort,15,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791989,52.681014
 Groenoort,16,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791529,52.681111
 Groenoort,17,,,1721JD,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791739,52.680941
@@ -2492,11 +2539,39 @@ Bonoort,64,,,1721JE,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791564,52.6
 Bonoort,66,,,1721JE,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791706,52.682317
 Bonoort,68,,,1721JE,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791589,52.682162
 Bonoort,70,,,1721JE,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791520,52.682186
+Boogoort,2,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789952,52.679647
+Boogoort,4,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789922,52.679701
 Boogoort,6,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789906,52.679791
 Boogoort,8,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789876,52.679835
 Boogoort,10,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789845,52.679880
 Boogoort,12,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789830,52.679925
 Boogoort,14,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789800,52.679979
+Boogoort,16,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789754,52.680050
+Boogoort,18,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789724,52.680104
+Boogoort,20,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789708,52.680194
+Boogoort,22,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789678,52.680239
+Boogoort,24,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789648,52.680284
+Boogoort,26,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789632,52.680328
+Boogoort,28,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789602,52.680382
+Boogoort,30,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789557,52.680454
+Boogoort,32,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789526,52.680499
+Boogoort,34,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789538,52.680723
+Boogoort,36,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789523,52.680777
+Boogoort,38,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789551,52.680867
+Boogoort,40,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789536,52.680921
+Boogoort,42,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789535,52.680966
+Boogoort,44,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789534,52.681011
+Boogoort,46,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789534,52.681065
+Boogoort,48,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789560,52.681272
+Boogoort,50,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789634,52.681281
+Boogoort,52,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789723,52.681300
+Boogoort,54,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789796,52.681309
+Boogoort,56,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789855,52.681345
+Boogoort,58,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.789929,52.681363
+Boogoort,60,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790017,52.681373
+Boogoort,62,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790091,52.681391
+Boogoort,64,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790165,52.681401
+Boogoort,66,,,1721JG,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.790239,52.681419
 Vronermeerweg,2,,,1721OO,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.784281,52.673732
 Oosterdijk,1,,,1721PB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.826132,52.675312
 Oosterdijk,2,,,1721PB,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.824650,52.682539
@@ -2615,6 +2690,8 @@ Vreekesweid,42,,,1721PR,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.798284,
 Vreekesweid,44,A,,1721PR,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.798716,52.672285
 Vreekesweid,44,,,1721PR,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.798639,52.672492
 Vreekesweid,46,,,1721PR,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.799050,52.672709
+Breede Plat,2,A,,1721PS,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794761,52.676717
+Breede Plat,2,,,1721PS,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794834,52.676723
 Breede Plat,4,,,1721PS,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794457,52.676704
 Breede Plat,5,,,1721PS,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794824,52.676423
 Breede Plat,6,,,1721PS,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794295,52.676685
@@ -2697,6 +2774,26 @@ Bijlestaal,44,H,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.795000,
 Bijlestaal,44,K,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.795101,52.678377
 Bijlestaal,44,L,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.795201,52.678397
 Bijlestaal,44,M,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.795293,52.678414
+Bijlestaal,46,A,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794199,52.677921
+Bijlestaal,46,B,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794265,52.677939
+Bijlestaal,46,C,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794351,52.677933
+Bijlestaal,46,D,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794431,52.677951
+Bijlestaal,46,E,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794512,52.677948
+Bijlestaal,46,F,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794153,52.678058
+Bijlestaal,46,G,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794230,52.678051
+Bijlestaal,46,H,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794318,52.678077
+Bijlestaal,46,K,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794414,52.678068
+Bijlestaal,46,L,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794467,52.678090
+Bijlestaal,48,A,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794291,52.677603
+Bijlestaal,48,B,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794352,52.677632
+Bijlestaal,48,C,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794418,52.677612
+Bijlestaal,48,D,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794525,52.677643
+Bijlestaal,48,E,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794598,52.677632
+Bijlestaal,48,F,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794256,52.677748
+Bijlestaal,48,G,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794315,52.677743
+Bijlestaal,48,H,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794412,52.677765
+Bijlestaal,48,K,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794512,52.677762
+Bijlestaal,48,L,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.794565,52.677781
 Bijlestaal,52,,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.793496,52.677795
 Bijlestaal,54,A,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791712,52.677481
 Bijlestaal,54,,,1721PW,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.791629,52.678083
@@ -2729,3 +2826,13 @@ Westeinde,16,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802293,52
 Westeinde,17,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802309,52.677929
 Westeinde,18,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802319,52.677877
 Westeinde,19,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802333,52.677829
+Westeinde,20,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802279,52.677680
+Westeinde,21,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802287,52.677631
+Westeinde,22,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802299,52.677579
+Westeinde,23,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802308,52.677531
+Westeinde,24,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802310,52.677497
+Westeinde,25,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802325,52.677433
+Westeinde,26,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802338,52.677382
+Westeinde,27,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802349,52.677337
+Westeinde,28,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802361,52.677289
+Westeinde,29,,,1721PZ,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.802366,52.677244

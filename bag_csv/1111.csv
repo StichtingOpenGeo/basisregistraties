@@ -1,7 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Diemerkade,1,,I,1111AA,Diemen,Diemen,Noord-Holland,VBO,4.954302,52.340665
-Diemerkade,1,,II,1111AA,Diemen,Diemen,Noord-Holland,VBO,4.954315,52.340661
-Diemerkade,1,,,1111AA,Diemen,Diemen,Noord-Holland,VBO,4.954290,52.340670
+Diemerkade,1,,,1111AA,Diemen,Diemen,Noord-Holland,VBO,4.954292,52.340674
 Diemerkade,2,,I,1111AA,Diemen,Diemen,Noord-Holland,VBO,4.954368,52.340737
 Diemerkade,2,,II,1111AA,Diemen,Diemen,Noord-Holland,VBO,4.954381,52.340733
 Diemerkade,2,,,1111AA,Diemen,Diemen,Noord-Holland,VBO,4.954355,52.340742
@@ -35,7 +33,7 @@ Diemerkade,19,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955455,52.341813
 Diemerkade,20,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955529,52.341788
 Diemerkade,21,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955603,52.341760
 Diemerkade,22,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955684,52.341733
-Diemerkade,23,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955761,52.341707
+Diemerkade,23,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955761,52.341708
 Diemerkade,24,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955836,52.341683
 Diemerkade,25,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955912,52.341657
 Diemerkade,26,,,1111AB,Diemen,Diemen,Noord-Holland,VBO,4.955990,52.341632
@@ -101,6 +99,7 @@ Diemerkade,94,,,1111AE,Diemen,Diemen,Noord-Holland,VBO,4.957223,52.343225
 Arent Krijtsstraat,1,,,1111AG,Diemen,Diemen,Noord-Holland,VBO,4.955170,52.339906
 Arent Krijtsstraat,5,,,1111AG,Diemen,Diemen,Noord-Holland,VBO,4.955505,52.340447
 Arent Krijtsstraat,7,,,1111AG,Diemen,Diemen,Noord-Holland,VBO,4.955533,52.340441
+Arent Krijtsstraat,9,,I,1111AG,Diemen,Diemen,Noord-Holland,VBO,4.955506,52.340507
 Arent Krijtsstraat,9,,,1111AG,Diemen,Diemen,Noord-Holland,VBO,4.955560,52.340493
 Arent Krijtsstraat,11,,,1111AG,Diemen,Diemen,Noord-Holland,VBO,4.955588,52.340546
 Arent Krijtsstraat,13,,I,1111AG,Diemen,Diemen,Noord-Holland,VBO,4.955668,52.340719
@@ -192,6 +191,7 @@ Arent Krijtsstraat,6,,,1111AL,Diemen,Diemen,Noord-Holland,VBO,4.955649,52.339905
 Arent Krijtsstraat,8,,I,1111AL,Diemen,Diemen,Noord-Holland,VBO,4.955709,52.340003
 Arent Krijtsstraat,8,,II,1111AL,Diemen,Diemen,Noord-Holland,VBO,4.955723,52.340001
 Arent Krijtsstraat,8,,,1111AL,Diemen,Diemen,Noord-Holland,VBO,4.955695,52.340006
+Arent Krijtsstraat,10,A,,1111AM,Diemen,Diemen,Noord-Holland,VBO,4.955707,52.340190
 Arent Krijtsstraat,10,,,1111AM,Diemen,Diemen,Noord-Holland,VBO,4.955686,52.340191
 Arent Krijtsstraat,12,,,1111AM,Diemen,Diemen,Noord-Holland,VBO,4.955700,52.340188
 Arent Krijtsstraat,14,,,1111AM,Diemen,Diemen,Noord-Holland,VBO,4.955731,52.340249
@@ -497,6 +497,9 @@ Johan van Soesdijkstraat,36,,,1111BD,Diemen,Diemen,Noord-Holland,VBO,4.954718,52
 Johan van Soesdijkstraat,38,,I,1111BD,Diemen,Diemen,Noord-Holland,VBO,4.954608,52.340531
 Johan van Soesdijkstraat,38,,II,1111BD,Diemen,Diemen,Noord-Holland,VBO,4.954615,52.340539
 Johan van Soesdijkstraat,38,,,1111BD,Diemen,Diemen,Noord-Holland,VBO,4.954601,52.340523
+Johan van Soesdijkstraat,40,,I,1111BD,Diemen,Diemen,Noord-Holland,VBO,4.954308,52.340669
+Johan van Soesdijkstraat,40,,II,1111BD,Diemen,Diemen,Noord-Holland,VBO,4.954322,52.340664
+Johan van Soesdijkstraat,40,,,1111BD,Diemen,Diemen,Noord-Holland,VBO,4.954292,52.340674
 Hartveldseweg,1,A,,1111BE,Diemen,Diemen,Noord-Holland,VBO,4.961513,52.338448
 Hartveldseweg,1,B,,1111BE,Diemen,Diemen,Noord-Holland,VBO,4.961507,52.338456
 Hartveldseweg,1,C,,1111BE,Diemen,Diemen,Noord-Holland,VBO,4.961502,52.338464
@@ -576,10 +579,16 @@ Hartveldseweg,23,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.959548,52.338786
 Hartveldseweg,24,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.959272,52.338779
 Hartveldseweg,25,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.959010,52.338969
 Hartveldseweg,26,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.960068,52.338415
+Hartveldseweg,28,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.958495,52.338921
+Hartveldseweg,29,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.958359,52.338933
 Hartveldseweg,30,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.958046,52.339040
 Hartveldseweg,31,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957972,52.339055
 Hartveldseweg,32,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957887,52.339071
 Hartveldseweg,33,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957848,52.339230
+Hartveldseweg,34,A,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957710,52.339115
+Hartveldseweg,34,B,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957714,52.339123
+Hartveldseweg,34,C,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957721,52.339132
+Hartveldseweg,34,D,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957725,52.339144
 Hartveldseweg,34,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957703,52.339104
 Hartveldseweg,35,,,1111BG,Diemen,Diemen,Noord-Holland,VBO,4.957560,52.339131
 Hartveldseweg,36,,,1111BH,Diemen,Diemen,Noord-Holland,VBO,4.957310,52.339179
@@ -841,6 +850,7 @@ Burgemeester Bickerstraat,7,D,,1111BZ,Diemen,Diemen,Noord-Holland,VBO,4.960696,5
 Burgemeester Bickerstraat,7,E,,1111BZ,Diemen,Diemen,Noord-Holland,VBO,4.960733,52.339060
 Burgemeester Bickerstraat,7,F,,1111BZ,Diemen,Diemen,Noord-Holland,VBO,4.960747,52.339056
 Burgemeester Bickerstraat,7,G,,1111BZ,Diemen,Diemen,Noord-Holland,VBO,4.960760,52.339053
+Burgemeester Bickerstraat,15,A,,1111BZ,Diemen,Diemen,Noord-Holland,VBO,4.960540,52.339267
 Burgemeester Bickerstraat,15,,,1111BZ,Diemen,Diemen,Noord-Holland,VBO,4.960820,52.339204
 Burgemeester Bickerstraat,17,,,1111BZ,Diemen,Diemen,Noord-Holland,VBO,4.960868,52.339395
 Burgemeester Bickerstraat,21,,,1111BZ,Diemen,Diemen,Noord-Holland,VBO,4.961170,52.339777
@@ -1164,6 +1174,7 @@ Burgemeester van Tienenweg,12,,I,1111CW,Diemen,Diemen,Noord-Holland,VBO,4.958306
 Burgemeester van Tienenweg,12,,,1111CW,Diemen,Diemen,Noord-Holland,VBO,4.958311,52.339942
 Burgemeester van Tienenweg,14,,,1111CW,Diemen,Diemen,Noord-Holland,VBO,4.958340,52.339937
 Burgemeester van Tienenweg,16,,I,1111CW,Diemen,Diemen,Noord-Holland,VBO,4.958443,52.339918
+Burgemeester van Tienenweg,18,,I,1111CW,Diemen,Diemen,Noord-Holland,VBO,4.958467,52.339905
 Burgemeester van Tienenweg,18,,,1111CW,Diemen,Diemen,Noord-Holland,VBO,4.958471,52.339913
 Burgemeester van Tienenweg,20,,,1111CW,Diemen,Diemen,Noord-Holland,VBO,4.959077,52.339718
 Burgemeester van Tienenweg,24,,,1111CW,Diemen,Diemen,Noord-Holland,VBO,4.960689,52.339468
@@ -1497,6 +1508,7 @@ Prins Bernhardlaan,109,,,1111ES,Diemen,Diemen,Noord-Holland,VBO,4.967730,52.3396
 Prins Bernhardlaan,111,,,1111ES,Diemen,Diemen,Noord-Holland,VBO,4.967716,52.339601
 Prins Bernhardlaan,2,A,,1111ET,Diemen,Diemen,Noord-Holland,VBO,4.968662,52.337358
 Prins Bernhardlaan,2,,,1111ET,Diemen,Diemen,Noord-Holland,VBO,4.968586,52.338464
+Prins Bernhardlaan,4,,,1111ET,Diemen,Diemen,Noord-Holland,VBO,4.969624,52.338521
 Emmastraat,3,,,1111EV,Diemen,Diemen,Noord-Holland,VBO,4.967108,52.339432
 Emmastraat,5,,,1111EV,Diemen,Diemen,Noord-Holland,VBO,4.967108,52.339441
 Emmastraat,7,,,1111EV,Diemen,Diemen,Noord-Holland,VBO,4.967109,52.339450
@@ -1714,12 +1726,18 @@ Prinses Beatrixlaan,142,,,1111GH,Diemen,Diemen,Noord-Holland,VBO,4.967668,52.339
 Prinses Beatrixlaan,144,,,1111GH,Diemen,Diemen,Noord-Holland,VBO,4.967667,52.339668
 Prinses Beatrixlaan,146,,,1111GH,Diemen,Diemen,Noord-Holland,VBO,4.967708,52.339697
 Prinses Beatrixlaan,148,,,1111GH,Diemen,Diemen,Noord-Holland,VBO,4.967753,52.339694
+Prinses Beatrixlaan,156,A,,1111GH,Diemen,Diemen,Noord-Holland,VBO,4.968581,52.339452
+Prinses Beatrixlaan,156,B,,1111GH,Diemen,Diemen,Noord-Holland,VBO,4.968581,52.339452
+Prinses Beatrixlaan,156,C,,1111GH,Diemen,Diemen,Noord-Holland,VBO,4.968581,52.339452
+Prinses Beatrixlaan,156,D,,1111GH,Diemen,Diemen,Noord-Holland,VBO,4.968581,52.339452
 Burgemeester de Kievietstraat,1,A,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.962403,52.338907
 Burgemeester de Kievietstraat,1,B,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.962408,52.338916
 Burgemeester de Kievietstraat,1,C,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.962492,52.338899
 Burgemeester de Kievietstraat,1,D,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.962487,52.338891
 Burgemeester de Kievietstraat,3,,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.962684,52.338849
 Burgemeester de Kievietstraat,5,,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.962790,52.338832
+Burgemeester de Kievietstraat,7,,I,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.962875,52.338829
+Burgemeester de Kievietstraat,9,,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.962929,52.338811
 Burgemeester de Kievietstraat,11,,I,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.963025,52.338805
 Burgemeester de Kievietstraat,11,,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.963022,52.338796
 Burgemeester de Kievietstraat,13,,,1111GJ,Diemen,Diemen,Noord-Holland,VBO,4.963102,52.338784
@@ -1795,6 +1813,7 @@ Burgemeester de Kievietstraat,44,,I,1111GP,Diemen,Diemen,Noord-Holland,VBO,4.964
 Burgemeester de Kievietstraat,44,,,1111GP,Diemen,Diemen,Noord-Holland,VBO,4.964119,52.338492
 Burgemeester de Kievietstraat,46,,I,1111GP,Diemen,Diemen,Noord-Holland,VBO,4.964223,52.338467
 Burgemeester de Kievietstraat,46,,,1111GP,Diemen,Diemen,Noord-Holland,VBO,4.964226,52.338475
+Burgemeester de Kievietstraat,48,,I,1111GP,Diemen,Diemen,Noord-Holland,VBO,4.964329,52.338452
 Burgemeester de Kievietstraat,48,,,1111GP,Diemen,Diemen,Noord-Holland,VBO,4.964332,52.338459
 Burgemeester de Kievietstraat,50,,I,1111GP,Diemen,Diemen,Noord-Holland,VBO,4.964425,52.338424
 Burgemeester de Kievietstraat,50,,,1111GP,Diemen,Diemen,Noord-Holland,VBO,4.964428,52.338433
@@ -1998,7 +2017,7 @@ Ouddiemerlaan,2,B,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962009,52.338441
 Ouddiemerlaan,2,C,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962023,52.338456
 Ouddiemerlaan,2,D,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962038,52.338472
 Ouddiemerlaan,2,E,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962052,52.338488
-Ouddiemerlaan,2,F,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.961965,52.338357
+Ouddiemerlaan,2,F,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.961964,52.338357
 Ouddiemerlaan,2,G,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.961992,52.338351
 Ouddiemerlaan,2,H,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962020,52.338345
 Ouddiemerlaan,2,J,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962047,52.338339
@@ -2057,8 +2076,10 @@ Ouddiemerlaan,20,,I,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962372,52.339082
 Ouddiemerlaan,20,,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962353,52.339046
 Ouddiemerlaan,22,,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962391,52.339116
 Ouddiemerlaan,24,,I,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962414,52.339131
+Ouddiemerlaan,24,,II,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962426,52.339128
 Ouddiemerlaan,24,,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962400,52.339133
 Ouddiemerlaan,26,,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962440,52.339207
+Ouddiemerlaan,30,,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962512,52.339293
 Ouddiemerlaan,32,,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962566,52.339388
 Ouddiemerlaan,36,,,1111HJ,Diemen,Diemen,Noord-Holland,VBO,4.962625,52.339539
 Ouddiemerlaan,38,,,1111HK,Diemen,Diemen,Noord-Holland,VBO,4.962663,52.339616
@@ -2096,6 +2117,104 @@ Ouddiemerlaan,100,,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.964005,52.341436
 Ouddiemerlaan,104,,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.964731,52.342058
 Ouddiemerlaan,106,,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965186,52.342364
 Ouddiemerlaan,108,,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965453,52.342262
+Ouddiemerlaan,112,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966185,52.343344
+Ouddiemerlaan,112,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966289,52.343444
+Ouddiemerlaan,112,C,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966354,52.343506
+Ouddiemerlaan,112,D,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966397,52.343466
+Ouddiemerlaan,112,E,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966370,52.343439
+Ouddiemerlaan,112,F,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966229,52.343304
+Ouddiemerlaan,112,G,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966163,52.343152
+Ouddiemerlaan,112,H,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966104,52.343095
+Ouddiemerlaan,112,J,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966045,52.343039
+Ouddiemerlaan,112,K,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966007,52.343002
+Ouddiemerlaan,112,L,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965891,52.343021
+Ouddiemerlaan,112,M,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965828,52.343071
+Ouddiemerlaan,112,N,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965865,52.343107
+Ouddiemerlaan,112,P,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965923,52.343162
+Ouddiemerlaan,112,R,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965985,52.343222
+Ouddiemerlaan,112,S,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966047,52.343282
+Ouddiemerlaan,114,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966190,52.343349
+Ouddiemerlaan,114,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966283,52.343439
+Ouddiemerlaan,114,C,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966359,52.343512
+Ouddiemerlaan,114,D,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966406,52.343463
+Ouddiemerlaan,114,E,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966378,52.343436
+Ouddiemerlaan,114,F,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966238,52.343301
+Ouddiemerlaan,114,G,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966172,52.343149
+Ouddiemerlaan,114,H,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966113,52.343092
+Ouddiemerlaan,114,J,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966054,52.343035
+Ouddiemerlaan,114,K,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966016,52.342998
+Ouddiemerlaan,114,L,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965884,52.343016
+Ouddiemerlaan,114,M,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965820,52.343075
+Ouddiemerlaan,114,N,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965856,52.343110
+Ouddiemerlaan,114,P,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965914,52.343166
+Ouddiemerlaan,114,R,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965977,52.343225
+Ouddiemerlaan,114,S,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966038,52.343285
+Ouddiemerlaan,116,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966196,52.343355
+Ouddiemerlaan,116,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966278,52.343434
+Ouddiemerlaan,116,C,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966365,52.343517
+Ouddiemerlaan,116,D,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966414,52.343459
+Ouddiemerlaan,116,E,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966387,52.343433
+Ouddiemerlaan,116,F,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966246,52.343298
+Ouddiemerlaan,116,G,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966181,52.343145
+Ouddiemerlaan,116,H,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966122,52.343089
+Ouddiemerlaan,116,J,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966062,52.343032
+Ouddiemerlaan,116,K,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966024,52.342995
+Ouddiemerlaan,116,L,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965880,52.343010
+Ouddiemerlaan,116,M,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965811,52.343078
+Ouddiemerlaan,116,N,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965848,52.343114
+Ouddiemerlaan,116,P,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965905,52.343169
+Ouddiemerlaan,116,R,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965967,52.343229
+Ouddiemerlaan,116,S,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966029,52.343288
+Ouddiemerlaan,118,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966201,52.343360
+Ouddiemerlaan,118,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966272,52.343428
+Ouddiemerlaan,118,C,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966370,52.343522
+Ouddiemerlaan,118,D,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966423,52.343456
+Ouddiemerlaan,118,E,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966396,52.343429
+Ouddiemerlaan,118,F,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966255,52.343294
+Ouddiemerlaan,118,G,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966189,52.343142
+Ouddiemerlaan,118,H,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966130,52.343085
+Ouddiemerlaan,118,J,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966071,52.343028
+Ouddiemerlaan,118,K,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966033,52.342992
+Ouddiemerlaan,118,L,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965874,52.343005
+Ouddiemerlaan,118,M,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965802,52.343082
+Ouddiemerlaan,118,N,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965839,52.343117
+Ouddiemerlaan,118,P,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965897,52.343173
+Ouddiemerlaan,118,R,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.965959,52.343232
+Ouddiemerlaan,118,S,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966021,52.343292
+Ouddiemerlaan,120,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966207,52.343365
+Ouddiemerlaan,120,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966267,52.343423
+Ouddiemerlaan,120,C,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966376,52.343528
+Ouddiemerlaan,120,D,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966431,52.343452
+Ouddiemerlaan,120,E,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966404,52.343426
+Ouddiemerlaan,120,F,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966264,52.343291
+Ouddiemerlaan,120,G,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966229,52.343258
+Ouddiemerlaan,120,H,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966098,52.343260
+Ouddiemerlaan,122,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966212,52.343370
+Ouddiemerlaan,122,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966261,52.343418
+Ouddiemerlaan,122,C,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966381,52.343533
+Ouddiemerlaan,122,D,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966440,52.343449
+Ouddiemerlaan,122,E,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966413,52.343423
+Ouddiemerlaan,122,F,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966272,52.343287
+Ouddiemerlaan,122,G,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966238,52.343254
+Ouddiemerlaan,122,H,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966092,52.343255
+Ouddiemerlaan,124,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966218,52.343376
+Ouddiemerlaan,124,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966256,52.343412
+Ouddiemerlaan,124,C,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966387,52.343538
+Ouddiemerlaan,124,D,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966449,52.343446
+Ouddiemerlaan,124,E,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966422,52.343419
+Ouddiemerlaan,124,F,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966281,52.343284
+Ouddiemerlaan,124,G,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966247,52.343251
+Ouddiemerlaan,124,H,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966087,52.343250
+Ouddiemerlaan,126,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966223,52.343381
+Ouddiemerlaan,126,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966250,52.343407
+Ouddiemerlaan,126,C,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966393,52.343544
+Ouddiemerlaan,126,D,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966458,52.343442
+Ouddiemerlaan,126,E,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966430,52.343416
+Ouddiemerlaan,126,F,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966290,52.343281
+Ouddiemerlaan,126,G,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966255,52.343248
+Ouddiemerlaan,126,H,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966081,52.343244
+Ouddiemerlaan,128,A,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966398,52.343549
+Ouddiemerlaan,128,B,,1111HL,Diemen,Diemen,Noord-Holland,VBO,4.966466,52.343439
 Ouddiemerlaan,146,,,1111HN,Diemen,Diemen,Noord-Holland,VBO,4.968613,52.345230
 Ouddiemerlaan,156,,,1111HN,Diemen,Diemen,Noord-Holland,VBO,4.971824,52.348885
 Ouddiemerlaan,158,,,1111HN,Diemen,Diemen,Noord-Holland,VBO,4.971837,52.348980
@@ -2264,7 +2383,7 @@ Diemerplein,78,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963922,52.342529
 Diemerplein,79,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962760,52.342390
 Diemerplein,80,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963812,52.342504
 Diemerplein,81,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963027,52.342507
-Diemerplein,83,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963337,52.342548
+Diemerplein,83,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963337,52.342549
 Diemerplein,84,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.964095,52.342208
 Diemerplein,85,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963536,52.342596
 Diemerplein,87,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963732,52.342644
@@ -2295,6 +2414,7 @@ Diemerplein,128,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963108,52.341903
 Diemerplein,132,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963247,52.341882
 Diemerplein,138,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963407,52.341713
 Diemerplein,142,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963251,52.341740
+Diemerplein,146,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963075,52.341769
 Diemerplein,152,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962925,52.341796
 Diemerplein,160,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962779,52.341820
 Diemerplein,164,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962649,52.341842
@@ -2308,8 +2428,6 @@ Diemerplein,184,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962697,52.341582
 Diemerplein,188,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962873,52.341554
 Diemerplein,190,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962979,52.341538
 Diemerplein,192,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963065,52.341523
-Diemerplein,194,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963167,52.341506
-Diemerplein,196,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.963276,52.341487
 Diemerplein,200,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962932,52.342328
 Diemerplein,202,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962964,52.342323
 Diemerplein,204,,,1111JD,Diemen,Diemen,Noord-Holland,VBO,4.962991,52.342318
@@ -2753,7 +2871,7 @@ Albert Schweitzerstraat,55,,,1111KJ,Diemen,Diemen,Noord-Holland,VBO,4.961952,52.
 Albert Schweitzerstraat,57,,,1111KJ,Diemen,Diemen,Noord-Holland,VBO,4.962033,52.344770
 Albert Schweitzerstraat,59,,,1111KJ,Diemen,Diemen,Noord-Holland,VBO,4.962114,52.344790
 Albert Schweitzerstraat,61,,,1111KJ,Diemen,Diemen,Noord-Holland,VBO,4.962196,52.344810
-Albert Schweitzerstraat,63,,,1111KJ,Diemen,Diemen,Noord-Holland,VBO,4.962279,52.344829
+Albert Schweitzerstraat,63,,,1111KJ,Diemen,Diemen,Noord-Holland,VBO,4.962279,52.344830
 Gustave Stresemannstraat,1,,,1111KK,Diemen,Diemen,Noord-Holland,VBO,4.961313,52.343803
 Gustave Stresemannstraat,2,,,1111KK,Diemen,Diemen,Noord-Holland,VBO,4.961342,52.343756
 Gustave Stresemannstraat,3,,,1111KK,Diemen,Diemen,Noord-Holland,VBO,4.961371,52.343710
@@ -3140,7 +3258,7 @@ Martin Luther Kinglaan,370,,,1111LR,Diemen,Diemen,Noord-Holland,VBO,4.964916,52.
 Martin Luther Kinglaan,372,,,1111LR,Diemen,Diemen,Noord-Holland,VBO,4.964370,52.345123
 Martin Luther Kinglaan,374,,,1111LR,Diemen,Diemen,Noord-Holland,VBO,4.964481,52.345149
 Martin Luther Kinglaan,376,,,1111LR,Diemen,Diemen,Noord-Holland,VBO,4.964591,52.345176
-Martin Luther Kinglaan,378,,,1111LR,Diemen,Diemen,Noord-Holland,VBO,4.964701,52.345202
+Martin Luther Kinglaan,378,,,1111LR,Diemen,Diemen,Noord-Holland,VBO,4.964701,52.345203
 Martin Luther Kinglaan,380,,,1111LR,Diemen,Diemen,Noord-Holland,VBO,4.964812,52.345229
 Martin Luther Kinglaan,382,,,1111LR,Diemen,Diemen,Noord-Holland,VBO,4.964922,52.345255
 Martin Luther Kinglaan,384,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962872,52.345154
@@ -3161,7 +3279,7 @@ Martin Luther Kinglaan,412,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962706,52.
 Martin Luther Kinglaan,414,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962660,52.345359
 Martin Luther Kinglaan,436,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962744,52.345499
 Martin Luther Kinglaan,438,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962703,52.345564
-Martin Luther Kinglaan,440,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962663,52.345629
+Martin Luther Kinglaan,440,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962663,52.345630
 Martin Luther Kinglaan,442,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962622,52.345695
 Martin Luther Kinglaan,444,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962582,52.345760
 Martin Luther Kinglaan,446,,,1111LS,Diemen,Diemen,Noord-Holland,VBO,4.962541,52.345825
@@ -3693,7 +3811,7 @@ Rode Kruislaan,641,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.969909,52.343441
 Rode Kruislaan,643,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.969863,52.343514
 Rode Kruislaan,645,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.969818,52.343586
 Rode Kruislaan,647,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.970033,52.343221
-Rode Kruislaan,649,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.969987,52.343293
+Rode Kruislaan,649,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.969987,52.343294
 Rode Kruislaan,651,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.969941,52.343366
 Rode Kruislaan,653,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.969896,52.343438
 Rode Kruislaan,655,,,1111NV,Diemen,Diemen,Noord-Holland,VBO,4.969850,52.343511
@@ -3713,7 +3831,7 @@ Rode Kruislaan,703,,,1111NW,Diemen,Diemen,Noord-Holland,VBO,4.970412,52.343247
 Rode Kruislaan,705,,,1111NX,Diemen,Diemen,Noord-Holland,VBO,4.970418,52.343239
 Rode Kruislaan,707,,,1111NX,Diemen,Diemen,Noord-Holland,VBO,4.970526,52.343265
 Rode Kruislaan,709,,,1111NX,Diemen,Diemen,Noord-Holland,VBO,4.970635,52.343291
-Rode Kruislaan,711,,,1111NX,Diemen,Diemen,Noord-Holland,VBO,4.970745,52.343317
+Rode Kruislaan,711,,,1111NX,Diemen,Diemen,Noord-Holland,VBO,4.970744,52.343317
 Rode Kruislaan,713,,,1111NX,Diemen,Diemen,Noord-Holland,VBO,4.970853,52.343342
 Rode Kruislaan,715,,,1111NX,Diemen,Diemen,Noord-Holland,VBO,4.970962,52.343368
 Rode Kruislaan,717,,,1111NX,Diemen,Diemen,Noord-Holland,VBO,4.970423,52.343230
@@ -3964,6 +4082,8 @@ Overdiemerweg,23,,,1111PP,Diemen,Diemen,Noord-Holland,VBO,5.003540,52.341485
 Overdiemerweg,25,,,1111PP,Diemen,Diemen,Noord-Holland,VBO,5.003669,52.341485
 Overdiemerweg,27,,,1111PP,Diemen,Diemen,Noord-Holland,VBO,5.003833,52.341482
 Overdiemerweg,28,,,1111PP,Diemen,Diemen,Noord-Holland,VBO,5.004273,52.341467
+Overdiemerweg,32,A,,1111PP,Diemen,Diemen,Noord-Holland,LIG,5.009871,52.341258
+Overdiemerweg,32,B,,1111PP,Diemen,Diemen,Noord-Holland,LIG,5.010178,52.341463
 Overdiemerweg,32,,,1111PP,Diemen,Diemen,Noord-Holland,VBO,5.009919,52.340969
 Overdiemerweg,35,,,1111PP,Diemen,Diemen,Noord-Holland,VBO,5.020551,52.338452
 Overdiemerweg,37,A,,1111PP,Diemen,Diemen,Noord-Holland,VBO,5.013064,52.343129
@@ -4164,15 +4284,50 @@ Jaagpad,16,,,1111RP,Diemen,Diemen,Noord-Holland,VBO,4.975404,52.335586
 Jaagpad,18,,,1111RP,Diemen,Diemen,Noord-Holland,VBO,4.976274,52.335317
 Jaagpad,20,,,1111RP,Diemen,Diemen,Noord-Holland,VBO,4.976326,52.335301
 Naarderzandpad,1,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976616,52.335232
+Naarderzandpad,2,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976828,52.335143
 Naarderzandpad,3,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976592,52.335303
+Naarderzandpad,4,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976869,52.335202
 Naarderzandpad,5,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976624,52.335341
+Naarderzandpad,6,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976911,52.335261
 Naarderzandpad,7,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976660,52.335388
+Naarderzandpad,8,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976955,52.335319
 Naarderzandpad,9,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976692,52.335431
+Naarderzandpad,10,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976995,52.335376
 Naarderzandpad,11,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976726,52.335476
+Naarderzandpad,12,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977040,52.335439
 Naarderzandpad,13,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976758,52.335519
+Naarderzandpad,14,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977080,52.335496
 Naarderzandpad,15,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976792,52.335565
+Naarderzandpad,16,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977123,52.335554
 Naarderzandpad,17,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976824,52.335607
+Naarderzandpad,18,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976845,52.335137
 Naarderzandpad,19,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976860,52.335654
+Naarderzandpad,20,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976887,52.335199
+Naarderzandpad,22,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976927,52.335254
+Naarderzandpad,24,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976970,52.335316
+Naarderzandpad,26,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977009,52.335371
+Naarderzandpad,28,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977054,52.335432
+Naarderzandpad,30,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977097,52.335490
+Naarderzandpad,32,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977139,52.335550
+Naarderzandpad,34,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976860,52.335132
+Naarderzandpad,36,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976905,52.335194
+Naarderzandpad,38,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976945,52.335250
+Naarderzandpad,40,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976988,52.335310
+Naarderzandpad,42,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977027,52.335367
+Naarderzandpad,44,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977070,52.335425
+Naarderzandpad,46,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977114,52.335486
+Naarderzandpad,48,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977157,52.335544
+Naarderzandpad,50,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976880,52.335129
+Naarderzandpad,52,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976921,52.335189
+Naarderzandpad,54,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976961,52.335245
+Naarderzandpad,56,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977007,52.335305
+Naarderzandpad,58,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977045,52.335361
+Naarderzandpad,60,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977090,52.335420
+Naarderzandpad,62,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977131,52.335481
+Naarderzandpad,64,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.977175,52.335542
+Naarderzandpad,66,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976898,52.335123
+Naarderzandpad,68,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976941,52.335183
+Naarderzandpad,70,,,1111RR,Diemen,Diemen,Noord-Holland,VBO,4.976982,52.335239
 Het Tolhek,5,,,1111RS,Diemen,Diemen,Noord-Holland,VBO,4.975695,52.335516
 Het Tolhek,6,,,1111RS,Diemen,Diemen,Noord-Holland,VBO,4.976010,52.335419
 Het Tolhek,9,,,1111RS,Diemen,Diemen,Noord-Holland,VBO,4.975703,52.335626
@@ -4251,7 +4406,7 @@ Vierhuysen,9,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.968419,52.353489
 Vierhuysen,11,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.968487,52.353554
 Vierhuysen,13,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.968577,52.353641
 Vierhuysen,15,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.968644,52.353706
-Vierhuysen,17,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.968757,52.353763
+Vierhuysen,17,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.968757,52.353764
 Vierhuysen,19,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.968872,52.353795
 Vierhuysen,21,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.969025,52.353838
 Vierhuysen,23,,,1111SB,Diemen,Diemen,Noord-Holland,VBO,4.969139,52.353869
@@ -5264,7 +5419,7 @@ Fuut,45,,,1111VV,Diemen,Diemen,Noord-Holland,VBO,4.977552,52.350971
 Fuut,47,,,1111VV,Diemen,Diemen,Noord-Holland,VBO,4.977612,52.350938
 Fuut,49,,,1111VV,Diemen,Diemen,Noord-Holland,VBO,4.977672,52.350906
 Fuut,51,,,1111VV,Diemen,Diemen,Noord-Holland,VBO,4.977733,52.350874
-Fuut,2,,,1111VW,Diemen,Diemen,Noord-Holland,VBO,4.975811,52.351668
+Fuut,2,,,1111VW,Diemen,Diemen,Noord-Holland,VBO,4.975811,52.351669
 Fuut,4,,,1111VW,Diemen,Diemen,Noord-Holland,VBO,4.975872,52.351636
 Fuut,6,,,1111VW,Diemen,Diemen,Noord-Holland,VBO,4.975932,52.351603
 Fuut,8,,,1111VW,Diemen,Diemen,Noord-Holland,VBO,4.975992,52.351571
@@ -5290,7 +5445,7 @@ Meerkoet,13,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976266,52.352517
 Meerkoet,15,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976318,52.352490
 Meerkoet,17,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976371,52.352462
 Meerkoet,19,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976423,52.352434
-Meerkoet,21,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976223,52.352551
+Meerkoet,21,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976223,52.352552
 Meerkoet,23,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976275,52.352524
 Meerkoet,25,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976328,52.352496
 Meerkoet,27,,,1111VX,Diemen,Diemen,Noord-Holland,VBO,4.976380,52.352469
@@ -5544,6 +5699,7 @@ Bonte Kraai,13,,,1111WS,Diemen,Diemen,Noord-Holland,VBO,4.974319,52.349965
 Bonte Kraai,15,,,1111WS,Diemen,Diemen,Noord-Holland,VBO,4.974314,52.350009
 Bonte Kraai,17,,,1111WS,Diemen,Diemen,Noord-Holland,VBO,4.974309,52.350052
 Bonte Kraai,19,,,1111WS,Diemen,Diemen,Noord-Holland,VBO,4.974303,52.350096
+Iet van Feggelenlaan,18,,,1111WV,Diemen,Diemen,Noord-Holland,VBO,4.976637,52.337502
 Jaap Havekottelaan,7,,,1111WZ,Diemen,Diemen,Noord-Holland,VBO,4.976457,52.336484
 Rode Kruislaan,1101,A,,1111XA,Diemen,Diemen,Noord-Holland,VBO,4.972154,52.342824
 Rode Kruislaan,1101,B,,1111XA,Diemen,Diemen,Noord-Holland,VBO,4.972097,52.342810
@@ -5998,7 +6154,7 @@ Rode Kruislaan,1316,F,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972325,52.341977
 Rode Kruislaan,1317,A,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972593,52.342029
 Rode Kruislaan,1317,B,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972570,52.342024
 Rode Kruislaan,1317,C,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972546,52.342018
-Rode Kruislaan,1317,D,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972522,52.342012
+Rode Kruislaan,1317,D,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972522,52.342013
 Rode Kruislaan,1317,E,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972498,52.342007
 Rode Kruislaan,1317,F,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972474,52.342001
 Rode Kruislaan,1318,A,,1111XC,Diemen,Diemen,Noord-Holland,VBO,4.972450,52.341996
@@ -6206,7 +6362,7 @@ Rode Kruislaan,1421,B,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972317,52.341517
 Rode Kruislaan,1421,C,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972293,52.341512
 Rode Kruislaan,1421,D,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972269,52.341506
 Rode Kruislaan,1421,E,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972245,52.341500
-Rode Kruislaan,1421,F,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972221,52.341494
+Rode Kruislaan,1421,F,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972221,52.341495
 Rode Kruislaan,1422,A,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972198,52.341489
 Rode Kruislaan,1422,B,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972174,52.341483
 Rode Kruislaan,1422,C,,1111XD,Diemen,Diemen,Noord-Holland,VBO,4.972150,52.341477
@@ -6444,7 +6600,7 @@ Rode Kruislaan,1530,C,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.972014,52.340977
 Rode Kruislaan,1530,D,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.971990,52.340972
 Rode Kruislaan,1530,E,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.971966,52.340966
 Rode Kruislaan,1530,F,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.971942,52.340961
-Rode Kruislaan,1531,A,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.972197,52.341009
+Rode Kruislaan,1531,A,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.972197,52.341010
 Rode Kruislaan,1531,B,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.972171,52.341004
 Rode Kruislaan,1531,C,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.972145,52.340998
 Rode Kruislaan,1532,A,,1111XE,Diemen,Diemen,Noord-Holland,VBO,4.972093,52.340986
@@ -6565,7 +6721,7 @@ Julianaplantsoen,213,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.969195,52.341088
 Julianaplantsoen,215,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.969209,52.341091
 Julianaplantsoen,217,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.968981,52.340969
 Julianaplantsoen,219,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.968994,52.340972
-Julianaplantsoen,221,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.969008,52.340975
+Julianaplantsoen,221,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.969008,52.340976
 Julianaplantsoen,223,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.969028,52.340897
 Julianaplantsoen,225,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.969041,52.340900
 Julianaplantsoen,227,,,1111XM,Diemen,Diemen,Noord-Holland,VBO,4.969055,52.340904
@@ -6674,7 +6830,7 @@ Julianaplantsoen,112,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967704,52.340821
 Julianaplantsoen,114,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967709,52.340812
 Julianaplantsoen,116,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967715,52.340804
 Julianaplantsoen,118,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967790,52.340842
-Julianaplantsoen,120,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967796,52.340833
+Julianaplantsoen,120,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967796,52.340834
 Julianaplantsoen,122,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967801,52.340825
 Julianaplantsoen,124,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967907,52.340871
 Julianaplantsoen,126,,,1111XT,Diemen,Diemen,Noord-Holland,VBO,4.967913,52.340862

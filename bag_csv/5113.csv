@@ -1,5 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Heihoef,1,a,,5113BA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.868038,51.451686
+Heihoef,1,b,,5113BA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.868623,51.451848
 Heihoef,1,,,5113BA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.868926,51.453263
 Heihoef,3,,,5113BA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.868201,51.451201
 Heihoef,5,,,5113BA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.867510,51.451297
@@ -55,6 +56,7 @@ Hondseind,11,a,,5113BE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.879113,51.4596
 Hondseind,11,,,5113BE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.879113,51.459600
 Hondseind,15,,,5113BE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.881340,51.458612
 Maaijkantsestraat,1,,,5113BG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.866993,51.465039
+Maaijkantsestraat,2,,,5113BG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.864633,51.466871
 Maaijkantsestraat,2,,,5113BG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.864831,51.466620
 Maaijkantsestraat,3,,,5113BG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.865692,51.465572
 Maaijkantsestraat,4,,,5113BG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.861566,51.468934
@@ -122,6 +124,7 @@ Lijmbeek,6,,,5113BN,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.837393,51.468135
 Armeshof,2,,,5113BP,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.846797,51.459446
 Armeshof,4,,,5113BP,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.847530,51.458335
 Armeshof,6,,,5113BP,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.848437,51.458312
+Bosstraat,1,a,,5113BR,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.852958,51.457566
 Bosstraat,1,,,5113BR,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.852591,51.457450
 Bosstraat,2,a,,5113BR,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.848630,51.457244
 Bosstraat,2,b,,5113BR,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.848652,51.457497
@@ -141,6 +144,7 @@ Heikantsestraat,2,,,5113BS,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.857597,51.
 Heikantsestraat,3,,,5113BS,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.850354,51.453134
 Heikantsestraat,4,a,,5113BS,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.854248,51.453426
 Heikantsestraat,4,,,5113BS,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855116,51.453147
+Heikantsestraat,5,,,5113BS,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.849733,51.453097
 Heikantsestraat,5,,,5113BS,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.850356,51.452963
 Heikantsestraat,6,,,5113BS,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.846793,51.453756
 Heikantsestraat,7,,,5113BS,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.849015,51.453191
@@ -180,8 +184,8 @@ Haldijk,11,a,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.832972,51.432028
 Haldijk,11,,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.832351,51.432268
 Haldijk,12,,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.833440,51.432561
 Haldijk,13,a,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.830784,51.432179
-Haldijk,13,,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.830468,51.432178
-Haldijk,15,,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.830152,51.432158
+Haldijk,13,,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.830597,51.432097
+Haldijk,15,,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.830230,51.432169
 Haldijk,17,,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.826717,51.432007
 Haldijk,19,,,5113BW,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.826344,51.431897
 Nieuwe Strumpt,1,,,5113BX,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.850371,51.445575
@@ -207,12 +211,15 @@ Beemdendreef,3,,,5113CD,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.847727,51.430
 Beemdendreef,4,,,5113CD,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.847408,51.430945
 Beemdendreef,6,,,5113CD,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.846028,51.429725
 Oude Bredasebaan,29,,,5113CG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.877727,51.471639
+Oude Bredasebaan,30,,,5113CG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.879249,51.474558
 Oude Bredasebaan,31,,,5113CG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.874323,51.473530
 Oude Bredasebaan,35,,,5113CG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.872596,51.473549
 Wildertsebaan,4,,,5113CH,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.874434,51.439436
 Wildertsebaan,6,,,5113CH,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.866667,51.441972
+Wildertsebaan,8,,,5113CH,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.864313,51.445643
 Wildertsebaan,9,,,5113CH,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.867878,51.439146
 Heidreef,1,,,5113CK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.862733,51.451357
+Hondseindsebaan,2,,,5113CL,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.875554,51.461327
 Molenstraat,1,,,5113GG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.854071,51.457637
 Molenstraat,2,a,,5113GG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.853570,51.457374
 Molenstraat,2,b,,5113GG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.853810,51.457797
@@ -283,7 +290,7 @@ Baarleseweg,2,,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.892793,51.4507
 Baarleseweg,3,,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.887493,51.451259
 Baarleseweg,4,,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.892030,51.450784
 Baarleseweg,5,a,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.878840,51.449244
-Baarleseweg,5,,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.879104,51.448876
+Baarleseweg,5,,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.879103,51.448876
 Baarleseweg,6,,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.889450,51.451222
 Baarleseweg,7,,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.878875,51.452588
 Baarleseweg,8,,,5113TA,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.888701,51.451345
@@ -319,6 +326,7 @@ Dorpsstraat,21,,,5113TC,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.862753,51.455
 Dorpsstraat,23,,,5113TC,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.862666,51.455878
 Dorpsstraat,25,,,5113TC,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.862421,51.455931
 Dorpsstraat,29,,,5113TC,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.861916,51.456045
+Dorpsstraat,31,a,,5113TC,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.861603,51.456158
 Dorpsstraat,31,,,5113TC,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.861545,51.456186
 Dorpsstraat,33,,,5113TC,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.861367,51.456276
 Dorpsstraat,35,,,5113TC,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.861237,51.456312
@@ -389,7 +397,9 @@ Dorpsstraat,50,,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.857177,51.457
 Dorpsstraat,52,,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856917,51.457865
 Dorpsstraat,54,a,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856729,51.457918
 Dorpsstraat,54,,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856697,51.457920
+Dorpsstraat,58,a,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855781,51.458050
 Dorpsstraat,58,,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855879,51.458040
+Dorpsstraat,58,,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855986,51.458027
 Dorpsstraat,60,a,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.854943,51.458114
 Dorpsstraat,60,,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855110,51.458203
 Dorpsstraat,62,a,,5113TE,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.854237,51.458195
@@ -399,7 +409,7 @@ Bernardusstraat,1,b,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.859450,51
 Bernardusstraat,1,,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.859293,51.456465
 Bernardusstraat,3,,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.859250,51.456411
 Bernardusstraat,4,,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.858915,51.456742
-Bernardusstraat,5,,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.859179,51.456329
+Bernardusstraat,5,,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.859179,51.456330
 Bernardusstraat,6,,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.858990,51.456544
 Bernardusstraat,7,,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.859137,51.456275
 Bernardusstraat,8,,,5113TG,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.858890,51.456436
@@ -448,6 +458,18 @@ Kerkepad,2,a,,5113TJ,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.857141,51.457129
 Kerkepad,2,,,5113TJ,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856971,51.456940
 Kerkepad,3,,,5113TJ,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.857287,51.456950
 Kerkepad,4,,,5113TJ,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856928,51.456868
+Hof van Bernardus,1,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856345,51.457104
+Hof van Bernardus,2,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856477,51.457241
+Hof van Bernardus,3,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856261,51.457116
+Hof van Bernardus,4,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856385,51.457246
+Hof van Bernardus,5,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856176,51.457121
+Hof van Bernardus,6,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856301,51.457258
+Hof van Bernardus,7,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856088,51.457133
+Hof van Bernardus,8,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856214,51.457271
+Hof van Bernardus,9,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855883,51.457157
+Hof van Bernardus,11,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855800,51.457159
+Hof van Bernardus,13,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855710,51.457164
+Hof van Bernardus,15,,,5113TK,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.855623,51.457167
 Bernardusstraat,23,,,5113TL,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856646,51.456390
 Bernardusstraat,25,,,5113TL,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856560,51.456399
 Bernardusstraat,27,,,5113TL,Ulicoten,Baarle-Nassau,Noord-Brabant,VBO,4.856473,51.456407

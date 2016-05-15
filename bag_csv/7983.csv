@@ -1,4 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
+Kalteren,8,b,,7983KA,Wapse,Westerveld,Drenthe,VBO,6.287601,52.855711
 Kalteren,8,b,,7983KA,Wapse,Westerveld,Drenthe,VBO,6.288082,52.855634
 Kalteren,10,,,7983KA,Wapse,Westerveld,Drenthe,VBO,6.283048,52.856024
 De Kamp,1,,,7983KB,Wapse,Westerveld,Drenthe,VBO,6.286745,52.858872
@@ -31,6 +32,7 @@ Ten Have,11,,,7983KD,Wapse,Westerveld,Drenthe,VBO,6.265843,52.850957
 Ten Have,13,,,7983KD,Wapse,Westerveld,Drenthe,VBO,6.265572,52.850770
 Ten Have,15,t,,7983KD,Wapse,Westerveld,Drenthe,VBO,6.264561,52.850244
 Ten Have,15,,,7983KD,Wapse,Westerveld,Drenthe,VBO,6.264847,52.850183
+Ten Have,17,,,7983KD,Wapse,Westerveld,Drenthe,VBO,6.264151,52.850427
 Ten Have,19,,,7983KD,Wapse,Westerveld,Drenthe,VBO,6.262570,52.849876
 Ten Have,21,,,7983KD,Wapse,Westerveld,Drenthe,VBO,6.261290,52.849696
 Ten Have,23,,,7983KD,Wapse,Westerveld,Drenthe,VBO,6.259985,52.849778
@@ -70,8 +72,6 @@ Rollestraat,16,,,7983KJ,Wapse,Westerveld,Drenthe,VBO,6.267410,52.860957
 Rollestraat,18,,,7983KJ,Wapse,Westerveld,Drenthe,VBO,6.267354,52.861119
 Rollestraat,20,,,7983KJ,Wapse,Westerveld,Drenthe,VBO,6.267312,52.861281
 Rollestraat,22,,,7983KJ,Wapse,Westerveld,Drenthe,VBO,6.267421,52.862233
-Rollestraat,24,a,,7983KJ,Wapse,Westerveld,Drenthe,VBO,6.267797,52.862873
-Rollestraat,24,,,7983KJ,Wapse,Westerveld,Drenthe,VBO,6.267878,52.862832
 Rollestraat,26,,,7983KJ,Wapse,Westerveld,Drenthe,VBO,6.267201,52.862837
 Rollestraat,1,,,7983KK,Wapse,Westerveld,Drenthe,VBO,6.267700,52.859157
 Rollestraat,3,,,7983KK,Wapse,Westerveld,Drenthe,VBO,6.267631,52.859383
@@ -128,7 +128,7 @@ Ten Darperweg,36,,,7983KM,Wapse,Westerveld,Drenthe,VBO,6.274695,52.859941
 Ten Darperweg,38,,,7983KM,Wapse,Westerveld,Drenthe,VBO,6.273887,52.859669
 Ten Darperweg,40,,,7983KM,Wapse,Westerveld,Drenthe,VBO,6.269498,52.859234
 Ten Darperweg,42,,,7983KM,Wapse,Westerveld,Drenthe,VBO,6.269275,52.859218
-Ten Darperweg,44,,,7983KM,Wapse,Westerveld,Drenthe,VBO,6.269053,52.859210
+Ten Darperweg,44,,,7983KM,Wapse,Westerveld,Drenthe,VBO,6.269052,52.859210
 Ten Darperweg,46,,,7983KM,Wapse,Westerveld,Drenthe,VBO,6.268709,52.859096
 Ten Darperweg,48,,,7983KM,Wapse,Westerveld,Drenthe,VBO,6.268411,52.859071
 Ten Darperweg,50,,,7983KN,Wapse,Westerveld,Drenthe,VBO,6.267607,52.858960
@@ -161,7 +161,7 @@ Ten Darperweg,100,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.256804,52.855526
 Ten Darperweg,102,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.256251,52.855350
 Ten Darperweg,104,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.255094,52.855385
 Ten Darperweg,106,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.253093,52.855571
-Ten Darperweg,108,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.252145,52.855685
+Ten Darperweg,108,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.252145,52.855686
 Ten Darperweg,110,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.249654,52.855874
 Ten Darperweg,112,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.249313,52.855895
 Ten Darperweg,114,,,7983KP,Wapse,Westerveld,Drenthe,VBO,6.246511,52.856095
@@ -300,7 +300,11 @@ Veenhuizerhof,1,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.267324,52.862919
 Veenhuizerhof,3,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.267320,52.863009
 Veenhuizerhof,5,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.267319,52.863093
 Veenhuizerhof,7,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.267483,52.863226
+Veenhuizerhof,8,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.268124,52.863007
 Veenhuizerhof,9,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.267565,52.863254
+Veenhuizerhof,10,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.268197,52.863025
 Veenhuizerhof,11,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.267633,52.863271
+Veenhuizerhof,12,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.268058,52.863096
 Veenhuizerhof,13,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.267730,52.863297
+Veenhuizerhof,14,,,7983LK,Wapse,Westerveld,Drenthe,VBO,6.268111,52.863113
 Baeteweg,2,,,7983LZ,Wapse,Westerveld,Drenthe,VBO,6.234655,52.845710

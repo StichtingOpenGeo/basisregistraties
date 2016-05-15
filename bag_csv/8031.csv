@@ -1,7 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Mozartlaan,1,,,8031AA,Zwolle,Zwolle,Overijssel,VBO,6.082560,52.525757
+Mozartlaan,1,R,1,8031AA,Zwolle,Zwolle,Overijssel,VBO,6.082560,52.525757
 Mozartlaan,15,,,8031AA,Zwolle,Zwolle,Overijssel,VBO,6.084475,52.520898
-Mozartlaan,2,,,8031AB,Zwolle,Zwolle,Overijssel,VBO,6.081955,52.525882
+Mozartlaan,8,R,1,8031AB,Zwolle,Zwolle,Overijssel,VBO,6.081955,52.525882
 Mozartlaan,8,,,8031AB,Zwolle,Zwolle,Overijssel,VBO,6.082049,52.525261
 Mozartlaan,12,,,8031AB,Zwolle,Zwolle,Overijssel,VBO,6.082104,52.525070
 Mozartlaan,14,,,8031AB,Zwolle,Zwolle,Overijssel,VBO,6.082118,52.524964
@@ -360,7 +360,8 @@ Beethovenlaan,396,,,8031BZ,Zwolle,Zwolle,Overijssel,VBO,6.081194,52.526749
 Beethovenlaan,398,,,8031BZ,Zwolle,Zwolle,Overijssel,VBO,6.081196,52.526698
 Beethovenlaan,400,,,8031BZ,Zwolle,Zwolle,Overijssel,VBO,6.081199,52.526648
 Beethovenlaan,402,,,8031BZ,Zwolle,Zwolle,Overijssel,VBO,6.081261,52.526616
-Beethovenlaan,185,,,8031CA,Zwolle,Zwolle,Overijssel,VBO,6.080927,52.527309
+Beethovenlaan,185,A,,8031CA,Zwolle,Zwolle,Overijssel,VBO,6.080900,52.527315
+Beethovenlaan,185,,,8031CA,Zwolle,Zwolle,Overijssel,VBO,6.080926,52.527315
 Beethovenlaan,187,,,8031CA,Zwolle,Zwolle,Overijssel,VBO,6.080920,52.527364
 Beethovenlaan,189,,,8031CA,Zwolle,Zwolle,Overijssel,VBO,6.080914,52.527418
 Beethovenlaan,191,,,8031CA,Zwolle,Zwolle,Overijssel,VBO,6.080910,52.527473
@@ -615,7 +616,8 @@ Ravelstraat,21,,,8031DC,Zwolle,Zwolle,Overijssel,VBO,6.092357,52.525015
 Ravelstraat,23,,,8031DC,Zwolle,Zwolle,Overijssel,VBO,6.092480,52.525031
 Ravelstraat,2,,,8031DD,Zwolle,Zwolle,Overijssel,VBO,6.091983,52.524325
 Ravelstraat,4,,,8031DD,Zwolle,Zwolle,Overijssel,VBO,6.091950,52.524387
-Ravelstraat,6,,,8031DD,Zwolle,Zwolle,Overijssel,VBO,6.091988,52.524661
+Ravelstraat,6,A,,8031DD,Zwolle,Zwolle,Overijssel,VBO,6.092036,52.524668
+Ravelstraat,6,,,8031DD,Zwolle,Zwolle,Overijssel,VBO,6.091922,52.524643
 Ravelstraat,8,,,8031DD,Zwolle,Zwolle,Overijssel,VBO,6.092219,52.524698
 Ravelstraat,10,,,8031DD,Zwolle,Zwolle,Overijssel,VBO,6.092324,52.524719
 Ravelstraat,12,,,8031DD,Zwolle,Zwolle,Overijssel,VBO,6.092507,52.524746
@@ -720,7 +722,7 @@ Monteverdilaan,131,,,8031DK,Zwolle,Zwolle,Overijssel,VBO,6.089434,52.523490
 Monteverdilaan,133,,,8031DK,Zwolle,Zwolle,Overijssel,VBO,6.089429,52.523510
 Monteverdilaan,135,,,8031DK,Zwolle,Zwolle,Overijssel,VBO,6.089447,52.523530
 Monteverdilaan,137,,,8031DK,Zwolle,Zwolle,Overijssel,VBO,6.089497,52.523517
-Monteverdilaan,139,,,8031DK,Zwolle,Zwolle,Overijssel,VBO,6.089492,52.523494
+Monteverdilaan,139,,,8031DK,Zwolle,Zwolle,Overijssel,VBO,6.089492,52.523495
 Monteverdilaan,141,,,8031DK,Zwolle,Zwolle,Overijssel,VBO,6.089502,52.523471
 Monteverdilaan,143,,,8031DL,Zwolle,Zwolle,Overijssel,VBO,6.089506,52.523452
 Monteverdilaan,145,,,8031DL,Zwolle,Zwolle,Overijssel,VBO,6.089525,52.523429
@@ -911,6 +913,18 @@ Zwartewaterallee,6,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.086425,52.520197
 Zwartewaterallee,8,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.087129,52.520466
 Zwartewaterallee,14,T,1,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.090332,52.521677
 Zwartewaterallee,14,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.090175,52.521703
+Zwartewaterallee,20,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092327,52.522436
+Zwartewaterallee,22,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092385,52.522402
+Zwartewaterallee,24,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092410,52.522349
+Zwartewaterallee,26,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092426,52.522294
+Zwartewaterallee,28,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092440,52.522248
+Zwartewaterallee,30,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092451,52.522188
+Zwartewaterallee,32,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092658,52.522534
+Zwartewaterallee,34,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092713,52.522541
+Zwartewaterallee,36,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092797,52.522554
+Zwartewaterallee,38,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092869,52.522568
+Zwartewaterallee,40,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.092942,52.522582
+Zwartewaterallee,42,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.093023,52.522597
 Zwartewaterallee,44,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.093219,52.522779
 Zwartewaterallee,46,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.093262,52.522742
 Zwartewaterallee,48,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.093307,52.522703
@@ -923,6 +937,24 @@ Zwartewaterallee,60,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094039,52.522961
 Zwartewaterallee,62,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094124,52.523004
 Zwartewaterallee,64,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094240,52.523037
 Zwartewaterallee,66,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094347,52.523059
+Zwartewaterallee,68,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094608,52.523155
+Zwartewaterallee,70,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094658,52.523179
+Zwartewaterallee,72,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094704,52.523200
+Zwartewaterallee,74,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094742,52.523219
+Zwartewaterallee,76,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094783,52.523242
+Zwartewaterallee,78,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094852,52.523396
+Zwartewaterallee,80,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094848,52.523359
+Zwartewaterallee,82,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094848,52.523326
+Zwartewaterallee,84,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094847,52.523291
+Zwartewaterallee,86,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094849,52.523257
+Zwartewaterallee,88,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094910,52.523241
+Zwartewaterallee,90,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094953,52.523223
+Zwartewaterallee,92,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094993,52.523202
+Zwartewaterallee,94,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.095030,52.523177
+Zwartewaterallee,96,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.095067,52.523159
+Zwartewaterallee,98,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.095104,52.523138
+Zwartewaterallee,100,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.095149,52.523121
+Zwartewaterallee,102,,,8031DX,Zwolle,Zwolle,Overijssel,VBO,6.094856,52.523217
 Nijverheidstraat,1,A,,8031DZ,Zwolle,Zwolle,Overijssel,VBO,6.084625,52.518855
 Nijverheidstraat,1,B,,8031DZ,Zwolle,Zwolle,Overijssel,VBO,6.084055,52.519161
 Nijverheidstraat,11,D,1,8031DZ,Zwolle,Zwolle,Overijssel,VBO,6.090774,52.521209
@@ -1389,7 +1421,7 @@ Verhulststraat,94,,,8031EW,Zwolle,Zwolle,Overijssel,VBO,6.083646,52.524278
 Verhulststraat,96,,,8031EW,Zwolle,Zwolle,Overijssel,VBO,6.083635,52.524324
 Verhulststraat,98,,,8031EW,Zwolle,Zwolle,Overijssel,VBO,6.083621,52.524377
 Verhulststraat,100,,,8031EW,Zwolle,Zwolle,Overijssel,VBO,6.083610,52.524431
-Mozartlaan,24,,,8031EX,Zwolle,Zwolle,Overijssel,VBO,6.082161,52.524418
+Mozartlaan,24,,,8031EX,Zwolle,Zwolle,Overijssel,VBO,6.082161,52.524419
 Mozartlaan,26,,,8031EX,Zwolle,Zwolle,Overijssel,VBO,6.082170,52.524372
 Mozartlaan,28,,,8031EX,Zwolle,Zwolle,Overijssel,VBO,6.082188,52.524327
 Mozartlaan,30,,,8031EX,Zwolle,Zwolle,Overijssel,VBO,6.082200,52.524286
@@ -1539,7 +1571,7 @@ Schumannlaan,73,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081365,52.522963
 Schumannlaan,75,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081446,52.522972
 Schumannlaan,77,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081517,52.522980
 Schumannlaan,79,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081600,52.522990
-Schumannlaan,81,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081671,52.522997
+Schumannlaan,81,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081671,52.522998
 Schumannlaan,83,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081779,52.523010
 Schumannlaan,85,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081837,52.523016
 Schumannlaan,87,,,8031EZ,Zwolle,Zwolle,Overijssel,VBO,6.081906,52.523014
@@ -1854,6 +1886,16 @@ Klooienberglaan,96,G,7,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076995,52.524584
 Klooienberglaan,96,G,8,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076992,52.524608
 Klooienberglaan,96,G,9,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076992,52.524634
 Klooienberglaan,96,T,1,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.077160,52.524761
+Klooienberglaan,100,A,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076290,52.526562
+Klooienberglaan,100,B,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076293,52.526604
+Klooienberglaan,100,C,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076290,52.526649
+Klooienberglaan,100,D,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076292,52.526692
+Klooienberglaan,100,E,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076297,52.526736
+Klooienberglaan,100,F,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076301,52.526779
+Klooienberglaan,100,G,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076302,52.526821
+Klooienberglaan,100,H,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076301,52.526865
+Klooienberglaan,100,K,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076303,52.526908
+Klooienberglaan,100,,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076288,52.526519
 Klooienberglaan,102,,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076201,52.527107
 Klooienberglaan,104,,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076196,52.527167
 Klooienberglaan,106,,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076192,52.527228
@@ -1870,7 +1912,7 @@ Klooienberglaan,126,,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076650,52.527738
 Klooienberglaan,128,,,8031GM,Zwolle,Zwolle,Overijssel,VBO,6.076647,52.527792
 Klooienberglaan,130,G,1,8031GN,Zwolle,Zwolle,Overijssel,VBO,6.076086,52.528119
 Klooienberglaan,130,G,2,8031GN,Zwolle,Zwolle,Overijssel,VBO,6.076085,52.528243
-Klooienberglaan,130,G,3,8031GN,Zwolle,Zwolle,Overijssel,VBO,6.076086,52.528278
+Klooienberglaan,130,G,3,8031GN,Zwolle,Zwolle,Overijssel,VBO,6.076085,52.528278
 Klooienberglaan,130,G,4,8031GN,Zwolle,Zwolle,Overijssel,VBO,6.076082,52.528402
 Klooienberglaan,130,,,8031GN,Zwolle,Zwolle,Overijssel,VBO,6.076127,52.528119
 Klooienberglaan,132,,,8031GN,Zwolle,Zwolle,Overijssel,VBO,6.076127,52.528137
@@ -1926,6 +1968,49 @@ Sibeliusstraat,7,,,8031GS,Zwolle,Zwolle,Overijssel,VBO,6.080720,52.525083
 Sibeliusstraat,9,,,8031GS,Zwolle,Zwolle,Overijssel,VBO,6.080647,52.525079
 Sibeliusstraat,11,,,8031GS,Zwolle,Zwolle,Overijssel,VBO,6.080578,52.525071
 Sibeliusstraat,13,,,8031GS,Zwolle,Zwolle,Overijssel,VBO,6.080506,52.525061
+Bachlaan,1,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.076763,52.526525
+Bachlaan,3,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.076835,52.526525
+Bachlaan,5,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.076907,52.526525
+Bachlaan,7,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.076978,52.526525
+Bachlaan,9,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.077051,52.526526
+Bachlaan,11,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.077120,52.526523
+Bachlaan,13,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.077192,52.526524
+Bachlaan,15,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.077264,52.526522
+Bachlaan,17,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.077335,52.526523
+Bachlaan,19,,,8031HA,Zwolle,Zwolle,Overijssel,VBO,6.077406,52.526523
+Bachlaan,121,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.079683,52.526496
+Bachlaan,123,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.079757,52.526497
+Bachlaan,125,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.079828,52.526495
+Bachlaan,127,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.079905,52.526496
+Bachlaan,129,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.079969,52.526496
+Bachlaan,131,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080040,52.526496
+Bachlaan,133,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080114,52.526495
+Bachlaan,135,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080183,52.526494
+Bachlaan,137,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080259,52.526494
+Bachlaan,139,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080629,52.526471
+Bachlaan,141,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080629,52.526521
+Bachlaan,143,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080631,52.526569
+Bachlaan,145,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080636,52.526627
+Bachlaan,147,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080639,52.526688
+Bachlaan,149,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080642,52.526742
+Bachlaan,151,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080642,52.526793
+Bachlaan,153,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080645,52.526851
+Bachlaan,155,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080576,52.526471
+Bachlaan,157,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080577,52.526520
+Bachlaan,159,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080579,52.526568
+Bachlaan,161,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080582,52.526628
+Bachlaan,163,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080583,52.526687
+Bachlaan,165,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080585,52.526742
+Bachlaan,167,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080589,52.526794
+Bachlaan,169,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080592,52.526852
+Bachlaan,171,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080521,52.526471
+Bachlaan,173,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080522,52.526521
+Bachlaan,175,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080524,52.526570
+Bachlaan,177,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080528,52.526629
+Bachlaan,179,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080531,52.526688
+Bachlaan,181,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080533,52.526744
+Bachlaan,183,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080529,52.526794
+Bachlaan,185,,,8031HB,Zwolle,Zwolle,Overijssel,VBO,6.080530,52.526852
 Bachlaan,343,,,8031HK,Zwolle,Zwolle,Overijssel,VBO,6.081450,52.526387
 Bachlaan,345,,,8031HK,Zwolle,Zwolle,Overijssel,VBO,6.081592,52.526366
 Bachlaan,347,,,8031HK,Zwolle,Zwolle,Overijssel,VBO,6.081727,52.526342
@@ -1967,6 +2052,25 @@ Bachlaan,156,A,,8031HL,Zwolle,Zwolle,Overijssel,VBO,6.088079,52.526972
 Bachlaan,158,,,8031HL,Zwolle,Zwolle,Overijssel,VBO,6.088456,52.526824
 Bachlaan,160,,,8031HL,Zwolle,Zwolle,Overijssel,VBO,6.089220,52.526885
 Bachlaan,162,,,8031HL,Zwolle,Zwolle,Overijssel,VBO,6.089390,52.526923
+Porporastraat,43,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.080269,52.526850
+Porporastraat,45,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.080193,52.526850
+Porporastraat,47,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.080123,52.526852
+Porporastraat,49,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.080052,52.526851
+Porporastraat,51,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.079981,52.526853
+Porporastraat,53,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.079910,52.526853
+Porporastraat,55,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.079838,52.526856
+Porporastraat,57,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.079769,52.526855
+Porporastraat,59,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.079695,52.526855
+Porporastraat,79,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.077415,52.526880
+Porporastraat,81,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.077342,52.526878
+Porporastraat,83,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.077273,52.526882
+Porporastraat,85,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.077199,52.526880
+Porporastraat,87,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.077131,52.526882
+Porporastraat,89,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.077058,52.526879
+Porporastraat,91,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.076988,52.526881
+Porporastraat,93,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.076917,52.526881
+Porporastraat,95,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.076848,52.526881
+Porporastraat,97,,,8031HM,Zwolle,Zwolle,Overijssel,VBO,6.076773,52.526881
 Porporastraat,1,,,8031HN,Zwolle,Zwolle,Overijssel,VBO,6.076548,52.527069
 Porporastraat,3,,,8031HN,Zwolle,Zwolle,Overijssel,VBO,6.076636,52.527071
 Porporastraat,5,,,8031HN,Zwolle,Zwolle,Overijssel,VBO,6.076726,52.527073
@@ -2054,7 +2158,7 @@ Porporastraat,76,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.083013,52.526842
 Porporastraat,78,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.083036,52.526761
 Porporastraat,80,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.083053,52.526674
 Porporastraat,82,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.082799,52.526609
-Porporastraat,84,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.082790,52.526693
+Porporastraat,84,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.082789,52.526693
 Porporastraat,86,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.082777,52.526758
 Porporastraat,88,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.082768,52.526827
 Porporastraat,90,,,8031HS,Zwolle,Zwolle,Overijssel,VBO,6.082761,52.526893
@@ -2128,7 +2232,7 @@ Vivaldistraat,31,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076797,52.528303
 Vivaldistraat,33,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076695,52.528301
 Vivaldistraat,35,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076588,52.528301
 Vivaldistraat,37,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076491,52.528300
-Vivaldistraat,39,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076536,52.528503
+Vivaldistraat,39,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076536,52.528504
 Vivaldistraat,41,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076534,52.528557
 Vivaldistraat,43,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076532,52.528615
 Vivaldistraat,45,,,8031JB,Zwolle,Zwolle,Overijssel,VBO,6.076534,52.528666
@@ -2208,7 +2312,7 @@ Corellistraat,9,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078308,52.527500
 Corellistraat,11,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078307,52.527552
 Corellistraat,13,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078305,52.527611
 Corellistraat,15,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078302,52.527672
-Corellistraat,17,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078299,52.527732
+Corellistraat,17,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078299,52.527733
 Corellistraat,19,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078296,52.527790
 Corellistraat,21,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078295,52.527852
 Corellistraat,23,,,8031JG,Zwolle,Zwolle,Overijssel,VBO,6.078291,52.527911
@@ -2982,6 +3086,7 @@ Gombertstraat,129,,,8031LD,Zwolle,Zwolle,Overijssel,VBO,6.093422,52.524492
 Gombertstraat,131,,,8031LD,Zwolle,Zwolle,Overijssel,VBO,6.093631,52.524526
 Brinkhoekweg,1,,,8031LE,Zwolle,Zwolle,Overijssel,VBO,6.094315,52.547339
 Luttekeweg,1,,,8031LG,Zwolle,Zwolle,Overijssel,VBO,6.082673,52.535098
+Luttekeweg,2,,,8031LG,Zwolle,Zwolle,Overijssel,VBO,6.083012,52.533978
 Luttekeweg,5,,,8031LG,Zwolle,Zwolle,Overijssel,VBO,6.086124,52.534591
 Luttekeweg,11,,,8031LG,Zwolle,Zwolle,Overijssel,VBO,6.086754,52.533394
 Luttekeweg,13,,,8031LG,Zwolle,Zwolle,Overijssel,VBO,6.087565,52.533387
@@ -3240,7 +3345,7 @@ Gombertstraat,338,G,46,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.089212,52.523364
 Gombertstraat,338,G,47,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.089219,52.523336
 Gombertstraat,338,G,48,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.089224,52.523310
 Gombertstraat,338,G,49,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.089229,52.523283
-Gombertstraat,338,G,5,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.088793,52.523518
+Gombertstraat,338,G,5,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.088793,52.523519
 Gombertstraat,338,G,50,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.089236,52.523257
 Gombertstraat,338,G,51,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.089241,52.523230
 Gombertstraat,338,G,52,8031MK,Zwolle,Zwolle,Overijssel,VBO,6.089379,52.523554
@@ -4102,7 +4207,7 @@ Palestrinalaan,463,,,8031SK,Zwolle,Zwolle,Overijssel,VBO,6.078322,52.530438
 Palestrinalaan,465,,,8031SK,Zwolle,Zwolle,Overijssel,VBO,6.078324,52.530518
 Palestrinalaan,467,,,8031SK,Zwolle,Zwolle,Overijssel,VBO,6.078321,52.530587
 Palestrinalaan,469,,,8031SK,Zwolle,Zwolle,Overijssel,VBO,6.078313,52.530649
-Palestrinalaan,471,,,8031SK,Zwolle,Zwolle,Overijssel,VBO,6.078309,52.530721
+Palestrinalaan,471,,,8031SK,Zwolle,Zwolle,Overijssel,VBO,6.078309,52.530722
 Palestrinalaan,473,,,8031SK,Zwolle,Zwolle,Overijssel,VBO,6.078307,52.530801
 Palestrinalaan,475,,,8031SK,Zwolle,Zwolle,Overijssel,VBO,6.078309,52.530884
 Palestrinalaan,477,,,8031SL,Zwolle,Zwolle,Overijssel,VBO,6.078299,52.530893
@@ -4263,7 +4368,7 @@ Palestrinalaan,677,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080770,52.530303
 Palestrinalaan,679,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080768,52.530373
 Palestrinalaan,681,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080765,52.530448
 Palestrinalaan,683,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080764,52.530523
-Palestrinalaan,685,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080764,52.530597
+Palestrinalaan,685,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080763,52.530597
 Palestrinalaan,687,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080762,52.530671
 Palestrinalaan,689,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080758,52.530745
 Palestrinalaan,691,,,8031TE,Zwolle,Zwolle,Overijssel,VBO,6.080757,52.530820
@@ -4446,7 +4551,7 @@ Palestrinalaan,917,G,40,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088958,52.530768
 Palestrinalaan,917,G,41,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088893,52.530763
 Palestrinalaan,917,G,42,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088844,52.530764
 Palestrinalaan,917,G,43,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088785,52.530760
-Palestrinalaan,917,G,44,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088705,52.530754
+Palestrinalaan,917,G,44,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088705,52.530755
 Palestrinalaan,917,G,45,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088655,52.530754
 Palestrinalaan,917,G,46,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088585,52.530751
 Palestrinalaan,917,G,47,8031VA,Zwolle,Zwolle,Overijssel,VBO,6.088536,52.530747
@@ -4880,7 +4985,7 @@ Vincent Lübeckstraat,73,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086618,52.52964
 Vincent Lübeckstraat,75,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086612,52.529701
 Vincent Lübeckstraat,77,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086607,52.529752
 Vincent Lübeckstraat,79,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086605,52.529808
-Vincent Lübeckstraat,81,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086597,52.529859
+Vincent Lübeckstraat,81,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086597,52.529860
 Vincent Lübeckstraat,83,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086592,52.529914
 Vincent Lübeckstraat,85,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086588,52.529969
 Vincent Lübeckstraat,87,,,8031WC,Zwolle,Zwolle,Overijssel,VBO,6.086580,52.530021
@@ -5317,7 +5422,7 @@ Lassuslaan,128,,,8031XJ,Zwolle,Zwolle,Overijssel,VBO,6.090500,52.525761
 Lassuslaan,130,,,8031XJ,Zwolle,Zwolle,Overijssel,VBO,6.090493,52.525841
 Lassuslaan,132,,,8031XJ,Zwolle,Zwolle,Overijssel,VBO,6.090470,52.525915
 Lassuslaan,134,,,8031XJ,Zwolle,Zwolle,Overijssel,VBO,6.090461,52.525987
-Lassuslaan,136,A,,8031XJ,Zwolle,Zwolle,Overijssel,VBO,6.090435,52.526089
+Lassuslaan,136,A,,8031XJ,Zwolle,Zwolle,Overijssel,VBO,6.090435,52.526090
 Lassuslaan,136,B,,8031XJ,Zwolle,Zwolle,Overijssel,VBO,6.090432,52.526075
 Lassuslaan,138,,,8031XJ,Zwolle,Zwolle,Overijssel,VBO,6.090411,52.526177
 Lassuslaan,140,,,8031XK,Zwolle,Zwolle,Overijssel,VBO,6.090565,52.525571

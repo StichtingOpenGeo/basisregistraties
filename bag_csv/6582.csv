@@ -1,6 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Bagijnstraat,2,A,,6582AA,Heumen,Heumen,Gelderland,VBO,5.864778,51.770263
 Bagijnstraat,2,,,6582AA,Heumen,Heumen,Gelderland,VBO,5.866680,51.770813
+Rijksweg,209,,T001,6582AA,Heumen,Heumen,Gelderland,VBO,5.861906,51.772236
 Rijksweg,217,,,6582AA,Heumen,Heumen,Gelderland,VBO,5.863729,51.770250
 Rijksweg,221,,,6582AA,Heumen,Heumen,Gelderland,VBO,5.864109,51.769988
 Rijksweg,225,,,6582AA,Heumen,Heumen,Gelderland,VBO,5.864545,51.769482
@@ -29,9 +30,17 @@ Rijksweg,250,,,6582AB,Heumen,Heumen,Gelderland,VBO,5.867556,51.765814
 Rijksweg,254,,,6582AB,Heumen,Heumen,Gelderland,VBO,5.867596,51.765479
 Rijksweg,256,,,6582AC,Heumen,Heumen,Gelderland,VBO,5.867919,51.765038
 Rijksweg,258,,,6582AC,Heumen,Heumen,Gelderland,VBO,5.867961,51.764955
+Rijksweg,260,A,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868081,51.764279
+Rijksweg,260,B,,6582AC,Heumen,Heumen,Gelderland,VBO,5.867961,51.764325
+Rijksweg,260,C,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868030,51.764407
+Rijksweg,260,D,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868045,51.764273
+Rijksweg,260,E,,6582AC,Heumen,Heumen,Gelderland,VBO,5.867926,51.764319
+Rijksweg,260,F,,6582AC,Heumen,Heumen,Gelderland,VBO,5.867996,51.764400
+Rijksweg,260,G,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868008,51.764263
+Rijksweg,260,H,,6582AC,Heumen,Heumen,Gelderland,VBO,5.867894,51.764311
+Rijksweg,260,I,,6582AC,Heumen,Heumen,Gelderland,VBO,5.867961,51.764394
 Rijksweg,260,,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868013,51.764573
 Rijksweg,262,A,,6582AC,Heumen,Heumen,Gelderland,VBO,5.867745,51.764058
-Rijksweg,262,,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868049,51.764340
 Rijksweg,264,,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868197,51.764023
 Rijksweg,266,,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868192,51.763726
 Rijksweg,268,,,6582AC,Heumen,Heumen,Gelderland,VBO,5.868536,51.763460
@@ -56,15 +65,18 @@ Molenstraat,13,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.866698,51.764610
 Molenstraat,15,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.866534,51.764553
 Molenstraat,17,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.866289,51.764474
 Molenstraat,18,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.862961,51.764332
+Molenstraat,19,A,,6582AE,Heumen,Heumen,Gelderland,VBO,5.866088,51.764346
 Molenstraat,19,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.866213,51.764450
 Molenstraat,20,A,,6582AE,Heumen,Heumen,Gelderland,VBO,5.861474,51.763878
 Molenstraat,20,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.861512,51.763886
 Molenstraat,21,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.865547,51.764183
+Molenstraat,23,,T001,6582AE,Heumen,Heumen,Gelderland,VBO,5.864289,51.763448
 Molenstraat,23,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.863973,51.763137
 Molenstraat,25,A,,6582AE,Heumen,Heumen,Gelderland,VBO,5.863667,51.764215
 Molenstraat,25,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.863545,51.764181
 Molenstraat,27,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.862705,51.763859
 Molenstraat,29,,,6582AE,Heumen,Heumen,Gelderland,VBO,5.862199,51.763654
+Jan J. Ludenlaan,2,,P001,6582AG,Heumen,Heumen,Gelderland,VBO,5.835307,51.766717
 Jan J. Ludenlaan,2,,,6582AG,Heumen,Heumen,Gelderland,VBO,5.835571,51.766809
 Sluisweg,1,A,,6582AG,Heumen,Heumen,Gelderland,VBO,5.861406,51.769963
 Sluisweg,1,B,,6582AG,Heumen,Heumen,Gelderland,VBO,5.861100,51.769993
@@ -96,7 +108,7 @@ Dorpstraat,21,,,6582AL,Heumen,Heumen,Gelderland,VBO,5.842843,51.764023
 Dorpstraat,23,,,6582AL,Heumen,Heumen,Gelderland,VBO,5.842532,51.764126
 Dorpstraat,25,,,6582AL,Heumen,Heumen,Gelderland,VBO,5.842411,51.764125
 Dorpstraat,27,,,6582AL,Heumen,Heumen,Gelderland,VBO,5.842286,51.764124
-Dorpstraat,29,,,6582AL,Heumen,Heumen,Gelderland,VBO,5.842007,51.764128
+Dorpstraat,29,,,6582AL,Heumen,Heumen,Gelderland,VBO,5.842006,51.764128
 Dorpstraat,31,A,,6582AL,Heumen,Heumen,Gelderland,VBO,5.841518,51.764095
 Dorpstraat,31,B,,6582AL,Heumen,Heumen,Gelderland,VBO,5.841269,51.764099
 Dorpstraat,31,C,,6582AL,Heumen,Heumen,Gelderland,VBO,5.841179,51.764101
@@ -124,10 +136,10 @@ Dorpstraat,30,,,6582AN,Heumen,Heumen,Gelderland,VBO,5.843616,51.764304
 Dorpstraat,32,,,6582AN,Heumen,Heumen,Gelderland,VBO,5.843257,51.764471
 Dorpstraat,34,,,6582AN,Heumen,Heumen,Gelderland,VBO,5.842783,51.764685
 Dorpstraat,36,,,6582AN,Heumen,Heumen,Gelderland,VBO,5.842484,51.764312
-Dorpstraat,38,,,6582AN,Heumen,Heumen,Gelderland,VBO,5.841888,51.764314
+Dorpstraat,38,,,6582AN,Heumen,Heumen,Gelderland,VBO,5.841888,51.764315
 Dorpstraat,40,,,6582AN,Heumen,Heumen,Gelderland,VBO,5.841554,51.764340
 Dorpstraat,42,,,6582AN,Heumen,Heumen,Gelderland,VBO,5.841336,51.764346
-Dorpstraat,44,A,,6582AP,Heumen,Heumen,Gelderland,VBO,5.840847,51.764387
+Dorpstraat,44,A,,6582AP,Heumen,Heumen,Gelderland,VBO,5.840814,51.764397
 Dorpstraat,44,,,6582AP,Heumen,Heumen,Gelderland,VBO,5.840882,51.764319
 Dorpstraat,46,,,6582AP,Heumen,Heumen,Gelderland,VBO,5.840473,51.764418
 Dorpstraat,48,A,,6582AP,Heumen,Heumen,Gelderland,VBO,5.840011,51.764463
@@ -340,10 +352,11 @@ Overasseltseweg,2,,,6582BL,Heumen,Heumen,Gelderland,VBO,5.830527,51.764891
 Overasseltseweg,4,A,,6582BL,Heumen,Heumen,Gelderland,VBO,5.828344,51.764850
 Overasseltseweg,4,B,,6582BL,Heumen,Heumen,Gelderland,VBO,5.829863,51.765526
 Overasseltseweg,4,C,,6582BL,Heumen,Heumen,Gelderland,VBO,5.830291,51.765428
-Overasseltseweg,4,,,6582BL,Heumen,Heumen,Gelderland,VBO,5.830212,51.764799
+Overasseltseweg,4,,,6582BL,Heumen,Heumen,Gelderland,VBO,5.830212,51.764800
 Overasseltseweg,6,,,6582BL,Heumen,Heumen,Gelderland,VBO,5.824699,51.764405
 Overasseltseweg,8,,,6582BL,Heumen,Heumen,Gelderland,VBO,5.822858,51.764377
 Heegtseveldweg,1,,,6582BM,Heumen,Heumen,Gelderland,VBO,5.822125,51.765138
+Heegtseveldweg,2,,T001,6582BM,Heumen,Heumen,Gelderland,VBO,5.824379,51.765204
 Heegtseveldweg,2,,,6582BM,Heumen,Heumen,Gelderland,VBO,5.825063,51.765009
 Heegtseveldweg,4,,,6582BM,Heumen,Heumen,Gelderland,VBO,5.825088,51.765286
 Heegtseveldweg,6,,,6582BM,Heumen,Heumen,Gelderland,VBO,5.822106,51.765389
@@ -358,14 +371,17 @@ Vosseneindseweg,15,,,6582BN,Heumen,Heumen,Gelderland,VBO,5.822855,51.768415
 Vosseneindseweg,17,,,6582BN,Heumen,Heumen,Gelderland,VBO,5.815560,51.770927
 Vosseneindseweg,19,,,6582BN,Heumen,Heumen,Gelderland,VBO,5.814716,51.771317
 Vosseneindseweg,16,A,,6582BP,Heumen,Heumen,Gelderland,VBO,5.833854,51.765996
+Vosseneindseweg,16,B,,6582BP,Heumen,Heumen,Gelderland,VBO,5.833527,51.766070
+Vosseneindseweg,16,C,,6582BP,Heumen,Heumen,Gelderland,VBO,5.833422,51.766155
 Vosseneindseweg,16,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.834144,51.765908
-Vosseneindseweg,18,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.832851,51.766144
+Vosseneindseweg,18,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.832851,51.766145
 Vosseneindseweg,22,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.830792,51.766927
 Vosseneindseweg,24,A,,6582BP,Heumen,Heumen,Gelderland,VBO,5.830392,51.767055
 Vosseneindseweg,24,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.830445,51.767010
 Vosseneindseweg,26,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.829772,51.767704
 Vosseneindseweg,28,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.829298,51.767620
 Vosseneindseweg,30,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.828839,51.767643
+Vosseneindseweg,32,,T001,6582BP,Heumen,Heumen,Gelderland,VBO,5.829040,51.767549
 Vosseneindseweg,32,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.829158,51.767470
 Vosseneindseweg,34,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.828426,51.767635
 Vosseneindseweg,36,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.826645,51.768181
@@ -373,6 +389,7 @@ Vosseneindseweg,38,,,6582BP,Heumen,Heumen,Gelderland,VBO,5.825497,51.768535
 Vosseneindseweg,40,A,,6582BR,Heumen,Heumen,Gelderland,VBO,5.824182,51.768622
 Vosseneindseweg,40,,,6582BR,Heumen,Heumen,Gelderland,VBO,5.824119,51.768607
 Vosseneindseweg,42,,T001,6582BR,Heumen,Heumen,Gelderland,VBO,5.821655,51.768860
+Vosseneindseweg,44,,P001,6582BR,Heumen,Heumen,Gelderland,VBO,5.820774,51.768889
 Vosseneindseweg,44,,,6582BR,Heumen,Heumen,Gelderland,VBO,5.821222,51.768851
 Vosseneindseweg,46,,R006,6582BR,Heumen,Heumen,Gelderland,VBO,5.820802,51.772968
 Vosseneindseweg,46,,R007,6582BR,Heumen,Heumen,Gelderland,VBO,5.820687,51.773077
@@ -491,6 +508,7 @@ Blankenbergseweg,3,C,,6582BV,Heumen,Heumen,Gelderland,VBO,5.832410,51.778224
 Blankenbergseweg,3,D,,6582BV,Heumen,Heumen,Gelderland,VBO,5.830999,51.779005
 Blankenbergseweg,3,,,6582BV,Heumen,Heumen,Gelderland,VBO,5.833489,51.777847
 Blankenbergseweg,5,A,,6582BV,Heumen,Heumen,Gelderland,VBO,5.830644,51.779237
+Blankenbergseweg,5,,T001,6582BV,Heumen,Heumen,Gelderland,VBO,5.829221,51.779328
 Blankenbergseweg,5,,,6582BV,Heumen,Heumen,Gelderland,VBO,5.830538,51.779338
 Blankenbergseweg,6,,,6582BV,Heumen,Heumen,Gelderland,VBO,5.828026,51.779387
 Blankenbergseweg,7,,,6582BV,Heumen,Heumen,Gelderland,VBO,5.827526,51.778646
@@ -540,7 +558,7 @@ De Hosterd,27,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846037,51.765472
 De Hosterd,29,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846089,51.765437
 De Hosterd,31,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846143,51.765400
 De Hosterd,33,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846461,51.765495
-De Hosterd,35,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846544,51.765553
+De Hosterd,35,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846543,51.765553
 De Hosterd,37,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846620,51.765608
 De Hosterd,43,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846315,51.765733
 De Hosterd,45,,,6582CA,Heumen,Heumen,Gelderland,VBO,5.846471,51.765954
@@ -680,6 +698,7 @@ Halfweg,3,,,6582CS,Heumen,Heumen,Gelderland,VBO,5.842319,51.763802
 Halfweg,4,,,6582CS,Heumen,Heumen,Gelderland,VBO,5.842127,51.763761
 Halfweg,5,,,6582CS,Heumen,Heumen,Gelderland,VBO,5.841927,51.763779
 Halfweg,6,,,6582CS,Heumen,Heumen,Gelderland,VBO,5.842003,51.763928
+Batavierenstraat,4,,,6582CT,Heumen,Heumen,Gelderland,VBO,5.844465,51.767051
 Batavierenstraat,6,,,6582CT,Heumen,Heumen,Gelderland,VBO,5.844691,51.767011
 Batavierenstraat,7,,,6582CT,Heumen,Heumen,Gelderland,VBO,5.845216,51.767228
 Batavierenstraat,8,,,6582CT,Heumen,Heumen,Gelderland,VBO,5.844938,51.767023
@@ -788,6 +807,7 @@ Schutkolk,6,F,,6582DB,Heumen,Heumen,Gelderland,VBO,5.859512,51.768744
 Schutkolk,6,G,,6582DB,Heumen,Heumen,Gelderland,VBO,5.859460,51.768724
 Schutkolk,6,,,6582DB,Heumen,Heumen,Gelderland,VBO,5.860072,51.768762
 Hoogenhofseweg,3,,,6582DC,Heumen,Heumen,Gelderland,VBO,5.864469,51.764903
+Hoogenhofseweg,5,,,6582DC,Heumen,Heumen,Gelderland,VBO,5.864035,51.765369
 Jac Marisstraat,1,,,6582EA,Heumen,Heumen,Gelderland,VBO,5.842231,51.767972
 Jac Marisstraat,3,,,6582EA,Heumen,Heumen,Gelderland,VBO,5.842322,51.767983
 Jac Marisstraat,5,,,6582EA,Heumen,Heumen,Gelderland,VBO,5.842411,51.767993
@@ -798,10 +818,15 @@ Jac Marisstraat,13,,,6582EA,Heumen,Heumen,Gelderland,VBO,5.842806,51.768041
 Jac Marisstraat,15,,,6582EA,Heumen,Heumen,Gelderland,VBO,5.842894,51.768050
 Jac Marisstraat,17,,,6582EA,Heumen,Heumen,Gelderland,VBO,5.842987,51.768060
 Gerardus de Valkstraat,1,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.841937,51.767974
+Gerardus de Valkstraat,2,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.842174,51.768223
 Gerardus de Valkstraat,3,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.841921,51.768026
+Gerardus de Valkstraat,4,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.842158,51.768271
 Gerardus de Valkstraat,5,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.841884,51.768153
+Gerardus de Valkstraat,6,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.842142,51.768318
 Gerardus de Valkstraat,7,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.841867,51.768206
+Gerardus de Valkstraat,8,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.842129,51.768368
 Gerardus de Valkstraat,9,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.841833,51.768332
+Gerardus de Valkstraat,10,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.842114,51.768417
 Gerardus de Valkstraat,11,,,6582EB,Heumen,Heumen,Gelderland,VBO,5.841815,51.768384
 Johan van Groesbeekstraat,1,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842965,51.768268
 Johan van Groesbeekstraat,3,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842960,51.768316
@@ -809,3 +834,13 @@ Johan van Groesbeekstraat,5,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842961,51.76
 Johan van Groesbeekstraat,7,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842957,51.768415
 Johan van Groesbeekstraat,9,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842952,51.768462
 Johan van Groesbeekstraat,11,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842949,51.768512
+Johan van Groesbeekstraat,13,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842942,51.768737
+Johan van Groesbeekstraat,19,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842700,51.768716
+Johan van Groesbeekstraat,21,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842623,51.768718
+Johan van Groesbeekstraat,23,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842547,51.768714
+Johan van Groesbeekstraat,25,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842417,51.768695
+Johan van Groesbeekstraat,27,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842340,51.768683
+Johan van Groesbeekstraat,29,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842260,51.768670
+Johan van Groesbeekstraat,31,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842187,51.768658
+Johan van Groesbeekstraat,33,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842110,51.768646
+Johan van Groesbeekstraat,35,,,6582EC,Heumen,Heumen,Gelderland,VBO,5.842033,51.768633

@@ -562,6 +562,7 @@ Stadionkade,111,A,,1076BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862767,52.3430
 Stadionkade,111,,,1076BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862855,52.343069
 Stadionkade,112,,,1076BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862694,52.343023
 Stadionkade,113,A,,1076BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862562,52.343041
+Stadionkade,113,B,,1076BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862247,52.343382
 Stadionkade,113,B,,1076BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862250,52.343372
 Stadionkade,113,C,,1076BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862210,52.342985
 Stadionkade,114,A,,1076BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862006,52.342939
@@ -589,6 +590,7 @@ Stadionkade,121,,H,1076BP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860861,52.3429
 Stadionkade,122,,1,1076BR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860743,52.342952
 Stadionkade,122,,2,1076BR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860743,52.342952
 Stadionkade,122,,3,1076BR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860743,52.342952
+Stadionkade,122,,4,1076BR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860722,52.342949
 Stadionkade,122,,H,1076BR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860743,52.342952
 Stadionkade,123,,1,1076BR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860641,52.342951
 Stadionkade,123,,2,1076BR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860641,52.342951
@@ -710,6 +712,8 @@ Donarstraat,13,,1,1076CA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863290,52.34351
 Donarstraat,13,,2,1076CA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863290,52.343511
 Donarstraat,13,,3,1076CA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863290,52.343511
 Donarstraat,13,,H,1076CA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863290,52.343511
+Donarstraat,2,A,,1076CB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862962,52.343537
+Donarstraat,2,B,,1076CB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862989,52.343495
 Donarstraat,2,,,1076CB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862250,52.343372
 Donarstraat,4,,,1076CB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863012,52.343456
 Donarstraat,6,,,1076CB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863056,52.343420
@@ -718,6 +722,7 @@ Donarstraat,10,,,1076CB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863190,52.343259
 Wodanstraat,1,A,,1076CC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861825,52.343568
 Wodanstraat,1,B,,1076CC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861496,52.343343
 Wodanstraat,1,,,1076CC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862250,52.343372
+Wodanstraat,3,,,1076CC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861506,52.343285
 Wodanstraat,3,,,1076CC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862250,52.343372
 Wodanstraat,4,,1,1076CC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861133,52.343502
 Wodanstraat,4,,2,1076CC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861133,52.343502
@@ -854,8 +859,124 @@ Stadionplein,85,,1,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857942,52.3428
 Stadionplein,85,,2,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857942,52.342867
 Stadionplein,85,,3,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857942,52.342867
 Stadionplein,85,,4,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857942,52.342867
-Stadionplein,87,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857971,52.342831
+Stadionplein,87,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857971,52.342832
 Stadionplein,89,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857972,52.342796
+Stadionplein,100,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857986,52.344391
+Stadionplein,103,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857816,52.344367
+Stadionplein,106,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857654,52.344344
+Stadionplein,110,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857462,52.344320
+Stadionplein,113,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857290,52.344297
+Stadionplein,114,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857226,52.344286
+Stadionplein,115,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857109,52.344588
+Stadionplein,120,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857238,52.344605
+Stadionplein,123,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857358,52.344621
+Stadionplein,125,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857487,52.344639
+Stadionplein,127,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857109,52.344588
+Stadionplein,132,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857834,52.344689
+Stadionplein,135,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858001,52.344424
+Stadionplein,136,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857881,52.344408
+Stadionplein,137,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857752,52.344390
+Stadionplein,138,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857626,52.344373
+Stadionplein,139,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857512,52.344359
+Stadionplein,140,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857403,52.344344
+Stadionplein,141,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857307,52.344329
+Stadionplein,142,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857211,52.344315
+Stadionplein,143,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857179,52.344399
+Stadionplein,144,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857136,52.344490
+Stadionplein,145,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857114,52.344569
+Stadionplein,146,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857231,52.344590
+Stadionplein,147,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857358,52.344608
+Stadionplein,148,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857994,52.344440
+Stadionplein,149,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857874,52.344421
+Stadionplein,150,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857748,52.344407
+Stadionplein,151,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857619,52.344388
+Stadionplein,152,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857501,52.344373
+Stadionplein,153,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857400,52.344356
+Stadionplein,154,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857300,52.344342
+Stadionplein,155,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857200,52.344331
+Stadionplein,156,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857205,52.344406
+Stadionplein,157,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857158,52.344494
+Stadionplein,158,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857118,52.344556
+Stadionplein,159,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857234,52.344576
+Stadionplein,160,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857358,52.344590
+Stadionplein,161,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857494,52.344607
+Stadionplein,162,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857585,52.344628
+Stadionplein,163,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857684,52.344644
+Stadionplein,164,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857778,52.344650
+Stadionplein,165,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857887,52.344669
+Stadionplein,166,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857988,52.344457
+Stadionplein,167,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857865,52.344437
+Stadionplein,168,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857741,52.344421
+Stadionplein,169,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857614,52.344401
+Stadionplein,170,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857492,52.344385
+Stadionplein,171,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857396,52.344369
+Stadionplein,172,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857293,52.344356
+Stadionplein,173,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857193,52.344344
+Stadionplein,174,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857225,52.344412
+Stadionplein,175,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857176,52.344498
+Stadionplein,176,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857125,52.344541
+Stadionplein,177,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857241,52.344562
+Stadionplein,178,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857363,52.344576
+Stadionplein,179,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857503,52.344592
+Stadionplein,180,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857590,52.344611
+Stadionplein,181,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857688,52.344631
+Stadionplein,182,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857782,52.344638
+Stadionplein,183,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857893,52.344654
+Stadionplein,184,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857983,52.344473
+Stadionplein,185,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857856,52.344453
+Stadionplein,186,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857736,52.344435
+Stadionplein,187,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857608,52.344416
+Stadionplein,188,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857487,52.344399
+Stadionplein,189,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857391,52.344386
+Stadionplein,190,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857289,52.344372
+Stadionplein,191,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857186,52.344359
+Stadionplein,192,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857244,52.344417
+Stadionplein,193,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857195,52.344504
+Stadionplein,194,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857129,52.344530
+Stadionplein,195,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857243,52.344547
+Stadionplein,196,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857367,52.344561
+Stadionplein,197,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857507,52.344579
+Stadionplein,198,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857594,52.344597
+Stadionplein,199,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857693,52.344617
+Stadionplein,200,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857787,52.344626
+Stadionplein,201,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857902,52.344642
+Stadionplein,202,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857979,52.344490
+Stadionplein,203,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857854,52.344468
+Stadionplein,204,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857730,52.344450
+Stadionplein,205,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857603,52.344432
+Stadionplein,206,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857485,52.344415
+Stadionplein,207,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857387,52.344403
+Stadionplein,208,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857282,52.344386
+Stadionplein,209,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857179,52.344371
+Stadionplein,210,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857260,52.344425
+Stadionplein,211,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857213,52.344508
+Stadionplein,212,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857138,52.344516
+Stadionplein,213,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857250,52.344535
+Stadionplein,214,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857372,52.344546
+Stadionplein,215,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857512,52.344564
+Stadionplein,216,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857599,52.344583
+Stadionplein,217,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857697,52.344603
+Stadionplein,218,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857793,52.344610
+Stadionplein,219,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857907,52.344626
+Stadionplein,220,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857943,52.344505
+Stadionplein,221,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857767,52.344478
+Stadionplein,222,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857598,52.344457
+Stadionplein,223,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857461,52.344441
+Stadionplein,224,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857343,52.344426
+Stadionplein,225,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857234,52.344402
+Stadionplein,226,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857283,52.344480
+Stadionplein,227,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857147,52.344505
+Stadionplein,228,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857259,52.344520
+Stadionplein,229,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857379,52.344533
+Stadionplein,230,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857518,52.344550
+Stadionplein,231,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857606,52.344571
+Stadionplein,232,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857702,52.344588
+Stadionplein,233,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857804,52.344596
+Stadionplein,234,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857918,52.344613
+Stadionplein,250,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857396,52.344114
+Stadionplein,251,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857341,52.343907
+Stadionplein,260,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857427,52.343529
+Stadionplein,300,,,1076CK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857932,52.343670
 Stadionplein,18,,,1076CM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856156,52.344891
 Stadionplein,22,A,,1076CM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.855880,52.344692
 Stadionplein,22,,,1076CM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856232,52.344675
@@ -953,6 +1074,7 @@ Amstelveenseweg,314,,,1076CS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857272,52.3
 Amstelveenseweg,316,,1,1076CS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857243,52.346091
 Amstelveenseweg,316,,2,1076CS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857243,52.346091
 Amstelveenseweg,316,,3,1076CS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857243,52.346091
+Amstelveenseweg,316,,4,1076CS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857179,52.346090
 Amstelveenseweg,318,,1,1076CS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857273,52.346046
 Amstelveenseweg,318,,2,1076CS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857273,52.346046
 Amstelveenseweg,318,,3,1076CS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857273,52.346046
@@ -1008,6 +1130,7 @@ IJsbaanpad,10,A,,1076CV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.855378,52.341504
 IJsbaanpad,10,B,,1076CV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.854289,52.341530
 IJsbaanpad,10,C,,1076CV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.854289,52.341530
 IJsbaanpad,11,,,1076CV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.854664,52.340821
+IJsbaanpad,12,,,1076CV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853103,52.341335
 IJsbaanpad,43,A,,1076CV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.851266,52.339143
 IJsbaanpad,43,B,,1076CV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.851998,52.339210
 IJsbaanpad,43,,,1076CV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850591,52.339113
@@ -2320,20 +2443,202 @@ Fred. Roeskestraat,74,,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863793,52
 Fred. Roeskestraat,82,A,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863225,52.342074
 Fred. Roeskestraat,82,,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862769,52.341693
 Fred. Roeskestraat,84,,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862769,52.341693
+Fred. Roeskestraat,88,A,1,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862119,52.341804
+Fred. Roeskestraat,88,A,10,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862046,52.341792
+Fred. Roeskestraat,88,A,2,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862118,52.341792
+Fred. Roeskestraat,88,A,3,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862104,52.341804
+Fred. Roeskestraat,88,A,4,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862104,52.341792
+Fred. Roeskestraat,88,A,5,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862085,52.341805
+Fred. Roeskestraat,88,A,6,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862085,52.341792
+Fred. Roeskestraat,88,A,7,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862065,52.341804
+Fred. Roeskestraat,88,A,8,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862064,52.341791
+Fred. Roeskestraat,88,A,9,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862045,52.341805
+Fred. Roeskestraat,88,B,1,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862139,52.341689
+Fred. Roeskestraat,88,B,10,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862061,52.341666
+Fred. Roeskestraat,88,B,2,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862141,52.341672
+Fred. Roeskestraat,88,B,3,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862123,52.341686
+Fred. Roeskestraat,88,B,4,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862124,52.341671
+Fred. Roeskestraat,88,B,5,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862107,52.341687
+Fred. Roeskestraat,88,B,6,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862102,52.341670
+Fred. Roeskestraat,88,B,7,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862081,52.341686
+Fred. Roeskestraat,88,B,8,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862084,52.341668
+Fred. Roeskestraat,88,B,9,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862059,52.341686
+Fred. Roeskestraat,90,A,1,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861876,52.341350
+Fred. Roeskestraat,90,A,10,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861911,52.341356
+Fred. Roeskestraat,90,A,11,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861918,52.341356
+Fred. Roeskestraat,90,A,12,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861875,52.341360
+Fred. Roeskestraat,90,A,13,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861885,52.341361
+Fred. Roeskestraat,90,A,14,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861892,52.341361
+Fred. Roeskestraat,90,A,15,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861899,52.341361
+Fred. Roeskestraat,90,A,16,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861908,52.341360
+Fred. Roeskestraat,90,A,17,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861914,52.341360
+Fred. Roeskestraat,90,A,18,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861871,52.341365
+Fred. Roeskestraat,90,A,19,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861882,52.341366
+Fred. Roeskestraat,90,A,2,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861888,52.341351
+Fred. Roeskestraat,90,A,20,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861890,52.341365
+Fred. Roeskestraat,90,A,21,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861895,52.341366
+Fred. Roeskestraat,90,A,22,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861904,52.341365
+Fred. Roeskestraat,90,A,23,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861911,52.341364
+Fred. Roeskestraat,90,A,24,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861873,52.341370
+Fred. Roeskestraat,90,A,25,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861883,52.341371
+Fred. Roeskestraat,90,A,26,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861891,52.341370
+Fred. Roeskestraat,90,A,27,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861897,52.341370
+Fred. Roeskestraat,90,A,28,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861906,52.341370
+Fred. Roeskestraat,90,A,29,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861912,52.341371
+Fred. Roeskestraat,90,A,3,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861898,52.341351
+Fred. Roeskestraat,90,A,30,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861870,52.341375
+Fred. Roeskestraat,90,A,31,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861880,52.341375
+Fred. Roeskestraat,90,A,32,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861887,52.341375
+Fred. Roeskestraat,90,A,33,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861893,52.341375
+Fred. Roeskestraat,90,A,34,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861902,52.341375
+Fred. Roeskestraat,90,A,35,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861908,52.341375
+Fred. Roeskestraat,90,A,36,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861870,52.341379
+Fred. Roeskestraat,90,A,37,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861881,52.341380
+Fred. Roeskestraat,90,A,38,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861887,52.341380
+Fred. Roeskestraat,90,A,39,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861895,52.341379
+Fred. Roeskestraat,90,A,4,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861906,52.341351
+Fred. Roeskestraat,90,A,40,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861902,52.341380
+Fred. Roeskestraat,90,A,41,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861909,52.341380
+Fred. Roeskestraat,90,A,42,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861867,52.341383
+Fred. Roeskestraat,90,A,43,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861877,52.341383
+Fred. Roeskestraat,90,A,44,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861884,52.341384
+Fred. Roeskestraat,90,A,45,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861891,52.341384
+Fred. Roeskestraat,90,A,46,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861899,52.341384
+Fred. Roeskestraat,90,A,47,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861905,52.341385
+Fred. Roeskestraat,90,A,48,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861865,52.341397
+Fred. Roeskestraat,90,A,49,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861875,52.341397
+Fred. Roeskestraat,90,A,5,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861915,52.341352
+Fred. Roeskestraat,90,A,50,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861887,52.341398
+Fred. Roeskestraat,90,A,51,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861897,52.341398
+Fred. Roeskestraat,90,A,52,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861907,52.341398
+Fred. Roeskestraat,90,A,53,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861916,52.341398
+Fred. Roeskestraat,90,A,54,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861856,52.341409
+Fred. Roeskestraat,90,A,55,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861869,52.341408
+Fred. Roeskestraat,90,A,56,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861877,52.341409
+Fred. Roeskestraat,90,A,57,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861889,52.341409
+Fred. Roeskestraat,90,A,58,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861900,52.341410
+Fred. Roeskestraat,90,A,59,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861909,52.341408
+Fred. Roeskestraat,90,A,6,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861872,52.341355
+Fred. Roeskestraat,90,A,60,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861858,52.341418
+Fred. Roeskestraat,90,A,61,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861867,52.341420
+Fred. Roeskestraat,90,A,62,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861877,52.341421
+Fred. Roeskestraat,90,A,63,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861887,52.341420
+Fred. Roeskestraat,90,A,64,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861898,52.341419
+Fred. Roeskestraat,90,A,65,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861906,52.341420
+Fred. Roeskestraat,90,A,7,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861885,52.341356
+Fred. Roeskestraat,90,A,8,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861895,52.341356
+Fred. Roeskestraat,90,A,9,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861902,52.341356
+Fred. Roeskestraat,90,B,1,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861774,52.341351
+Fred. Roeskestraat,90,B,10,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861765,52.341374
+Fred. Roeskestraat,90,B,11,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861746,52.341375
+Fred. Roeskestraat,90,B,12,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861730,52.341376
+Fred. Roeskestraat,90,B,13,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861711,52.341375
+Fred. Roeskestraat,90,B,14,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861692,52.341375
+Fred. Roeskestraat,90,B,15,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861673,52.341374
+Fred. Roeskestraat,90,B,16,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861768,52.341386
+Fred. Roeskestraat,90,B,17,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861745,52.341387
+Fred. Roeskestraat,90,B,18,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861730,52.341387
+Fred. Roeskestraat,90,B,19,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861712,52.341387
+Fred. Roeskestraat,90,B,2,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861753,52.341350
+Fred. Roeskestraat,90,B,20,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861691,52.341390
+Fred. Roeskestraat,90,B,21,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861671,52.341388
+Fred. Roeskestraat,90,B,22,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861765,52.341400
+Fred. Roeskestraat,90,B,23,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861748,52.341399
+Fred. Roeskestraat,90,B,24,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861728,52.341398
+Fred. Roeskestraat,90,B,25,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861710,52.341397
+Fred. Roeskestraat,90,B,26,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861691,52.341398
+Fred. Roeskestraat,90,B,27,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861671,52.341398
+Fred. Roeskestraat,90,B,28,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861762,52.341414
+Fred. Roeskestraat,90,B,29,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861744,52.341414
+Fred. Roeskestraat,90,B,3,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861737,52.341351
+Fred. Roeskestraat,90,B,30,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861728,52.341411
+Fred. Roeskestraat,90,B,31,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861708,52.341412
+Fred. Roeskestraat,90,B,32,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861692,52.341410
+Fred. Roeskestraat,90,B,33,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861669,52.341412
+Fred. Roeskestraat,90,B,34,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861762,52.341425
+Fred. Roeskestraat,90,B,35,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861744,52.341423
+Fred. Roeskestraat,90,B,36,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861721,52.341425
+Fred. Roeskestraat,90,B,37,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861703,52.341423
+Fred. Roeskestraat,90,B,38,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861688,52.341421
+Fred. Roeskestraat,90,B,39,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861668,52.341422
+Fred. Roeskestraat,90,B,4,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861714,52.341350
+Fred. Roeskestraat,90,B,40,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861762,52.341438
+Fred. Roeskestraat,90,B,41,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861740,52.341437
+Fred. Roeskestraat,90,B,42,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861722,52.341438
+Fred. Roeskestraat,90,B,43,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861702,52.341438
+Fred. Roeskestraat,90,B,44,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861685,52.341436
+Fred. Roeskestraat,90,B,45,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861666,52.341435
+Fred. Roeskestraat,90,B,5,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861602,52.341515
+Fred. Roeskestraat,90,B,6,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861594,52.341541
+Fred. Roeskestraat,90,B,7,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861773,52.341360
+Fred. Roeskestraat,90,B,8,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861750,52.341360
+Fred. Roeskestraat,90,B,9,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861729,52.341361
+Fred. Roeskestraat,92,A,1,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861439,52.342130
+Fred. Roeskestraat,92,A,10,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861502,52.342104
+Fred. Roeskestraat,92,A,11,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861443,52.342093
+Fred. Roeskestraat,92,A,12,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861502,52.342095
+Fred. Roeskestraat,92,A,13,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861474,52.342084
+Fred. Roeskestraat,92,A,2,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861499,52.342132
+Fred. Roeskestraat,92,A,3,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861438,52.342124
+Fred. Roeskestraat,92,A,4,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861499,52.342127
+Fred. Roeskestraat,92,A,5,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861440,52.342117
+Fred. Roeskestraat,92,A,6,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861500,52.342120
+Fred. Roeskestraat,92,A,7,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861441,52.342110
+Fred. Roeskestraat,92,A,8,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861501,52.342112
+Fred. Roeskestraat,92,A,9,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861441,52.342102
+Fred. Roeskestraat,92,B,1,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861703,52.342156
+Fred. Roeskestraat,92,B,10,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861755,52.342113
+Fred. Roeskestraat,92,B,11,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861708,52.342102
+Fred. Roeskestraat,92,B,12,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861756,52.342104
+Fred. Roeskestraat,92,B,13,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861710,52.342090
+Fred. Roeskestraat,92,B,14,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861755,52.342089
+Fred. Roeskestraat,92,B,15,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861713,52.342078
+Fred. Roeskestraat,92,B,16,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861756,52.342077
+Fred. Roeskestraat,92,B,17,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861733,52.342063
+Fred. Roeskestraat,92,B,2,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861751,52.342160
+Fred. Roeskestraat,92,B,3,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861703,52.342146
+Fred. Roeskestraat,92,B,4,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861753,52.342148
+Fred. Roeskestraat,92,B,5,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861705,52.342133
+Fred. Roeskestraat,92,B,6,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861754,52.342136
+Fred. Roeskestraat,92,B,7,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861704,52.342124
+Fred. Roeskestraat,92,B,8,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861754,52.342124
+Fred. Roeskestraat,92,B,9,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861706,52.342112
+Fred. Roeskestraat,92,C,1,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861969,52.342166
+Fred. Roeskestraat,92,C,10,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862023,52.342118
+Fred. Roeskestraat,92,C,11,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861975,52.342103
+Fred. Roeskestraat,92,C,12,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862023,52.342103
+Fred. Roeskestraat,92,C,13,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861976,52.342091
+Fred. Roeskestraat,92,C,14,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862025,52.342091
+Fred. Roeskestraat,92,C,15,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861976,52.342080
+Fred. Roeskestraat,92,C,16,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862025,52.342081
+Fred. Roeskestraat,92,C,17,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862005,52.342068
+Fred. Roeskestraat,92,C,2,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862021,52.342169
+Fred. Roeskestraat,92,C,3,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861968,52.342156
+Fred. Roeskestraat,92,C,4,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862022,52.342159
+Fred. Roeskestraat,92,C,5,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861970,52.342145
+Fred. Roeskestraat,92,C,6,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862021,52.342146
+Fred. Roeskestraat,92,C,7,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861970,52.342131
+Fred. Roeskestraat,92,C,8,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862022,52.342133
+Fred. Roeskestraat,92,C,9,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861972,52.342118
 Fred. Roeskestraat,94,A,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861049,52.341893
 Fred. Roeskestraat,94,B,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861041,52.342092
+Fred. Roeskestraat,94,C,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860506,52.341877
 Fred. Roeskestraat,96,A,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859986,52.341496
 Fred. Roeskestraat,96,,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859699,52.341922
 Fred. Roeskestraat,98,A,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860117,52.341286
 Fred. Roeskestraat,98,B,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860103,52.341277
 Fred. Roeskestraat,98,C,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860103,52.341295
 Fred. Roeskestraat,100,,,1076ED,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858679,52.341352
+Fred. Roeskestraat,99,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862360,52.340973
 Fred. Roeskestraat,103,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861531,52.340897
 Fred. Roeskestraat,105,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860960,52.340769
+Fred. Roeskestraat,109,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860412,52.340877
+Fred. Roeskestraat,111,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859944,52.340770
+Fred. Roeskestraat,113,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859509,52.340847
 Fred. Roeskestraat,115,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859008,52.340832
 Fred. Roeskestraat,117,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858861,52.340831
 Fred. Roeskestraat,123,,,1076EE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858538,52.340821
-Burgerweeshuispad,5,,,1076EL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.854239,52.340792
+Burgerweeshuispad,5,,,1076EL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.854239,52.340793
 Burgerweeshuispad,54,,,1076EP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.854107,52.339979
 Burgerweeshuispad,99,,,1076ER,Amsterdam,Amsterdam,Noord-Holland,VBO,4.855174,52.339952
 Burgerweeshuispad,101,,,1076ER,Amsterdam,Amsterdam,Noord-Holland,VBO,4.855526,52.339962
@@ -2526,7 +2831,7 @@ Van Tuyll van Serooskerkenweg,95,,1,1076JH,Amsterdam,Amsterdam,Noord-Holland,VBO
 Van Tuyll van Serooskerkenweg,95,,2,1076JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859515,52.343863
 Van Tuyll van Serooskerkenweg,95,,3,1076JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859515,52.343863
 Van Tuyll van Serooskerkenweg,97,,,1076JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859441,52.343854
-Van Tuyll van Serooskerkenweg,99,,,1076JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859397,52.343844
+Van Tuyll van Serooskerkenweg,99,,,1076JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859397,52.343845
 Van Tuyll van Serooskerkenweg,101,,1,1076JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859339,52.343844
 Van Tuyll van Serooskerkenweg,101,,2,1076JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859339,52.343844
 Van Tuyll van Serooskerkenweg,101,,3,1076JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859339,52.343844
@@ -3104,13 +3409,19 @@ Jasonstraat,50,,,1076LC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860361,52.343067
 Jasonstraat,52,,,1076LC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860361,52.343040
 Amazonenstraat,1,,1,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863226,52.345255
 Amazonenstraat,1,,2,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863226,52.345255
+Amazonenstraat,1,,3,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863231,52.345236
 Amazonenstraat,3,,1,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863167,52.345245
 Amazonenstraat,3,,2,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863167,52.345245
+Amazonenstraat,3,,3,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863170,52.345229
 Amazonenstraat,3,,H,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863167,52.345245
+Amazonenstraat,5,,1,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863072,52.345203
 Amazonenstraat,5,,1,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863094,52.345227
+Amazonenstraat,5,,2,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863048,52.345200
+Amazonenstraat,5,,3,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863099,52.345207
 Amazonenstraat,5,,H,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863094,52.345227
 Amazonenstraat,7,,1,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862991,52.345209
 Amazonenstraat,7,,2,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862991,52.345209
+Amazonenstraat,7,,3,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862998,52.345188
 Amazonenstraat,7,,H,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862991,52.345209
 Amazonenstraat,9,,1,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862889,52.345199
 Amazonenstraat,9,,2,1076LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862889,52.345199
@@ -3228,10 +3539,10 @@ Amazonenstraat,12,,H,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862740,52.34
 Amazonenstraat,14,,1,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862667,52.345351
 Amazonenstraat,14,,2,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862667,52.345351
 Amazonenstraat,14,,H,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862667,52.345351
-Amazonenstraat,16,,1,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862549,52.345341
-Amazonenstraat,16,,2,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862549,52.345341
-Amazonenstraat,16,,3,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862549,52.345341
-Amazonenstraat,16,,H,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862549,52.345341
+Amazonenstraat,16,,1,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862549,52.345342
+Amazonenstraat,16,,2,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862549,52.345342
+Amazonenstraat,16,,3,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862549,52.345342
+Amazonenstraat,16,,H,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862549,52.345342
 Amazonenstraat,18,,1,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862476,52.345323
 Amazonenstraat,18,,2,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862476,52.345323
 Amazonenstraat,18,,H,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862476,52.345323
@@ -3241,6 +3552,7 @@ Amazonenstraat,20,,3,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862374,52.34
 Amazonenstraat,20,,H,1076LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862374,52.345314
 Amazonenstraat,22,,1,1076LK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862315,52.345305
 Amazonenstraat,22,,2,1076LK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862315,52.345305
+Amazonenstraat,22,,3,1076LK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862286,52.345330
 Amazonenstraat,22,,H,1076LK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862315,52.345305
 Amazonenstraat,24,,1,1076LK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862227,52.345295
 Amazonenstraat,24,,2,1076LK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862227,52.345295
@@ -3310,9 +3622,9 @@ Amazonenstraat,66,,H,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860381,52.34
 Amazonenstraat,68,,1,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860293,52.345035
 Amazonenstraat,68,,2,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860293,52.345035
 Amazonenstraat,68,,H,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860293,52.345035
-Amazonenstraat,70,,1,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860205,52.345025
-Amazonenstraat,70,,2,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860205,52.345025
-Amazonenstraat,70,,H,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860205,52.345025
+Amazonenstraat,70,,1,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860205,52.345026
+Amazonenstraat,70,,2,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860205,52.345026
+Amazonenstraat,70,,H,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860205,52.345026
 Amazonenstraat,72,,1,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860103,52.345007
 Amazonenstraat,72,,2,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860103,52.345007
 Amazonenstraat,72,,H,1076LM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860103,52.345007
@@ -3416,6 +3728,7 @@ Agamemnonstraat,6,,H,1076LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863163,52.34
 Agamemnonstraat,8,,,1076LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863270,52.345219
 Agamemnonstraat,10,,1,1076LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863285,52.345156
 Agamemnonstraat,10,,2,1076LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863285,52.345156
+Agamemnonstraat,10,,3,1076LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863255,52.345151
 Agamemnonstraat,10,,H,1076LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863285,52.345156
 Agamemnonstraat,12,,1,1076LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863345,52.345093
 Agamemnonstraat,12,,2,1076LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863345,52.345093
@@ -3483,7 +3796,7 @@ Van Tuyll van Serooskerkenplein,19,,1,1076LX,Amsterdam,Amsterdam,Noord-Holland,V
 Van Tuyll van Serooskerkenplein,19,,2,1076LX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866693,52.344883
 Van Tuyll van Serooskerkenplein,19,,3,1076LX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866693,52.344883
 Van Tuyll van Serooskerkenplein,21,,,1076LX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866649,52.344874
-Van Tuyll van Serooskerkenplein,23,,,1076LZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866606,52.344865
+Van Tuyll van Serooskerkenplein,23,,,1076LZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866605,52.344865
 Van Tuyll van Serooskerkenplein,25,,1,1076LZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866547,52.344847
 Van Tuyll van Serooskerkenplein,25,,2,1076LZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866547,52.344847
 Van Tuyll van Serooskerkenplein,25,,3,1076LZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866547,52.344847
@@ -3677,9 +3990,9 @@ Patroclosstraat,42,,2,1076NH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866539,52.3
 Patroclosstraat,42,,3,1076NH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866539,52.344317
 Patroclosstraat,44,,,1076NH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866554,52.344290
 Stadionweg,139,,,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865300,52.346046
-Stadionweg,141,,1,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865242,52.346018
-Stadionweg,141,,2,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865242,52.346018
-Stadionweg,141,,3,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865242,52.346018
+Stadionweg,141,,1,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865242,52.346019
+Stadionweg,141,,2,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865242,52.346019
+Stadionweg,141,,3,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865242,52.346019
 Stadionweg,143,,1,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865154,52.346018
 Stadionweg,143,,2,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865154,52.346018
 Stadionweg,143,,3,1076NM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.865154,52.346018
@@ -3827,10 +4140,10 @@ Stadionweg,233,,1,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860421,52.34536
 Stadionweg,233,,2,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860421,52.345368
 Stadionweg,233,,3,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860421,52.345368
 Stadionweg,233,,H,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860421,52.345368
-Stadionweg,235,,1,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860304,52.345349
-Stadionweg,235,,2,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860304,52.345349
-Stadionweg,235,,3,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860304,52.345349
-Stadionweg,235,,H,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860304,52.345349
+Stadionweg,235,,1,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860304,52.345350
+Stadionweg,235,,2,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860304,52.345350
+Stadionweg,235,,3,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860304,52.345350
+Stadionweg,235,,H,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860304,52.345350
 Stadionweg,237,,1,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860231,52.345340
 Stadionweg,237,,2,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860231,52.345340
 Stadionweg,237,,3,1076NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860231,52.345340
@@ -4513,9 +4826,9 @@ Achillesstraat,102,,H,1076RH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864181,52.3
 Achillesstraat,104,,,1076RH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864167,52.345061
 Achillesstraat,108,,,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864363,52.344639
 Achillesstraat,110,,,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864393,52.344586
-Achillesstraat,112,,1,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864335,52.344540
-Achillesstraat,112,,2,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864335,52.344540
-Achillesstraat,112,,3,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864335,52.344540
+Achillesstraat,112,,1,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864335,52.344541
+Achillesstraat,112,,2,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864335,52.344541
+Achillesstraat,112,,3,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864335,52.344541
 Achillesstraat,114,,1,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864408,52.344523
 Achillesstraat,114,,2,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864408,52.344523
 Achillesstraat,114,,3,1076RJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.864408,52.344523
@@ -6427,10 +6740,10 @@ Olympiakade,49,,1,1076XW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859442,52.34749
 Olympiakade,49,,2,1076XW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859442,52.347494
 Olympiakade,49,,3,1076XW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859442,52.347494
 Olympiakade,49,,H,1076XW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859442,52.347494
-Olympiakade,50,,1,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859369,52.347430
-Olympiakade,50,,2,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859369,52.347430
-Olympiakade,50,,3,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859369,52.347430
-Olympiakade,50,,H,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859369,52.347430
+Olympiakade,50,,1,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859369,52.347431
+Olympiakade,50,,2,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859369,52.347431
+Olympiakade,50,,3,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859369,52.347431
+Olympiakade,50,,H,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859369,52.347431
 Olympiakade,51,,1,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859282,52.347358
 Olympiakade,51,,2,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859282,52.347358
 Olympiakade,51,,3,1076XX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.859282,52.347358

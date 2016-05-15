@@ -306,7 +306,7 @@ van Wassenhovenstraat,30,,,3264AS,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.
 van Wassenhovenstraat,32,,,3264AS,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.341946,51.808824
 van Wassenhovenstraat,34,,,3264AS,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.341871,51.808931
 van Wassenhovenstraat,36,,,3264AS,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.341709,51.809042
-Voordoel,1,,,3264AT,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.337302,51.810256
+Voordoel,1,,,3264AT,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.337301,51.810256
 Voordoel,3,,,3264AT,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.337450,51.810105
 Voordoel,5,,,3264AT,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.337495,51.810060
 Voordoel,7,,,3264AT,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.337554,51.810016
@@ -362,7 +362,7 @@ Voorstraat,2,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.335445,51.81
 Voorstraat,4,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.335542,51.811701
 Voorstraat,6,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.335654,51.811572
 Voorstraat,8,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.335808,51.811483
-Voorstraat,10,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.335919,51.811385
+Voorstraat,10,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.335919,51.811386
 Voorstraat,12,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.335986,51.811314
 Voorstraat,14,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.335870,51.811122
 Voorstraat,16,,,3264AX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.336151,51.811091
@@ -449,7 +449,6 @@ Spuidijk,20,,,3264LD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.358658,51.816
 Spuidijk,22,,,3264LD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.361824,51.816622
 Spuidijk,24,,,3264LD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.361926,51.816596
 Spuidijk,26,,,3264LD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.364530,51.815944
-Spuidijk,28,,,3264LD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.370505,51.815645
 Spuidijk,30,,,3264LD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.371432,51.815671
 Spuidijk,32,,,3264LD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.371302,51.815652
 Spuidijk,34,A,,3264LD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.371811,51.816250
@@ -562,7 +561,6 @@ Beijerlandschedijk,13,,,3264LM,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.410
 Beijerlandschedijk,14,,,3264LM,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.410900,51.775988
 Beijerlandschedijk,15,,,3264LM,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.411409,51.775884
 Oudendijk,10,,,3264LN,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.333332,51.808243
-Oudendijk,13,A,,3264LN,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.332784,51.810566
 Oudendijk,13,,,3264LN,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.332688,51.810359
 Oudendijk,15,A,,3264LN,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.332750,51.810768
 Oudendijk,15,,,3264LN,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.332787,51.811052
@@ -604,6 +602,8 @@ Ruisscheweg,2,,,3264LS,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.385833,51.8
 Oud-Beijerlandse Langeweg,85,,,3264LT,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.404487,51.781617
 Oud-Beijerlandse Langeweg,87,,,3264LT,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.405101,51.780531
 Kreekkant,1,A,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.346196,51.807234
+Kreekkant,1,B,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.345769,51.807209
+Kreekkant,1,C,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.345672,51.807203
 Kreekkant,1,,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.346521,51.807282
 Kreekkant,2,,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.346637,51.807283
 Kreekkant,3,A,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.347737,51.806745
@@ -611,8 +611,25 @@ Kreekkant,3,B,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.348890,51.80
 Kreekkant,3,,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.348845,51.807725
 Kreekkant,4,,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.352411,51.808395
 Kreekkant,5,,,3264LW,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.355833,51.808425
+Spuidreef,6,,,3264LX,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.369885,51.814794
+Kersenhof,1,,,3264PE,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343652,51.806820
+Kersenhof,3,,,3264PE,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343643,51.806768
+Kersenhof,5,,,3264PE,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343638,51.806713
+Kersenhof,7,,,3264PE,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343631,51.806661
+Kersenhof,9,,,3264PE,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343627,51.806611
+Kersenhof,11,,,3264PE,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343618,51.806554
+Kersenhof,13,,,3264PE,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343613,51.806500
+Kersenhof,15,,,3264PE,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343609,51.806447
+Dorpsgaard,1,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.345374,51.806372
+Dorpsgaard,2,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344163,51.806831
+Dorpsgaard,3,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344785,51.805873
+Dorpsgaard,4,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344158,51.806769
 Dorpsgaard,5,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344001,51.805884
+Dorpsgaard,6,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344142,51.806656
 Dorpsgaard,7,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343823,51.804795
+Dorpsgaard,8,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344138,51.806596
+Dorpsgaard,10,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344120,51.806488
+Dorpsgaard,12,,,3264PG,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344107,51.806427
 Stuifakker,2,,,3264RA,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.349939,51.809668
 Stuifakker,4,,,3264RA,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.349936,51.809287
 Stuifakker,6,,,3264RA,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.349780,51.808992
@@ -1075,7 +1092,7 @@ Ridder van Dorpstraat,22,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.
 Ridder van Dorpstraat,24,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344393,51.809169
 Ridder van Dorpstraat,26,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344526,51.809211
 Ridder van Dorpstraat,28,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344677,51.809266
-Ridder van Dorpstraat,30,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344814,51.809298
+Ridder van Dorpstraat,30,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344814,51.809299
 Ridder van Dorpstraat,32,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344936,51.809345
 Ridder van Dorpstraat,34,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.345095,51.809382
 Ridder van Dorpstraat,36,,,3264VD,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.345195,51.809410
@@ -1577,6 +1594,8 @@ Wilhelminastraat,57,,,3264XR,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.34285
 Wilhelminastraat,59,,,3264XR,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.342996,51.808900
 Wilhelminastraat,61,A,,3264XR,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344602,51.807786
 Wilhelminastraat,61,,,3264XR,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344293,51.807981
+Wilhelminastraat,67,,,3264XR,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.345659,51.806921
+Wilhelminastraat,69,,,3264XR,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.345756,51.806919
 Wilhelminastraat,2,,,3264XS,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.340359,51.811277
 Wilhelminastraat,4,,,3264XS,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.340469,51.811228
 Wilhelminastraat,6,,,3264XS,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.340499,51.811184
@@ -1662,8 +1681,10 @@ Handelstraat,4,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343329,51.
 Handelstraat,5,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343217,51.815632
 Handelstraat,6,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343705,51.814902
 Handelstraat,7,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343703,51.815617
-Handelstraat,8,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343625,51.814609
+Handelstraat,8,A,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343671,51.814572
+Handelstraat,8,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343557,51.814681
 Handelstraat,9,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343812,51.815471
+Handelstraat,10,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343751,51.814460
 Handelstraat,12,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344118,51.814430
 Handelstraat,13,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.344397,51.815093
 Handelstraat,14,,,3264XZ,Nieuw-Beijerland,Korendijk,Zuid-Holland,VBO,4.343792,51.814305

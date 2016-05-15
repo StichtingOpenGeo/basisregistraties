@@ -110,6 +110,7 @@ Het Spoor,57,,,3994AC,Houten,Houten,Utrecht,VBO,5.177945,52.022638
 Het Spoor,59,,,3994AC,Houten,Houten,Utrecht,VBO,5.177921,52.022579
 Het Spoor,61,,,3994AC,Houten,Houten,Utrecht,VBO,5.177870,52.022477
 Het Spoor,63,,,3994AC,Houten,Houten,Utrecht,VBO,5.177848,52.022424
+Handboog,2,,,3994AD,Houten,Houten,Utrecht,VBO,5.180362,52.030034
 Handboog,4,,,3994AD,Houten,Houten,Utrecht,VBO,5.180074,52.030407
 Handboog,8,,,3994AD,Houten,Houten,Utrecht,VBO,5.180609,52.031088
 Kruisboog,1,,,3994AE,Houten,Houten,Utrecht,VBO,5.183625,52.028978
@@ -129,6 +130,7 @@ Kruisboog,16,,,3994AE,Houten,Houten,Utrecht,VBO,5.180115,52.029805
 Kruisboog,17,,,3994AE,Houten,Houten,Utrecht,VBO,5.182251,52.029556
 Kruisboog,22,,,3994AE,Houten,Houten,Utrecht,VBO,5.181116,52.030061
 Kruisboog,26,,,3994AE,Houten,Houten,Utrecht,VBO,5.181570,52.029970
+Kruisboog,28,,,3994AE,Houten,Houten,Utrecht,VBO,5.181948,52.029951
 Kruisboog,32,,,3994AE,Houten,Houten,Utrecht,VBO,5.182808,52.029939
 Kruisboog,34,,,3994AE,Houten,Houten,Utrecht,VBO,5.183116,52.029930
 Kruisboog,36,,,3994AE,Houten,Houten,Utrecht,VBO,5.183507,52.029918
@@ -219,7 +221,7 @@ Het Spoor,94,,,3994AL,Houten,Houten,Utrecht,VBO,5.178754,52.022444
 Het Spoor,98,,,3994AL,Houten,Houten,Utrecht,VBO,5.178703,52.022304
 Het Spoor,100,,,3994AL,Houten,Houten,Utrecht,VBO,5.178690,52.022240
 Het Spoor,102,,,3994AL,Houten,Houten,Utrecht,VBO,5.177769,52.022215
-Het Spoor,104,,,3994AL,Houten,Houten,Utrecht,VBO,5.177797,52.022159
+Het Spoor,104,,,3994AL,Houten,Houten,Utrecht,VBO,5.177797,52.022160
 Het Spoor,106,,,3994AL,Houten,Houten,Utrecht,VBO,5.177845,52.022081
 Het Spoor,108,,,3994AL,Houten,Houten,Utrecht,VBO,5.177864,52.022025
 Grensspoor,1,,,3994AM,Houten,Houten,Utrecht,VBO,5.176652,52.022227
@@ -240,6 +242,7 @@ Binnenweg,20,,,3994AN,Houten,Houten,Utrecht,VBO,5.183943,52.030005
 Binnenweg,21,,,3994AN,Houten,Houten,Utrecht,VBO,5.187769,52.038831
 Binnenweg,22,,,3994AN,Houten,Houten,Utrecht,VBO,5.184059,52.032175
 Binnenweg,23,,,3994AN,Houten,Houten,Utrecht,VBO,5.185819,52.042135
+Binnenweg,24,a,,3994AN,Houten,Houten,Utrecht,VBO,5.182621,52.031023
 Binnenweg,26,,,3994AN,Houten,Houten,Utrecht,VBO,5.185455,52.042593
 Binnenweg,28,,0001,3994AN,Houten,Houten,Utrecht,VBO,5.185995,52.043814
 Binnenweg,28,,,3994AN,Houten,Houten,Utrecht,VBO,5.186333,52.043885
@@ -296,7 +299,7 @@ Odijkseweg,28,,,3994AT,Houten,Houten,Utrecht,VBO,5.175081,52.031700
 Odijkseweg,30,,,3994AT,Houten,Houten,Utrecht,VBO,5.175110,52.031734
 Odijkseweg,32,,,3994AT,Houten,Houten,Utrecht,VBO,5.175200,52.031756
 Odijkseweg,36,,,3994AT,Houten,Houten,Utrecht,VBO,5.176552,52.032377
-Odijkseweg,38,a,,3994AT,Houten,Houten,Utrecht,VBO,5.177455,52.032457
+Odijkseweg,38,a,,3994AT,Houten,Houten,Utrecht,VBO,5.177455,52.032458
 Odijkseweg,38,,,3994AT,Houten,Houten,Utrecht,VBO,5.177070,52.032472
 Odijkseweg,40,,,3994AT,Houten,Houten,Utrecht,VBO,5.177732,52.032528
 Odijkseweg,42,,,3994AT,Houten,Houten,Utrecht,VBO,5.177987,52.032525
@@ -324,6 +327,7 @@ Odijkseweg,74,,0001,3994AT,Houten,Houten,Utrecht,VBO,5.183658,52.032842
 Odijkseweg,74,,,3994AT,Houten,Houten,Utrecht,VBO,5.183526,52.032778
 Kruisweg,2,,,3994AV,Houten,Houten,Utrecht,VBO,5.185101,52.033298
 Kruisweg,3,,,3994AV,Houten,Houten,Utrecht,VBO,5.186879,52.033474
+Kruisweg,7,a,,3994AV,Houten,Houten,Utrecht,VBO,5.190850,52.033109
 Kruisweg,7,,,3994AV,Houten,Houten,Utrecht,VBO,5.190882,52.033279
 Albers Pistoriusweg,1,,,3994AW,Houten,Houten,Utrecht,VBO,5.176915,52.023126
 Albers Pistoriusweg,7,,,3994AW,Houten,Houten,Utrecht,VBO,5.175923,52.023310
@@ -838,11 +842,69 @@ De Molen,23,,,3994DA,Houten,Houten,Utrecht,VBO,5.175982,52.029614
 De Molen,25,,,3994DA,Houten,Houten,Utrecht,VBO,5.175543,52.029730
 De Molen,35,,,3994DA,Houten,Houten,Utrecht,VBO,5.174970,52.029757
 De Molen,37,,,3994DA,Houten,Houten,Utrecht,VBO,5.174455,52.029769
+De Molen,43,b,,3994DA,Houten,Houten,Utrecht,VBO,5.173960,52.029788
+De Molen,43,c,,3994DA,Houten,Houten,Utrecht,VBO,5.174041,52.029785
+De Molen,43,d,,3994DA,Houten,Houten,Utrecht,VBO,5.174016,52.029723
+De Molen,43,e,,3994DA,Houten,Houten,Utrecht,VBO,5.173942,52.029728
+De Molen,43,g,,3994DA,Houten,Houten,Utrecht,VBO,5.173971,52.029813
+De Molen,43,h,,3994DA,Houten,Houten,Utrecht,VBO,5.174046,52.029811
+De Molen,43,j,,3994DA,Houten,Houten,Utrecht,VBO,5.174034,52.029745
+De Molen,43,k,,3994DA,Houten,Houten,Utrecht,VBO,5.173927,52.029821
+De Molen,43,l,,3994DA,Houten,Houten,Utrecht,VBO,5.174070,52.029825
+De Molen,43,m,,3994DA,Houten,Houten,Utrecht,VBO,5.174056,52.029762
+De Molen,45,a,,3994DA,Houten,Houten,Utrecht,VBO,5.173740,52.029731
+De Molen,45,b,,3994DA,Houten,Houten,Utrecht,VBO,5.173723,52.029796
+De Molen,45,c,,3994DA,Houten,Houten,Utrecht,VBO,5.173840,52.029795
+De Molen,45,d,,3994DA,Houten,Houten,Utrecht,VBO,5.173841,52.029729
+De Molen,45,e,,3994DA,Houten,Houten,Utrecht,VBO,5.173752,52.029757
+De Molen,45,g,,3994DA,Houten,Houten,Utrecht,VBO,5.173747,52.029816
+De Molen,45,h,,3994DA,Houten,Houten,Utrecht,VBO,5.173855,52.029813
+De Molen,45,j,,3994DA,Houten,Houten,Utrecht,VBO,5.173850,52.029752
+De Molen,45,k,,3994DA,Houten,Houten,Utrecht,VBO,5.173774,52.029773
+De Molen,45,l,,3994DA,Houten,Houten,Utrecht,VBO,5.173774,52.029834
+De Molen,45,m,,3994DA,Houten,Houten,Utrecht,VBO,5.173863,52.029775
+De Molen,47,a,,3994DA,Houten,Houten,Utrecht,VBO,5.173309,52.029942
+De Molen,47,b,,3994DA,Houten,Houten,Utrecht,VBO,5.173266,52.029989
+De Molen,47,c,,3994DA,Houten,Houten,Utrecht,VBO,5.173346,52.030042
+De Molen,47,d,,3994DA,Houten,Houten,Utrecht,VBO,5.173383,52.029988
+De Molen,47,e,,3994DA,Houten,Houten,Utrecht,VBO,5.173471,52.029912
+De Molen,47,g,,3994DA,Houten,Houten,Utrecht,VBO,5.173409,52.029859
+De Molen,49,a,,3994DA,Houten,Houten,Utrecht,VBO,5.173328,52.029959
+De Molen,49,b,,3994DA,Houten,Houten,Utrecht,VBO,5.173307,52.029993
+De Molen,49,c,,3994DA,Houten,Houten,Utrecht,VBO,5.173358,52.030022
+De Molen,49,d,,3994DA,Houten,Houten,Utrecht,VBO,5.173434,52.029977
+De Molen,49,e,,3994DA,Houten,Houten,Utrecht,VBO,5.173502,52.029920
+De Molen,49,g,,3994DA,Houten,Houten,Utrecht,VBO,5.173443,52.029864
+De Molen,51,a,,3994DA,Houten,Houten,Utrecht,VBO,5.173363,52.029961
+De Molen,51,b,,3994DA,Houten,Houten,Utrecht,VBO,5.173326,52.030005
+De Molen,51,c,,3994DA,Houten,Houten,Utrecht,VBO,5.173382,52.030018
+De Molen,51,d,,3994DA,Houten,Houten,Utrecht,VBO,5.173461,52.029970
+De Molen,51,e,,3994DA,Houten,Houten,Utrecht,VBO,5.173534,52.029920
+De Molen,51,g,,3994DA,Houten,Houten,Utrecht,VBO,5.173472,52.029861
+De Molen,53,a,,3994DA,Houten,Houten,Utrecht,VBO,5.173055,52.030159
+De Molen,53,b,,3994DA,Houten,Houten,Utrecht,VBO,5.173150,52.030190
+De Molen,53,c,,3994DA,Houten,Houten,Utrecht,VBO,5.173214,52.030141
+De Molen,53,d,,3994DA,Houten,Houten,Utrecht,VBO,5.173295,52.030081
+De Molen,53,e,,3994DA,Houten,Houten,Utrecht,VBO,5.173185,52.030040
+De Molen,53,g,,3994DA,Houten,Houten,Utrecht,VBO,5.173144,52.030093
+De Molen,55,a,,3994DA,Houten,Houten,Utrecht,VBO,5.173074,52.030170
+De Molen,55,b,,3994DA,Houten,Houten,Utrecht,VBO,5.173171,52.030203
+De Molen,55,c,,3994DA,Houten,Houten,Utrecht,VBO,5.173230,52.030153
+De Molen,55,d,,3994DA,Houten,Houten,Utrecht,VBO,5.173267,52.030102
+De Molen,55,e,,3994DA,Houten,Houten,Utrecht,VBO,5.173197,52.030064
+De Molen,55,g,,3994DA,Houten,Houten,Utrecht,VBO,5.173167,52.030105
+De Molen,57,a,,3994DA,Houten,Houten,Utrecht,VBO,5.173090,52.030181
+De Molen,57,b,,3994DA,Houten,Houten,Utrecht,VBO,5.173187,52.030219
+De Molen,57,c,,3994DA,Houten,Houten,Utrecht,VBO,5.173239,52.030171
+De Molen,57,d,,3994DA,Houten,Houten,Utrecht,VBO,5.173280,52.030117
+De Molen,57,e,,3994DA,Houten,Houten,Utrecht,VBO,5.173215,52.030078
+De Molen,57,g,,3994DA,Houten,Houten,Utrecht,VBO,5.173181,52.030119
 De Molen,2,,,3994DB,Houten,Houten,Utrecht,VBO,5.175982,52.027582
 De Molen,4,,,3994DB,Houten,Houten,Utrecht,VBO,5.175974,52.027652
 De Molen,6,a,,3994DB,Houten,Houten,Utrecht,VBO,5.175898,52.027733
 De Molen,6,b,,3994DB,Houten,Houten,Utrecht,VBO,5.176038,52.027702
 De Molen,6,c,,3994DB,Houten,Houten,Utrecht,VBO,5.176026,52.027763
+De Molen,8,,,3994DB,Houten,Houten,Utrecht,VBO,5.176017,52.027941
 De Molen,20,,,3994DB,Houten,Houten,Utrecht,VBO,5.176089,52.028700
 De Molen,24,,,3994DB,Houten,Houten,Utrecht,VBO,5.175565,52.029088
 De Molen,26,a,,3994DB,Houten,Houten,Utrecht,VBO,5.175478,52.029144
@@ -896,31 +958,6 @@ Walmolen,1,,,3994DL,Houten,Houten,Utrecht,VBO,5.177009,52.026776
 Walmolen,17,,,3994DL,Houten,Houten,Utrecht,VBO,5.178008,52.027327
 Walmolen,19,,,3994DL,Houten,Houten,Utrecht,VBO,5.177763,52.027395
 Walmolen,21,,,3994DL,Houten,Houten,Utrecht,VBO,5.177892,52.027436
-Onderdoor,5,,201,3994DW,Houten,Houten,Utrecht,VBO,5.167955,52.034791
-Onderdoor,5,,202,3994DW,Houten,Houten,Utrecht,VBO,5.168052,52.034809
-Onderdoor,5,,203,3994DW,Houten,Houten,Utrecht,VBO,5.168115,52.034823
-Onderdoor,5,,204,3994DW,Houten,Houten,Utrecht,VBO,5.168191,52.034844
-Onderdoor,5,,205,3994DW,Houten,Houten,Utrecht,VBO,5.168340,52.034867
-Onderdoor,5,,206,3994DW,Houten,Houten,Utrecht,VBO,5.168420,52.034882
-Onderdoor,5,,207,3994DW,Houten,Houten,Utrecht,VBO,5.168511,52.034893
-Onderdoor,5,,208,3994DW,Houten,Houten,Utrecht,VBO,5.168546,52.034817
-Onderdoor,5,,209,3994DW,Houten,Houten,Utrecht,VBO,5.168474,52.034809
-Onderdoor,5,,210,3994DW,Houten,Houten,Utrecht,VBO,5.168395,52.034798
-Onderdoor,5,,211,3994DW,Houten,Houten,Utrecht,VBO,5.168326,52.034778
-Onderdoor,5,,212,3994DW,Houten,Houten,Utrecht,VBO,5.168239,52.034762
-Onderdoor,5,,213,3994DW,Houten,Houten,Utrecht,VBO,5.168167,52.034750
-Onderdoor,5,,214,3994DW,Houten,Houten,Utrecht,VBO,5.168072,52.034717
-Onderdoor,5,,215,3994DW,Houten,Houten,Utrecht,VBO,5.167995,52.034704
-Onderdoor,5,,301,3994DW,Houten,Houten,Utrecht,VBO,5.167954,52.034806
-Onderdoor,5,,302,3994DW,Houten,Houten,Utrecht,VBO,5.168028,52.034822
-Onderdoor,5,,303,3994DW,Houten,Houten,Utrecht,VBO,5.168140,52.034848
-Onderdoor,5,,304,3994DW,Houten,Houten,Utrecht,VBO,5.168217,52.034863
-Onderdoor,5,,305,3994DW,Houten,Houten,Utrecht,VBO,5.168278,52.034893
-Onderdoor,5,,306,3994DW,Houten,Houten,Utrecht,VBO,5.168327,52.034812
-Onderdoor,5,,307,3994DW,Houten,Houten,Utrecht,VBO,5.168228,52.034786
-Onderdoor,5,,308,3994DW,Houten,Houten,Utrecht,VBO,5.168169,52.034767
-Onderdoor,5,,309,3994DW,Houten,Houten,Utrecht,VBO,5.168064,52.034743
-Onderdoor,5,,310,3994DW,Houten,Houten,Utrecht,VBO,5.167978,52.034732
 Hermelijnakker,1,,,3994EA,Houten,Houten,Utrecht,VBO,5.182294,52.034856
 Hermelijnakker,2,,,3994EA,Houten,Houten,Utrecht,VBO,5.182816,52.034985
 Hermelijnakker,3,,,3994EA,Houten,Houten,Utrecht,VBO,5.182332,52.034943
@@ -1157,7 +1194,7 @@ Edelhertakker,31,,,3994EP,Houten,Houten,Utrecht,VBO,5.180977,52.032979
 Edelhertakker,33,,,3994EP,Houten,Houten,Utrecht,VBO,5.180773,52.032982
 Edelhertakker,35,,,3994EP,Houten,Houten,Utrecht,VBO,5.180650,52.032987
 Edelhertakker,37,,,3994EP,Houten,Houten,Utrecht,VBO,5.180489,52.032986
-Edelhertakker,39,,,3994EP,Houten,Houten,Utrecht,VBO,5.180361,52.032983
+Edelhertakker,39,,,3994EP,Houten,Houten,Utrecht,VBO,5.180361,52.032984
 Edelhertakker,41,,,3994EP,Houten,Houten,Utrecht,VBO,5.180168,52.033017
 Edelhertakker,43,,,3994EP,Houten,Houten,Utrecht,VBO,5.180004,52.033023
 Edelhertakker,45,,,3994EP,Houten,Houten,Utrecht,VBO,5.179836,52.033025
@@ -2431,7 +2468,7 @@ Fluweelmos,62,,,3994KS,Houten,Houten,Utrecht,VBO,5.190791,52.012469
 Fluweelmos,64,,,3994KS,Houten,Houten,Utrecht,VBO,5.190718,52.012452
 Fluweelmos,66,,,3994KS,Houten,Houten,Utrecht,VBO,5.190651,52.012431
 Fluweelmos,68,,,3994KS,Houten,Houten,Utrecht,VBO,5.190576,52.012422
-Fluweelmos,70,,,3994KS,Houten,Houten,Utrecht,VBO,5.190484,52.012389
+Fluweelmos,70,,,3994KS,Houten,Houten,Utrecht,VBO,5.190484,52.012390
 Fluweelmos,72,,,3994KS,Houten,Houten,Utrecht,VBO,5.190398,52.012381
 Fluweelmos,74,,,3994KS,Houten,Houten,Utrecht,VBO,5.190320,52.012367
 Fluweelmos,76,,,3994KS,Houten,Houten,Utrecht,VBO,5.190258,52.012349
@@ -2663,7 +2700,7 @@ Zilvermos,58,,,3994LE,Houten,Houten,Utrecht,VBO,5.194748,52.016713
 Zilvermos,60,,,3994LE,Houten,Houten,Utrecht,VBO,5.194751,52.016766
 Zilvermos,62,,,3994LE,Houten,Houten,Utrecht,VBO,5.194819,52.016804
 Zilvermos,64,,,3994LE,Houten,Houten,Utrecht,VBO,5.194808,52.016866
-Zilvermos,66,,,3994LE,Houten,Houten,Utrecht,VBO,5.194516,52.017018
+Zilvermos,66,,,3994LE,Houten,Houten,Utrecht,VBO,5.194516,52.017019
 Zilvermos,68,,,3994LE,Houten,Houten,Utrecht,VBO,5.194643,52.017019
 Witmos,2,,,3994LG,Houten,Houten,Utrecht,VBO,5.195104,52.017227
 Witmos,4,,,3994LG,Houten,Houten,Utrecht,VBO,5.195202,52.017235
@@ -2726,7 +2763,7 @@ Riviermos,2,,,3994LK,Houten,Houten,Utrecht,VBO,5.191894,52.017137
 Riviermos,3,,,3994LK,Houten,Houten,Utrecht,VBO,5.191959,52.017197
 Riviermos,4,,,3994LK,Houten,Houten,Utrecht,VBO,5.192082,52.017188
 Riviermos,5,,,3994LK,Houten,Houten,Utrecht,VBO,5.192153,52.017236
-Riviermos,6,,,3994LK,Houten,Houten,Utrecht,VBO,5.192246,52.017260
+Riviermos,6,,,3994LK,Houten,Houten,Utrecht,VBO,5.192246,52.017261
 Riviermos,7,,,3994LK,Houten,Houten,Utrecht,VBO,5.192306,52.017283
 Riviermos,8,,,3994LK,Houten,Houten,Utrecht,VBO,5.192428,52.017308
 Riviermos,9,,,3994LK,Houten,Houten,Utrecht,VBO,5.192460,52.017359
@@ -3015,7 +3052,7 @@ Blauwgras,28,,,3994MJ,Houten,Houten,Utrecht,VBO,5.186948,52.012004
 Blauwgras,30,,,3994MJ,Houten,Houten,Utrecht,VBO,5.186931,52.012058
 Blauwgras,32,,,3994MJ,Houten,Houten,Utrecht,VBO,5.186819,52.012055
 Blauwgras,34,,,3994MJ,Houten,Houten,Utrecht,VBO,5.186790,52.012100
-Blauwgras,36,,,3994MK,Houten,Houten,Utrecht,VBO,5.186950,52.012244
+Blauwgras,36,,,3994MK,Houten,Houten,Utrecht,VBO,5.186949,52.012244
 Blauwgras,38,,,3994MK,Houten,Houten,Utrecht,VBO,5.187033,52.012267
 Blauwgras,40,,,3994MK,Houten,Houten,Utrecht,VBO,5.187089,52.012199
 Blauwgras,42,,,3994MK,Houten,Houten,Utrecht,VBO,5.187190,52.012223
@@ -3132,7 +3169,7 @@ Kamgras,31,,,3994NA,Houten,Houten,Utrecht,VBO,5.186791,52.012487
 Kamgras,33,,,3994NA,Houten,Houten,Utrecht,VBO,5.186862,52.012558
 Kamgras,35,,,3994NA,Houten,Houten,Utrecht,VBO,5.186791,52.012607
 Kamgras,37,,,3994NA,Houten,Houten,Utrecht,VBO,5.186854,52.012666
-Kamgras,39,,,3994NA,Houten,Houten,Utrecht,VBO,5.186765,52.012709
+Kamgras,39,,,3994NA,Houten,Houten,Utrecht,VBO,5.186765,52.012710
 Kamgras,41,,,3994NB,Houten,Houten,Utrecht,VBO,5.186753,52.012918
 Kamgras,43,,,3994NB,Houten,Houten,Utrecht,VBO,5.186712,52.012958
 Kamgras,45,,,3994NB,Houten,Houten,Utrecht,VBO,5.186726,52.013007
@@ -3255,7 +3292,7 @@ Prairiegras,13,,,3994NN,Houten,Houten,Utrecht,VBO,5.185108,52.013870
 Prairiegras,14,,,3994NN,Houten,Houten,Utrecht,VBO,5.185126,52.013681
 Prairiegras,15,,,3994NN,Houten,Houten,Utrecht,VBO,5.185028,52.013863
 Prairiegras,16,,,3994NN,Houten,Houten,Utrecht,VBO,5.185044,52.013672
-Vedergras,1,,,3994NP,Houten,Houten,Utrecht,VBO,5.185617,52.014468
+Vedergras,1,,,3994NP,Houten,Houten,Utrecht,VBO,5.185617,52.014469
 Vedergras,3,,,3994NP,Houten,Houten,Utrecht,VBO,5.185525,52.014481
 Vedergras,5,,,3994NP,Houten,Houten,Utrecht,VBO,5.185449,52.014471
 Vedergras,7,,,3994NP,Houten,Houten,Utrecht,VBO,5.185372,52.014483
@@ -3624,6 +3661,7 @@ Lelietuin,23,,,3994PK,Houten,Houten,Utrecht,VBO,5.183850,52.020618
 Lelietuin,25,,,3994PK,Houten,Houten,Utrecht,VBO,5.183731,52.020568
 Lelietuin,27,,,3994PK,Houten,Houten,Utrecht,VBO,5.183621,52.020503
 Lelietuin,29,,,3994PK,Houten,Houten,Utrecht,VBO,5.183515,52.020440
+Lelietuin,31,,,3994PK,Houten,Houten,Utrecht,VBO,5.183421,52.020367
 Lelietuin,33,,,3994PK,Houten,Houten,Utrecht,VBO,5.183094,52.020150
 Lelietuin,35,,,3994PK,Houten,Houten,Utrecht,VBO,5.182984,52.020099
 Lelietuin,37,,,3994PK,Houten,Houten,Utrecht,VBO,5.182888,52.020030
@@ -3738,7 +3776,7 @@ Tulpentuin,8,,,3994PV,Houten,Houten,Utrecht,VBO,5.186637,52.019221
 Tulpentuin,10,,,3994PV,Houten,Houten,Utrecht,VBO,5.186242,52.019085
 Tulpentuin,12,,,3994PV,Houten,Houten,Utrecht,VBO,5.186158,52.019059
 Tulpentuin,14,,,3994PV,Houten,Houten,Utrecht,VBO,5.185966,52.018992
-Tulpentuin,16,,,3994PV,Houten,Houten,Utrecht,VBO,5.185891,52.018967
+Tulpentuin,16,,,3994PV,Houten,Houten,Utrecht,VBO,5.185857,52.018958
 Tulpentuin,18,,,3994PV,Houten,Houten,Utrecht,VBO,5.185453,52.018841
 Tulpentuin,20,,,3994PV,Houten,Houten,Utrecht,VBO,5.185382,52.018790
 Tulpentuin,22,,,3994PV,Houten,Houten,Utrecht,VBO,5.185163,52.018729
@@ -4521,7 +4559,7 @@ Hollandsspoor,1,,207,3994VT,Houten,Houten,Utrecht,VBO,5.179301,52.019798
 Hollandsspoor,1,,208,3994VT,Houten,Houten,Utrecht,VBO,5.179208,52.019828
 Hollandsspoor,1,,209,3994VT,Houten,Houten,Utrecht,VBO,5.179115,52.019778
 Hollandsspoor,1,,210,3994VT,Houten,Houten,Utrecht,VBO,5.179044,52.019748
-Hollandsspoor,1,,211,3994VT,Houten,Houten,Utrecht,VBO,5.178974,52.019726
+Hollandsspoor,1,,211,3994VT,Houten,Houten,Utrecht,VBO,5.178973,52.019726
 Hollandsspoor,1,,212,3994VT,Houten,Houten,Utrecht,VBO,5.178893,52.019698
 Hollandsspoor,1,,213,3994VT,Houten,Houten,Utrecht,VBO,5.178787,52.019662
 Hollandsspoor,1,,214,3994VT,Houten,Houten,Utrecht,VBO,5.178710,52.019640
@@ -4537,8 +4575,6 @@ Hollandsspoor,1,,223,3994VT,Houten,Houten,Utrecht,VBO,5.178915,52.019246
 Hollandsspoor,1,,224,3994VT,Houten,Houten,Utrecht,VBO,5.178937,52.019196
 Hollandsspoor,1,,225,3994VT,Houten,Houten,Utrecht,VBO,5.178996,52.019123
 Hollandsspoor,1,,226,3994VT,Houten,Houten,Utrecht,VBO,5.179031,52.019056
-Hollandsspoor,1,,227,3994VT,Houten,Houten,Utrecht,VBO,5.179044,52.019004
-Hollandsspoor,1,,228,3994VT,Houten,Houten,Utrecht,VBO,5.179157,52.018984
 Hollandsspoor,1,,229,3994VT,Houten,Houten,Utrecht,VBO,5.179231,52.019004
 Hollandsspoor,1,,230,3994VT,Houten,Houten,Utrecht,VBO,5.179321,52.019030
 Hollandsspoor,1,,231,3994VT,Houten,Houten,Utrecht,VBO,5.179401,52.019050
@@ -4554,10 +4590,10 @@ Hollandsspoor,1,,240,3994VT,Houten,Houten,Utrecht,VBO,5.179264,52.019401
 Hollandsspoor,1,,241,3994VT,Houten,Houten,Utrecht,VBO,5.179009,52.019261
 Hollandsspoor,1,,242,3994VT,Houten,Houten,Utrecht,VBO,5.179019,52.019236
 Hollandsspoor,1,,243,3994VT,Houten,Houten,Utrecht,VBO,5.179079,52.019155
-Hollandsspoor,1,,K11,3994VT,Houten,Houten,Utrecht,VBO,5.179104,52.019455
-Hollandsspoor,1,,K12,3994VT,Houten,Houten,Utrecht,VBO,5.179068,52.019501
-Hollandsspoor,1,,Tk1,3994VT,Houten,Houten,Utrecht,VBO,5.179198,52.019339
-Hollandsspoor,1,,Tk9,3994VT,Houten,Houten,Utrecht,VBO,5.179202,52.019363
+Hollandsspoor,1,,ST11,3994VT,Houten,Houten,Utrecht,VBO,5.179104,52.019455
+Hollandsspoor,1,,ST12,3994VT,Houten,Houten,Utrecht,VBO,5.179068,52.019501
+Hollandsspoor,1,,ST5,3994VT,Houten,Houten,Utrecht,VBO,5.179198,52.019339
+Hollandsspoor,1,,ST6,3994VT,Houten,Houten,Utrecht,VBO,5.179202,52.019363
 Hollandsspoor,1,,,3994VT,Houten,Houten,Utrecht,VBO,5.179095,52.019589
 Hollandsspoor,3,,,3994VT,Houten,Houten,Utrecht,VBO,5.178984,52.019692
 Hollandsspoor,5,,,3994VT,Houten,Houten,Utrecht,VBO,5.178970,52.019167
@@ -5087,7 +5123,7 @@ Boekdrukkersgilde,9,,,3994XT,Houten,Houten,Utrecht,VBO,5.175633,52.030668
 Boekdrukkersgilde,11,,,3994XT,Houten,Houten,Utrecht,VBO,5.175480,52.030654
 Boekdrukkersgilde,13,,,3994XT,Houten,Houten,Utrecht,VBO,5.175292,52.030625
 Boekdrukkersgilde,15,,,3994XT,Houten,Houten,Utrecht,VBO,5.175191,52.030626
-Boekdrukkersgilde,25,,,3994XT,Houten,Houten,Utrecht,VBO,5.174492,52.030405
+Boekdrukkersgilde,25,,,3994XT,Houten,Houten,Utrecht,VBO,5.174492,52.030406
 Boekdrukkersgilde,27,,,3994XT,Houten,Houten,Utrecht,VBO,5.174163,52.030199
 Boekdrukkersgilde,45,,,3994XT,Houten,Houten,Utrecht,VBO,5.174566,52.030005
 Boekdrukkersgilde,47,,,3994XT,Houten,Houten,Utrecht,VBO,5.174673,52.030051
@@ -5110,7 +5146,7 @@ Zaagmolen,14,,,3994XW,Houten,Houten,Utrecht,VBO,5.176920,52.029437
 Zaagmolen,16,,,3994XW,Houten,Houten,Utrecht,VBO,5.177018,52.029432
 Zaagmolen,18,,,3994XW,Houten,Houten,Utrecht,VBO,5.177103,52.029414
 Zaagmolen,20,,,3994XW,Houten,Houten,Utrecht,VBO,5.177192,52.029436
-Zaagmolen,22,,,3994XW,Houten,Houten,Utrecht,VBO,5.177277,52.029409
+Zaagmolen,22,,,3994XW,Houten,Houten,Utrecht,VBO,5.177276,52.029409
 Zaagmolen,24,,,3994XW,Houten,Houten,Utrecht,VBO,5.177397,52.029428
 Zaagmolen,26,,,3994XW,Houten,Houten,Utrecht,VBO,5.177675,52.029390
 Zaagmolen,28,,,3994XW,Houten,Houten,Utrecht,VBO,5.177679,52.029454
@@ -5123,7 +5159,7 @@ Pelmolen,7,,,3994XX,Houten,Houten,Utrecht,VBO,5.174003,52.028282
 Pelmolen,11,,,3994XX,Houten,Houten,Utrecht,VBO,5.174992,52.028117
 Pelmolen,13,,,3994XX,Houten,Houten,Utrecht,VBO,5.175162,52.028096
 Pelmolen,17,,,3994XX,Houten,Houten,Utrecht,VBO,5.175445,52.028097
-Pelmolen,19,,,3994XX,Houten,Houten,Utrecht,VBO,5.175619,52.028096
+Pelmolen,19,,,3994XX,Houten,Houten,Utrecht,VBO,5.175619,52.028097
 Pelmolen,2,,,3994XZ,Houten,Houten,Utrecht,VBO,5.173303,52.028753
 Pelmolen,8,,,3994XZ,Houten,Houten,Utrecht,VBO,5.173794,52.028753
 Pelmolen,14,,,3994XZ,Houten,Houten,Utrecht,VBO,5.174349,52.028735
@@ -5156,7 +5192,7 @@ Binnentuin,6,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184011,52.024864
 Binnentuin,8,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184083,52.024809
 Binnentuin,10,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184093,52.024665
 Binnentuin,12,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184102,52.024612
-Binnentuin,14,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184173,52.024470
+Binnentuin,14,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184172,52.024470
 Binnentuin,16,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184226,52.024400
 Binnentuin,18,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184334,52.024246
 Binnentuin,20,,,3994ZB,Houten,Houten,Utrecht,VBO,5.184358,52.024002
