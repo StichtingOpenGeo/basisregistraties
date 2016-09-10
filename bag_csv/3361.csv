@@ -2,12 +2,12 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 De Korverstoep,1,,,3361AB,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784435,51.816573
 De Korverstoep,2,,,3361AB,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784462,51.816617
 De Korverstoep,3,,,3361AB,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784482,51.816662
-Jac. P. Thijssesingel,60,u,grg,3361AC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.792704,51.821447
 Poelenstoep,10,,,3361AC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.790852,51.819040
 Poelenstoep,11,,,3361AC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.790841,51.818936
 Poelenstoep,14,,,3361AC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.790822,51.818833
 Poelenstoep,15,,,3361AC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.790962,51.818833
 Poelenstoep,16,,,3361AC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.790930,51.818769
+Poelenstoep,17,,nut,3361AC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.790606,51.818637
 Poelenstoep,17,,,3361AC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.790884,51.818705
 Rivierdijk,51,,,3361AD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.803924,51.819542
 Rivierdijk,59,,,3361AE,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.803582,51.819824
@@ -162,7 +162,6 @@ Rivierdijk,603,,,3361AN,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784497,51.81637
 Rivierdijk,605,,,3361AN,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784498,51.816481
 Rivierdijk,607,,,3361AN,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784224,51.816451
 Rivierdijk,609,,,3361AN,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784069,51.816548
-Kraal,31,,nut,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.800970,51.821612
 Rivierdijk,2,a,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805257,51.821471
 Rivierdijk,2,c,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805963,51.821789
 Rivierdijk,2,d,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805287,51.820622
@@ -179,6 +178,7 @@ Rivierdijk,18,,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805131,51.820009
 Rivierdijk,20,a,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805131,51.820009
 Rivierdijk,20,,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805131,51.820009
 Rivierdijk,22,,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805131,51.820009
+Rivierdijk,24,,nut,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805299,51.819812
 Rivierdijk,24,,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.804994,51.819778
 Rivierdijk,28,,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805066,51.819701
 Rivierdijk,30,,,3361AP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.805059,51.819623
@@ -198,6 +198,7 @@ Rivierdijk,60,,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.803245,51.819118
 Rivierdijk,72,a,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.802732,51.818984
 Rivierdijk,72,,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.802732,51.818984
 Rivierdijk,74,a,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.801964,51.819177
+Rivierdijk,74,,nut,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.802377,51.819128
 Rivierdijk,74,,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.802377,51.819128
 Rivierdijk,76,,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.801718,51.819333
 Rivierdijk,78,a,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.801334,51.819234
@@ -214,7 +215,6 @@ Rivierdijk,114,,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.800198,51.81978
 Rivierdijk,120,,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.799976,51.819429
 Rivierdijk,124,,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.800025,51.819769
 Rivierdijk,126,,,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.799896,51.819739
-Trapezium,100,,nut,3361AR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.798897,51.826040
 Rivierdijk,130,,,3361AS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.799837,51.819778
 Rivierdijk,134,,,3361AS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.799642,51.819787
 Rivierdijk,138,,,3361AS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.799130,51.819909
@@ -355,9 +355,42 @@ Rivierdijk,440,,,3361AZ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784380,51.81621
 Rivierdijk,442,,,3361AZ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784299,51.816208
 Rivierdijk,444,,,3361AZ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784182,51.816222
 Rivierdijk,446,,,3361AZ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784062,51.816186
+Waterkeringweg,1,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774622,51.818644
+Waterkeringweg,2,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774593,51.818655
 Waterkeringweg,2,,,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774267,51.818578
+Waterkeringweg,3,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774565,51.818665
+Waterkeringweg,4,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774536,51.818675
+Waterkeringweg,5,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774508,51.818685
+Waterkeringweg,6,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774480,51.818696
+Waterkeringweg,7,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774451,51.818706
+Waterkeringweg,8,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774423,51.818716
+Waterkeringweg,9,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774395,51.818726
+Waterkeringweg,10,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774367,51.818737
+Waterkeringweg,11,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774338,51.818747
+Waterkeringweg,12,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774310,51.818757
+Waterkeringweg,13,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774282,51.818767
+Waterkeringweg,14,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774254,51.818777
+Waterkeringweg,15,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774225,51.818788
+Waterkeringweg,16,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774197,51.818798
+Waterkeringweg,17,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774169,51.818808
+Waterkeringweg,18,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774139,51.818819
+Waterkeringweg,19,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774246,51.818928
+Waterkeringweg,20,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774281,51.818915
+Waterkeringweg,21,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774315,51.818903
+Waterkeringweg,22,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774349,51.818890
+Waterkeringweg,23,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774383,51.818878
+Waterkeringweg,24,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774417,51.818866
+Waterkeringweg,25,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774451,51.818854
+Waterkeringweg,26,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774485,51.818841
 Waterkeringweg,26,,,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774267,51.818578
+Waterkeringweg,27,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774519,51.818829
+Waterkeringweg,28,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774553,51.818817
 Waterkeringweg,28,,,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774267,51.818578
+Waterkeringweg,29,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774587,51.818805
+Waterkeringweg,30,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774621,51.818792
+Waterkeringweg,31,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774655,51.818780
+Waterkeringweg,32,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774688,51.818768
+Waterkeringweg,33,,grg,3361BA,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774724,51.818755
 Kerkbuurt,9,a,,3361BB,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776343,51.818676
 Kerkbuurt,9,,,3361BB,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776343,51.818676
 Kerkbuurt,11,,,3361BB,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776159,51.818765
@@ -375,6 +408,7 @@ Kerkbuurt,31,,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775043,51.819380
 Kerkbuurt,33,a,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775274,51.819861
 Kerkbuurt,33,,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775274,51.819861
 Kerkbuurt,35,a,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775274,51.819861
+Kerkbuurt,35,,nut,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775274,51.819861
 Kerkbuurt,35,,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775274,51.819861
 Kerkbuurt,37,a,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775274,51.819861
 Kerkbuurt,37,b,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775274,51.819861
@@ -392,7 +426,6 @@ Kerkbuurt,51,,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774237,51.820159
 Kerkbuurt,53,,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774138,51.820236
 Kerkbuurt,55,,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774138,51.820236
 Kerkbuurt,57,,,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773802,51.820456
-Merelstraat,14,s,grg,3361BC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786063,51.820467
 Kerkbuurt,59,a,,3361BD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773802,51.820456
 Kerkbuurt,59,b,,3361BD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773795,51.820456
 Kerkbuurt,59,,,3361BD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773802,51.820456
@@ -715,7 +748,6 @@ Oosterbrugstraat,35,,,3361BR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776473,51.
 Oosterbrugstraat,37,,,3361BR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776473,51.817869
 Oosterbrugstraat,39,,,3361BR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776473,51.817869
 Oosterbrugstraat,41,,,3361BR,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776473,51.817869
-Rembrandtlaan,628,a,grg,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786341,51.818789
 Rivierdijk,611,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.783820,51.816451
 Rivierdijk,613,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.783590,51.816456
 Rivierdijk,615,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.783462,51.816475
@@ -735,6 +767,7 @@ Rivierdijk,639,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.782564,51.81669
 Rivierdijk,655,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.782214,51.816635
 Rivierdijk,657,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.782021,51.816615
 Rivierdijk,659,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.781936,51.816648
+Rivierdijk,661,,nut,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.782055,51.816962
 Rivierdijk,669,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.781762,51.816693
 Rivierdijk,671,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.781700,51.816716
 Rivierdijk,673,,,3361BS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.781667,51.816771
@@ -747,6 +780,7 @@ Rivierdijk,681,b,,3361BT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.781201,51.8169
 Rivierdijk,681,,,3361BT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.781201,51.816931
 Rivierdijk,703,,,3361BT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.781074,51.816990
 Rivierdijk,705,,,3361BT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.780895,51.817031
+Rivierdijk,707,a,,3361BT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.780773,51.817080
 Rivierdijk,707,,,3361BT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.780779,51.817086
 Rivierdijk,709,,,3361BT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.780652,51.817124
 Rivierdijk,711,,,3361BT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.780576,51.817149
@@ -1379,11 +1413,9 @@ Baanhoek,209,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.747738,51.823666
 Baanhoek,211,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.747683,51.823688
 Baanhoek,213,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.747502,51.823652
 Baanhoek,215,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.747416,51.823664
-Baanhoek,217,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.747548,51.824229
 Baanhoek,219,,nut,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.747031,51.823717
 Baanhoek,219,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.747228,51.823884
 Baanhoek,239,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.745532,51.823860
-Baanhoek,241,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.745801,51.824190
 Baanhoek,243,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.745366,51.823976
 Baanhoek,245,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.745299,51.823985
 Baanhoek,247,,,3361GD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.745012,51.823854
@@ -1426,7 +1458,6 @@ Baanhoek,349,,,3361GE,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.742181,51.823799
 Baanhoek,351,a,,3361GE,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.741799,51.823908
 Baanhoek,351,b,,3361GE,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.741409,51.823893
 Baanhoek,351,,,3361GE,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.742108,51.823795
-Prisma,200,,nut,3361GE,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.800998,51.827927
 Baanhoek,353,,,3361GG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.740800,51.824044
 Baanhoek,355,,,3361GG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.741030,51.823773
 Baanhoek,357,,,3361GG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.741155,51.823681
@@ -1858,7 +1889,7 @@ Oranjestraat,39,,,3361HN,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771150,51.8187
 Oranjestraat,41,,,3361HN,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771110,51.818655
 Oranjestraat,43,,,3361HN,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771071,51.818625
 Oranjestraat,45,,,3361HN,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771016,51.818580
-Kerkbuurt,35,,nut,3361HP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775274,51.819861
+Oranjestraat,47,,nut,3361HP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.770681,51.818452
 Oranjestraat,47,,,3361HP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.770802,51.818470
 Oranjestraat,49,,,3361HP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.770854,51.818386
 Oranjestraat,51,,,3361HP,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.770821,51.818355
@@ -2173,6 +2204,7 @@ De Wiel,210,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786009,51.817719
 De Wiel,212,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786020,51.817763
 De Wiel,214,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786032,51.817809
 De Wiel,216,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786043,51.817854
+De Wiel,218,,nut,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.785940,51.817957
 De Wiel,218,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786073,51.817900
 De Wiel,220,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786030,51.818073
 De Wiel,222,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786127,51.818052
@@ -2186,7 +2218,6 @@ De Wiel,236,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786660,51.817966
 De Wiel,238,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786725,51.817915
 De Wiel,240,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786805,51.817911
 De Wiel,242,,,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786919,51.817898
-Sperwerstraat,160,,nut,3361TG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.786124,51.825012
 Middenveer,1,,,3361TH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.783804,51.817995
 Middenveer,3,,,3361TH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.783927,51.817986
 Middenveer,5,,,3361TH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.784045,51.817968
@@ -2371,6 +2402,7 @@ Admiraal de Ruyterstraat,20,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.77
 Admiraal de Ruyterstraat,22,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.772708,51.818383
 Admiraal de Ruyterstraat,24,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.772768,51.818370
 Admiraal de Ruyterstraat,26,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.772858,51.818348
+Admiraal de Ruyterstraat,28,,grg,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.772943,51.818441
 Admiraal de Ruyterstraat,28,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.772910,51.818319
 Admiraal de Ruyterstraat,30,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773167,51.818276
 Admiraal de Ruyterstraat,32,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773187,51.818253
@@ -2388,7 +2420,6 @@ Admiraal de Ruyterstraat,54,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.77
 Admiraal de Ruyterstraat,56,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773978,51.817980
 Admiraal de Ruyterstraat,58,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774070,51.817945
 Admiraal de Ruyterstraat,60,,,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774113,51.817930
-Stationspark,1,,nut,3361VC,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.778117,51.828408
 Admiraal de Ruyterstraat,62,,,3361VD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774211,51.817900
 Admiraal de Ruyterstraat,64,,,3361VD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774254,51.817884
 Admiraal de Ruyterstraat,66,,,3361VD,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774378,51.817855
@@ -2439,6 +2470,7 @@ Burgemeester Drijberplein,19,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.7
 Burgemeester Drijberplein,21,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771645,51.817659
 Burgemeester Drijberplein,23,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771771,51.817670
 Burgemeester Drijberplein,25,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771822,51.817648
+Burgemeester Drijberplein,27,,nut,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771965,51.817808
 Burgemeester Drijberplein,27,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771940,51.817642
 Burgemeester Drijberplein,29,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.772009,51.817636
 Burgemeester Drijberplein,31,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.772124,51.817598
@@ -2457,7 +2489,6 @@ Burgemeester Drijberplein,55,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.7
 Burgemeester Drijberplein,57,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773144,51.817478
 Burgemeester Drijberplein,59,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773226,51.817444
 Burgemeester Drijberplein,61,,,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773287,51.817430
-Oosterstraat,2,,nut,3361VG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.777197,51.817269
 Burgemeester Drijberplein,2,,,3361VH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771486,51.818232
 Burgemeester Drijberplein,4,,,3361VH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771545,51.818235
 Burgemeester Drijberplein,6,,,3361VH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771674,51.818217
@@ -2486,7 +2517,7 @@ Burgemeester Drijberplein,50,,,3361VH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.7
 Burgemeester Drijberplein,52,,,3361VH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773339,51.817675
 Burgemeester Drijberplein,54,,,3361VH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773459,51.817641
 Burgemeester Drijberplein,56,,,3361VH,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773481,51.817626
-Burgemeester Drijberplein,27,,nut,3361VJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771965,51.817808
+Joh. Kraaijeveldstraat,1,a,grg,3361VJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.769044,51.817850
 Joh. Kraaijeveldstraat,1,,,3361VJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.769841,51.817539
 Joh. Kraaijeveldstraat,3,,,3361VJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.769908,51.817525
 Joh. Kraaijeveldstraat,5,,,3361VJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.770007,51.817479
@@ -2636,7 +2667,6 @@ Middeldiepstraat,127,,,3361VS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776735,51
 Middeldiepstraat,129,,,3361VS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776901,51.817241
 Middeldiepstraat,131,,,3361VS,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776953,51.817210
 Gantelweg,19,,,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.773395,51.819259
-Leeuweriksingel,36,a,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.789764,51.820775
 Middeldiepstraat,2,,,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.770803,51.819919
 Middeldiepstraat,4,,,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.770931,51.819874
 Middeldiepstraat,6,,,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.771326,51.819890
@@ -2688,39 +2718,8 @@ Middeldiepstraat,106,,,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.775932,51
 Middeldiepstraat,108,,,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776002,51.817945
 Middeldiepstraat,110,,,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776062,51.817911
 Middeldiepstraat,112,,,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776134,51.817889
-Rivierdijk,661,,nut,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.782055,51.816962
-Waterkeringweg,1,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774622,51.818644
-Waterkeringweg,2,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774593,51.818655
-Waterkeringweg,3,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774565,51.818665
-Waterkeringweg,4,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774536,51.818675
-Waterkeringweg,5,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774508,51.818685
-Waterkeringweg,6,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774480,51.818696
-Waterkeringweg,7,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774451,51.818706
-Waterkeringweg,8,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774423,51.818716
-Waterkeringweg,9,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774395,51.818726
-Waterkeringweg,10,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774367,51.818737
-Waterkeringweg,11,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774338,51.818747
-Waterkeringweg,12,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774310,51.818757
-Waterkeringweg,13,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774282,51.818767
-Waterkeringweg,14,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774254,51.818777
-Waterkeringweg,15,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774225,51.818788
-Waterkeringweg,16,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774197,51.818798
-Waterkeringweg,17,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774169,51.818808
-Waterkeringweg,19,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774246,51.818928
-Waterkeringweg,20,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774281,51.818915
-Waterkeringweg,21,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774315,51.818903
-Waterkeringweg,22,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774349,51.818890
-Waterkeringweg,23,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774383,51.818878
-Waterkeringweg,24,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774417,51.818866
-Waterkeringweg,25,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774451,51.818854
-Waterkeringweg,27,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774519,51.818829
-Waterkeringweg,28,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774553,51.818817
-Waterkeringweg,29,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774587,51.818805
-Waterkeringweg,30,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774621,51.818792
-Waterkeringweg,31,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774655,51.818780
-Waterkeringweg,32,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774688,51.818768
-Waterkeringweg,33,,grg,3361VT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774724,51.818755
 Oosterstraat,1,,,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776844,51.817127
+Oosterstraat,2,,nut,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.777197,51.817269
 Oosterstraat,2,,,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.777296,51.817150
 Oosterstraat,3,,,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776811,51.817102
 Oosterstraat,4,,,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.777278,51.817079
@@ -2732,7 +2731,6 @@ Oosterstraat,9,,,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776708,51.81696
 Oosterstraat,10,,,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.777118,51.816911
 Oosterstraat,11,,,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.776695,51.816875
 Oosterstraat,12,,,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.777034,51.816829
-Talmastraat,1,,nut,3361VV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.780649,51.824902
 Trompstraat,1,,,3361VW,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774096,51.817210
 Trompstraat,3,,,3361VW,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774167,51.817199
 Trompstraat,5,,,3361VW,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.774233,51.817180
@@ -2966,6 +2964,9 @@ Julianastraat,53,a,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767554,51.82
 Julianastraat,53,b,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767570,51.821751
 Julianastraat,53,c,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767581,51.821776
 Julianastraat,55,a,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767449,51.821731
+Julianastraat,55,b,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767474,51.821757
+Julianastraat,55,c,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767489,51.821792
+Julianastraat,57,a,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767346,51.821737
 Julianastraat,57,b,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767361,51.821789
 Julianastraat,57,c,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767376,51.821819
 Julianastraat,59,a,,3361XG,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767240,51.821770
@@ -3019,11 +3020,8 @@ Julianastraat,52,a,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766955,51.82
 Julianastraat,52,b,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766944,51.821568
 Julianastraat,54,a,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766886,51.821617
 Julianastraat,54,b,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766869,51.821582
-Julianastraat,55,b,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767474,51.821757
-Julianastraat,55,c,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767489,51.821792
 Julianastraat,56,a,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766808,51.821624
 Julianastraat,56,b,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766794,51.821595
-Julianastraat,57,a,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767346,51.821737
 Julianastraat,58,a,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766733,51.821644
 Julianastraat,58,b,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766716,51.821609
 Julianastraat,60,,,3361XJ,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.766472,51.821701
@@ -3157,7 +3155,6 @@ Wilhelminastraat,27,,,3361XT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767629,51.
 Wilhelminastraat,28,,,3361XT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767547,51.822326
 Wilhelminastraat,29,,,3361XT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767500,51.822347
 Wilhelminastraat,30,,,3361XT,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767454,51.822397
-Admiraal de Ruyterstraat,28,,grg,3361XV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.772943,51.818441
 Wilhelminastraat,31,,,3361XV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767175,51.822463
 Wilhelminastraat,32,,,3361XV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767125,51.822481
 Wilhelminastraat,33,,,3361XV,Sliedrecht,Sliedrecht,Zuid-Holland,VBO,4.767060,51.822521

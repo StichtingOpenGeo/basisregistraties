@@ -68,8 +68,13 @@ Laan der Bronstijd,15,,,5347HE,Oss,Oss,Noord-Brabant,VBO,5.534106,51.778505
 Bekerpad,3,,,5347HG,Oss,Oss,Noord-Brabant,VBO,5.533124,51.777913
 Bekerpad,4,,,5347HG,Oss,Oss,Noord-Brabant,VBO,5.533109,51.778053
 Bekerpad,5,,UNIT,5347HG,Oss,Oss,Noord-Brabant,VBO,5.533341,51.777720
+Bekerpad,5,,,5347HG,Oss,Oss,Noord-Brabant,VBO,5.533342,51.777814
 Bekerpad,6,,,5347HG,Oss,Oss,Noord-Brabant,VBO,5.533468,51.778032
 Bekerpad,7,,,5347HG,Oss,Oss,Noord-Brabant,VBO,5.533526,51.777859
+Radnaaldpad,1,A,,5347HH,Oss,Oss,Noord-Brabant,VBO,5.531692,51.778583
+Radnaaldpad,1,B,,5347HH,Oss,Oss,Noord-Brabant,VBO,5.531773,51.778583
+Radnaaldpad,1,C,,5347HH,Oss,Oss,Noord-Brabant,VBO,5.531851,51.778583
+Radnaaldpad,1,D,,5347HH,Oss,Oss,Noord-Brabant,VBO,5.531931,51.778583
 Radnaaldpad,3,,,5347HH,Oss,Oss,Noord-Brabant,VBO,5.533121,51.778463
 Radnaaldpad,5,,,5347HH,Oss,Oss,Noord-Brabant,VBO,5.533369,51.778369
 Radnaaldpad,10,,UNIT,5347HH,Oss,Oss,Noord-Brabant,VBO,5.534481,51.778525
@@ -82,6 +87,10 @@ Malpad,9,,,5347HJ,Oss,Oss,Noord-Brabant,VBO,5.534801,51.778614
 Kruikpad,3,,,5347HK,Oss,Oss,Noord-Brabant,VBO,5.531692,51.777241
 Kruikpad,4,,,5347HK,Oss,Oss,Noord-Brabant,VBO,5.531803,51.777421
 Kruikpad,5,,,5347HK,Oss,Oss,Noord-Brabant,VBO,5.531926,51.777219
+Sleutelpad,3,,,5347HL,Oss,Oss,Noord-Brabant,VBO,5.531683,51.776680
+Sleutelpad,5,,,5347HL,Oss,Oss,Noord-Brabant,VBO,5.531768,51.776680
+Sleutelpad,7,,,5347HL,Oss,Oss,Noord-Brabant,VBO,5.531850,51.776680
+Sleutelpad,9,,,5347HL,Oss,Oss,Noord-Brabant,VBO,5.531935,51.776680
 Grote Kuil,1,,,5347HM,Oss,Oss,Noord-Brabant,VBO,5.532946,51.778940
 Grote Kuil,2,,,5347HM,Oss,Oss,Noord-Brabant,VBO,5.533065,51.779252
 Grote Kuil,3,,,5347HM,Oss,Oss,Noord-Brabant,VBO,5.533019,51.778923
@@ -236,11 +245,43 @@ Waterput,11,,,5347HV,Oss,Oss,Noord-Brabant,VBO,5.530008,51.777881
 Waterput,12,,,5347HV,Oss,Oss,Noord-Brabant,VBO,5.529508,51.777755
 Waterput,13,,,5347HV,Oss,Oss,Noord-Brabant,VBO,5.529978,51.777927
 Waterput,14,,,5347HV,Oss,Oss,Noord-Brabant,VBO,5.529478,51.777801
+Fibulapad,4,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.530431,51.776664
+Fibulapad,6,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.530364,51.776785
+Fibulapad,8,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.530334,51.776831
+Fibulapad,10,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.530305,51.776876
+Fibulapad,14,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.530245,51.776967
+Fibulapad,15,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.529930,51.776849
+Fibulapad,17,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.529889,51.776892
+Fibulapad,19,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.529860,51.776937
+Fibulapad,21,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.529831,51.776982
+Fibulapad,23,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.529801,51.777027
+Fibulapad,25,,,5347HW,Oss,Oss,Noord-Brabant,VBO,5.529769,51.777076
+Wrijfschaalpad,1,A,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.530545,51.777279
+Wrijfschaalpad,1,B,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.530465,51.777274
+Wrijfschaalpad,1,C,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.530387,51.777268
+Wrijfschaalpad,1,D,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.530309,51.777263
+Wrijfschaalpad,1,E,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.530230,51.777258
+Wrijfschaalpad,6,,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.529174,51.777477
+Wrijfschaalpad,8,,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.529090,51.777472
+Wrijfschaalpad,10,,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.529007,51.777466
+Wrijfschaalpad,12,,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528925,51.777461
+Wrijfschaalpad,14,,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528841,51.777456
+Wrijfschaalpad,19,,UNIT,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528569,51.777061
+Wrijfschaalpad,19,,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528548,51.777148
+Wrijfschaalpad,21,A,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528290,51.777144
+Wrijfschaalpad,21,B,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528208,51.777139
+Wrijfschaalpad,21,C,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528126,51.777134
+Wrijfschaalpad,21,D,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528041,51.777129
+Wrijfschaalpad,21,,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.528374,51.777149
 Wrijfschaalpad,25,,,5347HX,Oss,Oss,Noord-Brabant,VBO,5.527554,51.777126
+Denariuspad,3,,UNIT,5347HZ,Oss,Oss,Noord-Brabant,VBO,5.530326,51.778460
+Denariuspad,3,,,5347HZ,Oss,Oss,Noord-Brabant,VBO,5.530488,51.778295
 Denariuspad,5,,,5347HZ,Oss,Oss,Noord-Brabant,VBO,5.530290,51.778199
 Denariuspad,8,,,5347HZ,Oss,Oss,Noord-Brabant,VBO,5.529784,51.777875
+Denariuspad,9,,,5347HZ,Oss,Oss,Noord-Brabant,VBO,5.529771,51.778189
 Denariuspad,10,,,5347HZ,Oss,Oss,Noord-Brabant,VBO,5.529710,51.777856
 Denariuspad,12,,,5347HZ,Oss,Oss,Noord-Brabant,VBO,5.529636,51.777837
+Denariuspad,15,,,5347HZ,Oss,Oss,Noord-Brabant,VBO,5.529140,51.778019
 De Horzak,1,,,5347JA,Oss,Oss,Noord-Brabant,VBO,5.526800,51.776322
 De Horzak,3,,,5347JA,Oss,Oss,Noord-Brabant,VBO,5.527048,51.776248
 De Horzak,5,,,5347JA,Oss,Oss,Noord-Brabant,VBO,5.527236,51.776216
@@ -413,6 +454,7 @@ Lauwersmeer,1,,,5347JR,Oss,Oss,Noord-Brabant,VBO,5.553763,51.778718
 Lauwersmeer,9,,,5347JR,Oss,Oss,Noord-Brabant,VBO,5.553349,51.777624
 Lauwersmeer,11,,,5347JR,Oss,Oss,Noord-Brabant,VBO,5.553231,51.777244
 Lauwersmeer,13,,,5347JR,Oss,Oss,Noord-Brabant,VBO,5.553450,51.776878
+Nieuwe Waterweg,1,,,5347JS,Oss,Oss,Noord-Brabant,VBO,5.554457,51.791608
 Nieuwe Waterweg,2,,,5347JS,Oss,Oss,Noord-Brabant,VBO,5.552386,51.791970
 Nieuwe Waterweg,10,,,5347JS,Oss,Oss,Noord-Brabant,VBO,5.549784,51.792350
 Veluwemeer,3,,,5347JT,Oss,Oss,Noord-Brabant,VBO,5.554900,51.778835
@@ -423,7 +465,9 @@ Randmeer,18,,,5347JW,Oss,Oss,Noord-Brabant,VBO,5.560383,51.779352
 Randmeer,32,,,5347JW,Oss,Oss,Noord-Brabant,VBO,5.560608,51.780684
 Randmeer,36,,,5347JW,Oss,Oss,Noord-Brabant,VBO,5.560702,51.781714
 Ketelmeer,1,,,5347JX,Oss,Oss,Noord-Brabant,VBO,5.553664,51.775785
+Ketelmeer,3,,,5347JX,Oss,Oss,Noord-Brabant,VBO,5.554817,51.775675
 Ketelmeer,3,,,5347JX,Oss,Oss,Noord-Brabant,VBO,5.554819,51.775693
+Ketelmeer,5,,,5347JX,Oss,Oss,Noord-Brabant,VBO,5.554911,51.775670
 Ketelmeer,9,,,5347JX,Oss,Oss,Noord-Brabant,VBO,5.555683,51.775564
 Ketelmeer,12,,,5347JX,Oss,Oss,Noord-Brabant,VBO,5.555242,51.776437
 Ketelmeer,18,,,5347JX,Oss,Oss,Noord-Brabant,VBO,5.556361,51.776097
@@ -470,7 +514,7 @@ Maaskade,22,,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.537014,51.783047
 Maaskade,23,,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.538780,51.785916
 Maaskade,24,B,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.537528,51.784736
 Maaskade,24,,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.537949,51.784229
-Maaskade,25,A,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.539003,51.787167
+Maaskade,25,A,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.538998,51.787261
 Maaskade,25,,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.539701,51.787179
 Maaskade,26,,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.537821,51.785024
 Maaskade,28,,,5347KD,Oss,Oss,Noord-Brabant,VBO,5.538002,51.785144
@@ -497,7 +541,6 @@ IJsselstraat,11,,,5347KG,Oss,Oss,Noord-Brabant,VBO,5.539856,51.777073
 IJsselstraat,12,A,,5347KG,Oss,Oss,Noord-Brabant,VBO,5.539411,51.777503
 IJsselstraat,12,,,5347KG,Oss,Oss,Noord-Brabant,VBO,5.539720,51.777583
 IJsselstraat,13,,,5347KG,Oss,Oss,Noord-Brabant,VBO,5.540395,51.777097
-IJsselstraat,14,,,5347KG,Oss,Oss,Noord-Brabant,VBO,5.540244,51.777769
 IJsselstraat,15,,,5347KG,Oss,Oss,Noord-Brabant,VBO,5.541784,51.777253
 IJsselstraat,16,,,5347KG,Oss,Oss,Noord-Brabant,VBO,5.540710,51.777744
 IJsselstraat,21,A,,5347KG,Oss,Oss,Noord-Brabant,VBO,5.542359,51.777135

@@ -223,6 +223,7 @@ S.A. Haadsmastraat,11,,,9481AL,Vries,Tynaarlo,Drenthe,VBO,6.580690,53.075326
 S.A. Haadsmastraat,12,,,9481AL,Vries,Tynaarlo,Drenthe,VBO,6.580696,53.075012
 S.A. Haadsmastraat,13,,,9481AL,Vries,Tynaarlo,Drenthe,VBO,6.580901,53.075396
 S.A. Haadsmastraat,14,,,9481AL,Vries,Tynaarlo,Drenthe,VBO,6.580965,53.075027
+Eikenlaan,1,,,9481AM,Vries,Tynaarlo,Drenthe,VBO,6.579424,53.073747
 Eikenlaan,2,,,9481AM,Vries,Tynaarlo,Drenthe,VBO,6.578935,53.073385
 Eikenlaan,3,,,9481AM,Vries,Tynaarlo,Drenthe,VBO,6.579841,53.073762
 Eikenlaan,5,,,9481AM,Vries,Tynaarlo,Drenthe,VBO,6.580200,53.073803
@@ -344,7 +345,7 @@ Schultestraat,2,a,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.577304,53.078631
 Schultestraat,2,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.577217,53.078749
 Schultestraat,3,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.576556,53.078576
 Schultestraat,4,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.577099,53.078804
-Schultestraat,5,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.576304,53.078718
+Schultestraat,5,a,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.576304,53.078718
 Schultestraat,5,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.576365,53.078787
 Schultestraat,6,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.576967,53.078859
 Schultestraat,7,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.575452,53.079135
@@ -355,7 +356,7 @@ Schultestraat,12,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.575932,53.079229
 Schultestraat,14,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.575832,53.079383
 Schultestraat,16,,,9481BC,Vries,Tynaarlo,Drenthe,VBO,6.575728,53.079420
 Oude Rijksweg,1,,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.577567,53.078431
-Oude Rijksweg,2,,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.577780,53.078033
+Oude Rijksweg,2,,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.577748,53.077941
 Oude Rijksweg,3,,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.578269,53.078451
 Oude Rijksweg,5,,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.578748,53.078518
 Oude Rijksweg,7,,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.579019,53.078587
@@ -369,7 +370,6 @@ Oude Rijksweg,10,f,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.578681,53.078198
 Oude Rijksweg,10,g,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.578597,53.078182
 Oude Rijksweg,10,,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.578483,53.078182
 Oude Rijksweg,12,,,9481BD,Vries,Tynaarlo,Drenthe,VBO,6.579246,53.078172
-Brink,1,,,9481BE,Vries,Tynaarlo,Drenthe,VBO,6.577674,53.077998
 Brink,2,,,9481BE,Vries,Tynaarlo,Drenthe,VBO,6.576988,53.078023
 Brink,3,,,9481BE,Vries,Tynaarlo,Drenthe,VBO,6.578189,53.077724
 Brink,4,a,,9481BE,Vries,Tynaarlo,Drenthe,VBO,6.577067,53.077755
@@ -470,7 +470,7 @@ Asserstraat,29,a,,9481BM,Vries,Tynaarlo,Drenthe,VBO,6.577298,53.064810
 Asserstraat,29,,,9481BM,Vries,Tynaarlo,Drenthe,VBO,6.577926,53.064866
 Asserstraat,31,,,9481BM,Vries,Tynaarlo,Drenthe,VBO,6.577241,53.064361
 Asserstraat,33,,,9481BM,Vries,Tynaarlo,Drenthe,VBO,6.576966,53.062512
-Asserstraat,35,,,9481BM,Vries,Tynaarlo,Drenthe,VBO,6.577686,53.061643
+Asserstraat,35,,,9481BM,Vries,Tynaarlo,Drenthe,VBO,6.577736,53.061596
 Asserstraat,4,,,9481BN,Vries,Tynaarlo,Drenthe,VBO,6.577682,53.072301
 Asserstraat,6,,,9481BN,Vries,Tynaarlo,Drenthe,VBO,6.577679,53.072175
 Asserstraat,8,,,9481BN,Vries,Tynaarlo,Drenthe,VBO,6.577526,53.072060
@@ -810,7 +810,9 @@ Merelstraat,22,,,9481EL,Vries,Tynaarlo,Drenthe,VBO,6.573495,53.075254
 Merelstraat,24,,,9481EL,Vries,Tynaarlo,Drenthe,VBO,6.573258,53.075292
 Reigerstraat,1,,,9481EM,Vries,Tynaarlo,Drenthe,VBO,6.574143,53.074095
 Reigerstraat,2,,,9481EM,Vries,Tynaarlo,Drenthe,VBO,6.574160,53.074448
+Reigerstraat,3,,,9481EM,Vries,Tynaarlo,Drenthe,VBO,6.573829,53.074180
 Reigerstraat,4,,,9481EM,Vries,Tynaarlo,Drenthe,VBO,6.573877,53.074495
+Reigerstraat,5,,,9481EM,Vries,Tynaarlo,Drenthe,VBO,6.573419,53.074252
 Reigerstraat,6,,,9481EM,Vries,Tynaarlo,Drenthe,VBO,6.573730,53.074569
 Reigerstraat,8,,,9481EM,Vries,Tynaarlo,Drenthe,VBO,6.573508,53.074616
 Reigerstraat,10,,,9481EM,Vries,Tynaarlo,Drenthe,VBO,6.573254,53.074618
@@ -967,7 +969,7 @@ De Fledders,34,,,9481GA,Vries,Tynaarlo,Drenthe,VBO,6.572719,53.069979
 De Fledders,36,,,9481GA,Vries,Tynaarlo,Drenthe,VBO,6.572751,53.070044
 De Fledders,38,,,9481GA,Vries,Tynaarlo,Drenthe,VBO,6.572743,53.069893
 De Fledders,40,,,9481GA,Vries,Tynaarlo,Drenthe,VBO,6.572828,53.070003
-De Fledders,142,,,9481GA,Vries,Tynaarlo,Drenthe,VBO,6.575747,53.063662
+De Fledders,142,,,9481GA,Vries,Tynaarlo,Drenthe,VBO,6.575764,53.063617
 De Fledders,1,,,9481GB,Vries,Tynaarlo,Drenthe,VBO,6.572814,53.064504
 De Fledders,3,,,9481GB,Vries,Tynaarlo,Drenthe,VBO,6.573110,53.064447
 Waardeel,1,,,9481GC,Vries,Tynaarlo,Drenthe,VBO,6.576830,53.072237

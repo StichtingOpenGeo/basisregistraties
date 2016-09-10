@@ -28,6 +28,8 @@ Vinkenburgstraat,16,,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.117796,52.092336
 Vinkenburgstraat,18,,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.117809,52.092352
 Vinkenburgstraat,20,,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.117870,52.092449
 Vinkenburgstraat,22,,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.117878,52.092461
+Vinkenburgstraat,24,A,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.117872,52.092600
+Vinkenburgstraat,24,,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.117821,52.092574
 Vinkenburgstraat,26,A,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.118004,52.092675
 Vinkenburgstraat,26,,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.117782,52.092600
 Vinkenburgstraat,28,,,3512AB,Utrecht,Utrecht,Utrecht,VBO,5.117785,52.092598
@@ -128,6 +130,7 @@ Neude,4,,,3512AD,Utrecht,Utrecht,Utrecht,VBO,5.119035,52.093343
 Neude,5,,,3512AD,Utrecht,Utrecht,Utrecht,VBO,5.119069,52.093257
 Neude,10,,,3512AD,Utrecht,Utrecht,Utrecht,VBO,5.118990,52.093468
 Neude,11,,,3512AE,Utrecht,Utrecht,Utrecht,VBO,5.118179,52.093128
+Neude,23,,,3512AE,Utrecht,Utrecht,Utrecht,VBO,5.118041,52.092681
 Neude,24,,,3512AE,Utrecht,Utrecht,Utrecht,VBO,5.118390,52.092595
 Neude,29,A,,3512AE,Utrecht,Utrecht,Utrecht,VBO,5.118469,52.092635
 Neude,29,B,,3512AE,Utrecht,Utrecht,Utrecht,VBO,5.118469,52.092635
@@ -637,14 +640,14 @@ Jansveld,25,A,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120250,52.094249
 Jansveld,25,B,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120250,52.094249
 Jansveld,25,C,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120250,52.094249
 Jansveld,25,,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120250,52.094249
-Jansveld,27,A,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120329,52.094307
 Jansveld,27,A,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120341,52.094344
-Jansveld,27,B,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120328,52.094292
 Jansveld,27,B,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120341,52.094344
-Jansveld,27,C,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120359,52.094306
-Jansveld,27,D,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120360,52.094291
-Jansveld,27,E,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120390,52.094305
-Jansveld,27,G,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120392,52.094288
+Jansveld,27,,1,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120329,52.094307
+Jansveld,27,,2,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120328,52.094292
+Jansveld,27,,3,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120359,52.094306
+Jansveld,27,,4,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120360,52.094291
+Jansveld,27,,5,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120390,52.094305
+Jansveld,27,,6,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120392,52.094288
 Jansveld,27,,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120264,52.094264
 Jansveld,29,,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120396,52.094402
 Jansveld,31,A,,3512BE,Utrecht,Utrecht,Utrecht,VBO,5.120477,52.094497
@@ -722,6 +725,12 @@ Kleine Slachtstraat,4,C,,3512BJ,Utrecht,Utrecht,Utrecht,VBO,5.119947,52.094324
 Kleine Slachtstraat,4,,,3512BJ,Utrecht,Utrecht,Utrecht,VBO,5.119908,52.094357
 Kleine Slachtstraat,5,,,3512BJ,Utrecht,Utrecht,Utrecht,VBO,5.119755,52.094264
 Kleine Slachtstraat,6,,,3512BJ,Utrecht,Utrecht,Utrecht,VBO,5.119959,52.094313
+Janskerkhof,1,A,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120435,52.093301
+Janskerkhof,1,B,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120425,52.093288
+Janskerkhof,1,C,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120414,52.093274
+Janskerkhof,1,D,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120404,52.093257
+Janskerkhof,1,E,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120391,52.093240
+Janskerkhof,1,,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120440,52.093314
 Janskerkhof,1,,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120482,52.093297
 Janskerkhof,2,,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120590,52.093255
 Janskerkhof,3,A,,3512BK,Utrecht,Utrecht,Utrecht,VBO,5.120832,52.092745
@@ -3971,7 +3980,65 @@ Lange Nieuwstraat,113,A,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124762,52.085459
 Lange Nieuwstraat,113,B,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124762,52.085459
 Lange Nieuwstraat,113,C,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124762,52.085459
 Lange Nieuwstraat,113,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124762,52.085459
-Lange Nieuwstraat,119,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125250,52.084964
+Lange Nieuwstraat,119,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125059,52.084683
+Lange Nieuwstraat,121,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125318,52.084889
+Lange Nieuwstraat,123,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125284,52.084924
+Lange Nieuwstraat,125,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125247,52.084957
+Lange Nieuwstraat,127,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125219,52.084986
+Lange Nieuwstraat,129,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125187,52.085017
+Lange Nieuwstraat,131,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125153,52.085051
+Lange Nieuwstraat,133,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125120,52.085085
+Lange Nieuwstraat,135,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125091,52.085116
+Lange Nieuwstraat,137,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125061,52.085144
+Lange Nieuwstraat,139,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125031,52.085172
+Lange Nieuwstraat,141,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125008,52.085197
+Lange Nieuwstraat,143,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124982,52.085221
+Lange Nieuwstraat,145,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124948,52.085255
+Lange Nieuwstraat,147,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124907,52.085298
+Lange Nieuwstraat,149,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125300,52.084843
+Lange Nieuwstraat,151,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125270,52.084876
+Lange Nieuwstraat,153,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125238,52.084913
+Lange Nieuwstraat,155,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125204,52.084947
+Lange Nieuwstraat,157,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125174,52.084978
+Lange Nieuwstraat,159,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125130,52.085023
+Lange Nieuwstraat,161,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125084,52.085066
+Lange Nieuwstraat,163,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125054,52.085101
+Lange Nieuwstraat,165,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125020,52.085132
+Lange Nieuwstraat,167,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124994,52.085160
+Lange Nieuwstraat,169,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124964,52.085186
+Lange Nieuwstraat,171,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124937,52.085210
+Lange Nieuwstraat,173,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124909,52.085242
+Lange Nieuwstraat,175,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124865,52.085286
+Lange Nieuwstraat,177,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125285,52.084796
+Lange Nieuwstraat,179,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125259,52.084827
+Lange Nieuwstraat,181,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125227,52.084864
+Lange Nieuwstraat,183,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125190,52.084902
+Lange Nieuwstraat,185,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125165,52.084938
+Lange Nieuwstraat,187,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125139,52.084971
+Lange Nieuwstraat,189,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125091,52.085010
+Lange Nieuwstraat,191,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125041,52.085053
+Lange Nieuwstraat,193,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125008,52.085090
+Lange Nieuwstraat,195,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124981,52.085122
+Lange Nieuwstraat,197,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124955,52.085146
+Lange Nieuwstraat,199,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124930,52.085174
+Lange Nieuwstraat,201,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124893,52.085201
+Lange Nieuwstraat,203,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124868,52.085229
+Lange Nieuwstraat,205,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124824,52.085273
+Lange Nieuwstraat,207,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125241,52.084779
+Lange Nieuwstraat,209,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125211,52.084813
+Lange Nieuwstraat,211,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125179,52.084852
+Lange Nieuwstraat,213,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125145,52.084889
+Lange Nieuwstraat,215,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125117,52.084924
+Lange Nieuwstraat,217,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125085,52.084961
+Lange Nieuwstraat,219,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.125048,52.084999
+Lange Nieuwstraat,221,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124995,52.085039
+Lange Nieuwstraat,223,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124958,52.085079
+Lange Nieuwstraat,225,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124931,52.085108
+Lange Nieuwstraat,227,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124905,52.085135
+Lange Nieuwstraat,229,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124880,52.085164
+Lange Nieuwstraat,231,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124852,52.085190
+Lange Nieuwstraat,233,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124832,52.085216
+Lange Nieuwstraat,235,,,3512PG,Utrecht,Utrecht,Utrecht,VBO,5.124786,52.085261
 Abraham Dolehof,1,,,3512PH,Utrecht,Utrecht,Utrecht,VBO,5.122516,52.088112
 Abraham Dolesteeg,17,A,,3512PH,Utrecht,Utrecht,Utrecht,VBO,5.122837,52.087854
 Abraham Dolesteeg,17,,,3512PH,Utrecht,Utrecht,Utrecht,VBO,5.122857,52.087860
@@ -4318,6 +4385,7 @@ A.B.C.-straat,26,,,3512PX,Utrecht,Utrecht,Utrecht,VBO,5.125575,52.086500
 A.B.C.-straat,28,,,3512PX,Utrecht,Utrecht,Utrecht,VBO,5.125647,52.086525
 A.B.C.-straat,30,,,3512PX,Utrecht,Utrecht,Utrecht,VBO,5.125713,52.086546
 A.B.C.-straat,32,,,3512PX,Utrecht,Utrecht,Utrecht,VBO,5.125786,52.086571
+A.B.C.-straat,34,A,,3512PX,Utrecht,Utrecht,Utrecht,VBO,5.125833,52.086613
 A.B.C.-straat,34,,,3512PX,Utrecht,Utrecht,Utrecht,VBO,5.125851,52.086591
 A.B.C.-straat,36,,,3512PX,Utrecht,Utrecht,Utrecht,VBO,5.125918,52.086612
 A.B.C.-straat,38,,,3512PX,Utrecht,Utrecht,Utrecht,VBO,5.125983,52.086635
@@ -5165,7 +5233,12 @@ Van Asch van Wijckskade,27,B,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122420,52.096
 Van Asch van Wijckskade,27,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122275,52.096436
 Van Asch van Wijckskade,29,A,BS,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122960,52.096556
 Van Asch van Wijckskade,29,A,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122978,52.096563
+Van Asch van Wijckskade,29,,1,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122543,52.096509
+Van Asch van Wijckskade,29,,2,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122548,52.096499
+Van Asch van Wijckskade,29,,3,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122562,52.096516
+Van Asch van Wijckskade,29,,4,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122568,52.096504
 Van Asch van Wijckskade,29,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122511,52.096501
+Van Asch van Wijckskade,29,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.122537,52.096521
 Van Asch van Wijckskade,31,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.123057,52.096643
 Van Asch van Wijckskade,33,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.123131,52.096664
 Van Asch van Wijckskade,35,,,3512VR,Utrecht,Utrecht,Utrecht,VBO,5.123210,52.096684
@@ -5244,7 +5317,7 @@ Agnietenstraat,7,,,3512XA,Utrecht,Utrecht,Utrecht,VBO,5.126971,52.084246
 Agnietenstraat,9,,,3512XA,Utrecht,Utrecht,Utrecht,VBO,5.127011,52.084264
 Agnietenstraat,11,,,3512XA,Utrecht,Utrecht,Utrecht,VBO,5.127065,52.084288
 Agnietenstraat,13,,,3512XA,Utrecht,Utrecht,Utrecht,VBO,5.127088,52.084298
-Agnietenstraat,2,,,3512XB,Utrecht,Utrecht,Utrecht,VBO,5.125250,52.084964
+Agnietenstraat,2,,,3512XB,Utrecht,Utrecht,Utrecht,VBO,5.125059,52.084683
 Agnietenstraat,4,,,3512XB,Utrecht,Utrecht,Utrecht,VBO,5.126520,52.084199
 Agnietenstraat,6,,,3512XB,Utrecht,Utrecht,Utrecht,VBO,5.126569,52.084219
 Agnietenstraat,8,,,3512XB,Utrecht,Utrecht,Utrecht,VBO,5.126643,52.084252
@@ -5263,7 +5336,7 @@ Nicolaaskerkhof,1,,,3512XC,Utrecht,Utrecht,Utrecht,VBO,5.124351,52.083237
 Nicolaaskerkhof,8,,,3512XC,Utrecht,Utrecht,Utrecht,VBO,5.125391,52.083325
 Nicolaaskerkhof,9,,,3512XC,Utrecht,Utrecht,Utrecht,VBO,5.125637,52.083329
 Nicolaaskerkhof,10,,,3512XC,Utrecht,Utrecht,Utrecht,VBO,5.125805,52.083387
-Nicolaaskerkhof,12,,,3512XC,Utrecht,Utrecht,Utrecht,VBO,5.125250,52.084964
+Nicolaaskerkhof,12,,,3512XC,Utrecht,Utrecht,Utrecht,VBO,5.125059,52.084683
 Nicolaasstraat,1,A,BS,3512XD,Utrecht,Utrecht,Utrecht,VBO,5.123782,52.083125
 Nicolaasstraat,1,A,,3512XD,Utrecht,Utrecht,Utrecht,VBO,5.123801,52.083131
 Nicolaasstraat,1,,,3512XD,Utrecht,Utrecht,Utrecht,VBO,5.123676,52.083098

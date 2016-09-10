@@ -231,6 +231,7 @@ Coolhaven,160,A,03,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454987,51.90756
 Coolhaven,160,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455026,51.907558
 Coolhaven,160,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455058,51.907553
 Coolhaven,164,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454816,51.907586
+Coolhaven,164,,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454784,51.907593
 Coolhaven,164,,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454816,51.907586
 Coolhaven,166,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454816,51.907586
 Coolhaven,166,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454816,51.907586
@@ -251,21 +252,10 @@ Coolhaven,178,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,178,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,178,E,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,178,F,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,E,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,180,E,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,182,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,182,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,182,A,K003,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,182,A,K004,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,182,A,K005,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,180,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,180,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,180,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,182,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,182,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,184,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,184,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
@@ -279,168 +269,80 @@ Coolhaven,186,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,188,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,188,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,188,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,188,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,188,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,E,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,E,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,F,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,190,F,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,188,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,190,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,190,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,190,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,190,F,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,190,G,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,192,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,192,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,192,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,192,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,192,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,192,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,192,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,192,D,K003,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,192,D,K004,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,194,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,194,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,194,A,K003,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,194,A,K004,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,194,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,194,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,194,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,194,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,194,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,194,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,196,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,196,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,196,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,196,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,196,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,196,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,196,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,196,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,196,E,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,196,E,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,196,E,K003,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,196,E,K004,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,198,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,198,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,198,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,198,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,198,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,198,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,192,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,192,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,192,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,194,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,194,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,194,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,194,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,196,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,196,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,196,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,196,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,196,E,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,198,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,198,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,198,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
 Coolhaven,198,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,200,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,200,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,200,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,200,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,200,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,200,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,200,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,200,D,K003,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,202,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,202,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,202,A,K003,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,202,A,K004,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,202,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,202,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,202,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,202,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,202,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,202,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,204,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,204,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,204,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,204,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,204,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,204,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,204,D,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,204,D,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,204,E,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,204,E,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,204,E,K003,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,204,E,K004,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,206,A,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,206,A,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,206,B,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,206,B,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,206,C,K001,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,206,C,K002,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,200,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,200,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,200,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,202,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,202,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,202,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,202,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,204,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,204,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,204,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,204,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,204,E,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,206,A,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,206,B,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,206,C,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
 Coolhaven,206,D,,3024AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,204,E,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,208,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,208,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,208,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,208,C,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,208,C,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,208,D,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,208,D,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,208,D,K003,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,210,A,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,210,A,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,210,A,K003,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,210,A,K004,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,210,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,210,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,210,C,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,210,C,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,210,D,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,210,D,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,212,A,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,A,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,C,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,C,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,D,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,D,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,E,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,E,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,212,E,K003,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,212,E,K004,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,214,A,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,214,A,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,214,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,214,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,214,C,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,214,C,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,208,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,208,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,208,D,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,210,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,210,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,210,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,210,D,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,212,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,212,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,212,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,212,D,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,212,E,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,214,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,214,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,214,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
 Coolhaven,214,D,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,216,A,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,216,A,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,216,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,216,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,216,C,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,216,C,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,216,C,K003,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,218,A,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,218,A,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,218,A,K003,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,218,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,218,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,218,C,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,218,C,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,220,A,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,220,A,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,220,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,220,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,220,C,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,220,C,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,220,D,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,220,D,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,220,D,K003,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,220,D,K004,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,222,A,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,222,A,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,222,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,222,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,222,C,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
-Coolhaven,222,C,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,216,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,216,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,216,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,218,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,218,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,218,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,220,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,220,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,220,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,220,D,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,222,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
+Coolhaven,222,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,222,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453481,51.907732
 Coolhaven,222,D,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,224,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453074,51.907819
-Coolhaven,224,B,K001,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
-Coolhaven,224,B,K002,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
+Coolhaven,224,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453484,51.907732
 Coolhaven,226,A,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452813,51.907854
 Coolhaven,226,B,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452813,51.907854
 Coolhaven,226,C,,3024AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452813,51.907854
@@ -534,7 +436,6 @@ Coolhaven,584,,,3024AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451257,51.908017
 Coolhaven,586,,,3024AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451257,51.908017
 Coolhaven,588,,,3024AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451257,51.908017
 Coolhaven,590,,,3024AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451257,51.908017
-Coolhaven,594,,,3024AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451292,51.908252
 Coolhaven,598,,,3024AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451064,51.908087
 Coolhaven,600,,,3024AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451064,51.908087
 Coolhaven-terras,2,A,,3024AT,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450999,51.908061
@@ -592,9 +493,9 @@ Dunantstraat,10,B,,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457901,51.90723
 Dunantstraat,10,C,,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457851,51.907191
 Dunantstraat,12,,01,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457901,51.907230
 Dunantstraat,12,,02,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457838,51.907215
-Dunantstraat,14,A,01,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457770,51.907197
-Dunantstraat,14,A,02,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457770,51.907197
+Dunantstraat,14,A,,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457770,51.907197
 Dunantstraat,14,B,,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457770,51.907197
+Dunantstraat,14,C,,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457770,51.907197
 Dunantstraat,16,A,,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457691,51.907206
 Dunantstraat,16,B,,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457691,51.907206
 Dunantstraat,18,A,,3024BC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457631,51.907214
@@ -3002,9 +2903,7 @@ Kees van Dongenhof,12,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.
 Kees van Dongenhof,13,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,14,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,15,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,16,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,17,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,18,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,19,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,20,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,21,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
@@ -3017,120 +2916,69 @@ Kees van Dongenhof,27,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.
 Kees van Dongenhof,28,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,29,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,30,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,31,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,32,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,33,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,34,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,35,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,36,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,37,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,38,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,39,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,40,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,41,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,42,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,43,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,44,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,45,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,46,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,47,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,48,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,49,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,50,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,51,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,52,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,53,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,54,,,3024NA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,55,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,56,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,57,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,58,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,59,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,60,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,61,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,62,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,63,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,64,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,65,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,66,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,67,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,68,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,69,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,70,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,71,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,72,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,73,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,74,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,75,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,76,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,77,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,78,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,79,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,80,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,81,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,82,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,83,,,3024NB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,84,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,85,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,86,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,87,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,88,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,89,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,90,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,91,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,92,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,93,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,94,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,95,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,96,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,97,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,98,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,99,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,100,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,101,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,102,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,103,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,104,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,105,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,106,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,107,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,108,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,109,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,110,,,3024NC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,111,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,112,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,113,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,114,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,115,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,116,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,117,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,118,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,119,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,120,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,121,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,122,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,123,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,124,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,125,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,126,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,127,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,128,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,129,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,130,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,131,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,132,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,133,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
-Kees van Dongenhof,134,,,3024ND,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461614,51.907360
 Kees van Dongenhof,136,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461534,51.907177
-Kees van Dongenhof,137,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461534,51.907177
 Kees van Dongenhof,138,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461534,51.907177
-Kees van Dongenhof,139,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461534,51.907177
 Kees van Dongenhof,140,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461587,51.907102
-Kees van Dongenhof,141,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461587,51.907102
 Kees van Dongenhof,142,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461587,51.907102
-Kees van Dongenhof,143,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461587,51.907102
 Kees van Dongenhof,144,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461633,51.907036
-Kees van Dongenhof,145,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461633,51.907036
 Kees van Dongenhof,146,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,147,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,148,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
@@ -3143,56 +2991,32 @@ Kees van Dongenhof,154,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51
 Kees van Dongenhof,155,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,156,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,157,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,158,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,159,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,160,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,161,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,162,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,163,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,164,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,165,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,166,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,167,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,168,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,169,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,170,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,171,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,172,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,173,,,3024NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,174,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,175,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,176,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,177,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,178,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,179,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,180,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,181,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,182,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,183,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,184,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,185,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,186,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,187,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,188,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,189,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,190,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,191,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,192,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,193,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,194,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,195,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,196,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,197,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,198,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,199,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,200,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,201,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,202,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,203,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,204,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,205,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,206,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,207,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,208,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,209,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,210,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
@@ -3206,39 +3030,20 @@ Kees van Dongenhof,217,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51
 Kees van Dongenhof,218,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,219,,,3024NG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,220,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,221,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,222,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,223,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,224,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,225,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,226,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,227,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,228,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,229,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,230,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,231,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,232,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,233,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,234,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,235,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,236,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,237,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,238,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,239,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,240,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,241,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,242,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,243,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,244,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,245,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,246,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,247,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,248,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,249,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,250,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,251,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,252,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,253,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,254,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,255,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,256,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
@@ -3252,39 +3057,20 @@ Kees van Dongenhof,263,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51
 Kees van Dongenhof,264,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,265,,,3024NH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,266,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,267,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,268,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,269,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,270,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,271,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,272,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,273,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,274,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,275,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,276,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,277,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,278,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,279,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,280,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,281,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,282,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,283,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,284,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,285,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,286,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,287,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,288,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,289,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,290,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,291,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,292,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,293,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,294,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,295,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,296,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,297,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,298,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,299,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,300,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,301,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,302,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
@@ -3298,98 +3084,47 @@ Kees van Dongenhof,309,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51
 Kees van Dongenhof,310,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,311,,,3024NJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,312,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,313,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,314,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,315,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,316,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,317,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,318,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,319,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,320,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,321,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,322,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,323,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,324,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,325,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,326,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,327,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,328,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,329,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,330,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,331,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,332,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,333,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,334,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,335,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,336,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,337,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,338,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,339,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,340,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,341,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,342,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,343,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,344,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,345,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,346,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,347,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,348,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,349,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,350,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,351,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,352,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,353,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,354,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,355,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,356,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,357,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,358,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,359,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,360,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,361,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,362,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,363,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,364,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,365,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,366,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,367,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,368,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,369,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,370,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,371,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,372,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,373,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,374,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,375,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,376,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,377,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,378,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,379,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,380,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,381,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,382,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,383,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,384,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,385,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,386,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,387,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,388,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,389,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,390,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,391,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,392,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,393,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,394,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,395,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,396,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,397,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,398,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,399,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,400,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,401,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,402,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Kees van Dongenhof,403,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
-Kees van Dongenhof,404,,,3024NK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461678,51.906973
 Gekroonde Haringpad,2,,,3024PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451530,51.904498
 Gekroonde Haringpad,4,,,3024PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451530,51.904498
 Gekroonde Haringpad,6,,,3024PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451530,51.904498
@@ -5420,8 +5155,10 @@ Willem Buytewechstraat,155,C,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.4548
 Willem Buytewechstraat,155,D,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454853,51.907155
 Willem Buytewechstraat,157,A,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454731,51.907163
 Willem Buytewechstraat,157,B,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454731,51.907163
+Willem Buytewechstraat,157,C,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454731,51.907163
 Willem Buytewechstraat,157,C,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454816,51.907586
 Willem Buytewechstraat,159,,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454669,51.907176
+Willem Buytewechstraat,161,A,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454585,51.907189
 Willem Buytewechstraat,161,A,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454816,51.907586
 Willem Buytewechstraat,161,B,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454585,51.907185
 Willem Buytewechstraat,161,C,,3024XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454585,51.907185
@@ -5457,14 +5194,9 @@ Willem Buytewechstraat,175,D,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.4538
 Willem Buytewechstraat,175,E,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453889,51.907278
 Willem Buytewechstraat,177,A,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
 Willem Buytewechstraat,177,B,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
-Willem Buytewechstraat,177,C,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
 Willem Buytewechstraat,177,D,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
-Willem Buytewechstraat,177,E,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
 Willem Buytewechstraat,177,F,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
-Willem Buytewechstraat,177,G,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
-Willem Buytewechstraat,177,H,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
 Willem Buytewechstraat,177,J,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
-Willem Buytewechstraat,177,K,,3024XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453792,51.907290
 Willem Buytewechstraat,179,A,02,3024XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453697,51.907303
 Willem Buytewechstraat,179,A,03,3024XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453697,51.907303
 Willem Buytewechstraat,179,B,,3024XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453697,51.907303

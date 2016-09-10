@@ -500,8 +500,6 @@ Lange Noordstraat,49,B,,4331CB,Middelburg,Middelburg,Zeeland,VBO,3.610876,51.500
 Lange Noordstraat,49,C,,4331CB,Middelburg,Middelburg,Zeeland,VBO,3.610925,51.500751
 Lange Noordstraat,49,,,4331CB,Middelburg,Middelburg,Zeeland,VBO,3.610787,51.500786
 Lange Noordstraat,51,,,4331CB,Middelburg,Middelburg,Zeeland,VBO,3.610968,51.500788
-Oud Arnemuidsvoetpad,42,,,4331CB,Middelburg,Middelburg,Zeeland,VBO,3.626457,51.500991
-Oud Arnemuidsvoetpad,44,,,4331CB,Middelburg,Middelburg,Zeeland,VBO,3.626527,51.500974
 Lange Noordstraat,53,,,4331CC,Middelburg,Middelburg,Zeeland,VBO,3.611003,51.500868
 Lange Noordstraat,55,,,4331CC,Middelburg,Middelburg,Zeeland,VBO,3.611069,51.500918
 Lange Noordstraat,57,,,4331CC,Middelburg,Middelburg,Zeeland,VBO,3.611130,51.500962
@@ -710,7 +708,7 @@ Wagenaarstraat,24,,,4331CZ,Middelburg,Middelburg,Zeeland,VBO,3.614089,51.501592
 Wagenaarstraat,26,,,4331CZ,Middelburg,Middelburg,Zeeland,VBO,3.614148,51.501581
 Wagenaarstraat,28,,,4331CZ,Middelburg,Middelburg,Zeeland,VBO,3.614217,51.501566
 Wagenaarstraat,30,,,4331CZ,Middelburg,Middelburg,Zeeland,VBO,3.614378,51.501534
-Hof van Sint Pieter,1,,,4331DA,Middelburg,Middelburg,Zeeland,VBO,3.609465,51.486601
+Hof van Sint Pieter,1,,,4331DA,Middelburg,Middelburg,Zeeland,VBO,3.615875,51.500957
 Hof van Sint Pieter,3,,,4331DA,Middelburg,Middelburg,Zeeland,VBO,3.616099,51.501012
 Hof van Sint Pieter,5,,,4331DA,Middelburg,Middelburg,Zeeland,VBO,3.616191,51.501036
 Hof van Sint Pieter,7,,,4331DA,Middelburg,Middelburg,Zeeland,VBO,3.616213,51.501179
@@ -1590,7 +1588,9 @@ Korendijk,4,,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617410,51.497392
 Korendijk,6,,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617487,51.497436
 Korendijk,8,,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617550,51.497473
 Korendijk,10,,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617600,51.497504
-Korendijk,12,,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617653,51.497533
+Korendijk,12,A,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617686,51.497514
+Korendijk,12,B,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617727,51.497488
+Korendijk,12,,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617652,51.497546
 Korendijk,16,,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617727,51.497577
 Korendijk,20,,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617798,51.497626
 Korendijk,24,A,,4331HP,Middelburg,Middelburg,Zeeland,VBO,3.617908,51.497687
@@ -3068,7 +3068,7 @@ Lange Geere,3,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608500,51.497311
 Lange Geere,4,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608264,51.497360
 Lange Geere,5,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608689,51.497170
 Lange Geere,6,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608300,51.497310
-Lange Geere,7,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608747,51.497114
+Lange Geere,7,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608817,51.497075
 Lange Geere,8,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608311,51.497269
 Lange Geere,12,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608341,51.497177
 Lange Geere,16,,,4331LX,Middelburg,Middelburg,Zeeland,VBO,3.608383,51.497112
@@ -3250,7 +3250,6 @@ Geerepassage,1,,,4331MK,Middelburg,Middelburg,Zeeland,VBO,3.609390,51.497145
 Geerepassage,7,,,4331MK,Middelburg,Middelburg,Zeeland,VBO,3.609097,51.497106
 Geerepassage,10,,,4331MK,Middelburg,Middelburg,Zeeland,VBO,3.609052,51.497177
 Geerepassage,12,,,4331MK,Middelburg,Middelburg,Zeeland,VBO,3.608906,51.497110
-Geerepassage,14,,,4331MK,Middelburg,Middelburg,Zeeland,VBO,3.608803,51.497047
 Pottenbakkerssingel,1,,,4331NA,Middelburg,Middelburg,Zeeland,VBO,3.608549,51.496148
 Pottenbakkerssingel,2,,,4331NA,Middelburg,Middelburg,Zeeland,VBO,3.607441,51.496064
 Pottenbakkerssingel,4,,,4331NA,Middelburg,Middelburg,Zeeland,VBO,3.607816,51.496015
@@ -3413,6 +3412,7 @@ Seisstraat,27,,,4331NR,Middelburg,Middelburg,Zeeland,VBO,3.606853,51.499889
 Seisstraat,29,,,4331NR,Middelburg,Middelburg,Zeeland,VBO,3.606793,51.499934
 Seisstraat,31,,,4331NR,Middelburg,Middelburg,Zeeland,VBO,3.606733,51.499973
 Seisstraat,35,,,4331NR,Middelburg,Middelburg,Zeeland,VBO,3.606647,51.500032
+Seisstraat,37,,,4331NR,Middelburg,Middelburg,Zeeland,VBO,3.606614,51.500112
 Seisstraat,4,,,4331NS,Middelburg,Middelburg,Zeeland,VBO,3.607496,51.499585
 Seisstraat,6,,,4331NS,Middelburg,Middelburg,Zeeland,VBO,3.607447,51.499633
 Seisstraat,8,,,4331NS,Middelburg,Middelburg,Zeeland,VBO,3.607406,51.499687
@@ -4651,7 +4651,16 @@ Brakstraat,28,A,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621619,51.502063
 Brakstraat,28,B,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621540,51.502099
 Brakstraat,28,C,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621546,51.502093
 Brakstraat,28,,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621514,51.502080
-Brakstraat,30,,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621587,51.502138
+Brakstraat,30,A,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621601,51.502112
+Brakstraat,30,B,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621772,51.502097
+Brakstraat,30,C,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621910,51.502057
+Brakstraat,30,D,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621704,51.502147
+Brakstraat,30,E,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621591,51.502119
+Brakstraat,30,F,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621540,51.502143
+Brakstraat,30,G,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621576,51.502162
+Brakstraat,30,H,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621641,51.502120
+Brakstraat,30,J,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621578,51.502142
+Brakstraat,30,,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621517,51.502143
 Brakstraat,32,,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621638,51.502197
 Brakstraat,34,,,4331TN,Middelburg,Middelburg,Zeeland,VBO,3.621651,51.502282
 Lazarijstraat,2,,,4331TP,Middelburg,Middelburg,Zeeland,VBO,3.621930,51.502596

@@ -91,6 +91,7 @@ Proeftuinweg,7,,,1787AG,Julianadorp,Den Helder,Noord-Holland,VBO,4.756441,52.896
 Proeftuinweg,8,,,1787AG,Julianadorp,Den Helder,Noord-Holland,VBO,4.756021,52.896503
 Proeftuinweg,9,,,1787AG,Julianadorp,Den Helder,Noord-Holland,VBO,4.756426,52.896564
 Proeftuinweg,10,,,1787AG,Julianadorp,Den Helder,Noord-Holland,VBO,4.756014,52.896452
+Proeftuinweg,11,,,1787AG,Julianadorp,Den Helder,Noord-Holland,VBO,4.756392,52.896176
 Proeftuinweg,12,,,1787AG,Julianadorp,Den Helder,Noord-Holland,VBO,4.756007,52.896393
 Proeftuinweg,13,,,1787AG,Julianadorp,Den Helder,Noord-Holland,VBO,4.756365,52.896063
 Proeftuinweg,14,,,1787AG,Julianadorp,Den Helder,Noord-Holland,VBO,4.755997,52.896344
@@ -508,6 +509,7 @@ Langevliet,3,A,,1787BC,Julianadorp,Den Helder,Noord-Holland,VBO,4.754089,52.9114
 Langevliet,5,,,1787BC,Julianadorp,Den Helder,Noord-Holland,VBO,4.753956,52.910499
 Langevliet,6,,,1787BC,Julianadorp,Den Helder,Noord-Holland,VBO,4.752897,52.908315
 Langevliet,7,,,1787BC,Julianadorp,Den Helder,Noord-Holland,VBO,4.753672,52.908517
+Langevliet,8,A,A,1787BC,Julianadorp,Den Helder,Noord-Holland,VBO,4.751867,52.907500
 Langevliet,8,A,,1787BC,Julianadorp,Den Helder,Noord-Holland,VBO,4.752321,52.905992
 Langevliet,8,,,1787BC,Julianadorp,Den Helder,Noord-Holland,VBO,4.752709,52.907791
 Langevliet,9,A,,1787BC,Julianadorp,Den Helder,Noord-Holland,VBO,4.753597,52.907942
@@ -1032,7 +1034,7 @@ Kraaiheide,10,,,1787CK,Julianadorp,Den Helder,Noord-Holland,VBO,4.720785,52.9018
 Kraaiheide,11,,,1787CK,Julianadorp,Den Helder,Noord-Holland,VBO,4.721296,52.901414
 Kraaiheide,12,,,1787CK,Julianadorp,Den Helder,Noord-Holland,VBO,4.720732,52.901221
 Kraaiheide,14,,,1787CK,Julianadorp,Den Helder,Noord-Holland,VBO,4.720696,52.901021
-Dopheide,1,,,1787CL,Julianadorp,Den Helder,Noord-Holland,VBO,4.723108,52.902348
+Dopheide,1,,,1787CL,Julianadorp,Den Helder,Noord-Holland,VBO,4.723105,52.902333
 Dopheide,2,,,1787CL,Julianadorp,Den Helder,Noord-Holland,VBO,4.722622,52.902506
 Dopheide,3,,,1787CL,Julianadorp,Den Helder,Noord-Holland,VBO,4.723106,52.902164
 Dopheide,4,,,1787CL,Julianadorp,Den Helder,Noord-Holland,VBO,4.722592,52.902340
@@ -1377,8 +1379,6 @@ Prinses Amaliahof,16,,,1787DD,Julianadorp,Den Helder,Noord-Holland,VBO,4.756417,
 Prinses Amaliahof,17,,,1787DD,Julianadorp,Den Helder,Noord-Holland,VBO,4.756430,52.894803
 Prinses Amaliahof,18,,,1787DD,Julianadorp,Den Helder,Noord-Holland,VBO,4.756440,52.894846
 Prinses Amaliahof,19,,,1787DD,Julianadorp,Den Helder,Noord-Holland,VBO,4.756456,52.894902
-Koningsbrink,63,,,1787DE,Julianadorp,Den Helder,Noord-Holland,VBO,4.758876,52.895112
-Koningsbrink,65,,,1787DE,Julianadorp,Den Helder,Noord-Holland,VBO,4.758863,52.895061
 Ooghduyne,193,,,1787PA,Julianadorp,Den Helder,Noord-Holland,VBO,4.728142,52.891511
 Ooghduyne,194,,,1787PA,Julianadorp,Den Helder,Noord-Holland,VBO,4.727863,52.891553
 Ooghduyne,195,,,1787PA,Julianadorp,Den Helder,Noord-Holland,VBO,4.727619,52.891625
@@ -1518,6 +1518,10 @@ Ooghduyne,328,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728307,52.8908
 Ooghduyne,329,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728332,52.890936
 Ooghduyne,330,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728366,52.890912
 Ooghduyne,331,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728393,52.890891
+Ooghduyne,339,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728463,52.893165
+Ooghduyne,340,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728273,52.893195
+Ooghduyne,341,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728246,52.893460
+Ooghduyne,342,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728280,52.893546
 Ooghduyne,343,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728286,52.893712
 Ooghduyne,344,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728342,52.893801
 Ooghduyne,345,,,1787PC,Julianadorp,Den Helder,Noord-Holland,VBO,4.728455,52.893994
@@ -2485,13 +2489,6 @@ Kastanjehout,13,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.758805,52.8
 Kastanjehout,14,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.758789,52.883459
 Kastanjehout,17,,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.757491,52.884789
 Kastanjehout,18,,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.757478,52.884890
-Kastanjehout,20,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.759632,52.884261
-Kastanjehout,21,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.759625,52.884227
-Kastanjehout,22,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.759615,52.884199
-Kastanjehout,23,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.759605,52.884164
-Kastanjehout,24,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.759599,52.884135
-Kastanjehout,25,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.759876,52.884194
-Kastanjehout,26,A,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.759867,52.884147
 Kastanjehout,35,,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.759930,52.884678
 Kastanjehout,36,,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.760294,52.884527
 Kastanjehout,61,,,1787RH,Julianadorp,Den Helder,Noord-Holland,VBO,4.758536,52.884118

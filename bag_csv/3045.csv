@@ -53,7 +53,6 @@ Brandenburgbaan,2,,,3045AK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.442235,51.9515
 Brandenburgbaan,4,,,3045AK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.442448,51.951260
 Brandenburgbaan,6,,,3045AK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.443304,51.950559
 Malpensabaan,3,,,3045AL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.443003,51.954763
-Tegelplaats,2,,,3045AM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.434898,51.946981
 Rotterdam Airportbaan,2,,,3045AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.431897,51.948535
 Rotterdam Airportbaan,2,,,3045AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.431983,51.948547
 Rotterdam Airportbaan,19,,,3045AN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.430396,51.948623
@@ -102,6 +101,7 @@ Rotterdam Airportplein,58,,,3045AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.434193
 Rotterdam Airportplein,59,,,3045AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.433703,51.949065
 Rotterdam Airportplein,60,,,3045AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.433703,51.949065
 Rotterdam Airportplein,65,,,3045AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.432681,51.949003
+Rotterdam Airportplein,70,,,3045AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.434898,51.946981
 Zaventembaan,1,,,3045AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.426191,51.948716
 Zaventembaan,3,A,,3045AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.427368,51.949031
 Zaventembaan,3,B,,3045AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.427082,51.948508
@@ -150,6 +150,8 @@ Lutonbaan,2,,,3045AZ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.443516,51.952482
 Lutonbaan,3,,,3045AZ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.443503,51.952171
 Lutonbaan,4,,,3045AZ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.443765,51.952241
 Van Leeuwenhoekhof,4,,,3045BA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.445944,51.945238
+Van Leeuwenhoekhof,5,,,3045BA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.445295,51.945502
+Van Leeuwenhoekhof,9,,,3045BA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444787,51.945325
 Van Leeuwenhoekhof,13,,,3045BA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.445417,51.944751
 Van Leeuwenhoekhof,19,,,3045BA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.446045,51.944216
 Van Leeuwenhoekhof,23,,,3045BA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.446831,51.943919
@@ -746,15 +748,18 @@ Beekweg,5,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457302,51.948297
 Beekweg,7,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457349,51.948177
 Beekweg,9,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457374,51.948112
 Beekweg,11,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457426,51.947987
+Beekweg,23,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456553,51.947423
 Beekweg,27,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456240,51.947320
 Beekweg,31,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455810,51.947149
+Beekweg,33,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455697,51.947088
 Beekweg,39,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455212,51.946892
 Beekweg,139,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452416,51.945767
 Beekweg,141,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452315,51.945705
-Beekweg,145,B,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451981,51.945555
-Beekweg,145,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451988,51.945578
-Beekweg,147,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451823,51.945541
+Beekweg,143,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452133,51.945638
+Beekweg,145,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451981,51.945555
+Beekweg,147,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451778,51.945510
 Beekweg,149,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451614,51.945468
+Beekweg,151,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451448,51.945371
 Beekweg,155,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450906,51.945219
 Beekweg,157,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450779,51.945146
 Beekweg,159,,,3045PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450597,51.945029
@@ -1022,7 +1027,6 @@ Erasmussingel,205,,,3045PH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463457,51.9469
 Erasmussingel,207,,,3045PH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463326,51.946930
 Erasmussingel,209,,,3045PH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463087,51.946922
 Erasmussingel,213,,,3045PH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462458,51.946953
-Erasmussingel,237,,,3045PH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461808,51.947014
 Gilze-Rijenstraat,28,,,3045PJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451543,51.953568
 Gilze-Rijenstraat,34,,,3045PJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452154,51.952965
 Gilze-Rijenstraat,46,,,3045PJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452349,51.952756
