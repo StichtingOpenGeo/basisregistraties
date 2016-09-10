@@ -316,7 +316,6 @@ Slachthuisweg,47,,,7556AX,Hengelo,Hengelo,Overijssel,VBO,6.778875,52.272839
 Slachthuisweg,53,,,7556AX,Hengelo,Hengelo,Overijssel,VBO,6.778702,52.272928
 Slachthuisweg,55,,,7556AX,Hengelo,Hengelo,Overijssel,VBO,6.778624,52.272963
 Slachthuisweg,63,,,7556AX,Hengelo,Hengelo,Overijssel,VBO,6.778307,52.273114
-Slachthuisweg,69,,,7556AX,Hengelo,Hengelo,Overijssel,VBO,6.777608,52.273461
 Slachthuisweg,70,,,7556AX,Hengelo,Hengelo,Overijssel,VBO,6.776929,52.274490
 Slachthuisweg,77,,,7556AX,Hengelo,Hengelo,Overijssel,VBO,6.777352,52.273481
 Slachthuisweg,101,A,,7556AZ,Hengelo,Hengelo,Overijssel,VBO,6.776048,52.274072
@@ -517,7 +516,8 @@ Bornsestraat,70,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.790656,52.269709
 Bornsestraat,72,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.790542,52.269773
 Bornsestraat,74,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.790464,52.269818
 Bornsestraat,76,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.790331,52.269899
-Bornsestraat,78,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.790112,52.269939
+Bornsestraat,78,A,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.790084,52.269946
+Bornsestraat,78,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.790141,52.269919
 Bornsestraat,80,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.790072,52.270098
 Bornsestraat,82,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.789920,52.270176
 Bornsestraat,84,,,7556BH,Hengelo,Hengelo,Overijssel,VBO,6.789722,52.270266
@@ -616,6 +616,7 @@ Hazenweg,93,,,7556BM,Hengelo,Hengelo,Overijssel,VBO,6.779473,52.287470
 Hazenweg,95,,,7556BM,Hengelo,Hengelo,Overijssel,VBO,6.779467,52.287444
 Hazenweg,110,,,7556BM,Hengelo,Hengelo,Overijssel,VBO,6.780873,52.286365
 Hazenweg,114,,,7556BM,Hengelo,Hengelo,Overijssel,VBO,6.780862,52.286330
+Hazenweg,121,,k114,7556BM,Hengelo,Hengelo,Overijssel,VBO,6.780480,52.287243
 Hazenweg,121,,,7556BM,Hengelo,Hengelo,Overijssel,VBO,6.780480,52.287243
 Bornsestraat,292,,,7556BN,Hengelo,Hengelo,Overijssel,VBO,6.781215,52.278355
 Bornsestraat,294,,,7556BN,Hengelo,Hengelo,Overijssel,VBO,6.781182,52.278398
@@ -959,6 +960,16 @@ Dennenbosweg,19,C,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792086,52.268593
 Dennenbosweg,19,D,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.791989,52.268533
 Dennenbosweg,19,E,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.791905,52.268474
 Dennenbosweg,19,,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792386,52.268775
+Dennenbosweg,23,A,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792577,52.268860
+Dennenbosweg,23,B,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792634,52.268890
+Dennenbosweg,25,A,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792695,52.268929
+Dennenbosweg,25,B,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792753,52.268966
+Dennenbosweg,27,A,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792806,52.269002
+Dennenbosweg,27,B,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792865,52.269036
+Dennenbosweg,29,A,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792926,52.269069
+Dennenbosweg,29,B,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.792979,52.269104
+Dennenbosweg,31,A,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.793037,52.269141
+Dennenbosweg,31,B,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.793094,52.269176
 Dennenbosweg,37,A,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.793080,52.269306
 Dennenbosweg,37,B,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.793098,52.269325
 Dennenbosweg,37,C,,7556CB,Hengelo,Hengelo,Overijssel,VBO,6.793118,52.269348
@@ -1070,11 +1081,35 @@ Dennenbosweg,149,,3,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795777,52.272492
 Dennenbosweg,151,,1,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795876,52.272535
 Dennenbosweg,151,,3,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795818,52.272548
 Dennenbosweg,151,,5,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795750,52.272562
+Dennenbosweg,155,A,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796004,52.272646
+Dennenbosweg,155,B,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795776,52.272675
+Dennenbosweg,155,C,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795821,52.272724
+Dennenbosweg,155,D,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795863,52.272784
+Dennenbosweg,155,E,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795915,52.272840
+Dennenbosweg,155,F,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796112,52.272783
+Dennenbosweg,155,G,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796067,52.272730
 Dennenbosweg,155,,1,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795921,52.272634
 Dennenbosweg,155,,3,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795936,52.272703
+Dennenbosweg,157,A,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796005,52.272680
+Dennenbosweg,157,B,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795957,52.272621
+Dennenbosweg,157,C,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795805,52.272668
+Dennenbosweg,157,D,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795844,52.272719
+Dennenbosweg,157,E,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795892,52.272775
+Dennenbosweg,157,F,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795947,52.272833
+Dennenbosweg,157,G,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796081,52.272794
+Dennenbosweg,157,H,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796039,52.272736
 Dennenbosweg,157,,1,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795857,52.272653
+Dennenbosweg,159,A,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795973,52.272689
+Dennenbosweg,159,B,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795928,52.272627
+Dennenbosweg,159,C,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795825,52.272664
+Dennenbosweg,159,D,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795864,52.272713
+Dennenbosweg,159,E,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795917,52.272768
+Dennenbosweg,159,F,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795969,52.272826
+Dennenbosweg,159,G,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796055,52.272800
+Dennenbosweg,159,H,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796010,52.272743
 Dennenbosweg,159,,1,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795829,52.272687
 Dennenbosweg,159,,3,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795902,52.272779
+Dennenbosweg,161,,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.795735,52.272823
 Dennenbosweg,165,,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796163,52.272878
 Dennenbosweg,167,,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796243,52.272964
 Dennenbosweg,169,,,7556CG,Hengelo,Hengelo,Overijssel,VBO,6.796288,52.273022
@@ -2260,6 +2295,7 @@ Achterhoekse Molenweg,289,,,7556GL,Hengelo,Hengelo,Overijssel,VBO,6.782109,52.27
 Achterhoekse Molenweg,36,,,7556GM,Hengelo,Hengelo,Overijssel,VBO,6.793834,52.273230
 Achterhoekse Molenweg,38,,,7556GM,Hengelo,Hengelo,Overijssel,VBO,6.793690,52.273322
 Achterhoekse Molenweg,44,,,7556GM,Hengelo,Hengelo,Overijssel,VBO,6.793516,52.273389
+Achterhoekse Molenweg,48,,,7556GM,Hengelo,Hengelo,Overijssel,VBO,6.793193,52.273591
 Achterhoekse Molenweg,52,,,7556GM,Hengelo,Hengelo,Overijssel,VBO,6.792987,52.273753
 Achterhoekse Molenweg,54,,,7556GM,Hengelo,Hengelo,Overijssel,VBO,6.792920,52.273790
 Achterhoekse Molenweg,56,,,7556GM,Hengelo,Hengelo,Overijssel,VBO,6.792855,52.273831
@@ -2520,6 +2556,7 @@ Wilgenweg,50,,,7556HG,Hengelo,Hengelo,Overijssel,VBO,6.795304,52.274462
 Wilgenweg,52,,,7556HG,Hengelo,Hengelo,Overijssel,VBO,6.795347,52.274524
 Wilgenweg,54,,,7556HG,Hengelo,Hengelo,Overijssel,VBO,6.795377,52.274565
 Lindenweg,1,,,7556HH,Hengelo,Hengelo,Overijssel,VBO,6.793257,52.273538
+Lindenweg,3,,,7556HH,Hengelo,Hengelo,Overijssel,VBO,6.793287,52.273630
 Lindenweg,5,,,7556HH,Hengelo,Hengelo,Overijssel,VBO,6.793322,52.273690
 Lindenweg,7,,,7556HH,Hengelo,Hengelo,Overijssel,VBO,6.793344,52.273740
 Lindenweg,9,,,7556HH,Hengelo,Hengelo,Overijssel,VBO,6.793373,52.273795
@@ -4031,6 +4068,7 @@ Hamerstraat,2,,,7556MZ,Hengelo,Hengelo,Overijssel,VBO,6.808842,52.279936
 Hamerstraat,3,,,7556MZ,Hengelo,Hengelo,Overijssel,VBO,6.807799,52.279633
 Hamerstraat,4,,,7556MZ,Hengelo,Hengelo,Overijssel,VBO,6.808296,52.280174
 Hamerstraat,5,,,7556MZ,Hengelo,Hengelo,Overijssel,VBO,6.807680,52.279647
+Hamerstraat,6,,,7556MZ,Hengelo,Hengelo,Overijssel,VBO,6.807885,52.280052
 Hamerstraat,7,,,7556MZ,Hengelo,Hengelo,Overijssel,VBO,6.807373,52.279451
 Hamerstraat,10,,,7556MZ,Hengelo,Hengelo,Overijssel,VBO,6.807244,52.280014
 Hamerstraat,11,,,7556MZ,Hengelo,Hengelo,Overijssel,VBO,6.807045,52.279275
@@ -4262,6 +4300,7 @@ Houtmaatweg,30,,,7556PC,Hengelo,Hengelo,Overijssel,VBO,6.789764,52.287518
 Lintelerweg,5,,,7556PD,Hengelo,Hengelo,Overijssel,VBO,6.778052,52.286384
 Lintelerweg,15,,,7556PD,Hengelo,Hengelo,Overijssel,VBO,6.778257,52.286111
 Lintelerweg,25,,,7556PD,Hengelo,Hengelo,Overijssel,VBO,6.778364,52.286029
+Lintelerweg,30,,,7556PD,Hengelo,Hengelo,Overijssel,VBO,6.777758,52.285593
 Lintelerweg,35,,,7556PD,Hengelo,Hengelo,Overijssel,VBO,6.778623,52.285949
 Lintelerweg,40,,,7556PD,Hengelo,Hengelo,Overijssel,VBO,6.778324,52.285324
 Lintelerweg,60,A,,7556PD,Hengelo,Hengelo,Overijssel,VBO,6.778850,52.285132
@@ -4475,6 +4514,7 @@ George Breitnerstraat,36,,,7556PR,Hengelo,Hengelo,Overijssel,VBO,6.785010,52.284
 George Breitnerstraat,38,,,7556PR,Hengelo,Hengelo,Overijssel,VBO,6.785103,52.283983
 Fré Cohenstraat,10,,,7556PS,Hengelo,Hengelo,Overijssel,VBO,6.782827,52.285771
 Fré Cohenstraat,20,,,7556PS,Hengelo,Hengelo,Overijssel,VBO,6.784128,52.285763
+Adriaen Brouwerstraat,6,,,7556PT,Hengelo,Hengelo,Overijssel,VBO,6.783750,52.284075
 Transformatorhof,1,,,7556RA,Hengelo,Hengelo,Overijssel,VBO,6.777904,52.272206
 Transformatorhof,2,,,7556RA,Hengelo,Hengelo,Overijssel,VBO,6.777762,52.271823
 Transformatorhof,3,,,7556RA,Hengelo,Hengelo,Overijssel,VBO,6.778023,52.272186

@@ -6,7 +6,7 @@ Snelgersmastraat,1,d,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.853861,53.319
 Snelgersmastraat,1,e,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.853943,53.319752
 Snelgersmastraat,1,,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.854003,53.319804
 Snelgersmastraat,2,,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.853580,53.320100
-Snelgersmastraat,3,a,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.854126,53.319832
+Snelgersmastraat,3,,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.854126,53.319832
 Snelgersmastraat,4,,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.853762,53.320142
 Snelgersmastraat,5,,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.854246,53.319813
 Snelgersmastraat,6,,,9901AA,Appingedam,Appingedam,Groningen,VBO,6.854184,53.320200
@@ -138,6 +138,7 @@ Wijkstraat,38,b,3,9901AJ,Appingedam,Appingedam,Groningen,VBO,6.858326,53.319867
 Wijkstraat,38,b,4,9901AJ,Appingedam,Appingedam,Groningen,VBO,6.858301,53.319851
 Wijkstraat,38,c,,9901AJ,Appingedam,Appingedam,Groningen,VBO,6.858342,53.319837
 Wijkstraat,38,,,9901AJ,Appingedam,Appingedam,Groningen,VBO,6.858328,53.319808
+Wijkstraat,42,,,9901AJ,Appingedam,Appingedam,Groningen,VBO,6.858449,53.320127
 Wijkstraat,44,,,9901AJ,Appingedam,Appingedam,Groningen,VBO,6.858819,53.320134
 Wijkstraat,50,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.859139,53.320274
 Wijkstraat,52,a,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.859276,53.320258
@@ -158,13 +159,12 @@ Wijkstraat,78,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.860805,53.320244
 Wijkstraat,80,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.860787,53.320192
 Wijkstraat,82,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861017,53.320175
 Wijkstraat,84,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.860971,53.320067
-Wijkstraat,86,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.860989,53.320029
-Wijkstraat,86,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861007,53.320232
+Wijkstraat,86,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.860984,53.320017
 Wijkstraat,88,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861032,53.320116
 Wijkstraat,90,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861074,53.320205
-Wijkstraat,92,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861031,53.320022
-Wijkstraat,94,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861073,53.320109
-Wijkstraat,96,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861117,53.320198
+Wijkstraat,92,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861025,53.320010
+Wijkstraat,94,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861067,53.320098
+Wijkstraat,96,,,9901AK,Appingedam,Appingedam,Groningen,VBO,6.861111,53.320186
 Nieuwe Kerkstraat,2,a,,9901AL,Appingedam,Appingedam,Groningen,VBO,6.858142,53.320357
 Nieuwe Kerkstraat,2,,,9901AL,Appingedam,Appingedam,Groningen,VBO,6.858132,53.320389
 Nieuwe Kerkstraat,4,,,9901AL,Appingedam,Appingedam,Groningen,VBO,6.858119,53.320452
@@ -861,7 +861,7 @@ Wilhelminaweg,15,a,,9901CL,Appingedam,Appingedam,Groningen,VBO,6.862305,53.32441
 Wilhelminaweg,15,b,,9901CL,Appingedam,Appingedam,Groningen,VBO,6.862027,53.324446
 Wilhelminaweg,15,c,,9901CL,Appingedam,Appingedam,Groningen,VBO,6.862025,53.324403
 Wilhelminaweg,15,,,9901CL,Appingedam,Appingedam,Groningen,VBO,6.862301,53.324460
-Wilhelminaweg,17,,I,9901CL,Appingedam,Appingedam,Groningen,VBO,6.861733,53.324596
+Wilhelminaweg,17,a,,9901CL,Appingedam,Appingedam,Groningen,VBO,6.861733,53.324596
 Wilhelminaweg,17,,,9901CL,Appingedam,Appingedam,Groningen,VBO,6.861995,53.324554
 Wilhelminaweg,19,,,9901CL,Appingedam,Appingedam,Groningen,VBO,6.862040,53.324795
 Wilhelminaweg,21,,,9901CL,Appingedam,Appingedam,Groningen,VBO,6.862121,53.324965
@@ -1040,7 +1040,7 @@ Willem-Alexanderlaan,9,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.864420,53.
 Willem-Alexanderlaan,10,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.865038,53.323752
 Willem-Alexanderlaan,11,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.864626,53.324344
 Willem-Alexanderlaan,12,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.864693,53.323723
-Willem-Alexanderlaan,13,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.864717,53.324356
+Willem-Alexanderlaan,13,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.864718,53.324355
 Willem-Alexanderlaan,14,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.864673,53.324119
 Willem-Alexanderlaan,15,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.864956,53.324389
 Willem-Alexanderlaan,16,,,9901DE,Appingedam,Appingedam,Groningen,VBO,6.864944,53.324154
@@ -1109,18 +1109,13 @@ Pieter Bieremastraat,18,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859052,53
 Pieter Bieremastraat,20,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.860182,53.324813
 Pieter Bieremastraat,22,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.860176,53.324732
 Pieter Bieremastraat,24,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859999,53.324775
-Pieter Bieremastraat,26,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859895,53.324781
 Pieter Bieremastraat,28,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859776,53.324786
 Pieter Bieremastraat,30,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859693,53.324789
 Pieter Bieremastraat,32,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859612,53.324795
-Pieter Bieremastraat,34,a,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859359,53.324801
-Pieter Bieremastraat,34,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859396,53.324798
-Pieter Bieremastraat,36,a,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859240,53.324804
-Pieter Bieremastraat,36,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859286,53.324802
-Pieter Bieremastraat,38,a,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859123,53.324814
-Pieter Bieremastraat,38,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859177,53.324810
-Pieter Bieremastraat,40,a,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.858999,53.324824
-Pieter Bieremastraat,40,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859055,53.324818
+Pieter Bieremastraat,34,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859537,53.324804
+Pieter Bieremastraat,36,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859294,53.324809
+Pieter Bieremastraat,38,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859184,53.324816
+Pieter Bieremastraat,40,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.859102,53.324822
 Pieter Bieremastraat,42,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.860182,53.324829
 Pieter Bieremastraat,44,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.860178,53.324757
 Pieter Bieremastraat,46,,,9901EB,Appingedam,Appingedam,Groningen,VBO,6.860002,53.324802
@@ -1880,6 +1875,7 @@ Bolwerk,71,,,9901GV,Appingedam,Appingedam,Groningen,VBO,6.853452,53.321967
 Bolwerk,73,,,9901GV,Appingedam,Appingedam,Groningen,VBO,6.853120,53.322197
 Tichelplaats,3,,,9901GW,Appingedam,Appingedam,Groningen,VBO,6.846899,53.320669
 Tichelplaats,7,,,9901GW,Appingedam,Appingedam,Groningen,VBO,6.846401,53.320595
+Tichelplaats,9,,,9901GW,Appingedam,Appingedam,Groningen,VBO,6.846239,53.320609
 Tichelplaats,11,,,9901GW,Appingedam,Appingedam,Groningen,VBO,6.845822,53.320541
 Statenlaan,1,,,9901HA,Appingedam,Appingedam,Groningen,VBO,6.840824,53.321027
 Statenlaan,3,,,9901HA,Appingedam,Appingedam,Groningen,VBO,6.840719,53.321011
@@ -2420,7 +2416,7 @@ Alberdaweg,58,,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.811792,53.318122
 Alberdaweg,60,,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.809844,53.317648
 Alberdaweg,62,,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.809957,53.318000
 Alberdaweg,64,,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.809607,53.317375
-Alberdaweg,66,a,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.808476,53.318341
+Alberdaweg,66,a,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.807188,53.319092
 Alberdaweg,66,,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.808092,53.317775
 Alberdaweg,70,,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.807122,53.317409
 Alberdaweg,72,,,9901TA,Appingedam,Appingedam,Groningen,VBO,6.807125,53.317436

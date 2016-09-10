@@ -1038,7 +1038,8 @@ Raadhuisstraat,18,B,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620571,52.34
 Raadhuisstraat,18,,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620548,52.347419
 Raadhuisstraat,20,,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620604,52.347515
 Raadhuisstraat,22,,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620617,52.347550
-Raadhuisstraat,24,A,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620900,52.347757
+Raadhuisstraat,24,A,1,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620890,52.347780
+Raadhuisstraat,24,A,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620902,52.347827
 Raadhuisstraat,24,B,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620793,52.347954
 Raadhuisstraat,24,,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620613,52.347568
 Raadhuisstraat,26,A,,2101HG,Heemstede,Heemstede,Noord-Holland,VBO,4.620835,52.348062
@@ -1505,6 +1506,8 @@ Binnenweg,200,A,,2101JS,Heemstede,Heemstede,Noord-Holland,VBO,4.621712,52.356216
 Binnenweg,200,,,2101JS,Heemstede,Heemstede,Noord-Holland,VBO,4.621678,52.356159
 Binnenweg,202,,,2101JT,Heemstede,Heemstede,Noord-Holland,VBO,4.621851,52.356391
 Binnenweg,204,,,2101JT,Heemstede,Heemstede,Noord-Holland,VBO,4.621895,52.356382
+Binnenweg,206,A,,2101JT,Heemstede,Heemstede,Noord-Holland,VBO,4.621943,52.356430
+Binnenweg,206,B,,2101JT,Heemstede,Heemstede,Noord-Holland,VBO,4.622016,52.356418
 Binnenweg,206,,,2101JT,Heemstede,Heemstede,Noord-Holland,VBO,4.621877,52.356441
 Binnenweg,210,,,2101JT,Heemstede,Heemstede,Noord-Holland,VBO,4.621905,52.356502
 Binnenweg,212,,,2101JT,Heemstede,Heemstede,Noord-Holland,VBO,4.621957,52.356485
@@ -1719,7 +1722,6 @@ Herenweg,74,,,2101MN,Heemstede,Heemstede,Noord-Holland,VBO,4.610987,52.350008
 Herenweg,76,A,,2101MN,Heemstede,Heemstede,Noord-Holland,VBO,4.611116,52.350224
 Herenweg,76,,,2101MN,Heemstede,Heemstede,Noord-Holland,VBO,4.611015,52.350089
 Herenweg,78,A,,2101MN,Heemstede,Heemstede,Noord-Holland,VBO,4.611516,52.350847
-Herenweg,78,,,2101MN,Heemstede,Heemstede,Noord-Holland,VBO,4.611404,52.350514
 Herenweg,80,A,,2101MN,Heemstede,Heemstede,Noord-Holland,VBO,4.611753,52.350999
 Herenweg,80,,,2101MN,Heemstede,Heemstede,Noord-Holland,VBO,4.611628,52.351144
 Herenweg,82,,,2101MN,Heemstede,Heemstede,Noord-Holland,VBO,4.611596,52.351279
@@ -2770,6 +2772,7 @@ Provinciënlaan,3,B,35,2101SN,Heemstede,Heemstede,Noord-Holland,VBO,4.618020,52.
 Provinciënlaan,3,B,4,2101SN,Heemstede,Heemstede,Noord-Holland,VBO,4.617856,52.347498
 Provinciënlaan,3,B,41,2101SN,Heemstede,Heemstede,Noord-Holland,VBO,4.618018,52.347429
 Provinciënlaan,3,B,42,2101SN,Heemstede,Heemstede,Noord-Holland,VBO,4.618012,52.347420
+Provinciënlaan,3,B,43,2101SN,Heemstede,Heemstede,Noord-Holland,VBO,4.618048,52.347416
 Provinciënlaan,3,B,44,2101SN,Heemstede,Heemstede,Noord-Holland,VBO,4.618010,52.347413
 Provinciënlaan,3,B,45,2101SN,Heemstede,Heemstede,Noord-Holland,VBO,4.618008,52.347406
 Provinciënlaan,3,B,5,2101SN,Heemstede,Heemstede,Noord-Holland,VBO,4.617848,52.347485
@@ -3336,20 +3339,15 @@ Lieven de Keylaan,20,,,2101VE,Heemstede,Heemstede,Noord-Holland,VBO,4.621750,52.
 Lieven de Keylaan,22,A,,2101VE,Heemstede,Heemstede,Noord-Holland,VBO,4.621871,52.347841
 Lieven de Keylaan,22,,,2101VE,Heemstede,Heemstede,Noord-Holland,VBO,4.621743,52.347624
 Lieven de Keylaan,24,,,2101VE,Heemstede,Heemstede,Noord-Holland,VBO,4.621910,52.347996
-Postlaan,1,A,1,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621053,52.347682
-Postlaan,1,A,10,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621123,52.347744
-Postlaan,1,A,11,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621107,52.347781
-Postlaan,1,A,12,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621108,52.347778
-Postlaan,1,A,13,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621091,52.347814
-Postlaan,1,A,14,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621078,52.347850
-Postlaan,1,A,2,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621052,52.347708
-Postlaan,1,A,3,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621049,52.347741
-Postlaan,1,A,4,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621039,52.347771
-Postlaan,1,A,5,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621021,52.347801
-Postlaan,1,A,6,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621006,52.347831
-Postlaan,1,A,7,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.620990,52.347862
-Postlaan,1,A,8,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.620972,52.347888
-Postlaan,1,A,9,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621134,52.347706
+Postlaan,1,A,1,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621163,52.347680
+Postlaan,1,A,2,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621157,52.347698
+Postlaan,1,A,3,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621153,52.347718
+Postlaan,1,A,4,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621148,52.347740
+Postlaan,1,A,5,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621144,52.347762
+Postlaan,1,A,6,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621136,52.347786
+Postlaan,1,A,7,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621131,52.347808
+Postlaan,1,A,8,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621124,52.347831
+Postlaan,1,A,9,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621113,52.347857
 Postlaan,5,,,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.621850,52.347610
 Postlaan,7,,,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.622076,52.347582
 Postlaan,9,,,2101VG,Heemstede,Heemstede,Noord-Holland,VBO,4.622198,52.347582

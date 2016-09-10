@@ -108,10 +108,9 @@ Harinxmastrjitte,57,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605354,52.96
 Harinxmastrjitte,61,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605578,52.968184
 Harinxmastrjitte,63,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605667,52.968166
 Harinxmastrjitte,65,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605668,52.968337
-Harinxmastrjitte,67,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605771,52.968130
-Harinxmastrjitte,69,A,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605875,52.968130
-Harinxmastrjitte,69,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605830,52.968121
-Harinxmastrjitte,73,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606024,52.968175
+Harinxmastrjitte,67,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605639,52.968605
+Harinxmastrjitte,69,A,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605790,52.968125
+Harinxmastrjitte,73,,,8621BK,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606043,52.968143
 Harinxmastrjitte,2,,,8621BL,Heeg,Súdwest-Fryslân,Friesland,VBO,5.602777,52.967767
 Harinxmastrjitte,6,,,8621BL,Heeg,Súdwest-Fryslân,Friesland,VBO,5.603149,52.967757
 Harinxmastrjitte,8,,,8621BL,Heeg,Súdwest-Fryslân,Friesland,VBO,5.603417,52.967748
@@ -150,7 +149,7 @@ Harinxmastrjitte,48,B,,8621BM,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605863,52.9
 Harinxmastrjitte,48,,,8621BM,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605844,52.968023
 Harinxmastrjitte,50,,,8621BM,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606068,52.967977
 Harinxmastrjitte,52,A,,8621BM,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606249,52.967989
-Harinxmastrjitte,52,,,8621BM,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606199,52.967981
+Harinxmastrjitte,52,,,8621BM,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606244,52.968044
 Harinxmastrjitte,56,,,8621BM,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606349,52.967725
 Harinxmastrjitte,58,,,8621BM,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606350,52.967859
 Ielkantoarswâl,2,,,8621BN,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606227,52.967563
@@ -174,6 +173,7 @@ De Syl,6,,,8621BS,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606130,52.968552
 De Syl,8,,,8621BS,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606145,52.968498
 De Syl,10,,,8621BS,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606084,52.968363
 De Syl,12,,,8621BS,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606173,52.968201
+De Skatting,1,A,,8621BT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606162,52.975270
 De Skatting,1,B,,8621BT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606049,52.976082
 De Skatting,1,C,,8621BT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.605672,52.975340
 De Skatting,1,,,8621BT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606162,52.972011
@@ -332,7 +332,7 @@ De Campen,1,B,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606805,52.971830
 De Campen,1,C,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606800,52.971855
 De Campen,1,D,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606809,52.971879
 De Campen,1,E,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606802,52.971902
-De Campen,1,F,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606787,52.971911
+De Campen,1,F,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606787,52.971925
 De Campen,1,G,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606785,52.971949
 De Campen,1,H,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606790,52.971972
 De Campen,1,,,8621CG,Heeg,Súdwest-Fryslân,Friesland,VBO,5.606830,52.971651
@@ -568,6 +568,7 @@ It Eilân,65,,,8621CT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611450,52.966790
 It Eilân,66,,,8621CT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611343,52.966260
 It Eilân,67,,,8621CT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.608945,52.967801
 It Eilân,68,,,8621CT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.609594,52.967719
+It Eilân,69,,,8621CT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.608679,52.968479
 It Eilân,69,,,8621CT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.608913,52.968502
 Gouden Boaijum,2,A,,8621CV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611429,52.965675
 Gouden Boaijum,2,,,8621CV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611444,52.965648
@@ -937,7 +938,7 @@ Molefinne,57,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611159,52.971050
 Molefinne,59,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611427,52.971076
 Molefinne,61,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611725,52.971084
 Molefinne,63,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611622,52.971246
-Molefinne,65,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611607,52.971327
+Molefinne,65,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611617,52.971287
 Molefinne,67,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611592,52.971372
 Molefinne,69,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.611593,52.971417
 Molefinne,79,,,8621DD,Heeg,Súdwest-Fryslân,Friesland,VBO,5.612114,52.971452
@@ -1133,6 +1134,7 @@ De Simmerkrite,15,,,8621DT,Heeg,Súdwest-Fryslân,Friesland,VBO,5.608230,52.9746
 It Bûtlân,1,,,8621DV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.614636,52.975500
 It Bûtlân,2,B,,8621DV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.615964,52.975363
 It Bûtlân,2,,,8621DV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.616779,52.975433
+It Bûtlân,3,,,8621DV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.616656,52.975967
 It Bûtlân,4,,,8621DV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.617556,52.973212
 It Bûtlân,6,,,8621DV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.618267,52.972411
 It Bûtlân,7,,,8621DV,Heeg,Súdwest-Fryslân,Friesland,VBO,5.618136,52.974940
@@ -1200,7 +1202,6 @@ De Opper,2,,,8621DZ,Heeg,Súdwest-Fryslân,Friesland,VBO,5.621429,52.976323
 De Opper,4,,,8621DZ,Heeg,Súdwest-Fryslân,Friesland,VBO,5.621537,52.975945
 De Opper,6,,,8621DZ,Heeg,Súdwest-Fryslân,Friesland,VBO,5.621945,52.975382
 De Opper,10,,,8621DZ,Heeg,Súdwest-Fryslân,Friesland,VBO,5.622566,52.974902
-De Opper,10,,,8621DZ,Heeg,Súdwest-Fryslân,Friesland,VBO,5.622617,52.974869
 De Opper,12,,1,8621DZ,Heeg,Súdwest-Fryslân,Friesland,VBO,5.622950,52.974163
 De Opper,12,,10,8621DZ,Heeg,Súdwest-Fryslân,Friesland,VBO,5.621669,52.973941
 De Opper,12,,11,8621DZ,Heeg,Súdwest-Fryslân,Friesland,VBO,5.621520,52.973914
@@ -1273,6 +1274,7 @@ It Fjild,6,,,8621EA,Heeg,Súdwest-Fryslân,Friesland,VBO,5.619952,52.973037
 It Swee,2,,,8621EB,Heeg,Súdwest-Fryslân,Friesland,VBO,5.620171,52.972210
 It Swee,4,,,8621EB,Heeg,Súdwest-Fryslân,Friesland,VBO,5.620024,52.972506
 It Swee,6,,,8621EB,Heeg,Súdwest-Fryslân,Friesland,VBO,5.620842,52.972406
+It Swee,8,A,,8621EB,Heeg,Súdwest-Fryslân,Friesland,VBO,5.620702,52.971948
 It Swee,8,,001,8621EB,Heeg,Súdwest-Fryslân,Friesland,VBO,5.620536,52.971971
 It Swee,8,,002,8621EB,Heeg,Súdwest-Fryslân,Friesland,VBO,5.620547,52.971946
 It Swee,8,,003,8621EB,Heeg,Súdwest-Fryslân,Friesland,VBO,5.620557,52.971912

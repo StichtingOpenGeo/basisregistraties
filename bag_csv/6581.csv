@@ -57,7 +57,6 @@ Broekkant,31,,,6581AC,Malden,Heumen,Gelderland,VBO,5.848005,51.781991
 Broekkant,33,,,6581AC,Malden,Heumen,Gelderland,VBO,5.847912,51.782119
 Broekkant,35,,,6581AC,Malden,Heumen,Gelderland,VBO,5.847748,51.782265
 Broekkant,37,,,6581AC,Malden,Heumen,Gelderland,VBO,5.847597,51.782484
-Broekkant,39,,T001,6581AC,Malden,Heumen,Gelderland,VBO,5.846789,51.783827
 Kerkplein,2,A,,6581AC,Malden,Heumen,Gelderland,VBO,5.850551,51.780768
 Kerkplein,2,B,,6581AC,Malden,Heumen,Gelderland,VBO,5.850734,51.780838
 Kerkplein,2,,,6581AC,Malden,Heumen,Gelderland,VBO,5.850299,51.780672
@@ -236,7 +235,8 @@ Broekkant,80,,,6581AH,Malden,Heumen,Gelderland,VBO,5.845647,51.786085
 Broekkant,86,,,6581AH,Malden,Heumen,Gelderland,VBO,5.844365,51.787993
 Broekkant,88,,,6581AH,Malden,Heumen,Gelderland,VBO,5.844044,51.788395
 Broekkant,90,,,6581AH,Malden,Heumen,Gelderland,VBO,5.844240,51.788784
-Broekkant,94,,,6581AH,Malden,Heumen,Gelderland,VBO,5.843871,51.789159
+Broekkant,92,,,6581AH,Malden,Heumen,Gelderland,VBO,5.843897,51.789165
+Broekkant,94,,,6581AH,Malden,Heumen,Gelderland,VBO,5.843462,51.789371
 De Hoge Brug,1,,P001,6581AJ,Malden,Heumen,Gelderland,VBO,5.841511,51.788295
 De Hoge Brug,1,,T001,6581AJ,Malden,Heumen,Gelderland,VBO,5.841690,51.788355
 De Hoge Brug,1,,,6581AJ,Malden,Heumen,Gelderland,VBO,5.842893,51.788665
@@ -372,9 +372,7 @@ Malderburchstraat,132,,,6581AK,Malden,Heumen,Gelderland,VBO,5.848512,51.782323
 Malderburchstraat,134,,,6581AK,Malden,Heumen,Gelderland,VBO,5.848431,51.782327
 Malderburchstraat,136,,,6581AK,Malden,Heumen,Gelderland,VBO,5.848580,51.782364
 Raadhuisstraat,1,A,,6581AL,Malden,Heumen,Gelderland,VBO,5.851032,51.783221
-Raadhuisstraat,1,,,6581AL,Malden,Heumen,Gelderland,VBO,5.849703,51.782880
 Raadhuisstraat,2,A,,6581AL,Malden,Heumen,Gelderland,VBO,5.849561,51.783244
-Raadhuisstraat,2,,,6581AL,Malden,Heumen,Gelderland,VBO,5.850339,51.783545
 Raadhuisstraat,3,,,6581AL,Malden,Heumen,Gelderland,VBO,5.848342,51.782586
 Raadhuisstraat,4,,,6581AL,Malden,Heumen,Gelderland,VBO,5.849331,51.783175
 Raadhuisstraat,6,A,,6581AL,Malden,Heumen,Gelderland,VBO,5.848966,51.783106
@@ -666,6 +664,7 @@ Schoolstraat,148,,,6581BG,Malden,Heumen,Gelderland,VBO,5.854478,51.782135
 Schoolstraat,150,,,6581BG,Malden,Heumen,Gelderland,VBO,5.854525,51.782077
 Schoolstraat,152,,,6581BG,Malden,Heumen,Gelderland,VBO,5.854571,51.782019
 Schoolstraat,154,,,6581BG,Malden,Heumen,Gelderland,VBO,5.854661,51.781972
+Schoolstraat,158,,,6581BG,Malden,Heumen,Gelderland,VBO,5.854629,51.782199
 Schoolstraat,160,,,6581BG,Malden,Heumen,Gelderland,VBO,5.854959,51.781746
 Groesbeekseweg,1,,,6581BH,Malden,Heumen,Gelderland,VBO,5.855900,51.781292
 Groesbeekseweg,2,,,6581BH,Malden,Heumen,Gelderland,VBO,5.854200,51.780332
@@ -841,6 +840,7 @@ Winkelcentrum,17,A,,6581BV,Malden,Heumen,Gelderland,VBO,5.854074,51.782353
 Winkelcentrum,17,B,,6581BV,Malden,Heumen,Gelderland,VBO,5.854247,51.782404
 Winkelcentrum,17,C,,6581BV,Malden,Heumen,Gelderland,VBO,5.854349,51.782343
 Winkelcentrum,17,D,,6581BV,Malden,Heumen,Gelderland,VBO,5.854201,51.782298
+Winkelcentrum,17,E,,6581BV,Malden,Heumen,Gelderland,VBO,5.854167,51.782515
 Winkelcentrum,17,,,6581BV,Malden,Heumen,Gelderland,VBO,5.853735,51.782275
 Winkelcentrum,19,,,6581BV,Malden,Heumen,Gelderland,VBO,5.853747,51.782109
 Winkelcentrum,21,,,6581BV,Malden,Heumen,Gelderland,VBO,5.853762,51.781863
@@ -1189,8 +1189,7 @@ Vogelenzang,15,,,6581CP,Malden,Heumen,Gelderland,VBO,5.858965,51.788242
 Vogelenzang,2,,,6581CR,Malden,Heumen,Gelderland,VBO,5.859627,51.787300
 Vogelenzang,4,,,6581CR,Malden,Heumen,Gelderland,VBO,5.860058,51.787438
 Vogelenzang,6,,,6581CR,Malden,Heumen,Gelderland,VBO,5.860382,51.787513
-Vogelenzang,8,A,,6581CR,Malden,Heumen,Gelderland,VBO,5.860104,51.787781
-Vogelenzang,8,,,6581CR,Malden,Heumen,Gelderland,VBO,5.860157,51.787714
+Vogelenzang,8,,,6581CR,Malden,Heumen,Gelderland,VBO,5.860144,51.787731
 Vogelenzang,10,,,6581CR,Malden,Heumen,Gelderland,VBO,5.859976,51.787990
 Vogelenzang,12,,,6581CR,Malden,Heumen,Gelderland,VBO,5.859851,51.788201
 Vogelenzang,14,,,6581CR,Malden,Heumen,Gelderland,VBO,5.859724,51.788466
@@ -1497,11 +1496,11 @@ De Vang,49,,,6581DP,Malden,Heumen,Gelderland,VBO,5.853829,51.789987
 De Vang,51,,,6581DP,Malden,Heumen,Gelderland,VBO,5.853842,51.789930
 De Vang,55,,,6581DP,Malden,Heumen,Gelderland,VBO,5.855353,51.790070
 De Vang,2,,,6581DR,Malden,Heumen,Gelderland,VBO,5.851951,51.789431
-De Vang,4,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852024,51.789463
+De Vang,4,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852022,51.789439
 De Vang,6,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852095,51.789444
 De Vang,8,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852188,51.789430
 De Vang,10,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852335,51.789464
-De Vang,12,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852400,51.789497
+De Vang,12,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852400,51.789485
 De Vang,14,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852475,51.789477
 De Vang,16,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852787,51.789544
 De Vang,18,,,6581DR,Malden,Heumen,Gelderland,VBO,5.852856,51.789559
@@ -3159,7 +3158,6 @@ Steenacker,18,,,6581JN,Malden,Heumen,Gelderland,VBO,5.855095,51.776477
 Steenacker,20,,,6581JN,Malden,Heumen,Gelderland,VBO,5.855137,51.776440
 Steenacker,22,,,6581JN,Malden,Heumen,Gelderland,VBO,5.854940,51.776195
 Steenacker,24,,,6581JN,Malden,Heumen,Gelderland,VBO,5.855172,51.776204
-Steenacker,26,,,6581JN,Malden,Heumen,Gelderland,VBO,5.855485,51.775956
 Steenacker,28,,,6581JN,Malden,Heumen,Gelderland,VBO,5.855696,51.775838
 Kreytacker,1,,,6581JP,Malden,Heumen,Gelderland,VBO,5.853769,51.777160
 Kreytacker,3,,,6581JP,Malden,Heumen,Gelderland,VBO,5.853894,51.777024
@@ -3230,9 +3228,9 @@ Vieracker,7,,,6581JV,Malden,Heumen,Gelderland,VBO,5.856874,51.774590
 Vieracker,8,A,,6581JV,Malden,Heumen,Gelderland,VBO,5.856438,51.774600
 Vieracker,8,B,,6581JV,Malden,Heumen,Gelderland,VBO,5.856505,51.774492
 Vieracker,8,,,6581JV,Malden,Heumen,Gelderland,VBO,5.856388,51.774649
-Vieracker,9,,,6581JV,Malden,Heumen,Gelderland,VBO,5.857619,51.774902
+Vieracker,9,,,6581JV,Malden,Heumen,Gelderland,VBO,5.857501,51.774862
 Vieracker,10,,,6581JV,Malden,Heumen,Gelderland,VBO,5.856997,51.774338
-Vieracker,11,,,6581JV,Malden,Heumen,Gelderland,VBO,5.857526,51.774837
+Vieracker,11,,,6581JV,Malden,Heumen,Gelderland,VBO,5.857609,51.774902
 Vieracker,12,,,6581JV,Malden,Heumen,Gelderland,VBO,5.857346,51.774020
 Vieracker,13,,,6581JV,Malden,Heumen,Gelderland,VBO,5.857754,51.774670
 Vieracker,14,,,6581JV,Malden,Heumen,Gelderland,VBO,5.857174,51.773975
@@ -3339,7 +3337,6 @@ De Strengen,52,,,6581JZ,Malden,Heumen,Gelderland,VBO,5.854743,51.772315
 De Strengen,54,,,6581JZ,Malden,Heumen,Gelderland,VBO,5.854667,51.772326
 De Strengen,56,,,6581JZ,Malden,Heumen,Gelderland,VBO,5.854502,51.772352
 De Strengen,58,,,6581JZ,Malden,Heumen,Gelderland,VBO,5.854420,51.772365
-Sluisweg,1,D,,6581KA,Heumen,Heumen,Gelderland,VBO,5.861986,51.770887
 Sluisweg,4,,,6581KA,Malden,Heumen,Gelderland,VBO,5.861008,51.770548
 Sluisweg,6,,,6581KA,Malden,Heumen,Gelderland,VBO,5.860912,51.770290
 Sluisweg,8,,,6581KA,Malden,Heumen,Gelderland,VBO,5.860460,51.770165
@@ -3436,7 +3433,7 @@ Droogsestraat,9,,,6581KH,Malden,Heumen,Gelderland,VBO,5.845930,51.790398
 Droogsestraat,11,A,,6581KH,Malden,Heumen,Gelderland,VBO,5.844086,51.789989
 Droogsestraat,11,,,6581KH,Malden,Heumen,Gelderland,VBO,5.844486,51.790148
 Droogsestraat,12,,,6581KH,Malden,Heumen,Gelderland,VBO,5.845558,51.790994
-Droogsestraat,15,,,6581KH,Malden,Heumen,Gelderland,VBO,5.843554,51.789412
+Droogsestraat,15,,,6581KH,Malden,Heumen,Gelderland,VBO,5.843677,51.789428
 Jufferstraat,1,,T001,6581KJ,Malden,Heumen,Gelderland,VBO,5.839607,51.793612
 Jufferstraat,1,,,6581KJ,Malden,Heumen,Gelderland,VBO,5.840371,51.794061
 Jufferstraat,2,,,6581KJ,Malden,Heumen,Gelderland,VBO,5.848250,51.797984
@@ -3460,6 +3457,7 @@ Sint Jacobsweg,8,,,6581KM,Malden,Heumen,Gelderland,VBO,5.847886,51.803908
 Sint Jacobsweg,10,,,6581KM,Malden,Heumen,Gelderland,VBO,5.848261,51.805313
 Sint Jacobsweg,11,,,6581KM,Malden,Heumen,Gelderland,VBO,5.845505,51.805218
 Sint Jacobsweg,12,,,6581KM,Malden,Heumen,Gelderland,VBO,5.847513,51.807938
+Sint Jacobsweg,13,A,,6581KM,Malden,Heumen,Gelderland,VBO,5.845344,51.806083
 Sint Jacobsweg,13,,,6581KM,Malden,Heumen,Gelderland,VBO,5.845301,51.806966
 Sint Jacobsweg,15,,,6581KM,Malden,Heumen,Gelderland,VBO,5.845297,51.807056
 Scheidingsweg,99,,,6581KN,Malden,Heumen,Gelderland,VBO,5.860350,51.808760
@@ -3732,8 +3730,6 @@ Beukenhof,25,,,6581PJ,Malden,Heumen,Gelderland,VBO,5.863366,51.781400
 Beukenhof,27,,,6581PJ,Malden,Heumen,Gelderland,VBO,5.863403,51.781352
 Beukenhof,29,,,6581PJ,Malden,Heumen,Gelderland,VBO,5.863438,51.781308
 Beukenhof,31,,,6581PJ,Malden,Heumen,Gelderland,VBO,5.863473,51.781262
-Beukenlaan,3,,T001,6581PJ,Malden,Heumen,Gelderland,VBO,5.881018,51.797864
-Beukenlaan,3,,T002,6581PJ,Malden,Heumen,Gelderland,VBO,5.881094,51.798073
 Berkenlaan,1,,,6581PL,Malden,Heumen,Gelderland,VBO,5.863637,51.781169
 Berkenlaan,3,,,6581PL,Malden,Heumen,Gelderland,VBO,5.863719,51.781151
 Berkenlaan,5,,,6581PL,Malden,Heumen,Gelderland,VBO,5.863796,51.781134
@@ -5181,18 +5177,7 @@ Gladiolenstraat,48,,,6581XC,Malden,Heumen,Gelderland,VBO,5.856210,51.784522
 Gladiolenstraat,50,,,6581XC,Malden,Heumen,Gelderland,VBO,5.856130,51.784506
 Gladiolenstraat,52,,,6581XC,Malden,Heumen,Gelderland,VBO,5.856048,51.784489
 Gladiolenstraat,54,,,6581XC,Malden,Heumen,Gelderland,VBO,5.855968,51.784473
-Gladiolenstraat,56,,G001,6581XC,Malden,Heumen,Gelderland,VBO,5.855765,51.784461
-Gladiolenstraat,56,,G002,6581XC,Malden,Heumen,Gelderland,VBO,5.855751,51.784487
-Gladiolenstraat,56,,G005,6581XC,Malden,Heumen,Gelderland,VBO,5.855712,51.784564
-Gladiolenstraat,56,,G006,6581XC,Malden,Heumen,Gelderland,VBO,5.855684,51.784618
-Gladiolenstraat,56,,G007,6581XC,Malden,Heumen,Gelderland,VBO,5.855671,51.784643
-Gladiolenstraat,56,,G009,6581XC,Malden,Heumen,Gelderland,VBO,5.855644,51.784693
-Gladiolenstraat,56,,G010,6581XC,Malden,Heumen,Gelderland,VBO,5.855629,51.784719
-Gladiolenstraat,56,,G011,6581XC,Malden,Heumen,Gelderland,VBO,5.855614,51.784751
 Gladiolenstraat,56,,,6581XC,Malden,Heumen,Gelderland,VBO,5.855887,51.784457
-Gladiolenstraat,56,,G003,6581XD,Malden,Heumen,Gelderland,VBO,5.855738,51.784514
-Gladiolenstraat,56,,G004,6581XD,Malden,Heumen,Gelderland,VBO,5.855727,51.784539
-Gladiolenstraat,56,,G008,6581XD,Malden,Heumen,Gelderland,VBO,5.855657,51.784668
 Gladiolenstraat,58,,,6581XD,Malden,Heumen,Gelderland,VBO,5.855419,51.785190
 Gladiolenstraat,60,,,6581XD,Malden,Heumen,Gelderland,VBO,5.855391,51.785243
 Gladiolenstraat,62,,,6581XD,Malden,Heumen,Gelderland,VBO,5.855362,51.785298

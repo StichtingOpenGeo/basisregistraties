@@ -49,6 +49,7 @@ Hallenstraat,21,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.195505,51.358678
 Hallenstraat,22,A,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.192205,51.357242
 Hallenstraat,22,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.192236,51.358228
 Hallenstraat,23,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.193964,51.358647
+Hallenstraat,25,A,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.192551,51.359864
 Hallenstraat,25,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.192753,51.358693
 Hallenstraat,27,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.192150,51.360328
 Hallenstraat,29,,,5531AB,Bladel,Bladel,Noord-Brabant,VBO,5.192108,51.360736
@@ -153,7 +154,6 @@ Raambrug,13,A,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205933,51.357687
 Raambrug,13,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205927,51.357571
 Raambrug,14,A,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.206598,51.360332
 Raambrug,14,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.206537,51.360427
-Raambrug,15,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.205937,51.357391
 Raambrug,16,A,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.206671,51.360161
 Raambrug,16,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.206653,51.360088
 Raambrug,18,,,5531AG,Bladel,Bladel,Noord-Brabant,VBO,5.206737,51.359813
@@ -312,7 +312,6 @@ Rondweg,25,,,5531AJ,Bladel,Bladel,Noord-Brabant,VBO,5.216379,51.362373
 Rondweg,26,,,5531AJ,Bladel,Bladel,Noord-Brabant,VBO,5.214716,51.361467
 Rondweg,27,A,,5531AJ,Bladel,Bladel,Noord-Brabant,VBO,5.212950,51.361864
 Rondweg,27,A,,5531AJ,Bladel,Bladel,Noord-Brabant,VBO,5.213150,51.361543
-Rondweg,27,B,,5531AJ,Bladel,Bladel,Noord-Brabant,VBO,5.214316,51.361578
 Rondweg,27,,,5531AJ,Bladel,Bladel,Noord-Brabant,VBO,5.214175,51.361575
 Koolbogt,19,,,5531AK,Bladel,Bladel,Noord-Brabant,VBO,5.219746,51.364349
 Koolbogt,21,,,5531AK,Bladel,Bladel,Noord-Brabant,VBO,5.219712,51.364399
@@ -868,8 +867,9 @@ Bleijenhoek,69,,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.207361,51.363223
 Bleijenhoek,71,A,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.206496,51.362974
 Bleijenhoek,71,,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.206863,51.363101
 Bleijenhoek,73,,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.206344,51.362944
+Bleijenhoek,75,A,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.205886,51.362912
 Bleijenhoek,75,,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.205965,51.362930
-Bleijenhoek,77,,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.205753,51.363119
+Bleijenhoek,75,,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.205993,51.362934
 Bleijenhoek,79,,,5531BL,Bladel,Bladel,Noord-Brabant,VBO,5.205328,51.362978
 Bleijenhoek,2,,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.214084,51.365528
 Bleijenhoek,4,,,5531BM,Bladel,Bladel,Noord-Brabant,VBO,5.213942,51.365441
@@ -2538,6 +2538,19 @@ Burg. Van Houdtplein,14,,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219724,51.368
 Burg. Van Houdtplein,16,,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219632,51.367986
 Burg. Van Houdtplein,18,,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219555,51.367967
 Burg. Van Houdtplein,20,,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219847,51.367861
+Burg. Van Houdtplein,22,A,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219694,51.368498
+Burg. Van Houdtplein,22,B,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219838,51.368508
+Burg. Van Houdtplein,22,C,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219629,51.368459
+Burg. Van Houdtplein,22,D,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219615,51.368477
+Burg. Van Houdtplein,22,E,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219657,51.368485
+Burg. Van Houdtplein,22,G,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219740,51.368508
+Burg. Van Houdtplein,22,H,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219827,51.368526
+Burg. Van Houdtplein,22,J,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219763,51.368556
+Burg. Van Houdtplein,22,K,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219675,51.368533
+Burg. Van Houdtplein,22,M,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219683,51.368517
+Burg. Van Houdtplein,22,O,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219642,51.368508
+Burg. Van Houdtplein,22,P,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219628,51.368526
+Burg. Van Houdtplein,22,,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219584,51.368388
 Burg. Van Houdtplein,22,,,5531GN,Bladel,Bladel,Noord-Brabant,VBO,5.219711,51.368476
 Hoendernesten,2,,,5531GP,Bladel,Bladel,Noord-Brabant,VBO,5.229584,51.372522
 Hoendernesten,4,,,5531GP,Bladel,Bladel,Noord-Brabant,VBO,5.229891,51.372633
@@ -3716,10 +3729,9 @@ Laar,25,,,5531MT,Bladel,Bladel,Noord-Brabant,VBO,5.211638,51.365817
 Postelweg,1,A,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.206038,51.363561
 Postelweg,1,B,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.206008,51.363612
 Postelweg,1,,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.206080,51.363490
-Postelweg,2,,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.204269,51.364297
+Postelweg,2,,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.205723,51.363294
 Postelweg,3,A,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.205917,51.363643
 Postelweg,3,,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.205949,51.363714
-Postelweg,4,,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.204312,51.364509
 Postelweg,5,,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.205920,51.363764
 Postelweg,7,,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.205829,51.363920
 Postelweg,9,,,5531MV,Bladel,Bladel,Noord-Brabant,VBO,5.205787,51.363991
@@ -4275,7 +4287,7 @@ Beverdijcken,6,,,5531PV,Bladel,Bladel,Noord-Brabant,VBO,5.236680,51.374254
 Beverdijcken,8,,,5531PV,Bladel,Bladel,Noord-Brabant,VBO,5.235869,51.373788
 Beverdijcken,10,,,5531PV,Bladel,Bladel,Noord-Brabant,VBO,5.235240,51.373689
 Beverdijcken,13,,,5531PW,Bladel,Bladel,Noord-Brabant,VBO,5.234355,51.378174
-Beverdijcken,15,,,5531PW,Bladel,Bladel,Noord-Brabant,VBO,5.232642,51.377425
+Beverdijcken,15,,,5531PW,Bladel,Bladel,Noord-Brabant,VBO,5.232325,51.377399
 Beverdijcken,17,,,5531PW,Bladel,Bladel,Noord-Brabant,VBO,5.235198,51.376971
 Beverdijcken,23,,,5531PW,Bladel,Bladel,Noord-Brabant,VBO,5.232637,51.377434
 Lange Trekken,5,A,,5531PX,Bladel,Bladel,Noord-Brabant,VBO,5.232613,51.373796
