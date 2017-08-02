@@ -160,7 +160,6 @@ Oudedijk,84,B,,3062AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512640,51.925600
 Oudedijk,84,C,,3062AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512640,51.925600
 Oudedijk,86,A,,3062AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512640,51.925600
 Oudedijk,86,B,,3062AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512640,51.925600
-Oudedijk,86,C,,3062AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512640,51.925600
 Dillenburglaan,1,,,3062BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512016,51.928589
 Dillenburglaan,2,,,3062BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512027,51.928396
 Kralingse Plaslaan,34,,,3062BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512964,51.930009
@@ -310,7 +309,8 @@ Kralingseweg,209,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535025,51.92685
 Kralingseweg,211,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535025,51.926859
 Kralingseweg,213,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535298,51.926558
 Kralingseweg,215,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535298,51.926558
-Kralingseweg,217,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535298,51.926558
+Kralingseweg,217,A,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535298,51.926558
+Kralingseweg,217,B,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535298,51.926558
 Kralingseweg,219,B,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535621,51.926750
 Kralingseweg,219,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535550,51.926938
 Kralingseweg,221,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.535550,51.926938
@@ -319,6 +319,8 @@ Kralingseweg,225,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536326,51.92719
 Kralingseweg,227,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536326,51.927195
 Kralingseweg,229,A,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536326,51.927195
 Kralingseweg,229,B,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536326,51.927195
+Kralingseweg,231,A,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536440,51.927486
+Kralingseweg,231,B,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536440,51.927486
 Kralingseweg,231,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536440,51.927486
 Kralingseweg,233,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536440,51.927486
 Kralingseweg,235,,,3062CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.536440,51.927486
@@ -354,7 +356,7 @@ Langepad,35,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506485,51.935787
 Langepad,41,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506629,51.936048
 Langepad,43,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506794,51.936252
 Langepad,47,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506850,51.936494
-Langepad,51,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.507248,51.937074
+Langepad,51,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.507219,51.936906
 Langepad,55,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.507533,51.936525
 Langepad,60,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.505005,51.939612
 Langepad,63,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.507746,51.940098
@@ -701,8 +703,7 @@ Vredehofweg,14,B,02,3062EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516907,51.9258
 Vredehofweg,16,A,,3062EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516836,51.925845
 Vredehofweg,16,B,01,3062EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516836,51.925845
 Vredehofweg,16,B,02,3062EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516836,51.925845
-Vredehofweg,18,A,,3062EP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516762,51.925863
-Vredehofweg,18,B,,3062EP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516762,51.925863
+Vredehofweg,18,,,3062EP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516762,51.925863
 Vredehofweg,20,A,,3062EP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516690,51.925878
 Vredehofweg,20,B,01,3062EP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516690,51.925878
 Vredehofweg,20,B,02,3062EP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.516690,51.925878
@@ -744,7 +745,6 @@ Charlotte de Bourbonlaan,11,C,,3062GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.518
 Charlotte de Bourbonlaan,13,A,,3062GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.518865,51.926375
 Charlotte de Bourbonlaan,13,B,,3062GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.518865,51.926375
 Charlotte de Bourbonlaan,13,C,,3062GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.518865,51.926375
-Charlotte de Bourbonlaan,15,A,,3062GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.518799,51.926277
 Charlotte de Bourbonlaan,15,B,,3062GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.518799,51.926277
 Charlotte de Bourbonlaan,15,C,,3062GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.518799,51.926277
 Charlotte de Bourbonlaan,17,A,,3062GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.518733,51.926178
@@ -1066,8 +1066,6 @@ Kortekade,74,A,,3062GV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517623,51.926121
 Kortekade,74,B,02,3062GV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517623,51.926121
 Kortekade,74,B,03,3062GV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517623,51.926121
 Kortekade,76,A,,3062GV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517651,51.926168
-Kortekade,76,B,,3062GV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517651,51.926168
-Kortekade,76,C,,3062GV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517651,51.926168
 Kortekade,76,D,,3062GV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517651,51.926168
 Kortekade,76,E,,3062GV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517651,51.926168
 Kortekade,78,A,,3062GW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517677,51.926209
@@ -1488,8 +1486,7 @@ Vijverlaan,84,,,3062HM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517175,51.921600
 Vijverlaan,90,,,3062HM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517055,51.921341
 Vijverlaan,92,,,3062HM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517059,51.921284
 Vijverlaan,94,,,3062HM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.517064,51.921217
-Louise de Colignylaan,302,,0091,3062HN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.519713,51.925306
-Louise de Colignylaan,302,,,3062HN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.519954,51.924868
+Louise de Colignylaan,304,,,3062HN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.519954,51.924868
 Louise de Colignylaan,314,,,3062HN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.519954,51.924868
 Louise de Colignylaan,316,,,3062HN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.519954,51.924868
 Louise de Colignylaan,318,,,3062HN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.519954,51.924868
@@ -1664,6 +1661,7 @@ Hoflaan,81,,,3062JC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514719,51.921832
 Hoflaan,83,A,,3062JD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514623,51.921699
 Hoflaan,83,B,02,3062JD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514623,51.921699
 Hoflaan,83,B,03,3062JD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514623,51.921699
+Hoflaan,83,B,04,3062JD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514623,51.921699
 Hoflaan,85,A,02,3062JD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514597,51.921653
 Hoflaan,85,A,03,3062JD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514597,51.921653
 Hoflaan,85,B,,3062JD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514597,51.921653
@@ -1798,6 +1796,13 @@ Polanenstraat,15,A,02,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513801,51.92
 Polanenstraat,15,A,03,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513801,51.921404
 Polanenstraat,15,A,04,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513801,51.921404
 Polanenstraat,15,B,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513801,51.921404
+Polanenstraat,15,C,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513784,51.921584
+Polanenstraat,15,D,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513857,51.921573
+Polanenstraat,15,E,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513882,51.921478
+Polanenstraat,15,F,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513882,51.921478
+Polanenstraat,15,G,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513882,51.921478
+Polanenstraat,15,H,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513882,51.921478
+Polanenstraat,15,J,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514026,51.921509
 Polanenstraat,17,A,,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513744,51.921416
 Polanenstraat,17,B,01,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513744,51.921416
 Polanenstraat,17,B,02,3062KB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513744,51.921416
@@ -1935,12 +1940,7 @@ Voorschoterlaan,51,,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512433,51.923
 Voorschoterlaan,53,,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512387,51.923852
 Voorschoterlaan,55,,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512340,51.923802
 Voorschoterlaan,57,,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512270,51.923724
-Voorschoterlaan,61,A,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512179,51.923626
-Voorschoterlaan,61,B,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512179,51.923626
-Voorschoterlaan,61,C,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512179,51.923626
-Voorschoterlaan,61,D,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512179,51.923626
-Voorschoterlaan,61,E,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512179,51.923626
-Voorschoterlaan,61,F,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512179,51.923626
+Voorschoterlaan,61,,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512179,51.923626
 Voorschoterlaan,65,A,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512111,51.923555
 Voorschoterlaan,65,B,,3062KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512111,51.923555
 Voorschoterlaan,67,A,,3062KJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511857,51.923273
@@ -2144,6 +2144,7 @@ Voorschoterlaan,182,,,3062KW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.510753,51.92
 Voorschoterlaan,184,,,3062KW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.510753,51.920892
 Voorschoterlaan,186,,,3062KW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.510753,51.920892
 Voorschoterlaan,190,,,3062KW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.510705,51.920816
+Voorschoterstraat,7,,,3062KX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514627,51.924086
 Voorschoterstraat,8,,,3062KX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514440,51.923974
 Voorschoterstraat,10,,,3062KX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514440,51.923974
 Voorschoterstraat,11,,,3062KX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514558,51.924102
@@ -2333,6 +2334,7 @@ Avenue Concordia,120,B,,3062LP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512120,51.
 Avenue Concordia,124,,,3062LP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512059,51.920839
 Avenue Concordia,126,A,,3062LP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512026,51.920789
 Avenue Concordia,126,B,,3062LP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512026,51.920789
+Avenue Concordia,126,,,3062LP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.512026,51.920789
 Avenue Concordia,128,A,,3062LP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511999,51.920748
 Avenue Concordia,128,B,,3062LP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511999,51.920748
 Avenue Concordia,130,A,,3062LP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511970,51.920705
@@ -2655,114 +2657,15 @@ Honingerdijk,106,,,3062NX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.519647,51.91831
 Honingerdijk,110,,,3062NX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.519750,51.917271
 Burgemeester Oudlaan,50,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.525165,51.919055
 Burgemeester Oudlaan,100,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,102,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,104,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,106,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,108,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,110,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,112,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,114,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,116,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,118,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,120,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,122,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,124,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,126,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,128,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,130,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,132,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,134,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,136,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,138,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,140,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,142,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,144,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,146,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,148,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,150,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,152,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,154,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,156,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,158,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,160,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,162,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,164,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,166,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,168,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,170,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,172,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,174,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,176,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,178,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,180,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,182,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,184,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,186,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,188,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,190,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,192,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,194,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,196,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,198,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,200,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,202,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,204,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,206,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,208,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,210,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,212,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,214,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,216,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,218,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,220,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,222,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,224,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,226,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,228,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,230,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,232,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,234,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,236,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,238,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,240,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,242,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,244,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,246,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,248,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,250,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,252,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,256,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,258,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,260,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,262,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,264,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,266,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,268,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,270,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,272,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,274,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,276,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,278,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,280,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,282,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,284,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,286,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,288,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,290,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,292,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,294,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,296,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,298,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,300,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,302,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,304,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,306,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,308,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,310,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,312,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,314,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,316,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
-Burgemeester Oudlaan,318,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528396,51.918582
 Burgemeester Oudlaan,326,A,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528071,51.916987
 Burgemeester Oudlaan,326,B,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528071,51.916987
 Burgemeester Oudlaan,326,C,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528071,51.916987
@@ -2918,6 +2821,287 @@ Burgemeester Oudlaan,342,T,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.527891
 Burgemeester Oudlaan,344,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.527511,51.917036
 Burgemeester Oudlaan,350,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.525801,51.917336
 Burgemeester Oudlaan,394,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.523184,51.917463
+Burgemeester Oudlaan,400,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.523161,51.916745
+Burgemeester Oudlaan,450,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,452,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,454,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,456,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,458,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,460,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,462,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,464,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,466,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,468,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,470,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,472,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,474,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,476,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,478,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,480,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,482,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,484,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,486,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,488,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,490,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,492,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,494,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,496,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,498,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,500,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,502,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,504,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,506,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,508,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,510,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,512,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,514,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,516,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,518,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,520,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,522,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,524,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,526,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,528,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,530,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,532,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,534,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,536,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,538,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,540,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,542,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,544,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,546,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,548,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,550,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,552,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,554,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,556,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,558,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,560,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,562,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,564,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,566,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,568,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,570,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,572,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,574,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,576,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,578,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,580,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,582,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,584,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,586,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,588,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,590,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,592,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,594,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,596,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,598,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,600,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,602,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,604,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,606,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,608,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,610,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,612,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,614,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,616,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,618,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,620,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,622,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,624,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,626,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,628,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,630,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,632,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,634,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,636,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,638,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,640,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,642,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,644,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,646,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,648,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,650,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,652,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,654,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,656,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,658,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,660,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,662,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,664,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,666,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,668,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,670,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,672,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,674,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,676,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,678,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,680,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,682,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,684,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,686,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,688,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,690,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,692,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,694,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,696,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,698,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,700,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,702,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,704,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,706,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,708,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,710,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,712,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,714,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,716,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,718,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,720,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,722,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,724,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,726,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,728,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,730,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,732,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,734,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,736,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,738,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,740,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,742,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,744,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,746,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,748,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,750,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,752,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,754,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,756,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,758,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,760,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,762,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,764,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,766,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,768,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,770,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,772,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,774,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,776,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,778,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,780,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,782,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,784,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,786,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,788,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,790,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,792,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,794,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,796,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,798,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,800,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,802,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,804,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,806,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,808,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,810,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,812,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,814,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,816,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,818,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,820,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,822,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,824,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,826,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,828,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,830,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,832,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,834,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,836,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,838,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,840,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,842,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,844,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,846,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,848,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,850,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,852,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,854,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,856,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,858,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,860,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,862,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,864,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,866,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,868,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,870,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,872,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,874,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,876,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,878,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,880,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,882,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,884,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,886,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,888,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,890,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,892,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,894,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,896,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,898,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,900,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,902,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,904,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,906,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,908,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,910,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,912,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,914,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,916,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,918,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,920,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,922,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,924,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,926,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,928,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,930,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,932,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,934,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,936,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,938,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,940,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,942,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,944,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,946,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,948,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,950,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,952,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,954,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,956,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,958,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,960,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,962,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,964,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,966,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,968,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,970,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,972,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,974,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,976,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,978,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,980,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,982,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,984,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,986,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,988,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,990,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,992,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,994,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,996,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,998,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,1000,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,1002,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,1004,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,1006,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
+Burgemeester Oudlaan,1008,,,3062PA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522510,51.916168
 Groene Wetering,1,,,3062PB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.523128,51.920454
 Groene Wetering,7,,,3062PB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522574,51.920604
 Groene Wetering,9,,,3062PB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.522463,51.920597
@@ -3368,6 +3552,7 @@ Van Somerenweg,58,,,3062RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.521080,51.9208
 's-Gravenwetering,96,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,98,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,100,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
+'s-Gravenwetering,102,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,104,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,106,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,108,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
@@ -3420,12 +3605,10 @@ Van Somerenweg,58,,,3062RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.521080,51.9208
 's-Gravenwetering,232,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,236,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,238,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
-'s-Gravenwetering,240,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,242,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,244,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,246,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,248,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
-'s-Gravenwetering,250,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,252,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,254,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,256,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
@@ -3618,8 +3801,10 @@ Waterloostraat,97,B,01,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513998,51.9
 Waterloostraat,97,B,02,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513998,51.922672
 Waterloostraat,99,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513971,51.922631
 Waterloostraat,99,B,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513971,51.922631
+Waterloostraat,101,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513911,51.922533
 Waterloostraat,101,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513915,51.922530
 Waterloostraat,101,B,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513913,51.922532
+Waterloostraat,101,C,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513916,51.922535
 Waterloostraat,103,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513913,51.922532
 Waterloostraat,103,B,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513916,51.922533
 Waterloostraat,105,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513913,51.922534
@@ -3751,8 +3936,7 @@ Waterloostraat,28,B,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.515063,51.923
 Waterloostraat,30,A,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.515040,51.923922
 Waterloostraat,30,B,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.515040,51.923922
 Waterloostraat,32,,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.515016,51.923885
-Waterloostraat,34,A,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.515010,51.923858
-Waterloostraat,34,B,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.515010,51.923858
+Waterloostraat,34,,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.515010,51.923858
 Waterloostraat,36,,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514970,51.923814
 Waterloostraat,38,,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514957,51.923776
 Waterloostraat,40,,,3062TP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514932,51.923746
@@ -3847,8 +4031,7 @@ Waterloostraat,160,B,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513270,51.92
 Waterloostraat,160,C,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513270,51.921222
 Waterloostraat,160,D,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513270,51.921222
 Waterloostraat,164,,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513233,51.921155
-Waterloostraat,170,A,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513170,51.921059
-Waterloostraat,170,B,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513170,51.921059
+Waterloostraat,170,,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513170,51.921059
 Waterloostraat,172,A,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513146,51.921021
 Waterloostraat,172,B,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513146,51.921021
 Waterloostraat,174,A,,3062TX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513113,51.920971
@@ -4102,7 +4285,6 @@ Lusthofstraat,46,B,,3062WN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511588,51.9234
 Lusthofstraat,48,A,,3062WN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511517,51.923443
 Lusthofstraat,48,B,01,3062WN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511517,51.923443
 Lusthofstraat,48,B,02,3062WN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511517,51.923443
-Lusthofstraat,50,A,,3062WN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511451,51.923472
 Lusthofstraat,50,B,,3062WN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511451,51.923472
 Lusthofstraat,52,A,,3062WN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511386,51.923504
 Lusthofstraat,52,B,01,3062WN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.511386,51.923504
@@ -4464,10 +4646,9 @@ Tijs van Zeventerstraat,50,,,3062XP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.52829
 's-Gravenweg,271,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528154,51.922230
 's-Gravenweg,281,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528287,51.922139
 's-Gravenweg,283,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528496,51.922214
-'s-Gravenweg,283,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528647,51.922182
 's-Gravenweg,285,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528950,51.922160
 's-Gravenweg,287,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.529151,51.922153
-'s-Gravenweg,305,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.529641,51.921874
+'s-Gravenweg,305,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.529612,51.921881
 's-Gravenweg,309,,,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.530161,51.921975
 's-Gravenweg,313,,K001,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.529855,51.921677
 's-Gravenweg,313,,K002,3062ZG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.529835,51.921651

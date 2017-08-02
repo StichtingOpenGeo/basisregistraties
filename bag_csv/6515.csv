@@ -20,6 +20,7 @@ Stationsstraat,18,,,6515AB,Nijmegen,Nijmegen,Gelderland,VBO,5.836818,51.885551
 Stationsstraat,20,,,6515AB,Nijmegen,Nijmegen,Gelderland,VBO,5.837018,51.885637
 Stationsstraat,22,,,6515AB,Nijmegen,Nijmegen,Gelderland,VBO,5.837395,51.885716
 Stationsstraat,24,A,,6515AB,Nijmegen,Nijmegen,Gelderland,VBO,5.840732,51.883900
+Stationsstraat,24,B,,6515AB,Nijmegen,Nijmegen,Gelderland,VBO,5.837741,51.885465
 Stationsstraat,24,B,,6515AB,Nijmegen,Nijmegen,Gelderland,VBO,5.837974,51.885527
 Stationsstraat,24,,,6515AB,Nijmegen,Nijmegen,Gelderland,VBO,5.837813,51.885758
 Stationsstraat,26,,,6515AB,Nijmegen,Nijmegen,Gelderland,VBO,5.838855,51.886049
@@ -169,7 +170,6 @@ Koopmansweg,1,,,6515AK,Nijmegen,Nijmegen,Gelderland,VBO,5.843113,51.888868
 Koopmansweg,3,,,6515AK,Nijmegen,Nijmegen,Gelderland,VBO,5.842829,51.889565
 Koopmansweg,7,,,6515AK,Nijmegen,Nijmegen,Gelderland,VBO,5.843015,51.889949
 Koopmansweg,2,,,6515AL,Nijmegen,Nijmegen,Gelderland,VBO,5.844154,51.889200
-Koopmansweg,4,A,,6515AL,Nijmegen,Nijmegen,Gelderland,VBO,5.844219,51.889615
 Koopmansweg,4,,,6515AL,Nijmegen,Nijmegen,Gelderland,VBO,5.844229,51.889639
 Koopmansweg,6,,,6515AL,Nijmegen,Nijmegen,Gelderland,VBO,5.844014,51.889867
 Halve Weg,1,,,6515AM,Nijmegen,Nijmegen,Gelderland,VBO,5.836352,51.890142
@@ -211,6 +211,7 @@ Rondweg,33,,,6515AS,Nijmegen,Nijmegen,Gelderland,VBO,5.838336,51.889407
 Rondweg,35,,,6515AS,Nijmegen,Nijmegen,Gelderland,VBO,5.838336,51.889407
 Keizer Augustusplein,3,,,6515AT,Nijmegen,Nijmegen,Gelderland,VBO,5.860056,51.882785
 Willem van Arenbergstraat,4,,,6515AT,Nijmegen,Nijmegen,Gelderland,VBO,5.861534,51.880028
+Willem van Arenbergstraat,6,,,6515AT,Lent,Nijmegen,Gelderland,VBO,5.862632,51.879172
 Hoeksehofstraat,9,,,6515AV,Nijmegen,Nijmegen,Gelderland,VBO,5.862351,51.888502
 Zwarteweg,3,,,6515AW,Nijmegen,Nijmegen,Gelderland,VBO,5.864830,51.885457
 Woerdsestraat,4,A,,6515AX,Nijmegen,Nijmegen,Gelderland,VBO,5.873632,51.885035
@@ -1267,7 +1268,7 @@ Volsellastraat,62,,,6515DZ,Nijmegen,Nijmegen,Gelderland,VBO,5.847877,51.874183
 Volsellastraat,64,,,6515DZ,Nijmegen,Nijmegen,Gelderland,VBO,5.847920,51.873986
 Oude Groenestraat,1,,,6515EA,Nijmegen,Nijmegen,Gelderland,VBO,5.833604,51.874487
 Oude Groenestraat,3,,,6515EA,Nijmegen,Nijmegen,Gelderland,VBO,5.833604,51.874487
-Oude Groenestraat,11,,,6515EA,Nijmegen,Nijmegen,Gelderland,VBO,5.834759,51.875972
+Oude Groenestraat,11,,,6515EA,Nijmegen,Nijmegen,Gelderland,VBO,5.834771,51.876069
 Oude Groenestraat,15,,,6515EA,Nijmegen,Nijmegen,Gelderland,VBO,5.835455,51.876967
 Oude Groenestraat,17,,,6515EA,Nijmegen,Nijmegen,Gelderland,VBO,5.835474,51.877018
 Oude Groenestraat,19,,,6515EA,Nijmegen,Nijmegen,Gelderland,VBO,5.835532,51.877125
@@ -1342,6 +1343,7 @@ Oude Groenestraat,52,,,6515ED,Nijmegen,Nijmegen,Gelderland,VBO,5.836332,51.87877
 Oude Groenestraat,54,,,6515ED,Nijmegen,Nijmegen,Gelderland,VBO,5.836371,51.878819
 Oude Groenestraat,56,,,6515ED,Nijmegen,Nijmegen,Gelderland,VBO,5.836416,51.878864
 Oude Groenestraat,58,,,6515ED,Nijmegen,Nijmegen,Gelderland,VBO,5.837138,51.879585
+Oude Groenestraat,60,A,,6515ED,Nijmegen,Nijmegen,Gelderland,VBO,5.837406,51.879924
 Oude Groenestraat,60,,,6515ED,Nijmegen,Nijmegen,Gelderland,VBO,5.837163,51.879844
 Oude Groenestraat,62,,,6515ED,Nijmegen,Nijmegen,Gelderland,VBO,5.837596,51.880069
 Oude Groenestraat,64,,,6515ED,Nijmegen,Nijmegen,Gelderland,VBO,5.837797,51.880193
@@ -1938,6 +1940,9 @@ Kruidenstraat,4,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.838945,51.881764
 Kruidenstraat,6,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.838870,51.881739
 Kruidenstraat,8,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.838736,51.881676
 Kruidenstraat,10,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.838662,51.881641
+Kruidenstraat,30,A,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.836800,51.880623
+Kruidenstraat,30,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.836867,51.880587
+Kruidenstraat,32,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.836625,51.880710
 Kruidenstraat,34,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.836493,51.880546
 Kruidenstraat,36,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.836729,51.880453
 Kruidenstraat,38,A,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.836216,51.880049
@@ -1948,9 +1953,11 @@ Kruidenstraat,42,A,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835866,51.880173
 Kruidenstraat,42,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835935,51.880147
 Kruidenstraat,44,A,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835653,51.880254
 Kruidenstraat,44,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835719,51.880226
+Kruidenstraat,46,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835395,51.879103
 Kruidenstraat,48,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835223,51.879192
 Kruidenstraat,50,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835059,51.879049
 Kruidenstraat,52,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835295,51.878941
+Kruidenstraat,54,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.835094,51.878737
 Kruidenstraat,56,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.834843,51.878823
 Kruidenstraat,58,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.834701,51.878701
 Kruidenstraat,60,,,6515HS,Nijmegen,Nijmegen,Gelderland,VBO,5.834948,51.878599
@@ -1964,6 +1971,8 @@ Kruidenstraat,74,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.834588,51.878900
 Kruidenstraat,76,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.834363,51.879008
 Kruidenstraat,78,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.834574,51.879186
 Kruidenstraat,80,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.834820,51.879108
+Kruidenstraat,82,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.834933,51.879253
+Kruidenstraat,84,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.834721,51.879347
 Kruidenstraat,86,A,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.835893,51.880404
 Kruidenstraat,86,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.835817,51.880427
 Kruidenstraat,88,A,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.836107,51.880328
@@ -1974,6 +1983,9 @@ Kruidenstraat,92,A,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.836457,51.880200
 Kruidenstraat,92,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.836382,51.880224
 Kruidenstraat,94,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.836150,51.880719
 Kruidenstraat,96,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.836370,51.880630
+Kruidenstraat,98,A,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.836377,51.880828
+Kruidenstraat,98,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.836557,51.880747
+Kruidenstraat,100,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.836304,51.880863
 Kruidenstraat,102,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.837558,51.882138
 Kruidenstraat,104,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.837606,51.882185
 Kruidenstraat,106,,,6515HT,Nijmegen,Nijmegen,Gelderland,VBO,5.837698,51.882292
@@ -2043,17 +2055,19 @@ Venkelstraat,33,,,6515HX,Nijmegen,Nijmegen,Gelderland,VBO,5.837383,51.881962
 Waaldijk,49,,,6515JA,Nijmegen,Nijmegen,Gelderland,VBO,5.839300,51.873856
 Waaldijk,50,,,6515JA,Nijmegen,Nijmegen,Gelderland,VBO,5.839080,51.874518
 van Boetzelaerstraat,1,A,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.849086,51.873630
+van Boetzelaerstraat,1,B,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.849640,51.873593
 van Boetzelaerstraat,1,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.849979,51.873486
 van Boetzelaerstraat,8,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.839239,51.874879
 van Boetzelaerstraat,10,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.835143,51.875947
 van Boetzelaerstraat,12,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.835143,51.875947
 van Boetzelaerstraat,14,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.834936,51.875845
+van Boetzelaerstraat,16,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.834745,51.875896
 van Boetzelaerstraat,23,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.845319,51.873469
 van Boetzelaerstraat,25,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.844937,51.873408
 van Boetzelaerstraat,27,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.844845,51.873758
-van Boetzelaerstraat,29,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.845153,51.873802
+van Boetzelaerstraat,29,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.845120,51.873789
 van Boetzelaerstraat,31,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.845256,51.873776
-van Boetzelaerstraat,33,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.845273,51.873752
+van Boetzelaerstraat,33,,,6515JD,Nijmegen,Nijmegen,Gelderland,VBO,5.845270,51.873694
 Ligulastraat,1,,,6515JE,Nijmegen,Nijmegen,Gelderland,VBO,5.844852,51.875256
 Ligulastraat,3,,,6515JE,Nijmegen,Nijmegen,Gelderland,VBO,5.844771,51.875264
 Ligulastraat,5,,,6515JE,Nijmegen,Nijmegen,Gelderland,VBO,5.844694,51.875272
@@ -2282,16 +2296,31 @@ Grote Boel,19,A,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852029,51.875248
 Grote Boel,19,B,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852324,51.875420
 Grote Boel,19,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851777,51.875107
 Grote Boel,21,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852571,51.875562
+Grote Boel,22,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852900,51.876308
 Grote Boel,23,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852636,51.875597
+Grote Boel,24,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852708,51.876469
 Grote Boel,25,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852786,51.875687
+Grote Boel,26,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852657,51.876507
 Grote Boel,27,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852847,51.875723
+Grote Boel,28,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852584,51.876541
 Grote Boel,29,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852990,51.875818
+Grote Boel,30,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852552,51.876579
 Grote Boel,31,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852729,51.876006
+Grote Boel,32,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852497,51.876614
 Grote Boel,33,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852674,51.876047
+Grote Boel,34,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852443,51.876649
 Grote Boel,35,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852580,51.876117
+Grote Boel,36,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852392,51.876687
 Grote Boel,37,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852523,51.876151
+Grote Boel,38,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852303,51.876755
 Grote Boel,39,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852469,51.876186
+Grote Boel,40,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852270,51.876802
 Grote Boel,41,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852412,51.876228
+Grote Boel,42,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852227,51.876843
+Grote Boel,44,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852180,51.876884
+Grote Boel,46,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852087,51.876957
+Grote Boel,48,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852075,51.877004
+Grote Boel,50,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.852041,51.877047
 Grote Boel,52,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851850,51.877287
 Grote Boel,54,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851832,51.877334
 Grote Boel,56,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851815,51.877377
@@ -2320,12 +2349,35 @@ Grote Boel,80,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851738,51.877985
 Grote Boel,81,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851353,51.877285
 Grote Boel,82,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851743,51.878031
 Grote Boel,83,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851205,51.877356
+Grote Boel,84,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851795,51.878113
 Grote Boel,85,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851184,51.877399
+Grote Boel,86,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851807,51.878167
 Grote Boel,87,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851155,51.877445
+Grote Boel,88,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851827,51.878217
 Grote Boel,89,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851143,51.877493
+Grote Boel,90,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851837,51.878265
 Grote Boel,91,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851155,51.877541
+Grote Boel,92,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851864,51.878307
 Grote Boel,93,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851138,51.877590
+Grote Boel,94,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851932,51.878517
 Grote Boel,95,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.850948,51.877679
+Grote Boel,97,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851223,51.877706
+Grote Boel,99,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851223,51.877757
+Grote Boel,101,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851222,51.877806
+Grote Boel,103,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851224,51.877854
+Grote Boel,105,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851221,51.877904
+Grote Boel,107,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851237,51.878051
+Grote Boel,109,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851253,51.878102
+Grote Boel,111,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851264,51.878152
+Grote Boel,113,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851268,51.878208
+Grote Boel,115,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851290,51.878248
+Grote Boel,117,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851304,51.878298
+Grote Boel,119,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851331,51.878379
+Grote Boel,121,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851365,51.878422
+Grote Boel,123,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851387,51.878469
+Grote Boel,125,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851412,51.878515
+Grote Boel,127,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851436,51.878561
+Grote Boel,129,,,6515XA,Nijmegen,Nijmegen,Gelderland,VBO,5.851462,51.878609
 Annie M.G. Schmidthof,1,,,6515XB,Nijmegen,Nijmegen,Gelderland,VBO,5.851985,51.875299
 Annie M.G. Schmidthof,2,,,6515XB,Nijmegen,Nijmegen,Gelderland,VBO,5.851922,51.875337
 Annie M.G. Schmidthof,3,,,6515XB,Nijmegen,Nijmegen,Gelderland,VBO,5.851865,51.875376
@@ -2378,6 +2430,19 @@ Roald Dahlhof,6,,,6515XD,Nijmegen,Nijmegen,Gelderland,VBO,5.850841,51.877057
 Roald Dahlhof,7,,,6515XD,Nijmegen,Nijmegen,Gelderland,VBO,5.850928,51.877076
 Roald Dahlhof,8,,,6515XD,Nijmegen,Nijmegen,Gelderland,VBO,5.851018,51.877089
 Roald Dahlhof,9,,,6515XD,Nijmegen,Nijmegen,Gelderland,VBO,5.851098,51.877099
+Max Velthuijshof,1,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850962,51.877870
+Max Velthuijshof,2,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850883,51.877866
+Max Velthuijshof,3,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850804,51.877863
+Max Velthuijshof,4,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850726,51.877861
+Max Velthuijshof,5,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850648,51.877859
+Max Velthuijshof,6,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850568,51.877860
+Max Velthuijshof,7,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850491,51.878071
+Max Velthuijshof,8,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850571,51.878076
+Max Velthuijshof,9,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850649,51.878078
+Max Velthuijshof,10,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850728,51.878080
+Max Velthuijshof,11,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850806,51.878082
+Max Velthuijshof,12,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850884,51.878084
+Max Velthuijshof,13,,,6515XE,Nijmegen,Nijmegen,Gelderland,VBO,5.850964,51.878084
 Simone de Beauvoirstraat,2,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.850321,51.878548
 Simone de Beauvoirstraat,4,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.850398,51.878561
 Simone de Beauvoirstraat,6,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.850476,51.878568
@@ -2388,6 +2453,16 @@ Simone de Beauvoirstraat,14,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.850878,5
 Simone de Beauvoirstraat,16,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.850955,51.878603
 Simone de Beauvoirstraat,18,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.851033,51.878609
 Simone de Beauvoirstraat,20,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.851113,51.878609
+Simone de Beauvoirstraat,22,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852017,51.878501
+Simone de Beauvoirstraat,24,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852100,51.878485
+Simone de Beauvoirstraat,26,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852183,51.878469
+Simone de Beauvoirstraat,28,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852268,51.878453
+Simone de Beauvoirstraat,30,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852415,51.878417
+Simone de Beauvoirstraat,32,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852488,51.878394
+Simone de Beauvoirstraat,34,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852558,51.878371
+Simone de Beauvoirstraat,36,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852627,51.878349
+Simone de Beauvoirstraat,38,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852697,51.878327
+Simone de Beauvoirstraat,40,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852770,51.878303
 Simone de Beauvoirstraat,44,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852908,51.878256
 Simone de Beauvoirstraat,46,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.852975,51.878228
 Simone de Beauvoirstraat,48,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.853043,51.878202
@@ -2408,6 +2483,59 @@ Simone de Beauvoirstraat,76,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.854304,5
 Simone de Beauvoirstraat,78,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.854380,51.877579
 Simone de Beauvoirstraat,80,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.854449,51.877554
 Simone de Beauvoirstraat,82,,,6515XG,Nijmegen,Nijmegen,Gelderland,VBO,5.854523,51.877533
+Simone de Beauvoirstraat,1,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850273,51.878746
+Simone de Beauvoirstraat,3,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850331,51.878786
+Simone de Beauvoirstraat,5,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850388,51.878822
+Simone de Beauvoirstraat,7,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850432,51.878860
+Simone de Beauvoirstraat,9,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850494,51.878893
+Simone de Beauvoirstraat,11,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850538,51.878935
+Simone de Beauvoirstraat,13,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850616,51.878990
+Simone de Beauvoirstraat,15,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850671,51.879025
+Simone de Beauvoirstraat,17,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850717,51.879066
+Simone de Beauvoirstraat,19,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850768,51.879103
+Simone de Beauvoirstraat,21,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850821,51.879139
+Simone de Beauvoirstraat,23,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.850871,51.879177
+Simone de Beauvoirstraat,25,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.851179,51.879091
+Simone de Beauvoirstraat,27,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.851182,51.879040
+Simone de Beauvoirstraat,29,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.851181,51.878991
+Simone de Beauvoirstraat,31,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.851181,51.878943
+Simone de Beauvoirstraat,33,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.851178,51.878894
+Simone de Beauvoirstraat,35,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.851180,51.878843
+Simone de Beauvoirstraat,37,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.851634,51.878829
+Simone de Beauvoirstraat,41,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.852797,51.878640
+Simone de Beauvoirstraat,43,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.852872,51.878613
+Simone de Beauvoirstraat,45,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.852944,51.878587
+Simone de Beauvoirstraat,47,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853009,51.878560
+Simone de Beauvoirstraat,49,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853072,51.878538
+Simone de Beauvoirstraat,51,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853161,51.878508
+Simone de Beauvoirstraat,53,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853275,51.878463
+Simone de Beauvoirstraat,55,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853342,51.878428
+Simone de Beauvoirstraat,57,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853414,51.878389
+Simone de Beauvoirstraat,59,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853477,51.878356
+Simone de Beauvoirstraat,61,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853540,51.878323
+Simone de Beauvoirstraat,63,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853603,51.878289
+Simone de Beauvoirstraat,65,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853669,51.878255
+Simone de Beauvoirstraat,67,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853872,51.878137
+Simone de Beauvoirstraat,69,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.853941,51.878101
+Simone de Beauvoirstraat,71,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854000,51.878073
+Simone de Beauvoirstraat,73,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854059,51.878045
+Simone de Beauvoirstraat,75,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854115,51.878016
+Simone de Beauvoirstraat,77,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854177,51.877988
+Simone de Beauvoirstraat,79,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854353,51.877913
+Simone de Beauvoirstraat,81,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854419,51.877893
+Simone de Beauvoirstraat,83,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854492,51.877867
+Simone de Beauvoirstraat,85,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854561,51.877843
+Simone de Beauvoirstraat,87,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854629,51.877820
+Simone de Beauvoirstraat,89,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854697,51.877795
+Simone de Beauvoirstraat,91,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854767,51.877771
+Simone de Beauvoirstraat,93,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.854933,51.877724
+Simone de Beauvoirstraat,95,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.855007,51.877706
+Simone de Beauvoirstraat,97,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.855082,51.877691
+Simone de Beauvoirstraat,99,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.855155,51.877674
+Simone de Beauvoirstraat,101,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.855229,51.877657
+Simone de Beauvoirstraat,103,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.855305,51.877639
+Simone de Beauvoirstraat,105,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.855386,51.877635
+Simone de Beauvoirstraat,107,,,6515XH,Nijmegen,Nijmegen,Gelderland,VBO,5.855458,51.877616
 Hugo Clausstraat,2,,,6515XJ,Nijmegen,Nijmegen,Gelderland,VBO,5.853033,51.877836
 Hugo Clausstraat,3,,,6515XJ,Nijmegen,Nijmegen,Gelderland,VBO,5.853281,51.877699
 Hugo Clausstraat,4,,,6515XJ,Nijmegen,Nijmegen,Gelderland,VBO,5.852965,51.877809
@@ -2416,6 +2544,7 @@ Hugo Clausstraat,6,,,6515XJ,Nijmegen,Nijmegen,Gelderland,VBO,5.852905,51.877778
 Hugo Clausstraat,7,,,6515XJ,Nijmegen,Nijmegen,Gelderland,VBO,5.853167,51.877636
 Hugo Clausstraat,8,,,6515XJ,Nijmegen,Nijmegen,Gelderland,VBO,5.852841,51.877748
 Hugo Clausstraat,9,,,6515XJ,Nijmegen,Nijmegen,Gelderland,VBO,5.853109,51.877609
+Ingrid Jonkerstraat,2,,,6515XK,Nijmegen,Nijmegen,Gelderland,VBO,5.852004,51.877092
 Ingrid Jonkerstraat,3,,,6515XK,Nijmegen,Nijmegen,Gelderland,VBO,5.852247,51.877449
 Ingrid Jonkerstraat,4,,,6515XK,Nijmegen,Nijmegen,Gelderland,VBO,5.852349,51.877237
 Ingrid Jonkerstraat,5,,,6515XK,Nijmegen,Nijmegen,Gelderland,VBO,5.852310,51.877479
@@ -2454,13 +2583,109 @@ Kleine Boel,49,,,6515XL,Nijmegen,Nijmegen,Gelderland,VBO,5.853500,51.877105
 Kleine Boel,51,,,6515XL,Nijmegen,Nijmegen,Gelderland,VBO,5.853544,51.877068
 Kleine Boel,53,,,6515XL,Nijmegen,Nijmegen,Gelderland,VBO,5.853592,51.877032
 Kleine Boel,55,,,6515XL,Nijmegen,Nijmegen,Gelderland,VBO,5.853636,51.876992
+Brink,2,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852456,51.878704
+Brink,3,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851653,51.878882
+Brink,4,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852483,51.878755
+Brink,5,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851672,51.878932
+Brink,6,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852496,51.878810
+Brink,7,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851691,51.878982
+Brink,8,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852538,51.878902
+Brink,9,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851711,51.879032
+Brink,10,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852566,51.878953
+Brink,11,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851733,51.879083
+Brink,12,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852582,51.879007
 Brink,13,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851771,51.879165
+Brink,14,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852607,51.879060
 Brink,15,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851767,51.879216
+Brink,16,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852667,51.879144
 Brink,17,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851774,51.879264
+Brink,18,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852694,51.879195
 Brink,19,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851783,51.879312
+Brink,20,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.852721,51.879246
 Brink,21,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851803,51.879364
 Brink,23,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851799,51.879409
 Brink,25,,,6515XM,Nijmegen,Nijmegen,Gelderland,VBO,5.851813,51.879459
+Lucebertstraat,1,,,6515XN,Nijmegen,Nijmegen,Gelderland,VBO,5.853609,51.876723
+Lucebertstraat,3,,,6515XN,Nijmegen,Nijmegen,Gelderland,VBO,5.853904,51.877175
+Lucebertstraat,5,,,6515XN,Nijmegen,Nijmegen,Gelderland,VBO,5.853962,51.877211
+Lucebertstraat,7,,,6515XN,Nijmegen,Nijmegen,Gelderland,VBO,5.854023,51.877248
+Lucebertstraat,9,,,6515XN,Nijmegen,Nijmegen,Gelderland,VBO,5.854084,51.877277
+Lucebertstraat,11,,,6515XN,Nijmegen,Nijmegen,Gelderland,VBO,5.854133,51.877310
+Lucebertstraat,13,,,6515XN,Nijmegen,Nijmegen,Gelderland,VBO,5.854194,51.877344
+Louis Paul Boonstraat,3,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.852959,51.876342
+Louis Paul Boonstraat,5,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853015,51.876377
+Louis Paul Boonstraat,7,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853072,51.876410
+Louis Paul Boonstraat,9,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853131,51.876443
+Louis Paul Boonstraat,11,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853197,51.876475
+Louis Paul Boonstraat,13,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853320,51.876554
+Louis Paul Boonstraat,15,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853379,51.876588
+Louis Paul Boonstraat,17,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853445,51.876624
+Louis Paul Boonstraat,19,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853492,51.876656
+Louis Paul Boonstraat,21,,,6515XP,Nijmegen,Nijmegen,Gelderland,VBO,5.853551,51.876689
+Renate Rubinsteinstraat,3,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855565,51.877907
+Renate Rubinsteinstraat,4,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855751,51.878130
+Renate Rubinsteinstraat,5,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855490,51.877923
+Renate Rubinsteinstraat,6,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855679,51.878144
+Renate Rubinsteinstraat,7,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855409,51.877948
+Renate Rubinsteinstraat,8,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855592,51.878160
+Renate Rubinsteinstraat,9,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855343,51.877958
+Renate Rubinsteinstraat,10,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855256,51.878196
+Renate Rubinsteinstraat,11,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855256,51.877982
+Renate Rubinsteinstraat,12,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855278,51.878252
+Renate Rubinsteinstraat,13,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854942,51.878057
+Renate Rubinsteinstraat,14,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855307,51.878295
+Renate Rubinsteinstraat,15,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854866,51.878074
+Renate Rubinsteinstraat,16,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855340,51.878346
+Renate Rubinsteinstraat,17,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854793,51.878091
+Renate Rubinsteinstraat,18,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855374,51.878381
+Renate Rubinsteinstraat,19,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854720,51.878109
+Renate Rubinsteinstraat,20,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855402,51.878427
+Renate Rubinsteinstraat,21,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854635,51.878132
+Renate Rubinsteinstraat,22,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855417,51.878478
+Renate Rubinsteinstraat,23,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854517,51.878274
+Renate Rubinsteinstraat,24,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855774,51.878452
+Renate Rubinsteinstraat,25,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854545,51.878324
+Renate Rubinsteinstraat,26,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855866,51.878431
+Renate Rubinsteinstraat,27,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854584,51.878361
+Renate Rubinsteinstraat,28,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855938,51.878407
+Renate Rubinsteinstraat,29,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854602,51.878412
+Renate Rubinsteinstraat,31,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854624,51.878458
+Renate Rubinsteinstraat,33,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854721,51.878599
+Renate Rubinsteinstraat,35,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854731,51.878649
+Renate Rubinsteinstraat,37,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854752,51.878695
+Renate Rubinsteinstraat,39,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854768,51.878743
+Renate Rubinsteinstraat,41,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.854784,51.878791
+Renate Rubinsteinstraat,43,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855073,51.878715
+Renate Rubinsteinstraat,45,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855161,51.878701
+Renate Rubinsteinstraat,47,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855239,51.878697
+Renate Rubinsteinstraat,49,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855317,51.878690
+Renate Rubinsteinstraat,51,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855388,51.878685
+Renate Rubinsteinstraat,53,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855474,51.878677
+Renate Rubinsteinstraat,55,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855604,51.878674
+Renate Rubinsteinstraat,57,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855686,51.878673
+Renate Rubinsteinstraat,59,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855765,51.878677
+Renate Rubinsteinstraat,61,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855843,51.878678
+Renate Rubinsteinstraat,63,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.855921,51.878679
+Renate Rubinsteinstraat,65,,,6515XR,Nijmegen,Nijmegen,Gelderland,VBO,5.856004,51.878681
+Marten Toonderstraat,4,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854050,51.878238
+Marten Toonderstraat,6,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854076,51.878279
+Marten Toonderstraat,8,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854092,51.878325
+Marten Toonderstraat,10,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854117,51.878369
+Marten Toonderstraat,12,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854135,51.878406
+Marten Toonderstraat,14,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854175,51.878440
+Marten Toonderstraat,16,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854192,51.878488
+Marten Toonderstraat,18,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854224,51.878521
+Marten Toonderstraat,20,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854250,51.878562
+Marten Toonderstraat,22,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854207,51.878697
+Marten Toonderstraat,24,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854117,51.878710
+Marten Toonderstraat,26,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.854048,51.878712
+Marten Toonderstraat,28,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.853959,51.878719
+Marten Toonderstraat,30,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.853894,51.878730
+Marten Toonderstraat,32,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.853805,51.878733
+Marten Toonderstraat,34,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.853738,51.878740
+Marten Toonderstraat,36,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.853650,51.878742
+Marten Toonderstraat,38,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.853583,51.878753
+Marten Toonderstraat,40,,,6515XS,Nijmegen,Nijmegen,Gelderland,VBO,5.853501,51.878762
 Simon Carmiggeltstraat,22,,,6515ZA,Nijmegen,Nijmegen,Gelderland,VBO,5.853183,51.881469
 Simon Carmiggeltstraat,24,,,6515ZA,Nijmegen,Nijmegen,Gelderland,VBO,5.853264,51.881468
 Simon Carmiggeltstraat,26,,,6515ZA,Nijmegen,Nijmegen,Gelderland,VBO,5.853345,51.881468
@@ -2496,14 +2721,44 @@ García Lorcastraat,6,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853354,51.8798
 García Lorcastraat,8,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853354,51.879881
 García Lorcastraat,10,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853352,51.879929
 García Lorcastraat,12,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853350,51.879977
+García Lorcastraat,14,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853382,51.880268
+García Lorcastraat,16,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853377,51.880318
+García Lorcastraat,18,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853372,51.880366
+García Lorcastraat,20,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853347,51.880449
+García Lorcastraat,22,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853317,51.880497
+García Lorcastraat,24,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853290,51.880544
+García Lorcastraat,26,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853252,51.880585
+García Lorcastraat,28,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853219,51.880666
+García Lorcastraat,30,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853197,51.880716
+García Lorcastraat,32,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853178,51.880759
+García Lorcastraat,34,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853150,51.880964
+García Lorcastraat,36,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853164,51.881016
+García Lorcastraat,38,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853162,51.881067
+García Lorcastraat,40,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853140,51.881133
+García Lorcastraat,42,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853161,51.881191
+García Lorcastraat,44,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853172,51.881241
+García Lorcastraat,46,,,6515ZE,Nijmegen,Nijmegen,Gelderland,VBO,5.853170,51.881287
+Pablo Nerudastraat,1,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853889,51.880288
+Pablo Nerudastraat,3,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853887,51.880334
+Pablo Nerudastraat,5,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853881,51.880382
+Pablo Nerudastraat,7,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853860,51.880486
+Pablo Nerudastraat,9,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853837,51.880531
 Pablo Nerudastraat,10,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.854391,51.880455
+Pablo Nerudastraat,11,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853817,51.880579
 Pablo Nerudastraat,12,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.854427,51.880499
+Pablo Nerudastraat,13,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853793,51.880625
 Pablo Nerudastraat,14,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.854454,51.880545
+Pablo Nerudastraat,15,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853770,51.880670
 Pablo Nerudastraat,16,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.854484,51.880587
+Pablo Nerudastraat,17,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853769,51.880763
 Pablo Nerudastraat,18,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.854501,51.880690
+Pablo Nerudastraat,19,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853801,51.880810
 Pablo Nerudastraat,20,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.854490,51.880738
+Pablo Nerudastraat,21,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853820,51.880853
 Pablo Nerudastraat,22,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.854478,51.880786
+Pablo Nerudastraat,23,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853852,51.880901
 Pablo Nerudastraat,24,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.854465,51.880837
+Pablo Nerudastraat,25,,,6515ZG,Nijmegen,Nijmegen,Gelderland,VBO,5.853877,51.880948
 Ananta Toerstraat,1,,,6515ZH,Nijmegen,Nijmegen,Gelderland,VBO,5.854942,51.879464
 Ananta Toerstraat,3,,,6515ZH,Nijmegen,Nijmegen,Gelderland,VBO,5.854949,51.879513
 Ananta Toerstraat,5,,,6515ZH,Nijmegen,Nijmegen,Gelderland,VBO,5.854950,51.879563
@@ -2527,7 +2782,9 @@ Ananta Toerstraat,39,,,6515ZH,Nijmegen,Nijmegen,Gelderland,VBO,5.855286,51.88073
 Ananta Toerstraat,41,,,6515ZH,Nijmegen,Nijmegen,Gelderland,VBO,5.855422,51.880891
 Ananta Toerstraat,43,,,6515ZH,Nijmegen,Nijmegen,Gelderland,VBO,5.855461,51.880935
 Ananta Toerstraat,45,,,6515ZH,Nijmegen,Nijmegen,Gelderland,VBO,5.855512,51.880974
+Gabriel García Márquezstraat,1,,,6515ZK,Nijmegen,Nijmegen,Gelderland,VBO,5.853403,51.880211
 Gabriel García Márquezstraat,2,,,6515ZK,Nijmegen,Nijmegen,Gelderland,VBO,5.853690,51.879980
+Gabriel García Márquezstraat,3,,,6515ZK,Nijmegen,Nijmegen,Gelderland,VBO,5.853880,51.880226
 Gabriel García Márquezstraat,4,,,6515ZK,Nijmegen,Nijmegen,Gelderland,VBO,5.853777,51.879980
 Gabriel García Márquezstraat,6,,,6515ZK,Nijmegen,Nijmegen,Gelderland,VBO,5.853949,51.879983
 Gabriel García Márquezstraat,7,,,6515ZK,Nijmegen,Nijmegen,Gelderland,VBO,5.854838,51.880176
@@ -2556,3 +2813,70 @@ Heinrich Böllstraat,63,,,6515ZL,Nijmegen,Nijmegen,Gelderland,VBO,5.854697,51.87
 Heinrich Böllstraat,65,,,6515ZL,Nijmegen,Nijmegen,Gelderland,VBO,5.854779,51.879275
 Heinrich Böllstraat,67,,,6515ZL,Nijmegen,Nijmegen,Gelderland,VBO,5.854860,51.879265
 Heinrich Böllstraat,69,,,6515ZL,Nijmegen,Nijmegen,Gelderland,VBO,5.854938,51.879261
+Heinrich Böllstraat,2,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.850481,51.879938
+Heinrich Böllstraat,4,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.850655,51.879866
+Heinrich Böllstraat,6,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.850730,51.879834
+Heinrich Böllstraat,8,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.850903,51.879758
+Heinrich Böllstraat,10,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.850974,51.879725
+Heinrich Böllstraat,12,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.851157,51.879655
+Heinrich Böllstraat,14,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.851232,51.879623
+Heinrich Böllstraat,16,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.851387,51.879571
+Heinrich Böllstraat,18,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.851460,51.879546
+Heinrich Böllstraat,22,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.853149,51.879121
+Heinrich Böllstraat,24,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.853243,51.879092
+Heinrich Böllstraat,26,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.853415,51.879080
+Heinrich Böllstraat,28,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.853513,51.879054
+Heinrich Böllstraat,30,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.853683,51.879045
+Heinrich Böllstraat,32,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.853780,51.879027
+Heinrich Böllstraat,34,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.853962,51.879011
+Heinrich Böllstraat,36,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854043,51.879008
+Heinrich Böllstraat,38,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854131,51.878999
+Heinrich Böllstraat,40,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854306,51.878985
+Heinrich Böllstraat,42,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854408,51.878972
+Heinrich Böllstraat,44,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854561,51.878985
+Heinrich Böllstraat,46,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854644,51.878983
+Heinrich Böllstraat,48,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854722,51.878981
+Heinrich Böllstraat,50,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854800,51.878981
+Heinrich Böllstraat,52,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.854883,51.878977
+Heinrich Böllstraat,54,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855238,51.878974
+Heinrich Böllstraat,56,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855320,51.878980
+Heinrich Böllstraat,58,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855399,51.878981
+Heinrich Böllstraat,60,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855477,51.878984
+Heinrich Böllstraat,62,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855555,51.878987
+Heinrich Böllstraat,64,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855634,51.878992
+Heinrich Böllstraat,66,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855712,51.878993
+Heinrich Böllstraat,68,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855794,51.878996
+Heinrich Böllstraat,70,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.855928,51.879006
+Heinrich Böllstraat,72,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.856009,51.879014
+Heinrich Böllstraat,74,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.856086,51.879023
+Heinrich Böllstraat,76,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.856164,51.879028
+Heinrich Böllstraat,78,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.856242,51.879035
+Heinrich Böllstraat,80,,,6515ZM,Nijmegen,Nijmegen,Gelderland,VBO,5.856323,51.879043
+Karel Glastra van Loonstraat,3,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.855668,51.877695
+Karel Glastra van Loonstraat,4,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856104,51.877595
+Karel Glastra van Loonstraat,5,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.855725,51.877729
+Karel Glastra van Loonstraat,6,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856327,51.877810
+Karel Glastra van Loonstraat,7,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.855780,51.877764
+Karel Glastra van Loonstraat,8,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856395,51.877766
+Karel Glastra van Loonstraat,9,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.855838,51.877799
+Karel Glastra van Loonstraat,10,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856556,51.877664
+Karel Glastra van Loonstraat,11,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856026,51.877979
+Karel Glastra van Loonstraat,12,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856595,51.878031
+Karel Glastra van Loonstraat,13,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856081,51.878035
+Karel Glastra van Loonstraat,14,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856657,51.877991
+Karel Glastra van Loonstraat,15,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856196,51.878132
+Karel Glastra van Loonstraat,16,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856790,51.877913
+Karel Glastra van Loonstraat,17,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856237,51.878190
+Karel Glastra van Loonstraat,18,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856861,51.877870
+Karel Glastra van Loonstraat,19,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856315,51.878289
+Karel Glastra van Loonstraat,20,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.857147,51.878060
+Karel Glastra van Loonstraat,21,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856360,51.878345
+Karel Glastra van Loonstraat,22,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.857079,51.878114
+Karel Glastra van Loonstraat,24,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856902,51.878223
+Karel Glastra van Loonstraat,25,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856486,51.878561
+Karel Glastra van Loonstraat,26,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856826,51.878281
+Karel Glastra van Loonstraat,27,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856505,51.878618
+Karel Glastra van Loonstraat,29,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856570,51.878783
+Karel Glastra van Loonstraat,31,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856577,51.878839
+Karel Glastra van Loonstraat,33,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856617,51.878996
+Karel Glastra van Loonstraat,35,,,6515ZN,Nijmegen,Nijmegen,Gelderland,VBO,5.856641,51.879058

@@ -2,6 +2,7 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 Arnhemse Bovenweg,1,A,,3708AA,Zeist,Zeist,Utrecht,VBO,5.248088,52.081137
 Arnhemse Bovenweg,1,B,,3708AA,Zeist,Zeist,Utrecht,VBO,5.248308,52.080904
 Arnhemse Bovenweg,1,C,,3708AA,Zeist,Zeist,Utrecht,VBO,5.249463,52.079916
+Arnhemse Bovenweg,1,,,3708AA,Zeist,Zeist,Utrecht,VBO,5.248157,52.081332
 Arnhemse Bovenweg,3,B,,3708AA,Zeist,Zeist,Utrecht,VBO,5.253542,52.077090
 Arnhemse Bovenweg,3,C,,3708AA,Zeist,Zeist,Utrecht,VBO,5.253586,52.077036
 Arnhemse Bovenweg,3,,,3708AA,Zeist,Zeist,Utrecht,VBO,5.249815,52.079584
@@ -128,7 +129,6 @@ Arnhemse Bovenweg,33,,815,3708AA,Zeist,Zeist,Utrecht,VBO,5.259763,52.074517
 Arnhemse Bovenweg,33,,816,3708AA,Zeist,Zeist,Utrecht,VBO,5.259734,52.074526
 Arnhemse Bovenweg,33,,,3708AA,Zeist,Zeist,Utrecht,VBO,5.259618,52.074490
 Arnhemse Bovenweg,35,,,3708AA,Zeist,Zeist,Utrecht,VBO,5.260010,52.074832
-Arnhemse Bovenweg,2,A,,3708AB,Zeist,Zeist,Utrecht,VBO,5.244984,52.080334
 Arnhemse Bovenweg,2,,1,3708AB,Zeist,Zeist,Utrecht,VBO,5.247715,52.079656
 Arnhemse Bovenweg,2,,10,3708AB,Zeist,Zeist,Utrecht,VBO,5.247500,52.079575
 Arnhemse Bovenweg,2,,101,3708AB,Zeist,Zeist,Utrecht,VBO,5.247695,52.079659
@@ -396,6 +396,8 @@ Arnhemse Bovenweg,98,A,,3708AG,Zeist,Zeist,Utrecht,VBO,5.256385,52.071794
 Arnhemse Bovenweg,98,,,3708AG,Zeist,Zeist,Utrecht,VBO,5.257655,52.072052
 Arnhemse Bovenweg,100,,,3708AG,Zeist,Zeist,Utrecht,VBO,5.261449,52.071170
 Arnhemse Bovenweg,80,,,3708AH,Zeist,Zeist,Utrecht,VBO,5.257098,52.073238
+Arnhemse Bovenweg,82,,,3708AH,Zeist,Zeist,Utrecht,VBO,5.257000,52.073541
+Arnhemse Bovenweg,84,,,3708AH,Zeist,Zeist,Utrecht,VBO,5.256872,52.073512
 Arnhemse Bovenweg,120,,,3708AH,Zeist,Zeist,Utrecht,VBO,5.258884,52.070867
 Arnhemse Bovenweg,140,,,3708AH,Zeist,Zeist,Utrecht,VBO,5.259236,52.070283
 Arnhemse Bovenweg,150,,,3708AH,Zeist,Zeist,Utrecht,VBO,5.259061,52.070408
@@ -449,7 +451,6 @@ Julianalaan,3,A,,3708BA,Zeist,Zeist,Utrecht,VBO,5.256052,52.076553
 Julianalaan,3,,,3708BA,Zeist,Zeist,Utrecht,VBO,5.255950,52.076526
 Julianalaan,7,,,3708BA,Zeist,Zeist,Utrecht,VBO,5.256242,52.076626
 Julianalaan,9,,,3708BA,Zeist,Zeist,Utrecht,VBO,5.256387,52.076752
-Julianalaan,11,A,,3708BA,Zeist,Zeist,Utrecht,VBO,5.256155,52.076998
 Julianalaan,11,,,3708BA,Zeist,Zeist,Utrecht,VBO,5.256460,52.076788
 Julianalaan,13,,,3708BA,Zeist,Zeist,Utrecht,VBO,5.256693,52.076869
 Julianalaan,15,,,3708BA,Zeist,Zeist,Utrecht,VBO,5.256752,52.076896
@@ -527,7 +528,6 @@ Julianalaan,64,,,3708BE,Zeist,Zeist,Utrecht,VBO,5.260627,52.078410
 Julianalaan,66,,,3708BE,Zeist,Zeist,Utrecht,VBO,5.260686,52.078446
 Julianalaan,68,,,3708BE,Zeist,Zeist,Utrecht,VBO,5.260890,52.078572
 Julianalaan,70,,,3708BE,Zeist,Zeist,Utrecht,VBO,5.260977,52.078617
-Julianalaan,72,,,3708BE,Zeist,Zeist,Utrecht,VBO,5.261166,52.078734
 Van Stolberglaan,1,,,3708BG,Zeist,Zeist,Utrecht,VBO,5.259215,52.077375
 Van Stolberglaan,2,,,3708BG,Zeist,Zeist,Utrecht,VBO,5.258749,52.077087
 Van Stolberglaan,3,,,3708BG,Zeist,Zeist,Utrecht,VBO,5.259376,52.077249
@@ -1206,9 +1206,8 @@ Hoog Kanje,102,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.262136,52.076299
 Hoog Kanje,104,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.262121,52.076281
 Hoog Kanje,106,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.262092,52.076263
 Hoog Kanje,108,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.262034,52.076389
-Hoog Kanje,110,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263302,52.076462
-Hoog Kanje,112,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263273,52.076444
-Hoog Kanje,114,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263302,52.076480
+Hoog Kanje,110,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.262690,52.076087
+Hoog Kanje,114,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.262840,52.076191
 Hoog Kanje,116,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263317,52.076462
 Hoog Kanje,118,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263404,52.076490
 Hoog Kanje,120,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263302,52.076444
@@ -1237,8 +1236,8 @@ Hoog Kanje,164,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263273,52.076462
 Hoog Kanje,166,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263273,52.076462
 Hoog Kanje,168,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263273,52.076462
 Hoog Kanje,170,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263273,52.076462
-Hoog Kanje,182,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263273,52.076462
-Hoog Kanje,184,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.263288,52.076444
+Hoog Kanje,182,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.262916,52.076238
+Hoog Kanje,184,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.262978,52.076287
 Hoog Kanje,186,A,,3708DL,Zeist,Zeist,Utrecht,VBO,5.265063,52.076865
 Hoog Kanje,186,B,,3708DL,Zeist,Zeist,Utrecht,VBO,5.264600,52.076918
 Hoog Kanje,186,C,,3708DL,Zeist,Zeist,Utrecht,VBO,5.264389,52.076838
@@ -1288,6 +1287,7 @@ Hoog Kanje,262,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.264772,52.076691
 Hoog Kanje,264,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.264702,52.076734
 Hoog Kanje,266,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.264582,52.076758
 Hoog Kanje,268,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.264522,52.076791
+Hoog Kanje,270,A,,3708DL,Zeist,Zeist,Utrecht,VBO,5.266036,52.076837
 Hoog Kanje,270,,,3708DL,Zeist,Zeist,Utrecht,VBO,5.264442,52.076828
 Hoog Kanje,272,,01,3708DL,Zeist,Zeist,Utrecht,VBO,5.266387,52.077014
 Hoog Kanje,272,,02,3708DL,Zeist,Zeist,Utrecht,VBO,5.266408,52.076960
@@ -1332,11 +1332,12 @@ Graaf Lodewijklaan,1,,,3708DM,Zeist,Zeist,Utrecht,VBO,5.265134,52.077817
 Graaf Lodewijklaan,2,,,3708DM,Zeist,Zeist,Utrecht,VBO,5.266479,52.077724
 Graaf Lodewijklaan,3,,,3708DM,Zeist,Zeist,Utrecht,VBO,5.265791,52.078577
 Graaf Lodewijklaan,4,,,3708DM,Zeist,Zeist,Utrecht,VBO,5.266872,52.078138
-Graaf Lodewijklaan,5,A,,3708DM,Zeist,Zeist,Utrecht,VBO,5.266563,52.079036
-Graaf Lodewijklaan,5,,,3708DM,Zeist,Zeist,Utrecht,VBO,5.266247,52.078887
+Graaf Lodewijklaan,5,A,,3708DM,Zeist,Zeist,Utrecht,VBO,5.266593,52.078899
 Graaf Lodewijklaan,6,,,3708DM,Zeist,Zeist,Utrecht,VBO,5.268823,52.079443
+Graaf Lodewijklaan,7,A,,3708DM,Zeist,Zeist,Utrecht,VBO,5.266997,52.079196
 Graaf Lodewijklaan,9,A,,3708DM,Zeist,Zeist,Utrecht,VBO,5.267637,52.079573
 Graaf Lodewijklaan,9,B,,3708DM,Zeist,Zeist,Utrecht,VBO,5.267816,52.079644
+Graaf Lodewijklaan,9,,,3708DM,Zeist,Zeist,Utrecht,VBO,5.267399,52.079468
 Graaf Lodewijklaan,11,A,,3708DM,Zeist,Zeist,Utrecht,VBO,5.268258,52.079811
 Graaf Lodewijklaan,11,B,,3708DM,Zeist,Zeist,Utrecht,VBO,5.268469,52.079928
 Graaf Lodewijklaan,11,C,,3708DM,Zeist,Zeist,Utrecht,VBO,5.268662,52.080060
@@ -1376,7 +1377,6 @@ Hoog Kanje,274,,7,3708DN,Zeist,Zeist,Utrecht,VBO,5.267116,52.077317
 Hoog Kanje,274,,8,3708DN,Zeist,Zeist,Utrecht,VBO,5.267223,52.077314
 Hoog Kanje,274,,9,3708DN,Zeist,Zeist,Utrecht,VBO,5.267311,52.077290
 Hoog Kanje,274,,,3708DN,Zeist,Zeist,Utrecht,VBO,5.267176,52.077323
-Prinses Irenelaan,71,E,,3708EB,Zeist,Zeist,Utrecht,VBO,5.273280,52.082297
 Prinses Irenelaan,2,,,3708EL,Zeist,Zeist,Utrecht,VBO,5.267295,52.083432
 Prinses Irenelaan,4,,,3708EL,Zeist,Zeist,Utrecht,VBO,5.267442,52.083217
 Prinses Irenelaan,6,,,3708EL,Zeist,Zeist,Utrecht,VBO,5.267442,52.083127
@@ -1405,6 +1405,7 @@ Oranje Nassaulaan,23,,,3708GA,Zeist,Zeist,Utrecht,VBO,5.260819,52.077844
 Oranje Nassaulaan,25,,,3708GA,Zeist,Zeist,Utrecht,VBO,5.260862,52.077889
 Oranje Nassaulaan,27,,,3708GA,Zeist,Zeist,Utrecht,VBO,5.261037,52.078078
 Oranje Nassaulaan,29,,,3708GA,Zeist,Zeist,Utrecht,VBO,5.261110,52.078150
+Oranje Nassaulaan,31,A,,3708GA,Zeist,Zeist,Utrecht,VBO,5.261158,52.078317
 Oranje Nassaulaan,31,,,3708GA,Zeist,Zeist,Utrecht,VBO,5.261328,52.078357
 Oranje Nassaulaan,33,,,3708GA,Zeist,Zeist,Utrecht,VBO,5.261371,52.078411
 Oranje Nassaulaan,35,,,3708GA,Zeist,Zeist,Utrecht,VBO,5.261428,52.078923
@@ -1977,7 +1978,6 @@ Driebergseweg,9,,,3708JA,Zeist,Zeist,Utrecht,VBO,5.251760,52.072908
 Driebergseweg,11,A,,3708JA,Zeist,Zeist,Utrecht,VBO,5.254856,52.071600
 Driebergseweg,13,A,,3708JA,Zeist,Zeist,Utrecht,VBO,5.254989,52.071303
 Driebergseweg,13,,,3708JA,Zeist,Zeist,Utrecht,VBO,5.254824,52.070875
-Driebergseweg,15,D,,3708JA,Zeist,Zeist,Utrecht,VBO,5.256607,52.071359
 Driebergseweg,17,A,,3708JA,Zeist,Zeist,Utrecht,VBO,5.259719,52.069709
 Driebergseweg,17,,,3708JA,Zeist,Zeist,Utrecht,VBO,5.259605,52.068513
 Driebergseweg,2,A,,3708JB,Zeist,Zeist,Utrecht,VBO,5.240769,52.079897
@@ -2049,7 +2049,7 @@ Molenweg,33,,,3708SC,Zeist,Zeist,Utrecht,VBO,5.247236,52.078548
 Molenweg,34,,,3708SC,Zeist,Zeist,Utrecht,VBO,5.247294,52.078566
 Molenweg,35,,,3708SC,Zeist,Zeist,Utrecht,VBO,5.247660,52.078279
 Molenweg,36,,,3708SC,Zeist,Zeist,Utrecht,VBO,5.247703,52.078306
-Molenweg,37,,,3708SC,Zeist,Zeist,Utrecht,VBO,5.247747,52.078404
+Molenweg,37,,,3708SC,Zeist,Zeist,Utrecht,VBO,5.247875,52.078358
 Molenweg,39,,,3708SC,Zeist,Zeist,Utrecht,VBO,5.247980,52.078378
 Molenweg,40,,,3708SE,Zeist,Zeist,Utrecht,VBO,5.247907,52.078459
 Molenweg,41,,,3708SE,Zeist,Zeist,Utrecht,VBO,5.248082,52.078468
@@ -2526,7 +2526,8 @@ Frederik Hendriklaan,76,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.259313,52.079092
 Frederik Hendriklaan,78,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.259517,52.079164
 Frederik Hendriklaan,80,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.259604,52.079182
 Frederik Hendriklaan,82,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.259823,52.079236
-Frederik Hendriklaan,84,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.259910,52.079263
+Frederik Hendriklaan,84,A,,3708VE,Zeist,Zeist,Utrecht,VBO,5.259915,52.079296
+Frederik Hendriklaan,84,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.259906,52.079262
 Frederik Hendriklaan,86,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.260144,52.079317
 Frederik Hendriklaan,90,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.260435,52.079318
 Frederik Hendriklaan,92,,,3708VE,Zeist,Zeist,Utrecht,VBO,5.260523,52.079345
@@ -2562,6 +2563,25 @@ Jan Willem Frisolaan,18,,,3708VH,Zeist,Zeist,Utrecht,VBO,5.258785,52.079927
 Jan Willem Frisolaan,20,A,,3708VH,Zeist,Zeist,Utrecht,VBO,5.259063,52.079667
 Jan Willem Frisolaan,20,,,3708VH,Zeist,Zeist,Utrecht,VBO,5.258917,52.079792
 Jan Willem Frisolaan,22,,,3708VH,Zeist,Zeist,Utrecht,VBO,5.259238,52.079523
+Julianahof,1,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256607,52.077088
+Julianahof,2,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256277,52.076925
+Julianahof,3,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256568,52.077142
+Julianahof,4,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256234,52.076976
+Julianahof,5,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256492,52.077220
+Julianahof,6,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256148,52.077077
+Julianahof,7,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256462,52.077276
+Julianahof,8,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256106,52.077140
+Julianahof,9,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256387,52.077354
+Julianahof,10,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256013,52.077238
+Julianahof,11,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256347,52.077416
+Julianahof,12,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.255968,52.077292
+Julianahof,13,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256290,52.077501
+Julianahof,14,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.255835,52.077438
+Julianahof,15,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256236,52.077544
+Julianahof,16,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.255762,52.077536
+Julianahof,17,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256139,52.077626
+Julianahof,18,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.255729,52.077587
+Julianahof,19,,,3708VJ,Zeist,Zeist,Utrecht,VBO,5.256102,52.077672
 Prinses Margrietlaan,235,,,3708WB,Zeist,Zeist,Utrecht,VBO,5.269109,52.076244
 Prinses Margrietlaan,236,,,3708WB,Zeist,Zeist,Utrecht,VBO,5.269109,52.076244
 Prinses Margrietlaan,237,,,3708WB,Zeist,Zeist,Utrecht,VBO,5.269109,52.076244
@@ -2696,140 +2716,6 @@ Prinses Margrietlaan,365,,,3708WJ,Zeist,Zeist,Utrecht,VBO,5.270041,52.076523
 Prinses Margrietlaan,366,,,3708WJ,Zeist,Zeist,Utrecht,VBO,5.270027,52.076505
 Prinses Margrietlaan,367,,,3708WJ,Zeist,Zeist,Utrecht,VBO,5.269998,52.076496
 Prinses Margrietlaan,368,,,3708WJ,Zeist,Zeist,Utrecht,VBO,5.269968,52.076505
-Prinses Margrietlaan,369,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272909,52.078710
-Prinses Margrietlaan,370,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272909,52.078674
-Prinses Margrietlaan,371,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272880,52.078692
-Prinses Margrietlaan,372,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272909,52.078719
-Prinses Margrietlaan,373,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272910,52.078665
-Prinses Margrietlaan,374,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272880,52.078674
-Prinses Margrietlaan,375,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272866,52.078692
-Prinses Margrietlaan,376,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272880,52.078710
-Prinses Margrietlaan,377,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272939,52.078656
-Prinses Margrietlaan,378,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272910,52.078647
-Prinses Margrietlaan,379,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272880,52.078656
-Prinses Margrietlaan,380,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272851,52.078674
-Prinses Margrietlaan,381,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272837,52.078692
-Prinses Margrietlaan,382,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272910,52.078638
-Prinses Margrietlaan,383,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272880,52.078638
-Prinses Margrietlaan,384,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272851,52.078656
-Prinses Margrietlaan,385,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272822,52.078674
-Prinses Margrietlaan,386,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272880,52.078629
-Prinses Margrietlaan,387,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272837,52.078638
-Prinses Margrietlaan,388,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272822,52.078647
-Prinses Margrietlaan,389,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272807,52.078674
-Prinses Margrietlaan,390,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272880,52.078611
-Prinses Margrietlaan,391,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272837,52.078620
-Prinses Margrietlaan,392,,,3708WK,Zeist,Zeist,Utrecht,VBO,5.272807,52.078629
-Prinses Margrietlaan,393,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272793,52.078647
-Prinses Margrietlaan,394,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272837,52.078602
-Prinses Margrietlaan,395,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272808,52.078611
-Prinses Margrietlaan,396,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272778,52.078629
-Prinses Margrietlaan,397,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272837,52.078584
-Prinses Margrietlaan,398,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272808,52.078602
-Prinses Margrietlaan,399,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272778,52.078611
-Prinses Margrietlaan,400,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272764,52.078629
-Prinses Margrietlaan,401,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272808,52.078584
-Prinses Margrietlaan,402,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272778,52.078593
-Prinses Margrietlaan,403,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272749,52.078611
-Prinses Margrietlaan,404,,,3708WL,Zeist,Zeist,Utrecht,VBO,5.272808,52.078566
-Prinses Margrietlaan,405,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273784,52.078918
-Prinses Margrietlaan,406,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273755,52.078900
-Prinses Margrietlaan,407,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273784,52.078927
-Prinses Margrietlaan,408,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273813,52.078918
-Prinses Margrietlaan,409,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273755,52.078882
-Prinses Margrietlaan,410,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273740,52.078900
-Prinses Margrietlaan,411,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273755,52.078918
-Prinses Margrietlaan,412,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273784,52.078945
-Prinses Margrietlaan,413,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273813,52.078936
-Prinses Margrietlaan,414,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273726,52.078882
-Prinses Margrietlaan,415,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273711,52.078900
-Prinses Margrietlaan,416,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273726,52.078918
-Prinses Margrietlaan,417,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273755,52.078936
-Prinses Margrietlaan,418,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273784,52.078954
-Prinses Margrietlaan,419,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273813,52.078954
-Prinses Margrietlaan,420,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273842,52.078936
-Prinses Margrietlaan,421,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273726,52.078855
-Prinses Margrietlaan,422,,,3708WN,Zeist,Zeist,Utrecht,VBO,5.273697,52.078873
-Prinses Margrietlaan,423,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273697,52.078900
-Prinses Margrietlaan,424,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273697,52.078918
-Prinses Margrietlaan,425,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273726,52.078936
-Prinses Margrietlaan,426,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273755,52.078954
-Prinses Margrietlaan,427,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273784,52.078972
-Prinses Margrietlaan,428,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273813,52.078963
-Prinses Margrietlaan,429,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273857,52.078954
-Prinses Margrietlaan,430,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273697,52.078855
-Prinses Margrietlaan,431,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273682,52.078873
-Prinses Margrietlaan,432,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273667,52.078900
-Prinses Margrietlaan,433,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273682,52.078918
-Prinses Margrietlaan,434,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273697,52.078945
-Prinses Margrietlaan,435,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273711,52.078954
-Prinses Margrietlaan,436,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273755,52.078963
-Prinses Margrietlaan,437,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273784,52.078981
-Prinses Margrietlaan,438,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273813,52.078981
-Prinses Margrietlaan,439,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273857,52.078972
-Prinses Margrietlaan,440,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273886,52.078963
-Prinses Margrietlaan,441,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273682,52.078837
-Prinses Margrietlaan,442,,,3708WP,Zeist,Zeist,Utrecht,VBO,5.273668,52.078855
-Prinses Margrietlaan,443,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273653,52.078873
-Prinses Margrietlaan,444,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273653,52.078900
-Prinses Margrietlaan,445,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273653,52.078918
-Prinses Margrietlaan,446,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273755,52.078981
-Prinses Margrietlaan,447,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273784,52.078999
-Prinses Margrietlaan,448,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273813,52.078999
-Prinses Margrietlaan,449,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273857,52.078990
-Prinses Margrietlaan,450,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273886,52.078981
-Prinses Margrietlaan,451,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273653,52.078837
-Prinses Margrietlaan,452,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.273638,52.078855
-Prinses Margrietlaan,453,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274862,52.079602
-Prinses Margrietlaan,454,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274833,52.079584
-Prinses Margrietlaan,455,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274862,52.079611
-Prinses Margrietlaan,456,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274891,52.079602
-Prinses Margrietlaan,457,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274833,52.079566
-Prinses Margrietlaan,458,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274818,52.079584
-Prinses Margrietlaan,459,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274833,52.079602
-Prinses Margrietlaan,460,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274862,52.079629
-Prinses Margrietlaan,461,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274891,52.079620
-Prinses Margrietlaan,462,,,3708WR,Zeist,Zeist,Utrecht,VBO,5.274804,52.079566
-Prinses Margrietlaan,463,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274789,52.079584
-Prinses Margrietlaan,464,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274804,52.079602
-Prinses Margrietlaan,465,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274833,52.079620
-Prinses Margrietlaan,466,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274862,52.079638
-Prinses Margrietlaan,467,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274891,52.079638
-Prinses Margrietlaan,468,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274920,52.079620
-Prinses Margrietlaan,469,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274804,52.079548
-Prinses Margrietlaan,470,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274774,52.079566
-Prinses Margrietlaan,471,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274774,52.079584
-Prinses Margrietlaan,472,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274774,52.079602
-Prinses Margrietlaan,473,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274804,52.079620
-Prinses Margrietlaan,474,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274833,52.079638
-Prinses Margrietlaan,475,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274862,52.079656
-Prinses Margrietlaan,476,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274891,52.079647
-Prinses Margrietlaan,477,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274935,52.079638
-Prinses Margrietlaan,478,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274775,52.079539
-Prinses Margrietlaan,479,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274760,52.079566
-Prinses Margrietlaan,480,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274745,52.079584
-Prinses Margrietlaan,481,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274760,52.079602
-Prinses Margrietlaan,482,,,3708WS,Zeist,Zeist,Utrecht,VBO,5.274774,52.079629
-Prinses Margrietlaan,483,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273915,52.079008
-Prinses Margrietlaan,484,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273871,52.078981
-Prinses Margrietlaan,485,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273842,52.078954
-Prinses Margrietlaan,486,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273799,52.078936
-Prinses Margrietlaan,487,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273770,52.078909
-Prinses Margrietlaan,488,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273726,52.078882
-Prinses Margrietlaan,489,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273682,52.078864
-Prinses Margrietlaan,490,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273653,52.078837
-Prinses Margrietlaan,491,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273857,52.079008
-Prinses Margrietlaan,492,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273813,52.078990
-Prinses Margrietlaan,493,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273784,52.078963
-Prinses Margrietlaan,494,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273740,52.078945
-Prinses Margrietlaan,495,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273697,52.078918
-Prinses Margrietlaan,496,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273653,52.078891
-Prinses Margrietlaan,497,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273609,52.078864
-Prinses Margrietlaan,498,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273886,52.079035
-Prinses Margrietlaan,499,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273959,52.079035
-Prinses Margrietlaan,500,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273609,52.078810
-Prinses Margrietlaan,501,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273580,52.078837
-Prinses Margrietlaan,502,,,3708WT,Zeist,Zeist,Utrecht,VBO,5.273915,52.079062
 Graaf Adolflaan,1,,1,3708XA,Zeist,Zeist,Utrecht,VBO,5.263014,52.075177
 Graaf Adolflaan,1,,2,3708XA,Zeist,Zeist,Utrecht,VBO,5.263072,52.075213
 Graaf Adolflaan,1,,3,3708XA,Zeist,Zeist,Utrecht,VBO,5.263102,52.075240
@@ -2965,7 +2851,7 @@ Graaf Adolflaan,53,,2,3708XA,Zeist,Zeist,Utrecht,VBO,5.264251,52.076365
 Graaf Adolflaan,53,,3,3708XA,Zeist,Zeist,Utrecht,VBO,5.264265,52.076356
 Graaf Adolflaan,53,,4,3708XA,Zeist,Zeist,Utrecht,VBO,5.264280,52.076347
 Graaf Adolflaan,53,,,3708XA,Zeist,Zeist,Utrecht,VBO,5.263349,52.075402
-Graaf Adolflaan,4,,,3708XB,Zeist,Zeist,Utrecht,VBO,5.266541,52.076205
+Graaf Adolflaan,4,,,3708XB,Zeist,Zeist,Utrecht,VBO,5.265905,52.076037
 Prinses Alexialaan,2,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.264862,52.075152
 Prinses Alexialaan,4,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.264695,52.075187
 Prinses Alexialaan,6,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.264662,52.074905
@@ -3016,6 +2902,16 @@ Prinses Alexialaan,94,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.265605,52.074758
 Prinses Alexialaan,96,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.265707,52.074724
 Prinses Alexialaan,98,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.264780,52.075085
 Prinses Alexialaan,100,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.264714,52.075112
+Prinses Alexialaan,102,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.265961,52.074734
+Prinses Alexialaan,104,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.265932,52.074687
+Prinses Alexialaan,106,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.265902,52.074640
+Prinses Alexialaan,108,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.265872,52.074594
+Prinses Alexialaan,110,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.265843,52.074548
+Prinses Alexialaan,112,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.266451,52.074616
+Prinses Alexialaan,114,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.266422,52.074570
+Prinses Alexialaan,116,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.266393,52.074523
+Prinses Alexialaan,118,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.266363,52.074477
+Prinses Alexialaan,120,,,3708XD,Zeist,Zeist,Utrecht,VBO,5.266334,52.074430
 Prinses Alexialaan,1,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.265384,52.075106
 Prinses Alexialaan,3,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.265454,52.075092
 Prinses Alexialaan,5,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.265515,52.075074
@@ -3026,6 +2922,37 @@ Prinses Alexialaan,13,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.265904,52.074996
 Prinses Alexialaan,15,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.265976,52.074983
 Prinses Alexialaan,17,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266048,52.074967
 Prinses Alexialaan,19,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266117,52.074956
+Prinses Alexialaan,21,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266314,52.074879
+Prinses Alexialaan,23,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266390,52.074860
+Prinses Alexialaan,25,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266465,52.074842
+Prinses Alexialaan,27,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266540,52.074823
+Prinses Alexialaan,29,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266615,52.074805
+Prinses Alexialaan,31,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266690,52.074787
+Prinses Alexialaan,33,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266765,52.074768
+Prinses Alexialaan,35,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266230,52.075268
+Prinses Alexialaan,37,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266265,52.075324
+Prinses Alexialaan,39,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266295,52.075373
+Prinses Alexialaan,41,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266333,52.075434
+Prinses Alexialaan,43,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266366,52.075485
+Prinses Alexialaan,45,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266487,52.075456
+Prinses Alexialaan,47,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266456,52.075405
+Prinses Alexialaan,49,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266417,52.075344
+Prinses Alexialaan,51,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266387,52.075295
+Prinses Alexialaan,53,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266352,52.075239
+Prinses Alexialaan,55,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266579,52.075161
+Prinses Alexialaan,57,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266655,52.075143
+Prinses Alexialaan,59,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266730,52.075125
+Prinses Alexialaan,61,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266805,52.075107
+Prinses Alexialaan,63,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266881,52.075089
+Prinses Alexialaan,65,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266957,52.075071
+Prinses Alexialaan,67,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266979,52.075235
+Prinses Alexialaan,69,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266897,52.075254
+Prinses Alexialaan,71,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266798,52.075278
+Prinses Alexialaan,73,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266716,52.075298
+Prinses Alexialaan,75,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266762,52.075372
+Prinses Alexialaan,77,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266845,52.075353
+Prinses Alexialaan,79,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.266944,52.075330
+Prinses Alexialaan,81,,,3708XE,Zeist,Zeist,Utrecht,VBO,5.267026,52.075310
 Prinses Arianelaan,1,,,3708XG,Zeist,Zeist,Utrecht,VBO,5.268196,52.076543
 Prinses Arianelaan,2,,,3708XG,Zeist,Zeist,Utrecht,VBO,5.267529,52.076178
 Prinses Arianelaan,3,,,3708XG,Zeist,Zeist,Utrecht,VBO,5.268217,52.076610
@@ -3096,7 +3023,7 @@ Kerckeboschlaan,10,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.265411,52.075436
 Kerckeboschlaan,12,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.265482,52.075445
 Kerckeboschlaan,14,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.265558,52.075457
 Kerckeboschlaan,16,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.265633,52.075460
-Kerckeboschlaan,17,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.269438,52.080269
+Kerckeboschlaan,17,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.269373,52.080272
 Kerckeboschlaan,18,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.265708,52.075474
 Kerckeboschlaan,19,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.269187,52.080357
 Kerckeboschlaan,20,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.265910,52.075499
@@ -3104,7 +3031,7 @@ Kerckeboschlaan,21,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.269097,52.080531
 Kerckeboschlaan,22,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.265982,52.075495
 Kerckeboschlaan,23,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.269305,52.080697
 Kerckeboschlaan,24,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.266064,52.075485
-Kerckeboschlaan,25,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.269642,52.080694
+Kerckeboschlaan,25,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.269601,52.080709
 Kerckeboschlaan,26,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.266141,52.075474
 Kerckeboschlaan,27,,,3708XH,Zeist,Zeist,Utrecht,VBO,5.269717,52.080513
 Prinses Margrietlaan,25,,,3708ZA,Zeist,Zeist,Utrecht,VBO,5.264115,52.072706
@@ -3357,6 +3284,43 @@ Prinses Catharina Amalialaan,77,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.271625,52.078
 Prinses Catharina Amalialaan,79,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.271722,52.078820
 Prinses Catharina Amalialaan,81,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.271797,52.078807
 Prinses Catharina Amalialaan,83,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.271900,52.078806
+Prinses Catharina Amalialaan,85,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.272578,52.079035
+Prinses Catharina Amalialaan,87,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.272697,52.079035
+Prinses Catharina Amalialaan,89,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.272900,52.079038
+Prinses Catharina Amalialaan,91,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273020,52.079032
+Prinses Catharina Amalialaan,93,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.272050,52.078879
+Prinses Catharina Amalialaan,95,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.272158,52.078882
+Prinses Catharina Amalialaan,97,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.272248,52.078883
+Prinses Catharina Amalialaan,99,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.272331,52.078884
+Prinses Catharina Amalialaan,101,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.272420,52.078884
+Prinses Catharina Amalialaan,103,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273291,52.079202
+Prinses Catharina Amalialaan,105,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273323,52.079298
+Prinses Catharina Amalialaan,107,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273473,52.079281
+Prinses Catharina Amalialaan,109,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273445,52.079188
+Prinses Catharina Amalialaan,111,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273817,52.079195
+Prinses Catharina Amalialaan,113,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273815,52.079294
+Prinses Catharina Amalialaan,115,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273970,52.079297
+Prinses Catharina Amalialaan,117,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273977,52.079203
+Prinses Catharina Amalialaan,119,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.274381,52.079201
+Prinses Catharina Amalialaan,121,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.274385,52.079296
+Prinses Catharina Amalialaan,123,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.274535,52.079295
+Prinses Catharina Amalialaan,125,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.274534,52.079200
+Prinses Catharina Amalialaan,127,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.274067,52.079009
+Prinses Catharina Amalialaan,129,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273919,52.078992
+Prinses Catharina Amalialaan,131,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273949,52.078901
+Prinses Catharina Amalialaan,133,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.274093,52.078919
+Prinses Catharina Amalialaan,135,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273702,52.078785
+Prinses Catharina Amalialaan,137,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273798,52.078725
+Prinses Catharina Amalialaan,139,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273464,52.078885
+Prinses Catharina Amalialaan,141,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273528,52.078963
+Prinses Catharina Amalialaan,143,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273394,52.079007
+Prinses Catharina Amalialaan,145,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273332,52.078924
+Prinses Catharina Amalialaan,147,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273604,52.078726
+Prinses Catharina Amalialaan,149,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273704,52.078659
+Prinses Catharina Amalialaan,151,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273373,52.078407
+Prinses Catharina Amalialaan,153,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273274,52.078465
+Prinses Catharina Amalialaan,155,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273174,52.078408
+Prinses Catharina Amalialaan,157,,,3708ZR,Zeist,Zeist,Utrecht,VBO,5.273282,52.078345
 Prinses Catharina Amalialaan,18,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.269056,52.078731
 Prinses Catharina Amalialaan,20,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.269023,52.078705
 Prinses Catharina Amalialaan,22,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.269000,52.078681
@@ -3407,6 +3371,46 @@ Prinses Catharina Amalialaan,110,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.269629,52.07
 Prinses Catharina Amalialaan,112,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.269664,52.078554
 Prinses Catharina Amalialaan,114,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.269689,52.078619
 Prinses Catharina Amalialaan,116,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.269866,52.078597
+Prinses Catharina Amalialaan,118,,01,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270599,52.078571
+Prinses Catharina Amalialaan,118,,02,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270671,52.078468
+Prinses Catharina Amalialaan,118,,03,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270515,52.078343
+Prinses Catharina Amalialaan,118,,04,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270282,52.078339
+Prinses Catharina Amalialaan,118,,05,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270282,52.078468
+Prinses Catharina Amalialaan,118,,06,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270275,52.078586
+Prinses Catharina Amalialaan,118,,11,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270598,52.078596
+Prinses Catharina Amalialaan,118,,12,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270671,52.078492
+Prinses Catharina Amalialaan,118,,13,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270630,52.078355
+Prinses Catharina Amalialaan,118,,14,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270492,52.078340
+Prinses Catharina Amalialaan,118,,15,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270282,52.078363
+Prinses Catharina Amalialaan,118,,16,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270280,52.078491
+Prinses Catharina Amalialaan,118,,17,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270274,52.078609
+Prinses Catharina Amalialaan,118,,21,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270598,52.078615
+Prinses Catharina Amalialaan,118,,22,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270629,52.078516
+Prinses Catharina Amalialaan,118,,23,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270656,52.078358
+Prinses Catharina Amalialaan,118,,24,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270455,52.078336
+Prinses Catharina Amalialaan,118,,25,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270279,52.078385
+Prinses Catharina Amalialaan,118,,26,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270282,52.078511
+Prinses Catharina Amalialaan,118,,27,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270274,52.078629
+Prinses Catharina Amalialaan,118,,31,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270557,52.078634
+Prinses Catharina Amalialaan,118,,32,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270671,52.078454
+Prinses Catharina Amalialaan,118,,33,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270669,52.078380
+Prinses Catharina Amalialaan,118,,34,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270431,52.078342
+Prinses Catharina Amalialaan,118,,35,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270279,52.078401
+Prinses Catharina Amalialaan,118,,36,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270272,52.078522
+Prinses Catharina Amalialaan,118,,37,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270274,52.078647
+Prinses Catharina Amalialaan,118,,41,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270529,52.078635
+Prinses Catharina Amalialaan,118,,42,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270606,52.078505
+Prinses Catharina Amalialaan,118,,43,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270646,52.078398
+Prinses Catharina Amalialaan,118,,44,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270432,52.078353
+Prinses Catharina Amalialaan,118,,45,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270277,52.078416
+Prinses Catharina Amalialaan,118,,46,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270275,52.078545
+Prinses Catharina Amalialaan,118,,47,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270324,52.078662
+Prinses Catharina Amalialaan,118,,51,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270477,52.078644
+Prinses Catharina Amalialaan,118,,52,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270582,52.078499
+Prinses Catharina Amalialaan,118,,53,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270398,52.078333
+Prinses Catharina Amalialaan,118,,54,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270271,52.078442
+Prinses Catharina Amalialaan,118,,55,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270329,52.078548
+Prinses Catharina Amalialaan,118,,56,3708ZS,Zeist,Zeist,Utrecht,VBO,5.270362,52.078663
 Prinses Catharina Amalialaan,120,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271109,52.078641
 Prinses Catharina Amalialaan,122,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271117,52.078585
 Prinses Catharina Amalialaan,124,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271125,52.078533
@@ -3420,6 +3424,24 @@ Prinses Catharina Amalialaan,138,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271604,52.07
 Prinses Catharina Amalialaan,140,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271694,52.078483
 Prinses Catharina Amalialaan,142,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271779,52.078481
 Prinses Catharina Amalialaan,144,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271875,52.078478
+Prinses Catharina Amalialaan,146,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271752,52.078316
+Prinses Catharina Amalialaan,148,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.271873,52.078323
+Prinses Catharina Amalialaan,150,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272086,52.078314
+Prinses Catharina Amalialaan,152,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272213,52.078320
+Prinses Catharina Amalialaan,154,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272434,52.078300
+Prinses Catharina Amalialaan,156,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272556,52.078305
+Prinses Catharina Amalialaan,158,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272771,52.078298
+Prinses Catharina Amalialaan,160,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272892,52.078286
+Prinses Catharina Amalialaan,162,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272033,52.078488
+Prinses Catharina Amalialaan,164,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272120,52.078490
+Prinses Catharina Amalialaan,166,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272205,52.078488
+Prinses Catharina Amalialaan,168,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272299,52.078487
+Prinses Catharina Amalialaan,170,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272739,52.078472
+Prinses Catharina Amalialaan,172,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272745,52.078532
+Prinses Catharina Amalialaan,174,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272748,52.078598
+Prinses Catharina Amalialaan,176,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272903,52.078699
+Prinses Catharina Amalialaan,178,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272894,52.078767
+Prinses Catharina Amalialaan,180,,,3708ZS,Zeist,Zeist,Utrecht,VBO,5.272897,52.078828
 Prinses Maximalaan,1,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.270816,52.080878
 Prinses Maximalaan,3,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.270887,52.081054
 Prinses Maximalaan,5,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.271217,52.081105
@@ -3447,9 +3469,12 @@ Prinses Maximalaan,47,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.273367,52.081168
 Prinses Maximalaan,49,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.273607,52.081072
 Prinses Maximalaan,51,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.273694,52.080936
 Prinses Maximalaan,53,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.273694,52.080878
+Prinses Maximalaan,55,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.274184,52.081177
 Prinses Maximalaan,59,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.274590,52.080976
+Prinses Maximalaan,61,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.274764,52.080833
 Prinses Maximalaan,63,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.275141,52.080701
 Prinses Maximalaan,65,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.275316,52.080565
+Prinses Maximalaan,67,,,3708ZT,Zeist,Zeist,Utrecht,VBO,5.275465,52.080452
 Prinses Maximalaan,2,A,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.270613,52.080293
 Prinses Maximalaan,2,B,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.270736,52.080302
 Prinses Maximalaan,2,C,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.270339,52.080310
@@ -3463,15 +3488,17 @@ Prinses Maximalaan,2,M,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.270713,52.080327
 Prinses Maximalaan,2,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.270343,52.080297
 Prinses Maximalaan,4,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.271004,52.080510
 Prinses Maximalaan,6,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.271214,52.080531
-Prinses Maximalaan,8,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.271614,52.080535
+Prinses Maximalaan,8,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.271561,52.080455
 Prinses Maximalaan,10,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.271900,52.080523
 Prinses Maximalaan,12,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.272204,52.080520
-Prinses Maximalaan,14,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.272459,52.080484
+Prinses Maximalaan,14,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.272496,52.080431
 Prinses Maximalaan,16,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.272830,52.080491
 Prinses Maximalaan,18,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.273169,52.080503
 Prinses Maximalaan,20,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.273528,52.080531
+Prinses Maximalaan,22,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.273837,52.080553
 Prinses Maximalaan,24,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.274135,52.080545
 Prinses Maximalaan,26,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.274415,52.080563
+Prinses Maximalaan,28,,,3708ZV,Zeist,Zeist,Utrecht,VBO,5.274713,52.080506
 Prinses Mariannelaan,1,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.270711,52.081924
 Prinses Mariannelaan,2,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.270999,52.081602
 Prinses Mariannelaan,3,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.270999,52.081961
@@ -3479,11 +3506,11 @@ Prinses Mariannelaan,4,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.271231,52.081717
 Prinses Mariannelaan,5,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.271239,52.082120
 Prinses Mariannelaan,6,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.271518,52.081804
 Prinses Mariannelaan,7,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.271520,52.082197
-Prinses Mariannelaan,8,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.271783,52.081908
+Prinses Mariannelaan,8,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.271780,52.081877
 Prinses Mariannelaan,9,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.271839,52.082303
 Prinses Mariannelaan,10,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.272096,52.081988
 Prinses Mariannelaan,11,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.272129,52.082488
-Prinses Mariannelaan,12,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.272547,52.082296
+Prinses Mariannelaan,12,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.272616,52.082188
 Prinses Mariannelaan,13,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.272389,52.082673
 Prinses Mariannelaan,14,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.272873,52.081928
 Prinses Mariannelaan,15,,,3708ZW,Zeist,Zeist,Utrecht,VBO,5.272520,52.082763

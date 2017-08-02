@@ -56,6 +56,7 @@ Albrechtlaan,1,A,,1404AH,Bussum,Gooise Meren,Noord-Holland,VBO,5.158608,52.27952
 Albrechtlaan,1,B,,1404AH,Bussum,Gooise Meren,Noord-Holland,VBO,5.158569,52.279513
 Albrechtlaan,1,C,,1404AH,Bussum,Gooise Meren,Noord-Holland,VBO,5.158383,52.279594
 Albrechtlaan,1,,,1404AH,Bussum,Gooise Meren,Noord-Holland,VBO,5.158756,52.279341
+Albrechtlaan,3,A,1,1404AH,Bussum,Gooise Meren,Noord-Holland,VBO,5.158422,52.279695
 Albrechtlaan,3,A,,1404AH,Bussum,Gooise Meren,Noord-Holland,VBO,5.158464,52.279717
 Albrechtlaan,3,B,,1404AH,Bussum,Gooise Meren,Noord-Holland,VBO,5.158133,52.279741
 Albrechtlaan,3,,,1404AH,Bussum,Gooise Meren,Noord-Holland,VBO,5.158549,52.279721
@@ -75,12 +76,6 @@ Albrechtlaan,4,,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158894,52.280138
 Albrechtlaan,6,,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158869,52.280202
 Albrechtlaan,8,,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158841,52.280285
 Albrechtlaan,10,,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158817,52.280347
-Albrechtlaan,12,B,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158824,52.280448
-Albrechtlaan,12,C,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158765,52.280448
-Albrechtlaan,12,D,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158824,52.280430
-Albrechtlaan,12,E,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158765,52.280412
-Albrechtlaan,12,F,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158765,52.280430
-Albrechtlaan,12,G,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158794,52.280430
 Albrechtlaan,12,,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158794,52.280448
 Albrechtlaan,14,A,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158695,52.280772
 Albrechtlaan,14,B,,1404AK,Bussum,Gooise Meren,Noord-Holland,VBO,5.158720,52.280775
@@ -323,9 +318,11 @@ Mecklenburglaan,84,,,1404BK,Bussum,Gooise Meren,Noord-Holland,VBO,5.161842,52.28
 Mecklenburglaan,86,,,1404BK,Bussum,Gooise Meren,Noord-Holland,VBO,5.161832,52.282721
 Mecklenburglaan,88,,,1404BK,Bussum,Gooise Meren,Noord-Holland,VBO,5.161787,52.282847
 Mecklenburglaan,90,,,1404BK,Bussum,Gooise Meren,Noord-Holland,VBO,5.161782,52.282954
+Generaal de la Reijlaan,1,A,1,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.162354,52.279737
+Generaal de la Reijlaan,1,A,2,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.162368,52.279704
 Generaal de la Reijlaan,1,A,,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.162234,52.279693
 Generaal de la Reijlaan,1,B,,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.162284,52.279698
-Generaal de la Reijlaan,1,,,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.162375,52.279736
+Generaal de la Reijlaan,1,,,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.162361,52.279762
 Generaal de la Reijlaan,3,A,,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.161994,52.279595
 Generaal de la Reijlaan,3,,,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.162068,52.279608
 Generaal de la Reijlaan,5,,,1404BL,Bussum,Gooise Meren,Noord-Holland,VBO,5.161743,52.279561
@@ -655,6 +652,7 @@ Nassaustraat,7,,,1404CS,Bussum,Gooise Meren,Noord-Holland,VBO,5.161710,52.275488
 Nassaustraat,9,,,1404CS,Bussum,Gooise Meren,Noord-Holland,VBO,5.161710,52.275531
 Nassaustraat,11,,,1404CS,Bussum,Gooise Meren,Noord-Holland,VBO,5.161714,52.275565
 Nassaustraat,13,,,1404CS,Bussum,Gooise Meren,Noord-Holland,VBO,5.161717,52.275614
+Nassaustraat,15,A,,1404CS,Bussum,Gooise Meren,Noord-Holland,VBO,5.161643,52.275666
 Nassaustraat,15,,,1404CS,Bussum,Gooise Meren,Noord-Holland,VBO,5.161718,52.275660
 Nassaustraat,17,A,,1404CS,Bussum,Gooise Meren,Noord-Holland,VBO,5.161644,52.275707
 Nassaustraat,17,,,1404CS,Bussum,Gooise Meren,Noord-Holland,VBO,5.161714,52.275703
@@ -841,28 +839,69 @@ Olmenlaan,159,A,1,1404DE,Bussum,Gooise Meren,Noord-Holland,VBO,5.159530,52.27623
 Olmenlaan,159,A,,1404DE,Bussum,Gooise Meren,Noord-Holland,VBO,5.159507,52.276268
 Olmenlaan,159,B,,1404DE,Bussum,Gooise Meren,Noord-Holland,VBO,5.159606,52.276285
 Olmenlaan,159,C,,1404DE,Bussum,Gooise Meren,Noord-Holland,VBO,5.159627,52.276244
-Olmenlaan,2,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161812,52.276673
-Olmenlaan,4,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161871,52.276691
-Olmenlaan,6,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161842,52.276691
-Olmenlaan,8,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161783,52.276673
-Olmenlaan,10,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161871,52.276727
-Olmenlaan,12,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161812,52.276727
-Olmenlaan,14,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161841,52.276727
-Olmenlaan,16,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161783,52.276727
-Olmenlaan,18,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161783,52.276745
-Olmenlaan,20,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161812,52.276745
-Olmenlaan,22,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161842,52.276673
-Olmenlaan,24,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161871,52.276673
-Olmenlaan,26,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161813,52.276655
-Olmenlaan,28,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161783,52.276655
-Olmenlaan,30,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161783,52.276691
-Olmenlaan,32,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161812,52.276691
-Olmenlaan,34,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161783,52.276709
-Olmenlaan,36,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161871,52.276709
-Olmenlaan,38,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161842,52.276709
-Olmenlaan,40,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161812,52.276709
-Olmenlaan,42,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161841,52.276745
-Olmenlaan,44,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161871,52.276745
+Olmenlaan,4,A,1,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162140,52.276652
+Olmenlaan,4,A,2,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162167,52.276653
+Olmenlaan,4,A,3,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162195,52.276653
+Olmenlaan,4,A,4,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162227,52.276652
+Olmenlaan,4,A,5,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162261,52.276653
+Olmenlaan,4,A,6,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162303,52.276652
+Olmenlaan,4,A,7,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162349,52.276650
+Olmenlaan,4,B,1,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162136,52.276681
+Olmenlaan,4,B,2,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162163,52.276681
+Olmenlaan,4,B,3,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162192,52.276681
+Olmenlaan,4,B,4,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162223,52.276682
+Olmenlaan,4,B,5,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162259,52.276685
+Olmenlaan,4,B,6,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162301,52.276685
+Olmenlaan,4,B,7,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162344,52.276685
+Olmenlaan,4,C,1,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162134,52.276715
+Olmenlaan,4,C,2,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162163,52.276715
+Olmenlaan,4,C,3,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162189,52.276716
+Olmenlaan,4,C,4,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162220,52.276716
+Olmenlaan,4,C,5,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162259,52.276716
+Olmenlaan,4,C,6,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162296,52.276714
+Olmenlaan,4,C,7,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162341,52.276715
+Olmenlaan,4,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.162141,52.276622
+Olmenlaan,14,A,1,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161688,52.276654
+Olmenlaan,14,A,2,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161733,52.276653
+Olmenlaan,14,A,3,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161771,52.276653
+Olmenlaan,14,A,4,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161813,52.276653
+Olmenlaan,14,A,5,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161857,52.276652
+Olmenlaan,14,A,6,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161896,52.276652
+Olmenlaan,14,A,7,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161924,52.276653
+Olmenlaan,14,A,8,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161955,52.276654
+Olmenlaan,14,A,9,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161988,52.276657
+Olmenlaan,14,B,1,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161681,52.276675
+Olmenlaan,14,B,2,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161727,52.276676
+Olmenlaan,14,B,3,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161768,52.276675
+Olmenlaan,14,B,4,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161811,52.276676
+Olmenlaan,14,B,5,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161854,52.276674
+Olmenlaan,14,B,6,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161889,52.276674
+Olmenlaan,14,B,7,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161921,52.276674
+Olmenlaan,14,B,8,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161954,52.276675
+Olmenlaan,14,B,9,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161989,52.276676
+Olmenlaan,14,C,1,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161677,52.276700
+Olmenlaan,14,C,2,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161725,52.276702
+Olmenlaan,14,C,3,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161767,52.276703
+Olmenlaan,14,C,4,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161807,52.276704
+Olmenlaan,14,C,5,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161847,52.276704
+Olmenlaan,14,C,6,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161888,52.276704
+Olmenlaan,14,C,7,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161920,52.276705
+Olmenlaan,14,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161830,52.276619
+Olmenlaan,24,A,1,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161275,52.276573
+Olmenlaan,24,A,2,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161304,52.276580
+Olmenlaan,24,A,3,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161348,52.276589
+Olmenlaan,24,A,4,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161392,52.276599
+Olmenlaan,24,A,5,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161441,52.276610
+Olmenlaan,24,A,6,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161472,52.276618
+Olmenlaan,24,A,7,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161504,52.276625
+Olmenlaan,24,B,1,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161255,52.276603
+Olmenlaan,24,B,2,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161287,52.276608
+Olmenlaan,24,B,3,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161336,52.276617
+Olmenlaan,24,B,4,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161372,52.276624
+Olmenlaan,24,B,5,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161422,52.276632
+Olmenlaan,24,B,6,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161459,52.276643
+Olmenlaan,24,B,7,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161494,52.276650
+Olmenlaan,24,,,1404DG,Bussum,Gooise Meren,Noord-Holland,VBO,5.161408,52.276574
 Olmenlaan,46,,,1404DH,Bussum,Gooise Meren,Noord-Holland,VBO,5.159950,52.276668
 Olmenlaan,48,,,1404DH,Bussum,Gooise Meren,Noord-Holland,VBO,5.159979,52.276668
 Olmenlaan,50,,,1404DH,Bussum,Gooise Meren,Noord-Holland,VBO,5.160009,52.276668
@@ -1134,7 +1173,8 @@ Havenstraat,21,A,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164343,52.27525
 Havenstraat,21,B,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164366,52.275259
 Havenstraat,21,C,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164345,52.275246
 Havenstraat,21,D,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164368,52.275244
-Havenstraat,23,,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164439,52.275254
+Havenstraat,23,A,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164452,52.275310
+Havenstraat,23,,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164459,52.275255
 Havenstraat,25,A,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164532,52.275249
 Havenstraat,25,B,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164527,52.275323
 Havenstraat,27,A,,1404EL,Bussum,Gooise Meren,Noord-Holland,VBO,5.164552,52.275285
@@ -1163,6 +1203,7 @@ Havenstraat,128,,,1404EM,Bussum,Gooise Meren,Noord-Holland,VBO,5.163562,52.27492
 Havenstraat,130,,,1404EM,Bussum,Gooise Meren,Noord-Holland,VBO,5.163577,52.274911
 Havenstraat,132,A,,1404EM,Bussum,Gooise Meren,Noord-Holland,VBO,5.163976,52.275035
 Havenstraat,132,B,,1404EM,Bussum,Gooise Meren,Noord-Holland,VBO,5.163982,52.275004
+Havenstraat,132,C,,1404EM,Bussum,Gooise Meren,Noord-Holland,VBO,5.163987,52.274973
 Havenstraat,132,,,1404EM,Bussum,Gooise Meren,Noord-Holland,VBO,5.163548,52.274928
 Havenstraat,134,A,,1404EM,Bussum,Gooise Meren,Noord-Holland,VBO,5.164080,52.275055
 Havenstraat,134,B,,1404EM,Bussum,Gooise Meren,Noord-Holland,VBO,5.164074,52.275064
@@ -1661,6 +1702,7 @@ Brinklaan,102,,,1404GS,Bussum,Gooise Meren,Noord-Holland,VBO,5.162629,52.272582
 Brinklaan,104,A,,1404GS,Bussum,Gooise Meren,Noord-Holland,VBO,5.162649,52.272558
 Brinklaan,104,,,1404GS,Bussum,Gooise Meren,Noord-Holland,VBO,5.162704,52.272574
 Brinklaan,106,A,,1404GS,Bussum,Gooise Meren,Noord-Holland,VBO,5.162609,52.272475
+Brinklaan,106,B,,1404GS,Bussum,Gooise Meren,Noord-Holland,VBO,5.162611,52.272455
 Brinklaan,106,,,1404GS,Bussum,Gooise Meren,Noord-Holland,VBO,5.162691,52.272471
 Brinklaan,108,A,,1404GS,Bussum,Gooise Meren,Noord-Holland,VBO,5.162633,52.272372
 Brinklaan,108,B,,1404GS,Bussum,Gooise Meren,Noord-Holland,VBO,5.162606,52.272372
@@ -1695,40 +1737,39 @@ Brinklaan,124,C,6,1404GT,Bussum,Gooise Meren,Noord-Holland,VBO,5.161811,52.27183
 Brinklaan,128,,,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162548,52.271774
 Brinklaan,130,,,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162553,52.271708
 Brinklaan,134,,,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162374,52.271341
-Brinklaan,136,A,,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.161813,52.270870
 Brinklaan,136,,,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.161859,52.270804
-Brinklaan,138,A,1,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162532,52.270909
-Brinklaan,138,A,11,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162545,52.270944
-Brinklaan,138,A,12,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162475,52.270951
+Brinklaan,138,A,1,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162136,52.271060
+Brinklaan,138,A,11,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162170,52.271059
+Brinklaan,138,A,12,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162207,52.271057
 Brinklaan,138,A,13,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162382,52.270962
 Brinklaan,138,A,14,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162284,52.270976
 Brinklaan,138,A,15,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162181,52.270990
-Brinklaan,138,A,2,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162462,52.270918
-Brinklaan,138,A,21,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162558,52.270972
-Brinklaan,138,A,22,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162485,52.270985
+Brinklaan,138,A,2,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162136,52.271045
+Brinklaan,138,A,21,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162167,52.271045
+Brinklaan,138,A,22,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162205,52.271040
 Brinklaan,138,A,23,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162400,52.271000
 Brinklaan,138,A,24,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162294,52.271010
 Brinklaan,138,A,25,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162198,52.271019
-Brinklaan,138,A,3,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162369,52.270932
-Brinklaan,138,A,31,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162521,52.271004
+Brinklaan,138,A,3,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162135,52.271028
+Brinklaan,138,A,31,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162170,52.271026
 Brinklaan,138,A,32,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162353,52.271024
 Brinklaan,138,A,33,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162250,52.271038
-Brinklaan,138,A,4,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162263,52.270943
-Brinklaan,138,A,5,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162165,52.270955
-Brinklaan,138,B,1,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162524,52.270582
-Brinklaan,138,B,11,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162521,52.270620
-Brinklaan,138,B,12,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162443,52.270617
+Brinklaan,138,A,4,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162137,52.271010
+Brinklaan,138,A,5,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162135,52.270986
+Brinklaan,138,B,1,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162039,52.270650
+Brinklaan,138,B,11,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162036,52.270624
+Brinklaan,138,B,12,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162040,52.270594
 Brinklaan,138,B,13,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162353,52.270614
 Brinklaan,138,B,14,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162221,52.270604
 Brinklaan,138,B,15,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162108,52.270607
-Brinklaan,138,B,2,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162444,52.270580
-Brinklaan,138,B,21,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162523,52.270653
-Brinklaan,138,B,22,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162441,52.270652
+Brinklaan,138,B,2,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162039,52.270573
+Brinklaan,138,B,21,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162096,52.270674
+Brinklaan,138,B,22,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162170,52.270581
 Brinklaan,138,B,23,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162345,52.270653
 Brinklaan,138,B,24,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162224,52.270642
 Brinklaan,138,B,25,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162105,52.270643
 Brinklaan,138,B,3,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162353,52.270576
-Brinklaan,138,B,31,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162477,52.270685
+Brinklaan,138,B,31,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162181,52.270628
 Brinklaan,138,B,32,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162283,52.270675
 Brinklaan,138,B,33,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162172,52.270670
 Brinklaan,138,B,4,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162227,52.270574
@@ -1738,19 +1779,19 @@ Brinklaan,138,C,11,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162530,52.2703
 Brinklaan,138,C,12,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162473,52.270329
 Brinklaan,138,C,13,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162370,52.270330
 Brinklaan,138,C,14,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162264,52.270329
-Brinklaan,138,C,15,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162154,52.270331
+Brinklaan,138,C,15,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162192,52.270362
 Brinklaan,138,C,2,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162491,52.270302
 Brinklaan,138,C,21,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162529,52.270362
 Brinklaan,138,C,22,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162463,52.270361
 Brinklaan,138,C,23,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162370,52.270359
 Brinklaan,138,C,24,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162262,52.270359
-Brinklaan,138,C,25,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162159,52.270361
+Brinklaan,138,C,25,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162192,52.270332
 Brinklaan,138,C,3,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162368,52.270299
-Brinklaan,138,C,31,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162523,52.270396
-Brinklaan,138,C,32,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162457,52.270394
-Brinklaan,138,C,33,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162374,52.270392
+Brinklaan,138,C,31,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162190,52.270305
+Brinklaan,138,C,32,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162188,52.270278
+Brinklaan,138,C,33,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162233,52.270265
 Brinklaan,138,C,4,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162259,52.270298
-Brinklaan,138,C,5,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162158,52.270300
+Brinklaan,138,C,5,1404GV,Bussum,Gooise Meren,Noord-Holland,VBO,5.162323,52.270260
 Brinklaan,140,,,1404GW,Bussum,Gooise Meren,Noord-Holland,VBO,5.161770,52.269784
 Brinklaan,144,,,1404GW,Bussum,Gooise Meren,Noord-Holland,VBO,5.162533,52.269595
 Brinklaan,146,A,,1404GW,Bussum,Gooise Meren,Noord-Holland,VBO,5.161810,52.269400
@@ -1895,7 +1936,8 @@ Kerkstraat,8,B,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.163766,52.273304
 Kerkstraat,8,C,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.163759,52.273290
 Kerkstraat,8,,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.163585,52.273256
 Kerkstraat,10,,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.163751,52.273315
-Kerkstraat,12,A,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.163891,52.273294
+Kerkstraat,12,A,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.163870,52.273273
+Kerkstraat,12,B,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.163879,52.273240
 Kerkstraat,12,C,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.164075,52.273103
 Kerkstraat,12,,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.163867,52.273288
 Kerkstraat,14,A,,1404HH,Bussum,Gooise Meren,Noord-Holland,VBO,5.164112,52.273237
@@ -1914,7 +1956,6 @@ Kerkstraat,22,,,1404HJ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164779,52.273493
 Kerkstraat,24,A,,1404HJ,Bussum,Gooise Meren,Noord-Holland,VBO,5.165002,52.273459
 Kerkstraat,24,,,1404HJ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164859,52.273506
 Kerkstraat,26,,,1404HJ,Bussum,Gooise Meren,Noord-Holland,VBO,5.165049,52.273456
-Kerkstraat,28,A,,1404HJ,Bussum,Gooise Meren,Noord-Holland,VBO,5.165278,52.273521
 Kerkstraat,28,,,1404HJ,Bussum,Gooise Meren,Noord-Holland,VBO,5.165258,52.273520
 Kerkstraat,30,A,,1404HJ,Bussum,Gooise Meren,Noord-Holland,VBO,5.165431,52.273536
 Kerkstraat,30,B,,1404HJ,Bussum,Gooise Meren,Noord-Holland,VBO,5.165437,52.273515
@@ -2022,7 +2063,6 @@ Sint Vitusstraat,1,,,1404HP,Bussum,Gooise Meren,Noord-Holland,VBO,5.163567,52.27
 Sint Vitusstraat,3,,,1404HP,Bussum,Gooise Meren,Noord-Holland,VBO,5.163729,52.272943
 Sint Vitusstraat,5,,,1404HP,Bussum,Gooise Meren,Noord-Holland,VBO,5.163838,52.273046
 Sint Vitusstraat,7,,,1404HP,Bussum,Gooise Meren,Noord-Holland,VBO,5.164029,52.272919
-Sint Vitusstraat,9,,,1404HP,Bussum,Gooise Meren,Noord-Holland,VBO,5.164100,52.273038
 Sint Vitusstraat,11,,,1404HP,Bussum,Gooise Meren,Noord-Holland,VBO,5.164210,52.272953
 Sint Vitusstraat,17,,,1404HR,Bussum,Gooise Meren,Noord-Holland,VBO,5.164625,52.273145
 Sint Vitusstraat,19,,,1404HR,Bussum,Gooise Meren,Noord-Holland,VBO,5.164912,52.272805
@@ -2159,6 +2199,7 @@ Kapelstraat,28,,,1404HZ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164715,52.274091
 Kapelstraat,30,A,,1404HZ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164673,52.274007
 Kapelstraat,30,,,1404HZ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164793,52.274030
 Kapelstraat,32,A,,1404HZ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164740,52.273956
+Kapelstraat,32,B,,1404HZ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164679,52.273943
 Kapelstraat,32,,,1404HZ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164823,52.273970
 Kapelstraat,34,A,,1404HZ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164840,52.273917
 Kapelstraat,34,B,,1404HZ,Bussum,Gooise Meren,Noord-Holland,VBO,5.164804,52.273910

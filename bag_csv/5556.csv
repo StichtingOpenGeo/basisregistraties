@@ -4,7 +4,6 @@ Molenstraat,209,,,5556TA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.446280,51
 Molenstraat,211,A,,5556TA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.445726,51.336715
 Molenstraat,211,,,5556TA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.445606,51.336746
 Hoeve,5,,,5556TB,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.452916,51.334805
-Hoeve,7,,,5556TB,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.452289,51.334270
 Hoeve,7,,,5556TB,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.452314,51.334211
 Hoeve,10,,,5556TB,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.453539,51.335330
 Hoeve,12,,,5556TB,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.452664,51.335214
@@ -27,6 +26,7 @@ Maastrichterweg,152,,,5556VA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.46291
 Maastrichterweg,154,A,,5556VA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.463331,51.321275
 Maastrichterweg,154,,,5556VA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.463245,51.321472
 Maastrichterweg,156,,,5556VA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.463688,51.320537
+Maastrichterweg,168,,,5556VA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.460808,51.316129
 Maastrichterweg,168,,,5556VA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.460913,51.316189
 Maastrichterweg,190,,,5556VA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.467567,51.307429
 Maastrichterweg,192,,,5556VA,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.467610,51.307321
@@ -87,8 +87,7 @@ Peedijk,15,,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.460026,51.2907
 Peedijk,17,A,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.456413,51.290520
 Peedijk,18,,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.457504,51.291229
 Peedijk,19,,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.455624,51.290493
-Peedijk,23,A,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.453445,51.290422
-Peedijk,23,B,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.453130,51.290396
+Peedijk,23,A,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.453130,51.290396
 Peedijk,23,,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.453273,51.290404
 Peedijk,24,,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.444772,51.290283
 Peedijk,31,,,5556VG,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.449416,51.290011
@@ -97,6 +96,7 @@ Grensweg,1,,,5556VH,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.461469,51.2988
 Grensweg,2,A,,5556VH,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.461256,51.298031
 Grensweg,2,,,5556VH,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.461256,51.298040
 Grensweg,4,,,5556VH,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.461184,51.297744
+Grensweg,4,,,5556VH,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.461475,51.297614
 Grensweg,6,,,5556VH,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.461541,51.296961
 Grensweg,14,,,5556VH,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.461997,51.295019
 Grensweg,15,,,5556VH,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.462214,51.296305
@@ -195,6 +195,7 @@ Dorpsstraat,62,,,5556VL,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.442631,51.
 Dorpsstraat,63,,,5556VL,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.448196,51.299657
 Dorpsstraat,64,,,5556VL,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.442803,51.298014
 Dorpsstraat,65,,,5556VL,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.448368,51.299369
+Dorpsstraat,65,,,5556VL,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.448524,51.299364
 Dorpsstraat,72,,,5556VL,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.445786,51.298786
 Dorpsstraat,73,A,,5556VL,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.451305,51.297300
 Dorpsstraat,73,,,5556VL,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.451247,51.297318
@@ -244,7 +245,8 @@ Hoeverdijk,64,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.427013,51.2
 Hoeverdijk,66,A,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.427070,51.293401
 Hoeverdijk,66,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.427056,51.293536
 Hoeverdijk,68,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.427056,51.293122
-Hoeverdijk,69,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.427485,51.292232
+Hoeverdijk,69,Z,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.427616,51.292370
+Hoeverdijk,69,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.427698,51.292441
 Hoeverdijk,70,Z,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.426792,51.292633
 Hoeverdijk,70,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.427113,51.292664
 Hoeverdijk,76,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.425993,51.290821
@@ -254,7 +256,6 @@ Hoeverdijk,80,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.426304,51.2
 Hoeverdijk,88,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.426247,51.285725
 Hoeverdijk,89,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.425586,51.284475
 Hoeverdijk,90,A,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.423071,51.285189
-Hoeverdijk,90,A,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.423104,51.284879
 Hoeverdijk,90,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.425730,51.285140
 Hoeverdijk,91,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.425486,51.284395
 Hoeverdijk,92,,,5556VN,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.424698,51.284673
@@ -346,7 +347,6 @@ Sportstraat,11,,,5556VW,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.440020,51.
 Sportstraat,12,,,5556VW,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.439762,51.296299
 Sportstraat,13,,,5556VW,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.440092,51.296757
 Sportstraat,15,,,5556VW,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.440149,51.296694
-Kapelweg,3,,,5556VX,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.424840,51.306562
 Kapelweg,3,,,5556VX,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.425191,51.306383
 Kapelweg,4,,,5556VX,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.424242,51.306336
 Kapelweg,5,,,5556VX,Valkenswaard,Valkenswaard,Noord-Brabant,VBO,5.424486,51.305959

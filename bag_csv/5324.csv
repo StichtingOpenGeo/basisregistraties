@@ -340,10 +340,10 @@ Van Milstraat,20,,,5324AX,Ammerzoden,Maasdriel,Gelderland,VBO,5.222243,51.746821
 Van Milstraat,22,,,5324AX,Ammerzoden,Maasdriel,Gelderland,VBO,5.222400,51.746782
 Bovendijk,1,a,,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223144,51.745632
 Bovendijk,1,,,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.224027,51.745862
-Bovendijk,2,,1,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.224013,51.744773
-Bovendijk,2,,10,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.222797,51.744927
+Bovendijk,2,,1,5324AZ,Ammerzoden,Maasdriel,Gelderland,STA,5.224012,51.744741
+Bovendijk,2,,10,5324AZ,Ammerzoden,Maasdriel,Gelderland,STA,5.222785,51.744895
 Bovendijk,2,,11,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.222665,51.744948
-Bovendijk,2,,12,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.222520,51.744970
+Bovendijk,2,,12,5324AZ,Ammerzoden,Maasdriel,Gelderland,STA,5.222505,51.744935
 Bovendijk,2,,13,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.222338,51.744982
 Bovendijk,2,,15,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.222354,51.745159
 Bovendijk,2,,16,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.222499,51.745147
@@ -353,8 +353,8 @@ Bovendijk,2,,19,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.222871,51.745095
 Bovendijk,2,,20,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223053,51.745070
 Bovendijk,2,,21,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223226,51.745040
 Bovendijk,2,,22,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223355,51.745036
-Bovendijk,2,,23,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223521,51.745007
-Bovendijk,2,,24,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223646,51.744993
+Bovendijk,2,,23,5324AZ,Ammerzoden,Maasdriel,Gelderland,STA,5.223522,51.745014
+Bovendijk,2,,24,5324AZ,Ammerzoden,Maasdriel,Gelderland,STA,5.223647,51.745005
 Bovendijk,2,,25,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223756,51.744985
 Bovendijk,2,,26,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223876,51.744958
 Bovendijk,2,,27,5324AZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.223983,51.744938
@@ -578,6 +578,10 @@ Bosdammen,6,,,5324BV,Ammerzoden,Maasdriel,Gelderland,VBO,5.221568,51.753040
 Bosdammen,8,,,5324BV,Ammerzoden,Maasdriel,Gelderland,VBO,5.221365,51.753148
 Bosdammen,10,,,5324BV,Ammerzoden,Maasdriel,Gelderland,VBO,5.221104,51.753327
 Bosdammen,12,,,5324BV,Ammerzoden,Maasdriel,Gelderland,VBO,5.220974,51.753219
+Molenerf,2,,,5324BZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.221344,51.745739
+Molenerf,4,,,5324BZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.221010,51.745805
+Molenerf,6,,,5324BZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.220702,51.745829
+Molenerf,8,,,5324BZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.220246,51.745952
 Ammerstraat,1,,,5324CA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223495,51.748747
 Ammerstraat,3,,,5324CA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223452,51.748711
 Ammerstraat,5,,,5324CA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223235,51.748683
@@ -603,6 +607,7 @@ Ammerstraat,10,,,5324CB,Ammerzoden,Maasdriel,Gelderland,VBO,5.222294,51.748592
 Ammerstraat,12,,,5324CB,Ammerzoden,Maasdriel,Gelderland,VBO,5.222231,51.748540
 Ammerstraat,14,,,5324CB,Ammerzoden,Maasdriel,Gelderland,VBO,5.221962,51.748448
 Ammerstraat,16,,,5324CB,Ammerzoden,Maasdriel,Gelderland,VBO,5.221774,51.748367
+Ammerstraat,18,,,5324CB,Ammerzoden,Maasdriel,Gelderland,VBO,5.221396,51.748297
 Ammerstraat,18,,,5324CB,Ammerzoden,Maasdriel,Gelderland,VBO,5.221499,51.748204
 Ammerstraat,20,,,5324CB,Ammerzoden,Maasdriel,Gelderland,VBO,5.221283,51.748110
 Ammerstraat,22,,,5324CB,Ammerzoden,Maasdriel,Gelderland,VBO,5.221080,51.747997
@@ -725,21 +730,21 @@ St. Clarastraat,23,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217789,51.7490
 St. Clarastraat,25,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217716,51.749143
 St. Clarastraat,27,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217658,51.749179
 St. Clarastraat,29,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217614,51.749215
-St. Clarastraat,31,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.218150,51.749341
-St. Clarastraat,33,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.218063,51.749359
+St. Clarastraat,31,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217811,51.749399
+St. Clarastraat,33,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217903,51.749377
 St. Clarastraat,35,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217961,51.749377
-St. Clarastraat,37,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217874,51.749395
-St. Clarastraat,39,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.217802,51.749413
-St. Clarastraat,41,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218177,51.749755
-St. Clarastraat,43,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218221,51.749728
+St. Clarastraat,37,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.218067,51.749338
+St. Clarastraat,39,,,5324CK,Ammerzoden,Maasdriel,Gelderland,VBO,5.218152,51.749317
+St. Clarastraat,41,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218424,51.749602
+St. Clarastraat,43,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218366,51.749647
 St. Clarastraat,45,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218293,51.749683
-St. Clarastraat,47,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218366,51.749647
-St. Clarastraat,49,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218424,51.749602
-St. Clarastraat,51,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218365,51.749958
-St. Clarastraat,53,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218456,51.749941
+St. Clarastraat,47,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218221,51.749728
+St. Clarastraat,49,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218177,51.749755
+St. Clarastraat,51,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218364,51.749941
+St. Clarastraat,53,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218451,51.749920
 St. Clarastraat,55,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218529,51.749923
-St. Clarastraat,57,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218622,51.749898
-St. Clarastraat,59,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218711,51.749881
+St. Clarastraat,57,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218614,51.749881
+St. Clarastraat,59,,,5324CL,Ammerzoden,Maasdriel,Gelderland,VBO,5.218702,51.749861
 St. Clarastraat,2,,,5324CM,Ammerzoden,Maasdriel,Gelderland,VBO,5.217531,51.748361
 St. Clarastraat,4,,,5324CM,Ammerzoden,Maasdriel,Gelderland,VBO,5.217603,51.748406
 St. Clarastraat,6,,,5324CM,Ammerzoden,Maasdriel,Gelderland,VBO,5.217690,51.748505
@@ -1357,14 +1362,32 @@ Meander,9,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222791,51.754635
 Meander,11,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222728,51.754664
 Meander,13,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222659,51.754690
 Meander,15,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222598,51.754723
+Meander,16,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223245,51.754204
 Meander,17,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222495,51.754769
+Meander,18,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223294,51.754249
 Meander,19,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222429,51.754792
+Meander,20,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223406,51.754353
 Meander,21,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222365,51.754829
+Meander,22,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223452,51.754399
 Meander,23,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222294,51.754854
+Meander,24,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223875,51.754471
 Meander,25,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222183,51.754904
+Meander,26,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223801,51.754499
 Meander,27,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222119,51.754934
+Meander,28,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223685,51.754587
 Meander,29,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222050,51.754958
+Meander,30,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223615,51.754614
 Meander,31,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.221989,51.754993
+Meander,32,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223475,51.754680
+Meander,34,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223408,51.754710
+Meander,36,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223264,51.754772
+Meander,38,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223194,51.754805
+Meander,40,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.223053,51.754868
+Meander,42,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222984,51.754901
+Meander,44,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222852,51.754961
+Meander,46,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222766,51.754996
+Meander,48,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222639,51.755066
+Meander,50,,,5324JA,Ammerzoden,Maasdriel,Gelderland,VBO,5.222568,51.755092
 Oeverwal,1,,,5324JB,Ammerzoden,Maasdriel,Gelderland,VBO,5.222389,51.753905
 Oeverwal,2,,,5324JB,Ammerzoden,Maasdriel,Gelderland,VBO,5.222767,51.754230
 Oeverwal,3,,,5324JB,Ammerzoden,Maasdriel,Gelderland,VBO,5.222311,51.753934
@@ -1523,10 +1546,13 @@ Uilecotenweg,7,a,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.224733,51.752039
 Uilecotenweg,7,,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.224162,51.752001
 Uilecotenweg,8,,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.222914,51.753285
 Uilecotenweg,9,,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.223526,51.752441
+Uilecotenweg,10,a,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.222033,51.753591
+Uilecotenweg,10,b,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.221841,51.753689
 Uilecotenweg,10,c,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.221632,51.753755
 Uilecotenweg,10,c,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.221709,51.753912
 Uilecotenweg,10,d,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.221448,51.753839
 Uilecotenweg,10,e,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.221229,51.753925
+Uilecotenweg,10,h,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.220549,51.754237
 Uilecotenweg,11,,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.223134,51.752647
 Uilecotenweg,12,,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.220274,51.754369
 Uilecotenweg,14,,,5324JT,Ammerzoden,Maasdriel,Gelderland,VBO,5.219404,51.754709
@@ -1624,6 +1650,7 @@ Industrieweg,13,,,5324JX,Ammerzoden,Maasdriel,Gelderland,VBO,5.215556,51.753553
 Industrieweg,14,,,5324JX,Ammerzoden,Maasdriel,Gelderland,VBO,5.216536,51.754795
 Industrieweg,15,,,5324JX,Ammerzoden,Maasdriel,Gelderland,VBO,5.215743,51.753913
 Nieuwe Kade,3,,,5324JZ,Ammerzoden,Maasdriel,Gelderland,VBO,5.234442,51.749103
+Horenkamp,1,,,5324XA,Ammerzoden,Maasdriel,Gelderland,VBO,5.212205,51.746456
 Horenkamp,1,,,5324XA,Ammerzoden,Maasdriel,Gelderland,VBO,5.212238,51.746483
 Horenkamp,11,,,5324XA,Ammerzoden,Maasdriel,Gelderland,VBO,5.211889,51.746959
 Horenkamp,15,,,5324XA,Ammerzoden,Maasdriel,Gelderland,VBO,5.211787,51.747076

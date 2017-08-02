@@ -6,7 +6,6 @@ Mariekerkseweg,2,,,4365AA,Meliskerke,Veere,Zeeland,VBO,3.514517,51.514305
 Mariekerkseweg,3,,,4365AA,Meliskerke,Veere,Zeeland,VBO,3.514345,51.514652
 Mariekerkseweg,5,,,4365AA,Meliskerke,Veere,Zeeland,VBO,3.514531,51.514664
 Mariekerkseweg,6,,,4365AA,Meliskerke,Veere,Zeeland,VBO,3.515594,51.514239
-Mariekerkseweg,6,,,4365AA,Meliskerke,Veere,Zeeland,VBO,3.515690,51.514180
 Mariekerkseweg,7,,,4365AA,Meliskerke,Veere,Zeeland,VBO,3.514804,51.514696
 Mariekerkseweg,8,,,4365AA,Meliskerke,Veere,Zeeland,VBO,3.516274,51.513991
 Mariekerkseweg,9,,,4365AA,Meliskerke,Veere,Zeeland,VBO,3.514991,51.514690
@@ -57,6 +56,7 @@ Torenstraat,5,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510758,51.515305
 Torenstraat,9,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510667,51.515421
 Torenstraat,11,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510636,51.515483
 Torenstraat,13,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510576,51.515536
+Torenstraat,15,A,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510708,51.515775
 Torenstraat,15,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510683,51.515735
 Torenstraat,17,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510721,51.515871
 Torenstraat,19,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510717,51.515970
@@ -66,6 +66,7 @@ Torenstraat,25,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510722,51.516186
 Torenstraat,27,A,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510092,51.516548
 Torenstraat,27,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510700,51.516316
 Torenstraat,29,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510711,51.516446
+Torenstraat,29,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510738,51.516463
 Torenstraat,31,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510694,51.516518
 Torenstraat,33,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510674,51.516643
 Torenstraat,35,,,4365AD,Meliskerke,Veere,Zeeland,VBO,3.510610,51.516795
@@ -366,7 +367,6 @@ Bergstraat,17,,,4365BC,Meliskerke,Veere,Zeeland,VBO,3.508925,51.516076
 Bergstraat,19,,,4365BC,Meliskerke,Veere,Zeeland,VBO,3.508667,51.516054
 Bergstraat,21,,,4365BC,Meliskerke,Veere,Zeeland,VBO,3.508566,51.516052
 Bergstraat,2,,,4365BD,Meliskerke,Veere,Zeeland,VBO,3.510671,51.515681
-Bergstraat,4,,,4365BD,Meliskerke,Veere,Zeeland,VBO,3.510693,51.515786
 Bergstraat,6,,,4365BD,Meliskerke,Veere,Zeeland,VBO,3.510229,51.515917
 Bergstraat,8,,,4365BD,Meliskerke,Veere,Zeeland,VBO,3.510111,51.515987
 Bergstraat,12,A,,4365BD,Meliskerke,Veere,Zeeland,VBO,3.510059,51.516284
@@ -486,9 +486,9 @@ de Brouwpit,11,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.513863,51.516776
 de Brouwpit,12,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514124,51.517047
 de Brouwpit,13,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514023,51.516769
 de Brouwpit,14,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514257,51.517023
-de Brouwpit,15,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514127,51.516782
-de Brouwpit,17,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514239,51.516784
-de Brouwpit,19,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514347,51.516791
+de Brouwpit,15,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514078,51.516777
+de Brouwpit,17,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514170,51.516786
+de Brouwpit,19,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514272,51.516794
 de Brouwpit,21,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514413,51.516796
 de Brouwpit,23,,,4365BK,Meliskerke,Veere,Zeeland,VBO,3.514516,51.516802
 Molenwerf,1,,,4365BL,Meliskerke,Veere,Zeeland,VBO,3.511391,51.517095
@@ -500,6 +500,7 @@ Molenwerf,11,,,4365BL,Meliskerke,Veere,Zeeland,VBO,3.513403,51.517326
 Molenwerf,13,,,4365BL,Meliskerke,Veere,Zeeland,VBO,3.513570,51.517337
 Molenwerf,15,,,4365BL,Meliskerke,Veere,Zeeland,VBO,3.513648,51.517343
 Molenwerf,17,,,4365BL,Meliskerke,Veere,Zeeland,VBO,3.513950,51.517334
+Molenwerf,19,,,4365BL,Meliskerke,Veere,Zeeland,VBO,3.514019,51.517323
 Molenwerf,2,,,4365BM,Meliskerke,Veere,Zeeland,VBO,3.511320,51.517400
 Molenwerf,4,,,4365BM,Meliskerke,Veere,Zeeland,VBO,3.511623,51.517396
 Molenwerf,6,,,4365BM,Meliskerke,Veere,Zeeland,VBO,3.512284,51.517451
@@ -516,10 +517,12 @@ Molenwerf,26,,,4365BM,Meliskerke,Veere,Zeeland,VBO,3.514842,51.516991
 Molenwerf,28,,,4365BM,Meliskerke,Veere,Zeeland,VBO,3.514873,51.516859
 Kaasboerweg,1,,,4365NA,Meliskerke,Veere,Zeeland,VBO,3.514462,51.509350
 Kaasboerweg,2,,,4365NA,Meliskerke,Veere,Zeeland,VBO,3.511738,51.511464
+Kaasboerweg,3,A,,4365NA,Meliskerke,Veere,Zeeland,VBO,3.514026,51.509826
 Kaasboerweg,3,,,4365NA,Meliskerke,Veere,Zeeland,VBO,3.514524,51.509603
 Kaasboerweg,4,,,4365NA,Meliskerke,Veere,Zeeland,VBO,3.511978,51.510533
 Blauwpoortsweg,1,,,4365NB,Meliskerke,Veere,Zeeland,VBO,3.509854,51.511029
 Blauwpoortsweg,2,,,4365NB,Meliskerke,Veere,Zeeland,VBO,3.508722,51.509522
+Jan Geertsesweg,1,,,4365NC,Meliskerke,Veere,Zeeland,VBO,3.503276,51.513667
 Jan Geertsesweg,1,,,4365NC,Meliskerke,Veere,Zeeland,VBO,3.503639,51.513581
 Jan Geertsesweg,2,,,4365NC,Meliskerke,Veere,Zeeland,VBO,3.506339,51.511377
 Jan Geertsesweg,4,,,4365NC,Meliskerke,Veere,Zeeland,VBO,3.505200,51.512770
@@ -576,6 +579,7 @@ Mariekerke,5,,,4365NK,Meliskerke,Veere,Zeeland,VBO,3.527789,51.522383
 Mariekerke,7,,,4365NK,Meliskerke,Veere,Zeeland,VBO,3.527991,51.522746
 Mariekerke,9,A,,4365NK,Meliskerke,Veere,Zeeland,VBO,3.527327,51.523271
 Mariekerke,9,,,4365NK,Meliskerke,Veere,Zeeland,VBO,3.527751,51.523318
+Mariekerke,9,,,4365NK,Meliskerke,Veere,Zeeland,VBO,3.527774,51.523377
 Mariekerke,11,,,4365NK,Meliskerke,Veere,Zeeland,VBO,3.527517,51.523755
 Mariekerke,13,,,4365NK,Meliskerke,Veere,Zeeland,VBO,3.527726,51.526743
 Mariekerke,15,,,4365NK,Meliskerke,Veere,Zeeland,VBO,3.528279,51.527327

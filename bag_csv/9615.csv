@@ -25,7 +25,6 @@ Hoofdweg,53,A,,9615AB,Kolham,Slochteren,Groningen,VBO,6.752960,53.183616
 Hoofdweg,53,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.753266,53.183602
 Hoofdweg,55,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.752663,53.183500
 Hoofdweg,57,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.751928,53.183302
-Hoofdweg,59,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.751314,53.183161
 Hoofdweg,61,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.750653,53.182843
 Hoofdweg,63,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.750258,53.182748
 Hoofdweg,65,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.749832,53.182657
@@ -38,6 +37,7 @@ Hoofdweg,67,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.747887,53.182195
 Hoofdweg,69,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.747654,53.182108
 Hoofdweg,73,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.747381,53.182108
 Hoofdweg,75,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.746937,53.182183
+Hoofdweg,77,A,,9615AB,Kolham,Slochteren,Groningen,VBO,6.746722,53.182928
 Hoofdweg,77,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.746638,53.182141
 Hoofdweg,79,,,9615AB,Kolham,Slochteren,Groningen,VBO,6.746360,53.182159
 Hoofdweg,81,A,,9615AB,Kolham,Slochteren,Groningen,VBO,6.745402,53.182224
@@ -67,7 +67,7 @@ Hoofdweg,119,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.735984,53.182540
 Hoofdweg,121,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.735721,53.182584
 Hoofdweg,123,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.734925,53.182723
 Hoofdweg,125,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.735919,53.184088
-Hoofdweg,127,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.734562,53.182791
+Hoofdweg,127,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.734532,53.182802
 Hoofdweg,131,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.734248,53.182804
 Hoofdweg,133,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.734153,53.182822
 Hoofdweg,135,,,9615AC,Kolham,Slochteren,Groningen,VBO,6.733847,53.182984
@@ -93,6 +93,7 @@ Hoofdweg,86,,,9615AD,Kolham,Slochteren,Groningen,VBO,6.735032,53.182469
 Hoofdweg,88,,,9615AD,Kolham,Slochteren,Groningen,VBO,6.734862,53.182480
 Hoofdweg,90,A,,9615AD,Kolham,Slochteren,Groningen,VBO,6.734544,53.182142
 Hoofdweg,90,,,9615AD,Kolham,Slochteren,Groningen,VBO,6.734773,53.182241
+Hoofdweg,141,A,,9615AD,Kolham,Slochteren,Groningen,VBO,6.733906,53.186779
 Hoofdweg,141,,,9615AD,Kolham,Slochteren,Groningen,VBO,6.733705,53.186661
 Hoofdweg,143,,,9615AD,Kolham,Slochteren,Groningen,VBO,6.733318,53.187033
 Hoofdweg,149,,,9615AD,Kolham,Slochteren,Groningen,VBO,6.731020,53.183419
@@ -577,6 +578,7 @@ Knijpslaan,180,,,9615BJ,Kolham,Slochteren,Groningen,VBO,6.754538,53.172416
 Knijpslaan,182,,TRAF,9615BJ,Kolham,Slochteren,Groningen,VBO,6.754832,53.171553
 Knijpslaan,182,,,9615BJ,Kolham,Slochteren,Groningen,VBO,6.754677,53.171872
 De Valckelaan,2,,,9615BK,Kolham,Slochteren,Groningen,VBO,6.727947,53.177472
+Uiterdijk,1,,,9615BX,Kolham,Slochteren,Groningen,VBO,6.738088,53.182943
 Wilgenlaan,16,,TRAF,9615CA,Kolham,Slochteren,Groningen,VBO,6.743555,53.184240
 Wilgenlaan,16,,,9615CA,Kolham,Slochteren,Groningen,VBO,6.743788,53.184258
 Wilgenlaan,18,,,9615CA,Kolham,Slochteren,Groningen,VBO,6.743791,53.184284
@@ -622,7 +624,26 @@ van Arnhemslaan,10,,,9615TD,Kolham,Slochteren,Groningen,VBO,6.720314,53.173754
 A. Einsteinlaan,1,,,9615TE,Kolham,Slochteren,Groningen,VBO,6.729623,53.172411
 A. Einsteinlaan,3,,,9615TE,Kolham,Slochteren,Groningen,VBO,6.730468,53.172249
 A. Einsteinlaan,5,,,9615TE,Kolham,Slochteren,Groningen,VBO,6.731501,53.172067
-A. Einsteinlaan,7,,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732297,53.171910
+A. Einsteinlaan,7,A,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732343,53.171858
+A. Einsteinlaan,7,B,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732318,53.171814
+A. Einsteinlaan,7,C,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732295,53.171767
+A. Einsteinlaan,7,D,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732280,53.171721
+A. Einsteinlaan,7,E,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732259,53.171683
+A. Einsteinlaan,7,F,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732230,53.171650
+A. Einsteinlaan,7,G,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732198,53.171605
+A. Einsteinlaan,7,H,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732183,53.171560
+A. Einsteinlaan,7,J,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732161,53.171513
+A. Einsteinlaan,7,K,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732210,53.171920
+A. Einsteinlaan,7,L,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732194,53.171882
+A. Einsteinlaan,7,M,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732177,53.171836
+A. Einsteinlaan,7,N,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732147,53.171787
+A. Einsteinlaan,7,P,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732124,53.171746
+A. Einsteinlaan,7,Q,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732110,53.171703
+A. Einsteinlaan,7,R,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732087,53.171662
+A. Einsteinlaan,7,S,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732064,53.171622
+A. Einsteinlaan,7,T,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732038,53.171583
+A. Einsteinlaan,7,U,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732010,53.171538
+A. Einsteinlaan,7,,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732359,53.171896
 A. Einsteinlaan,9,A,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732561,53.171811
 A. Einsteinlaan,9,B,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732540,53.171763
 A. Einsteinlaan,9,C,,9615TE,Kolham,Slochteren,Groningen,VBO,6.732516,53.171716
@@ -693,8 +714,12 @@ A. Plesmanlaan,6,,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732710,53.173784
 A. Plesmanlaan,22,,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732303,53.172962
 A. Plesmanlaan,24,A,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732201,53.172603
 A. Plesmanlaan,24,B,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732156,53.172510
-A. Plesmanlaan,24,C,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732122,53.172435
-A. Plesmanlaan,24,,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732239,53.172681
+A. Plesmanlaan,24,C,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732131,53.172462
+A. Plesmanlaan,24,D,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732110,53.172415
+A. Plesmanlaan,24,E,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732668,53.172441
+A. Plesmanlaan,24,F,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732579,53.172644
+A. Plesmanlaan,24,G,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732451,53.172670
+A. Plesmanlaan,24,,,9615TH,Kolham,Slochteren,Groningen,VBO,6.732254,53.172694
 A. Plesmanlaan,1,A,,9615TJ,Kolham,Slochteren,Groningen,VBO,6.733111,53.175935
 A. Plesmanlaan,1,B,,9615TJ,Kolham,Slochteren,Groningen,VBO,6.732975,53.175964
 A. Plesmanlaan,1,C,,9615TJ,Kolham,Slochteren,Groningen,VBO,6.732834,53.175990
@@ -743,9 +768,10 @@ Marie Curielaan,2,,,9615TL,Kolham,Slochteren,Groningen,VBO,6.739072,53.170219
 A.B. Nobellaan,1,,,9615TM,Kolham,Slochteren,Groningen,VBO,6.738809,53.173957
 A.B. Nobellaan,5,,,9615TM,Kolham,Slochteren,Groningen,VBO,6.741134,53.173099
 gebr. Wrightlaan,1,,,9615TN,Kolham,Slochteren,Groningen,VBO,6.733515,53.171715
-gebr. Wrightlaan,2,A,,9615TN,Kolham,Slochteren,Groningen,VBO,6.734253,53.171098
-gebr. Wrightlaan,2,B,,9615TN,Kolham,Slochteren,Groningen,VBO,6.734343,53.171006
-gebr. Wrightlaan,2,,,9615TN,Kolham,Slochteren,Groningen,VBO,6.734578,53.171460
+gebr. Wrightlaan,2,A,,9615TN,Kolham,Slochteren,Groningen,VBO,6.734438,53.171032
+gebr. Wrightlaan,2,B,,9615TN,Kolham,Slochteren,Groningen,VBO,6.734438,53.171434
+gebr. Wrightlaan,2,C,,9615TN,Kolham,Slochteren,Groningen,VBO,6.734674,53.171397
+gebr. Wrightlaan,2,,,9615TN,Kolham,Slochteren,Groningen,VBO,6.734324,53.171267
 W.J. Ockelslaan,2,,,9615TP,Kolham,Slochteren,Groningen,VBO,6.747695,53.170922
 W.J. Ockelslaan,4,,,9615TP,Kolham,Slochteren,Groningen,VBO,6.746476,53.170206
 A. Einsteinlaan,20,,,9615TR,Kolham,Slochteren,Groningen,VBO,6.746653,53.169755

@@ -1,6 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Symphoniesingel,40,,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.670280,50.862829
-Symphoniesingel,42,,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.669879,50.862725
 Symphoniesingel,60,,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.668113,50.862930
 Symphoniesingel,62,A,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.667692,50.862969
 Symphoniesingel,62,B,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.667692,50.862969
@@ -85,8 +83,10 @@ Symphoniesingel,124,C,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.666922,50.8622
 Symphoniesingel,126,A,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.666922,50.862282
 Symphoniesingel,126,B,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.666922,50.862282
 Symphoniesingel,126,C,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.666922,50.862282
+Symphoniesingel,130,,TR,6218AA,Maastricht,Maastricht,Limburg,VBO,5.665975,50.861854
 Symphoniesingel,132,,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.664671,50.861964
 Symphoniesingel,134,,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.664453,50.861702
+Symphoniesingel,136,,,6218AA,Maastricht,Maastricht,Limburg,VBO,5.664384,50.861634
 Reinaartsingel,50,,,6218AC,Maastricht,Maastricht,Limburg,VBO,5.660969,50.861400
 Reinaartsingel,60,A,,6218AC,Maastricht,Maastricht,Limburg,VBO,5.658893,50.860143
 Reinaartsingel,60,B,,6218AC,Maastricht,Maastricht,Limburg,VBO,5.658893,50.860143
@@ -137,7 +137,6 @@ Taliënruwe,15,C,,6218AD,Maastricht,Maastricht,Limburg,VBO,5.657818,50.860066
 Taliënruwe,17,C,,6218AE,Maastricht,Maastricht,Limburg,VBO,5.657644,50.860031
 Taliënruwe,19,C,,6218AE,Maastricht,Maastricht,Limburg,VBO,5.657542,50.859999
 Taliënruwe,21,C,,6218AE,Maastricht,Maastricht,Limburg,VBO,5.657432,50.859966
-Taliënruwe,23,C,,6218AE,Maastricht,Maastricht,Limburg,VBO,5.657327,50.859936
 Taliënruwe,25,C,,6218AE,Maastricht,Maastricht,Limburg,VBO,5.657197,50.859896
 Taliënruwe,35,A,,6218AE,Maastricht,Maastricht,Limburg,VBO,5.656509,50.859641
 Taliënruwe,35,B,,6218AE,Maastricht,Maastricht,Limburg,VBO,5.656509,50.859641
@@ -420,7 +419,8 @@ Busselplein,32,E,,6218AT,Maastricht,Maastricht,Limburg,VBO,5.655367,50.861591
 Busselplein,32,F,,6218AT,Maastricht,Maastricht,Limburg,VBO,5.655367,50.861591
 Busselplein,32,H,,6218AT,Maastricht,Maastricht,Limburg,VBO,5.655367,50.861591
 Busselplein,32,K,,6218AT,Maastricht,Maastricht,Limburg,VBO,5.655367,50.861591
-Malbergsingel,6,,,6218AV,Maastricht,Maastricht,Limburg,VBO,5.658994,50.865712
+Malbergsingel,6,B,,6218AV,Maastricht,Maastricht,Limburg,VBO,5.659030,50.865730
+Malbergsingel,6,,,6218AV,Maastricht,Maastricht,Limburg,VBO,5.659030,50.865730
 Malbergsingel,40,,,6218AV,Maastricht,Maastricht,Limburg,VBO,5.655973,50.864428
 Malbergsingel,42,,,6218AV,Maastricht,Maastricht,Limburg,VBO,5.655918,50.864400
 Malbergsingel,44,,,6218AV,Maastricht,Maastricht,Limburg,VBO,5.655859,50.864375
@@ -1403,7 +1403,7 @@ Peerdekensruwe,4,,,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661816,50.863456
 Peerdekensruwe,6,,,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661741,50.863427
 Peerdekensruwe,8,,,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661673,50.863399
 Peerdekensruwe,10,,,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661598,50.863370
-Peerdekensruwe,12,,TR,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661437,50.863476
+Peerdekensruwe,12,,TR,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661451,50.863464
 Peerdekensruwe,12,,,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661524,50.863343
 Peerdekensruwe,14,,,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661417,50.863204
 Peerdekensruwe,16,,,6218EE,Maastricht,Maastricht,Limburg,VBO,5.661344,50.863172
@@ -1823,7 +1823,7 @@ Alde Caerteruwe,7,,,6218ER,Maastricht,Maastricht,Limburg,STA,5.657482,50.868517
 Alde Caerteruwe,8,,,6218ER,Maastricht,Maastricht,Limburg,VBO,5.656348,50.868324
 Alde Caerteruwe,10,,,6218ER,Maastricht,Maastricht,Limburg,VBO,5.657218,50.868204
 Alde Caerteruwe,11,,,6218ER,Maastricht,Maastricht,Limburg,STA,5.657491,50.868912
-Alde Caerteruwe,12,,,6218ER,Maastricht,Maastricht,Limburg,VBO,5.657137,50.868038
+Alde Caerteruwe,12,,,6218ER,Maastricht,Maastricht,Limburg,VBO,5.656808,50.868030
 Alde Caerteruwe,13,,,6218ER,Maastricht,Maastricht,Limburg,STA,5.657576,50.868805
 Alde Caerteruwe,14,,,6218ER,Maastricht,Maastricht,Limburg,VBO,5.657340,50.868087
 Alde Caerteruwe,16,,,6218ER,Maastricht,Maastricht,Limburg,VBO,5.657483,50.867931
@@ -2123,7 +2123,6 @@ Spartodonk,15,,,6218GM,Maastricht,Maastricht,Limburg,VBO,5.663295,50.865617
 Spartodonk,16,,,6218GM,Maastricht,Maastricht,Limburg,VBO,5.663111,50.865809
 Spartodonk,17,,,6218GM,Maastricht,Maastricht,Limburg,VBO,5.663234,50.865575
 Spartodonk,18,,,6218GM,Maastricht,Maastricht,Limburg,VBO,5.663049,50.865767
-Spartodonk,19,B,,6218GM,Maastricht,Maastricht,Limburg,VBO,5.663114,50.865495
 Spartodonk,19,,,6218GM,Maastricht,Maastricht,Limburg,VBO,5.663114,50.865495
 Spartodonk,20,,,6218GM,Maastricht,Maastricht,Limburg,VBO,5.662927,50.865685
 Spartodonk,21,,,6218GM,Maastricht,Maastricht,Limburg,VBO,5.663052,50.865453
@@ -2169,6 +2168,7 @@ Pergamijndonk,11,G,03,6218GT,Maastricht,Maastricht,Limburg,VBO,5.660443,50.86844
 Pergamijndonk,11,G,04,6218GT,Maastricht,Maastricht,Limburg,VBO,5.660477,50.868429
 Pergamijndonk,41,G,01,6218GT,Maastricht,Maastricht,Limburg,VBO,5.661052,50.868156
 Pergamijndonk,41,G,02,6218GT,Maastricht,Maastricht,Limburg,VBO,5.661094,50.868142
+Pergamijndonk,41,G,03,6218GT,Maastricht,Maastricht,Limburg,VBO,5.661130,50.868131
 Pergamijndonk,41,G,04,6218GT,Maastricht,Maastricht,Limburg,VBO,5.661163,50.868103
 Pergamijndonk,71,G,01,6218GT,Maastricht,Maastricht,Limburg,VBO,5.661733,50.867835
 Pergamijndonk,71,G,02,6218GT,Maastricht,Maastricht,Limburg,VBO,5.661772,50.867817
@@ -2557,7 +2557,7 @@ van Akenweg,82,,,6218HP,Maastricht,Maastricht,Limburg,VBO,5.665286,50.866558
 van Akenweg,84,,,6218HP,Maastricht,Maastricht,Limburg,VBO,5.664892,50.867102
 van Akenweg,86,,,6218HP,Maastricht,Maastricht,Limburg,VBO,5.664813,50.867110
 van Akenweg,90,,,6218HP,Maastricht,Maastricht,Limburg,VBO,5.663759,50.867753
-van Akenweg,96,,,6218HP,Maastricht,Maastricht,Limburg,VBO,5.662775,50.868266
+van Akenweg,96,,,6218HP,Maastricht,Maastricht,Limburg,VBO,5.662891,50.868258
 Postbaan,1,,TR01,6218HS,Maastricht,Maastricht,Limburg,VBO,5.674368,50.873102
 Postbaan,1,,TR02,6218HS,Maastricht,Maastricht,Limburg,VBO,5.674479,50.872109
 Postbaan,1,,TR03,6218HS,Maastricht,Maastricht,Limburg,VBO,5.674018,50.870618
@@ -3610,6 +3610,7 @@ Recessenplein,66,,,6218VD,Maastricht,Maastricht,Limburg,VBO,5.656274,50.865211
 Recessenplein,67,,,6218VD,Maastricht,Maastricht,Limburg,VBO,5.656340,50.865238
 Recessenplein,68,,,6218VD,Maastricht,Maastricht,Limburg,VBO,5.656405,50.865265
 Recessenplein,69,,,6218VD,Maastricht,Maastricht,Limburg,VBO,5.656472,50.865293
+Recessenplein,71,,TR,6218VD,Maastricht,Maastricht,Limburg,VBO,5.656663,50.865403
 Recessenplein,41,A,,6218VG,Maastricht,Maastricht,Limburg,VBO,5.656445,50.864666
 Recessenplein,41,B,,6218VG,Maastricht,Maastricht,Limburg,VBO,5.656445,50.864666
 Recessenplein,41,C,,6218VG,Maastricht,Maastricht,Limburg,VBO,5.656445,50.864666
@@ -4098,7 +4099,6 @@ Toustruwe,19,,,6218XX,Maastricht,Maastricht,Limburg,VBO,5.653068,50.866418
 Toustruwe,21,,,6218XX,Maastricht,Maastricht,Limburg,VBO,5.653159,50.866327
 Toustruwe,6,,,6218XZ,Maastricht,Maastricht,Limburg,VBO,5.656477,50.868740
 Toustruwe,10,,,6218XZ,Maastricht,Maastricht,Limburg,VBO,5.654494,50.869314
-Toustruwe,12,,,6218XZ,Maastricht,Maastricht,Limburg,VBO,5.654866,50.869468
 Toustruwe,42,,,6218XZ,Maastricht,Maastricht,Limburg,VBO,5.652489,50.866658
 Toustruwe,44,,,6218XZ,Maastricht,Maastricht,Limburg,VBO,5.652581,50.866567
 Toustruwe,46,,,6218XZ,Maastricht,Maastricht,Limburg,VBO,5.652675,50.866478

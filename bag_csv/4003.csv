@@ -840,7 +840,6 @@ De Blomboogerd,10,a,,4003BX,Tiel,Tiel,Gelderland,VBO,5.438707,51.899260
 De Blomboogerd,10,b,,4003BX,Tiel,Tiel,Gelderland,VBO,5.437949,51.899131
 De Blomboogerd,10,,,4003BX,Tiel,Tiel,Gelderland,VBO,5.438121,51.899159
 De Blomboogerd,12,,,4003BX,Tiel,Tiel,Gelderland,VBO,5.437843,51.899330
-Grotebrugse Grintweg,225,,,4003BZ,Tiel,Tiel,Gelderland,VBO,5.442100,51.900139
 Grotebrugse Grintweg,229,,,4003BZ,Tiel,Tiel,Gelderland,VBO,5.442346,51.902374
 Grotebrugse Grintweg,233,,,4003BZ,Tiel,Tiel,Gelderland,VBO,5.446168,51.903101
 Grotebrugse Grintweg,235,,,4003BZ,Tiel,Tiel,Gelderland,VBO,5.446836,51.903122
@@ -945,7 +944,7 @@ Burgemeester Meslaan,96,,,4003CD,Tiel,Tiel,Gelderland,VBO,5.408767,51.896207
 Burgemeester Meslaan,98,,,4003CD,Tiel,Tiel,Gelderland,VBO,5.408515,51.896243
 Burgemeester Meslaan,100,,,4003CD,Tiel,Tiel,Gelderland,VBO,5.408292,51.896286
 Burgemeester Meslaan,102,,,4003CD,Tiel,Tiel,Gelderland,VBO,5.408045,51.896316
-Burgemeester Meslaan,104,,,4003CD,Tiel,Tiel,Gelderland,VBO,5.407730,51.896355
+Burgemeester Meslaan,104,,,4003CD,Tiel,Tiel,Gelderland,VBO,5.407756,51.896337
 Burgemeester Meslaan,106,,,4003CD,Tiel,Tiel,Gelderland,VBO,5.407432,51.896456
 Burgemeester Meslaan,110,,,4003CD,Tiel,Tiel,Gelderland,VBO,5.406583,51.896484
 Burgemeester Meslaan,116,,,4003CE,Tiel,Tiel,Gelderland,VBO,5.405752,51.896785
@@ -2075,6 +2074,7 @@ Rijsakkerweg,11,,,4003JL,Tiel,Tiel,Gelderland,VBO,5.420961,51.908759
 Rijsakkerweg,12,,,4003JL,Tiel,Tiel,Gelderland,VBO,5.420585,51.910359
 Rijsakkerweg,13,,,4003JL,Tiel,Tiel,Gelderland,VBO,5.418328,51.909568
 Rijsakkerweg,14,,,4003JL,Tiel,Tiel,Gelderland,VBO,5.418481,51.910061
+Rijsakkerweg,15,a,,4003JL,Tiel,Tiel,Gelderland,VBO,5.417828,51.909229
 Rijsakkerweg,15,,,4003JL,Tiel,Tiel,Gelderland,VBO,5.417697,51.909628
 Rijsakkerweg,16,,,4003JL,Tiel,Tiel,Gelderland,VBO,5.416699,51.910530
 Rijsakkerweg,17,a,,4003JL,Tiel,Tiel,Gelderland,VBO,5.416103,51.910586
@@ -2092,10 +2092,19 @@ Nicolaas Beetsstraat,11,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405794,51.888237
 Nicolaas Beetsstraat,13,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405845,51.888194
 Nicolaas Beetsstraat,15,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405876,51.888154
 Nicolaas Beetsstraat,17,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405913,51.888107
+Nicolaas Beetsstraat,19,,1,4003KA,Tiel,Tiel,Gelderland,VBO,5.405570,51.887987
 Nicolaas Beetsstraat,19,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405534,51.887981
+Nicolaas Beetsstraat,19,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405570,51.887987
+Nicolaas Beetsstraat,21,,1,4003KA,Tiel,Tiel,Gelderland,VBO,5.405601,51.887942
 Nicolaas Beetsstraat,21,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405578,51.887936
+Nicolaas Beetsstraat,21,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405601,51.887942
+Nicolaas Beetsstraat,23,,1,4003KA,Tiel,Tiel,Gelderland,VBO,5.405640,51.887900
 Nicolaas Beetsstraat,23,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405636,51.887905
+Nicolaas Beetsstraat,23,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405640,51.887900
+Nicolaas Beetsstraat,25,a,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405663,51.887836
+Nicolaas Beetsstraat,25,,1,4003KA,Tiel,Tiel,Gelderland,VBO,5.405663,51.887836
 Nicolaas Beetsstraat,25,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405656,51.887849
+Nicolaas Beetsstraat,25,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405663,51.887836
 Nicolaas Beetsstraat,27,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405389,51.888116
 Nicolaas Beetsstraat,29,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405317,51.888093
 Nicolaas Beetsstraat,31,,,4003KA,Tiel,Tiel,Gelderland,VBO,5.405236,51.888071
@@ -2656,7 +2665,7 @@ Siependaallaan,1,,,4003LE,Tiel,Tiel,Gelderland,VBO,5.412202,51.889247
 Siependaallaan,3,,,4003LE,Tiel,Tiel,Gelderland,VBO,5.413943,51.889054
 Aldenhagelaan,1,,,4003TA,Tiel,Tiel,Gelderland,VBO,5.405435,51.895310
 Aldenhagelaan,3,,,4003TA,Tiel,Tiel,Gelderland,VBO,5.405344,51.895326
-Aldenhagelaan,5,,,4003TA,Tiel,Tiel,Gelderland,VBO,5.404874,51.895417
+Aldenhagelaan,5,,,4003TA,Tiel,Tiel,Gelderland,VBO,5.404827,51.895426
 Aldenhagelaan,7,,,4003TA,Tiel,Tiel,Gelderland,VBO,5.404818,51.895316
 Aldenhagelaan,9,,,4003TA,Tiel,Tiel,Gelderland,VBO,5.404798,51.895268
 Aldenhagelaan,11,,,4003TA,Tiel,Tiel,Gelderland,VBO,5.404737,51.895160
@@ -3343,7 +3352,7 @@ Roos Vosstraat,10,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.408830,51.889167
 Roos Vosstraat,12,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.408899,51.889152
 Roos Vosstraat,14,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.408979,51.889138
 Roos Vosstraat,16,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.409063,51.889136
-Roos Vosstraat,18,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.409369,51.889221
+Roos Vosstraat,18,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.409362,51.889211
 Roos Vosstraat,20,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.409380,51.889265
 Roos Vosstraat,22,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.409369,51.889317
 Roos Vosstraat,24,,,4003ZD,Tiel,Tiel,Gelderland,VBO,5.409369,51.889366

@@ -10,6 +10,7 @@ Fransensingel,65,C,02,6211AB,Maastricht,Maastricht,Limburg,VBO,5.690802,50.85776
 Biesenwal,3,,,6211AD,Maastricht,Maastricht,Limburg,VBO,5.694755,50.855051
 Maasmolendijk,24,,,6211AH,Maastricht,Maastricht,Limburg,VBO,5.693950,50.855240
 Maasmolendijk,26,,,6211AH,Maastricht,Maastricht,Limburg,VBO,5.693834,50.855517
+Bassin,88,,,6211AK,Maastricht,Maastricht,Limburg,VBO,5.691319,50.856988
 Bassin,98,,,6211AK,Maastricht,Maastricht,Limburg,VBO,5.690778,50.855949
 Bassin,100,,,6211AK,Maastricht,Maastricht,Limburg,VBO,5.690799,50.855306
 Bassin,102,,,6211AK,Maastricht,Maastricht,Limburg,VBO,5.690799,50.855306
@@ -263,7 +264,6 @@ Sint Teunisgang,64,A,,6211AR,Maastricht,Maastricht,Limburg,VBO,5.692099,50.85510
 Sint Teunisgang,66,A,,6211AR,Maastricht,Maastricht,Limburg,VBO,5.692095,50.855056
 Sint Teunisgang,68,A,,6211AR,Maastricht,Maastricht,Limburg,VBO,5.692086,50.855013
 Sint Teunisgang,72,A,,6211AR,Maastricht,Maastricht,Limburg,VBO,5.692080,50.854941
-Bassinkade,88,,,6211AS,Maastricht,Maastricht,Limburg,VBO,5.691319,50.856988
 Boschstraat,5,,,6211AS,Maastricht,Maastricht,Limburg,VBO,5.690337,50.857444
 Boschstraat,7,,,6211AS,Maastricht,Maastricht,Limburg,VBO,5.690317,50.857176
 Boschstraat,9,,,6211AS,Maastricht,Maastricht,Limburg,VBO,5.690277,50.856762
@@ -350,6 +350,7 @@ Boschstraat,85,D,,6211AV,Maastricht,Maastricht,Limburg,VBO,5.690288,50.853229
 Boschstraat,85,E,,6211AV,Maastricht,Maastricht,Limburg,VBO,5.690288,50.853229
 Boschstraat,85,,,6211AV,Maastricht,Maastricht,Limburg,VBO,5.690253,50.853218
 Boschstraat,87,A,,6211AV,Maastricht,Maastricht,Limburg,VBO,5.690294,50.853170
+Boschstraat,87,D,,6211AV,Maastricht,Maastricht,Limburg,VBO,5.690274,50.853167
 Boschstraat,87,,,6211AV,Maastricht,Maastricht,Limburg,VBO,5.690274,50.853167
 Boschstraat,89,B,,6211AV,Maastricht,Maastricht,Limburg,VBO,5.690308,50.853118
 Boschstraat,89,C,,6211AV,Maastricht,Maastricht,Limburg,VBO,5.690308,50.853118
@@ -422,7 +423,6 @@ Boschstraat,58,D,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689758,50.853896
 Boschstraat,58,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689822,50.853902
 Boschstraat,60,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689824,50.853829
 Boschstraat,62,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689833,50.853754
-Boschstraat,64,B,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689839,50.853657
 Boschstraat,64,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689836,50.853655
 Boschstraat,66,A,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689843,50.853612
 Boschstraat,66,B,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689843,50.853612
@@ -431,8 +431,16 @@ Boschstraat,68,B,01,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689864,50.853523
 Boschstraat,68,B,02,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689864,50.853523
 Boschstraat,68,C,01,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689772,50.853520
 Boschstraat,68,C,02,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689740,50.853511
+Boschstraat,68,D,01,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689851,50.853550
+Boschstraat,68,D,02,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689851,50.853550
 Boschstraat,68,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689851,50.853550
 Boschstraat,70,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689771,50.853464
+Boschstraat,72,A,01,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689875,50.853337
+Boschstraat,72,A,02,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689875,50.853337
+Boschstraat,72,B,01,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689875,50.853337
+Boschstraat,72,B,02,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689875,50.853337
+Boschstraat,72,C,01,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689875,50.853337
+Boschstraat,72,C,02,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689875,50.853337
 Boschstraat,72,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689870,50.853394
 Boschstraat,74,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689875,50.853337
 Boschstraat,76,,,6211AX,Maastricht,Maastricht,Limburg,VBO,5.689870,50.853230
@@ -983,19 +991,25 @@ Maastrichter Pastoorstraat,18,A,01,6211BV,Maastricht,Maastricht,Limburg,VBO,5.69
 Maastrichter Pastoorstraat,18,A,02,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691284,50.852334
 Maastrichter Pastoorstraat,18,B,01,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691218,50.852336
 Maastrichter Pastoorstraat,18,B,02,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691218,50.852315
+Maastrichter Pastoorstraat,21,A,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691364,50.852649
 Maastrichter Pastoorstraat,21,B,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691345,50.852682
 Maastrichter Pastoorstraat,21,C,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691345,50.852682
 Maastrichter Pastoorstraat,21,D,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691345,50.852682
+Maastrichter Pastoorstraat,23,A,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691375,50.852592
 Maastrichter Pastoorstraat,23,B,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691353,50.852606
 Maastrichter Pastoorstraat,23,C,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691353,50.852606
 Maastrichter Pastoorstraat,23,D,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691353,50.852606
-Maastrichter Pastoorstraat,25,,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691361,50.852560
+Maastrichter Pastoorstraat,25,A,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691380,50.852540
+Maastrichter Pastoorstraat,29,A,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691390,50.852442
 Maastrichter Pastoorstraat,29,B,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691426,50.852499
 Maastrichter Pastoorstraat,29,C,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691378,50.852496
 Maastrichter Pastoorstraat,29,D,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691426,50.852499
+Maastrichter Pastoorstraat,31,A,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691400,50.852390
 Maastrichter Pastoorstraat,31,B,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691411,50.852445
 Maastrichter Pastoorstraat,31,C,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691385,50.852444
 Maastrichter Pastoorstraat,31,D,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691385,50.852444
+Maastrichter Pastoorstraat,33,A,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691403,50.852338
+Maastrichter Pastoorstraat,35,A,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691403,50.852338
 Maastrichter Pastoorstraat,37,B,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691431,50.852306
 Maastrichter Pastoorstraat,39,B,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691445,50.852257
 Maastrichter Pastoorstraat,39,C,,6211BV,Maastricht,Maastricht,Limburg,VBO,5.691419,50.852255
@@ -1116,7 +1130,7 @@ Kleine Gracht,9,,,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692753,50.852605
 Kleine Gracht,11,,,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692607,50.852569
 Kleine Gracht,15,,,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692493,50.852535
 Kleine Gracht,17,,,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692391,50.852501
-Kleine Gracht,19,A,,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692261,50.852456
+Kleine Gracht,19,A,,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692248,50.852468
 Kleine Gracht,19,B,01,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692261,50.852456
 Kleine Gracht,19,B,02,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692261,50.852456
 Kleine Gracht,19,C,,6211CA,Maastricht,Maastricht,Limburg,VBO,5.692261,50.852456
@@ -1139,6 +1153,24 @@ Kleine Gracht,43,B,01,6211CA,Maastricht,Maastricht,Limburg,VBO,5.691536,50.85206
 Kleine Gracht,43,B,02,6211CA,Maastricht,Maastricht,Limburg,VBO,5.691536,50.852066
 Kleine Gracht,43,C,01,6211CA,Maastricht,Maastricht,Limburg,VBO,5.691536,50.852066
 Kleine Gracht,43,D,01,6211CA,Maastricht,Maastricht,Limburg,VBO,5.691536,50.852066
+Kleine Gracht,4,A,01,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,A,02,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,A,03,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,A,04,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,B,01,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,B,02,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,B,03,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,B,04,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,B,05,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,C,01,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693350,50.852884
+Kleine Gracht,4,C,02,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,C,03,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,C,04,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,C,05,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,D,01,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,D,02,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,D,03,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
+Kleine Gracht,4,D,04,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693350,50.852884
 Kleine Gracht,4,,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693355,50.852880
 Kleine Gracht,6,A,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693108,50.852840
 Kleine Gracht,6,B,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.693108,50.852840
@@ -1183,9 +1215,11 @@ Kleine Gracht,26,D,01,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691892,50.85247
 Kleine Gracht,26,D,02,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691892,50.852477
 Kleine Gracht,26,E,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691892,50.852477
 Kleine Gracht,26,,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691892,50.852477
-Kleine Gracht,28,B,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691826,50.852447
+Kleine Gracht,28,B,01,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691836,50.852454
+Kleine Gracht,28,B,02,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691836,50.852454
+Kleine Gracht,28,B,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691824,50.852448
 Kleine Gracht,28,,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691815,50.852441
-Kleine Gracht,30,,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691762,50.852411
+Kleine Gracht,30,,,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691777,50.852419
 Kleine Gracht,32,A,01,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691647,50.852337
 Kleine Gracht,32,A,02,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691647,50.852337
 Kleine Gracht,32,A,03,6211CB,Maastricht,Maastricht,Limburg,VBO,5.691647,50.852337
@@ -1233,7 +1267,7 @@ van Hasseltkade,11,,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693563,50.853462
 van Hasseltkade,12,,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693558,50.853388
 van Hasseltkade,13,A,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693560,50.853325
 van Hasseltkade,13,,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693560,50.853326
-van Hasseltkade,14,A,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693561,50.853237
+van Hasseltkade,14,A,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693568,50.853255
 van Hasseltkade,14,B,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693561,50.853237
 van Hasseltkade,14,C,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693561,50.853237
 van Hasseltkade,14,D,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693561,50.853237
@@ -1248,7 +1282,15 @@ van Hasseltkade,16,D,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693554,50.85311
 van Hasseltkade,17,B,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693559,50.853075
 van Hasseltkade,17,C,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693559,50.853075
 van Hasseltkade,18,,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693558,50.853023
+van Hasseltkade,19,A,01,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
+van Hasseltkade,19,A,02,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
 van Hasseltkade,19,A,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
+van Hasseltkade,19,B,01,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
+van Hasseltkade,19,B,02,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
+van Hasseltkade,19,C,01,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
+van Hasseltkade,19,C,02,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
+van Hasseltkade,19,D,01,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
+van Hasseltkade,19,D,02,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693562,50.852915
 van Hasseltkade,19,,,6211CC,Maastricht,Maastricht,Limburg,VBO,5.693561,50.852970
 van Hasseltkade,20,,,6211CD,Maastricht,Maastricht,Limburg,VBO,5.693545,50.852779
 van Hasseltkade,21,A,,6211CD,Maastricht,Maastricht,Limburg,VBO,5.693640,50.852514
@@ -1260,21 +1302,20 @@ van Hasseltkade,23,D,,6211CD,Maastricht,Maastricht,Limburg,VBO,5.693638,50.85238
 van Hasseltkade,23,,,6211CD,Maastricht,Maastricht,Limburg,VBO,5.693641,50.852391
 van Hasseltkade,24,,,6211CD,Maastricht,Maastricht,Limburg,VBO,5.693638,50.852343
 Gubbelstraat,2,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.693525,50.852286
-Gubbelstraat,4,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.693260,50.852461
+Gubbelstraat,4,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.693338,50.852315
+Gubbelstraat,6,A,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.693211,50.852324
 Gubbelstraat,6,B,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.693211,50.852324
-Gubbelstraat,8,A,01,6211CE,Maastricht,Maastricht,Limburg,VBO,5.693102,50.852274
+Gubbelstraat,10,A,01,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692875,50.852446
 Gubbelstraat,10,B,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692875,50.852446
 Gubbelstraat,10,C,01,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692875,50.852446
 Gubbelstraat,10,C,02,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692875,50.852446
 Gubbelstraat,10,C,03,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692875,50.852446
 Gubbelstraat,10,C,04,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692875,50.852446
-Gubbelstraat,10,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692875,50.852446
+Gubbelstraat,10,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.693036,50.852465
 Gubbelstraat,12,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692734,50.852429
 Gubbelstraat,18,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692350,50.852317
 Gubbelstraat,20,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692564,50.852337
-Gubbelstraat,22,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692692,50.852215
 Gubbelstraat,24,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692577,50.852201
-Gubbelstraat,26,,,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692467,50.852185
 Gubbelstraat,30,B,03,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692319,50.852176
 Gubbelstraat,30,B,04,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692319,50.852176
 Gubbelstraat,30,C,03,6211CE,Maastricht,Maastricht,Limburg,VBO,5.692319,50.852176
@@ -1381,9 +1422,9 @@ Markt,34,F,,6211CK,Maastricht,Maastricht,Limburg,VBO,5.690931,50.852042
 Markt,34,,,6211CK,Maastricht,Maastricht,Limburg,VBO,5.690930,50.852059
 Markt,35,,,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691035,50.852043
 Markt,36,A,01,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691169,50.852048
-Markt,36,A,02,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691169,50.852048
-Markt,36,A,03,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691169,50.852048
-Markt,36,A,04,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691169,50.852048
+Markt,36,A,01,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691213,50.852050
+Markt,36,A,02,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691213,50.852050
+Markt,36,A,03,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691213,50.852050
 Markt,36,A,,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691169,50.852048
 Markt,36,B,,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691173,50.852049
 Markt,36,C,,6211CK,Maastricht,Maastricht,Limburg,VBO,5.691173,50.852049
@@ -1409,13 +1450,15 @@ Markt,56,,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.692217,50.851062
 Markt,57,,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.692241,50.851014
 Markt,58,B,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.692070,50.850918
 Markt,58,,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.692064,50.850939
-Markt,59,,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691983,50.850930
+Markt,59,C,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691994,50.850945
+Markt,59,,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691994,50.850941
 Markt,60,B,6101,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691916,50.850922
 Markt,60,B,6102,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691916,50.850922
 Markt,60,B,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691909,50.850919
 Markt,60,C,6101,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691916,50.850922
 Markt,60,C,6102,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691916,50.850922
 Markt,60,C,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691909,50.850919
+Markt,60,D,6101,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691916,50.850922
 Markt,60,D,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691909,50.850919
 Markt,61,B,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691848,50.850911
 Markt,61,C,,6211CL,Maastricht,Maastricht,Limburg,VBO,5.691848,50.850911
@@ -1498,7 +1541,6 @@ Heilige Geest,48,B,02,6211CM,Maastricht,Maastricht,Limburg,VBO,5.690727,50.85045
 Heilige Geest,48,B,03,6211CM,Maastricht,Maastricht,Limburg,VBO,5.690727,50.850457
 Heilige Geest,48,B,04,6211CM,Maastricht,Maastricht,Limburg,VBO,5.690727,50.850457
 Heilige Geest,48,B,05,6211CM,Maastricht,Maastricht,Limburg,VBO,5.690727,50.850457
-Heilige Geest,48,B,11,6211CM,Maastricht,Maastricht,Limburg,VBO,5.690492,50.850361
 Heilige Geest,48,B,13,6211CM,Maastricht,Maastricht,Limburg,VBO,5.690625,50.850330
 Heilige Geest,48,C,01,6211CM,Maastricht,Maastricht,Limburg,VBO,5.690727,50.850457
 Heilige Geest,48,C,02,6211CM,Maastricht,Maastricht,Limburg,VBO,5.690727,50.850457
@@ -1557,7 +1599,6 @@ Spilstraat,6,B,15,6211CP,Maastricht,Maastricht,Limburg,VBO,5.689836,50.850389
 Spilstraat,6,B,16,6211CP,Maastricht,Maastricht,Limburg,VBO,5.689836,50.850389
 Spilstraat,6,B,18,6211CP,Maastricht,Maastricht,Limburg,VBO,5.689836,50.850389
 Spilstraat,6,C,05,6211CP,Maastricht,Maastricht,Limburg,VBO,5.689756,50.850852
-Spilstraat,6,C,15,6211CP,Maastricht,Maastricht,Limburg,VBO,5.689836,50.850389
 Spilstraat,6,C,20,6211CP,Maastricht,Maastricht,Limburg,VBO,5.689836,50.850389
 Spilstraat,8,A,,6211CP,Maastricht,Maastricht,Limburg,VBO,5.690296,50.850365
 Spilstraat,8,,,6211CP,Maastricht,Maastricht,Limburg,VBO,5.690324,50.850365
@@ -1568,7 +1609,6 @@ Spilstraat,16,,,6211CP,Maastricht,Maastricht,Limburg,VBO,5.690361,50.850150
 Spilstraat,18,,,6211CP,Maastricht,Maastricht,Limburg,VBO,5.690386,50.850059
 Nieuwstraat,1,,,6211CR,Maastricht,Maastricht,Limburg,VBO,5.691373,50.850751
 Nieuwstraat,3,,,6211CR,Maastricht,Maastricht,Limburg,VBO,5.691384,50.850705
-Nieuwstraat,5,A,,6211CR,Maastricht,Maastricht,Limburg,VBO,5.691398,50.850652
 Nieuwstraat,5,B,,6211CR,Maastricht,Maastricht,Limburg,VBO,5.691398,50.850652
 Nieuwstraat,5,,,6211CR,Maastricht,Maastricht,Limburg,VBO,5.691398,50.850652
 Nieuwstraat,7,,,6211CR,Maastricht,Maastricht,Limburg,VBO,5.691411,50.850599
@@ -1684,7 +1724,6 @@ Grote Staat,38,B,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.690102,50.849865
 Grote Staat,38,C,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.690102,50.849865
 Grote Staat,38,,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.690296,50.849861
 Grote Staat,40,,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.690120,50.849850
-Grote Staat,42,A,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.690012,50.849847
 Grote Staat,42,,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.690009,50.849846
 Grote Staat,44,A,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.689941,50.849859
 Grote Staat,44,,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.689944,50.849845
@@ -1695,8 +1734,9 @@ Grote Staat,50,,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.689691,50.849832
 Grote Staat,54,,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.689477,50.849824
 Grote Staat,56,,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.689378,50.849815
 Grote Staat,58,,,6211CX,Maastricht,Maastricht,Limburg,VBO,5.689254,50.849794
-Dominicanerkerkstraat,1,A,,6211CZ,Maastricht,Maastricht,Limburg,VBO,5.689634,50.850126
+Dominicanerkerkstraat,1,A,,6211CZ,Maastricht,Maastricht,Limburg,VBO,5.689516,50.850225
 Dominicanerkerkstraat,1,,,6211CZ,Maastricht,Maastricht,Limburg,VBO,5.689636,50.850120
+Dominicanerkerkstraat,3,B,,6211CZ,Maastricht,Maastricht,Limburg,VBO,5.689638,50.849962
 Dominicanerkerkstraat,3,,,6211CZ,Maastricht,Maastricht,Limburg,VBO,5.689638,50.849962
 Dominicanerkerkstraat,4,C,,6211CZ,Maastricht,Maastricht,Limburg,VBO,5.689442,50.849941
 Dominicanerkerkstraat,4,D,,6211CZ,Maastricht,Maastricht,Limburg,VBO,5.689442,50.849941
@@ -1719,12 +1759,8 @@ Op de Thermen,30,B,,6211DE,Maastricht,Maastricht,Limburg,VBO,5.693903,50.848267
 Op de Thermen,30,C,,6211DE,Maastricht,Maastricht,Limburg,VBO,5.693903,50.848267
 Op de Thermen,30,D,,6211DE,Maastricht,Maastricht,Limburg,VBO,5.693903,50.848267
 Op de Thermen,35,B,,6211DE,Maastricht,Maastricht,Limburg,VBO,5.693956,50.848099
-Mosae Forum,12,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.693428,50.851628
-Mosae Forum,15,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.693313,50.851622
-Mosae Forum,18,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.693201,50.851618
-Mosae Forum,21,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.693092,50.851610
-Mosae Forum,24,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.692978,50.851606
-Mosae Forum,27,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.692879,50.851602
+Mosae Forum,15,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.693360,50.851615
+Mosae Forum,24,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.692998,50.851604
 Mosae Forum,35,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.692603,50.851596
 Mosae Forum,39,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.692558,50.851538
 Mosae Forum,46,,,6211DS,Maastricht,Maastricht,Limburg,VBO,5.692564,50.851377
@@ -1755,11 +1791,9 @@ Dominicanerplein,1,,,6211DZ,Maastricht,Maastricht,Limburg,VBO,5.689489,50.850222
 Leliestraat,3,B,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689850,50.849275
 Leliestraat,4,C,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689679,50.849611
 Leliestraat,4,D,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689679,50.849611
-Leliestraat,5,A,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689836,50.849211
-Leliestraat,5,B,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689836,50.849211
+Leliestraat,5,C,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689836,50.849211
 Leliestraat,5,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689836,50.849211
 Leliestraat,6,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689662,50.849542
-Leliestraat,7,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689843,50.849140
 Leliestraat,8,B,01,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689637,50.849529
 Leliestraat,8,B,02,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689637,50.849529
 Leliestraat,8,C,01,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689637,50.849529
@@ -1767,7 +1801,7 @@ Leliestraat,8,C,02,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689637,50.849529
 Leliestraat,8,D,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689637,50.849529
 Leliestraat,8,E,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689637,50.849529
 Leliestraat,8,F,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689637,50.849529
-Leliestraat,9,B,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689874,50.849092
+Leliestraat,9,B,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689845,50.849133
 Leliestraat,10,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689661,50.849423
 Leliestraat,11,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689848,50.849079
 Leliestraat,12,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689668,50.849363
@@ -1778,6 +1812,13 @@ Leliestraat,19,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689840,50.848961
 Leliestraat,20,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689704,50.849182
 Leliestraat,21,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689854,50.848919
 Leliestraat,22,,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689727,50.849055
+Leliestraat,24,B,01,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689733,50.848991
+Leliestraat,24,B,02,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689510,50.849008
+Leliestraat,24,B,03,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689510,50.849008
+Leliestraat,24,C,01,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689739,50.848994
+Leliestraat,24,C,02,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689510,50.849008
+Leliestraat,24,C,03,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689510,50.849008
+Leliestraat,24,D,,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689502,50.849004
 Leliestraat,30,B,01,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689758,50.848866
 Leliestraat,30,B,02,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689758,50.848866
 Leliestraat,30,B,03,6211EA,Maastricht,Maastricht,Limburg,VBO,5.689758,50.848865
@@ -1849,6 +1890,7 @@ Vijfharingenstraat,8,D,16,6211EC,Maastricht,Maastricht,Limburg,VBO,5.691419,50.8
 Vijfharingenstraat,8,D,17,6211EC,Maastricht,Maastricht,Limburg,VBO,5.691419,50.849739
 Vijfharingenstraat,8,D,18,6211EC,Maastricht,Maastricht,Limburg,VBO,5.691419,50.849739
 Vijfharingenstraat,8,,,6211EC,Maastricht,Maastricht,Limburg,VBO,5.691419,50.849739
+Vijfharingenstraat,10,B,,6211EC,Maastricht,Maastricht,Limburg,VBO,5.691404,50.849345
 Vijfharingenstraat,10,,,6211EC,Maastricht,Maastricht,Limburg,VBO,5.691404,50.849345
 Vijfharingenstraat,12,B,,6211EC,Maastricht,Maastricht,Limburg,VBO,5.691384,50.849307
 Vijfharingenstraat,12,,,6211EC,Maastricht,Maastricht,Limburg,VBO,5.691384,50.849307
@@ -1887,6 +1929,7 @@ Kleine Staat,20,C,,6211EE,Maastricht,Maastricht,Limburg,VBO,5.692628,50.849431
 Kleine Staat,20,,,6211EE,Maastricht,Maastricht,Limburg,VBO,5.692628,50.849428
 Muntstraat,1,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692265,50.850952
 Muntstraat,3,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692278,50.850896
+Muntstraat,5,B,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692286,50.850856
 Muntstraat,5,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692286,50.850856
 Muntstraat,7,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692293,50.850819
 Muntstraat,9,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692298,50.850787
@@ -1895,8 +1938,7 @@ Muntstraat,13,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692312,50.850716
 Muntstraat,15,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692321,50.850666
 Muntstraat,17,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692329,50.850623
 Muntstraat,19,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692339,50.850586
-Muntstraat,21,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692332,50.850541
-Muntstraat,23,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692351,50.850521
+Muntstraat,21,,,6211EG,Maastricht,Maastricht,Limburg,VBO,5.692351,50.850521
 Muntstraat,25,,,6211EH,Maastricht,Maastricht,Limburg,VBO,5.692362,50.850402
 Muntstraat,27,,,6211EH,Maastricht,Maastricht,Limburg,VBO,5.692373,50.850363
 Muntstraat,29,,,6211EH,Maastricht,Maastricht,Limburg,VBO,5.692382,50.850328
@@ -1973,15 +2015,8 @@ Hoenderstraat,3,E,41,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693230,50.851104
 Hoenderstraat,3,E,42,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693230,50.851104
 Hoenderstraat,3,E,43,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693230,50.851104
 Hoenderstraat,3,,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693230,50.851104
-Hoenderstraat,5,B,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693129,50.851099
-Hoenderstraat,5,C,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693129,50.851099
-Hoenderstraat,5,D,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693129,50.851099
 Hoenderstraat,5,,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693136,50.851101
-Hoenderstraat,7,A,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693044,50.851082
 Hoenderstraat,7,,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.693044,50.851095
-Hoenderstraat,9,B,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.692981,50.851078
-Hoenderstraat,9,C,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.692981,50.851078
-Hoenderstraat,9,D,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.692981,50.851078
 Hoenderstraat,9,,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.692996,50.851093
 Hoenderstraat,11,B,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.692885,50.851089
 Hoenderstraat,11,C,,6211EL,Maastricht,Maastricht,Limburg,VBO,5.692885,50.851089
@@ -2065,11 +2100,14 @@ Hoenderstraat,30,,,6211EM,Maastricht,Maastricht,Limburg,VBO,5.692610,50.851246
 Hoenderstraat,32,,,6211EM,Maastricht,Maastricht,Limburg,VBO,5.692511,50.851241
 Kesselskade,40,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693628,50.851028
 Kesselskade,42,B,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693597,50.850947
+Kesselskade,42,C,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693597,50.850947
+Kesselskade,42,D,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693597,50.850947
 Kesselskade,42,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693597,50.850947
 Kesselskade,43,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693611,50.850798
 Kesselskade,45,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693724,50.850518
 Kesselskade,47,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693755,50.850459
-Kesselskade,48,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693771,50.850424
+Kesselskade,48,B,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693803,50.850408
+Kesselskade,48,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693803,50.850408
 Kesselskade,49,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693783,50.850377
 Kesselskade,51,B,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693831,50.850286
 Kesselskade,51,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693803,50.850288
@@ -2123,6 +2161,9 @@ Kesselskade,60,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693924,50.849941
 Kesselskade,61,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.693935,50.849876
 Kesselskade,62,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.694049,50.849739
 Kesselskade,63,A,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.694101,50.849632
+Kesselskade,63,B,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.694101,50.849632
+Kesselskade,63,C,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.694101,50.849632
+Kesselskade,63,D,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.694098,50.849637
 Kesselskade,63,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.694101,50.849632
 Kesselskade,64,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.694108,50.849590
 Kesselskade,65,,,6211EN,Maastricht,Maastricht,Limburg,VBO,5.694114,50.849542
@@ -2163,6 +2204,15 @@ Mariastraat,21,B,,6211EP,Maastricht,Maastricht,Limburg,VBO,5.693025,50.850475
 Mariastraat,21,,,6211EP,Maastricht,Maastricht,Limburg,VBO,5.693025,50.850475
 Mariastraat,23,B,,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692874,50.850465
 Mariastraat,23,C,,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692874,50.850465
+Mariastraat,25,B,01,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
+Mariastraat,25,B,02,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
+Mariastraat,25,B,03,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
+Mariastraat,25,B,04,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
+Mariastraat,25,B,05,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
+Mariastraat,25,C,01,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
+Mariastraat,25,D,01,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
+Mariastraat,25,D,02,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
+Mariastraat,25,D,03,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692706,50.850459
 Mariastraat,25,,,6211EP,Maastricht,Maastricht,Limburg,VBO,5.692743,50.850445
 Jodenstraat,1,A,,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693702,50.849782
 Jodenstraat,1,B,01,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693702,50.849782
@@ -2236,9 +2286,11 @@ Jodenstraat,17,B,02,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693061,50.849857
 Jodenstraat,17,C,01,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693061,50.849857
 Jodenstraat,17,C,02,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693061,50.849857
 Jodenstraat,17,C,03,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693061,50.849857
+Jodenstraat,17,C,,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693061,50.849857
 Jodenstraat,17,D,01,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693061,50.849857
 Jodenstraat,17,D,02,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693061,50.849857
 Jodenstraat,18,,,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693307,50.849902
+Jodenstraat,20,B,,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693279,50.849904
 Jodenstraat,20,,,6211ER,Maastricht,Maastricht,Limburg,VBO,5.693279,50.849904
 Jodenstraat,21,C,01,6211ER,Maastricht,Maastricht,Limburg,VBO,5.692915,50.849807
 Jodenstraat,21,C,02,6211ER,Maastricht,Maastricht,Limburg,VBO,5.692915,50.849807
@@ -2321,7 +2373,6 @@ Maastrichter Brugstraat,26,A,,6211ET,Maastricht,Maastricht,Limburg,VBO,5.693163,
 Maastrichter Brugstraat,26,B,,6211ET,Maastricht,Maastricht,Limburg,VBO,5.693163,50.849399
 Maastrichter Brugstraat,28,,,6211ET,Maastricht,Maastricht,Limburg,VBO,5.693101,50.849378
 Maastrichter Brugstraat,30,,,6211ET,Maastricht,Maastricht,Limburg,VBO,5.693034,50.849375
-Maastrichter Brugstraat,32,,,6211ET,Maastricht,Maastricht,Limburg,VBO,5.692965,50.849372
 Maastrichter Brugstraat,34,,,6211ET,Maastricht,Maastricht,Limburg,VBO,5.692914,50.849372
 Vissersmaas,1,B,,6211EV,Maastricht,Maastricht,Limburg,VBO,5.694363,50.849180
 Vissersmaas,1,C,,6211EV,Maastricht,Maastricht,Limburg,VBO,5.694363,50.849180
@@ -2374,6 +2425,9 @@ Plankstraat,25,,,6211GA,Maastricht,Maastricht,Limburg,VBO,5.693495,50.847910
 Plankstraat,27,,,6211GA,Maastricht,Maastricht,Limburg,VBO,5.693413,50.847900
 Plankstraat,29,,,6211GA,Maastricht,Maastricht,Limburg,VBO,5.693320,50.847889
 Stokstraat,1,A,,6211GB,Maastricht,Maastricht,Limburg,VBO,5.694113,50.848907
+Stokstraat,1,B,,6211GB,Maastricht,Maastricht,Limburg,VBO,5.694108,50.848911
+Stokstraat,1,C,,6211GB,Maastricht,Maastricht,Limburg,VBO,5.694108,50.848911
+Stokstraat,1,D,,6211GB,Maastricht,Maastricht,Limburg,VBO,5.694108,50.848911
 Stokstraat,1,,,6211GB,Maastricht,Maastricht,Limburg,VBO,5.694113,50.848907
 Stokstraat,3,,,6211GB,Maastricht,Maastricht,Limburg,VBO,5.694103,50.848858
 Stokstraat,5,,,6211GB,Maastricht,Maastricht,Limburg,VBO,5.694095,50.848817
@@ -2443,7 +2497,7 @@ Eksterstraat,1,B,,6211GG,Maastricht,Maastricht,Limburg,VBO,5.694591,50.847993
 Eksterstraat,1,C,,6211GG,Maastricht,Maastricht,Limburg,VBO,5.694591,50.847993
 Eksterstraat,1,G,01,6211GG,Maastricht,Maastricht,Limburg,VBO,5.694521,50.848003
 Eksterstraat,1,,,6211GG,Maastricht,Maastricht,Limburg,VBO,5.694567,50.847997
-Eikelstraat,1,B,,6211GH,Maastricht,Maastricht,Limburg,VBO,5.694322,50.848683
+Eikelstraat,1,B,,6211GH,Maastricht,Maastricht,Limburg,VBO,5.694419,50.848693
 Eikelstraat,2,,TR,6211GH,Maastricht,Maastricht,Limburg,VBO,5.694343,50.848776
 Eikelstraat,4,,,6211GH,Maastricht,Maastricht,Limburg,VBO,5.694271,50.848762
 Eikelstraat,5,,,6211GH,Maastricht,Maastricht,Limburg,VBO,5.694229,50.848697
@@ -2538,8 +2592,10 @@ Maastrichter Smedenstraat,8,B,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693542
 Maastrichter Smedenstraat,8,C,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693542,50.848984
 Maastrichter Smedenstraat,12,,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693432,50.848976
 Maastrichter Smedenstraat,16,,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693259,50.848978
+Maastrichter Smedenstraat,16,,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693290,50.848977
 Maastrichter Smedenstraat,18,A,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693180,50.848984
 Maastrichter Smedenstraat,18,B,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693180,50.848984
+Maastrichter Smedenstraat,18,B,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693290,50.848977
 Maastrichter Smedenstraat,18,C,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693180,50.848984
 Maastrichter Smedenstraat,18,,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693180,50.848984
 Maastrichter Smedenstraat,20,,,6211GL,Maastricht,Maastricht,Limburg,VBO,5.693117,50.848989
@@ -2690,6 +2746,7 @@ Platielstraat,2,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.690248,50.848877
 Platielstraat,3,B,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.690216,50.848761
 Platielstraat,3,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.690216,50.848761
 Platielstraat,4,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.690176,50.848858
+Platielstraat,5,B,02,6211GV,Maastricht,Maastricht,Limburg,VBO,5.690167,50.848618
 Platielstraat,5,B,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.690159,50.848746
 Platielstraat,5,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.690159,50.848746
 Platielstraat,6,A,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.690100,50.848839
@@ -2709,7 +2766,9 @@ Platielstraat,13,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689848,50.848700
 Platielstraat,14,A,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689647,50.848798
 Platielstraat,14,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689737,50.848796
 Platielstraat,15,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689820,50.848696
-Platielstraat,16,B,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689593,50.848815
+Platielstraat,16,B,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689603,50.848792
+Platielstraat,16,C,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689603,50.848792
+Platielstraat,16,D,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689603,50.848792
 Platielstraat,16,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689596,50.848799
 Platielstraat,17,,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689710,50.848691
 Platielstraat,18,B,,6211GV,Maastricht,Maastricht,Limburg,VBO,5.689487,50.848802
@@ -2759,7 +2818,6 @@ Heggenstraat,16,,,6211GW,Maastricht,Maastricht,Limburg,VBO,5.690465,50.848404
 Heggenstraat,18,,,6211GW,Maastricht,Maastricht,Limburg,VBO,5.690409,50.848332
 Minckelersstraat,1,A,,6211GX,Maastricht,Maastricht,Limburg,VBO,5.691608,50.848770
 Minckelersstraat,1,B,601,6211GX,Maastricht,Maastricht,Limburg,VBO,5.692500,50.848869
-Minckelersstraat,1,B,,6211GX,Maastricht,Maastricht,Limburg,VBO,5.691620,50.848760
 Minckelersstraat,1,C,01,6211GX,Maastricht,Maastricht,Limburg,VBO,5.691631,50.848748
 Minckelersstraat,1,C,02,6211GX,Maastricht,Maastricht,Limburg,VBO,5.691658,50.848745
 Minckelersstraat,1,C,03,6211GX,Maastricht,Maastricht,Limburg,VBO,5.691631,50.848748
@@ -2919,6 +2977,7 @@ Bredestraat,43,,,6211HB,Maastricht,Maastricht,Limburg,VBO,5.689587,50.848252
 Bredestraat,45,B,,6211HB,Maastricht,Maastricht,Limburg,VBO,5.689460,50.848282
 Bredestraat,45,,,6211HB,Maastricht,Maastricht,Limburg,VBO,5.689460,50.848282
 Bredestraat,47,,,6211HB,Maastricht,Maastricht,Limburg,VBO,5.689370,50.848301
+Bredestraat,2,A,,6211HC,Maastricht,Maastricht,Limburg,VBO,5.691521,50.847871
 Bredestraat,2,,,6211HC,Maastricht,Maastricht,Limburg,VBO,5.691198,50.847893
 Bredestraat,4,A,01,6211HC,Maastricht,Maastricht,Limburg,VBO,5.691065,50.847912
 Bredestraat,4,C,01,6211HC,Maastricht,Maastricht,Limburg,VBO,5.691065,50.847912
@@ -3109,7 +3168,7 @@ Achter de oude Minderbroeders,18,,,6211HM,Maastricht,Maastricht,Limburg,VBO,5.69
 Achter de oude Minderbroeders,20,,,6211HM,Maastricht,Maastricht,Limburg,VBO,5.693155,50.846163
 Achter de oude Minderbroeders,34,,,6211HM,Maastricht,Maastricht,Limburg,VBO,5.692569,50.846126
 Achter de oude Minderbroeders,36,,,6211HM,Maastricht,Maastricht,Limburg,VBO,5.692545,50.846124
-Ridderstraat,1,A,,6211HN,Maastricht,Maastricht,Limburg,VBO,5.692972,50.846474
+Ridderstraat,1,A,,6211HN,Maastricht,Maastricht,Limburg,VBO,5.693101,50.846461
 Ridderstraat,1,,,6211HN,Maastricht,Maastricht,Limburg,VBO,5.692972,50.846474
 Ridderstraat,2,A,,6211HN,Maastricht,Maastricht,Limburg,VBO,5.692853,50.846389
 Ridderstraat,3,B,,6211HN,Maastricht,Maastricht,Limburg,VBO,5.693447,50.846389
@@ -3370,6 +3429,8 @@ Witmakersstraat,25,F,,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690550,50.84652
 Witmakersstraat,25,M,,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690601,50.846360
 Witmakersstraat,25,N,,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690601,50.846360
 Witmakersstraat,27,,,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690422,50.846574
+Witmakersstraat,29,A,01,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
+Witmakersstraat,29,A,02,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
 Witmakersstraat,29,A,,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
 Witmakersstraat,29,B,01,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
 Witmakersstraat,29,B,02,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
@@ -3380,8 +3441,6 @@ Witmakersstraat,29,C,03,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846
 Witmakersstraat,29,D,01,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
 Witmakersstraat,29,D,02,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
 Witmakersstraat,29,D,03,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
-Witmakersstraat,29,,01,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
-Witmakersstraat,29,,02,6211JA,Maastricht,Maastricht,Limburg,VBO,5.690370,50.846465
 Witmakersstraat,6,,,6211JB,Maastricht,Maastricht,Limburg,VBO,5.691384,50.846837
 Witmakersstraat,8,,,6211JB,Maastricht,Maastricht,Limburg,VBO,5.691266,50.846797
 Witmakersstraat,10,B,,6211JB,Maastricht,Maastricht,Limburg,VBO,5.691028,50.846778
@@ -3583,19 +3642,19 @@ Grote Looiersstraat,19,D,33,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689471,50
 Grote Looiersstraat,21,,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689380,50.844896
 Grote Looiersstraat,23,,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689287,50.844883
 Grote Looiersstraat,25,,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689193,50.844873
-Grote Looiersstraat,27,A,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689061,50.844864
-Grote Looiersstraat,27,B,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,C,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,D,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,E,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,F,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,H,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,K,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,M,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,N,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,P,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,R,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689182,50.844840
-Grote Looiersstraat,27,S,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689061,50.844864
+Grote Looiersstraat,27,A,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688859,50.844844
+Grote Looiersstraat,27,B,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688874,50.844805
+Grote Looiersstraat,27,C,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688881,50.844773
+Grote Looiersstraat,27,D,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688903,50.844727
+Grote Looiersstraat,27,E,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688909,50.844690
+Grote Looiersstraat,27,F,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688929,50.844656
+Grote Looiersstraat,27,H,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688947,50.844612
+Grote Looiersstraat,27,K,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688964,50.844573
+Grote Looiersstraat,27,M,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688980,50.844535
+Grote Looiersstraat,27,N,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.688996,50.844496
+Grote Looiersstraat,27,P,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689083,50.844556
+Grote Looiersstraat,27,R,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689152,50.844573
+Grote Looiersstraat,27,S,,6211JH,Maastricht,Maastricht,Limburg,VBO,5.689225,50.844584
 Grote Looiersstraat,6,,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.690269,50.845743
 Grote Looiersstraat,8,,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.690132,50.845670
 Grote Looiersstraat,10,,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.690039,50.845625
@@ -3604,6 +3663,7 @@ Grote Looiersstraat,14,A,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689886,50.8
 Grote Looiersstraat,14,B,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689886,50.845528
 Grote Looiersstraat,14,C,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689886,50.845528
 Grote Looiersstraat,14,D,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689886,50.845528
+Grote Looiersstraat,16,A,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689843,50.845466
 Grote Looiersstraat,16,B,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689836,50.845461
 Grote Looiersstraat,16,C,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689836,50.845461
 Grote Looiersstraat,16,D,01,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689836,50.845461
@@ -3614,7 +3674,15 @@ Grote Looiersstraat,18,C,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689809,50.8
 Grote Looiersstraat,18,D,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689809,50.845381
 Grote Looiersstraat,18,,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689809,50.845381
 Grote Looiersstraat,20,A,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
+Grote Looiersstraat,20,B,01,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
+Grote Looiersstraat,20,B,02,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
+Grote Looiersstraat,20,B,03,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
 Grote Looiersstraat,20,B,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
+Grote Looiersstraat,20,C,01,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
+Grote Looiersstraat,20,C,02,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
+Grote Looiersstraat,20,C,03,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
+Grote Looiersstraat,20,D,01,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
+Grote Looiersstraat,20,D,02,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
 Grote Looiersstraat,20,,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689731,50.845297
 Grote Looiersstraat,22,,,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689656,50.845248
 Grote Looiersstraat,24,A,01,6211JJ,Maastricht,Maastricht,Limburg,VBO,5.689537,50.845205
@@ -3636,9 +3704,11 @@ Looiersgracht,2,,,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687896,50.845724
 Looiersgracht,3,,,6211JK,Maastricht,Maastricht,Limburg,VBO,5.688092,50.845706
 Looiersgracht,4,A,01,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687949,50.845667
 Looiersgracht,4,A,02,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687949,50.845664
+Looiersgracht,4,A,03,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687949,50.845664
 Looiersgracht,4,B,01,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687949,50.845667
 Looiersgracht,4,B,02,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687949,50.845667
 Looiersgracht,4,C,,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687949,50.845664
+Looiersgracht,4,D,,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687949,50.845664
 Looiersgracht,4,,,6211JK,Maastricht,Maastricht,Limburg,VBO,5.687949,50.845662
 Looiersgracht,5,,,6211JK,Maastricht,Maastricht,Limburg,VBO,5.688174,50.845614
 Looiersgracht,7,A,,6211JK,Maastricht,Maastricht,Limburg,VBO,5.688228,50.845546
@@ -3669,20 +3739,21 @@ Kleine Looiersstraat,1,,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690746,50.84
 Kleine Looiersstraat,2,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690531,50.845435
 Kleine Looiersstraat,2,B,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690531,50.845435
 Kleine Looiersstraat,2,C,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690531,50.845435
-Kleine Looiersstraat,3,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690713,50.845563
-Kleine Looiersstraat,3,B,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690713,50.845563
-Kleine Looiersstraat,3,C,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690713,50.845563
+Kleine Looiersstraat,3,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690809,50.845520
+Kleine Looiersstraat,3,B,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690809,50.845520
+Kleine Looiersstraat,3,C,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690809,50.845520
 Kleine Looiersstraat,4,,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690671,50.845385
-Kleine Looiersstraat,5,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690806,50.845529
-Kleine Looiersstraat,5,B,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690806,50.845529
-Kleine Looiersstraat,5,C,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690806,50.845529
+Kleine Looiersstraat,5,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690890,50.845489
+Kleine Looiersstraat,5,B,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690884,50.845492
+Kleine Looiersstraat,5,C,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690884,50.845492
 Kleine Looiersstraat,6,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690735,50.845361
 Kleine Looiersstraat,6,B,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690735,50.845361
 Kleine Looiersstraat,6,C,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690735,50.845361
 Kleine Looiersstraat,6,,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690735,50.845361
-Kleine Looiersstraat,7,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690870,50.845507
-Kleine Looiersstraat,7,B,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690870,50.845507
-Kleine Looiersstraat,7,C,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690870,50.845507
+Kleine Looiersstraat,7,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690964,50.845470
+Kleine Looiersstraat,7,B,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690962,50.845471
+Kleine Looiersstraat,7,C,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690956,50.845471
+Kleine Looiersstraat,8,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690695,50.845188
 Kleine Looiersstraat,8,,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690868,50.845320
 Kleine Looiersstraat,10,,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.690947,50.845287
 Kleine Looiersstraat,12,A,,6211JL,Maastricht,Maastricht,Limburg,VBO,5.691022,50.845248
@@ -3749,6 +3820,11 @@ Sint Pieterstraat,29,,,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691837,50.8444
 Sint Pieterstraat,31,,,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691677,50.844561
 Sint Pieterstraat,33,,,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691622,50.844511
 Sint Pieterstraat,35,,,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691539,50.844478
+Sint Pieterstraat,37,A,01,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691489,50.844436
+Sint Pieterstraat,37,A,02,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691489,50.844436
+Sint Pieterstraat,37,B,01,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691489,50.844436
+Sint Pieterstraat,37,B,02,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691489,50.844436
+Sint Pieterstraat,37,C,,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691489,50.844436
 Sint Pieterstraat,37,,,6211JM,Maastricht,Maastricht,Limburg,VBO,5.691463,50.844414
 Sint Pieterstraat,2,B,,6211JN,Maastricht,Maastricht,Limburg,VBO,5.692019,50.846209
 Sint Pieterstraat,2,,,6211JN,Maastricht,Maastricht,Limburg,VBO,5.692019,50.846209
@@ -3969,6 +4045,7 @@ Sint Hubertuslaan,4,,,6211KD,Maastricht,Maastricht,Limburg,VBO,5.689508,50.84277
 Sint Hubertuslaan,6,,,6211KD,Maastricht,Maastricht,Limburg,VBO,5.689426,50.842706
 Sint Hubertuslaan,8,,,6211KD,Maastricht,Maastricht,Limburg,VBO,5.689188,50.842503
 Sint Hubertuslaan,10,,,6211KD,Maastricht,Maastricht,Limburg,VBO,5.689100,50.842434
+Sint Hubertuslaan,12,,TR,6211KD,Maastricht,Maastricht,Limburg,VBO,5.688870,50.842196
 Sint Hubertuslaan,12,,,6211KD,Maastricht,Maastricht,Limburg,VBO,5.688524,50.842200
 Sint Hubertuslaan,14,,,6211KD,Maastricht,Maastricht,Limburg,VBO,5.686922,50.840759
 Henri Hermanspark,1,,TR,6211KE,Maastricht,Maastricht,Limburg,VBO,5.691107,50.843173
@@ -4033,18 +4110,19 @@ Bonnefantenstraat,3,C,,6211KL,Maastricht,Maastricht,Limburg,VBO,5.687552,50.8456
 Bonnefantenstraat,4,,,6211KL,Maastricht,Maastricht,Limburg,VBO,5.686646,50.845097
 Bonnefantenstraat,5,,,6211KL,Maastricht,Maastricht,Limburg,VBO,5.687380,50.845380
 Bonnefantenstraat,15,,,6211KL,Maastricht,Maastricht,Limburg,VBO,5.687096,50.845023
+Bonnefantenstraat,40,,,6211KL,Maastricht,Maastricht,Limburg,VBO,5.686069,50.844675
 Academieplein,1,,,6211KM,Maastricht,Maastricht,Limburg,VBO,5.686723,50.845606
 Kakeberg,2,,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.687222,50.846118
 Kakeberg,6,A,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686901,50.846141
+Kakeberg,6,B,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686739,50.846004
+Kakeberg,6,C,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686739,50.846004
 Kakeberg,6,,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.687054,50.846079
 Kakeberg,8,A,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686690,50.845989
 Kakeberg,8,B,01,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686616,50.845967
 Kakeberg,8,B,02,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686616,50.845967
-Kakeberg,8,B,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686616,50.845967
 Kakeberg,8,C,01,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686616,50.845967
 Kakeberg,8,C,02,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686616,50.845967
 Kakeberg,8,D,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686616,50.845967
-Kakeberg,8,,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686732,50.846012
 Kakeberg,10,B,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686495,50.846035
 Kakeberg,10,,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686513,50.845931
 Kakeberg,20,,,6211KN,Maastricht,Maastricht,Limburg,VBO,5.686436,50.845900
@@ -4111,11 +4189,6 @@ Lenculenstraat,16,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.689058,50.846784
 Lenculenstraat,18,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.688873,50.846747
 Lenculenstraat,20,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.688698,50.846716
 Lenculenstraat,22,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.688628,50.846705
-Lenculenstraat,24,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.688544,50.846691
-Lenculenstraat,26,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.688372,50.846742
-Lenculenstraat,30,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.688124,50.846623
-Lenculenstraat,32,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.688032,50.846612
-Lenculenstraat,34,,,6211KR,Maastricht,Maastricht,Limburg,VBO,5.687960,50.846605
 Verwerhoek,1,,,6211KS,Maastricht,Maastricht,Limburg,VBO,5.689116,50.846506
 Verwerhoek,3,,,6211KS,Maastricht,Maastricht,Limburg,VBO,5.689163,50.846362
 Verwerhoek,4,,,6211KS,Maastricht,Maastricht,Limburg,VBO,5.689171,50.846310
@@ -4225,7 +4298,10 @@ Kapoenstraat,16,C,02,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689693,50.847078
 Kapoenstraat,16,D,01,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689693,50.847078
 Kapoenstraat,16,D,02,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689693,50.847078
 Kapoenstraat,16,,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689693,50.847078
-Kapoenstraat,18,,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689815,50.847069
+Kapoenstraat,18,A,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689850,50.847064
+Kapoenstraat,18,B,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689850,50.847064
+Kapoenstraat,18,C,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689850,50.847064
+Kapoenstraat,18,D,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689850,50.847064
 Kapoenstraat,20,,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689845,50.847031
 Kapoenstraat,22,,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.689874,50.846991
 Kapoenstraat,24,,,6211KW,Maastricht,Maastricht,Limburg,VBO,5.690015,50.846873
@@ -4358,7 +4434,8 @@ Vrijthof,9,,,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689346,50.849193
 Vrijthof,10,,,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689345,50.849128
 Vrijthof,11,B,,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689339,50.849082
 Vrijthof,11,C,,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689339,50.849082
-Vrijthof,11,D,,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689339,50.849082
+Vrijthof,11,D,01,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689339,50.849082
+Vrijthof,11,D,02,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689339,50.849082
 Vrijthof,11,E,,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689339,50.849082
 Vrijthof,11,,,6211LC,Maastricht,Maastricht,Limburg,VBO,5.689339,50.849082
 Vrijthof,12,,,6211LD,Maastricht,Maastricht,Limburg,VBO,5.689322,50.849022
@@ -4380,7 +4457,8 @@ Vrijthof,20,B,,6211LD,Maastricht,Maastricht,Limburg,VBO,5.688243,50.848367
 Vrijthof,20,C,01,6211LD,Maastricht,Maastricht,Limburg,VBO,5.688263,50.848332
 Vrijthof,20,C,02,6211LD,Maastricht,Maastricht,Limburg,VBO,5.688244,50.848331
 Vrijthof,20,,,6211LD,Maastricht,Maastricht,Limburg,VBO,5.688345,50.848363
-Vrijthof,21,,,6211LD,Maastricht,Maastricht,Limburg,VBO,5.688094,50.848288
+Vrijthof,21,B,,6211LD,Maastricht,Maastricht,Limburg,VBO,5.688172,50.848302
+Vrijthof,21,,,6211LD,Maastricht,Maastricht,Limburg,VBO,5.688172,50.848302
 Vrijthof,22,A,01,6211LD,Maastricht,Maastricht,Limburg,VBO,5.687913,50.848082
 Vrijthof,22,A,02,6211LD,Maastricht,Maastricht,Limburg,VBO,5.687913,50.848082
 Vrijthof,22,B,01,6211LD,Maastricht,Maastricht,Limburg,VBO,5.687919,50.848068
@@ -4388,7 +4466,16 @@ Vrijthof,22,,,6211LD,Maastricht,Maastricht,Limburg,VBO,5.687894,50.848259
 Vrijthof,24,,,6211LD,Maastricht,Maastricht,Limburg,VBO,5.687884,50.848446
 Vrijthof,23,,,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687778,50.848240
 Vrijthof,25,,,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687877,50.849122
-Vrijthof,26,,,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687621,50.849225
+Vrijthof,26,A,01,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,A,02,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,B,01,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,B,02,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,C,01,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,C,02,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,C,03,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,D,01,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,D,02,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
+Vrijthof,26,,,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687630,50.849215
 Vrijthof,27,B,,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687600,50.849292
 Vrijthof,27,D,,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687600,50.849292
 Vrijthof,27,,,6211LE,Maastricht,Maastricht,Limburg,VBO,5.687600,50.849292
@@ -4445,7 +4532,6 @@ Bouillonstraat,3,,,6211LH,Maastricht,Maastricht,Limburg,VBO,5.687708,50.846824
 Bouillonstraat,4,,,6211LH,Maastricht,Maastricht,Limburg,VBO,5.687234,50.847191
 Bouillonstraat,6,,,6211LH,Maastricht,Maastricht,Limburg,VBO,5.687514,50.847131
 Bouillonstraat,8,,,6211LH,Maastricht,Maastricht,Limburg,VBO,5.687549,50.847020
-Bouillonstraat,11,,,6211LH,Maastricht,Maastricht,Limburg,VBO,5.687690,50.846636
 Bouillonstraat,12,B,,6211LH,Maastricht,Maastricht,Limburg,VBO,5.687511,50.846807
 Bouillonstraat,12,,,6211LH,Maastricht,Maastricht,Limburg,VBO,5.687511,50.846807
 Bouillonstraat,14,,,6211LH,Maastricht,Maastricht,Limburg,VBO,5.687501,50.846704
@@ -4474,11 +4560,26 @@ Minderbroedersberg,11,B,01,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686664,50.
 Minderbroedersberg,11,B,02,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686735,50.847069
 Minderbroedersberg,11,G,,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686605,50.847117
 Minderbroedersberg,12,,,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686818,50.846711
+Minderbroedersberg,13,A,01,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,A,02,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,A,03,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,A,04,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,B,01,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,B,02,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,B,03,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,B,04,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,C,01,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,C,02,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,C,03,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,D,01,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
+Minderbroedersberg,13,D,02,6211LK,Maastricht,Maastricht,Limburg,VBO,5.686686,50.847242
 Tongersestraat,1,,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.687519,50.846438
 Tongersestraat,3,,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.687255,50.846371
 Tongersestraat,5,,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.687175,50.846349
 Tongersestraat,7,,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.687097,50.846332
 Tongersestraat,9,,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.687023,50.846318
+Tongersestraat,11,,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.686957,50.846312
+Tongersestraat,13,,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.686884,50.846293
 Tongersestraat,15,,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.686823,50.846263
 Tongersestraat,17,B,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.686776,50.846242
 Tongersestraat,17,C,,6211LL,Maastricht,Maastricht,Limburg,VBO,5.686776,50.846242
@@ -4503,8 +4604,12 @@ Tongersestraat,37,,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.686119,50.845727
 Tongersestraat,39,A,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.686040,50.845689
 Tongersestraat,41,,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685853,50.845661
 Tongersestraat,43,,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685770,50.845633
+Tongersestraat,45,B,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685719,50.845619
 Tongersestraat,45,,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685714,50.845613
+Tongersestraat,47,B,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685670,50.845608
+Tongersestraat,47,C,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685670,50.845604
 Tongersestraat,47,,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685669,50.845596
+Tongersestraat,47,,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685670,50.845608
 Tongersestraat,49,A,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685591,50.845571
 Tongersestraat,49,,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685462,50.845527
 Tongersestraat,51,,,6211LM,Maastricht,Maastricht,Limburg,VBO,5.685322,50.845486
@@ -4572,7 +4677,8 @@ Tongersestraat,54,,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.685388,50.845689
 Tongersestraat,56,,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.685320,50.845665
 Tongersestraat,58,,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.685255,50.845640
 Tongersestraat,60,,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.685172,50.845609
-Tongersestraat,62,,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.685009,50.845558
+Tongersestraat,62,A,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.685039,50.845568
+Tongersestraat,62,D,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.685039,50.845568
 Tongersestraat,64,A,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.684931,50.845538
 Tongersestraat,64,B,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.684931,50.845538
 Tongersestraat,64,C,,6211LP,Maastricht,Maastricht,Limburg,VBO,5.684931,50.845538
@@ -4623,19 +4729,36 @@ Abtstraat,1,B,02,6211LS,Maastricht,Maastricht,Limburg,VBO,5.683820,50.847857
 Abtstraat,1,C,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.683820,50.847857
 Abtstraat,1,D,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.683820,50.847857
 Abtstraat,2,A,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.683825,50.847203
+Abtstraat,2,B,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684123,50.846897
 Abtstraat,2,,TR,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684074,50.847002
 Abtstraat,2,,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.683728,50.847477
+Abtstraat,4,A,01,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684245,50.846714
+Abtstraat,4,A,02,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684245,50.846714
+Abtstraat,4,A,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684257,50.846713
+Abtstraat,4,B,01,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684257,50.846713
+Abtstraat,4,B,02,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684245,50.846714
+Abtstraat,4,B,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684257,50.846713
+Abtstraat,4,C,01,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684257,50.846713
+Abtstraat,4,C,02,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684257,50.846713
 Abtstraat,4,,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684288,50.846629
 Abtstraat,5,B,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,5,C,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,5,G,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684074,50.847406
+Abtstraat,6,A,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684302,50.846647
+Abtstraat,6,B,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684296,50.846649
+Abtstraat,6,C,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684296,50.846649
+Abtstraat,6,,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684302,50.846647
 Abtstraat,7,B,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,7,C,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,7,D,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
+Abtstraat,8,B,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684340,50.846575
+Abtstraat,8,C,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684332,50.846572
+Abtstraat,8,D,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684348,50.846577
 Abtstraat,9,A,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,9,B,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,9,C,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,9,D,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
+Abtstraat,10,,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684386,50.846512
 Abtstraat,11,A,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,11,B,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
 Abtstraat,11,C,,6211LS,Maastricht,Maastricht,Limburg,VBO,5.684069,50.847451
@@ -4712,8 +4835,9 @@ Aldenhofpark,6,,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.683450,50.843966
 Aldenhofpark,7,,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.683229,50.843878
 Aldenhofpark,28,A,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682845,50.843843
 Aldenhofpark,28,B,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682917,50.843852
-Aldenhofpark,30,B,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682556,50.843855
-Aldenhofpark,30,C,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682556,50.843855
+Aldenhofpark,30,B,01,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682541,50.843910
+Aldenhofpark,30,B,02,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682541,50.843910
+Aldenhofpark,30,C,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682541,50.843910
 Aldenhofpark,30,,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682556,50.843855
 Aldenhofpark,32,,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682332,50.844016
 Aldenhofpark,34,,,6211LV,Maastricht,Maastricht,Limburg,VBO,5.682257,50.844091
@@ -4727,11 +4851,29 @@ Tongerseplein,19,A,,6211LW,Maastricht,Maastricht,Limburg,VBO,5.682094,50.844478
 Tongerseplein,19,B,,6211LW,Maastricht,Maastricht,Limburg,VBO,5.682094,50.844478
 Tongerseplein,20,A,,6211LW,Maastricht,Maastricht,Limburg,VBO,5.682120,50.844525
 Tongerseplein,20,,,6211LW,Maastricht,Maastricht,Limburg,VBO,5.682120,50.844525
+Polvertorenplein,2,B,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,B,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,C,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,C,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,D,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,D,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683479,50.845645
+Polvertorenplein,2,E,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,E,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683479,50.845645
+Polvertorenplein,2,F,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683479,50.845645
+Polvertorenplein,2,F,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683479,50.845645
+Polvertorenplein,2,H,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,H,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,K,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,K,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,L,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683483,50.845638
+Polvertorenplein,2,L,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683487,50.845642
+Polvertorenplein,2,M,01,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683487,50.845642
+Polvertorenplein,2,M,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683479,50.845645
+Polvertorenplein,2,N,02,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683479,50.845645
 Polvertorenstraat,1,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.682855,50.845447
 Polvertorenstraat,3,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.682673,50.845538
-Polvertorenstraat,4,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683458,50.845394
 Polvertorenstraat,5,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.682571,50.845525
-Polvertorenstraat,6,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.683291,50.845587
+Polvertorenstraat,6,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.682749,50.846517
 Polvertorenstraat,11,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.682099,50.845469
 Polvertorenstraat,15,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.681875,50.845441
 Polvertorenstraat,17,,,6211LX,Maastricht,Maastricht,Limburg,VBO,5.681798,50.845433
@@ -4859,6 +5001,44 @@ Hondertmarck,47,A,,6211MB,Maastricht,Maastricht,Limburg,VBO,5.693471,50.846507
 Hondertmarck,47,B,,6211MB,Maastricht,Maastricht,Limburg,VBO,5.693471,50.846507
 Hondertmarck,47,C,,6211MB,Maastricht,Maastricht,Limburg,VBO,5.693519,50.846511
 Hondertmarck,48,C,,6211MB,Maastricht,Maastricht,Limburg,VBO,5.693565,50.846513
+Looiershof,1,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689293,50.845620
+Looiershof,2,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689555,50.845505
+Looiershof,3,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689190,50.845629
+Looiershof,4,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689467,50.845592
+Looiershof,5,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689149,50.845671
+Looiershof,6,B,01,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689456,50.845674
+Looiershof,6,B,02,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689451,50.845672
+Looiershof,6,C,01,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689451,50.845672
+Looiershof,6,C,02,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689456,50.845674
+Looiershof,7,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689207,50.845808
+Looiershof,8,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689410,50.845741
+Looiershof,9,A,01,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,A,02,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,B,01,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,B,02,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,B,03,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,B,04,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,C,01,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,C,02,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,C,03,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,C,04,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,D,01,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,9,D,02,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688997,50.845892
+Looiershof,10,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689386,50.845793
+Looiershof,11,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688847,50.845739
+Looiershof,12,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689352,50.845847
+Looiershof,13,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688838,50.845598
+Looiershof,14,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.689339,50.845875
+Looiershof,16,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688012,50.845827
+Looiershof,18,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688380,50.845901
+Looiershof,20,A,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688464,50.845895
+Looiershof,20,B,01,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688464,50.845895
+Looiershof,20,B,02,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688464,50.845895
+Looiershof,20,B,03,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688464,50.845895
+Looiershof,22,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688611,50.845747
+Looiershof,24,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688644,50.845696
+Looiershof,26,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688676,50.845637
+Looiershof,28,,,6211MC,Maastricht,Maastricht,Limburg,VBO,5.688708,50.845579
 Tapijnkazerne,3,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.687874,50.842593
 Tapijnkazerne,4,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.687557,50.842321
 Tapijnkazerne,6,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.686707,50.842367
@@ -4868,12 +5048,29 @@ Tapijnkazerne,15,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.684874,50.842946
 Tapijnkazerne,16,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.685906,50.843288
 Tapijnkazerne,18,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.686446,50.843097
 Tapijnkazerne,19,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.686725,50.843228
-Tapijnkazerne,20,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.687148,50.843031
+Tapijnkazerne,20,S,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.687165,50.843027
+Tapijnkazerne,20,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.687165,50.843027
 Tapijnkazerne,21,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.686339,50.843601
 Tapijnkazerne,22,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.687183,50.843630
 Tapijnkazerne,23,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.688027,50.843454
 Tapijnkazerne,24,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.687808,50.843072
-Tapijnkazerne,25,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.688645,50.843103
+Tapijnkazerne,25,,,6211ME,Maastricht,Maastricht,Limburg,VBO,5.689119,50.843075
+Hackenkamer,10,,,6211MX,Maastricht,Maastricht,Limburg,VBO,5.683639,50.846820
+Hackenkamer,12,,,6211MX,Maastricht,Maastricht,Limburg,VBO,5.683693,50.846732
+Hackenkamer,14,,,6211MX,Maastricht,Maastricht,Limburg,VBO,5.683750,50.846650
+Hackenkamer,16,,,6211MX,Maastricht,Maastricht,Limburg,VBO,5.683810,50.846565
+Hackenkamer,18,,,6211MX,Maastricht,Maastricht,Limburg,VBO,5.683856,50.846500
+Hackenkamer,20,,,6211MX,Maastricht,Maastricht,Limburg,VBO,5.683901,50.846435
+Hackenkamer,22,,,6211MX,Maastricht,Maastricht,Limburg,VBO,5.683947,50.846364
+Polvertorenplein,3,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.683513,50.845419
+Polvertorenplein,4,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.683653,50.845453
+Polvertorenplein,5,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.683784,50.845484
+Polvertorenplein,6,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.683921,50.845519
+Polvertorenplein,9,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.683767,50.845868
+Polvertorenplein,10,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.683878,50.845903
+Polvertorenplein,11,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.683986,50.845932
+Polvertorenplein,12,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.684087,50.845964
+Polvertorenplein,17,,,6211MZ,Maastricht,Maastricht,Limburg,VBO,5.683991,50.846305
 Sint Servaasbolwerk,13,A,,6211NA,Maastricht,Maastricht,Limburg,VBO,5.681323,50.847400
 Sint Servaasbolwerk,13,B,,6211NA,Maastricht,Maastricht,Limburg,VBO,5.681323,50.847400
 Sint Servaasbolwerk,13,C,,6211NA,Maastricht,Maastricht,Limburg,VBO,5.681323,50.847400
@@ -5102,9 +5299,15 @@ Hertogsingel,89,A,01,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680776,50.845904
 Hertogsingel,89,A,02,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680776,50.845904
 Hertogsingel,89,A,03,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680776,50.845904
 Hertogsingel,89,B,,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680744,50.845893
-Hertogsingel,91,A,,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680790,50.845828
+Hertogsingel,91,A,01,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680803,50.845808
+Hertogsingel,91,A,02,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680803,50.845808
+Hertogsingel,91,A,03,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680803,50.845808
+Hertogsingel,91,A,04,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680803,50.845808
 Hertogsingel,91,B,,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680790,50.845828
+Hertogsingel,91,D,,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680790,50.845828
 Hertogsingel,93,,,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680888,50.845713
+Hertogsingel,95,A,01,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680959,50.845632
+Hertogsingel,95,A,02,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680959,50.845632
 Hertogsingel,95,,,6211NE,Maastricht,Maastricht,Limburg,VBO,5.680942,50.845642
 Hertogsingel,97,,,6211NE,Maastricht,Maastricht,Limburg,VBO,5.681028,50.845536
 Hertogsingel,99,,,6211NE,Maastricht,Maastricht,Limburg,VBO,5.681094,50.845455
@@ -5112,7 +5315,6 @@ Koningin Emmaplein,1,B,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678435,50.849
 Koningin Emmaplein,1,,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678444,50.849621
 Koningin Emmaplein,2,A,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678317,50.849666
 Koningin Emmaplein,2,B,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678317,50.849666
-Koningin Emmaplein,2,C,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678312,50.849692
 Koningin Emmaplein,3,,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678241,50.849697
 Koningin Emmaplein,4,,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678181,50.849720
 Koningin Emmaplein,16,A,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678192,50.849053
@@ -5122,7 +5324,12 @@ Koningin Emmaplein,16,D,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678192,50.84
 Koningin Emmaplein,17,B,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678266,50.849104
 Koningin Emmaplein,17,C,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678266,50.849104
 Koningin Emmaplein,17,,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678273,50.849111
+Koningin Emmaplein,18,B,01,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678334,50.849176
+Koningin Emmaplein,18,B,02,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678332,50.849179
 Koningin Emmaplein,18,B,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678336,50.849154
+Koningin Emmaplein,18,C,01,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678332,50.849179
+Koningin Emmaplein,18,C,02,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678332,50.849179
+Koningin Emmaplein,18,D,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678334,50.849176
 Koningin Emmaplein,18,,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678336,50.849154
 Koningin Emmaplein,19,,,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678394,50.849194
 Koningin Emmaplein,20,A,01,6211NG,Maastricht,Maastricht,Limburg,VBO,5.678449,50.849234
@@ -5269,8 +5476,7 @@ Sint Nicolaasstraat,10,A,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679340,50.8
 Sint Nicolaasstraat,10,B,01,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679340,50.849031
 Sint Nicolaasstraat,10,B,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679340,50.849031
 Sint Nicolaasstraat,16,A,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679365,50.848976
-Sint Nicolaasstraat,16,B,01,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679380,50.848944
-Sint Nicolaasstraat,16,B,02,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679380,50.848944
+Sint Nicolaasstraat,16,B,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679380,50.848944
 Sint Nicolaasstraat,16,,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679371,50.848959
 Sint Nicolaasstraat,18,,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679388,50.848921
 Sint Nicolaasstraat,20,A,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679400,50.848890
@@ -5288,15 +5494,24 @@ Sint Nicolaasstraat,26,C,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679476,50.8
 Sint Nicolaasstraat,28,,,6211NN,Maastricht,Maastricht,Limburg,VBO,5.679514,50.848632
 Sint Nicolaasstraat,30,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679541,50.848571
 Sint Nicolaasstraat,32,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679564,50.848518
-Sint Nicolaasstraat,34,B,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679602,50.848436
-Sint Nicolaasstraat,34,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679602,50.848436
+Sint Nicolaasstraat,34,A,01,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679611,50.848416
+Sint Nicolaasstraat,34,A,02,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679619,50.848413
+Sint Nicolaasstraat,34,A,03,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679619,50.848413
+Sint Nicolaasstraat,34,A,04,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679619,50.848413
+Sint Nicolaasstraat,34,B,01,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679619,50.848413
+Sint Nicolaasstraat,34,B,02,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679619,50.848413
+Sint Nicolaasstraat,34,C,01,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679623,50.848417
+Sint Nicolaasstraat,34,C,02,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679623,50.848417
+Sint Nicolaasstraat,34,D,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679623,50.848417
 Sint Nicolaasstraat,36,B,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679637,50.848335
 Sint Nicolaasstraat,36,C,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679637,50.848335
 Sint Nicolaasstraat,36,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679637,50.848335
-Sint Nicolaasstraat,38,A,01,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679674,50.848285
-Sint Nicolaasstraat,38,A,02,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679674,50.848285
+Sint Nicolaasstraat,38,A,01,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679700,50.848294
+Sint Nicolaasstraat,38,A,02,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679700,50.848294
 Sint Nicolaasstraat,38,B,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679674,50.848285
-Sint Nicolaasstraat,38,C,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679700,50.848294
+Sint Nicolaasstraat,38,C,01,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679700,50.848294
+Sint Nicolaasstraat,38,C,02,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679700,50.848294
+Sint Nicolaasstraat,38,D,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679700,50.848294
 Sint Nicolaasstraat,40,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679728,50.848223
 Sint Nicolaasstraat,42,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679766,50.848172
 Sint Nicolaasstraat,44,A,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.679812,50.848116
@@ -5315,19 +5530,18 @@ Sint Nicolaasstraat,58,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.680093,50.84
 Sint Nicolaasstraat,60,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.680131,50.847718
 Sint Nicolaasstraat,62,A,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.680171,50.847667
 Sint Nicolaasstraat,64,,,6211NP,Maastricht,Maastricht,Limburg,VBO,5.680241,50.847586
-Jekerstraat,1,B,01,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680092,50.849407
-Jekerstraat,1,B,02,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680092,50.849407
-Jekerstraat,1,C,,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680071,50.849405
+Jekerstraat,1,B,01,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680083,50.849360
+Jekerstraat,1,B,02,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680083,50.849360
+Jekerstraat,1,C,,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680083,50.849360
 Jekerstraat,3,,,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680134,50.849289
-Jekerstraat,5,A,,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680213,50.849212
-Jekerstraat,5,B,01,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680255,50.849190
-Jekerstraat,5,B,02,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680247,50.849194
-Jekerstraat,5,B,03,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680255,50.849190
-Jekerstraat,5,B,04,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680255,50.849190
-Jekerstraat,5,B,05,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680255,50.849190
-Jekerstraat,5,B,06,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680247,50.849194
-Jekerstraat,5,B,07,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680231,50.849182
-Jekerstraat,5,B,08,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680239,50.849184
+Jekerstraat,5,B,01,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680360,50.849218
+Jekerstraat,5,B,02,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680360,50.849218
+Jekerstraat,5,B,03,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680360,50.849218
+Jekerstraat,5,B,04,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680360,50.849218
+Jekerstraat,5,B,05,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680360,50.849218
+Jekerstraat,5,B,06,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680356,50.849223
+Jekerstraat,5,B,07,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680356,50.849223
+Jekerstraat,5,B,08,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680356,50.849223
 Jekerstraat,5,,TR,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680261,50.849118
 Jekerstraat,5,,,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680194,50.849206
 Jekerstraat,7,A,01,6211NR,Maastricht,Maastricht,Limburg,VBO,5.680760,50.848962
@@ -5406,6 +5620,8 @@ Jekerstraat,8,B,,6211NT,Maastricht,Maastricht,Limburg,VBO,5.680008,50.849171
 Jekerstraat,8,C,,6211NT,Maastricht,Maastricht,Limburg,VBO,5.680008,50.849171
 Jekerstraat,8,D,,6211NT,Maastricht,Maastricht,Limburg,VBO,5.679870,50.849107
 Jekerstraat,8,E,,6211NT,Maastricht,Maastricht,Limburg,VBO,5.679870,50.849107
+Jekerstraat,10,B,01,6211NT,Maastricht,Maastricht,Limburg,VBO,5.679786,50.849079
+Jekerstraat,10,B,02,6211NT,Maastricht,Maastricht,Limburg,VBO,5.679786,50.849079
 Jekerstraat,10,,,6211NT,Maastricht,Maastricht,Limburg,VBO,5.679785,50.849075
 Jekerstraat,12,C,,6211NT,Maastricht,Maastricht,Limburg,VBO,5.679732,50.849065
 Jekerstraat,12,,,6211NT,Maastricht,Maastricht,Limburg,VBO,5.679708,50.849056
@@ -5588,11 +5804,9 @@ Brusselsestraat,47,B,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.684009,50.84955
 Brusselsestraat,47,C,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.684009,50.849554
 Brusselsestraat,47,D,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.684009,50.849554
 Brusselsestraat,49,A,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
-Brusselsestraat,49,B,01,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
-Brusselsestraat,49,B,02,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
-Brusselsestraat,49,C,01,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
-Brusselsestraat,49,C,02,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
+Brusselsestraat,49,B,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
 Brusselsestraat,49,D,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
+Brusselsestraat,49,E,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
 Brusselsestraat,51,,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683830,50.849541
 Brusselsestraat,53,A,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683729,50.849522
 Brusselsestraat,53,B,,6211PB,Maastricht,Maastricht,Limburg,VBO,5.683729,50.849522
@@ -5619,11 +5833,41 @@ Brusselsestraat,65,A,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683224,50.84950
 Brusselsestraat,65,B,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683224,50.849507
 Brusselsestraat,65,C,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683224,50.849507
 Brusselsestraat,65,D,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683224,50.849507
+Brusselsestraat,67,A,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683159,50.849555
+Brusselsestraat,67,B,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683159,50.849555
+Brusselsestraat,67,B,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683159,50.849555
+Brusselsestraat,67,C,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683159,50.849555
+Brusselsestraat,67,C,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683159,50.849555
+Brusselsestraat,67,D,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683159,50.849555
+Brusselsestraat,67,D,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683159,50.849555
 Brusselsestraat,67,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683147,50.849553
+Brusselsestraat,69,A,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683095,50.849556
+Brusselsestraat,69,A,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683098,50.849558
+Brusselsestraat,69,B,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683098,50.849558
+Brusselsestraat,69,B,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683098,50.849558
+Brusselsestraat,69,C,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683098,50.849558
+Brusselsestraat,69,C,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683098,50.849558
+Brusselsestraat,69,D,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683098,50.849558
+Brusselsestraat,69,D,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683098,50.849558
 Brusselsestraat,69,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683086,50.849554
+Brusselsestraat,71,A,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683014,50.849555
+Brusselsestraat,71,A,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683014,50.849555
+Brusselsestraat,71,A,03,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683016,50.849558
 Brusselsestraat,71,A,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683015,50.849555
+Brusselsestraat,71,B,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683017,50.849557
+Brusselsestraat,71,B,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683017,50.849557
 Brusselsestraat,71,B,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683015,50.849555
+Brusselsestraat,71,C,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683016,50.849558
+Brusselsestraat,71,C,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683016,50.849558
 Brusselsestraat,71,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683015,50.849555
+Brusselsestraat,73,A,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682902,50.849562
+Brusselsestraat,73,A,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682902,50.849562
+Brusselsestraat,73,B,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682902,50.849562
+Brusselsestraat,73,B,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682906,50.849562
+Brusselsestraat,73,C,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682906,50.849562
+Brusselsestraat,73,C,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682905,50.849564
+Brusselsestraat,73,D,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682902,50.849562
+Brusselsestraat,73,D,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682902,50.849562
 Brusselsestraat,73,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682906,50.849562
 Brusselsestraat,75,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682787,50.849572
 Brusselsestraat,77,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.682566,50.849562
@@ -5645,6 +5889,15 @@ Brusselsestraat,87,C,03,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681502,50.849
 Brusselsestraat,87,C,04,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681501,50.849525
 Brusselsestraat,87,D,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681533,50.849510
 Brusselsestraat,87,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681983,50.849539
+Brusselsestraat,89,A,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
+Brusselsestraat,89,A,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681383,50.849545
+Brusselsestraat,89,A,03,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
+Brusselsestraat,89,B,01,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681383,50.849545
+Brusselsestraat,89,B,02,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
+Brusselsestraat,89,B,03,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
+Brusselsestraat,89,B,04,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681383,50.849545
+Brusselsestraat,89,C,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
+Brusselsestraat,89,D,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
 Brusselsestraat,89,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
 Brusselsestraat,91,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681285,50.849541
 Brusselsestraat,93,A,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681124,50.849547
@@ -5660,8 +5913,8 @@ Brusselsestraat,95,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.681041,50.849536
 Kruisherengang,2,B,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683471,50.849474
 Kruisherengang,2,C,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683471,50.849474
 Kruisherengang,2,D,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683471,50.849474
-Kruisherengang,2,,TR,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683475,50.849251
-Kruisherengang,2,,,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683471,50.849474
+Kruisherengang,2,,TR,6211PC,Maastricht,Maastricht,Limburg,VBO,5.683493,50.849254
+Brusselsestraat,49,C,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.683928,50.849554
 Brusselsestraat,97,,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680791,50.849534
 Brusselsestraat,99,A,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680719,50.849531
 Brusselsestraat,99,B,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680719,50.849531
@@ -5689,11 +5942,13 @@ Brusselsestraat,109,B,01,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680267,50.84
 Brusselsestraat,109,B,02,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680267,50.849510
 Brusselsestraat,109,C,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680267,50.849510
 Brusselsestraat,111,,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680153,50.849494
-Brusselsestraat,113,,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680102,50.849488
+Brusselsestraat,113,B,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680113,50.849503
+Brusselsestraat,113,,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680113,50.849503
 Brusselsestraat,115,,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.680033,50.849481
 Brusselsestraat,117,,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.679802,50.849491
 Brusselsestraat,119,A,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.679714,50.849485
 Brusselsestraat,119,B,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.679714,50.849485
+Brusselsestraat,121,A,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.679640,50.849477
 Brusselsestraat,121,B,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.679640,50.849477
 Brusselsestraat,121,,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.679640,50.849477
 Brusselsestraat,123,A,,6211PD,Maastricht,Maastricht,Limburg,VBO,5.679543,50.849477
@@ -5745,7 +6000,15 @@ Brusselsestraat,2,,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685368,50.849774
 Brusselsestraat,4,A,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685297,50.849760
 Brusselsestraat,4,A,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685297,50.849760
 Brusselsestraat,4,A,03,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685297,50.849760
+Brusselsestraat,4,B,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685227,50.849731
+Brusselsestraat,4,B,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685227,50.849731
+Brusselsestraat,4,B,03,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685227,50.849731
+Brusselsestraat,4,B,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685227,50.849731
 Brusselsestraat,4,B,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685257,50.849750
+Brusselsestraat,4,C,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685270,50.849742
+Brusselsestraat,4,C,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685270,50.849742
+Brusselsestraat,4,C,03,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685270,50.849742
+Brusselsestraat,4,C,04,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685270,50.849742
 Brusselsestraat,6,A,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685159,50.849723
 Brusselsestraat,6,A,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685159,50.849723
 Brusselsestraat,6,B,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685159,50.849723
@@ -5757,9 +6020,7 @@ Brusselsestraat,6,D,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685158,50.8497
 Brusselsestraat,8,A,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685097,50.849706
 Brusselsestraat,8,B,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.685097,50.849706
 Brusselsestraat,10,A,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684916,50.849790
-Brusselsestraat,10,A,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684963,50.849716
-Brusselsestraat,10,A,03,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684957,50.849719
-Brusselsestraat,10,A,04,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684963,50.849717
+Brusselsestraat,10,A,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684963,50.849717
 Brusselsestraat,10,B,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684912,50.849819
 Brusselsestraat,10,B,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684912,50.849819
 Brusselsestraat,10,B,03,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684912,50.849819
@@ -5779,8 +6040,14 @@ Brusselsestraat,12,C,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684799,50.849
 Brusselsestraat,12,C,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684799,50.849678
 Brusselsestraat,12,D,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684799,50.849678
 Brusselsestraat,12,,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684799,50.849678
-Brusselsestraat,14,A,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684718,50.849673
+Brusselsestraat,14,A,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684740,50.849678
+Brusselsestraat,14,B,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684740,50.849678
+Brusselsestraat,14,B,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684744,50.849678
+Brusselsestraat,14,B,03,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684744,50.849678
 Brusselsestraat,14,B,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684718,50.849673
+Brusselsestraat,14,C,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684744,50.849678
+Brusselsestraat,14,C,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684740,50.849678
+Brusselsestraat,14,D,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684744,50.849678
 Brusselsestraat,16,B,01,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684642,50.849736
 Brusselsestraat,16,B,02,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684673,50.849739
 Brusselsestraat,16,,,6211PE,Maastricht,Maastricht,Limburg,VBO,5.684667,50.849669
@@ -5810,6 +6077,7 @@ Brusselsestraat,38,A,,6211PG,Maastricht,Maastricht,Limburg,VBO,5.683629,50.84968
 Brusselsestraat,38,B,,6211PG,Maastricht,Maastricht,Limburg,VBO,5.683622,50.849708
 Brusselsestraat,38,,,6211PG,Maastricht,Maastricht,Limburg,VBO,5.683719,50.849679
 Brusselsestraat,40,B,,6211PG,Maastricht,Maastricht,Limburg,VBO,5.683570,50.849680
+Brusselsestraat,40,C,,6211PG,Maastricht,Maastricht,Limburg,VBO,5.683570,50.849680
 Brusselsestraat,40,,,6211PG,Maastricht,Maastricht,Limburg,VBO,5.683570,50.849680
 Brusselsestraat,42,,,6211PG,Maastricht,Maastricht,Limburg,VBO,5.683344,50.849692
 Brusselsestraat,46,,,6211PG,Maastricht,Maastricht,Limburg,VBO,5.683208,50.849703
@@ -5886,7 +6154,6 @@ Brusselsestraat,96,C,,6211PH,Maastricht,Maastricht,Limburg,VBO,5.681106,50.84969
 Brusselsestraat,96,D,,6211PH,Maastricht,Maastricht,Limburg,VBO,5.681106,50.849694
 Brusselsestraat,98,,,6211PH,Maastricht,Maastricht,Limburg,VBO,5.681023,50.849693
 Brusselsestraat,114,A,01,6211PH,Maastricht,Maastricht,Limburg,VBO,5.680832,50.849854
-Brusselsestraat,114,A,02,6211PH,Maastricht,Maastricht,Limburg,VBO,5.680914,50.849957
 Brusselsestraat,114,,,6211PH,Maastricht,Maastricht,Limburg,VBO,5.680902,50.849698
 Brusselsestraat,118,,,6211PH,Maastricht,Maastricht,Limburg,VBO,5.680712,50.849708
 Brusselsestraat,120,B,,6211PH,Maastricht,Maastricht,Limburg,VBO,5.680619,50.849721
@@ -6218,7 +6485,10 @@ Zakstraat,3,,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679777,50.849833
 Zakstraat,4,,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679975,50.849922
 Zakstraat,5,,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679654,50.849909
 Zakstraat,6,,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679955,50.849981
-Zakstraat,8,,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679940,50.850032
+Zakstraat,8,A,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679921,50.850050
+Zakstraat,8,B,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679921,50.850050
+Zakstraat,8,C,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679921,50.850050
+Zakstraat,8,D,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679921,50.850050
 Zakstraat,9,B,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679682,50.850114
 Zakstraat,9,C,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679682,50.850114
 Zakstraat,9,D,,6211PS,Maastricht,Maastricht,Limburg,VBO,5.679703,50.850089
@@ -6348,15 +6618,6 @@ Herdenkingsplein,28,A,,6211PX,Maastricht,Maastricht,Limburg,VBO,5.681608,50.8483
 Herdenkingsplein,28,B,,6211PX,Maastricht,Maastricht,Limburg,VBO,5.681608,50.848393
 Herdenkingsplein,28,C,,6211PX,Maastricht,Maastricht,Limburg,VBO,5.681608,50.848393
 Herdenkingsplein,28,D,,6211PX,Maastricht,Maastricht,Limburg,VBO,5.681608,50.848393
-Brusselsestraat,89,A,01,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
-Brusselsestraat,89,A,02,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681383,50.849545
-Brusselsestraat,89,A,03,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
-Brusselsestraat,89,B,01,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681383,50.849545
-Brusselsestraat,89,B,02,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
-Brusselsestraat,89,B,03,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
-Brusselsestraat,89,B,04,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681383,50.849545
-Brusselsestraat,89,C,,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
-Brusselsestraat,89,D,,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681386,50.849539
 Herdenkingsplein,29,A,,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681465,50.848375
 Herdenkingsplein,29,B,,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681465,50.848375
 Herdenkingsplein,29,C,,6211PZ,Maastricht,Maastricht,Limburg,VBO,5.681465,50.848375
@@ -6417,7 +6678,17 @@ Herbenusstraat,11,A,,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684169,50.853182
 Herbenusstraat,11,B,,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684169,50.853182
 Herbenusstraat,11,C,,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684169,50.853182
 Herbenusstraat,11,D,,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684169,50.853182
-Herbenusstraat,13,,,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684110,50.853114
+Herbenusstraat,13,A,01,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684101,50.853121
+Herbenusstraat,13,A,02,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684105,50.853115
+Herbenusstraat,13,A,03,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684110,50.853114
+Herbenusstraat,13,B,01,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684110,50.853114
+Herbenusstraat,13,B,02,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684105,50.853115
+Herbenusstraat,13,B,03,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684105,50.853115
+Herbenusstraat,13,C,01,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684110,50.853114
+Herbenusstraat,13,C,02,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684105,50.853115
+Herbenusstraat,13,C,03,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684110,50.853114
+Herbenusstraat,13,D,01,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684105,50.853115
+Herbenusstraat,13,D,02,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684110,50.853114
 Herbenusstraat,15,A,,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684034,50.853051
 Herbenusstraat,15,B,,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684034,50.853051
 Herbenusstraat,15,C,,6211RA,Maastricht,Maastricht,Limburg,VBO,5.684034,50.853051
@@ -6499,7 +6770,18 @@ Herbenusstraat,85,R,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681726,50.851526
 Herbenusstraat,85,T,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681657,50.851480
 Herbenusstraat,85,U,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681726,50.851526
 Herbenusstraat,85,V,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681657,50.851480
-Herbenusstraat,87,,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681596,50.851175
+Herbenusstraat,87,A,04,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681619,50.851198
+Herbenusstraat,87,A,05,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681745,50.851170
+Herbenusstraat,87,A,10,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681736,50.851056
+Herbenusstraat,87,A,11,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681622,50.851021
+Herbenusstraat,87,A,12,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681536,50.850959
+Herbenusstraat,87,B,12,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681622,50.851021
+Herbenusstraat,87,B,13,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681622,50.851021
+Herbenusstraat,87,B,14,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681536,50.850959
+Herbenusstraat,87,C,01,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681513,50.851077
+Herbenusstraat,87,C,02,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681622,50.851021
+Herbenusstraat,87,C,03,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681536,50.850959
+Herbenusstraat,87,,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681513,50.851077
 Herbenusstraat,89,A,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.680667,50.850810
 Herbenusstraat,89,,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.681292,50.850779
 Herbenusstraat,91,C,,6211RB,Maastricht,Maastricht,Limburg,VBO,5.680619,50.850782
@@ -6520,6 +6802,8 @@ Herbenusstraat,95,C,12,6211RB,Maastricht,Maastricht,Limburg,VBO,5.680468,50.8506
 Herbenusstraat,95,D,31,6211RB,Maastricht,Maastricht,Limburg,VBO,5.680468,50.850694
 Herbenusstraat,97,A,,6211RC,Maastricht,Maastricht,Limburg,VBO,5.680421,50.850649
 Herbenusstraat,97,B,,6211RC,Maastricht,Maastricht,Limburg,VBO,5.680421,50.850649
+Herbenusstraat,97,C,,6211RC,Maastricht,Maastricht,Limburg,VBO,5.680421,50.850649
+Herbenusstraat,97,D,,6211RC,Maastricht,Maastricht,Limburg,VBO,5.680421,50.850649
 Herbenusstraat,99,A,,6211RC,Maastricht,Maastricht,Limburg,VBO,5.680349,50.850605
 Herbenusstraat,99,B,,6211RC,Maastricht,Maastricht,Limburg,VBO,5.680349,50.850605
 Herbenusstraat,101,,,6211RC,Maastricht,Maastricht,Limburg,VBO,5.680284,50.850562
@@ -6613,8 +6897,7 @@ Herbenusstraat,142,A,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680435,50.85092
 Herbenusstraat,142,B,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680435,50.850920
 Herbenusstraat,142,C,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680435,50.850920
 Herbenusstraat,142,D,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680435,50.850920
-Herbenusstraat,144,A,01,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680376,50.850880
-Herbenusstraat,144,A,02,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680363,50.850888
+Herbenusstraat,144,A,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680376,50.850880
 Herbenusstraat,144,B,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680375,50.850880
 Herbenusstraat,144,C,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680375,50.850880
 Herbenusstraat,144,D,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.680375,50.850880
@@ -6636,6 +6919,11 @@ Herbenusstraat,166,,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.679802,50.850491
 Herbenusstraat,168,,,6211RH,Maastricht,Maastricht,Limburg,VBO,5.679759,50.850463
 Herbenusstraat,174,,,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679461,50.850259
 Herbenusstraat,176,,,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679398,50.850212
+Herbenusstraat,178,A,01,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679344,50.850168
+Herbenusstraat,178,A,02,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679344,50.850168
+Herbenusstraat,178,B,01,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679344,50.850168
+Herbenusstraat,178,B,02,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679344,50.850168
+Herbenusstraat,178,C,,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679344,50.850168
 Herbenusstraat,178,,,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679344,50.850168
 Herbenusstraat,180,,,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679301,50.850124
 Herbenusstraat,182,A,,6211RJ,Maastricht,Maastricht,Limburg,VBO,5.679241,50.850061
@@ -6731,7 +7019,8 @@ Hoogfrankrijk,32,A,,6211RL,Maastricht,Maastricht,Limburg,VBO,5.683956,50.851972
 Hoogfrankrijk,32,B,,6211RL,Maastricht,Maastricht,Limburg,VBO,5.683956,50.851972
 Hoogfrankrijk,34,A,,6211RL,Maastricht,Maastricht,Limburg,VBO,5.683956,50.851972
 Hoogfrankrijk,34,B,,6211RL,Maastricht,Maastricht,Limburg,VBO,5.683956,50.851972
-Hoogfrankrijk,36,,,6211RL,Maastricht,Maastricht,Limburg,VBO,5.683810,50.851922
+Hoogfrankrijk,36,A,,6211RL,Maastricht,Maastricht,Limburg,VBO,5.683809,50.851927
+Hoogfrankrijk,36,,,6211RL,Maastricht,Maastricht,Limburg,VBO,5.683876,50.851955
 Hoogfrankrijk,38,,,6211RL,Maastricht,Maastricht,Limburg,VBO,5.683747,50.851910
 Hoogfrankrijk,40,,,6211RM,Maastricht,Maastricht,Limburg,VBO,5.683683,50.851896
 Hoogfrankrijk,42,,,6211RM,Maastricht,Maastricht,Limburg,VBO,5.683623,50.851883
@@ -6833,7 +7122,6 @@ Capucijnenstraat,21,C,19,6211RN,Maastricht,Maastricht,Limburg,VBO,5.685412,50.85
 Capucijnenstraat,21,C,20,6211RN,Maastricht,Maastricht,Limburg,VBO,5.685412,50.852834
 Capucijnenstraat,21,C,21,6211RN,Maastricht,Maastricht,Limburg,VBO,5.685413,50.852834
 Capucijnenstraat,21,C,22,6211RN,Maastricht,Maastricht,Limburg,VBO,5.685411,50.852835
-Haspengouw,22,B,,6211RN,Maastricht,Maastricht,Limburg,VBO,5.722152,50.836162
 Capucijnenstraat,33,A,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685616,50.852432
 Capucijnenstraat,33,B,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685616,50.852432
 Capucijnenstraat,33,C,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685616,50.852432
@@ -6859,7 +7147,28 @@ Capucijnenstraat,41,C,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685790,50.8522
 Capucijnenstraat,41,D,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685790,50.852261
 Capucijnenstraat,41,,TR,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685773,50.852235
 Capucijnenstraat,43,B,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685817,50.852231
-Capucijnenstraat,43,,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685801,50.852215
+Capucijnenstraat,43,,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686005,50.852061
+Capucijnenstraat,45,A,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,A,02,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,A,03,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,A,04,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,B,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,B,02,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,B,03,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,B,04,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,B,05,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,B,06,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,B,07,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685961,50.852060
+Capucijnenstraat,45,C,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,C,02,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685961,50.852060
+Capucijnenstraat,45,C,03,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685961,50.852060
+Capucijnenstraat,45,C,04,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685963,50.852054
+Capucijnenstraat,45,C,05,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685961,50.852060
+Capucijnenstraat,45,C,06,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685961,50.852060
+Capucijnenstraat,45,C,07,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685961,50.852060
+Capucijnenstraat,45,D,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685961,50.852060
+Capucijnenstraat,45,D,02,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
+Capucijnenstraat,45,,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.685971,50.852058
 Capucijnenstraat,47,,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686052,50.851930
 Capucijnenstraat,49,,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686080,50.851892
 Capucijnenstraat,51,B,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686144,50.851827
@@ -6878,9 +7187,33 @@ Capucijnenstraat,69,B,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686470,50.8514
 Capucijnenstraat,69,,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686531,50.851394
 Capucijnenstraat,71,,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686636,50.851296
 Capucijnenstraat,73,,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686689,50.851237
-Capucijnenstraat,75,A,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686788,50.851120
-Capucijnenstraat,75,A,02,6211RP,Maastricht,Maastricht,Limburg,VBO,5.687011,50.851039
-Capucijnenstraat,75,B,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.687146,50.851029
+Capucijnenstraat,75,A,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,A,02,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686878,50.851161
+Capucijnenstraat,75,A,03,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,A,04,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,A,05,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,A,06,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,A,07,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,A,08,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,A,09,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,02,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,03,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,05,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,06,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,07,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,08,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,09,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,10,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,B,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686878,50.851161
+Capucijnenstraat,75,C,01,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,C,02,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,C,03,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,C,04,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,C,05,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,C,06,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,C,07,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
+Capucijnenstraat,75,C,08,6211RP,Maastricht,Maastricht,Limburg,VBO,5.686787,50.851137
 Capucijnenstraat,91,A,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.687012,50.850894
 Capucijnenstraat,91,B,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.687012,50.850894
 Capucijnenstraat,91,C,,6211RP,Maastricht,Maastricht,Limburg,VBO,5.687012,50.850894
@@ -6962,10 +7295,8 @@ Capucijnenstraat,90,C,03,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685657,50.85
 Capucijnenstraat,90,D,01,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685657,50.852097
 Capucijnenstraat,90,D,02,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685654,50.852102
 Capucijnenstraat,92,,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685712,50.852043
-Capucijnenstraat,94,A,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685724,50.851992
-Capucijnenstraat,94,B,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685724,50.851992
-Capucijnenstraat,94,C,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685724,50.851992
-Capucijnenstraat,94,,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685744,50.851998
+Capucijnenstraat,94,A,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685803,50.851995
+Capucijnenstraat,94,B,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685815,50.851984
 Capucijnenstraat,96,A,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685774,50.851939
 Capucijnenstraat,96,,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685795,50.851947
 Capucijnenstraat,98,,,6211RT,Maastricht,Maastricht,Limburg,VBO,5.685843,50.851893
@@ -7027,8 +7358,6 @@ Capucijnengang,29,B,,6211RV,Maastricht,Maastricht,Limburg,VBO,5.687247,50.850980
 Capucijnengang,29,C,,6211RV,Maastricht,Maastricht,Limburg,VBO,5.687247,50.850980
 Capucijnengang,31,,,6211RV,Maastricht,Maastricht,Limburg,VBO,5.687622,50.851158
 Capucijnengang,59,A,,6211RV,Maastricht,Maastricht,Limburg,VBO,5.686808,50.851340
-Capucijnengang,59,B,01,6211RV,Maastricht,Maastricht,Limburg,VBO,5.686808,50.851340
-Capucijnengang,59,B,02,6211RV,Maastricht,Maastricht,Limburg,VBO,5.686808,50.851340
 Maagdendries,6,,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.687882,50.854073
 Maagdendries,8,,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.687935,50.854149
 Maagdendries,10,,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.687941,50.854200
@@ -7060,6 +7389,28 @@ Maagdendries,59,,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.686203,50.854015
 Maagdendries,61,,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.686114,50.854037
 Maagdendries,63,,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.686019,50.854066
 Maagdendries,65,,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685916,50.854092
+Maagdendries,67,A,01,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,A,02,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,A,03,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,A,04,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,B,01,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,B,02,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685612,50.854149
+Maagdendries,67,B,03,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685612,50.854149
+Maagdendries,67,B,04,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,B,05,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,C,01,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,C,02,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,C,03,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,C,04,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,C,05,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,D,01,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,D,02,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,D,03,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,D,04,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685612,50.854149
+Maagdendries,67,D,05,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685612,50.854149
+Maagdendries,67,E,01,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,E,02,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
+Maagdendries,67,E,03,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685618,50.854143
 Maagdendries,101,A,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.684831,50.853900
 Maagdendries,101,B,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.684831,50.853900
 Maagdendries,101,C,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.684831,50.853900
@@ -7120,6 +7471,10 @@ Maagdendries,127,C,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685020,50.854509
 Maagdendries,127,D,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.685000,50.854516
 Maagdendries,127,E,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.684984,50.854524
 Maagdendries,131,,,6211RW,Maastricht,Maastricht,Limburg,VBO,5.684971,50.854531
+Lindenkruis,9,,,6211RX,Maastricht,Maastricht,Limburg,VBO,5.685401,50.854033
+Lindenkruis,11,,,6211RX,Maastricht,Maastricht,Limburg,VBO,5.685343,50.853999
+Lindenkruis,13,,,6211RX,Maastricht,Maastricht,Limburg,VBO,5.685297,50.853961
+Lindenkruis,15,,,6211RX,Maastricht,Maastricht,Limburg,VBO,5.685240,50.853927
 Achter de Barakken,1,B,01,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689649,50.854115
 Achter de Barakken,1,B,02,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689649,50.854115
 Achter de Barakken,1,B,03,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689649,50.854115
@@ -7152,33 +7507,33 @@ Achter de Barakken,6,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689360,50.8542
 Achter de Barakken,7,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689396,50.854065
 Achter de Barakken,8,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689215,50.854240
 Achter de Barakken,9,A,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689106,50.854025
-Achter de Barakken,9,B,01,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,B,02,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,B,03,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,B,04,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,B,05,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,B,06,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,B,07,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,B,08,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,B,09,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,01,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,02,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,03,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,04,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,05,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,06,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,07,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,08,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,C,09,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,01,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,02,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,03,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,04,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,05,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,06,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,07,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,08,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
-Achter de Barakken,9,D,09,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
+Achter de Barakken,9,B,01,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689106,50.854025
+Achter de Barakken,9,B,02,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854027
+Achter de Barakken,9,B,03,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854027
+Achter de Barakken,9,B,04,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689110,50.854027
+Achter de Barakken,9,B,05,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689106,50.854025
+Achter de Barakken,9,B,06,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689110,50.854027
+Achter de Barakken,9,B,07,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689110,50.854027
+Achter de Barakken,9,B,08,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854027
+Achter de Barakken,9,B,09,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689106,50.854025
+Achter de Barakken,9,C,01,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854027
+Achter de Barakken,9,C,02,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854030
+Achter de Barakken,9,C,03,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689114,50.854027
+Achter de Barakken,9,C,04,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854029
+Achter de Barakken,9,C,05,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854030
+Achter de Barakken,9,C,06,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854030
+Achter de Barakken,9,C,07,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854030
+Achter de Barakken,9,C,08,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689106,50.854029
+Achter de Barakken,9,C,09,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854030
+Achter de Barakken,9,D,01,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689110,50.854030
+Achter de Barakken,9,D,02,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689115,50.854035
+Achter de Barakken,9,D,03,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854030
+Achter de Barakken,9,D,04,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689110,50.854030
+Achter de Barakken,9,D,05,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854033
+Achter de Barakken,9,D,06,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854030
+Achter de Barakken,9,D,07,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689117,50.854032
+Achter de Barakken,9,D,08,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689115,50.854034
+Achter de Barakken,9,D,09,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689112,50.854030
 Achter de Barakken,9,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689314,50.854005
 Achter de Barakken,10,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.689091,50.854220
 Achter de Barakken,11,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.688965,50.854001
@@ -7214,6 +7569,7 @@ Achter de Barakken,31,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.688032,50.854
 Achter de Barakken,33,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.688250,50.854134
 Achter de Barakken,35,A,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.688209,50.854053
 Achter de Barakken,35,,,6211RZ,Maastricht,Maastricht,Limburg,VBO,5.688231,50.854052
+Breulingstraat,1,B,,6211SB,Maastricht,Maastricht,Limburg,VBO,5.689772,50.853658
 Breulingstraat,3,,,6211SB,Maastricht,Maastricht,Limburg,VBO,5.689541,50.853626
 Breulingstraat,5,,,6211SB,Maastricht,Maastricht,Limburg,VBO,5.689430,50.853618
 Breulingstraat,7,,,6211SB,Maastricht,Maastricht,Limburg,VBO,5.689349,50.853617
@@ -7326,7 +7682,13 @@ Batterijstraat,51,E,,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689268,50.851964
 Batterijstraat,51,,,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689268,50.851964
 Batterijstraat,53,,,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689299,50.851858
 Batterijstraat,55,,,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689297,50.851805
-Batterijstraat,57,,,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689303,50.851764
+Batterijstraat,59,B,01,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689315,50.851722
+Batterijstraat,59,B,02,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689315,50.851722
+Batterijstraat,59,B,03,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689315,50.851722
+Batterijstraat,59,C,01,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689315,50.851722
+Batterijstraat,59,C,02,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689315,50.851722
+Batterijstraat,59,D,01,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689315,50.851722
+Batterijstraat,59,D,02,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689315,50.851722
 Batterijstraat,59,,,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689315,50.851722
 Batterijstraat,61,A,01,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689345,50.851549
 Batterijstraat,61,A,02,6211SG,Maastricht,Maastricht,Limburg,VBO,5.689345,50.851549
@@ -7470,6 +7832,7 @@ Uitbelderstraat,1,,,6211SL,Maastricht,Maastricht,Limburg,VBO,5.688623,50.852326
 Uitbelderstraat,2,,,6211SL,Maastricht,Maastricht,Limburg,VBO,5.688721,50.852484
 Uitbelderstraat,3,,,6211SL,Maastricht,Maastricht,Limburg,VBO,5.688416,50.852303
 Uitbelderstraat,6,,,6211SL,Maastricht,Maastricht,Limburg,VBO,5.688627,50.852471
+Uitbelderstraat,8,A,,6211SL,Maastricht,Maastricht,Limburg,VBO,5.688536,50.852459
 Uitbelderstraat,8,B,,6211SL,Maastricht,Maastricht,Limburg,VBO,5.688536,50.852459
 Uitbelderstraat,10,C,,6211SL,Maastricht,Maastricht,Limburg,VBO,5.688475,50.852454
 Uitbelderstraat,10,,,6211SL,Maastricht,Maastricht,Limburg,VBO,5.688475,50.852454
@@ -7836,6 +8199,7 @@ Grote Gracht,85,C,01,6211SV,Maastricht,Maastricht,Limburg,VBO,5.686372,50.850152
 Grote Gracht,85,C,02,6211SV,Maastricht,Maastricht,Limburg,VBO,5.686376,50.850146
 Grote Gracht,85,C,03,6211SV,Maastricht,Maastricht,Limburg,VBO,5.686379,50.850148
 Grote Gracht,85,C,04,6211SV,Maastricht,Maastricht,Limburg,VBO,5.686379,50.850148
+Grote Gracht,85,C,05,6211SV,Maastricht,Maastricht,Limburg,VBO,5.686379,50.850148
 Grote Gracht,85,C,06,6211SV,Maastricht,Maastricht,Limburg,VBO,5.686384,50.850152
 Grote Gracht,85,C,07,6211SV,Maastricht,Maastricht,Limburg,VBO,5.686376,50.850146
 Grote Gracht,85,C,08,6211SV,Maastricht,Maastricht,Limburg,VBO,5.686372,50.850152
@@ -7971,6 +8335,7 @@ Grote Gracht,54,D,07,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687732,50.850858
 Grote Gracht,54,D,08,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687732,50.850858
 Grote Gracht,54,D,09,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687732,50.850858
 Grote Gracht,54,D,10,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687732,50.850858
+Grote Gracht,56,,,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687582,50.850830
 Grote Gracht,58,A,01,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687362,50.850813
 Grote Gracht,58,A,02,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687362,50.850813
 Grote Gracht,58,A,03,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687362,50.850813
@@ -7989,10 +8354,12 @@ Grote Gracht,58,,,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687419,50.850779
 Grote Gracht,60,A,,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687243,50.850731
 Grote Gracht,60,B,01,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687165,50.850858
 Grote Gracht,60,B,02,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687165,50.850858
+Grote Gracht,60,B,,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687328,50.850762
 Grote Gracht,60,C,01,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687165,50.850858
 Grote Gracht,60,C,02,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687165,50.850858
 Grote Gracht,60,D,01,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687165,50.850858
 Grote Gracht,60,D,02,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687165,50.850858
+Grote Gracht,60,D,,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687328,50.850762
 Grote Gracht,60,,,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687328,50.850762
 Grote Gracht,62,,,6211SX,Maastricht,Maastricht,Limburg,VBO,5.687173,50.850711
 Grote Gracht,64,,,6211SZ,Maastricht,Maastricht,Limburg,VBO,5.687035,50.850652
@@ -8054,14 +8421,15 @@ Helmstraat,11,,,6211TA,Maastricht,Maastricht,Limburg,VBO,5.689172,50.849888
 Helmstraat,12,A,,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688834,50.850361
 Helmstraat,12,,,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688834,50.850361
 Helmstraat,14,,,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688859,50.850270
-Helmstraat,16,B,01,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688884,50.850169
+Helmstraat,16,B,01,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688928,50.850082
+Helmstraat,16,B,02,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688928,50.850082
 Helmstraat,16,B,,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688912,50.850144
-Helmstraat,16,C,01,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688884,50.850169
-Helmstraat,16,C,02,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688855,50.850167
-Helmstraat,16,C,03,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688855,50.850167
-Helmstraat,16,C,04,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688855,50.850167
-Helmstraat,16,D,01,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688884,50.850169
-Helmstraat,16,,,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688935,50.849978
+Helmstraat,16,C,01,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688928,50.850082
+Helmstraat,16,C,02,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688928,50.850082
+Helmstraat,16,C,03,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688928,50.850082
+Helmstraat,16,C,04,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688928,50.850082
+Helmstraat,16,D,01,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688928,50.850082
+Helmstraat,16,,,6211TA,Maastricht,Maastricht,Limburg,VBO,5.688963,50.849938
 Statenstraat,1,,,6211TB,Maastricht,Maastricht,Limburg,VBO,5.687440,50.850495
 Statenstraat,2,A,,6211TB,Maastricht,Maastricht,Limburg,VBO,5.687239,50.850445
 Statenstraat,2,B,,6211TB,Maastricht,Maastricht,Limburg,VBO,5.687239,50.850445
@@ -8095,7 +8463,11 @@ Statenstraat,5,,,6211TB,Maastricht,Maastricht,Limburg,VBO,5.687517,50.850427
 Statenstraat,6,,,6211TB,Maastricht,Maastricht,Limburg,VBO,5.687326,50.850071
 Statenstraat,9,,,6211TB,Maastricht,Maastricht,Limburg,VBO,5.687509,50.850226
 Statenstraat,13,,,6211TB,Maastricht,Maastricht,Limburg,VBO,5.687511,50.849995
-Keizer Karelplein,1,D,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686847,50.849539
+Keizer Karelplein,1,B,01,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686746,50.849533
+Keizer Karelplein,1,B,02,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686746,50.849533
+Keizer Karelplein,1,C,01,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686744,50.849534
+Keizer Karelplein,1,C,02,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686744,50.849534
+Keizer Karelplein,1,D,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686744,50.849534
 Keizer Karelplein,1,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686753,50.849530
 Keizer Karelplein,2,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686753,50.849478
 Keizer Karelplein,3,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.687151,50.849448
@@ -8122,7 +8494,14 @@ Keizer Karelplein,14,C,02,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686676,50.8
 Keizer Karelplein,14,D,01,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686676,50.849694
 Keizer Karelplein,14,D,02,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686676,50.849694
 Keizer Karelplein,15,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686737,50.849794
+Keizer Karelplein,16,C,01,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686715,50.849853
+Keizer Karelplein,16,C,02,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686715,50.849853
+Keizer Karelplein,16,C,03,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686715,50.849853
+Keizer Karelplein,16,D,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686715,50.849853
 Keizer Karelplein,16,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686715,50.849853
+Keizer Karelplein,17,B,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686705,50.849878
+Keizer Karelplein,17,C,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686711,50.849878
+Keizer Karelplein,17,D,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686707,50.849878
 Keizer Karelplein,17,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686708,50.849877
 Keizer Karelplein,18,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686697,50.849912
 Keizer Karelplein,19,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686782,50.849927
@@ -8135,9 +8514,13 @@ Keizer Karelplein,27,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686978,50.8496
 Keizer Karelplein,28,,,6211TC,Maastricht,Maastricht,Limburg,VBO,5.686812,50.849580
 Oude Tweebergenpoort,1,A,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.685920,50.849568
 Oude Tweebergenpoort,1,B,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.685920,50.849568
-Oude Tweebergenpoort,2,,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.686164,50.849666
+Oude Tweebergenpoort,2,A,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.686163,50.849668
+Oude Tweebergenpoort,2,B,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.686163,50.849668
+Oude Tweebergenpoort,2,C,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.686163,50.849668
+Oude Tweebergenpoort,2,D,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.686163,50.849668
 Oude Tweebergenpoort,3,A,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.685844,50.849577
 Oude Tweebergenpoort,3,B,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.685844,50.849577
+Oude Tweebergenpoort,3,C,02,6211TD,Maastricht,Maastricht,Limburg,VBO,5.685855,50.849580
 Oude Tweebergenpoort,3,C,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.685844,50.849577
 Oude Tweebergenpoort,3,D,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.685844,50.849577
 Oude Tweebergenpoort,3,E,,6211TD,Maastricht,Maastricht,Limburg,VBO,5.685844,50.849577
@@ -8166,6 +8549,21 @@ Sint Servaasklooster,26,,,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686661,50.8
 Sint Servaasklooster,28,,,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686654,50.847697
 Sint Servaasklooster,30,A,,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686911,50.847571
 Sint Servaasklooster,30,,,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686864,50.847612
+Sint Servaasklooster,32,A,01,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,A,02,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,A,03,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,B,01,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,B,02,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,B,03,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,B,04,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,C,01,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,C,02,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,C,03,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,C,04,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,D,01,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,D,02,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,D,03,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
+Sint Servaasklooster,32,D,04,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686945,50.847425
 Sint Servaasklooster,32,,,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686932,50.847419
 Sint Servaasklooster,33,,,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686827,50.847920
 Sint Servaasklooster,35,,,6211TE,Maastricht,Maastricht,Limburg,VBO,5.686965,50.847692
@@ -8208,11 +8606,17 @@ Pompenstraat,15,B,,6211XB,Maastricht,Maastricht,Limburg,VBO,5.692139,50.854298
 Pompenstraat,17,A,,6211XB,Maastricht,Maastricht,Limburg,VBO,5.692136,50.854250
 Pompenstraat,17,B,,6211XB,Maastricht,Maastricht,Limburg,VBO,5.692136,50.854250
 Pompenstraat,19,B,,6211XB,Maastricht,Maastricht,Limburg,VBO,5.692132,50.854201
+Remisepavé,2,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.686043,50.853783
 Remisepavé,3,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.686119,50.853694
+Remisepavé,4,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.685945,50.853776
 Remisepavé,5,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.686054,50.853670
+Remisepavé,6,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.685873,50.853748
 Remisepavé,7,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.685991,50.853647
+Remisepavé,8,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.685804,50.853727
 Remisepavé,9,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.685932,50.853623
+Remisepavé,10,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.685741,50.853698
 Remisepavé,11,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.685839,50.853623
+Remisepavé,12,,,6211XC,Maastricht,Maastricht,Limburg,VBO,5.685669,50.853671
 Lindenkruishof,3,,,6211XD,Maastricht,Maastricht,Limburg,VBO,5.686358,50.853247
 Lindenkruishof,5,,,6211XD,Maastricht,Maastricht,Limburg,VBO,5.686292,50.853223
 Lindenkruishof,7,,,6211XD,Maastricht,Maastricht,Limburg,VBO,5.686214,50.853197
@@ -8294,6 +8698,45 @@ Misericordeplein,1,,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687370,50.852407
 Misericordeplein,2,,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687301,50.852493
 Misericordeplein,3,,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687210,50.852538
 Misericordeplein,4,,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687121,50.852558
+Misericordeplein,6,,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686794,50.852422
+Misericordeplein,8,A,01,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,A,02,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,A,03,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,A,04,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,A,05,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,A,06,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,A,07,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,A,08,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,A,09,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,B,01,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,B,02,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,B,03,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,B,04,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,B,05,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,B,06,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,B,07,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,B,08,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,C,01,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,C,02,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,C,03,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,C,04,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,C,05,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,C,06,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,C,07,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,C,08,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,D,01,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,D,02,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,D,03,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,D,04,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,D,05,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,D,06,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,D,07,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,8,D,08,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,9,A,01,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,9,A,02,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,9,A,03,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,9,A,04,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
+Misericordeplein,9,B,01,6211XK,Maastricht,Maastricht,Limburg,VBO,5.686783,50.852256
 Misericordeplein,10,A,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687076,50.852147
 Misericordeplein,10,B,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687076,50.852147
 Misericordeplein,10,C,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687076,50.852147
@@ -8310,6 +8753,7 @@ Misericordeplein,13,A,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687286,50.8522
 Misericordeplein,13,B,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687286,50.852224
 Misericordeplein,13,C,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687286,50.852224
 Misericordeplein,13,D,,6211XK,Maastricht,Maastricht,Limburg,VBO,5.687286,50.852224
+De Vloeienwacht,1,,,6211XL,Maastricht,Maastricht,Limburg,VBO,5.685591,50.853622
 Charles Vos-cour,1,,,6211XN,Maastricht,Maastricht,Limburg,VBO,5.684495,50.852893
 Charles Vos-cour,3,,,6211XN,Maastricht,Maastricht,Limburg,VBO,5.684414,50.852846
 Charles Vos-cour,5,,,6211XN,Maastricht,Maastricht,Limburg,VBO,5.684332,50.852799
@@ -8386,4 +8830,48 @@ Charles Vos-cour,40,,,6211XS,Maastricht,Maastricht,Limburg,VBO,5.684345,50.85259
 Charles Vos-cour,42,,,6211XS,Maastricht,Maastricht,Limburg,VBO,5.684446,50.852655
 Charles Vos-cour,44,,,6211XS,Maastricht,Maastricht,Limburg,VBO,5.684548,50.852713
 Charles Vos-cour,46,,,6211XS,Maastricht,Maastricht,Limburg,VBO,5.684595,50.852738
+Penitentenpoort,1,,,6211XW,Maastricht,Maastricht,Limburg,VBO,5.689373,50.855298
+Petrus Regoutplein,1,B,01,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689121,50.855306
+Petrus Regoutplein,1,C,01,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689123,50.855317
+Petrus Regoutplein,1,C,02,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689123,50.855317
+Petrus Regoutplein,1,D,01,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689121,50.855306
+Petrus Regoutplein,1,D,02,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689125,50.855312
+Petrus Regoutplein,1,E,01,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689121,50.855306
+Petrus Regoutplein,1,E,02,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689125,50.855312
+Petrus Regoutplein,1,F,01,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689125,50.855312
+Petrus Regoutplein,1,F,02,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689125,50.855312
+Petrus Regoutplein,1,H,01,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689117,50.855313
+Petrus Regoutplein,1,H,02,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689125,50.855312
+Petrus Regoutplein,1,H,03,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689125,50.855312
+Petrus Regoutplein,1,H,04,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689121,50.855306
+Petrus Regoutplein,1,K,01,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689121,50.855306
+Petrus Regoutplein,1,K,02,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689121,50.855306
+Petrus Regoutplein,1,K,03,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689121,50.855306
+Petrus Regoutplein,1,K,04,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689121,50.855306
+Petrus Regoutplein,2,,,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689134,50.855385
+Petrus Regoutplein,3,,,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689222,50.855671
+Petrus Regoutplein,4,,,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689217,50.855820
+Petrus Regoutplein,5,,,6211XX,Maastricht,Maastricht,Limburg,VBO,5.689229,50.855868
 Sphinxcour,1,,,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689733,50.856325
+Sphinxcour,6,B,01,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,B,02,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,C,01,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,C,02,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,D,01,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,D,02,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,E,01,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,E,02,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,F,01,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,F,02,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,H,01,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,H,02,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,H,03,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,H,04,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,K,01,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,K,02,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,K,03,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,6,K,04,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689552,50.856868
+Sphinxcour,7,,,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689531,50.856722
+Sphinxcour,8,,,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689518,50.856578
+Sphinxcour,9,A,,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689462,50.856425
+Sphinxcour,9,L,,6211XZ,Maastricht,Maastricht,Limburg,VBO,5.689461,50.856380

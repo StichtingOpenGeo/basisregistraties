@@ -65,7 +65,8 @@ Achterberghstraat,18,,418,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.322214,51.595
 Achterberghstraat,18,,419,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.322123,51.595842
 Achterberghstraat,18,,420,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.322065,51.595829
 Achterberghstraat,18,,421,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321968,51.595811
-Achterberghstraat,18,,,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321651,51.595975
+Achterberghstraat,18,,a,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321642,51.596188
+Achterberghstraat,18,,,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321714,51.595982
 Achterberghstraat,19,,,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321900,51.596640
 Achterberghstraat,20,,,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.322849,51.596110
 Achterberghstraat,21,,,5281AB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321984,51.596636
@@ -464,6 +465,7 @@ Clarissenstraat,23,,,5281AX,Boxtel,Boxtel,Noord-Brabant,VBO,5.325527,51.589595
 Clarissenstraat,25,,,5281AX,Boxtel,Boxtel,Noord-Brabant,VBO,5.325542,51.589622
 Clarissenstraat,27,,,5281AX,Boxtel,Boxtel,Noord-Brabant,VBO,5.325412,51.589676
 Clarissenstraat,29,,,5281AX,Boxtel,Boxtel,Noord-Brabant,VBO,5.325527,51.589730
+Clarissenstraat,31,,,5281AX,Boxtel,Boxtel,Noord-Brabant,VBO,5.325405,51.589881
 Clarissenstraat,33,,,5281AX,Boxtel,Boxtel,Noord-Brabant,VBO,5.325394,51.590042
 Clarissenstraat,35,,,5281AX,Boxtel,Boxtel,Noord-Brabant,VBO,5.325570,51.590260
 Clarissenstraat,37,,,5281AX,Boxtel,Boxtel,Noord-Brabant,VBO,5.325598,51.590593
@@ -505,7 +507,6 @@ Clarissenstraat,18,,,5281AZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.325815,51.589946
 Clarissenstraat,20,a,,5281AZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.326348,51.590908
 Clarissenstraat,20,,,5281AZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.325916,51.590557
 Clarissenstraat,22,,,5281AZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.325973,51.591051
-Croonpassage,1,,c,5281AZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.326161,51.588517
 Croonpassage,1,,,5281AZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.326052,51.588602
 Croonpassage,3,,,5281AZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.325748,51.588552
 Croonpassage,5,,,5281AZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.325587,51.588543
@@ -817,7 +818,6 @@ Rechterstraat,14,,,5281BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.325789,51.587941
 Rechterstraat,16,,,5281BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.325890,51.587914
 Rechterstraat,18,,,5281BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.326006,51.587878
 Rechterstraat,20,,,5281BW,Boxtel,Boxtel,Noord-Brabant,VBO,5.326150,51.587852
-Rechterstraat,22,a,,5281BW,Boxtel,Boxtel,Noord-Brabant,VBO,5.326338,51.587789
 Rechterstraat,22,b,,5281BW,Boxtel,Boxtel,Noord-Brabant,VBO,5.326410,51.587690
 Rechterstraat,22,,,5281BW,Boxtel,Boxtel,Noord-Brabant,VBO,5.326266,51.587816
 Rechterstraat,24,a,,5281BW,Boxtel,Boxtel,Noord-Brabant,VBO,5.326425,51.587717
@@ -956,7 +956,7 @@ Jacob Roelandsstraat,12,,,5281CG,Boxtel,Boxtel,Noord-Brabant,VBO,5.327741,51.585
 Jacob Roelandsstraat,14,,,5281CG,Boxtel,Boxtel,Noord-Brabant,VBO,5.327625,51.585237
 Jacob Roelandsstraat,16,,,5281CG,Boxtel,Boxtel,Noord-Brabant,VBO,5.327683,51.585560
 Burgakker,1,,,5281CH,Boxtel,Boxtel,Noord-Brabant,VBO,5.325992,51.587519
-Burgakker,2,a,,5281CH,Boxtel,Boxtel,Noord-Brabant,VBO,5.325832,51.587582
+Burgakker,2,a,,5281CH,Boxtel,Boxtel,Noord-Brabant,VBO,5.325976,51.587796
 Burgakker,2,,,5281CH,Boxtel,Boxtel,Noord-Brabant,VBO,5.325804,51.587546
 Burgakker,3,,,5281CH,Boxtel,Boxtel,Noord-Brabant,VBO,5.325978,51.587456
 Burgakker,4,a,,5281CH,Boxtel,Boxtel,Noord-Brabant,VBO,5.325659,51.587959
@@ -1309,8 +1309,6 @@ Burgakker,84,,,5281CZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.324752,51.587015
 Burgakker,86,,,5281CZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.324752,51.586943
 Burgakker,88,,,5281CZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.324940,51.586763
 Burgakker,90,,,5281CZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.325156,51.586503
-Burgakker,92,,,5281CZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.324666,51.586377
-Burgakker,94,,,5281CZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.324594,51.586529
 Damasthof,1,,,5281EA,Boxtel,Boxtel,Noord-Brabant,VBO,5.323929,51.586961
 Damasthof,2,,,5281EA,Boxtel,Boxtel,Noord-Brabant,VBO,5.324001,51.586952
 Damasthof,3,,,5281EA,Boxtel,Boxtel,Noord-Brabant,VBO,5.324088,51.586925
@@ -1618,7 +1616,6 @@ Stationsstraat,97,,,5281GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.320108,51.585340
 Stationsstraat,99,,,5281GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.320065,51.585305
 Stationsstraat,101,,,5281GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.320022,51.585233
 Stationsstraat,103,a,,5281GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.320142,51.585139
-Stationsstraat,103,b,,5281GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.320112,51.585094
 Stationsstraat,103,,,5281GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.319978,51.585179
 Stationsstraat,105,,,5281GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.319863,51.585071
 Stationsstraat,107,,,5281GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.319834,51.585017
@@ -1627,6 +1624,7 @@ Stationsstraat,4,a,,5281GD,Boxtel,Boxtel,Noord-Brabant,VBO,5.323991,51.588369
 Stationsstraat,4,,,5281GD,Boxtel,Boxtel,Noord-Brabant,VBO,5.323985,51.588345
 Stationsstraat,6,a,,5281GD,Boxtel,Boxtel,Noord-Brabant,VBO,5.323797,51.588372
 Stationsstraat,8,,,5281GD,Boxtel,Boxtel,Noord-Brabant,VBO,5.323694,51.588370
+Stationsstraat,10,a,,5281GD,Boxtel,Boxtel,Noord-Brabant,VBO,5.323495,51.588398
 Stationsstraat,10,,,5281GD,Boxtel,Boxtel,Noord-Brabant,VBO,5.323466,51.588363
 Stationsstraat,12,a,,5281GD,Boxtel,Boxtel,Noord-Brabant,VBO,5.323365,51.588362
 Stationsstraat,12,b,,5281GD,Boxtel,Boxtel,Noord-Brabant,VBO,5.323365,51.588362
@@ -1658,11 +1656,11 @@ Stationsstraat,46,,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321388,51.587400
 Stationsstraat,48,,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321231,51.587112
 Stationsstraat,50,,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321202,51.587058
 Stationsstraat,52,,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321130,51.587004
-Stationsstraat,54,a,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321058,51.586959
+Stationsstraat,54,a,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321072,51.586987
 Stationsstraat,54,,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321144,51.586968
-Stationsstraat,56,a,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321058,51.586878
+Stationsstraat,56,a,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.320995,51.586867
 Stationsstraat,56,,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321087,51.586905
-Stationsstraat,58,a,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.320828,51.586713
+Stationsstraat,58,a,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.320899,51.586771
 Stationsstraat,58,,,5281GE,Boxtel,Boxtel,Noord-Brabant,VBO,5.321015,51.586815
 Stationsstraat,60,,,5281GG,Boxtel,Boxtel,Noord-Brabant,VBO,5.320957,51.586734
 Stationsstraat,62,,,5281GG,Boxtel,Boxtel,Noord-Brabant,VBO,5.320885,51.586698
@@ -1744,7 +1742,9 @@ Spoorstraat,28,,,5281GL,Boxtel,Boxtel,Noord-Brabant,VBO,5.315256,51.587531
 Spoorstraat,30,,,5281GL,Boxtel,Boxtel,Noord-Brabant,VBO,5.315069,51.587603
 Spoorstraat,32,,,5281GL,Boxtel,Boxtel,Noord-Brabant,VBO,5.314852,51.587629
 Spoorstraat,38,,,5281GL,Boxtel,Boxtel,Noord-Brabant,VBO,5.314477,51.587791
-Spoorstraat,40,,,5281GL,Boxtel,Boxtel,Noord-Brabant,VBO,5.314361,51.587899
+Spoorstraat,40,a,,5281GL,Boxtel,Boxtel,Noord-Brabant,VBO,5.314355,51.587952
+Spoorstraat,40,,,5281GL,Boxtel,Boxtel,Noord-Brabant,VBO,5.314395,51.587892
+Spoorstraat,42,,,5281GL,Boxtel,Boxtel,Noord-Brabant,VBO,5.314250,51.587981
 van Leeuwenstraat,5,,,5281GM,Boxtel,Boxtel,Noord-Brabant,VBO,5.319573,51.585745
 van Leeuwenstraat,7,,,5281GM,Boxtel,Boxtel,Noord-Brabant,VBO,5.319458,51.585790
 van Leeuwenstraat,9,,,5281GM,Boxtel,Boxtel,Noord-Brabant,VBO,5.319386,51.585798
@@ -1978,7 +1978,6 @@ Ons Doelstraat,83,,,5281GX,Boxtel,Boxtel,Noord-Brabant,VBO,5.319181,51.587965
 Ons Doelstraat,85,,,5281GX,Boxtel,Boxtel,Noord-Brabant,VBO,5.319181,51.587911
 Ons Doelstraat,87,,,5281GX,Boxtel,Boxtel,Noord-Brabant,VBO,5.319195,51.587794
 Ons Doelstraat,89,,,5281GX,Boxtel,Boxtel,Noord-Brabant,VBO,5.319195,51.587677
-Ons Doelstraat,91,,,5281GX,Boxtel,Boxtel,Noord-Brabant,VBO,5.319268,51.587578
 De Bernhardstaete,1,a,,5281GZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.321528,51.587929
 De Bernhardstaete,1,b,,5281GZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.321580,51.587894
 De Bernhardstaete,1,c,,5281GZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.321668,51.587839
@@ -2460,7 +2459,14 @@ Baroniestraat,105,f,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314991,51.587951
 Baroniestraat,105,g,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314950,51.587927
 Baroniestraat,105,h,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314803,51.587882
 Baroniestraat,105,,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314631,51.588219
+Baroniestraat,107,a,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314536,51.588221
+Baroniestraat,107,b,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314496,51.588189
 Baroniestraat,107,,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314362,51.588151
+Baroniestraat,107,,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314450,51.588218
+Baroniestraat,109,a,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314365,51.588116
+Baroniestraat,109,,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314321,51.588138
+Baroniestraat,111,a,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314235,51.588047
+Baroniestraat,111,,,5281JC,Boxtel,Boxtel,Noord-Brabant,VBO,5.314206,51.588065
 Baroniestraat,2,a,,5281JD,Boxtel,Boxtel,Noord-Brabant,VBO,5.320986,51.590964
 Baroniestraat,2,b,,5281JD,Boxtel,Boxtel,Noord-Brabant,VBO,5.320922,51.590937
 Baroniestraat,2,,,5281JD,Boxtel,Boxtel,Noord-Brabant,VBO,5.321048,51.590991
@@ -3092,6 +3098,7 @@ Mijlstraat,28,e,,5281LL,Boxtel,Boxtel,Noord-Brabant,VBO,5.309054,51.577747
 Mijlstraat,28,,,5281LL,Boxtel,Boxtel,Noord-Brabant,VBO,5.310994,51.582225
 Mijlstraat,30,a,,5281LL,Boxtel,Boxtel,Noord-Brabant,VBO,5.309162,51.576895
 Mijlstraat,30,,,5281LL,Boxtel,Boxtel,Noord-Brabant,VBO,5.309690,51.576849
+Mijlstraat,32,a,T,5281LL,Boxtel,Boxtel,Noord-Brabant,VBO,5.309743,51.576767
 Mijlstraat,32,,,5281LL,Boxtel,Boxtel,Noord-Brabant,VBO,5.309792,51.576678
 Mijlstraat,34,a,,5281LL,Boxtel,Boxtel,Noord-Brabant,VBO,5.309895,51.576010
 Mijlstraat,34,,,5281LL,Boxtel,Boxtel,Noord-Brabant,VBO,5.309937,51.575905
@@ -3121,6 +3128,7 @@ Mijlstraat,78,,,5281LM,Boxtel,Boxtel,Noord-Brabant,VBO,5.310840,51.570953
 Molengraafseweg,1,,,5281LN,Boxtel,Boxtel,Noord-Brabant,VBO,5.310335,51.588400
 Molengraafseweg,2,,,5281LN,Boxtel,Boxtel,Noord-Brabant,VBO,5.309498,51.588174
 Molengraafseweg,3,,,5281LN,Boxtel,Boxtel,Noord-Brabant,VBO,5.310104,51.588229
+Molengraafseweg,5,,,5281LN,Boxtel,Boxtel,Noord-Brabant,VBO,5.309715,51.587949
 Molengraafseweg,9,,,5281LN,Boxtel,Boxtel,Noord-Brabant,VBO,5.309297,51.587653
 Molengraafseweg,11,,,5281LN,Boxtel,Boxtel,Noord-Brabant,VBO,5.308677,51.587302
 Molengraafseweg,13,,,5281LN,Boxtel,Boxtel,Noord-Brabant,VBO,5.308648,51.587293
@@ -3290,11 +3298,14 @@ Eg,7,,,5281MB,Boxtel,Boxtel,Noord-Brabant,VBO,5.316249,51.571001
 Eg,9,,,5281MB,Boxtel,Boxtel,Noord-Brabant,VBO,5.316451,51.570957
 Velderswegje,1,,,5281PA,Boxtel,Boxtel,Noord-Brabant,VBO,5.319996,51.553799
 Korenmolen,2,,,5281PB,Boxtel,Boxtel,Noord-Brabant,VBO,5.324796,51.575635
-Korenmolen,18,,,5281PB,Boxtel,Boxtel,Noord-Brabant,VBO,5.323396,51.577317
+Korenmolen,6,,,5281PB,Boxtel,Boxtel,Noord-Brabant,VBO,5.326323,51.577854
+Korenmolen,13,,,5281PB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321132,51.577405
+Korenmolen,18,,,5281PB,Boxtel,Boxtel,Noord-Brabant,VBO,5.323092,51.577007
+Korenmolen,20,,,5281PB,Boxtel,Boxtel,Noord-Brabant,VBO,5.322656,51.577337
 Korenmolen,22,,,5281PB,Boxtel,Boxtel,Noord-Brabant,VBO,5.322500,51.577779
 Korte Steeg,2,,,5281PC,Boxtel,Boxtel,Noord-Brabant,VBO,5.315903,51.561860
 Korte Steeg,4,,,5281PC,Boxtel,Boxtel,Noord-Brabant,VBO,5.319092,51.562576
-Knuistenkoepel,2,,,5281PD,Boxtel,Boxtel,Noord-Brabant,VBO,5.321819,51.566442
+Knuistenkoepel,2,,,5281PD,Boxtel,Boxtel,Noord-Brabant,VBO,5.322049,51.566625
 Knuistenkoepel,4,a,,5281PD,Boxtel,Boxtel,Noord-Brabant,VBO,5.321535,51.566366
 Knuistenkoepel,4,,,5281PD,Boxtel,Boxtel,Noord-Brabant,VBO,5.321547,51.566450
 De Bocht,2,,,5281PE,Boxtel,Boxtel,Noord-Brabant,VBO,5.322867,51.572704
@@ -3304,6 +3315,11 @@ Heringsweg,1,,,5281PG,Boxtel,Boxtel,Noord-Brabant,VBO,5.326248,51.568571
 Bloemmolen,2,,,5281PH,Boxtel,Boxtel,Noord-Brabant,VBO,5.323010,51.575075
 Bloemmolen,4,,,5281PH,Boxtel,Boxtel,Noord-Brabant,VBO,5.322496,51.574567
 Runmolen,2,,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320185,51.575978
+Runmolen,4,a,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320208,51.575481
+Runmolen,4,b,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320398,51.575669
+Runmolen,4,c,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320454,51.575557
+Runmolen,4,,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320042,51.575624
+Runmolen,4,,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320437,51.575612
 Runmolen,9,,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320568,51.576391
 Runmolen,11,,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320923,51.576328
 Runmolen,13,,,5281PJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.321156,51.575951
@@ -3348,12 +3364,14 @@ Korte Heide,2,,,5281PM,Boxtel,Boxtel,Noord-Brabant,VBO,5.320875,51.573638
 Colenhoef,2,,,5281PR,Boxtel,Boxtel,Noord-Brabant,VBO,5.306951,51.584325
 Colenhoef,4,,,5281PR,Boxtel,Boxtel,Noord-Brabant,VBO,5.306763,51.584487
 Hemelrijk,1,,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309849,51.583203
-Hemelrijk,2,a,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309405,51.583213
-Hemelrijk,2,,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309233,51.583060
+Hemelrijk,2,a,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309445,51.583027
+Hemelrijk,2,,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309339,51.583279
 Hemelrijk,3,,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309911,51.582853
 Hemelrijk,4,a,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309435,51.582853
 Hemelrijk,4,,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309522,51.582646
 Hemelrijk,5,a,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.310000,51.582506
+Hemelrijk,5,b,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.310028,51.582318
+Hemelrijk,5,c,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.310161,51.582325
 Hemelrijk,5,,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309982,51.582640
 Hemelrijk,6,,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309537,51.582485
 Hemelrijk,8,,,5281PS,Boxtel,Boxtel,Noord-Brabant,VBO,5.309566,51.582242
@@ -3575,8 +3593,9 @@ van Salmstraat,4,,,5281RR,Boxtel,Boxtel,Noord-Brabant,VBO,5.312428,51.587547
 van Salmstraat,40,,,5281RR,Boxtel,Boxtel,Noord-Brabant,VBO,5.314132,51.586514
 van Salmstraat,46,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.314365,51.585670
 van Salmstraat,48,a,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.315881,51.585104
-van Salmstraat,48,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.315462,51.585302
+van Salmstraat,48,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.315452,51.585290
 van Salmstraat,50,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.316126,51.584844
+van Salmstraat,54,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.316157,51.584465
 van Salmstraat,54,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.316300,51.584367
 van Salmstraat,62,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.316399,51.584120
 van Salmstraat,64,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.316518,51.583621
@@ -3584,7 +3603,6 @@ van Salmstraat,66,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.317370,51.583146
 van Salmstraat,68,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.318207,51.582634
 van Salmstraat,70,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.319348,51.581969
 van Salmstraat,76,,,5281RS,Boxtel,Boxtel,Noord-Brabant,VBO,5.320835,51.581044
-Kruisbroeksestraat,6,,,5281RT,Boxtel,Boxtel,Noord-Brabant,VBO,5.315236,51.581508
 Kruisbroeksestraat,8,,,5281RT,Boxtel,Boxtel,Noord-Brabant,VBO,5.314199,51.580968
 Kruisbroeksestraat,10,,,5281RT,Boxtel,Boxtel,Noord-Brabant,VBO,5.313508,51.580393
 Kruisbroeksestraat,12,a,,5281RT,Boxtel,Boxtel,Noord-Brabant,VBO,5.312932,51.579772
@@ -3601,7 +3619,16 @@ Industrieweg,1,,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.311689,51.580886
 Industrieweg,2,a,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.311820,51.580284
 Industrieweg,2,,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.311546,51.580383
 Industrieweg,3,,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.311934,51.580724
-Industrieweg,4,,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312195,51.580230
+Industrieweg,4,a,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.311890,51.579921
+Industrieweg,4,b,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.311933,51.579995
+Industrieweg,4,c,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.311978,51.580072
+Industrieweg,4,d,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312024,51.580170
+Industrieweg,4,e,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312157,51.580044
+Industrieweg,4,f,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312093,51.579907
+Industrieweg,4,g,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312053,51.579717
+Industrieweg,4,h,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.311819,51.579771
+Industrieweg,4,k,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312715,51.580104
+Industrieweg,4,,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312254,51.580205
 Industrieweg,5,a,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312786,51.580518
 Industrieweg,5,,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.312627,51.580608
 Industrieweg,6,,,5281RW,Boxtel,Boxtel,Noord-Brabant,VBO,5.313884,51.579629
@@ -3633,6 +3660,8 @@ Brede Heide,11,,,5281RX,Boxtel,Boxtel,Noord-Brabant,VBO,5.328071,51.564581
 Brede Heide,13,,,5281RX,Boxtel,Boxtel,Noord-Brabant,VBO,5.328355,51.563857
 Brede Heide,2,a,,5281RZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.316821,51.574480
 Brede Heide,2,,,5281RZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.317412,51.574400
+Brede Heide,4,a,,5281RZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.319448,51.574055
+Brede Heide,4,,,5281RZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.318996,51.574160
 Brede Heide,6,,,5281RZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.320313,51.573341
 Brede Heide,8,a,,5281RZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.321736,51.570956
 Brede Heide,8,,,5281RZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.322005,51.570744
@@ -3671,6 +3700,7 @@ Roond,4,,,5281SG,Boxtel,Boxtel,Noord-Brabant,VBO,5.296123,51.579868
 Roond,5,,,5281SG,Boxtel,Boxtel,Noord-Brabant,VBO,5.287699,51.579547
 Roond,6,,,5281SG,Boxtel,Boxtel,Noord-Brabant,VBO,5.295130,51.579121
 Roond,7,,,5281SG,Boxtel,Boxtel,Noord-Brabant,VBO,5.287714,51.579367
+Roond,8,a,,5281SG,Boxtel,Boxtel,Noord-Brabant,VBO,5.294038,51.579153
 Roond,8,,,5281SG,Boxtel,Boxtel,Noord-Brabant,VBO,5.293586,51.579075
 Roond,9,,,5281SG,Boxtel,Boxtel,Noord-Brabant,VBO,5.286256,51.579608
 Roond,10,,,5281SG,Boxtel,Boxtel,Noord-Brabant,VBO,5.290758,51.579316
@@ -3683,6 +3713,7 @@ Roond,20,,,5281SH,Boxtel,Boxtel,Noord-Brabant,VBO,5.286674,51.579869
 Roond,22,a,,5281SH,Boxtel,Boxtel,Noord-Brabant,VBO,5.286075,51.580223
 Roond,22,,,5281SH,Boxtel,Boxtel,Noord-Brabant,VBO,5.285808,51.579941
 Roond,24,,,5281SH,Boxtel,Boxtel,Noord-Brabant,VBO,5.279359,51.586155
+Roond,26,t,,5281SH,Boxtel,Boxtel,Noord-Brabant,VBO,5.279727,51.587781
 Roond,26,,,5281SH,Boxtel,Boxtel,Noord-Brabant,VBO,5.279514,51.587656
 Het Loo,1,,,5281SJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.276877,51.586386
 Het Loo,2,a,,5281SJ,Boxtel,Boxtel,Noord-Brabant,VBO,5.277414,51.587236
@@ -3703,6 +3734,7 @@ De Zweelders,1,,,5281SP,Boxtel,Boxtel,Noord-Brabant,VBO,5.308023,51.564947
 De Zweelders,3,,,5281SP,Boxtel,Boxtel,Noord-Brabant,VBO,5.307922,51.564947
 Beukendreef,1,a,,5281SR,Boxtel,Boxtel,Noord-Brabant,VBO,5.308162,51.559716
 Beukendreef,1,,,5281SR,Boxtel,Boxtel,Noord-Brabant,VBO,5.309423,51.564390
+Beukendreef,2,a,,5281SR,Boxtel,Boxtel,Noord-Brabant,VBO,5.306391,51.558029
 Beukendreef,2,,,5281SR,Boxtel,Boxtel,Noord-Brabant,VBO,5.306766,51.558052
 Beukendreef,3,,,5281SR,Boxtel,Boxtel,Noord-Brabant,VBO,5.307372,51.558007
 Beukendreef,4,,,5281SR,Boxtel,Boxtel,Noord-Brabant,VBO,5.304482,51.553322

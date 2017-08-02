@@ -57,7 +57,7 @@ Huisdreef,4,B,,4836AM,Breda,Breda,Noord-Brabant,VBO,4.765920,51.560254
 Huisdreef,4,,,4836AM,Breda,Breda,Noord-Brabant,VBO,4.766357,51.560223
 Huisdreef,5,,,4836AM,Breda,Breda,Noord-Brabant,VBO,4.766995,51.559546
 Burgemeester de Manlaan,98,,,4836AP,Breda,Breda,Noord-Brabant,VBO,4.768055,51.563761
-Dr. Schaepmanlaan,1,,PG,4836AR,Breda,Breda,Noord-Brabant,VBO,4.757457,51.562257
+Dr. Schaepmanlaan,1,,PG,4836AR,Breda,Breda,Noord-Brabant,VBO,4.757423,51.562235
 Dr. Schaepmanlaan,1,,,4836AR,Breda,Breda,Noord-Brabant,VBO,4.757741,51.562087
 Dr. Schaepmanlaan,3,,,4836AR,Breda,Breda,Noord-Brabant,VBO,4.757678,51.562130
 Dr. Schaepmanlaan,5,,,4836AR,Breda,Breda,Noord-Brabant,VBO,4.757720,51.562075
@@ -102,7 +102,6 @@ Overaseweg,1,,,4836BA,Breda,Breda,Noord-Brabant,VBO,4.749277,51.548018
 Overaseweg,7,,,4836BA,Breda,Breda,Noord-Brabant,VBO,4.748360,51.547445
 Overaseweg,9,,,4836BA,Breda,Breda,Noord-Brabant,VBO,4.748120,51.547079
 Overaseweg,11,,,4836BA,Breda,Breda,Noord-Brabant,VBO,4.747499,51.546661
-Overaseweg,11,,,4836BA,Breda,Breda,Noord-Brabant,VBO,4.747523,51.546658
 Overaseweg,19,,,4836BA,Breda,Breda,Noord-Brabant,VBO,4.746312,51.544616
 Overaseweg,21,,,4836BA,Breda,Breda,Noord-Brabant,VBO,4.747469,51.544782
 Overaseweg,23,A,,4836BA,Breda,Breda,Noord-Brabant,VBO,4.748738,51.543468
@@ -127,7 +126,7 @@ Overaseweg,22,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758029,51.560402
 Overaseweg,24,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758049,51.560234
 Overaseweg,26,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758093,51.560053
 Overaseweg,28,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758148,51.559875
-Overaseweg,30,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758292,51.559770
+Overaseweg,30,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758208,51.559741
 Overaseweg,34,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758362,51.559530
 Overaseweg,38,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758092,51.559224
 Overaseweg,40,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758411,51.559037
@@ -137,6 +136,7 @@ Overaseweg,46,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758337,51.558634
 Overaseweg,52,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.758162,51.558239
 Overaseweg,78,,,4836BB,Breda,Breda,Noord-Brabant,VBO,4.757686,51.557638
 Overaseweg,82,,,4836BC,Breda,Breda,Noord-Brabant,VBO,4.756748,51.557073
+Overaseweg,84,,,4836BC,Breda,Breda,Noord-Brabant,VBO,4.757314,51.556470
 Overaseweg,86,,,4836BC,Breda,Breda,Noord-Brabant,VBO,4.757344,51.556216
 Overaseweg,88,,,4836BC,Breda,Breda,Noord-Brabant,VBO,4.756468,51.555792
 Overaseweg,90,,,4836BC,Breda,Breda,Noord-Brabant,VBO,4.756788,51.556248
@@ -183,7 +183,6 @@ Heistraat,21,,,4836BE,Breda,Breda,Noord-Brabant,VBO,4.747875,51.538906
 Heistraat,35,,,4836BE,Breda,Breda,Noord-Brabant,VBO,4.747071,51.537537
 Heistraat,40,,,4836BE,Breda,Breda,Noord-Brabant,VBO,4.749684,51.544845
 Heistraat,41,,,4836BE,Breda,Breda,Noord-Brabant,VBO,4.746834,51.536611
-Heistraat,41,,,4836BE,Breda,Breda,Noord-Brabant,VBO,4.746888,51.536607
 Heistraat,42,,,4836BE,Breda,Breda,Noord-Brabant,VBO,4.749440,51.543926
 Heistraat,46,,,4836BE,Breda,Breda,Noord-Brabant,VBO,4.749738,51.543516
 Heistraat,52,,,4836BE,Breda,Breda,Noord-Brabant,VBO,4.750263,51.542730
@@ -207,10 +206,13 @@ Weerdstraat,31,,I,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.739624,51.535106
 Weerdstraat,31,,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.739863,51.534957
 Weerdstraat,32,,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.738815,51.536474
 Weerdstraat,33,,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.738543,51.535947
-Weerdstraat,35,,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.738450,51.535895
+Weerdstraat,35,A,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.738222,51.535697
+Weerdstraat,35,B,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.737822,51.535622
+Weerdstraat,35,,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.738415,51.535843
 Weerdstraat,36,,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.737540,51.535989
 Weerdstraat,37,,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.736750,51.535441
 Weerdstraat,43,,,4836BJ,Breda,Breda,Noord-Brabant,VBO,4.735513,51.535719
+Tweegelandenbrugweg,27,A,,4836BK,Breda,Breda,Noord-Brabant,VBO,4.734495,51.543033
 Tweegelandenbrugweg,27,,,4836BK,Breda,Breda,Noord-Brabant,VBO,4.734405,51.543197
 Tweegelandenbrugweg,28,,,4836BK,Breda,Breda,Noord-Brabant,VBO,4.738555,51.542480
 Tweegelandenbrugweg,29,,,4836BK,Breda,Breda,Noord-Brabant,VBO,4.733070,51.543055
@@ -241,15 +243,16 @@ Hazeldonk,6007,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.743639,51.489717
 Hazeldonk,6008,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.743627,51.489006
 Hazeldonk,6010,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.743274,51.488843
 Hazeldonk,6011,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.742498,51.489498
+Hazeldonk,6012,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.737747,51.487150
 Hazeldonk,6019,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.738942,51.489828
 Hazeldonk,6021,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.739573,51.489623
-Hazeldonk,6023,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.739649,51.489607
-Hazeldonk,6025,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.739735,51.489586
-Hazeldonk,6027,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.739825,51.489566
-Hazeldonk,6029,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.739951,51.489506
-Hazeldonk,6031,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740056,51.489470
-Hazeldonk,6033,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740187,51.489439
-Hazeldonk,6035,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740310,51.489448
+Hazeldonk,6023,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.739699,51.489514
+Hazeldonk,6025,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.739819,51.489486
+Hazeldonk,6027,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.739940,51.489460
+Hazeldonk,6029,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740065,51.489434
+Hazeldonk,6031,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740172,51.489411
+Hazeldonk,6033,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740286,51.489387
+Hazeldonk,6035,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740524,51.489396
 Hazeldonk,6039,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740559,51.489484
 Hazeldonk,6041,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740633,51.489506
 Hazeldonk,6043,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740699,51.489528
@@ -261,8 +264,7 @@ Hazeldonk,6053,,,4836LA,Breda,Breda,Noord-Brabant,VBO,4.740475,51.489820
 Hazeldonk,99,,,4836LB,Breda,Breda,Noord-Brabant,VBO,4.743272,51.499446
 Hazeldonk,101,,,4836LB,Breda,Breda,Noord-Brabant,VBO,4.742931,51.499126
 Hazeldonk,103,,,4836LB,Breda,Breda,Noord-Brabant,VBO,4.742770,51.498609
-Hazeldonk,105,,,4836LB,Breda,Breda,Noord-Brabant,VBO,4.742915,51.498471
-Hazeldonk,107,,,4836LB,Breda,Breda,Noord-Brabant,VBO,4.742685,51.498371
+Hazeldonk,105,,,4836LB,Breda,Breda,Noord-Brabant,VBO,4.743052,51.498364
 Hazeldonk,111,,,4836LB,Breda,Breda,Noord-Brabant,VBO,4.742398,51.497448
 Hazeldonk,6505,,,4836LD,Breda,Breda,Noord-Brabant,VBO,4.747351,51.499112
 Hazeldonk,6515,,,4836LD,Breda,Breda,Noord-Brabant,VBO,4.746777,51.499361
@@ -347,7 +349,7 @@ Hazeldonk,6740,,,4836LN,Breda,Breda,Noord-Brabant,VBO,4.749630,51.498315
 Hazeldonk,5002,,,4836LZ,Breda,Breda,Noord-Brabant,VBO,4.741523,51.499618
 Hazeldonk,5004,,,4836LZ,Breda,Breda,Noord-Brabant,VBO,4.741205,51.498227
 Hazeldonk,5006,,,4836LZ,Breda,Breda,Noord-Brabant,VBO,4.740786,51.498390
-Diunt,1,,,4836MA,Breda,Breda,Noord-Brabant,VBO,4.749299,51.507314
+Diunt,1,,,4836MA,Breda,Breda,Noord-Brabant,VBO,4.749291,51.507346
 Diunt,2,,,4836MA,Breda,Breda,Noord-Brabant,VBO,4.748799,51.507812
 Diunt,3,,,4836MA,Breda,Breda,Noord-Brabant,VBO,4.748485,51.507627
 Diunt,4,,,4836MA,Breda,Breda,Noord-Brabant,VBO,4.748314,51.508162

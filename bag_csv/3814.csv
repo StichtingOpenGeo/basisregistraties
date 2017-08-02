@@ -247,7 +247,6 @@ Van Randwijcklaan,28,,,3814AL,Amersfoort,Amersfoort,Utrecht,VBO,5.399213,52.1611
 Van Randwijcklaan,30,,,3814AL,Amersfoort,Amersfoort,Utrecht,VBO,5.399381,52.161309
 Neptunusplein,1,,,3814BA,Amersfoort,Amersfoort,Utrecht,VBO,5.399530,52.161592
 Neptunusplein,3,,,3814BA,Amersfoort,Amersfoort,Utrecht,VBO,5.399402,52.161656
-Neptunusplein,5,,,3814BA,Amersfoort,Amersfoort,Utrecht,VBO,5.399402,52.161656
 Neptunusplein,9,,,3814BA,Amersfoort,Amersfoort,Utrecht,VBO,5.399098,52.161897
 Neptunusplein,19,,,3814BB,Amersfoort,Amersfoort,Utrecht,VBO,5.399306,52.162081
 Neptunusplein,21,,,3814BB,Amersfoort,Amersfoort,Utrecht,VBO,5.399388,52.162128
@@ -581,6 +580,7 @@ Neptunusplein,52,,,3814BR,Amersfoort,Amersfoort,Utrecht,VBO,5.399357,52.162307
 Neptunusplein,54,A,,3814BR,Amersfoort,Amersfoort,Utrecht,VBO,5.399377,52.162358
 Neptunusplein,56,A,,3814BR,Amersfoort,Amersfoort,Utrecht,VBO,5.399414,52.162393
 Neptunusplein,56,B,,3814BR,Amersfoort,Amersfoort,Utrecht,VBO,5.399358,52.162419
+Neptunusplein,56,C,,3814BR,Amersfoort,Amersfoort,Utrecht,VBO,5.399277,52.162459
 Neptunusplein,58,A,,3814BR,Amersfoort,Amersfoort,Utrecht,VBO,5.399457,52.162428
 Neptunusplein,60,A,,3814BR,Amersfoort,Amersfoort,Utrecht,VBO,5.399500,52.162467
 Neptunusplein,62,A,,3814BR,Amersfoort,Amersfoort,Utrecht,VBO,5.399543,52.162502
@@ -648,18 +648,127 @@ Hogeweg,19,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398679,52.157789
 Hogeweg,21,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398761,52.157577
 Hogeweg,21,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398622,52.157573
 Hogeweg,21,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398622,52.157599
+Hogeweg,25,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398694,52.157135
+Hogeweg,25,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398607,52.157144
+Hogeweg,25,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398479,52.157155
+Hogeweg,25,D,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398466,52.157237
+Hogeweg,25,E,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398507,52.157342
+Hogeweg,25,F,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398582,52.157337
+Hogeweg,25,G,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398696,52.157330
+Hogeweg,25,H,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398932,52.157306
+Hogeweg,25,J,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399100,52.157238
+Hogeweg,25,K,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399090,52.157220
+Hogeweg,25,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399065,52.157103
+Hogeweg,25,M,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398907,52.157114
 Hogeweg,25,,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398866,52.157137
+Hogeweg,27,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398539,52.157163
+Hogeweg,27,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398555,52.157162
+Hogeweg,27,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398454,52.157169
+Hogeweg,27,D,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398466,52.157211
+Hogeweg,27,E,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398505,52.157330
+Hogeweg,27,F,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398611,52.157329
+Hogeweg,27,G,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398708,52.157324
+Hogeweg,27,H,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398787,52.157315
+Hogeweg,27,J,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398949,52.157296
+Hogeweg,27,K,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399087,52.157287
+Hogeweg,27,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399063,52.157213
+Hogeweg,27,M,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399030,52.157119
+Hogeweg,27,N,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398940,52.157124
+Hogeweg,27,P,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398816,52.157137
 Hogeweg,27,,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398788,52.157222
+Hogeweg,29,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398688,52.157167
+Hogeweg,29,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398551,52.157160
+Hogeweg,29,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398468,52.157178
+Hogeweg,29,D,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398532,52.157241
+Hogeweg,29,E,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398532,52.157326
+Hogeweg,29,F,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398630,52.157308
+Hogeweg,29,G,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398795,52.157280
+Hogeweg,29,H,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398868,52.157271
+Hogeweg,29,J,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398934,52.157273
+Hogeweg,29,K,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399088,52.157265
+Hogeweg,29,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399021,52.157226
+Hogeweg,29,M,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399021,52.157188
+Hogeweg,29,N,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398955,52.157144
+Hogeweg,29,P,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398835,52.157156
 Hogeweg,29,,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398756,52.157167
+Hogeweg,31,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398711,52.157173
+Hogeweg,31,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398661,52.157168
+Hogeweg,31,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398520,52.157187
+Hogeweg,31,D,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398559,52.157223
+Hogeweg,31,E,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398549,52.157321
+Hogeweg,31,F,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398632,52.157294
+Hogeweg,31,G,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398729,52.157288
+Hogeweg,31,H,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398843,52.157271
+Hogeweg,31,J,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398903,52.157263
+Hogeweg,31,K,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398965,52.157250
+Hogeweg,31,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398970,52.157220
+Hogeweg,31,M,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399007,52.157130
+Hogeweg,31,N,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398624,52.157266
+Hogeweg,31,P,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398845,52.157156
 Hogeweg,31,,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398814,52.157221
+Hogeweg,33,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398711,52.157169
+Hogeweg,33,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398597,52.157181
+Hogeweg,33,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398503,52.157181
+Hogeweg,33,D,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398555,52.157246
+Hogeweg,33,E,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398574,52.157310
+Hogeweg,33,F,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398603,52.157300
+Hogeweg,33,G,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398744,52.157287
+Hogeweg,33,H,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398673,52.157248
+Hogeweg,33,J,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398880,52.157261
+Hogeweg,33,K,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399028,52.157265
+Hogeweg,33,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398959,52.157216
+Hogeweg,33,M,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399027,52.157137
+Hogeweg,33,N,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398899,52.157163
+Hogeweg,33,P,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398967,52.157157
 Hogeweg,33,,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398864,52.157232
+Hogeweg,35,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398708,52.157180
+Hogeweg,35,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398621,52.157182
+Hogeweg,35,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398632,52.157182
+Hogeweg,35,D,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398590,52.157244
+Hogeweg,35,E,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398599,52.157292
+Hogeweg,35,F,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398586,52.157306
+Hogeweg,35,G,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398650,52.157258
+Hogeweg,35,H,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398853,52.157248
+Hogeweg,35,J,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398899,52.157250
+Hogeweg,35,K,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399044,52.157277
+Hogeweg,35,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398965,52.157221
+Hogeweg,35,M,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398986,52.157151
+Hogeweg,35,N,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398837,52.157168
+Hogeweg,35,P,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398839,52.157154
 Hogeweg,35,,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398762,52.157196
+Hogeweg,37,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398738,52.157219
+Hogeweg,37,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398630,52.157217
+Hogeweg,37,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398541,52.157193
+Hogeweg,37,D,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398574,52.157236
+Hogeweg,37,E,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398572,52.157306
+Hogeweg,37,F,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398630,52.157288
+Hogeweg,37,G,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398748,52.157260
+Hogeweg,37,H,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398860,52.157255
+Hogeweg,37,J,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398884,52.157248
+Hogeweg,37,K,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398959,52.157244
+Hogeweg,37,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398949,52.157212
+Hogeweg,37,M,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.399061,52.157103
+Hogeweg,37,N,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398810,52.157176
+Hogeweg,37,P,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398847,52.157164
 Hogeweg,37,,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398904,52.157235
+Hogeweg,39,A,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398696,52.157199
+Hogeweg,39,B,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398679,52.157199
+Hogeweg,39,C,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398551,52.157201
+Hogeweg,39,D,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398634,52.157238
+Hogeweg,39,E,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398574,52.157302
+Hogeweg,39,F,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398611,52.157290
+Hogeweg,39,G,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398781,52.157252
+Hogeweg,39,H,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398945,52.157260
+Hogeweg,39,J,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398837,52.157255
+Hogeweg,39,K,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398992,52.157260
+Hogeweg,39,L,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398926,52.157211
+Hogeweg,39,M,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398996,52.157132
+Hogeweg,39,N,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398901,52.157180
+Hogeweg,39,P,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398821,52.157178
 Hogeweg,39,,,3814CC,Amersfoort,Amersfoort,Utrecht,VBO,5.398898,52.157212
 Hogeweg,16,,1,3814CD,Amersfoort,Amersfoort,Utrecht,VBO,5.399114,52.158123
 Hogeweg,28,,,3814CD,Amersfoort,Amersfoort,Utrecht,VBO,5.399265,52.157717
 Hogeweg,30,,,3814CE,Amersfoort,Amersfoort,Utrecht,VBO,5.399285,52.157668
-Hogeweg,32,,,3814CE,Amersfoort,Amersfoort,Utrecht,VBO,5.399285,52.157668
 Hogeweg,34,A,,3814CE,Amersfoort,Amersfoort,Utrecht,VBO,5.399378,52.157537
 Hogeweg,34,B,,3814CE,Amersfoort,Amersfoort,Utrecht,VBO,5.399387,52.157518
 Hogeweg,34,C,,3814CE,Amersfoort,Amersfoort,Utrecht,VBO,5.399396,52.157497
@@ -807,7 +916,6 @@ Kruiskamp,124,,,3814PE,Amersfoort,Amersfoort,Utrecht,VBO,5.394415,52.161745
 Kruiskamp,126,,,3814PE,Amersfoort,Amersfoort,Utrecht,VBO,5.394477,52.161759
 Kruiskamp,128,,,3814PE,Amersfoort,Amersfoort,Utrecht,VBO,5.394571,52.161783
 Kruiskamp,132,A,,3814PE,Amersfoort,Amersfoort,Utrecht,VBO,5.394826,52.161896
-Kruiskamp,132,B,,3814PE,Amersfoort,Amersfoort,Utrecht,VBO,5.394843,52.161861
 Kruiskamp,132,,,3814PE,Amersfoort,Amersfoort,Utrecht,VBO,5.394843,52.161861
 Liendertseweg,3,,,3814PG,Amersfoort,Amersfoort,Utrecht,VBO,5.395731,52.162001
 Liendertseweg,5,,,3814PG,Amersfoort,Amersfoort,Utrecht,VBO,5.395783,52.162049
@@ -865,7 +973,6 @@ Liendertseweg,26,,,3814PK,Amersfoort,Amersfoort,Utrecht,VBO,5.395749,52.162434
 Liendertseweg,28,,,3814PK,Amersfoort,Amersfoort,Utrecht,VBO,5.395789,52.162469
 Liendertseweg,32,,,3814PK,Amersfoort,Amersfoort,Utrecht,VBO,5.395966,52.162694
 Liendertseweg,34,,,3814PK,Amersfoort,Amersfoort,Utrecht,VBO,5.396017,52.162725
-Liendertseweg,36,,,3814PK,Amersfoort,Amersfoort,Utrecht,VBO,5.396017,52.162725
 Liendertseweg,38,,,3814PK,Amersfoort,Amersfoort,Utrecht,VBO,5.396093,52.162792
 Liendertseweg,40,,,3814PK,Amersfoort,Amersfoort,Utrecht,VBO,5.396137,52.162826
 Liendertseweg,42,,,3814PK,Amersfoort,Amersfoort,Utrecht,VBO,5.396173,52.162857
@@ -927,6 +1034,10 @@ Van Linschotenstraat,28,,,3814PN,Amersfoort,Amersfoort,Utrecht,VBO,5.399128,52.1
 Van Linschotenstraat,29,,,3814PN,Amersfoort,Amersfoort,Utrecht,VBO,5.399014,52.162752
 Van Linschotenstraat,30,,,3814PN,Amersfoort,Amersfoort,Utrecht,VBO,5.399197,52.163048
 Van Linschotenstraat,32,,,3814PN,Amersfoort,Amersfoort,Utrecht,VBO,5.399275,52.163008
+Van Kouwenhovenpad,2,,,3814PP,Amersfoort,Amersfoort,Utrecht,VBO,5.396999,52.164130
+Van Kouwenhovenpad,4,,,3814PP,Amersfoort,Amersfoort,Utrecht,VBO,5.397042,52.164172
+Van Kouwenhovenpad,6,,,3814PP,Amersfoort,Amersfoort,Utrecht,VBO,5.397088,52.164212
+Van Kouwenhovenpad,8,,,3814PP,Amersfoort,Amersfoort,Utrecht,VBO,5.397139,52.164250
 Van Galenstraat,3,,,3814RA,Amersfoort,Amersfoort,Utrecht,VBO,5.389557,52.161041
 Van Galenstraat,5,,,3814RA,Amersfoort,Amersfoort,Utrecht,VBO,5.389636,52.161068
 Van Galenstraat,7,,,3814RA,Amersfoort,Amersfoort,Utrecht,VBO,5.389698,52.161093
@@ -996,11 +1107,6 @@ Van Galenstraat,22,,,3814RD,Amersfoort,Amersfoort,Utrecht,VBO,5.392073,52.162082
 Van Galenstraat,30,,,3814RD,Amersfoort,Amersfoort,Utrecht,VBO,5.394307,52.162477
 Van Brakelstraat,1,,1,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.393710,52.161878
 Van Brakelstraat,1,,10,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.394043,52.161950
-Van Brakelstraat,1,,11,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.394432,52.162055
-Van Brakelstraat,1,,12,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.394432,52.162055
-Van Brakelstraat,1,,13,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.394432,52.162055
-Van Brakelstraat,1,,14,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.394432,52.162055
-Van Brakelstraat,1,,15,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.394432,52.162055
 Van Brakelstraat,1,,2,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.393752,52.161885
 Van Brakelstraat,1,,3,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.393789,52.161893
 Van Brakelstraat,1,,4,3814RE,Amersfoort,Amersfoort,Utrecht,VBO,5.393822,52.161899
@@ -1321,8 +1427,8 @@ Evertsenstraat,67,,,3814SG,Amersfoort,Amersfoort,Utrecht,VBO,5.395478,52.163856
 Evertsenstraat,69,,,3814SG,Amersfoort,Amersfoort,Utrecht,VBO,5.395546,52.163869
 Evertsenstraat,71,,,3814SG,Amersfoort,Amersfoort,Utrecht,VBO,5.395610,52.163878
 Evertsenstraat,73,,,3814SG,Amersfoort,Amersfoort,Utrecht,VBO,5.395679,52.163892
-Evertsenstraat,75,,,3814SG,Amersfoort,Amersfoort,Utrecht,VBO,5.396852,52.163866
 Evertsenstraat,83,,,3814SG,Amersfoort,Amersfoort,Utrecht,VBO,5.396421,52.164049
+Evertsenstraat,85,,,3814SG,Amersfoort,Amersfoort,Utrecht,VBO,5.396852,52.163866
 Evertsenstraat,20,,,3814SH,Amersfoort,Amersfoort,Utrecht,VBO,5.393144,52.163803
 Evertsenstraat,22,,,3814SH,Amersfoort,Amersfoort,Utrecht,VBO,5.393210,52.163825
 Evertsenstraat,24,,,3814SH,Amersfoort,Amersfoort,Utrecht,VBO,5.393286,52.163833
@@ -1350,6 +1456,16 @@ Evertsenstraat,64,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.395292,52.164205
 Evertsenstraat,66,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.395364,52.164221
 Evertsenstraat,68,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.395430,52.164238
 Evertsenstraat,70,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.395503,52.164250
+Evertsenstraat,72,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.395965,52.164356
+Evertsenstraat,74,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396041,52.164372
+Evertsenstraat,76,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396116,52.164387
+Evertsenstraat,78,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396193,52.164402
+Evertsenstraat,80,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396491,52.164372
+Evertsenstraat,82,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396556,52.164343
+Evertsenstraat,84,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396620,52.164315
+Evertsenstraat,86,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396685,52.164287
+Evertsenstraat,88,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396749,52.164259
+Evertsenstraat,90,,,3814SJ,Amersfoort,Amersfoort,Utrecht,VBO,5.396815,52.164230
 De Ruijterstraat,4,,,3814SK,Amersfoort,Amersfoort,Utrecht,VBO,5.396115,52.163070
 De Ruijterstraat,6,,,3814SK,Amersfoort,Amersfoort,Utrecht,VBO,5.396102,52.163108
 De Ruijterstraat,8,,,3814SK,Amersfoort,Amersfoort,Utrecht,VBO,5.396077,52.163145
@@ -1368,10 +1484,15 @@ De Ruijterstraat,32,,,3814SK,Amersfoort,Amersfoort,Utrecht,VBO,5.395810,52.16365
 De Ruijterstraat,34,,,3814SK,Amersfoort,Amersfoort,Utrecht,VBO,5.395783,52.163704
 De Ruijterstraat,36,,,3814SK,Amersfoort,Amersfoort,Utrecht,VBO,5.395762,52.163742
 De Ruijterstraat,38,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395403,52.164397
+De Ruijterstraat,39,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395906,52.164514
 De Ruijterstraat,40,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395384,52.164446
+De Ruijterstraat,41,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395880,52.164562
 De Ruijterstraat,42,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395363,52.164491
+De Ruijterstraat,43,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395856,52.164608
 De Ruijterstraat,44,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395344,52.164527
+De Ruijterstraat,45,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395831,52.164654
 De Ruijterstraat,46,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395328,52.164567
+De Ruijterstraat,47,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395806,52.164701
 De Ruijterstraat,48,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395309,52.164605
 De Ruijterstraat,50,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395291,52.164654
 De Ruijterstraat,52,,,3814SL,Amersfoort,Amersfoort,Utrecht,VBO,5.395256,52.164698
@@ -1744,6 +1865,10 @@ Ringweg-Kruiskamp,73,J,,3814TE,Amersfoort,Amersfoort,Utrecht,VBO,5.401651,52.163
 Ringweg-Kruiskamp,73,K,,3814TE,Amersfoort,Amersfoort,Utrecht,VBO,5.401646,52.163964
 Ringweg-Kruiskamp,73,L,,3814TE,Amersfoort,Amersfoort,Utrecht,VBO,5.401620,52.163951
 Ringweg-Kruiskamp,74,,,3814TE,Amersfoort,Amersfoort,Utrecht,VBO,5.402604,52.163429
+Piet Heinstraat,1,A,,3814TG,Amersfoort,Amersfoort,Utrecht,VBO,5.395771,52.164879
+Piet Heinstraat,1,,,3814TG,Amersfoort,Amersfoort,Utrecht,VBO,5.395694,52.164864
+Piet Heinstraat,3,A,,3814TG,Amersfoort,Amersfoort,Utrecht,VBO,5.395923,52.164910
+Piet Heinstraat,3,,,3814TG,Amersfoort,Amersfoort,Utrecht,VBO,5.395846,52.164894
 Piet Heinstraat,5,,,3814TG,Amersfoort,Amersfoort,Utrecht,VBO,5.396431,52.165271
 Piet Heinstraat,7,,,3814TG,Amersfoort,Amersfoort,Utrecht,VBO,5.396485,52.165319
 Piet Heinstraat,9,,,3814TG,Amersfoort,Amersfoort,Utrecht,VBO,5.396536,52.165364
@@ -1806,7 +1931,20 @@ Kortenaerstraat,6,A,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.397416,52.164382
 Kortenaerstraat,6,B,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.397409,52.164370
 Kortenaerstraat,6,C,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.397397,52.164355
 Kortenaerstraat,6,D,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.397391,52.164345
-Kortenaerstraat,10,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396543,52.164393
+Kortenaerstraat,8,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.397055,52.164436
+Kortenaerstraat,10,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396989,52.164465
+Kortenaerstraat,12,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396925,52.164493
+Kortenaerstraat,14,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396861,52.164521
+Kortenaerstraat,16,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396796,52.164550
+Kortenaerstraat,18,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396732,52.164578
+Kortenaerstraat,20,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396668,52.164606
+Kortenaerstraat,22,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396602,52.164635
+Kortenaerstraat,24,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396510,52.164676
+Kortenaerstraat,26,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396445,52.164705
+Kortenaerstraat,28,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396380,52.164733
+Kortenaerstraat,30,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396316,52.164761
+Kortenaerstraat,32,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396252,52.164789
+Kortenaerstraat,34,,,3814TL,Amersfoort,Amersfoort,Utrecht,VBO,5.396186,52.164818
 Van der Doesstraat,1,,,3814TM,Amersfoort,Amersfoort,Utrecht,VBO,5.397107,52.164969
 Van der Doesstraat,2,,,3814TM,Amersfoort,Amersfoort,Utrecht,VBO,5.396803,52.165100
 Van der Doesstraat,3,,,3814TM,Amersfoort,Amersfoort,Utrecht,VBO,5.397168,52.165017

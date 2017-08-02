@@ -46,6 +46,7 @@ Twuyverweg,44,,,1834AA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.789995,52.6656
 Twuyverweg,46,,,1834AA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.790099,52.665601
 Twuyverweg,48,,,1834AA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.790084,52.665619
 Oosterdijk,1,,,1834AB,Sint Pancras,Langedijk,Noord-Holland,VBO,4.799000,52.664270
+Oosterdijk,3,,,1834AB,Sint Pancras,Langedijk,Noord-Holland,VBO,4.798548,52.664459
 Twuyverweg,45,,,1834AB,Sint Pancras,Langedijk,Noord-Holland,VBO,4.791840,52.665825
 Twuyverweg,47,A,,1834AB,Sint Pancras,Langedijk,Noord-Holland,VBO,4.792226,52.665710
 Twuyverweg,47,,,1834AB,Sint Pancras,Langedijk,Noord-Holland,VBO,4.791974,52.665763
@@ -88,7 +89,6 @@ Kerkplein,10,,,1834AD,Sint Pancras,Langedijk,Noord-Holland,VBO,4.787464,52.66585
 Kerkplein,11,,,1834AD,Sint Pancras,Langedijk,Noord-Holland,VBO,4.786615,52.666293
 Kerkplein,12,,,1834AD,Sint Pancras,Langedijk,Noord-Holland,VBO,4.787464,52.665985
 Kerkplein,13,,,1834AD,Sint Pancras,Langedijk,Noord-Holland,VBO,4.786510,52.666401
-Kerkplein,14,,,1834AD,Sint Pancras,Langedijk,Noord-Holland,VBO,4.787564,52.666109
 Kerkplein,16,,,1834AD,Sint Pancras,Langedijk,Noord-Holland,VBO,4.787738,52.666380
 Kerkplein,18,,,1834AD,Sint Pancras,Langedijk,Noord-Holland,VBO,4.787485,52.666450
 Kerkplein,20,,,1834AD,Sint Pancras,Langedijk,Noord-Holland,VBO,4.787263,52.666512
@@ -283,7 +283,7 @@ Zandboschlaan,2,,,1834AP,Sint Pancras,Langedijk,Noord-Holland,VBO,4.780934,52.65
 Benedenweg,189,,,1834AR,Sint Pancras,Langedijk,Noord-Holland,VBO,4.780380,52.658569
 Benedenweg,190,,,1834AR,Sint Pancras,Langedijk,Noord-Holland,VBO,4.779803,52.658593
 Benedenweg,191,,,1834AR,Sint Pancras,Langedijk,Noord-Holland,VBO,4.780441,52.658407
-Benedenweg,192,,,1834AR,Sint Pancras,Langedijk,Noord-Holland,VBO,4.779790,52.658503
+Benedenweg,192,,,1834AR,Sint Pancras,Langedijk,Noord-Holland,VBO,4.779712,52.658513
 Benedenweg,194,,,1834AR,Sint Pancras,Langedijk,Noord-Holland,VBO,4.779570,52.658367
 Benedenweg,196,,,1834AR,Sint Pancras,Langedijk,Noord-Holland,VBO,4.779381,52.658150
 Benedenweg,200,,,1834AR,Sint Pancras,Langedijk,Noord-Holland,VBO,4.779605,52.657998
@@ -369,6 +369,7 @@ Van de Vijzellaan,22,,,1834AW,Sint Pancras,Langedijk,Noord-Holland,VBO,4.782756,
 Van de Vijzellaan,24,,,1834AW,Sint Pancras,Langedijk,Noord-Holland,VBO,4.782537,52.664239
 Vronermeerweg,1,A,,1834AX,Sint Pancras,Langedijk,Noord-Holland,VBO,4.785197,52.671607
 Vronermeerweg,1,,,1834AX,Sint Pancras,Langedijk,Noord-Holland,VBO,4.784249,52.671764
+Vronermeerweg,2,,,1834AX,Broek op Langedijk,Langedijk,Noord-Holland,VBO,4.784281,52.673732
 Vronermeerweg,3,,,1834AX,Sint Pancras,Langedijk,Noord-Holland,VBO,4.783818,52.670863
 Vronermeerweg,6,,,1834AX,Sint Pancras,Langedijk,Noord-Holland,VBO,4.782305,52.670127
 Vronermeerweg,8,,,1834AX,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781256,52.668989
@@ -639,47 +640,51 @@ Bovenweg,106,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.782772,52.66092
 Bovenweg,108,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.782625,52.660863
 Bovenweg,110,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.782478,52.660772
 Bovenweg,112,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.782362,52.660619
-Bovenweg,114,B,118,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781620,52.660243
-Bovenweg,114,B,119,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781599,52.660191
-Bovenweg,114,B,120,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781586,52.660111
-Bovenweg,114,B,121,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781586,52.660111
-Bovenweg,114,B,122,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781576,52.660085
-Bovenweg,114,B,123,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781557,52.660038
-Bovenweg,114,B,124,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781550,52.660006
-Bovenweg,114,B,125,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781519,52.659950
-Bovenweg,114,B,126,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781320,52.659957
-Bovenweg,114,B,127,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781339,52.659987
-Bovenweg,114,B,128,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781345,52.660033
-Bovenweg,114,B,129,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781356,52.660065
-Bovenweg,114,B,130,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781370,52.660109
-Bovenweg,114,B,131,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781396,52.660140
-Bovenweg,114,B,132,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781421,52.660184
-Bovenweg,114,B,133,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781422,52.660219
-Bovenweg,114,B,134,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781431,52.660262
-Bovenweg,114,K,01,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781632,52.660235
-Bovenweg,114,K,010,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781323,52.659983
-Bovenweg,114,K,011,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781329,52.660029
-Bovenweg,114,K,012,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781334,52.660063
-Bovenweg,114,K,013,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781357,52.660104
-Bovenweg,114,K,014,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781368,52.660137
-Bovenweg,114,K,015,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781395,52.660180
-Bovenweg,114,K,016,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781400,52.660214
-Bovenweg,114,K,017,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781408,52.660256
-Bovenweg,114,K,02,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781618,52.660190
-Bovenweg,114,K,03,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781609,52.660155
-Bovenweg,114,K,04,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781593,52.660112
-Bovenweg,114,K,05,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781584,52.660081
-Bovenweg,114,K,06,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781564,52.660034
-Bovenweg,114,K,07,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781555,52.660003
-Bovenweg,114,K,08,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781540,52.659958
-Bovenweg,114,K,09,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781310,52.659953
-Bovenweg,114,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781849,52.660302
-Bovenweg,116,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781716,52.659831
-Bovenweg,118,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781590,52.659844
-Bovenweg,120,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781362,52.659859
-Bovenweg,122,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781719,52.659839
-Bovenweg,124,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781592,52.659852
-Bovenweg,126,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781337,52.659862
+Bovenweg,114,k,015,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,k,131,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,k,134,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,01,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,010,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,011,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,012,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,013,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,014,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,016,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,02,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,03,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,04,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,05,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,06,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,07,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,08,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,09,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,117,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,118,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,119,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,120,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,121,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,122,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,123,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,124,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,125,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,126,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,127,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,128,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,129,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,130,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,132,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,133,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,235,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,236,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,237,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,238,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,239,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,240,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,241,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,242,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,243,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,K,244,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
+Bovenweg,114,,,1834CH,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781502,52.660237
 Bovenweg,132,,,1834CJ,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781664,52.659761
 Bovenweg,134,,,1834CJ,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781755,52.659609
 Bovenweg,136,,,1834CJ,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781787,52.659457
@@ -852,20 +857,20 @@ de Helling,2,C,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.780479,52.6631
 de Helling,2,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781009,52.663103
 de Helling,3,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.780706,52.662812
 de Helling,4,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.779088,52.663501
-de Helling,11,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778492,52.663138
-de Helling,13,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778437,52.663145
-de Helling,15,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778386,52.663151
-de Helling,17,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778339,52.663156
-de Helling,19,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778282,52.663163
-de Helling,21,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778217,52.663176
-de Helling,23,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778157,52.663184
-de Helling,25,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778098,52.663197
-de Helling,27,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778023,52.663209
-de Helling,29,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777947,52.663220
-de Helling,31,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777890,52.663229
-de Helling,33,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778075,52.663266
-de Helling,35,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777999,52.663275
-de Helling,37,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777921,52.663280
+de Helling,11,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778354,52.663035
+de Helling,13,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778299,52.663048
+de Helling,15,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778248,52.663062
+de Helling,17,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778180,52.663070
+de Helling,19,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778109,52.663086
+de Helling,21,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778060,52.663097
+de Helling,23,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.778013,52.663105
+de Helling,25,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777960,52.663114
+de Helling,27,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777913,52.663121
+de Helling,29,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777845,52.663136
+de Helling,31,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777791,52.663145
+de Helling,33,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777752,52.663153
+de Helling,35,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777701,52.663164
+de Helling,37,,,1834DA,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777644,52.663177
 Gedempte Veert,3,,,1834DC,Sint Pancras,Langedijk,Noord-Holland,VBO,4.781197,52.664070
 Gedempte Veert,45,,,1834DC,Sint Pancras,Langedijk,Noord-Holland,VBO,4.777625,52.654726
 Gedempte Veert,121,,,1834DC,Sint Pancras,Langedijk,Noord-Holland,VBO,4.780600,52.661931

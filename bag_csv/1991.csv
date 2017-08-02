@@ -9,6 +9,7 @@ Rijksweg,259,,,1991AA,Velserbroek,Velsen,Noord-Holland,VBO,4.653683,52.443302
 Rijksweg,287,,,1991AA,Velserbroek,Velsen,Noord-Holland,VBO,4.653721,52.441292
 Rijksweg,289,A,,1991AA,Velserbroek,Velsen,Noord-Holland,VBO,4.652829,52.441205
 Rijksweg,289,,,1991AA,Velserbroek,Velsen,Noord-Holland,VBO,4.652566,52.441398
+Rijksweg,291,,,1991AA,Velserbroek,Velsen,Noord-Holland,VBO,4.652364,52.440804
 Rijksweg,295,,,1991AA,Velserbroek,Velsen,Noord-Holland,VBO,4.651931,52.440762
 Rijksweg,297,,RD,1991AA,Velserbroek,Velsen,Noord-Holland,VBO,4.651829,52.440558
 Rijksweg,297,,,1991AA,Velserbroek,Velsen,Noord-Holland,VBO,4.651780,52.440463
@@ -52,7 +53,6 @@ Hofgeesterweg,47,,,1991AC,Velserbroek,Velsen,Noord-Holland,VBO,4.656498,52.44038
 Hofgeesterweg,49,,,1991AC,Velserbroek,Velsen,Noord-Holland,VBO,4.656414,52.440346
 Hofgeesterweg,51,,,1991AC,Velserbroek,Velsen,Noord-Holland,VBO,4.656313,52.440293
 Hofgeesterweg,63,,,1991AC,Velserbroek,Velsen,Noord-Holland,VBO,4.654829,52.439490
-Hofgeesterweg,75,,,1991AC,Velserbroek,Velsen,Noord-Holland,VBO,4.654612,52.439114
 Hofgeesterweg,2,,,1991AD,Velserbroek,Velsen,Noord-Holland,VBO,4.656690,52.448748
 Hofgeesterweg,4,,,1991AD,Velserbroek,Velsen,Noord-Holland,VBO,4.657163,52.448143
 Hofgeesterweg,6,,,1991AD,Velserbroek,Velsen,Noord-Holland,VBO,4.657551,52.447602
@@ -97,7 +97,7 @@ Westlaan,47,F,,1991AL,Velserbroek,Velsen,Noord-Holland,VBO,4.675203,52.418887
 Westlaan,47,,,1991AL,Velserbroek,Velsen,Noord-Holland,VBO,4.673919,52.422466
 Velserbroekse Dreef,10,,,1991AM,Velserbroek,Velsen,Noord-Holland,VBO,4.654963,52.437021
 Velserbroekse Dreef,1,,,1991AN,Velserbroek,Velsen,Noord-Holland,VBO,4.659043,52.435010
-Velserbroekse Dreef,7,,,1991AN,Velserbroek,Velsen,Noord-Holland,VBO,4.658897,52.434916
+Velserbroekse Dreef,5,,,1991AN,Velserbroek,Velsen,Noord-Holland,VBO,4.658945,52.434946
 Velserbroekse Dreef,9,,,1991AN,Velserbroek,Velsen,Noord-Holland,VBO,4.658612,52.434759
 Velserbroekse Dreef,13,,,1991AN,Velserbroek,Velsen,Noord-Holland,VBO,4.658460,52.434696
 Velserbroekse Dreef,17,,,1991AN,Velserbroek,Velsen,Noord-Holland,VBO,4.658352,52.434590
@@ -555,7 +555,7 @@ Grote Buitendijk,22,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.660846,52.44
 Grote Buitendijk,23,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.661243,52.440553
 Grote Buitendijk,24,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.660896,52.439987
 Grote Buitendijk,25,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.661230,52.440336
-Grote Buitendijk,26,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.660948,52.439950
+Grote Buitendijk,26,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.660949,52.439949
 Grote Buitendijk,27,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.661291,52.440292
 Grote Buitendijk,28,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.660999,52.439911
 Grote Buitendijk,29,,,1991BZ,Velserbroek,Velsen,Noord-Holland,VBO,4.661312,52.440202
@@ -759,7 +759,7 @@ Haverland,1,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.659928,52.438394
 Haverland,2,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.660733,52.437604
 Haverland,3,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.659979,52.438357
 Haverland,4,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.660786,52.437567
-Haverland,5,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.660031,52.438317
+Haverland,5,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.660030,52.438317
 Haverland,6,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.660840,52.437530
 Haverland,7,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.660165,52.438244
 Haverland,8,,,1991CN,Velserbroek,Velsen,Noord-Holland,VBO,4.660892,52.437494
@@ -1151,7 +1151,7 @@ Langemaad,3,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663598,52.437998
 Langemaad,5,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663532,52.437973
 Langemaad,7,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663464,52.437946
 Langemaad,9,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663397,52.437919
-Langemaad,11,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663337,52.437896
+Langemaad,11,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663337,52.437897
 Langemaad,13,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663269,52.437870
 Langemaad,15,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663202,52.437843
 Langemaad,17,,,1991EJ,Velserbroek,Velsen,Noord-Holland,VBO,4.663094,52.437799
@@ -2067,9 +2067,6 @@ Zeilmakerstraat,15,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653307,52.437
 Zeilmakerstraat,18,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653691,52.436163
 Zeilmakerstraat,20,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653744,52.436206
 Zeilmakerstraat,22,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653768,52.436225
-Zeilmakerstraat,30,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653578,52.435975
-Zeilmakerstraat,40,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653556,52.435945
-Zeilmakerstraat,42,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653549,52.435975
 Zeilmakerstraat,50,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653819,52.435840
 Zeilmakerstraat,60,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653852,52.435825
 Zeilmakerstraat,62,,,1991JC,Velserbroek,Velsen,Noord-Holland,VBO,4.653818,52.435817
@@ -3443,7 +3440,6 @@ Platbodem,92,,,1991NL,Velserbroek,Velsen,Noord-Holland,VBO,4.658602,52.428631
 Platbodem,94,,,1991NL,Velserbroek,Velsen,Noord-Holland,VBO,4.658560,52.428587
 Platbodem,96,,,1991NL,Velserbroek,Velsen,Noord-Holland,VBO,4.658520,52.428546
 Platbodem,197,A,,1991NN,Velserbroek,Velsen,Noord-Holland,VBO,4.659555,52.429200
-Platbodem,197,,,1991NN,Velserbroek,Velsen,Noord-Holland,VBO,4.659898,52.429489
 Platbodem,199,,,1991NN,Velserbroek,Velsen,Noord-Holland,VBO,4.659349,52.429020
 Platbodem,201,,,1991NN,Velserbroek,Velsen,Noord-Holland,VBO,4.659046,52.428727
 Spitsaak,1,,,1991NP,Velserbroek,Velsen,Noord-Holland,VBO,4.661855,52.430244
@@ -3468,7 +3464,6 @@ Spitsaak,39,,,1991NP,Velserbroek,Velsen,Noord-Holland,VBO,4.660701,52.429318
 Spitsaak,41,,,1991NP,Velserbroek,Velsen,Noord-Holland,VBO,4.660657,52.429281
 Spitsaak,43,,,1991NP,Velserbroek,Velsen,Noord-Holland,VBO,4.660614,52.429244
 Spitsaak,45,,,1991NP,Velserbroek,Velsen,Noord-Holland,VBO,4.660569,52.429206
-Spitsaak,47,,9000,1991NR,Velserbroek,Velsen,Noord-Holland,VBO,4.660018,52.429357
 Spitsaak,47,,,1991NR,Velserbroek,Velsen,Noord-Holland,VBO,4.660502,52.429147
 Spitsaak,49,,,1991NR,Velserbroek,Velsen,Noord-Holland,VBO,4.660457,52.429108
 Spitsaak,51,,,1991NR,Velserbroek,Velsen,Noord-Holland,VBO,4.660415,52.429069
@@ -3546,7 +3541,7 @@ Zandaak,44,,,1991NV,Velserbroek,Velsen,Noord-Holland,VBO,4.660798,52.428847
 Zandaak,46,,,1991NV,Velserbroek,Velsen,Noord-Holland,VBO,4.660756,52.428808
 Zandaak,48,,,1991NV,Velserbroek,Velsen,Noord-Holland,VBO,4.660713,52.428770
 Zandaak,50,,,1991NV,Velserbroek,Velsen,Noord-Holland,VBO,4.660671,52.428732
-Zandaak,52,,,1991NV,Velserbroek,Velsen,Noord-Holland,VBO,4.660629,52.428693
+Zandaak,52,,,1991NV,Velserbroek,Velsen,Noord-Holland,VBO,4.660629,52.428694
 Zandaak,54,,,1991NW,Velserbroek,Velsen,Noord-Holland,VBO,4.660542,52.428615
 Zandaak,56,,,1991NW,Velserbroek,Velsen,Noord-Holland,VBO,4.660501,52.428576
 Zandaak,58,,,1991NW,Velserbroek,Velsen,Noord-Holland,VBO,4.660458,52.428536
@@ -3712,7 +3707,6 @@ Zon Bastion,30,,,1991PK,Velserbroek,Velsen,Noord-Holland,VBO,4.661254,52.434510
 Zon Bastion,31,,,1991PK,Velserbroek,Velsen,Noord-Holland,VBO,4.661271,52.434460
 Aurora Bastion,1,,,1991PL,Velserbroek,Velsen,Noord-Holland,VBO,4.659279,52.435026
 Aurora Bastion,15,,,1991PL,Velserbroek,Velsen,Noord-Holland,VBO,4.659687,52.434711
-Aurora Bastion,16,,8000,1991PL,Velserbroek,Velsen,Noord-Holland,VBO,4.660024,52.434719
 Aurora Bastion,16,,,1991PL,Velserbroek,Velsen,Noord-Holland,VBO,4.659755,52.434688
 Ster Bastion,2,,,1991PM,Velserbroek,Velsen,Noord-Holland,VBO,4.659083,52.434991
 Ster Bastion,4,,,1991PM,Velserbroek,Velsen,Noord-Holland,VBO,4.659032,52.434953
@@ -3758,8 +3752,6 @@ Galle Promenade,15,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659201,52.434
 Galle Promenade,25,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659506,52.434448
 Galle Promenade,35,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659728,52.434214
 Galle Promenade,45,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.659964,52.434045
-Galle Promenade,49,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.660122,52.433933
-Galle Promenade,55,,,1991PP,Velserbroek,Velsen,Noord-Holland,VBO,4.660281,52.433856
 Galle Promenade,4,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.658806,52.434717
 Galle Promenade,6,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.658857,52.434680
 Galle Promenade,8,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.658936,52.434625
@@ -3768,6 +3760,7 @@ Galle Promenade,22,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.659177,52.434
 Galle Promenade,26,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.659287,52.434297
 Galle Promenade,34,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.659489,52.434156
 Galle Promenade,36,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.659652,52.434117
+Galle Promenade,38,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.659705,52.434079
 Galle Promenade,40,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.659759,52.434042
 Galle Promenade,44,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.659836,52.433986
 Galle Promenade,46,,,1991PR,Velserbroek,Velsen,Noord-Holland,VBO,4.659888,52.433949
@@ -3830,6 +3823,10 @@ Aletta Jacobsstraat,299,,,1991PT,Velserbroek,Velsen,Noord-Holland,VBO,4.662755,5
 Aletta Jacobsstraat,301,,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662578,52.434093
 Aletta Jacobsstraat,303,,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662498,52.434051
 Aletta Jacobsstraat,305,,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662416,52.434007
+Aletta Jacobsstraat,307,A,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662558,52.434106
+Aletta Jacobsstraat,307,B,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662479,52.434064
+Aletta Jacobsstraat,307,C,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662397,52.434021
+Aletta Jacobsstraat,307,D,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662314,52.433977
 Aletta Jacobsstraat,307,,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662333,52.433964
 Aletta Jacobsstraat,309,,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662172,52.433840
 Aletta Jacobsstraat,311,,,1991PV,Velserbroek,Velsen,Noord-Holland,VBO,4.662191,52.433768
@@ -3916,6 +3913,12 @@ Aletta Jacobsstraat,326,,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.662570,5
 Aletta Jacobsstraat,328,,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.662501,52.434441
 Aletta Jacobsstraat,330,,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.662431,52.434491
 Aletta Jacobsstraat,332,,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.662364,52.434539
+Aletta Jacobsstraat,334,A,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.662161,52.434545
+Aletta Jacobsstraat,334,B,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.662082,52.434503
+Aletta Jacobsstraat,334,C,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.662001,52.434461
+Aletta Jacobsstraat,334,D,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.661920,52.434418
+Aletta Jacobsstraat,334,E,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.661840,52.434376
+Aletta Jacobsstraat,334,F,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.661760,52.434334
 Aletta Jacobsstraat,334,,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.662238,52.434585
 Aletta Jacobsstraat,336,,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.661678,52.434291
 Aletta Jacobsstraat,338,,,1991PX,Velserbroek,Velsen,Noord-Holland,VBO,4.661598,52.434219
@@ -4697,39 +4700,38 @@ Aletta Jacobsstraat,62,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663777,52
 Aletta Jacobsstraat,64,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663718,52.435139
 Aletta Jacobsstraat,66,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663677,52.435094
 Aletta Jacobsstraat,68,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663618,52.435063
-Aletta Jacobsstraat,74,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663261,52.434779
-Aletta Jacobsstraat,76,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662947,52.434630
-Aletta Jacobsstraat,78,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662866,52.434587
-Aletta Jacobsstraat,80,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662775,52.434652
-Aletta Jacobsstraat,82,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662856,52.434694
+Aletta Jacobsstraat,76,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662934,52.434639
+Aletta Jacobsstraat,78,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662854,52.434595
+Aletta Jacobsstraat,80,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662767,52.434656
+Aletta Jacobsstraat,82,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662846,52.434699
 Aletta Jacobsstraat,84,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662925,52.434731
-Aletta Jacobsstraat,86,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662868,52.434902
-Aletta Jacobsstraat,88,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662953,52.434947
-Aletta Jacobsstraat,90,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663036,52.434990
-Aletta Jacobsstraat,92,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663126,52.434925
-Aletta Jacobsstraat,94,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663044,52.434882
-Aletta Jacobsstraat,96,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662959,52.434837
-Aletta Jacobsstraat,98,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662926,52.434645
-Aletta Jacobsstraat,100,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662834,52.434597
-Aletta Jacobsstraat,102,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662743,52.434662
-Aletta Jacobsstraat,104,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662824,52.434704
-Aletta Jacobsstraat,106,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662893,52.434740
-Aletta Jacobsstraat,108,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662836,52.434912
-Aletta Jacobsstraat,110,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662921,52.434957
-Aletta Jacobsstraat,112,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663004,52.435000
-Aletta Jacobsstraat,114,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663095,52.434935
-Aletta Jacobsstraat,116,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663012,52.434892
-Aletta Jacobsstraat,118,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662927,52.434847
-Aletta Jacobsstraat,120,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662894,52.434655
-Aletta Jacobsstraat,122,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662813,52.434612
-Aletta Jacobsstraat,124,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662722,52.434677
-Aletta Jacobsstraat,126,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662803,52.434720
-Aletta Jacobsstraat,128,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662871,52.434756
-Aletta Jacobsstraat,130,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662815,52.434927
-Aletta Jacobsstraat,132,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662900,52.434972
-Aletta Jacobsstraat,134,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662982,52.435015
-Aletta Jacobsstraat,136,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663073,52.434951
-Aletta Jacobsstraat,138,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662991,52.434907
+Aletta Jacobsstraat,86,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662856,52.434908
+Aletta Jacobsstraat,88,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662940,52.434954
+Aletta Jacobsstraat,90,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663021,52.434998
+Aletta Jacobsstraat,92,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663109,52.434937
+Aletta Jacobsstraat,94,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663028,52.434893
+Aletta Jacobsstraat,96,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662944,52.434848
+Aletta Jacobsstraat,98,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662915,52.434652
+Aletta Jacobsstraat,100,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662835,52.434609
+Aletta Jacobsstraat,102,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662747,52.434669
+Aletta Jacobsstraat,104,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662827,52.434713
+Aletta Jacobsstraat,106,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662896,52.434750
+Aletta Jacobsstraat,108,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662837,52.434922
+Aletta Jacobsstraat,110,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662921,52.434967
+Aletta Jacobsstraat,112,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663002,52.435011
+Aletta Jacobsstraat,114,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663089,52.434951
+Aletta Jacobsstraat,116,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663008,52.434907
+Aletta Jacobsstraat,118,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662924,52.434861
+Aletta Jacobsstraat,120,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662895,52.434666
+Aletta Jacobsstraat,122,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662815,52.434622
+Aletta Jacobsstraat,124,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662726,52.434685
+Aletta Jacobsstraat,126,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662805,52.434728
+Aletta Jacobsstraat,128,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662874,52.434765
+Aletta Jacobsstraat,130,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662815,52.434937
+Aletta Jacobsstraat,132,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662899,52.434983
+Aletta Jacobsstraat,134,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662980,52.435027
+Aletta Jacobsstraat,136,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.663070,52.434964
+Aletta Jacobsstraat,138,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662989,52.434920
 Aletta Jacobsstraat,140,,,1991TB,Velserbroek,Velsen,Noord-Holland,VBO,4.662905,52.434863
 Aletta Jacobsstraat,1,,,1991TC,Velserbroek,Velsen,Noord-Holland,VBO,4.665806,52.435830
 Aletta Jacobsstraat,3,,,1991TC,Velserbroek,Velsen,Noord-Holland,VBO,4.665738,52.435804
@@ -5084,7 +5086,7 @@ Lepelaar,4,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670424,52.430884
 Lepelaar,5,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670287,52.431093
 Lepelaar,6,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670493,52.430912
 Lepelaar,7,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670352,52.431118
-Lepelaar,8,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670558,52.430938
+Lepelaar,8,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670558,52.430937
 Lepelaar,9,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670421,52.431146
 Lepelaar,10,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670633,52.430967
 Lepelaar,11,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670481,52.431168
@@ -5099,7 +5101,7 @@ Lepelaar,19,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670751,52.431273
 Lepelaar,20,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670969,52.431098
 Lepelaar,21,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670817,52.431300
 Lepelaar,22,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.671035,52.431124
-Lepelaar,23,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670886,52.431326
+Lepelaar,23,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.670886,52.431327
 Lepelaar,24,,,1991VC,Velserbroek,Velsen,Noord-Holland,VBO,4.671103,52.431151
 Regenwulp,1,,,1991VD,Velserbroek,Velsen,Noord-Holland,VBO,4.670021,52.430770
 Regenwulp,3,,,1991VD,Velserbroek,Velsen,Noord-Holland,VBO,4.669908,52.430810
@@ -5476,7 +5478,7 @@ Hollandse Aak,11,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661093,52.42790
 Hollandse Aak,12,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661316,52.427826
 Hollandse Aak,13,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661390,52.427812
 Hollandse Aak,14,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661461,52.427798
-Hollandse Aak,15,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661535,52.427784
+Hollandse Aak,15,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661534,52.427784
 Hollandse Aak,16,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661604,52.427770
 Hollandse Aak,17,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661674,52.427757
 Hollandse Aak,18,,,1991XG,Velserbroek,Velsen,Noord-Holland,VBO,4.661747,52.427743
@@ -5634,7 +5636,7 @@ Schokker,28,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662373,52.430195
 Schokker,30,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662431,52.430160
 Schokker,32,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662492,52.430126
 Schokker,34,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662545,52.430094
-Schokker,36,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662605,52.430058
+Schokker,36,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662605,52.430059
 Schokker,38,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662703,52.430002
 Schokker,40,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662760,52.429967
 Schokker,42,,,1991XR,Velserbroek,Velsen,Noord-Holland,VBO,4.662818,52.429935

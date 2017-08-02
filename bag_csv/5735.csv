@@ -585,6 +585,7 @@ Terlingenplein,57,,,5735BV,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.633743,51.5
 Kerkstraat,1,,,5735BW,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637470,51.510009
 Kerkstraat,3,,,5735BW,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637399,51.510081
 Kerkstraat,7,,,5735BW,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.636533,51.509823
+Kerkstraat,9,a,,5735BW,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.636994,51.510266
 Kerkstraat,9,,,5735BW,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637112,51.510352
 Kerkstraat,11,a,,5735BW,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.636868,51.510442
 Kerkstraat,11,,,5735BW,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.636897,51.510433
@@ -643,10 +644,9 @@ Opstal,5,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.631714,51.513653
 Opstal,6,a,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.633084,51.514010
 Opstal,6,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.633214,51.514054
 Opstal,7,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.634743,51.514384
-Opstal,8,a,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.634358,51.514438
 Opstal,8,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.634683,51.514354
-Opstal,10,a,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.634520,51.515687
-Opstal,10,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.634693,51.515849
+Opstal,10,a,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.634648,51.515871
+Opstal,10,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.634474,51.515723
 Opstal,11,a,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.635971,51.514929
 Opstal,11,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.635754,51.514831
 Opstal,12,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.636389,51.515090
@@ -654,6 +654,7 @@ Opstal,13,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.636461,51.515126
 Opstal,14,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637166,51.514801
 Opstal,15,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.636950,51.514972
 Opstal,16,,,5735CA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637286,51.515762
+Beekseweg,3,,,5735CB,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643097,51.516645
 Beekseweg,7,,,5735CB,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.639695,51.516368
 Beekseweg,11,,,5735CB,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.638849,51.517000
 Beekseweg,13,,,5735CB,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.639557,51.517447
@@ -676,7 +677,6 @@ Heindertweg,29,,,5735CC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637798,51.5118
 Heindertweg,31,,,5735CC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637962,51.511857
 Heindertweg,33,,,5735CC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637772,51.511999
 Heindertweg,35,,,5735CC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637897,51.511728
-Heindertweg,35,,,5735CC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637910,51.512005
 Heindertweg,37,,,5735CC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637884,51.511791
 Heindertweg,39,,,5735CC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637905,51.511667
 Heindertweg,41,,,5735CC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637916,51.511591
@@ -1090,16 +1090,12 @@ Dorpsstraat,66,b,,5735EE,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.642399,51.510
 Dorpsstraat,66,,,5735EE,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.642270,51.510574
 Dorpsstraat,68,,,5735EE,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.642386,51.510610
 Dorpsstraat,70,,,5735EE,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.642516,51.510619
-Dorpsstraat,72,a,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643107,51.510743
 Dorpsstraat,72,,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643064,51.510734
 Dorpsstraat,74,,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643266,51.510779
 Dorpsstraat,76,,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643496,51.510823
 Dorpsstraat,78,a,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644015,51.510903
 Dorpsstraat,78,,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643814,51.510894
 Dorpsstraat,80,,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644289,51.510956
-Dorpsstraat,82,a,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644462,51.511001
-Dorpsstraat,82,,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644419,51.510992
-Dorpsstraat,84,,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644520,51.511010
 Dorpsstraat,86,a,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645107,51.511076
 Dorpsstraat,86,,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645112,51.511101
 Dorpsstraat,88,a,,5735EG,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645775,51.511223
@@ -1248,7 +1244,7 @@ Nachtegaalstraat,38,,,5735EP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645084,51
 Nachtegaalstraat,40,,,5735EP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645185,51.508797
 Nachtegaalstraat,42,,,5735EP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645372,51.508788
 Nachtegaalstraat,44,,,5735EP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645444,51.508769
-Zwanendreef,7,,,5735ER,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645712,51.510333
+Zwanendreef,6,a,,5735ER,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645712,51.510333
 Zwanendreef,8,,,5735ER,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645711,51.510243
 Zwanendreef,10,,,5735ER,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645711,51.510126
 Zwanendreef,12,,,5735ER,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645682,51.510054
@@ -1348,7 +1344,6 @@ Mariastraat,50,,,5735EZ,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643187,51.5095
 Mariastraat,52,,,5735EZ,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643202,51.509691
 Mariastraat,54,,,5735EZ,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643217,51.509817
 Mariastraat,56,,,5735EZ,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643232,51.509961
-Mariastraat,68,,,5735EZ,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.643049,51.510608
 Jan van Rixtelstraat,1,,,5735GA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.642026,51.508013
 Jan van Rixtelstraat,3,,,5735GA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.641810,51.508040
 Jan van Rixtelstraat,5,,,5735GA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.641335,51.508140
@@ -1673,6 +1668,8 @@ Bosscheweg,86,,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644084,51.50527
 Bosscheweg,88,,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644141,51.505096
 Bosscheweg,92,,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644486,51.504897
 Bosscheweg,94,,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.644744,51.504699
+Bosscheweg,96,a,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645152,51.504312
+Bosscheweg,96,b,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645214,51.504238
 Bosscheweg,96,,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645015,51.504312
 Bosscheweg,98,,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645156,51.504198
 Bosscheweg,100,,,5735GX,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.645591,51.504239
@@ -1866,6 +1863,7 @@ De Trompetter,9,,,5735HL,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637687,51.504
 De Trompetter,10,,,5735HL,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.637917,51.504804
 De Trompetter,11,,,5735HL,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.638104,51.504786
 De Duivenakker,1,a,,5735JA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.648183,51.506714
+De Duivenakker,1,b,,5735JA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.647995,51.506739
 De Duivenakker,1,,,5735JA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.648167,51.506489
 De Duivenakker,3,a,,5735JA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.648097,51.506813
 De Duivenakker,3,,,5735JA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.648185,51.506948
@@ -2262,6 +2260,7 @@ Croylaan,9,,,5735PB,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.627482,51.500727
 Croylaan,11,a,,5735PB,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.626439,51.499480
 Croylaan,11,,,5735PB,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.626338,51.499552
 Croylaan,2,,,5735PC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.611095,51.509530
+Croylaan,4,a,,5735PC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.614415,51.507319
 Croylaan,4,,,5735PC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.613647,51.507460
 Croylaan,6,,,5735PC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.618848,51.504978
 Croylaan,8,,,5735PC,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.623228,51.502408
@@ -2400,6 +2399,7 @@ Strijpsoord,38,,,5735PS,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.628300,51.5055
 Strijpsoord,40,,,5735PS,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.628127,51.505580
 Strijpsoord,42,,,5735PS,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.628012,51.505607
 Strijpsoord,44,,,5735PS,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.628128,51.505723
+Jonker Karellaan,3,,,5735PT,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.615541,51.506144
 Helmondseweg,1,,,5735RA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.649566,51.511691
 Helmondseweg,3,a,,5735RA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.649651,51.511430
 Helmondseweg,3,b,,5735RA,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.649910,51.511411
@@ -2606,7 +2606,7 @@ Asdonkseweg,1,b,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.670404,51.5121
 Asdonkseweg,1,,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.670569,51.513988
 Asdonkseweg,2,a,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.673942,51.511975
 Asdonkseweg,2,b,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.674763,51.512045
-Asdonkseweg,2,c,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.674905,51.512353
+Asdonkseweg,2,c,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.674897,51.512453
 Asdonkseweg,2,d,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.675358,51.512402
 Asdonkseweg,2,e,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.676071,51.512438
 Asdonkseweg,2,,,5735SP,Aarle-Rixtel,Laarbeek,Noord-Brabant,VBO,5.671887,51.512834

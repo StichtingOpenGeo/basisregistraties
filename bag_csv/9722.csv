@@ -70,7 +70,6 @@ Verlengde Hereweg,40,,,9722AD,Groningen,Groningen,Groningen,VBO,6.579499,53.1993
 Verlengde Hereweg,42,a,,9722AD,Groningen,Groningen,Groningen,VBO,6.579562,53.199224
 Verlengde Hereweg,42,,,9722AD,Groningen,Groningen,Groningen,VBO,6.579546,53.199248
 Verlengde Hereweg,44,,,9722AE,Groningen,Groningen,Groningen,VBO,6.579783,53.198861
-Verlengde Hereweg,46,a,,9722AE,Groningen,Groningen,Groningen,VBO,6.579827,53.198765
 Verlengde Hereweg,46,a,,9722AE,Groningen,Groningen,Groningen,VBO,6.579873,53.198770
 Verlengde Hereweg,46,b,,9722AE,Groningen,Groningen,Groningen,VBO,6.579859,53.198791
 Verlengde Hereweg,46,c,,9722AE,Groningen,Groningen,Groningen,VBO,6.579914,53.198777
@@ -241,8 +240,13 @@ Helper Oostsingel,20,k,,9722AT,Groningen,Groningen,Groningen,VBO,6.579396,53.200
 Helper Oostsingel,20,m,,9722AT,Groningen,Groningen,Groningen,VBO,6.579421,53.200943
 Helper Oostsingel,20,n,,9722AT,Groningen,Groningen,Groningen,VBO,6.579448,53.200952
 Helper Oostsingel,20,p,,9722AT,Groningen,Groningen,Groningen,VBO,6.579473,53.200961
-Helper Oostsingel,20,,,9722AT,Groningen,Groningen,Groningen,VBO,6.579563,53.200652
+Helper Oostsingel,20,,1,9722AT,Groningen,Groningen,Groningen,VBO,6.579577,53.200663
+Helper Oostsingel,20,,2,9722AT,Groningen,Groningen,Groningen,VBO,6.579548,53.200693
+Helper Oostsingel,20,,3,9722AT,Groningen,Groningen,Groningen,VBO,6.579521,53.200721
 Helper Oostsingel,22,,,9722AV,Groningen,Groningen,Groningen,VBO,6.579707,53.200697
+Helper Oostsingel,24,a,,9722AV,Groningen,Groningen,Groningen,VBO,6.579747,53.200771
+Helper Oostsingel,24,b,,9722AV,Groningen,Groningen,Groningen,VBO,6.579731,53.200785
+Helper Oostsingel,24,,,9722AV,Groningen,Groningen,Groningen,VBO,6.579764,53.200753
 Helper Oostsingel,24,,,9722AV,Groningen,Groningen,Groningen,VBO,6.579792,53.200728
 Helper Oostsingel,26,,1,9722AV,Groningen,Groningen,Groningen,VBO,6.579700,53.200962
 Helper Oostsingel,26,,,9722AV,Groningen,Groningen,Groningen,VBO,6.579879,53.200759
@@ -408,6 +412,9 @@ Brinklaan,26,,,9722BC,Groningen,Groningen,Groningen,VBO,6.581482,53.200309
 Brinklaan,28,,,9722BC,Groningen,Groningen,Groningen,VBO,6.581518,53.200262
 Helperzoom,2,a,,9722BD,Groningen,Groningen,Groningen,STA,6.582076,53.206261
 Helperzoom,2,,,9722BD,Groningen,Groningen,Groningen,STA,6.581919,53.206314
+Helperzoom,3,a,,9722BD,Groningen,Groningen,Groningen,VBO,6.580739,53.206275
+Helperzoom,3,b,,9722BD,Groningen,Groningen,Groningen,VBO,6.580690,53.206327
+Helperzoom,3,,,9722BD,Groningen,Groningen,Groningen,VBO,6.580749,53.206322
 Helperzoom,4,,,9722BD,Groningen,Groningen,Groningen,VBO,6.582570,53.205816
 Helperzoom,6,,,9722BD,Groningen,Groningen,Groningen,VBO,6.592155,53.200682
 Helperzoom,23,,,9722BD,Groningen,Groningen,Groningen,VBO,6.584786,53.203958
@@ -1722,40 +1729,21 @@ Emmastraat,42,a,,9722EZ,Groningen,Groningen,Groningen,VBO,6.582662,53.198495
 Emmastraat,42,b,,9722EZ,Groningen,Groningen,Groningen,VBO,6.582686,53.198512
 Emmastraat,42,,,9722EZ,Groningen,Groningen,Groningen,VBO,6.582712,53.198490
 Coendersweg,1,a,1,9722GA,Groningen,Groningen,Groningen,VBO,6.581521,53.201789
-Coendersweg,1,a,10,9722GA,Groningen,Groningen,Groningen,VBO,6.581436,53.201814
-Coendersweg,1,a,2,9722GA,Groningen,Groningen,Groningen,VBO,6.581512,53.201802
-Coendersweg,1,a,3,9722GA,Groningen,Groningen,Groningen,VBO,6.581503,53.201812
-Coendersweg,1,a,4,9722GA,Groningen,Groningen,Groningen,VBO,6.581495,53.201820
-Coendersweg,1,a,5,9722GA,Groningen,Groningen,Groningen,VBO,6.581484,53.201830
-Coendersweg,1,a,6,9722GA,Groningen,Groningen,Groningen,VBO,6.581472,53.201775
-Coendersweg,1,a,7,9722GA,Groningen,Groningen,Groningen,VBO,6.581464,53.201784
-Coendersweg,1,a,8,9722GA,Groningen,Groningen,Groningen,VBO,6.581455,53.201794
-Coendersweg,1,a,9,9722GA,Groningen,Groningen,Groningen,VBO,6.581448,53.201803
+Coendersweg,1,a,2,9722GA,Groningen,Groningen,Groningen,VBO,6.581495,53.201820
+Coendersweg,1,a,3,9722GA,Groningen,Groningen,Groningen,VBO,6.581472,53.201775
+Coendersweg,1,a,4,9722GA,Groningen,Groningen,Groningen,VBO,6.581455,53.201794
 Coendersweg,1,b,1,9722GA,Groningen,Groningen,Groningen,VBO,6.581551,53.201768
 Coendersweg,1,b,10,9722GA,Groningen,Groningen,Groningen,VBO,6.581546,53.201706
-Coendersweg,1,b,2,9722GA,Groningen,Groningen,Groningen,VBO,6.581561,53.201756
-Coendersweg,1,b,3,9722GA,Groningen,Groningen,Groningen,VBO,6.581573,53.201742
-Coendersweg,1,b,4,9722GA,Groningen,Groningen,Groningen,VBO,6.581582,53.201729
-Coendersweg,1,b,5,9722GA,Groningen,Groningen,Groningen,VBO,6.581592,53.201718
-Coendersweg,1,b,6,9722GA,Groningen,Groningen,Groningen,VBO,6.581502,53.201755
-Coendersweg,1,b,7,9722GA,Groningen,Groningen,Groningen,VBO,6.581512,53.201743
-Coendersweg,1,b,8,9722GA,Groningen,Groningen,Groningen,VBO,6.581524,53.201730
-Coendersweg,1,b,9,9722GA,Groningen,Groningen,Groningen,VBO,6.581536,53.201716
+Coendersweg,1,b,2,9722GA,Groningen,Groningen,Groningen,VBO,6.581582,53.201729
+Coendersweg,1,b,3,9722GA,Groningen,Groningen,Groningen,VBO,6.581502,53.201755
+Coendersweg,1,b,4,9722GA,Groningen,Groningen,Groningen,VBO,6.581524,53.201730
 Coendersweg,1,c,1,9722GA,Groningen,Groningen,Groningen,VBO,6.581636,53.201677
-Coendersweg,1,c,10,9722GA,Groningen,Groningen,Groningen,VBO,6.581632,53.201605
-Coendersweg,1,c,2,9722GA,Groningen,Groningen,Groningen,VBO,6.581648,53.201663
-Coendersweg,1,c,3,9722GA,Groningen,Groningen,Groningen,VBO,6.581663,53.201645
-Coendersweg,1,c,4,9722GA,Groningen,Groningen,Groningen,VBO,6.581675,53.201631
-Coendersweg,1,c,5,9722GA,Groningen,Groningen,Groningen,VBO,6.581687,53.201615
-Coendersweg,1,c,6,9722GA,Groningen,Groningen,Groningen,VBO,6.581582,53.201664
-Coendersweg,1,c,7,9722GA,Groningen,Groningen,Groningen,VBO,6.581595,53.201648
-Coendersweg,1,c,8,9722GA,Groningen,Groningen,Groningen,VBO,6.581607,53.201633
-Coendersweg,1,c,9,9722GA,Groningen,Groningen,Groningen,VBO,6.581621,53.201618
+Coendersweg,1,c,2,9722GA,Groningen,Groningen,Groningen,VBO,6.581675,53.201631
+Coendersweg,1,c,3,9722GA,Groningen,Groningen,Groningen,VBO,6.581582,53.201664
+Coendersweg,1,c,4,9722GA,Groningen,Groningen,Groningen,VBO,6.581607,53.201633
 Coendersweg,1,d,1,9722GA,Groningen,Groningen,Groningen,VBO,6.581706,53.201595
 Coendersweg,1,d,2,9722GA,Groningen,Groningen,Groningen,VBO,6.581717,53.201582
-Coendersweg,1,d,3,9722GA,Groningen,Groningen,Groningen,VBO,6.581729,53.201567
-Coendersweg,1,d,4,9722GA,Groningen,Groningen,Groningen,VBO,6.581740,53.201555
-Coendersweg,1,d,5,9722GA,Groningen,Groningen,Groningen,VBO,6.581753,53.201542
+Coendersweg,1,d,3,9722GA,Groningen,Groningen,Groningen,VBO,6.581740,53.201555
 Coendersweg,1,,,9722GA,Groningen,Groningen,Groningen,VBO,6.582047,53.201230
 Coendersweg,3,,,9722GA,Groningen,Groningen,Groningen,VBO,6.582074,53.201183
 Coendersweg,5,,,9722GA,Groningen,Groningen,Groningen,VBO,6.582096,53.201142
@@ -1876,7 +1864,8 @@ Coendersweg,24,a,,9722GG,Groningen,Groningen,Groningen,VBO,6.582711,53.200602
 Coendersweg,24,b,,9722GG,Groningen,Groningen,Groningen,VBO,6.582714,53.200579
 Coendersweg,24,,,9722GG,Groningen,Groningen,Groningen,VBO,6.582702,53.200628
 Coendersweg,26,a,,9722GG,Groningen,Groningen,Groningen,VBO,6.582729,53.200528
-Coendersweg,26,b,,9722GG,Groningen,Groningen,Groningen,VBO,6.582730,53.200509
+Coendersweg,26,b,,9722GG,Groningen,Groningen,Groningen,VBO,6.582734,53.200509
+Coendersweg,26,c,,9722GG,Groningen,Groningen,Groningen,VBO,6.582786,53.200513
 Coendersweg,26,,,9722GG,Groningen,Groningen,Groningen,VBO,6.582724,53.200550
 Coendersweg,30,a,,9722GH,Groningen,Groningen,Groningen,VBO,6.582809,53.200243
 Coendersweg,30,,,9722GH,Groningen,Groningen,Groningen,VBO,6.582803,53.200271
@@ -1977,7 +1966,8 @@ Waldeck-Pyrmontstraat,8,,,9722GM,Groningen,Groningen,Groningen,VBO,6.584250,53.1
 Waldeck-Pyrmontstraat,10,a,,9722GM,Groningen,Groningen,Groningen,VBO,6.584387,53.199393
 Waldeck-Pyrmontstraat,10,b,,9722GM,Groningen,Groningen,Groningen,VBO,6.584381,53.199414
 Waldeck-Pyrmontstraat,10,,,9722GM,Groningen,Groningen,Groningen,VBO,6.584356,53.199371
-Waldeck-Pyrmontstraat,12,a,,9722GM,Groningen,Groningen,Groningen,VBO,6.584500,53.199403
+Waldeck-Pyrmontstraat,12,a,1,9722GM,Groningen,Groningen,Groningen,VBO,6.584445,53.199423
+Waldeck-Pyrmontstraat,12,a,,9722GM,Groningen,Groningen,Groningen,VBO,6.584451,53.199405
 Waldeck-Pyrmontstraat,12,b,,9722GM,Groningen,Groningen,Groningen,VBO,6.584496,53.199423
 Waldeck-Pyrmontstraat,12,,,9722GM,Groningen,Groningen,Groningen,VBO,6.584468,53.199383
 Waldeck-Pyrmontplein,1,a,,9722GN,Groningen,Groningen,Groningen,VBO,6.583978,53.198915
@@ -2397,8 +2387,9 @@ Troelstralaan,29,a,,9722JC,Groningen,Groningen,Groningen,VBO,6.585428,53.197246
 Troelstralaan,29,b,,9722JC,Groningen,Groningen,Groningen,VBO,6.585442,53.197230
 Troelstralaan,29,c,,9722JC,Groningen,Groningen,Groningen,VBO,6.585390,53.197227
 Troelstralaan,29,,,9722JC,Groningen,Groningen,Groningen,VBO,6.585420,53.197273
+Troelstralaan,31,a,,9722JC,Groningen,Groningen,Groningen,VBO,6.585418,53.197115
 Troelstralaan,31,b,,9722JC,Groningen,Groningen,Groningen,VBO,6.585483,53.197099
-Troelstralaan,31,,,9722JC,Groningen,Groningen,Groningen,VBO,6.585468,53.197141
+Troelstralaan,31,,,9722JC,Groningen,Groningen,Groningen,VBO,6.585413,53.197136
 Troelstralaan,33,a,,9722JC,Groningen,Groningen,Groningen,VBO,6.585503,53.197030
 Troelstralaan,33,b,,9722JC,Groningen,Groningen,Groningen,VBO,6.585508,53.197009
 Troelstralaan,33,,,9722JC,Groningen,Groningen,Groningen,VBO,6.585498,53.197056
@@ -2674,7 +2665,6 @@ Chopinlaan,10,,6,9722KE,Groningen,Groningen,Groningen,VBO,6.588770,53.198409
 Chopinlaan,10,,7,9722KE,Groningen,Groningen,Groningen,VBO,6.588743,53.198473
 Chopinlaan,10,,8,9722KE,Groningen,Groningen,Groningen,VBO,6.588809,53.198529
 Chopinlaan,10,,9,9722KE,Groningen,Groningen,Groningen,VBO,6.588764,53.198523
-Chopinlaan,10,,,9722KE,Groningen,Groningen,Groningen,VBO,6.588838,53.198275
 Chopinlaan,10,,,9722KE,Groningen,Groningen,Groningen,VBO,6.589116,53.198128
 Chopinlaan,12,,,9722KE,Groningen,Groningen,Groningen,VBO,6.589289,53.197873
 Chopinlaan,20,,,9722KH,Groningen,Groningen,Groningen,VBO,6.589261,53.197318

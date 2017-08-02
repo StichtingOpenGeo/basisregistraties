@@ -100,7 +100,6 @@ Kruisweg,90,,,9363AG,Marum,Marum,Groningen,VBO,6.285004,53.149629
 Kruisweg,92,,,9363AG,Marum,Marum,Groningen,VBO,6.285377,53.149626
 Kruisweg,96,,,9363AG,Marum,Marum,Groningen,VBO,6.285965,53.149856
 Kruisweg,100,,,9363AG,Marum,Marum,Groningen,VBO,6.286487,53.149816
-Kruisweg,102,,,9363AG,Marum,Marum,Groningen,VBO,6.286242,53.150222
 Kruisweg,104,,,9363AG,Marum,Marum,Groningen,VBO,6.285793,53.153829
 Kruisweg,106,,,9363AG,Marum,Marum,Groningen,VBO,6.286966,53.149848
 Kruisweg,112,,,9363AG,Marum,Marum,Groningen,VBO,6.287792,53.150013
@@ -234,7 +233,8 @@ Malijksepad,5,,,9363AT,Marum,Marum,Groningen,VBO,6.273712,53.144205
 Malijksepad,6,,,9363AT,Marum,Marum,Groningen,VBO,6.273257,53.144594
 Malijksepad,7,,,9363AT,Marum,Marum,Groningen,VBO,6.274845,53.144088
 Malijksepad,8,,,9363AT,Marum,Marum,Groningen,VBO,6.273346,53.144585
-Malijksepad,9,,,9363AT,Marum,Marum,Groningen,VBO,6.278958,53.144249
+Malijksepad,9,,,9363AT,Marum,Marum,Groningen,VBO,6.279024,53.144250
+Malijksepad,9,,,9363AT,Marum,Marum,Groningen,VBO,6.279297,53.144251
 Malijksepad,10,,,9363AT,Marum,Marum,Groningen,VBO,6.273480,53.144575
 Malijksepad,11,,,9363AT,Marum,Marum,Groningen,VBO,6.279187,53.143810
 Malijksepad,12,,,9363AT,Marum,Marum,Groningen,VBO,6.273570,53.144574
@@ -2120,8 +2120,12 @@ Swanenburg,20,,,9363KL,Marum,Marum,Groningen,VBO,6.277159,53.146478
 Swanenburg,22,,,9363KL,Marum,Marum,Groningen,VBO,6.277142,53.146536
 Swanenburg,24,,,9363KL,Marum,Marum,Groningen,VBO,6.277113,53.146649
 Swanenburg,26,,,9363KL,Marum,Marum,Groningen,VBO,6.277096,53.146691
+Swanenburg,28,,,9363KL,Marum,Marum,Groningen,VBO,6.277051,53.146910
+Swanenburg,30,,,9363KL,Marum,Marum,Groningen,VBO,6.277020,53.146975
 Swanenburg,32,,,9363KL,Marum,Marum,Groningen,VBO,6.276991,53.147077
 Swanenburg,34,,,9363KL,Marum,Marum,Groningen,VBO,6.276981,53.147135
+Swanenburg,36,,,9363KL,Marum,Marum,Groningen,VBO,6.276972,53.147246
+Swanenburg,38,,,9363KL,Marum,Marum,Groningen,VBO,6.276946,53.147300
 Het Logement,1,,,9363KM,Marum,Marum,Groningen,VBO,6.277344,53.147306
 Het Logement,2,,,9363KM,Marum,Marum,Groningen,VBO,6.276822,53.147524
 Het Logement,3,,,9363KM,Marum,Marum,Groningen,VBO,6.277425,53.147311
@@ -2159,6 +2163,7 @@ Walviuslaan,13,,,9363KN,Marum,Marum,Groningen,VBO,6.277813,53.146146
 Walviuslaan,15,,,9363KN,Marum,Marum,Groningen,VBO,6.277898,53.146155
 Holtropslaan,5,,,9363KP,Marum,Marum,Groningen,VBO,6.276151,53.145361
 Holtropslaan,7,,,9363KP,Marum,Marum,Groningen,VBO,6.276431,53.145348
+Holtropslaan,9,,,9363KP,Marum,Marum,Groningen,VBO,6.277945,53.145423
 Holtropslaan,11,,,9363KP,Marum,Marum,Groningen,VBO,6.278269,53.145446
 Holtropslaan,2,,,9363KR,Marum,Marum,Groningen,VBO,6.275576,53.145851
 Holtropslaan,4,,,9363KR,Marum,Marum,Groningen,VBO,6.275752,53.145837
@@ -2170,6 +2175,7 @@ Holtropslaan,14,,,9363KR,Marum,Marum,Groningen,VBO,6.276347,53.145750
 Holtropslaan,16,,,9363KR,Marum,Marum,Groningen,VBO,6.276531,53.145745
 Holtropslaan,20,,,9363KR,Marum,Marum,Groningen,VBO,6.277763,53.145718
 Holtropslaan,22,,,9363KR,Marum,Marum,Groningen,VBO,6.277844,53.145727
+Holtropslaan,24,,,9363KR,Marum,Marum,Groningen,VBO,6.278035,53.145783
 Grietmansweg,11,,,9363KS,Marum,Marum,Groningen,VBO,6.277419,53.145407
 Grietmansweg,13,,,9363KS,Marum,Marum,Groningen,VBO,6.277431,53.145360
 Grietmansweg,15,,,9363KS,Marum,Marum,Groningen,VBO,6.277450,53.145261
@@ -2383,10 +2389,18 @@ De Koppel Paarden,2,,,9363LP,Marum,Marum,Groningen,VBO,6.256227,53.139795
 De Koppel Paarden,3,,,9363LP,Marum,Marum,Groningen,VBO,6.256647,53.139908
 De Koppel Paarden,4,,,9363LP,Marum,Marum,Groningen,VBO,6.256200,53.139948
 De Koppel Paarden,5,,,9363LP,Marum,Marum,Groningen,VBO,6.256589,53.140060
+De Koppel Paarden,6,,,9363LP,Marum,Marum,Groningen,VBO,6.256135,53.140098
 De Koppel Paarden,7,,,9363LP,Marum,Marum,Groningen,VBO,6.256522,53.140113
+De Koppel Paarden,8,,,9363LP,Marum,Marum,Groningen,VBO,6.256102,53.140179
 De Koppel Paarden,9,,,9363LP,Marum,Marum,Groningen,VBO,6.256505,53.140251
+De Koppel Paarden,10,A,,9363LP,Marum,Marum,Groningen,VBO,6.256015,53.140396
+De Koppel Paarden,10,,,9363LP,Marum,Marum,Groningen,VBO,6.256053,53.140310
 De Koppel Paarden,11,,,9363LP,Marum,Marum,Groningen,VBO,6.256491,53.140296
+De Koppel Paarden,12,A,,9363LP,Marum,Marum,Groningen,VBO,6.255926,53.140594
+De Koppel Paarden,12,,,9363LP,Marum,Marum,Groningen,VBO,6.255968,53.140506
 De Koppel Paarden,13,,,9363LP,Marum,Marum,Groningen,VBO,6.256404,53.140440
+De Koppel Paarden,14,A,,9363LP,Marum,Marum,Groningen,VBO,6.255845,53.140790
+De Koppel Paarden,14,,,9363LP,Marum,Marum,Groningen,VBO,6.255885,53.140708
 De Koppel Paarden,15,,,9363LP,Marum,Marum,Groningen,VBO,6.256405,53.140503
 De Koppel Paarden,17,,,9363LP,Marum,Marum,Groningen,VBO,6.256333,53.140648
 De Koppel Paarden,18,,,9363LP,Marum,Marum,Groningen,VBO,6.255738,53.141046
@@ -2422,6 +2436,17 @@ Wagenmakerij,20,,,9363LR,Marum,Marum,Groningen,VBO,6.254766,53.141504
 Wagenmakerij,22,,,9363LR,Marum,Marum,Groningen,VBO,6.254665,53.141675
 Veldweg,1,,,9363LS,Marum,Marum,Groningen,VBO,6.255725,53.139385
 Veldweg,3,,,9363LS,Marum,Marum,Groningen,VBO,6.255870,53.139147
+Cornelis de Grijshof,3,,,9363MA,Marum,Marum,Groningen,VBO,6.263932,53.143594
+Cornelis de Grijshof,5,,,9363MA,Marum,Marum,Groningen,VBO,6.263655,53.143531
+Cornelis de Grijshof,7,,,9363MA,Marum,Marum,Groningen,VBO,6.263420,53.143450
+Cornelis de Grijshof,9,,,9363MA,Marum,Marum,Groningen,VBO,6.263220,53.143329
+Cornelis de Grijshof,11,,,9363MA,Marum,Marum,Groningen,VBO,6.263284,53.143166
+Cornelis de Grijshof,13,,,9363MA,Marum,Marum,Groningen,VBO,6.263324,53.143017
+Cornelis de Grijshof,15,,,9363MA,Marum,Marum,Groningen,VBO,6.263622,53.143053
+Cornelis de Grijshof,17,,,9363MA,Marum,Marum,Groningen,VBO,6.263814,53.143132
+Cornelis de Grijshof,19,,,9363MA,Marum,Marum,Groningen,VBO,6.264023,53.143213
+Cornelis de Grijshof,21,,,9363MA,Marum,Marum,Groningen,VBO,6.264199,53.143316
+Cornelis de Grijshof,23,,,9363MA,Marum,Marum,Groningen,VBO,6.264341,53.143426
 Noorderweg,9,,,9363TA,Marum,Marum,Groningen,VBO,6.273530,53.151404
 Noorderweg,13,,,9363TA,Marum,Marum,Groningen,VBO,6.272605,53.152162
 Noorderweg,15,,,9363TA,Marum,Marum,Groningen,VBO,6.272425,53.152895
@@ -2530,7 +2555,6 @@ Transportweg,22,,,9363TL,Marum,Marum,Groningen,VBO,6.265332,53.156254
 Transportweg,26,,,9363TL,Marum,Marum,Groningen,VBO,6.265847,53.156556
 De Bres,2,,,9363TM,Marum,Marum,Groningen,VBO,6.273604,53.150599
 De Bres,4,,,9363TM,Marum,Marum,Groningen,VBO,6.274682,53.150393
-De Factorij,1,,,9363TN,Marum,Marum,Groningen,VBO,6.275318,53.150828
 De Factorij,1,,,9363TN,Marum,Marum,Groningen,VBO,6.275632,53.150862
 De Factorij,3,,,9363TN,Marum,Marum,Groningen,VBO,6.275381,53.151300
 De Factorij,4,,,9363TN,Marum,Marum,Groningen,VBO,6.277169,53.150901
@@ -2726,14 +2750,27 @@ Verlengde Wilpsterweg,1,,,9363VV,Marum,Marum,Groningen,VBO,6.244760,53.143355
 Verlengde Wilpsterweg,3,,,9363VV,Marum,Marum,Groningen,VBO,6.244661,53.143607
 Haarsterree,1,,,9363VW,Marum,Marum,Groningen,VBO,6.237784,53.126780
 Wijmaheerd,2,,,9363VX,Marum,Marum,Groningen,VBO,6.247684,53.139185
+Wijmaheerd,6,,,9363VX,Marum,Marum,Groningen,VBO,6.247560,53.139362
+Wijmaheerd,7,,,9363VX,Marum,Marum,Groningen,VBO,6.248535,53.139368
 Wijmaheerd,8,,,9363VX,Marum,Marum,Groningen,VBO,6.247469,53.139532
+Wijmaheerd,9,,,9363VX,Marum,Marum,Groningen,VBO,6.248094,53.139285
 Wijmaheerd,10,,,9363VX,Marum,Marum,Groningen,VBO,6.247293,53.139996
 Wijmaheerd,16,,,9363VX,Marum,Marum,Groningen,VBO,6.247107,53.140438
+Wijmaheerd,17,,,9363VX,Marum,Marum,Groningen,VBO,6.247698,53.140067
 Wijmaheerd,24,,,9363VX,Marum,Marum,Groningen,VBO,6.247243,53.141058
+Wijmaheerd,25,,,9363VX,Marum,Marum,Groningen,VBO,6.247449,53.140562
 Wijmaheerd,27,,,9363VX,Marum,Marum,Groningen,VBO,6.247449,53.140848
+Wijmaheerd,29,,,9363VX,Marum,Marum,Groningen,VBO,6.247829,53.140861
 Wijmaheerd,31,,,9363VX,Marum,Marum,Groningen,VBO,6.247944,53.140635
+Wijmaheerd,32,,,9363VX,Marum,Marum,Groningen,VBO,6.248272,53.141189
+Wijmaheerd,34,,,9363VX,Marum,Marum,Groningen,VBO,6.248559,53.141256
+Wijmaheerd,36,,,9363VX,Marum,Marum,Groningen,VBO,6.248822,53.141303
 Wijmaheerd,39,,,9363VX,Marum,Marum,Groningen,VBO,6.248143,53.140158
 Wijmaheerd,46,,,9363VX,Marum,Marum,Groningen,VBO,6.248582,53.141034
+Wijmaheerd,48,,,9363VX,Marum,Marum,Groningen,VBO,6.248257,53.140985
+Wijmaheerd,50,,,9363VX,Marum,Marum,Groningen,VBO,6.248357,53.140703
+Wijmaheerd,52,,,9363VX,Marum,Marum,Groningen,VBO,6.248473,53.140472
+Wijmaheerd,54,,,9363VX,Marum,Marum,Groningen,VBO,6.248540,53.140235
 Houtwal,2,,,9363XA,Marum,Marum,Groningen,VBO,6.253236,53.141973
 Houtwal,4,,,9363XA,Marum,Marum,Groningen,VBO,6.254264,53.141187
 Houtwal,5,A,,9363XA,Marum,Marum,Groningen,VBO,6.255742,53.138738

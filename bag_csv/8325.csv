@@ -244,6 +244,7 @@ Bentstraat,23,,,8325AS,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949549,52.680
 Bentstraat,24,,,8325AS,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949461,52.679897
 Bentstraat,25,,,8325AS,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949324,52.680751
 Bentstraat,26,,,8325AS,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949475,52.679852
+Bentstraat,27,,,8325AS,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949605,52.680121
 Bentstraat,28,,,8325AS,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949490,52.679798
 Bentstraat,30,a,,8325AT,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949590,52.679600
 Bentstraat,30,,,8325AT,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949547,52.679681
@@ -298,6 +299,7 @@ Groenestraat,33,,,8325AX,Vollenhove,Steenwijkerland,Overijssel,VBO,5.953182,52.6
 Groenestraat,37,g,,8325AX,Vollenhove,Steenwijkerland,Overijssel,VBO,5.953316,52.680631
 Groenestraat,37,,,8325AX,Vollenhove,Steenwijkerland,Overijssel,VBO,5.953552,52.680641
 Groenestraat,39,,,8325AX,Vollenhove,Steenwijkerland,Overijssel,VBO,5.953730,52.680659
+Groenestraat,22,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.951062,52.680267
 Groenestraat,24,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.950536,52.679550
 Groenestraat,30,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.952143,52.680343
 Groenestraat,32,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.952277,52.680360
@@ -306,8 +308,6 @@ Groenestraat,38,a,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.955351,52.
 Groenestraat,38,b,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.955392,52.680553
 Groenestraat,38,c,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.955446,52.680553
 Groenestraat,38,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.955330,52.680524
-Groenestraat,40,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.955426,52.680524
-Groenestraat,42,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.955516,52.680524
 Groenestraat,46,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.956170,52.680460
 Groenestraat,48,,,8325AZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.956257,52.680458
 Bisschopstraat,1,a,,8325BA,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948127,52.680757
@@ -393,10 +393,15 @@ Heilige Geeststeeg,10,,,8325BG,Vollenhove,Steenwijkerland,Overijssel,VBO,5.95182
 Heilige Geeststeeg,12,,,8325BG,Vollenhove,Steenwijkerland,Overijssel,VBO,5.951383,52.682180
 Heilige Geeststeeg,14,,,8325BG,Vollenhove,Steenwijkerland,Overijssel,VBO,5.951325,52.682270
 Heilige Geeststeeg,16,,,8325BG,Vollenhove,Steenwijkerland,Overijssel,VBO,5.951297,52.682342
+Kerkstraat,1,a,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948692,52.681554
 Kerkstraat,1,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948668,52.681491
 Kerkstraat,7,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948854,52.681460
 Kerkstraat,9,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949008,52.681445
+Kerkstraat,11,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949309,52.681499
+Kerkstraat,13,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949390,52.681516
+Kerkstraat,15,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949331,52.681690
 Kerkstraat,17,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949438,52.681515
+Kerkstraat,17,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949489,52.681526
 Kerkstraat,19,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949541,52.681541
 Kerkstraat,21,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949615,52.681550
 Kerkstraat,23,,,8325BH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949734,52.681567
@@ -496,11 +501,15 @@ Kerkplein,13,,,8325BN,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948523,52.6816
 Kerkplein,14,,,8325BN,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948411,52.681441
 Kerkplein,15,,,8325BN,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948507,52.681600
 Gasthuisstraat,2,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949024,52.681526
+Gasthuisstraat,3,a,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949190,52.681768
+Gasthuisstraat,3,b,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949103,52.681828
+Gasthuisstraat,3,c,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949143,52.681834
 Gasthuisstraat,3,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949145,52.681759
 Gasthuisstraat,4,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948617,52.682130
-Gasthuisstraat,5,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949116,52.681831
+Gasthuisstraat,5,a,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949131,52.681917
+Gasthuisstraat,5,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949077,52.681910
 Gasthuisstraat,6,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948662,52.682147
-Gasthuisstraat,7,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949073,52.681903
+Gasthuisstraat,7,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949153,52.682041
 Gasthuisstraat,8,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948706,52.682156
 Gasthuisstraat,10,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948664,52.682309
 Gasthuisstraat,12,,,8325BP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948766,52.682174
@@ -706,6 +715,7 @@ weg van Rollecate,17,f,,8325CP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.96174
 weg van Rollecate,17,g,,8325CP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.961830,52.680850
 weg van Rollecate,17,h,,8325CP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.961919,52.680842
 weg van Rollecate,17,,,8325CP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.961666,52.680520
+weg van Rollecate,19,,,8325CP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.962131,52.680490
 weg van Rollecate,21,,,8325CP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964541,52.680786
 weg van Rollecate,23,,,8325CP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964926,52.680829
 weg van Rollecate,12,,,8325CR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.959727,52.680171
@@ -837,7 +847,6 @@ De Cartouwe,84,,,8325CZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963964,52.67
 De Cartouwe,86,,,8325CZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964053,52.679665
 De Cartouwe,88,,,8325CZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964157,52.679674
 De Cartouwe,90,,,8325CZ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964245,52.679673
-Industrieweg,1,,,8325DA,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964938,52.681755
 Industrieweg,3,,,8325DA,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964449,52.681694
 Industrieweg,5,,,8325DA,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963649,52.681542
 Industrieweg,7,a,,8325DA,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963621,52.681698
@@ -874,6 +883,7 @@ Schaarweg,1,a,,8325DC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.968946,52.6814
 Schaarweg,1,,,8325DC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.969027,52.681187
 Schaarweg,2,,,8325DC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.970051,52.680860
 Schaarweg,3,,,8325DC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.969744,52.681741
+Schaarweg,4,,,8325DC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.970795,52.680971
 De Kampen,1,a,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.968712,52.680372
 De Kampen,1,,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.968222,52.680612
 De Kampen,3,,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.969138,52.680055
@@ -885,7 +895,7 @@ De Kampen,13,,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.970872,52.6803
 De Kampen,15,,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.971264,52.680356
 De Kampen,17,,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.971516,52.680429
 De Kampen,19,,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.971892,52.680492
-De Kampen,23,,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.971427,52.681093
+De Kampen,23,,,8325DD,Vollenhove,Steenwijkerland,Overijssel,VBO,5.971471,52.681112
 De Kampen,4,,,8325DE,Vollenhove,Steenwijkerland,Overijssel,VBO,5.969262,52.679710
 De Kampen,6,,,8325DE,Vollenhove,Steenwijkerland,Overijssel,VBO,5.969811,52.679826
 De Kampen,8,,,8325DE,Vollenhove,Steenwijkerland,Overijssel,VBO,5.970483,52.679906
@@ -1061,6 +1071,17 @@ De Weijert,26,,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.962227,52.682
 De Weijert,28,a,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963075,52.682461
 De Weijert,28,,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.962584,52.682692
 De Weijert,30,a,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963830,52.682605
+De Weijert,30,b,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963422,52.682421
+De Weijert,30,c,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963430,52.682339
+De Weijert,30,d,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963446,52.682229
+De Weijert,30,e,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963566,52.682216
+De Weijert,30,f,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963695,52.682220
+De Weijert,30,g,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963833,52.682232
+De Weijert,30,h,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.963971,52.682244
+De Weijert,30,j,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964115,52.682243
+De Weijert,30,k,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964261,52.682253
+De Weijert,30,L,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964411,52.682259
+De Weijert,30,m,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964569,52.682260
 De Weijert,30,,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964316,52.682765
 De Weijert,32,,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.964794,52.682025
 De Weijert,38,,,8325EM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965051,52.681359
@@ -1593,14 +1614,14 @@ Schuit,33,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948388,52.677116
 Schuit,35,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948215,52.677075
 Schuit,37,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948127,52.677055
 Schuit,39,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948037,52.677041
-Schuit,41,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947689,52.677009
-Schuit,43,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947613,52.677004
-Schuit,45,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947530,52.676990
-Schuit,47,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947438,52.676974
-Schuit,49,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947265,52.676942
-Schuit,51,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947189,52.676925
-Schuit,53,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947112,52.676909
-Schuit,55,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947031,52.676890
+Schuit,41,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947616,52.676993
+Schuit,43,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947546,52.676976
+Schuit,45,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947463,52.676962
+Schuit,47,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947388,52.676946
+Schuit,49,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947238,52.676913
+Schuit,51,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947158,52.676898
+Schuit,53,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947083,52.676883
+Schuit,55,,,8325HH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947011,52.676867
 Meester Kroezestraat,1,g,1,8325HJ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.958990,52.679364
 Meester Kroezestraat,1,g,2,8325HJ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.958994,52.679333
 Meester Kroezestraat,1,g,3,8325HJ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.958997,52.679302
@@ -1639,15 +1660,16 @@ Schuit,2,,,8325HK,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949955,52.677765
 Schuit,4,,,8325HK,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949685,52.677755
 Schuit,10,,,8325HK,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948163,52.677385
 Schuit,12,,,8325HK,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947871,52.677339
-Roer,1,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949532,52.677110
+Roer,1,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949668,52.676923
 Roer,2,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.950016,52.677040
-Roer,3,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949581,52.677041
+Roer,3,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949642,52.676984
 Roer,4,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949993,52.677087
-Roer,5,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949624,52.676978
-Roer,7,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949670,52.676907
+Roer,5,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949599,52.677048
+Roer,7,,,8325HL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949564,52.677114
 Bons,4,,,8325HM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.950446,52.677008
 Bons,6,,,8325HM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.950189,52.676780
 Bons,8,,,8325HM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949794,52.676673
+Bons,18,,,8325HM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948415,52.676414
 Reling,1,,,8325HN,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948660,52.676947
 Reling,2,,,8325HN,Vollenhove,Steenwijkerland,Overijssel,VBO,5.949048,52.677027
 Reling,3,,,8325HN,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948689,52.676901
@@ -1677,10 +1699,14 @@ Kade,49,,,8325HP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947837,52.676590
 Kade,50,,,8325HP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.948182,52.676859
 Kade,51,,,8325HP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947883,52.676679
 Kade,53,,,8325HP,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947855,52.676733
+Schouw,2,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.946059,52.677890
+Schouw,12,a,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.946269,52.677064
 Schouw,12,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.946507,52.677069
 Schouw,13,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947134,52.676639
+Schouw,14,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.946663,52.676799
 Schouw,15,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947161,52.676576
 Schouw,17,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947252,52.676440
+Schouw,18,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.946862,52.676423
 Schouw,19,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.947290,52.676379
 Schouw,20,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.946958,52.676242
 Schouw,22,,,8325HR,Vollenhove,Steenwijkerland,Overijssel,VBO,5.946969,52.676055
@@ -1930,7 +1956,6 @@ Moespot,8,,,8325PC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965524,52.685814
 Moespot,10,a,,8325PC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965556,52.685976
 Moespot,10,,,8325PC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965540,52.685904
 Moespot,12,,,8325PC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965870,52.686226
-Moespot,14,,,8325PC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965501,52.686336
 Moespot,14,,,8325PC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965890,52.686375
 Moespot,18,,,8325PC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965536,52.686695
 Moespot,20,,,8325PC,Vollenhove,Steenwijkerland,Overijssel,VBO,5.965464,52.686866
@@ -1989,6 +2014,7 @@ Oppen Swolle,60,a,,8325PH,Vollenhove,Steenwijkerland,Overijssel,VBO,6.008604,52.
 Oppen Swolle,60,w,,8325PH,Vollenhove,Steenwijkerland,Overijssel,VBO,5.985019,52.658241
 Oppen Swolle,60,,,8325PH,Vollenhove,Steenwijkerland,Overijssel,VBO,6.008111,52.655640
 Oppen Swolle,62,,,8325PH,Vollenhove,Steenwijkerland,Overijssel,VBO,6.014686,52.649778
+Drostenbos,1,,,8325PJ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.971965,52.678174
 Drostenbos,1,,,8325PJ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.971988,52.678153
 Drostenbos,2,,,8325PJ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.972090,52.678035
 Drostenbos,3,,,8325PJ,Vollenhove,Steenwijkerland,Overijssel,VBO,5.972439,52.677584
@@ -1999,8 +2025,7 @@ Wendeler Bentweg,1,,,8325PL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.974774,5
 Wendeler Bentweg,2,,,8325PL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.974139,52.669829
 Wendeler Bentweg,3,,,8325PL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.973377,52.668107
 Wendeler Bentweg,4,,,8325PL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.969989,52.667854
-Wendeler Bentweg,5,,,8325PL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.972524,52.668408
-Wendeler Bentweg,5,,,8325PL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.972656,52.668503
+Wendeler Bentweg,5,,,8325PL,Vollenhove,Steenwijkerland,Overijssel,VBO,5.972559,52.668440
 Wendelerweg,4,,,8325PM,Vollenhove,Steenwijkerland,Overijssel,VBO,5.978677,52.664243
 Oppen Swolle,2,,,8325PN,Vollenhove,Steenwijkerland,Overijssel,VBO,5.966181,52.679565
 Oppen Swolle,4,a,,8325PN,Vollenhove,Steenwijkerland,Overijssel,VBO,5.969627,52.677346

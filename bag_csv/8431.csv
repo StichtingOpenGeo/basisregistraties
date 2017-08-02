@@ -1629,7 +1629,6 @@ Moskampweg,5,,,8431GB,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295575,52.989
 Moskampweg,6,,,8431GB,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.294566,52.990244
 Moskampweg,7,,,8431GB,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295511,52.989658
 Moskampweg,8,,,8431GB,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.294404,52.990155
-Moskampweg,9,,,8431GB,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295412,52.989284
 Moskampweg,10,,,8431GB,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.294323,52.990030
 Moskampweg,11,,,8431GB,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.296448,52.989185
 Moskampweg,12,,,8431GB,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.294298,52.989968
@@ -2200,6 +2199,7 @@ Groote Singel,4,,,8431HT,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295697,52.
 Groote Singel,6,,,8431HT,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295635,52.992213
 Groote Singel,8,,,8431HT,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295618,52.992163
 Groote Singel,10,,,8431HT,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295550,52.991981
+Groote Singel,14,,,8431HT,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295312,52.991641
 Groote Singel,7,,,8431HV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295972,52.991699
 Groote Singel,13,,,8431HV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295935,52.991449
 Groote Singel,15,,,8431HV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.295837,52.991315
@@ -2831,10 +2831,6 @@ Poorthof,16,,,8431KT,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.299248,52.9951
 Poorthof,17,,,8431KT,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.299138,52.995274
 Poorthof,18,,,8431KT,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.299123,52.995339
 Tussen de Hoven,1,,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.298216,52.993873
-Tussen de Hoven,2,A,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297015,52.993597
-Tussen de Hoven,2,B,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297097,52.993600
-Tussen de Hoven,2,C,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297269,52.993608
-Tussen de Hoven,2,D,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297350,52.993611
 Tussen de Hoven,3,,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.298310,52.993881
 Tussen de Hoven,5,,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.298419,52.993880
 Tussen de Hoven,7,,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.298608,52.993886
@@ -2846,6 +2842,10 @@ Tussen de Hoven,17,,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.299183,
 Tussen de Hoven,19,,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.299284,52.993917
 Tussen de Hoven,25,,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.299477,52.993929
 Tussen de Hoven,27,,,8431KV,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.299696,52.993946
+Tussen de Hoven,2,A,,8431KW,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297015,52.993597
+Tussen de Hoven,2,B,,8431KW,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297097,52.993600
+Tussen de Hoven,2,C,,8431KW,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297269,52.993608
+Tussen de Hoven,2,D,,8431KW,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297350,52.993611
 Tussen de Hoven,2,,,8431KW,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297542,52.993640
 Tussen de Hoven,4,,,8431KW,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297639,52.993645
 Tussen de Hoven,6,,,8431KW,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.297872,52.993653
@@ -3739,6 +3739,14 @@ Oostenburg,47,,,8431NL,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.296349,52.99
 Oostenburg,48,,,8431NL,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.296277,52.994520
 Oostenburg,49,,,8431NL,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.296208,52.994475
 Esgang,4,,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304893,52.979494
+Esgang,5,A,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304567,52.979892
+Esgang,5,B,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304560,52.979939
+Esgang,5,C,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304550,52.979991
+Esgang,5,D,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304540,52.980046
+Esgang,5,E,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304674,52.980055
+Esgang,5,F,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304685,52.980001
+Esgang,5,G,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304695,52.979947
+Esgang,5,H,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.304703,52.979902
 Esgang,6,,,8431NM,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.306519,52.981297
 Sleeweg,1,,,8431NN,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.301971,52.978788
 Sleeweg,7,,,8431NN,Oosterwolde,Ooststellingwerf,Friesland,VBO,6.300403,52.977203

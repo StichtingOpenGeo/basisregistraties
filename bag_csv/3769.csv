@@ -1,7 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Banningstraat,3,A,,3769AA,Soesterberg,Soest,Utrecht,VBO,5.286871,52.122119
 Banningstraat,3,B,,3769AA,Soesterberg,Soest,Utrecht,VBO,5.286383,52.122889
-Banningstraat,3,C,,3769AA,Soesterberg,Soest,Utrecht,VBO,5.286644,52.122328
 Banningstraat,3,,,3769AA,Soesterberg,Soest,Utrecht,VBO,5.286176,52.121797
 Banningstraat,5,,,3769AA,Soesterberg,Soest,Utrecht,VBO,5.287936,52.122106
 Banningstraat,7,,,3769AA,Soesterberg,Soest,Utrecht,VBO,5.288316,52.122126
@@ -144,9 +143,12 @@ Amersfoortsestraat,135,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.329592,52.134843
 Amersfoortsestraat,137,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330051,52.134963
 Amersfoortsestraat,139,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330144,52.134882
 Amersfoortsestraat,141,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330195,52.134931
+Amersfoortsestraat,143,A,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330659,52.135075
+Amersfoortsestraat,143,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330426,52.135190
 Amersfoortsestraat,143,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330578,52.135160
 Amersfoortsestraat,145,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330578,52.134764
-Amersfoortsestraat,149,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330871,52.134531
+Amersfoortsestraat,147,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330776,52.134668
+Amersfoortsestraat,149,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330888,52.134543
 Amersfoortsestraat,151,,,3769AJ,Soesterberg,Soest,Utrecht,VBO,5.330957,52.134392
 Amersfoortsestraat,22,B,,3769AK,Soesterberg,Soest,Utrecht,VBO,5.301834,52.125024
 Amersfoortsestraat,22,,,3769AK,Soesterberg,Soest,Utrecht,VBO,5.301436,52.124999
@@ -224,17 +226,37 @@ Amersfoortsestraat,126,B,07,3769AN,Soesterberg,Soest,Utrecht,VBO,5.331263,52.131
 Amersfoortsestraat,126,B,08,3769AN,Soesterberg,Soest,Utrecht,VBO,5.331162,52.131609
 Amersfoortsestraat,126,B,09,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330825,52.131481
 Amersfoortsestraat,126,B,10,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330727,52.131449
-Amersfoortsestraat,126,B,31,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330260,52.131294
-Amersfoortsestraat,126,B,32,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329247,52.131149
-Amersfoortsestraat,126,B,35,3769AN,Soesterberg,Soest,Utrecht,VBO,5.328785,52.131671
-Amersfoortsestraat,126,B,36,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329612,52.131626
-Amersfoortsestraat,126,B,37,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330658,52.131830
-Amersfoortsestraat,126,B,38,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330725,52.131843
-Amersfoortsestraat,126,B,39,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330815,52.131863
-Amersfoortsestraat,126,B,40,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330881,52.131879
+Amersfoortsestraat,126,B,11,3769AN,Soesterberg,Soest,Utrecht,VBO,5.331195,52.132276
+Amersfoortsestraat,126,B,12,3769AN,Soesterberg,Soest,Utrecht,VBO,5.331432,52.132394
+Amersfoortsestraat,126,B,13,3769AN,Soesterberg,Soest,Utrecht,VBO,5.331728,52.132476
+Amersfoortsestraat,126,B,14,3769AN,Soesterberg,Soest,Utrecht,VBO,5.331954,52.132536
+Amersfoortsestraat,126,B,15,3769AN,Soesterberg,Soest,Utrecht,VBO,5.332299,52.132629
+Amersfoortsestraat,126,B,16,3769AN,Soesterberg,Soest,Utrecht,VBO,5.332216,52.132354
+Amersfoortsestraat,126,B,17,3769AN,Soesterberg,Soest,Utrecht,VBO,5.332286,52.132242
+Amersfoortsestraat,126,B,18,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330916,52.131911
+Amersfoortsestraat,126,B,18A,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330815,52.131863
+Amersfoortsestraat,126,B,19,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330725,52.131843
+Amersfoortsestraat,126,B,20,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330658,52.131830
+Amersfoortsestraat,126,B,21,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330260,52.131294
+Amersfoortsestraat,126,B,22,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329703,52.131387
+Amersfoortsestraat,126,B,22A,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329562,52.131282
+Amersfoortsestraat,126,B,23,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329783,52.131272
+Amersfoortsestraat,126,B,23A,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329653,52.131170
+Amersfoortsestraat,126,B,24,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329859,52.131160
+Amersfoortsestraat,126,B,25,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329247,52.131149
+Amersfoortsestraat,126,B,26,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329117,52.131288
+Amersfoortsestraat,126,B,27,3769AN,Soesterberg,Soest,Utrecht,VBO,5.328785,52.131671
+Amersfoortsestraat,126,B,28,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329071,52.131692
+Amersfoortsestraat,126,B,29,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329297,52.131707
+Amersfoortsestraat,126,B,30,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329534,52.131754
+Amersfoortsestraat,126,B,31,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329612,52.131626
+Amersfoortsestraat,126,B,32,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329469,52.131457
+Amersfoortsestraat,126,B,33,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329322,52.131363
+Amersfoortsestraat,126,B,34,3769AN,Soesterberg,Soest,Utrecht,VBO,5.328842,52.131491
+Amersfoortsestraat,126,B,35,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329031,52.131134
+Amersfoortsestraat,126,B,36,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329175,52.130970
+Amersfoortsestraat,126,B,37,3769AN,Soesterberg,Soest,Utrecht,VBO,5.329418,52.131037
 Amersfoortsestraat,126,B,41,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330792,52.131977
-Amersfoortsestraat,126,B,42,3769AN,Soesterberg,Soest,Utrecht,VBO,5.331432,52.132394
-Amersfoortsestraat,126,B,43,3769AN,Soesterberg,Soest,Utrecht,VBO,5.332299,52.132629
 Amersfoortsestraat,126,B,,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330709,52.131960
 Amersfoortsestraat,126,C,1,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330154,52.132451
 Amersfoortsestraat,126,C,,3769AN,Soesterberg,Soest,Utrecht,VBO,5.330295,52.132440
@@ -363,7 +385,6 @@ Het Zeisterspoor,19,,19,3769AP,Soesterberg,Soest,Utrecht,VBO,5.316195,52.128983
 Het Zeisterspoor,19,,20,3769AP,Soesterberg,Soest,Utrecht,VBO,5.316678,52.128568
 Het Zeisterspoor,19,,21,3769AP,Soesterberg,Soest,Utrecht,VBO,5.316997,52.129259
 Het Zeisterspoor,19,,22,3769AP,Soesterberg,Soest,Utrecht,VBO,5.317735,52.128351
-Het Zeisterspoor,19,,26,3769AP,Soesterberg,Soest,Utrecht,VBO,5.322413,52.128648
 Het Zeisterspoor,19,,,3769AP,Soesterberg,Soest,Utrecht,VBO,5.318017,52.126482
 Het Zeisterspoor,31,,,3769AP,Soesterberg,Soest,Utrecht,VBO,5.326260,52.128887
 Amersfoortsestraat,18,,,3769AR,Soesterberg,Soest,Utrecht,VBO,5.296519,52.123389
@@ -390,7 +411,9 @@ Centurionbaan,42,C,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.308162,52.119342
 Centurionbaan,42,D,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.308231,52.119386
 Centurionbaan,42,E,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.308285,52.119434
 Centurionbaan,42,,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.307984,52.119204
-Centurionbaan,90,,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.310051,52.118322
+Centurionbaan,90,A,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.309963,52.118591
+Centurionbaan,90,,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.309994,52.118350
+Centurionbaan,100,,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.311016,52.117889
 Centurionbaan,190,,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.307315,52.118759
 Centurionbaan,210,,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.305350,52.117661
 Centurionbaan,220,,,3769AV,Soesterberg,Soest,Utrecht,VBO,5.305501,52.118796
@@ -401,14 +424,7 @@ Richelleweg,1,,,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.302219,52.124328
 Richelleweg,3,,01,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.305075,52.116276
 Richelleweg,3,,,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.302514,52.123605
 Richelleweg,5,,,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299414,52.113202
-Richelleweg,13,A,01,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299242,52.111867
-Richelleweg,13,A,02,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299041,52.111968
-Richelleweg,13,A,03,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.298854,52.112119
-Richelleweg,13,A,04,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299023,52.112238
-Richelleweg,13,A,05,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299214,52.112333
-Richelleweg,13,A,06,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299464,52.112337
 Richelleweg,13,A,07,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299785,52.112181
-Richelleweg,13,A,08,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299600,52.111980
 Richelleweg,13,A,,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.299934,52.111795
 Richelleweg,13,,,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.301350,52.111875
 Richelleweg,15,,,3769AZ,Soesterberg,Soest,Utrecht,VBO,5.298869,52.113095
@@ -619,7 +635,6 @@ Veldm Montgomeryweg,61,,,3769BH,Soesterberg,Soest,Utrecht,VBO,5.282605,52.124527
 Veldm Montgomeryweg,63,,,3769BH,Soesterberg,Soest,Utrecht,VBO,5.282509,52.124666
 Veldm Montgomeryweg,65,,,3769BH,Soesterberg,Soest,Utrecht,VBO,5.282386,52.124840
 Veldm Montgomeryweg,67,,01,3769BH,Soesterberg,Soest,Utrecht,VBO,5.281952,52.125102
-Veldm Montgomeryweg,67,,,3769BH,Soesterberg,Soest,Utrecht,VBO,5.282206,52.125014
 Veldm Montgomeryweg,2,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.285396,52.121692
 Veldm Montgomeryweg,12,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.284873,52.122455
 Veldm Montgomeryweg,14,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.284772,52.122428
@@ -633,7 +648,10 @@ Veldm Montgomeryweg,38,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283909,52.123566
 Veldm Montgomeryweg,40,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283835,52.123825
 Veldm Montgomeryweg,42,A,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283613,52.123988
 Veldm Montgomeryweg,42,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283660,52.123939
+Veldm Montgomeryweg,44,A,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283518,52.124192
+Veldm Montgomeryweg,44,,01,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283649,52.124294
 Veldm Montgomeryweg,44,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283496,52.124176
+Veldm Montgomeryweg,44,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283574,52.124115
 Veldm Montgomeryweg,46,,,3769BJ,Soesterberg,Soest,Utrecht,VBO,5.283350,52.124356
 Koppenlaan,1,A,,3769BK,Soesterberg,Soest,Utrecht,VBO,5.283612,52.122163
 Koppenlaan,1,,,3769BK,Soesterberg,Soest,Utrecht,VBO,5.283717,52.122187
@@ -834,6 +852,7 @@ Sterrenbergweg,35,,01,3769BS,Soesterberg,Soest,Utrecht,VBO,5.277122,52.123689
 Sterrenbergweg,35,,,3769BS,Soesterberg,Soest,Utrecht,VBO,5.277240,52.123179
 Sterrenbergweg,28,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.279076,52.121763
 Sterrenbergweg,30,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.278867,52.121947
+Sterrenbergweg,32,A,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.279343,52.122166
 Sterrenbergweg,32,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.278793,52.122052
 Sterrenbergweg,34,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.278753,52.122100
 Sterrenbergweg,36,A,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.278576,52.122347
@@ -847,6 +866,7 @@ Sterrenbergweg,40,A,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.277945,52.123194
 Sterrenbergweg,40,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.278405,52.123027
 Sterrenbergweg,42,A,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.278296,52.123401
 Sterrenbergweg,42,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.277822,52.123349
+Sterrenbergweg,44,A,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.278170,52.123722
 Sterrenbergweg,44,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.277819,52.123568
 Sterrenbergweg,46,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.277750,52.123888
 Sterrenbergweg,50,,,3769BT,Soesterberg,Soest,Utrecht,VBO,5.277206,52.124419
@@ -864,12 +884,12 @@ Postweg,41,,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280531,52.123232
 Postweg,43,,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280428,52.123383
 Postweg,47,,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280294,52.123581
 Postweg,49,,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280258,52.123636
-Postweg,51,A,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280180,52.123740
-Postweg,51,,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280143,52.123793
+Postweg,51,,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280232,52.123786
 Postweg,53,A,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.279551,52.123905
 Postweg,53,B,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.279703,52.123944
 Postweg,53,C,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.279864,52.123988
 Postweg,53,D,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280011,52.124020
+Postweg,53,E,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.280077,52.124035
 Postweg,53,,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.279363,52.123819
 Postweg,55,A,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.279487,52.124015
 Postweg,55,B,,3769BV,Soesterberg,Soest,Utrecht,VBO,5.279639,52.124051
@@ -914,9 +934,9 @@ Postweg,62,,,3769BX,Soesterberg,Soest,Utrecht,VBO,5.280531,52.124194
 Postdwarsweg,2,A,,3769BZ,Soesterberg,Soest,Utrecht,VBO,5.281031,52.124414
 Postdwarsweg,2,,,3769BZ,Soesterberg,Soest,Utrecht,VBO,5.281644,52.124298
 Schooldwarsweg,2,,,3769CA,Soesterberg,Soest,Utrecht,VBO,5.279519,52.124354
-Batenburgweg,1,,,3769CB,Soesterberg,Soest,Utrecht,VBO,5.281563,52.124880
+Batenburgweg,1,,,3769CB,Soesterberg,Soest,Utrecht,VBO,5.281660,52.124869
 Batenburgweg,3,,,3769CB,Soesterberg,Soest,Utrecht,VBO,5.281141,52.125145
-Batenburgweg,5,,,3769CB,Soesterberg,Soest,Utrecht,VBO,5.280549,52.125234
+Batenburgweg,5,,,3769CB,Soesterberg,Soest,Utrecht,VBO,5.280523,52.125227
 Batenburgweg,7,,,3769CB,Soesterberg,Soest,Utrecht,VBO,5.278531,52.124892
 Batenburgweg,9,,,3769CB,Soesterberg,Soest,Utrecht,VBO,5.277706,52.124726
 Batenburgweg,15,,01,3769CB,Soesterberg,Soest,Utrecht,VBO,5.276236,52.123799
@@ -966,7 +986,8 @@ Huis ten Halve,23,,,3769CD,Soesterberg,Soest,Utrecht,VBO,5.280778,52.120059
 Huis ten Halve,24,,,3769CD,Soesterberg,Soest,Utrecht,VBO,5.280698,52.120038
 Huis ten Halve,25,,,3769CD,Soesterberg,Soest,Utrecht,VBO,5.280617,52.120016
 Huis ten Halve,26,,,3769CD,Soesterberg,Soest,Utrecht,VBO,5.280537,52.119994
-Stemerdingweg,1,,,3769CE,Soesterberg,Soest,Utrecht,VBO,5.277431,52.120560
+Stemerdingweg,1,A,,3769CE,Soesterberg,Soest,Utrecht,VBO,5.277522,52.120587
+Stemerdingweg,1,,,3769CE,Soesterberg,Soest,Utrecht,VBO,5.277319,52.120541
 Stemerdingweg,3,,,3769CE,Soesterberg,Soest,Utrecht,VBO,5.276663,52.120754
 Stemerdingweg,5,A,,3769CE,Soesterberg,Soest,Utrecht,VBO,5.276949,52.121107
 Stemerdingweg,5,B,,3769CE,Soesterberg,Soest,Utrecht,VBO,5.276798,52.121068
@@ -1074,6 +1095,8 @@ Kampweg,22,,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286284,52.119206
 Kampweg,24,,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286318,52.119154
 Kampweg,26,,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286361,52.119103
 Kampweg,28,,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286409,52.119049
+Kampweg,30,A,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286458,52.118844
+Kampweg,30,,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286356,52.118896
 Kampweg,32,,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286506,52.118649
 Kampweg,34,,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286562,52.118596
 Kampweg,36,,,3769DG,Soesterberg,Soest,Utrecht,VBO,5.286717,52.118429
@@ -1752,10 +1775,6 @@ Buys Ballotlaan,41,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.282367,52.115265
 Buys Ballotlaan,43,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.282285,52.115244
 Buys Ballotlaan,45,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.282206,52.115223
 Buys Ballotlaan,47,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.282122,52.115202
-Buys Ballotlaan,49,,01,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281753,52.115081
-Buys Ballotlaan,49,,03,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281771,52.115038
-Buys Ballotlaan,49,,04,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281781,52.115018
-Buys Ballotlaan,49,,05,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281785,52.115001
 Buys Ballotlaan,49,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281692,52.115073
 Buys Ballotlaan,51,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281633,52.115073
 Buys Ballotlaan,53,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281569,52.115071
@@ -1764,9 +1783,6 @@ Buys Ballotlaan,57,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281441,52.115065
 Buys Ballotlaan,59,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281378,52.115064
 Buys Ballotlaan,61,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281325,52.115063
 Buys Ballotlaan,63,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281262,52.115045
-Buys Ballotlaan,65,,01,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281148,52.115107
-Buys Ballotlaan,65,,02,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281135,52.115127
-Buys Ballotlaan,65,,03,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281126,52.115144
 Buys Ballotlaan,65,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.281187,52.115040
 Buys Ballotlaan,67,,,3769GL,Soesterberg,Soest,Utrecht,VBO,5.280813,52.115064
 Buys Ballotlaan,6,,,3769GM,Soesterberg,Soest,Utrecht,VBO,5.283515,52.115936
@@ -1907,11 +1923,8 @@ Plesmanstraat,203,,,3769HE,Soesterberg,Soest,Utrecht,VBO,5.285357,52.114803
 Plesmanstraat,205,,,3769HE,Soesterberg,Soest,Utrecht,VBO,5.285386,52.114755
 Plesmanstraat,207,,,3769HE,Soesterberg,Soest,Utrecht,VBO,5.285418,52.114711
 Plesmanstraat,221,,01,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285919,52.114236
-Plesmanstraat,221,,02,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285924,52.114216
 Plesmanstraat,221,,03,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285937,52.114116
-Plesmanstraat,221,,04,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285937,52.114100
 Plesmanstraat,221,,05,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285946,52.113976
-Plesmanstraat,221,,06,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285946,52.113953
 Plesmanstraat,221,,,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285919,52.114250
 Plesmanstraat,223,,,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285924,52.114196
 Plesmanstraat,225,,,3769HG,Soesterberg,Soest,Utrecht,VBO,5.285963,52.114252
@@ -1931,13 +1944,9 @@ Plesmanstraat,251,,,3769HH,Soesterberg,Soest,Utrecht,VBO,5.285991,52.113879
 Plesmanstraat,253,,,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286030,52.113934
 Plesmanstraat,255,,,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286035,52.113881
 Plesmanstraat,257,,01,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286173,52.113801
-Plesmanstraat,257,,02,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286180,52.113760
 Plesmanstraat,257,,03,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286193,52.113638
-Plesmanstraat,257,,04,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286198,52.113621
 Plesmanstraat,257,,05,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286205,52.113516
-Plesmanstraat,257,,06,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286213,52.113475
 Plesmanstraat,257,,07,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286226,52.113379
-Plesmanstraat,257,,08,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286226,52.113358
 Plesmanstraat,257,,,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286175,52.113788
 Plesmanstraat,259,,,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286181,52.113734
 Plesmanstraat,261,,,3769HH,Soesterberg,Soest,Utrecht,VBO,5.286206,52.113771
@@ -1971,11 +1980,8 @@ Plesmanstraat,315,,,3769HJ,Soesterberg,Soest,Utrecht,VBO,5.286287,52.113290
 Plesmanstraat,317,,,3769HJ,Soesterberg,Soest,Utrecht,VBO,5.286313,52.113327
 Plesmanstraat,319,,,3769HJ,Soesterberg,Soest,Utrecht,VBO,5.286318,52.113273
 Plesmanstraat,321,,01,3769HK,Soesterberg,Soest,Utrecht,VBO,5.285437,52.113085
-Plesmanstraat,321,,02,3769HK,Soesterberg,Soest,Utrecht,VBO,5.285433,52.113105
 Plesmanstraat,321,,03,3769HK,Soesterberg,Soest,Utrecht,VBO,5.285206,52.113078
-Plesmanstraat,321,,04,3769HK,Soesterberg,Soest,Utrecht,VBO,5.285203,52.113106
 Plesmanstraat,321,,05,3769HK,Soesterberg,Soest,Utrecht,VBO,5.284967,52.113056
-Plesmanstraat,321,,06,3769HK,Soesterberg,Soest,Utrecht,VBO,5.284962,52.113084
 Plesmanstraat,321,,,3769HK,Soesterberg,Soest,Utrecht,VBO,5.285594,52.113066
 Plesmanstraat,323,,,3769HK,Soesterberg,Soest,Utrecht,VBO,5.285506,52.113063
 Plesmanstraat,325,,,3769HK,Soesterberg,Soest,Utrecht,VBO,5.285591,52.113093
@@ -2111,7 +2117,8 @@ Oude Tempellaan,27,,,3769JA,Soesterberg,Soest,Utrecht,VBO,5.295421,52.116169
 Oude Tempellaan,29,,,3769JA,Soesterberg,Soest,Utrecht,VBO,5.295501,52.116063
 Oude Tempellaan,31,,,3769JA,Soesterberg,Soest,Utrecht,VBO,5.295459,52.115929
 Oude Tempellaan,33,,,3769JA,Soesterberg,Soest,Utrecht,VBO,5.295530,52.115822
-Oude Tempellaan,2,,,3769JB,Soesterberg,Soest,Utrecht,VBO,5.290549,52.121895
+Oude Tempellaan,2,A,,3769JB,Soesterberg,Soest,Utrecht,VBO,5.290549,52.121895
+Oude Tempellaan,4,A,,3769JB,Soesterberg,Soest,Utrecht,VBO,5.290712,52.121528
 Oude Tempellaan,4,,,3769JB,Soesterberg,Soest,Utrecht,VBO,5.290720,52.121705
 Oude Tempellaan,6,A,,3769JB,Soesterberg,Soest,Utrecht,VBO,5.291223,52.120669
 Oude Tempellaan,6,,,3769JB,Soesterberg,Soest,Utrecht,VBO,5.290956,52.121099
@@ -3122,13 +3129,9 @@ Simon Stevinlaan,43,,,3769VE,Soesterberg,Soest,Utrecht,VBO,5.285221,52.113524
 Simon Stevinlaan,45,,,3769VE,Soesterberg,Soest,Utrecht,VBO,5.285260,52.113579
 Simon Stevinlaan,47,,,3769VE,Soesterberg,Soest,Utrecht,VBO,5.285265,52.113526
 Simon Stevinlaan,49,,01,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283546,52.113635
-Simon Stevinlaan,49,,02,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283546,52.113618
 Simon Stevinlaan,49,,03,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283555,52.113530
-Simon Stevinlaan,49,,04,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283555,52.113512
 Simon Stevinlaan,49,,05,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283569,52.113386
-Simon Stevinlaan,49,,06,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283569,52.113359
 Simon Stevinlaan,49,,07,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283580,52.113246
-Simon Stevinlaan,49,,08,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283580,52.113219
 Simon Stevinlaan,49,,,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283543,52.113652
 Simon Stevinlaan,51,,,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283549,52.113598
 Simon Stevinlaan,53,,,3769VG,Soesterberg,Soest,Utrecht,VBO,5.283587,52.113653
@@ -3225,33 +3228,19 @@ Antonie van Leeuwenhoeklaan,7,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.281054,52
 Antonie van Leeuwenhoeklaan,9,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280958,52.117355
 Antonie van Leeuwenhoeklaan,11,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280859,52.117332
 Antonie van Leeuwenhoeklaan,13,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280764,52.117309
-Antonie van Leeuwenhoeklaan,15,,01,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279473,52.116742
-Antonie van Leeuwenhoeklaan,15,,02,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279512,52.116726
-Antonie van Leeuwenhoeklaan,15,,03,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279527,52.116705
 Antonie van Leeuwenhoeklaan,15,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279581,52.116662
 Antonie van Leeuwenhoeklaan,17,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279668,52.116665
 Antonie van Leeuwenhoeklaan,19,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279756,52.116669
 Antonie van Leeuwenhoeklaan,21,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279843,52.116672
 Antonie van Leeuwenhoeklaan,23,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279930,52.116675
 Antonie van Leeuwenhoeklaan,25,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280018,52.116679
-Antonie van Leeuwenhoeklaan,27,,01,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280167,52.116698
-Antonie van Leeuwenhoeklaan,27,,02,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280167,52.116672
-Antonie van Leeuwenhoeklaan,27,,03,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280178,52.116655
-Antonie van Leeuwenhoeklaan,27,,04,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280188,52.116639
 Antonie van Leeuwenhoeklaan,27,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280095,52.116683
-Antonie van Leeuwenhoeklaan,29,,01,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279669,52.116444
-Antonie van Leeuwenhoeklaan,29,,02,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279712,52.116420
-Antonie van Leeuwenhoeklaan,29,,03,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279718,52.116403
 Antonie van Leeuwenhoeklaan,29,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279766,52.116358
 Antonie van Leeuwenhoeklaan,31,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279853,52.116362
 Antonie van Leeuwenhoeklaan,33,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.279941,52.116365
 Antonie van Leeuwenhoeklaan,35,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280028,52.116369
 Antonie van Leeuwenhoeklaan,37,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280116,52.116372
 Antonie van Leeuwenhoeklaan,39,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280203,52.116375
-Antonie van Leeuwenhoeklaan,41,,01,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280368,52.116400
-Antonie van Leeuwenhoeklaan,41,,02,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280381,52.116376
-Antonie van Leeuwenhoeklaan,41,,03,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280391,52.116357
-Antonie van Leeuwenhoeklaan,41,,04,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280404,52.116335
 Antonie van Leeuwenhoeklaan,41,,,3769XA,Soesterberg,Soest,Utrecht,VBO,5.280290,52.116379
 Antonie van Leeuwenhoeklaan,43,,01,3769XB,Soesterberg,Soest,Utrecht,VBO,5.279868,52.116131
 Antonie van Leeuwenhoeklaan,43,,02,3769XB,Soesterberg,Soest,Utrecht,VBO,5.279888,52.116100
@@ -3261,14 +3250,8 @@ Antonie van Leeuwenhoeklaan,47,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280147,5
 Antonie van Leeuwenhoeklaan,49,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280236,52.116066
 Antonie van Leeuwenhoeklaan,51,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280323,52.116071
 Antonie van Leeuwenhoeklaan,53,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280401,52.116073
-Antonie van Leeuwenhoeklaan,55,,01,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280557,52.116087
-Antonie van Leeuwenhoeklaan,55,,02,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280546,52.116063
-Antonie van Leeuwenhoeklaan,55,,03,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280560,52.116046
-Antonie van Leeuwenhoeklaan,55,,04,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280572,52.116026
 Antonie van Leeuwenhoeklaan,55,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280484,52.116073
 Antonie van Leeuwenhoeklaan,57,,01,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280060,52.115828
-Antonie van Leeuwenhoeklaan,57,,02,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280093,52.115805
-Antonie van Leeuwenhoeklaan,57,,03,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280104,52.115786
 Antonie van Leeuwenhoeklaan,57,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280162,52.115750
 Antonie van Leeuwenhoeklaan,59,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280250,52.115753
 Antonie van Leeuwenhoeklaan,61,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280337,52.115757
@@ -3276,14 +3259,8 @@ Antonie van Leeuwenhoeklaan,63,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280425,5
 Antonie van Leeuwenhoeklaan,65,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280512,52.115764
 Antonie van Leeuwenhoeklaan,67,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280600,52.115767
 Antonie van Leeuwenhoeklaan,69,B,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280851,52.114954
-Antonie van Leeuwenhoeklaan,69,,01,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280748,52.115785
-Antonie van Leeuwenhoeklaan,69,,02,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280742,52.115758
-Antonie van Leeuwenhoeklaan,69,,03,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280752,52.115739
-Antonie van Leeuwenhoeklaan,69,,04,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280765,52.115720
 Antonie van Leeuwenhoeklaan,69,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280687,52.115770
-Antonie van Leeuwenhoeklaan,71,,01,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280869,52.114756
 Antonie van Leeuwenhoeklaan,71,,02,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280849,52.114777
-Antonie van Leeuwenhoeklaan,71,,03,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280837,52.114796
 Antonie van Leeuwenhoeklaan,71,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280910,52.114697
 Antonie van Leeuwenhoeklaan,73,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.280977,52.114700
 Antonie van Leeuwenhoeklaan,75,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281034,52.114702
@@ -3292,15 +3269,7 @@ Antonie van Leeuwenhoeklaan,79,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281163,5
 Antonie van Leeuwenhoeklaan,81,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281227,52.114710
 Antonie van Leeuwenhoeklaan,83,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281291,52.114713
 Antonie van Leeuwenhoeklaan,85,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281351,52.114717
-Antonie van Leeuwenhoeklaan,87,,01,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281472,52.114729
-Antonie van Leeuwenhoeklaan,87,,02,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281481,52.114706
-Antonie van Leeuwenhoeklaan,87,,03,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281491,52.114688
-Antonie van Leeuwenhoeklaan,87,,04,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281502,52.114671
-Antonie van Leeuwenhoeklaan,87,,05,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281514,52.114654
 Antonie van Leeuwenhoeklaan,87,,,3769XB,Soesterberg,Soest,Utrecht,VBO,5.281412,52.114720
-Antonie van Leeuwenhoeklaan,89,,01,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281072,52.114429
-Antonie van Leeuwenhoeklaan,89,,02,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281057,52.114447
-Antonie van Leeuwenhoeklaan,89,,03,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281048,52.114466
 Antonie van Leeuwenhoeklaan,89,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281111,52.114381
 Antonie van Leeuwenhoeklaan,91,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281174,52.114382
 Antonie van Leeuwenhoeklaan,93,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281236,52.114385
@@ -3308,16 +3277,10 @@ Antonie van Leeuwenhoeklaan,95,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281304,5
 Antonie van Leeuwenhoeklaan,97,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281364,52.114391
 Antonie van Leeuwenhoeklaan,99,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281425,52.114392
 Antonie van Leeuwenhoeklaan,101,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281485,52.114395
-Antonie van Leeuwenhoeklaan,103,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281546,52.114396
-Antonie van Leeuwenhoeklaan,105,,01,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281678,52.114397
-Antonie van Leeuwenhoeklaan,105,,02,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281689,52.114381
-Antonie van Leeuwenhoeklaan,105,,03,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281699,52.114364
-Antonie van Leeuwenhoeklaan,105,,04,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281707,52.114344
-Antonie van Leeuwenhoeklaan,105,,05,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281717,52.114325
+Antonie van Leeuwenhoeklaan,103,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281571,52.114421
 Antonie van Leeuwenhoeklaan,105,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281619,52.114395
 Antonie van Leeuwenhoeklaan,107,,01,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281281,52.114096
 Antonie van Leeuwenhoeklaan,107,,02,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281282,52.114121
-Antonie van Leeuwenhoeklaan,107,,03,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281255,52.114135
 Antonie van Leeuwenhoeklaan,107,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281308,52.114068
 Antonie van Leeuwenhoeklaan,109,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281396,52.114058
 Antonie van Leeuwenhoeklaan,111,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281443,52.114072
@@ -3326,14 +3289,11 @@ Antonie van Leeuwenhoeklaan,115,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281565,
 Antonie van Leeuwenhoeklaan,117,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281653,52.114084
 Antonie van Leeuwenhoeklaan,119,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281692,52.114079
 Antonie van Leeuwenhoeklaan,121,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281759,52.114056
-Antonie van Leeuwenhoeklaan,123,,01,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281887,52.114070
 Antonie van Leeuwenhoeklaan,123,,02,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281894,52.114051
 Antonie van Leeuwenhoeklaan,123,,03,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281909,52.114032
-Antonie van Leeuwenhoeklaan,123,,04,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281919,52.114013
 Antonie van Leeuwenhoeklaan,123,,05,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281928,52.113995
 Antonie van Leeuwenhoeklaan,123,,,3769XC,Soesterberg,Soest,Utrecht,VBO,5.281820,52.114066
 Antonie van Leeuwenhoeklaan,125,,01,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281486,52.113763
-Antonie van Leeuwenhoeklaan,125,,02,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281470,52.113783
 Antonie van Leeuwenhoeklaan,125,,03,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281460,52.113802
 Antonie van Leeuwenhoeklaan,125,,,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281507,52.113735
 Antonie van Leeuwenhoeklaan,127,,,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281589,52.113713
@@ -3343,11 +3303,7 @@ Antonie van Leeuwenhoeklaan,133,,,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281774,
 Antonie van Leeuwenhoeklaan,135,,,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281844,52.113719
 Antonie van Leeuwenhoeklaan,137,,,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281902,52.113741
 Antonie van Leeuwenhoeklaan,139,,,3769XD,Soesterberg,Soest,Utrecht,VBO,5.281966,52.113726
-Antonie van Leeuwenhoeklaan,141,,01,3769XD,Soesterberg,Soest,Utrecht,VBO,5.282098,52.113741
-Antonie van Leeuwenhoeklaan,141,,02,3769XD,Soesterberg,Soest,Utrecht,VBO,5.282107,52.113721
 Antonie van Leeuwenhoeklaan,141,,03,3769XD,Soesterberg,Soest,Utrecht,VBO,5.282120,52.113701
-Antonie van Leeuwenhoeklaan,141,,04,3769XD,Soesterberg,Soest,Utrecht,VBO,5.282131,52.113680
-Antonie van Leeuwenhoeklaan,141,,05,3769XD,Soesterberg,Soest,Utrecht,VBO,5.282141,52.113660
 Antonie van Leeuwenhoeklaan,141,,,3769XD,Soesterberg,Soest,Utrecht,VBO,5.282031,52.113740
 Antonie van Leeuwenhoeklaan,143,,01,3769XE,Soesterberg,Soest,Utrecht,VBO,5.281955,52.113326
 Antonie van Leeuwenhoeklaan,143,,02,3769XE,Soesterberg,Soest,Utrecht,VBO,5.282027,52.113329
@@ -3578,9 +3534,9 @@ Christiaan Huygenslaan,119,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.281823,52.11
 Christiaan Huygenslaan,121,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.281844,52.115683
 Christiaan Huygenslaan,123,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282178,52.114985
 Christiaan Huygenslaan,125,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282200,52.114934
-Christiaan Huygenslaan,127,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282233,52.114881
+Christiaan Huygenslaan,127,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282286,52.114900
 Christiaan Huygenslaan,129,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282257,52.114833
-Christiaan Huygenslaan,131,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282285,52.114780
+Christiaan Huygenslaan,131,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282319,52.114793
 Christiaan Huygenslaan,133,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282314,52.114727
 Christiaan Huygenslaan,135,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282340,52.114673
 Christiaan Huygenslaan,137,,,3769XT,Soesterberg,Soest,Utrecht,VBO,5.282380,52.114620
@@ -3635,9 +3591,6 @@ Christiaan Huygenslaan,6,C,,3769XW,Soesterberg,Soest,Utrecht,VBO,5.279716,52.117
 Christiaan Huygenslaan,6,D,,3769XW,Soesterberg,Soest,Utrecht,VBO,5.279750,52.117778
 Christiaan Huygenslaan,6,,,3769XW,Soesterberg,Soest,Utrecht,VBO,5.279617,52.117970
 Christiaan Huygenslaan,8,,01,3769XW,Soesterberg,Soest,Utrecht,VBO,5.280548,52.117021
-Christiaan Huygenslaan,8,,02,3769XW,Soesterberg,Soest,Utrecht,VBO,5.280548,52.116995
-Christiaan Huygenslaan,8,,03,3769XW,Soesterberg,Soest,Utrecht,VBO,5.280557,52.116978
-Christiaan Huygenslaan,8,,04,3769XW,Soesterberg,Soest,Utrecht,VBO,5.280568,52.116960
 Christiaan Huygenslaan,8,,,3769XW,Soesterberg,Soest,Utrecht,VBO,5.280485,52.117012
 Christiaan Huygenslaan,10,,,3769XW,Soesterberg,Soest,Utrecht,VBO,5.280406,52.117011
 Christiaan Huygenslaan,12,,,3769XW,Soesterberg,Soest,Utrecht,VBO,5.280296,52.117008
@@ -3672,10 +3625,6 @@ Christiaan Huygenslaan,56,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281216,52.115
 Christiaan Huygenslaan,58,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281242,52.115794
 Christiaan Huygenslaan,60,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281280,52.115746
 Christiaan Huygenslaan,62,,01,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281522,52.115477
-Christiaan Huygenslaan,62,,02,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281535,52.115455
-Christiaan Huygenslaan,62,,03,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281545,52.115434
-Christiaan Huygenslaan,62,,04,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281557,52.115414
-Christiaan Huygenslaan,62,,05,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281565,52.115398
 Christiaan Huygenslaan,62,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281473,52.115503
 Christiaan Huygenslaan,64,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281394,52.115498
 Christiaan Huygenslaan,66,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281332,52.115497
@@ -3684,9 +3633,6 @@ Christiaan Huygenslaan,70,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281210,52.115
 Christiaan Huygenslaan,72,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281145,52.115490
 Christiaan Huygenslaan,74,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281079,52.115488
 Christiaan Huygenslaan,76,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.281014,52.115485
-Christiaan Huygenslaan,78,,01,3769XX,Soesterberg,Soest,Utrecht,VBO,5.280898,52.115492
-Christiaan Huygenslaan,78,,02,3769XX,Soesterberg,Soest,Utrecht,VBO,5.280887,52.115511
-Christiaan Huygenslaan,78,,03,3769XX,Soesterberg,Soest,Utrecht,VBO,5.280876,52.115532
 Christiaan Huygenslaan,78,,,3769XX,Soesterberg,Soest,Utrecht,VBO,5.280949,52.115484
 Christiaan Huygenslaan,80,,,3769XZ,Soesterberg,Soest,Utrecht,VBO,5.281822,52.114834
 Christiaan Huygenslaan,82,,,3769XZ,Soesterberg,Soest,Utrecht,VBO,5.281854,52.114780

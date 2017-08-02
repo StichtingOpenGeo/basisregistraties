@@ -1,6 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Napels West,1,,,9678PA,Westerlee,Oldambt,Groningen,VBO,7.009865,53.147911
-Napels West,2,A,,9678PA,Westerlee,Oldambt,Groningen,VBO,7.005370,53.146670
 Napels West,2,,,9678PA,Westerlee,Oldambt,Groningen,VBO,7.009645,53.147609
 Napels West,3,,,9678PA,Westerlee,Oldambt,Groningen,VBO,7.009626,53.147897
 Napels West,7,,,9678PA,Westerlee,Oldambt,Groningen,VBO,7.009207,53.147884
@@ -20,7 +19,6 @@ Tranendallaan,5,,,9678PB,Westerlee,Oldambt,Groningen,VBO,7.001132,53.150240
 Tranendallaan,7,,,9678PB,Westerlee,Oldambt,Groningen,VBO,7.001718,53.149495
 Tranendallaan,8,,,9678PB,Westerlee,Oldambt,Groningen,VBO,7.000463,53.151543
 Tranendallaan,9,,,9678PB,Westerlee,Oldambt,Groningen,VBO,7.001942,53.149088
-Tranendallaan,10,A,,9678PB,Westerlee,Oldambt,Groningen,VBO,7.000890,53.151369
 Tranendallaan,10,,,9678PB,Westerlee,Oldambt,Groningen,VBO,7.000607,53.151398
 Tranendallaan,11,,,9678PB,Westerlee,Oldambt,Groningen,VBO,7.002633,53.148386
 Tranendallaan,12,,,9678PB,Westerlee,Oldambt,Groningen,VBO,7.002818,53.148950
@@ -67,7 +65,6 @@ Hoofdweg,29,,,9678PE,Westerlee,Oldambt,Groningen,VBO,6.962599,53.138512
 Hoofdweg,31,,,9678PE,Westerlee,Oldambt,Groningen,VBO,6.962832,53.138752
 Hoofdweg,33,,,9678PE,Westerlee,Oldambt,Groningen,VBO,6.963405,53.138736
 Hoofdweg,35,,,9678PE,Westerlee,Oldambt,Groningen,VBO,6.966225,53.139156
-Hoofdweg,37,,,9678PE,Westerlee,Oldambt,Groningen,VBO,6.966348,53.139504
 Hoofdweg,39,,,9678PG,Westerlee,Oldambt,Groningen,VBO,6.970537,53.139774
 Hoofdweg,41,,,9678PG,Westerlee,Oldambt,Groningen,VBO,6.970761,53.140257
 Hoofdweg,43,A,,9678PG,Westerlee,Oldambt,Groningen,VBO,6.971318,53.140302
@@ -92,7 +89,6 @@ Hoofdweg,81,,,9678PH,Westerlee,Oldambt,Groningen,VBO,6.979970,53.141464
 Hoofdweg,83,,,9678PH,Westerlee,Oldambt,Groningen,VBO,6.980434,53.141898
 Hoofdweg,85,,,9678PH,Westerlee,Oldambt,Groningen,VBO,6.981186,53.142014
 Hoofdweg,87,,,9678PH,Westerlee,Oldambt,Groningen,VBO,6.981697,53.142106
-Hoofdweg,89,,,9678PH,Westerlee,Oldambt,Groningen,VBO,6.981932,53.142391
 Hoofdweg,91,,,9678PH,Westerlee,Oldambt,Groningen,VBO,6.982585,53.141921
 Hoofdweg,95,,,9678PH,Westerlee,Oldambt,Groningen,VBO,6.982427,53.142438
 Hoofdweg,97,,,9678PH,Westerlee,Oldambt,Groningen,VBO,6.982708,53.142482
@@ -126,7 +122,6 @@ Hoofdweg,155,A,,9678PK,Westerlee,Oldambt,Groningen,VBO,6.991632,53.147609
 Hoofdweg,155,,,9678PK,Westerlee,Oldambt,Groningen,VBO,6.991508,53.147493
 Hoofdweg,157,,,9678PK,Westerlee,Oldambt,Groningen,VBO,6.991642,53.147896
 Hoofdweg,159,,,9678PK,Westerlee,Oldambt,Groningen,VBO,6.991682,53.148165
-Hoofdweg,161,A,,9678PK,Westerlee,Oldambt,Groningen,VBO,6.991860,53.148319
 Hoofdweg,161,,,9678PK,Westerlee,Oldambt,Groningen,VBO,6.991700,53.148237
 Hoofdweg,163,,,9678PK,Westerlee,Oldambt,Groningen,VBO,6.991720,53.148389
 Hoofdweg,165,,,9678PK,Westerlee,Oldambt,Groningen,VBO,6.991738,53.148461
@@ -210,7 +205,13 @@ Hoofdweg,86,,,9678PN,Westerlee,Oldambt,Groningen,VBO,6.982740,53.142829
 Hoofdweg,88,,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.983179,53.142976
 Hoofdweg,90,,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.983586,53.143070
 Hoofdweg,92,,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.983766,53.143085
-Hoofdweg,94,,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984041,53.143243
+Hoofdweg,94,A,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984105,53.143254
+Hoofdweg,94,B,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984198,53.143283
+Hoofdweg,94,C,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984282,53.143308
+Hoofdweg,94,D,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984117,53.143292
+Hoofdweg,94,E,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984212,53.143322
+Hoofdweg,94,F,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984123,53.143533
+Hoofdweg,94,,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984063,53.143218
 Hoofdweg,96,,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984615,53.143388
 Hoofdweg,98,,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.984949,53.143537
 Hoofdweg,100,,,9678PP,Westerlee,Oldambt,Groningen,VBO,6.985213,53.143812
@@ -302,7 +303,6 @@ Hogelaan,10,,,9678RB,Westerlee,Oldambt,Groningen,VBO,6.984403,53.144551
 Hogelaan,12,,,9678RB,Westerlee,Oldambt,Groningen,VBO,6.983352,53.144816
 Hogelaan,14,,,9678RB,Westerlee,Oldambt,Groningen,VBO,6.983034,53.145126
 Hogelaan,16,,,9678RB,Westerlee,Oldambt,Groningen,VBO,6.982875,53.145272
-Sportlaan,1,,,9678RC,Westerlee,Oldambt,Groningen,VBO,6.983620,53.143563
 Sportlaan,2,A,,9678RC,Westerlee,Oldambt,Groningen,VBO,6.982602,53.143137
 Sportlaan,2,,,9678RC,Westerlee,Oldambt,Groningen,VBO,6.982263,53.143249
 Sportlaan,3,A,,9678RC,Westerlee,Oldambt,Groningen,VBO,6.981652,53.144698
@@ -602,7 +602,6 @@ Tonkensoordlaan,20,,,9678TH,Westerlee,Oldambt,Groningen,VBO,6.960816,53.125612
 Emergoweg,1,,,9678TJ,Westerlee,Oldambt,Groningen,VBO,6.970021,53.133688
 Emergoweg,2,,,9678TJ,Westerlee,Oldambt,Groningen,VBO,6.971571,53.135356
 Emergoweg,3,,,9678TJ,Westerlee,Oldambt,Groningen,VBO,6.970641,53.132588
-Emergoweg,4,,,9678TJ,Westerlee,Oldambt,Groningen,VBO,6.980058,53.119477
 Engelkeslaan,1,,,9678TK,Westerlee,Oldambt,Groningen,VBO,6.975156,53.140411
 Engelkeslaan,2,,,9678TK,Westerlee,Oldambt,Groningen,VBO,6.977957,53.137518
 Engelkeslaan,5,,,9678TK,Westerlee,Oldambt,Groningen,VBO,6.976538,53.138759

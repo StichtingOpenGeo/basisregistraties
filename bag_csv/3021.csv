@@ -1,7 +1,12 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Beukelsdijk,3,A,01,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462032,51.922828
 Beukelsdijk,3,A,02,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462032,51.922828
+Beukelsdijk,3,A,,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462032,51.922828
 Beukelsdijk,3,B,,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462032,51.922828
+Beukelsdijk,3,B,,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462038,51.922828
+Beukelsdijk,3,C,01,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462031,51.922829
+Beukelsdijk,3,C,02,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462031,51.922829
+Beukelsdijk,3,C,03,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462031,51.922829
 Beukelsdijk,3,C,,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462032,51.922828
 Beukelsdijk,5,A,02,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462119,51.922755
 Beukelsdijk,5,A,03,3021AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462119,51.922755
@@ -353,7 +358,6 @@ G.W. Burgerplein,2,A,,3021AV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458241,51.92
 G.W. Burgerplein,2,B,,3021AV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458241,51.922599
 G.W. Burgerplein,4,A,,3021AV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458265,51.922539
 G.W. Burgerplein,4,B,,3021AV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458265,51.922539
-G.W. Burgerplein,4,,,3021AV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458265,51.922539
 G.W. Burgerplein,6,,,3021AV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458273,51.922492
 G.W. Burgerplein,8,A,,3021AV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458284,51.922443
 G.W. Burgerplein,8,B,,3021AV,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458284,51.922443
@@ -545,6 +549,9 @@ Velsenluststraat,11,,,3021AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459661,51.92
 1e Middellandstraat,120,A,,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460197,51.918368
 1e Middellandstraat,120,B,01,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460113,51.918350
 1e Middellandstraat,120,B,02,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460113,51.918350
+1e Middellandstraat,122,A,01,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460025,51.918331
+1e Middellandstraat,122,A,02,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460025,51.918331
+1e Middellandstraat,122,A,03,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460025,51.918331
 1e Middellandstraat,122,A,,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460025,51.918331
 1e Middellandstraat,122,B,,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460025,51.918331
 1e Middellandstraat,124,,01,3021BJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459942,51.918310
@@ -573,8 +580,7 @@ Velsenluststraat,11,,,3021AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459661,51.92
 2e Middellandstraat,7,A,,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456880,51.917857
 2e Middellandstraat,7,B,01,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456880,51.917857
 2e Middellandstraat,7,B,02,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456880,51.917857
-2e Middellandstraat,9,A,01,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456813,51.917846
-2e Middellandstraat,9,A,02,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456813,51.917846
+2e Middellandstraat,9,A,,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456813,51.917846
 2e Middellandstraat,9,B,,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456813,51.917846
 2e Middellandstraat,11,A,01,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456755,51.917831
 2e Middellandstraat,11,A,02,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456755,51.917831
@@ -591,8 +597,10 @@ Velsenluststraat,11,,,3021AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459661,51.92
 2e Middellandstraat,17,B,01,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456562,51.917792
 2e Middellandstraat,17,B,02,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456562,51.917792
 2e Middellandstraat,19,A,,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456492,51.917774
+2e Middellandstraat,19,B,L,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456477,51.917763
+2e Middellandstraat,19,B,R,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456447,51.917757
 2e Middellandstraat,19,B,,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456492,51.917774
-2e Middellandstraat,19,C,,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456492,51.917774
+2e Middellandstraat,19,C,,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456401,51.917761
 2e Middellandstraat,23,A,,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456306,51.917741
 2e Middellandstraat,23,B,01,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456300,51.917767
 2e Middellandstraat,23,B,02,3021BL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456315,51.917742
@@ -952,6 +960,7 @@ Graaf Florisstraat,64,A,,3021CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458125,51
 Graaf Florisstraat,64,B,,3021CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458125,51.919828
 Graaf Florisstraat,66,A,,3021CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458070,51.919784
 Graaf Florisstraat,66,B,,3021CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458070,51.919784
+Graaf Florisstraat,66,C,01,3021CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458070,51.919784
 Graaf Florisstraat,66,C,,3021CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458070,51.919784
 Graaf Florisstraat,66,D,,3021CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458070,51.919784
 Graaf Florisstraat,68,,,3021CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457964,51.919700
@@ -966,7 +975,8 @@ Graaf Florisstraat,74,C,,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457856,51
 Graaf Florisstraat,76,A,,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457801,51.919571
 Graaf Florisstraat,76,B,,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457801,51.919571
 Graaf Florisstraat,78,A,,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457751,51.919530
-Graaf Florisstraat,78,B,,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457751,51.919530
+Graaf Florisstraat,78,B,02,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457751,51.919530
+Graaf Florisstraat,78,B,03,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457751,51.919530
 Graaf Florisstraat,80,A,,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457694,51.919487
 Graaf Florisstraat,80,B,,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457694,51.919487
 Graaf Florisstraat,82,A,,3021CK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457642,51.919446
@@ -1064,6 +1074,9 @@ Henegouwerlaan,45,A,,3021CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462917,51.920
 Henegouwerlaan,45,B,,3021CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462917,51.920641
 Henegouwerlaan,47,A,,3021CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462923,51.920600
 Henegouwerlaan,47,B,,3021CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462923,51.920600
+Henegouwerlaan,51,A,01,3021CS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462940,51.920565
+Henegouwerlaan,51,A,02,3021CS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462940,51.920565
+Henegouwerlaan,51,A,03,3021CS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462940,51.920565
 Henegouwerlaan,51,A,,3021CS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462952,51.920525
 Henegouwerlaan,51,B,,3021CS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462952,51.920525
 Henegouwerlaan,51,C,,3021CS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462952,51.920525
@@ -1191,7 +1204,18 @@ Heemraadssingel,84,,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455970,51.919
 Heemraadssingel,86,,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455966,51.919045
 Heemraadssingel,88,,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455965,51.918982
 Heemraadssingel,90,,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455964,51.918908
+Heemraadssingel,92,A,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455961,51.918822
+Heemraadssingel,92,B,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455961,51.918822
+Heemraadssingel,92,C,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455961,51.918822
+Heemraadssingel,92,D,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455961,51.918822
 Heemraadssingel,92,,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455961,51.918822
+Heemraadssingel,94,A,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455959,51.918714
+Heemraadssingel,94,B,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455959,51.918714
+Heemraadssingel,94,C,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455959,51.918714
+Heemraadssingel,94,D,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455959,51.918714
+Heemraadssingel,94,E,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455959,51.918714
+Heemraadssingel,94,F,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455959,51.918714
+Heemraadssingel,94,G,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455959,51.918714
 Heemraadssingel,94,,,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455961,51.918822
 Heemraadssingel,96,,02,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456055,51.918661
 Heemraadssingel,96,,03,3021DE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456055,51.918661
@@ -1264,6 +1288,10 @@ Heemraadssingel,172,,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455909,51.91
 Heemraadssingel,174,,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455912,51.915990
 Heemraadssingel,176,,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455917,51.915924
 Heemraadssingel,178,,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455921,51.915852
+Heemraadssingel,180,A,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455934,51.915786
+Heemraadssingel,180,B,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455934,51.915786
+Heemraadssingel,180,C,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455934,51.915786
+Heemraadssingel,180,D,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455934,51.915786
 Heemraadssingel,180,,,3021DL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.455919,51.915784
 Heemraadssingel,182,A,,3021DM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456022,51.915447
 Heemraadssingel,182,B,,3021DM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456022,51.915447
@@ -1301,8 +1329,6 @@ Heemraadssingel,208,C,,3021DN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456022,51.9
 Heemraadssingel,208,D,,3021DN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456022,51.914456
 Heemraadssingel,208,E,,3021DN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456022,51.914456
 Heemraadssingel,208,F,,3021DN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456022,51.914456
-Heemraadssingel,208,,,3021DN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456017,51.914517
-Heemraadssingel,210,,,3021DN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456017,51.914517
 Heemraadssingel,210,,,3021DN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456030,51.914391
 Heemraadssingel,234,,,3021DP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456184,51.913632
 Heemraadssingel,236,,,3021DP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456207,51.913519
@@ -1548,9 +1574,12 @@ Suze Groeneweglaan,331,,,3021DX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456273,51
 's-Gravendijkwal,43,,,3021EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462520,51.917357
 's-Gravendijkwal,45,,,3021EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462511,51.917237
 's-Gravendijkwal,47,A,,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462489,51.916905
-'s-Gravendijkwal,47,B,,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462489,51.916905
+'s-Gravendijkwal,47,B,01,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462489,51.916905
+'s-Gravendijkwal,47,B,02,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462489,51.916905
+'s-Gravendijkwal,47,B,03,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462489,51.916905
 's-Gravendijkwal,49,A,,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462482,51.916845
 's-Gravendijkwal,49,B,,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462482,51.916845
+'s-Gravendijkwal,49,C,02,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462482,51.916845
 's-Gravendijkwal,49,C,,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462482,51.916845
 's-Gravendijkwal,51,A,,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462480,51.916757
 's-Gravendijkwal,51,B,,3021ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462480,51.916757
@@ -1573,15 +1602,26 @@ Suze Groeneweglaan,331,,,3021DX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456273,51
 's-Gravendijkwal,73,A,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
 's-Gravendijkwal,73,B,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
 's-Gravendijkwal,73,C,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,D,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,73,D,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,E,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,73,E,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,F,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,73,F,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,G,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,73,G,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,H,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,73,H,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,J,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
+'s-Gravendijkwal,73,K,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,73,K,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,L,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,73,L,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,M,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,73,M,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
 's-Gravendijkwal,73,N,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462527,51.915964
+'s-Gravendijkwal,73,P,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
+'s-Gravendijkwal,73,Q,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462518,51.915989
 's-Gravendijkwal,75,A,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462553,51.915865
 's-Gravendijkwal,75,B,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462553,51.915865
 's-Gravendijkwal,75,C,,3021EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462553,51.915865
@@ -1655,6 +1695,7 @@ Suze Groeneweglaan,331,,,3021DX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456273,51
 's-Gravendijkwal,127,A,,3021EK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463342,51.913300
 's-Gravendijkwal,127,B,01,3021EK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463389,51.913423
 's-Gravendijkwal,127,B,02,3021EK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463389,51.913423
+'s-Gravendijkwal,127,B,,3021EK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463389,51.913423
 's-Gravendijkwal,129,A,01,3021EK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463425,51.913404
 's-Gravendijkwal,129,A,02,3021EK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463425,51.913404
 's-Gravendijkwal,129,B,,3021EK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463342,51.913300
@@ -1973,7 +2014,8 @@ Nieuwe Binnenweg,345,A,01,3021GJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456464,5
 Nieuwe Binnenweg,345,A,02,3021GJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456464,51.912647
 Nieuwe Binnenweg,345,B,,3021GJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456464,51.912647
 Nieuwe Binnenweg,184,A,,3021GK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463323,51.913619
-Nieuwe Binnenweg,184,B,,3021GK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463323,51.913619
+Nieuwe Binnenweg,184,B,01,3021GK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463323,51.913619
+Nieuwe Binnenweg,184,B,02,3021GK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463323,51.913619
 Nieuwe Binnenweg,186,,,3021GK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463216,51.913602
 Nieuwe Binnenweg,188,A,,3021GK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463216,51.913602
 Nieuwe Binnenweg,188,B,,3021GK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463164,51.913600
@@ -2237,8 +2279,16 @@ Mathenesserlaan,261,,,3021HD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460310,51.91
 Mathenesserlaan,263,A,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460201,51.914663
 Mathenesserlaan,263,B,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460201,51.914663
 Mathenesserlaan,263,,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460201,51.914663
+Mathenesserlaan,271,A,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460087,51.914631
 Mathenesserlaan,271,A,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460098,51.914648
+Mathenesserlaan,271,B,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460087,51.914631
 Mathenesserlaan,271,B,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460098,51.914648
+Mathenesserlaan,271,C,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460087,51.914631
+Mathenesserlaan,271,D,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460087,51.914631
+Mathenesserlaan,271,E,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460087,51.914631
+Mathenesserlaan,271,F,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460087,51.914631
+Mathenesserlaan,271,G,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460087,51.914631
+Mathenesserlaan,271,H,,3021HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460087,51.914631
 Mathenesserlaan,273,A,,3021HG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459999,51.914635
 Mathenesserlaan,273,B,,3021HG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459999,51.914635
 Mathenesserlaan,275,A,,3021HG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459892,51.914620
@@ -2459,7 +2509,6 @@ Claes de Vrieselaan,101,A,02,3021JG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.45951
 Claes de Vrieselaan,101,B,,3021JG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459517,51.913855
 Claes de Vrieselaan,103,A,01,3021JG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459529,51.913799
 Claes de Vrieselaan,103,A,02,3021JG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459529,51.913799
-Claes de Vrieselaan,103,B,BG,3021JG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459529,51.913799
 Claes de Vrieselaan,103,B,,3021JG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459529,51.913799
 Claes de Vrieselaan,105,A,01,3021JG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459544,51.913745
 Claes de Vrieselaan,105,A,02,3021JG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459544,51.913745
@@ -2872,6 +2921,14 @@ Schermlaan,31,B,,3021KG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461113,51.917306
 Schermlaan,31,D,,3021KG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461113,51.917306
 Schermlaan,33,,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460660,51.917323
 Schermlaan,35,,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460660,51.917323
+Schermlaan,39,B,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
+Schermlaan,39,C,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
+Schermlaan,39,D,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
+Schermlaan,39,E,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
+Schermlaan,39,F,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
+Schermlaan,39,G,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
+Schermlaan,39,H,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
+Schermlaan,39,J,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
 Schermlaan,39,,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460558,51.917321
 Schermlaan,41,,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460406,51.917366
 Schermlaan,43,A,,3021KH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460406,51.917366
@@ -2961,7 +3018,6 @@ Schietbaanlaan,47,D,,3021LC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460028,51.915
 Schietbaanlaan,47,E,,3021LC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460028,51.915753
 Schietbaanlaan,47,F,,3021LC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460028,51.915753
 Schietbaanlaan,47,G,,3021LC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460028,51.915753
-Schietbaanlaan,47,G,,3021LC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460131,51.915752
 Schietbaanlaan,49,A,01,3021LC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459952,51.915754
 Schietbaanlaan,49,A,02,3021LC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459952,51.915754
 Schietbaanlaan,49,B,,3021LC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459952,51.915754
@@ -2977,11 +3033,9 @@ Schietbaanlaan,63,,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458731,51.9157
 Schietbaanlaan,65,A,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
 Schietbaanlaan,65,B,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
 Schietbaanlaan,65,C,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
-Schietbaanlaan,65,D,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
 Schietbaanlaan,67,A,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
 Schietbaanlaan,67,B,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
 Schietbaanlaan,67,C,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
-Schietbaanlaan,67,D,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
 Schietbaanlaan,69,A,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
 Schietbaanlaan,69,B,,3021LD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458597,51.915764
 Schietbaanlaan,71,A,SO,3021LE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458178,51.915758
@@ -3013,11 +3067,8 @@ Schietbaanlaan,99,D,,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456541,51.915
 Schietbaanlaan,101,A,01,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456457,51.915766
 Schietbaanlaan,101,A,02,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456457,51.915766
 Schietbaanlaan,101,B,,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456457,51.915766
-Schietbaanlaan,103,A,01,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456380,51.915761
-Schietbaanlaan,103,A,02,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456380,51.915761
 Schietbaanlaan,103,A,,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456368,51.915790
 Schietbaanlaan,103,B,,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456368,51.915790
-Schietbaanlaan,103,B,,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456380,51.915761
 Schietbaanlaan,103,C,,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456368,51.915790
 Schietbaanlaan,105,A,01,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456293,51.915768
 Schietbaanlaan,105,A,02,3021LH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456293,51.915768
@@ -3090,6 +3141,7 @@ Schietbaanlaan,64,B,,3021LL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459860,51.915
 Schietbaanlaan,66,A,01,3021LL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459743,51.915484
 Schietbaanlaan,66,A,02,3021LL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459743,51.915484
 Schietbaanlaan,66,B,,3021LL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459743,51.915484
+Schietbaanlaan,72,A,,3021LM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458986,51.915480
 Schietbaanlaan,72,B,,3021LM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458986,51.915480
 Schietbaanlaan,72,C,,3021LM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458986,51.915480
 Schietbaanlaan,74,B,,3021LM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458869,51.915478
@@ -3294,6 +3346,8 @@ Hondiusstraat,11,A,,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459279,51.9124
 Hondiusstraat,11,B,,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459279,51.912418
 Hondiusstraat,13,A,,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459198,51.912401
 Hondiusstraat,13,B,,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459198,51.912401
+Hondiusstraat,13,C,,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459198,51.912401
+Hondiusstraat,13,D,,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459198,51.912401
 Hondiusstraat,15,A,,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459111,51.912382
 Hondiusstraat,15,B,01,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459111,51.912382
 Hondiusstraat,15,B,02,3021NE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459111,51.912382
@@ -3431,8 +3485,7 @@ Hondiusstraat,54,A,,3021NM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457911,51.9118
 Hondiusstraat,54,B,,3021NM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457911,51.911889
 Hondiusstraat,56,A,,3021NM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457837,51.911874
 Hondiusstraat,56,B,,3021NM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457837,51.911874
-Hondiusstraat,58,A,,3021NM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457765,51.911859
-Hondiusstraat,58,B,,3021NM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457765,51.911859
+Hondiusstraat,58,,,3021NM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457765,51.911859
 Hondiusstraat,60,A,,3021NN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457691,51.911844
 Hondiusstraat,60,B,,3021NN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457691,51.911844
 Hondiusstraat,62,,,3021NN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457617,51.911829
@@ -4368,8 +4421,7 @@ Aleidisstraat,89,B,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457048,51.9182
 Aleidisstraat,89,C,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457048,51.918283
 Aleidisstraat,89,D,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457048,51.918283
 Aleidisstraat,89,E,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457048,51.918283
-Aleidisstraat,91,A,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457048,51.918283
-Aleidisstraat,91,B,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457048,51.918283
+Aleidisstraat,91,,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457048,51.918283
 Aleidisstraat,93,A,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457007,51.918252
 Aleidisstraat,93,B,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457007,51.918252
 Aleidisstraat,93,C,,3021SH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457007,51.918252
@@ -4821,6 +4873,7 @@ Jan Porcellisstraat,11,B,,3021TN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460175,5
 Jan Porcellisstraat,13,,,3021TN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460167,51.918029
 Jan Porcellisstraat,15,A,,3021TN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460160,51.917985
 Jan Porcellisstraat,15,B,,3021TN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460160,51.917985
+Jan Porcellisstraat,15,,,3021TN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460160,51.917985
 Jan Porcellisstraat,17,A,,3021TN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460152,51.917942
 Jan Porcellisstraat,17,B,,3021TN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460152,51.917942
 Jan Porcellisstraat,19,A,,3021TN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460145,51.917899
@@ -5226,14 +5279,19 @@ Joost van Geelstraat,52,A,,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458446,
 Joost van Geelstraat,52,B,,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458446,51.916570
 Joost van Geelstraat,54,A,,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458447,51.916522
 Joost van Geelstraat,54,B,,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458447,51.916522
+Joost van Geelstraat,56,A,01,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458448,51.916476
+Joost van Geelstraat,56,A,02,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458448,51.916476
 Joost van Geelstraat,56,,,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458448,51.916476
 Joost van Geelstraat,58,A,,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458450,51.916430
 Joost van Geelstraat,58,B,,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458450,51.916430
+Joost van Geelstraat,58,C,,3021VN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458450,51.916430
 Joost van Geelstraat,60,A,,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458449,51.916391
 Joost van Geelstraat,60,B,01,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458449,51.916391
 Joost van Geelstraat,60,B,02,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458449,51.916391
+Joost van Geelstraat,60,B,03,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458449,51.916391
 Joost van Geelstraat,62,A,01,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458450,51.916341
 Joost van Geelstraat,62,A,02,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458450,51.916341
+Joost van Geelstraat,62,A,03,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458450,51.916341
 Joost van Geelstraat,62,B,,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458450,51.916341
 Joost van Geelstraat,90,,,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458457,51.916297
 Joost van Geelstraat,92,,,3021VP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458457,51.916259
@@ -5425,8 +5483,10 @@ Van der Poelstraat,80,,,3021VZ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456807,51.
 Van der Poelstraat,82,,,3021VZ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456807,51.915999
 Van der Poelstraat,84,,,3021VZ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.456807,51.915999
 Snellinckstraat,1,,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463239,51.912520
-Snellinckstraat,3,A,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463135,51.912449
-Snellinckstraat,3,B,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463135,51.912449
+Snellinckstraat,3,A,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463144,51.912448
+Snellinckstraat,3,B,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463144,51.912448
+Snellinckstraat,3,C,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463144,51.912448
+Snellinckstraat,3,D,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463144,51.912448
 Snellinckstraat,5,A,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463050,51.912428
 Snellinckstraat,5,B,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.463050,51.912428
 Snellinckstraat,7,A,,3021WB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462969,51.912407
@@ -5465,10 +5525,9 @@ Snellinckstraat,39,,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461845,51.912
 Snellinckstraat,41,A,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461786,51.912112
 Snellinckstraat,41,B,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461786,51.912113
 Snellinckstraat,43,,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461723,51.912097
-Snellinckstraat,45,A,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461650,51.912081
-Snellinckstraat,45,B,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461650,51.912081
 Snellinckstraat,45,C,01,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461650,51.912081
 Snellinckstraat,45,C,02,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461650,51.912081
+Snellinckstraat,45,,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461650,51.912081
 Snellinckstraat,47,A,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461571,51.912054
 Snellinckstraat,47,B,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461571,51.912054
 Snellinckstraat,49,A,,3021WD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461496,51.912043
@@ -5750,7 +5809,6 @@ Zwaerdecroonstraat,62,B,01,3021WX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460823,
 Zwaerdecroonstraat,62,B,02,3021WX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460823,51.912462
 Zwaerdecroonstraat,62,B,03,3021WX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460823,51.912462
 Zwaerdecroonstraat,64,A,,3021WX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460752,51.912448
-Zwaerdecroonstraat,64,B,,3021WX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460752,51.912448
 Zwaerdecroonstraat,64,B,,3021WX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460760,51.912438
 Zwaerdecroonstraat,64,C,,3021WX,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.460760,51.912438
 Robert Fruinstraat,3,A,,3021XA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.459004,51.915050
@@ -5820,7 +5878,16 @@ Robert Fruinstraat,24,B,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458397,51
 Robert Fruinstraat,24,C,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458397,51.914843
 Robert Fruinstraat,24,D,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458397,51.914843
 Robert Fruinstraat,24,E,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458397,51.914843
+Robert Fruinstraat,26,A,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458234,51.914856
+Robert Fruinstraat,26,B,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458234,51.914856
+Robert Fruinstraat,26,C,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458234,51.914856
+Robert Fruinstraat,26,D,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458234,51.914856
+Robert Fruinstraat,26,E,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458234,51.914856
+Robert Fruinstraat,26,F,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458234,51.914856
+Robert Fruinstraat,26,G,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458234,51.914856
+Robert Fruinstraat,26,H,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458234,51.914856
 Robert Fruinstraat,26,,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458237,51.914869
+Robert Fruinstraat,28,,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458181,51.914860
 Robert Fruinstraat,28,,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458237,51.914869
 Robert Fruinstraat,30,,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458237,51.914869
 Robert Fruinstraat,32,,,3021XE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.458237,51.914869
@@ -5978,8 +6045,7 @@ Volmarijnstraat,24,,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462308,51.913
 Volmarijnstraat,26,,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462241,51.913988
 Volmarijnstraat,28,,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462175,51.913979
 Volmarijnstraat,30,,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462107,51.913970
-Volmarijnstraat,32,A,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462052,51.913950
-Volmarijnstraat,32,B,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462052,51.913950
+Volmarijnstraat,32,,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.462052,51.913950
 Volmarijnstraat,34,,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461994,51.913942
 Volmarijnstraat,36,A,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461914,51.913930
 Volmarijnstraat,36,B,,3021XS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.461914,51.913930
@@ -6390,6 +6456,4 @@ De Vliegerstraat,52,A,,3021ZS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457771,51.9
 De Vliegerstraat,52,B,,3021ZS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457771,51.910655
 De Vliegerstraat,52,C,,3021ZS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457771,51.910655
 De Vliegerstraat,54,A,,3021ZS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457681,51.910633
-De Vliegerstraat,54,A,,3021ZS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457687,51.910624
 De Vliegerstraat,54,B,,3021ZS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457668,51.910630
-De Vliegerstraat,54,B,,3021ZS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.457687,51.910624

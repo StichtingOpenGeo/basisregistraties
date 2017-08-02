@@ -912,6 +912,7 @@ Govert Flinckstraat,35,,,2162CS,Lisse,Lisse,Zuid-Holland,VBO,4.559876,52.246316
 Govert Flinckstraat,36,,,2162CS,Lisse,Lisse,Zuid-Holland,VBO,4.559875,52.246370
 Jachthavendam,2,,,2162CT,Lisse,Lisse,Zuid-Holland,VBO,4.566252,52.247556
 Jachthavendam,4,,,2162CT,Lisse,Lisse,Zuid-Holland,VBO,4.566495,52.247055
+Jachthavendam,6,,,2162CT,Lisse,Lisse,Zuid-Holland,VBO,4.566311,52.246037
 Gerard Douhof,1,,,2162CV,Lisse,Lisse,Zuid-Holland,VBO,4.561271,52.245457
 Gerard Douhof,3,,,2162CV,Lisse,Lisse,Zuid-Holland,VBO,4.561373,52.245433
 Gerard Douhof,5,,,2162CV,Lisse,Lisse,Zuid-Holland,VBO,4.561493,52.245403
@@ -1730,35 +1731,46 @@ Sternhof,22,,,2162HK,Lisse,Lisse,Zuid-Holland,VBO,4.559027,52.252557
 Sternhof,24,,,2162HK,Lisse,Lisse,Zuid-Holland,VBO,4.559101,52.252531
 Sternhof,26,,,2162HK,Lisse,Lisse,Zuid-Holland,VBO,4.559146,52.252504
 Sternhof,28,,,2162HK,Lisse,Lisse,Zuid-Holland,VBO,4.559205,52.252477
-Spechtstraat,2,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554413,52.249610
-Spechtstraat,4,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554352,52.249619
-Spechtstraat,6,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554277,52.249627
-Spechtstraat,8,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554206,52.249639
-Spechtstraat,10,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554148,52.249653
-Spechtstraat,12,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554494,52.249791
-Spechtstraat,14,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554470,52.249746
-Spechtstraat,16,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554449,52.249693
-Spechtstraat,18,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554429,52.249647
-Spechtstraat,20,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554164,52.249697
-Spechtstraat,22,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554194,52.249746
-Spechtstraat,24,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554223,52.249797
-Spechtstraat,26,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554243,52.249847
-Spechtstraat,28,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554405,52.249790
-Spechtstraat,30,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554394,52.249744
-Spechtstraat,32,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554377,52.249697
-Spechtstraat,34,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554358,52.249659
-Spechtstraat,36,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554212,52.249681
-Spechtstraat,38,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554231,52.249725
-Spechtstraat,40,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554251,52.249781
-Spechtstraat,42,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554266,52.249819
-Spechtstraat,44,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554360,52.249797
-Spechtstraat,46,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554340,52.249742
-Spechtstraat,48,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554320,52.249694
-Spechtstraat,50,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554298,52.249656
-Spechtstraat,52,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554254,52.249677
-Spechtstraat,54,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554272,52.249713
-Spechtstraat,56,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554279,52.249754
-Spechtstraat,58,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554306,52.249804
+Spechtstraat,1,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554579,52.249671
+Spechtstraat,2,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554077,52.249682
+Spechtstraat,3,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554513,52.249636
+Spechtstraat,4,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554019,52.249688
+Spechtstraat,5,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554452,52.249605
+Spechtstraat,6,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553965,52.249694
+Spechtstraat,7,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554394,52.249573
+Spechtstraat,8,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553901,52.249703
+Spechtstraat,9,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554331,52.249542
+Spechtstraat,10,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553840,52.249713
+Spechtstraat,11,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554274,52.249508
+Spechtstraat,12,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554110,52.249717
+Spechtstraat,13,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554216,52.249477
+Spechtstraat,14,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554043,52.249726
+Spechtstraat,15,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554155,52.249444
+Spechtstraat,16,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553977,52.249733
+Spechtstraat,17,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554097,52.249411
+Spechtstraat,18,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553912,52.249743
+Spechtstraat,19,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554038,52.249380
+Spechtstraat,20,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553850,52.249755
+Spechtstraat,21,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553969,52.249346
+Spechtstraat,22,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554127,52.249757
+Spechtstraat,24,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554066,52.249768
+Spechtstraat,26,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554007,52.249777
+Spechtstraat,28,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553938,52.249786
+Spechtstraat,30,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553874,52.249796
+Spechtstraat,32,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554144,52.249804
+Spechtstraat,34,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554080,52.249813
+Spechtstraat,36,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554024,52.249818
+Spechtstraat,38,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553960,52.249829
+Spechtstraat,40,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553899,52.249842
+Spechtstraat,42,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554158,52.249850
+Spechtstraat,44,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554097,52.249862
+Spechtstraat,46,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554031,52.249872
+Spechtstraat,48,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553967,52.249881
+Spechtstraat,50,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553906,52.249893
+Spechtstraat,52,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554183,52.249895
+Spechtstraat,54,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554106,52.249910
+Spechtstraat,56,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.554024,52.249924
+Spechtstraat,58,,,2162HZ,Lisse,Lisse,Zuid-Holland,VBO,4.553938,52.249939
 Hannie Schaftlaan,2,,,2162JA,Lisse,Lisse,Zuid-Holland,VBO,4.553598,52.244555
 Hannie Schaftlaan,4,,,2162JA,Lisse,Lisse,Zuid-Holland,VBO,4.553596,52.244636
 Hannie Schaftlaan,6,,,2162JA,Lisse,Lisse,Zuid-Holland,VBO,4.553639,52.244682
@@ -2087,7 +2099,7 @@ Jacoba van Beierenlaan,6,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.554691,52.24165
 Jacoba van Beierenlaan,8,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.554955,52.241662
 Jacoba van Beierenlaan,10,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.555132,52.241600
 Jacoba van Beierenlaan,12,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.555367,52.241521
-Jacoba van Beierenlaan,14,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.555617,52.241505
+Jacoba van Beierenlaan,14,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.555636,52.241499
 Jacoba van Beierenlaan,16,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.555502,52.241360
 Jacoba van Beierenlaan,18,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.555446,52.241216
 Jacoba van Beierenlaan,20,,,2162KE,Lisse,Lisse,Zuid-Holland,VBO,4.555843,52.241147
@@ -2914,7 +2926,6 @@ Chopinstraat,56,,,2162VV,Lisse,Lisse,Zuid-Holland,VBO,4.564656,52.247545
 Ruishornlaan,19,,,2162VW,Lisse,Lisse,Zuid-Holland,VBO,4.558863,52.255623
 Ruishornlaan,21,,,2162VW,Lisse,Lisse,Zuid-Holland,VBO,4.560010,52.254056
 Ruishornlaan,23,,,2162VW,Lisse,Lisse,Zuid-Holland,VBO,4.560244,52.253862
-Ruishornlaan,25,,,2162VW,Lisse,Lisse,Zuid-Holland,VBO,4.560831,52.253235
 Ruishornlaan,27,,,2162VW,Lisse,Lisse,Zuid-Holland,VBO,4.561627,52.252865
 Ruishornlaan,29,A,,2162VW,Lisse,Lisse,Zuid-Holland,VBO,4.562014,52.252614
 Ruishornlaan,29,,,2162VW,Lisse,Lisse,Zuid-Holland,VBO,4.561868,52.252898

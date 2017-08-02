@@ -26,6 +26,7 @@ Noorderheideweg,3,,bis,3775KC,Kootwijk,Barneveld,Gelderland,VBO,5.764858,52.1789
 Noorderheideweg,3,,,3775KC,Kootwijk,Barneveld,Gelderland,VBO,5.764982,52.179068
 Noorderheideweg,5,,,3775KC,Kootwijk,Barneveld,Gelderland,VBO,5.764646,52.177901
 Kootwijkerdijk,31,,,3775KD,Kootwijk,Barneveld,Gelderland,VBO,5.768838,52.185500
+Kootwijkerdijk,31,,,3775KD,Kootwijk,Barneveld,Gelderland,VBO,5.769003,52.185430
 Kootwijkerdijk,33,,,3775KD,Kootwijk,Barneveld,Gelderland,VBO,5.768854,52.185626
 Kootwijkerdijk,37,,,3775KD,Kootwijk,Barneveld,Gelderland,VBO,5.769823,52.185389
 Kootwijkerdijk,50,,,3775KD,Kootwijk,Barneveld,Gelderland,VBO,5.769724,52.184907
@@ -75,6 +76,7 @@ Kerkendelweg,23,,,3775KM,Kootwijk,Barneveld,Gelderland,VBO,5.772933,52.183941
 Kerkendelweg,25,,,3775KM,Kootwijk,Barneveld,Gelderland,VBO,5.773124,52.183985
 Kerkendelweg,27,,,3775KM,Kootwijk,Barneveld,Gelderland,VBO,5.773314,52.183985
 Kerkendelweg,29,,,3775KM,Kootwijk,Barneveld,Gelderland,VBO,5.773533,52.183993
+Kerkendelweg,33,C,,3775KM,Kootwijk,Barneveld,Gelderland,VBO,5.778276,52.184811
 Kerkendelweg,33,,,3775KM,Kootwijk,Barneveld,Gelderland,VBO,5.777895,52.184509
 Kerkendelweg,37,,,3775KM,Kootwijk,Barneveld,Gelderland,VBO,5.777146,52.185787
 Kerkendelweg,41,,,3775KM,Kootwijk,Barneveld,Gelderland,VBO,5.782576,52.185711
@@ -371,13 +373,11 @@ Nieuw Milligenseweg,53,,06,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777573,52.
 Nieuw Milligenseweg,53,,06A,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777252,52.192320
 Nieuw Milligenseweg,53,,07,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777049,52.192279
 Nieuw Milligenseweg,53,,08,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776584,52.192184
-Nieuw Milligenseweg,53,,09,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776317,52.192134
 Nieuw Milligenseweg,53,,10,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.775928,52.191983
 Nieuw Milligenseweg,53,,102,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777403,52.192345
 Nieuw Milligenseweg,53,,11,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776366,52.191838
 Nieuw Milligenseweg,53,,12,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.775644,52.192076
 Nieuw Milligenseweg,53,,14,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776106,52.191801
-Nieuw Milligenseweg,53,,14A,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776919,52.191990
 Nieuw Milligenseweg,53,,15,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777503,52.192086
 Nieuw Milligenseweg,53,,16,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777631,52.192165
 Nieuw Milligenseweg,53,,17,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777969,52.192182
@@ -387,32 +387,23 @@ Nieuw Milligenseweg,53,,21,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.779460,52.
 Nieuw Milligenseweg,53,,22,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.779049,52.192217
 Nieuw Milligenseweg,53,,23,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778574,52.192118
 Nieuw Milligenseweg,53,,24A,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778183,52.192108
-Nieuw Milligenseweg,53,,25,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777988,52.192034
 Nieuw Milligenseweg,53,,26,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777241,52.191921
 Nieuw Milligenseweg,53,,27,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776818,52.191859
 Nieuw Milligenseweg,53,,30,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.775862,52.191606
 Nieuw Milligenseweg,53,,31,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776130,52.191629
 Nieuw Milligenseweg,53,,32,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776004,52.191368
 Nieuw Milligenseweg,53,,34,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776521,52.191508
-Nieuw Milligenseweg,53,,35,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776921,52.191545
 Nieuw Milligenseweg,53,,39,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777727,52.191782
 Nieuw Milligenseweg,53,,41,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778418,52.191869
-Nieuw Milligenseweg,53,,42,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778671,52.191864
-Nieuw Milligenseweg,53,,43,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778859,52.191863
-Nieuw Milligenseweg,53,,44,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.779152,52.191902
 Nieuw Milligenseweg,53,,45,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778947,52.191770
-Nieuw Milligenseweg,53,,46,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778440,52.191678
-Nieuw Milligenseweg,53,,48,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777747,52.191488
 Nieuw Milligenseweg,53,,49,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777305,52.191355
 Nieuw Milligenseweg,53,,50,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777538,52.191414
 Nieuw Milligenseweg,53,,51,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776541,52.191404
-Nieuw Milligenseweg,53,,52,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776515,52.191040
 Nieuw Milligenseweg,53,,53,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776217,52.191292
 Nieuw Milligenseweg,53,,54,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776122,52.191147
 Nieuw Milligenseweg,53,,55,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776181,52.190924
 Nieuw Milligenseweg,53,,56,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776354,52.190647
 Nieuw Milligenseweg,53,,57,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776665,52.190767
-Nieuw Milligenseweg,53,,58,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776977,52.190898
 Nieuw Milligenseweg,53,,59,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777391,52.190976
 Nieuw Milligenseweg,53,,60,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777670,52.191075
 Nieuw Milligenseweg,53,,61,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777595,52.191228
@@ -425,21 +416,18 @@ Nieuw Milligenseweg,53,,69,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776595,52.
 Nieuw Milligenseweg,53,,71,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.779060,52.191548
 Nieuw Milligenseweg,53,,72,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.779144,52.192100
 Nieuw Milligenseweg,53,,73,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778284,52.191604
-Nieuw Milligenseweg,53,,74,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777544,52.191934
 Nieuw Milligenseweg,53,,77,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776296,52.190802
 Nieuw Milligenseweg,53,,79,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776864,52.192231
 Nieuw Milligenseweg,53,,80,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776811,52.190868
 Nieuw Milligenseweg,53,,81,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776917,52.191319
 Nieuw Milligenseweg,53,,82,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778397,52.192127
 Nieuw Milligenseweg,53,,83,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777777,52.192043
-Nieuw Milligenseweg,53,,84,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.779218,52.191690
 Nieuw Milligenseweg,53,,85,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778722,52.191393
 Nieuw Milligenseweg,53,,86,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777053,52.191860
 Nieuw Milligenseweg,53,,87,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777212,52.190929
 Nieuw Milligenseweg,53,,88,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777216,52.191088
 Nieuw Milligenseweg,53,,89,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776118,52.192055
 Nieuw Milligenseweg,53,,90,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777288,52.192042
-Nieuw Milligenseweg,53,,91,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777113,52.192013
 Nieuw Milligenseweg,53,,93,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.776359,52.191148
 Nieuw Milligenseweg,53,,95,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.777881,52.191238
 Nieuw Milligenseweg,53,,96,3775KR,Kootwijk,Barneveld,Gelderland,VBO,5.778577,52.192604

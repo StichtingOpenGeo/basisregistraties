@@ -168,6 +168,7 @@ Steenweg,48,,,4181AM,Waardenburg,Neerijnen,Gelderland,VBO,5.260119,51.832432
 Steenweg,50,,,4181AM,Waardenburg,Neerijnen,Gelderland,VBO,5.260242,51.832451
 Steenweg,52,,,4181AM,Waardenburg,Neerijnen,Gelderland,VBO,5.260403,51.832476
 Steenweg,54,a,,4181AM,Waardenburg,Neerijnen,Gelderland,VBO,5.261698,51.832314
+Steenweg,54,,11,4181AM,Waardenburg,Neerijnen,Gelderland,VBO,5.261215,51.832230
 Steenweg,54,,,4181AM,Waardenburg,Neerijnen,Gelderland,VBO,5.261245,51.832269
 Steenweg,56,,,4181AM,Waardenburg,Neerijnen,Gelderland,VBO,5.262206,51.832412
 Steenweg,58,,,4181AM,Waardenburg,Neerijnen,Gelderland,VBO,5.262601,51.832356
@@ -437,6 +438,9 @@ Hoge Sluisstraat,14,,,4181BH,Waardenburg,Neerijnen,Gelderland,VBO,5.254815,51.83
 Hoge Sluisstraat,16,,,4181BH,Waardenburg,Neerijnen,Gelderland,VBO,5.254748,51.833332
 Hoge Sluisstraat,18,,,4181BH,Waardenburg,Neerijnen,Gelderland,VBO,5.254603,51.833259
 Hoge Sluisstraat,20,,,4181BH,Waardenburg,Neerijnen,Gelderland,VBO,5.254531,51.833223
+Koningin Julianaplantsoen,1,a,,4181BJ,Waardenburg,Neerijnen,Gelderland,VBO,5.255070,51.832075
+Koningin Julianaplantsoen,1,b,,4181BJ,Waardenburg,Neerijnen,Gelderland,VBO,5.255034,51.832083
+Koningin Julianaplantsoen,1,c,,4181BJ,Waardenburg,Neerijnen,Gelderland,VBO,5.255000,51.832089
 Koningin Julianaplantsoen,1,,,4181BJ,Waardenburg,Neerijnen,Gelderland,VBO,5.255171,51.831466
 Koningin Julianaplantsoen,3,,,4181BJ,Waardenburg,Neerijnen,Gelderland,VBO,5.255129,51.831427
 Koningin Julianaplantsoen,5,,,4181BJ,Waardenburg,Neerijnen,Gelderland,VBO,5.255086,51.831386
@@ -467,9 +471,6 @@ Koningin Julianaplantsoen,53,,,4181BK,Waardenburg,Neerijnen,Gelderland,VBO,5.253
 Koningin Julianaplantsoen,55,,,4181BK,Waardenburg,Neerijnen,Gelderland,VBO,5.253907,51.832253
 Koningin Julianaplantsoen,57,,,4181BK,Waardenburg,Neerijnen,Gelderland,VBO,5.253922,51.832314
 Koningin Julianaplantsoen,59,,,4181BK,Waardenburg,Neerijnen,Gelderland,VBO,5.253958,51.832443
-Koningin Julianaplantsoen,1,a,,4181BL,Waardenburg,Neerijnen,Gelderland,VBO,5.255070,51.832075
-Koningin Julianaplantsoen,1,b,,4181BL,Waardenburg,Neerijnen,Gelderland,VBO,5.255034,51.832083
-Koningin Julianaplantsoen,1,c,,4181BL,Waardenburg,Neerijnen,Gelderland,VBO,5.255000,51.832089
 Koningin Julianaplantsoen,2,a,,4181BL,Waardenburg,Neerijnen,Gelderland,VBO,5.255655,51.831627
 Koningin Julianaplantsoen,2,,,4181BL,Waardenburg,Neerijnen,Gelderland,VBO,5.255349,51.831676
 Koningin Julianaplantsoen,4,,,4181BL,Waardenburg,Neerijnen,Gelderland,VBO,5.255363,51.831809
@@ -650,7 +651,6 @@ Industrieweg,6,,,4181CB,Waardenburg,Neerijnen,Gelderland,VBO,5.250614,51.828299
 Industrieweg,8,,,4181CB,Waardenburg,Neerijnen,Gelderland,VBO,5.249915,51.828247
 Industrieweg,10,,,4181CB,Waardenburg,Neerijnen,Gelderland,VBO,5.249739,51.828022
 Industrieweg,16,,,4181CB,Waardenburg,Neerijnen,Gelderland,VBO,5.247959,51.827740
-Industrieweg,20,,,4181CB,Waardenburg,Neerijnen,Gelderland,VBO,5.247195,51.828362
 Industrieweg,22,,,4181CB,Waardenburg,Neerijnen,Gelderland,VBO,5.247062,51.829178
 Industrieweg,36,,N1,4181CB,Waardenburg,Neerijnen,Gelderland,VBO,5.247827,51.829483
 Industrieweg,36,,,4181CB,Waardenburg,Neerijnen,Gelderland,VBO,5.248628,51.829270
@@ -921,11 +921,13 @@ Fauststraat,44,,,4181DH,Waardenburg,Neerijnen,Gelderland,VBO,5.252390,51.835279
 Fauststraat,46,,,4181DH,Waardenburg,Neerijnen,Gelderland,VBO,5.252369,51.835327
 Fauststraat,48,,,4181DH,Waardenburg,Neerijnen,Gelderland,VBO,5.252345,51.835379
 Nieuwstraat,2,,,4181LS,Waardenburg,Neerijnen,Gelderland,VBO,5.228170,51.839815
+Heideweg,2,a,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.253048,51.836913
 Heideweg,2,,X1,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.253530,51.836625
-Heideweg,2,,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.253098,51.836877
+Heideweg,2,,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.253123,51.836852
 Heideweg,5,,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.249130,51.838799
 Heideweg,6,a,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.249892,51.838870
 Heideweg,6,,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.250238,51.838726
+Heideweg,9,,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.248855,51.839715
 Heideweg,12,,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.251191,51.840227
 Heideweg,13,,,4181PK,Waardenburg,Neerijnen,Gelderland,VBO,5.250351,51.840304
 Zandweg,1,a,,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.251776,51.836283
@@ -949,6 +951,7 @@ Zandweg,16,,,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.254180,51.836050
 Zandweg,17,,,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.260236,51.841257
 Zandweg,18,,,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.254266,51.836087
 Zandweg,19,a,,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.261940,51.842007
+Zandweg,19,,T01,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.261206,51.841979
 Zandweg,19,,,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.261569,51.841878
 Zandweg,20,,,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.254348,51.836116
 Zandweg,21,,,4181PL,Waardenburg,Neerijnen,Gelderland,VBO,5.262751,51.842169

@@ -484,6 +484,7 @@ Mgr. Verhoevenlaan,42,,,5061BE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.179219,
 Mgr. Verhoevenlaan,44,,,5061BE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.179119,51.577274
 Mgr. Verhoevenlaan,48,,,5061BE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178542,51.577192
 Mgr. Verhoevenlaan,50,,,5061BE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178455,51.577183
+Mgr. Verhoevenlaan,52,,,5061BE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178237,51.577174
 Poirtersstraat,3,,,5061BG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183142,51.577560
 Poirtersstraat,50,,,5061BG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.181727,51.577782
 Poirtersstraat,101,,,5061BG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.181858,51.577649
@@ -645,7 +646,7 @@ Tilburgseweg,33,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.179045,51.577
 Tilburgseweg,35,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178901,51.577453
 Tilburgseweg,37,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178714,51.577381
 Tilburgseweg,39,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178628,51.577354
-Tilburgseweg,41,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178224,51.577218
+Tilburgseweg,41,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178111,51.577172
 Tilburgseweg,49,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.176438,51.576757
 Tilburgseweg,51,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.176308,51.576738
 Tilburgseweg,53,,,5061CA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.176207,51.576720
@@ -767,7 +768,7 @@ Tilburgseweg,150,,,5061CG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.171864,51.57
 Pastoor van Heesbeenstraat,1,,,5061CH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175007,51.577185
 Pastoor van Heesbeenstraat,2,,,5061CH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175282,51.577114
 Pastoor van Heesbeenstraat,3,,,5061CH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.174993,51.577239
-Pastoor van Heesbeenstraat,4,,,5061CH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175238,51.577222
+Pastoor van Heesbeenstraat,4,,,5061CH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175228,51.577270
 Pastoor van Heesbeenstraat,5,,,5061CH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.174978,51.577284
 Pastoor van Heesbeenstraat,6,,,5061CH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175209,51.577339
 Pastoor van der Meijdenstraat,1,,,5061CK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.180373,51.578813
@@ -839,7 +840,6 @@ Pastoor van der Meijdenstraat,145,,,5061CL,Oisterwijk,Oisterwijk,Noord-Brabant,V
 Pastoor van der Meijdenstraat,147,,,5061CL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.174170,51.577319
 Pastoor van der Meijdenstraat,149,,,5061CL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.173983,51.577283
 Pastoor de Witstraat,1,A,,5061CP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.177598,51.577438
-Pastoor de Witstraat,1,B,,5061CP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.177562,51.577502
 Pastoor de Witstraat,1,,,5061CP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.177414,51.577711
 Pastoor de Witstraat,2,,,5061CP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.177732,51.577604
 Pastoor de Witstraat,3,,,5061CP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.177371,51.577765
@@ -1578,8 +1578,15 @@ Kerkstraat,47,,,5061EG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.188645,51.57946
 Kerkstraat,49,,,5061EG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.188198,51.579393
 Kerkstraat,51,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187982,51.579330
 Kerkstraat,53,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187866,51.579311
-Kerkstraat,55,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187679,51.579239
-Kerkstraat,57,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187621,51.579230
+Kerkstraat,55,A,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187511,51.579208
+Kerkstraat,55,B,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187584,51.579227
+Kerkstraat,55,C,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187646,51.579235
+Kerkstraat,55,D,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187526,51.579183
+Kerkstraat,55,E,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187662,51.579220
+Kerkstraat,55,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187717,51.579179
+Kerkstraat,57,A,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187591,51.579213
+Kerkstraat,57,B,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187534,51.579201
+Kerkstraat,57,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187671,51.579252
 Kerkstraat,59,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187304,51.579185
 Kerkstraat,61,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187117,51.579148
 Kerkstraat,63,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186930,51.579085
@@ -1606,8 +1613,7 @@ Kerkstraat,93,A,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185200,51.5787
 Kerkstraat,93,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185243,51.578804
 Kerkstraat,95,A,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184735,51.578498
 Kerkstraat,95,,,5061EH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184941,51.578623
-Kerkstraat,2,,VERD,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191541,51.580217
-Kerkstraat,2,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191527,51.580207
+Kerkstraat,2,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191668,51.580265
 Kerkstraat,6,A,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191311,51.580171
 Kerkstraat,6,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191296,51.580162
 Kerkstraat,8,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191210,51.580135
@@ -1623,8 +1629,9 @@ Kerkstraat,24,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190590,51.58002
 Kerkstraat,26,A,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190500,51.580025
 Kerkstraat,26,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190449,51.580011
 Kerkstraat,28,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190359,51.579999
-Kerkstraat,30,,1,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190229,51.580017
-Kerkstraat,30,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190244,51.579990
+Kerkstraat,30,A,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190197,51.579976
+Kerkstraat,30,B,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190244,51.579990
+Kerkstraat,30,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190309,51.579988
 Kerkstraat,32,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190114,51.579962
 Kerkstraat,34,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190042,51.579944
 Kerkstraat,36,,,5061EJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.189927,51.579926
@@ -1676,7 +1683,9 @@ Kerkstraat,110,A,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184968,51.578
 Kerkstraat,110,,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185012,51.578902
 Kerkstraat,112,,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184896,51.578848
 Kerkstraat,114,,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184810,51.578866
-Kerkstraat,116,,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184723,51.578803
+Kerkstraat,116,A,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184679,51.578846
+Kerkstraat,116,B,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184723,51.578867
+Kerkstraat,116,,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184758,51.578812
 Kerkstraat,118,,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184579,51.578757
 Kerkstraat,120,,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184493,51.578730
 Kerkstraat,122,,,5061EL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184363,51.578703
@@ -1759,6 +1768,7 @@ Poststeeg,49,,,5061EP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.188383,51.579816
 Hoogstraat,1,A,,5061ER,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191368,51.580252
 Hoogstraat,1,B,,5061ER,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191224,51.580270
 Hoogstraat,1,C,,5061ER,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191152,51.580225
+Hoogstraat,1,,,5061ER,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191489,51.580281
 Hoogstraat,3,,,5061ER,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191123,51.580288
 Hoogstraat,5,,,5061ER,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190993,51.580305
 Hoogstraat,7,,,5061ER,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190964,51.580323
@@ -2167,6 +2177,21 @@ Baerdijk,30,,,5061GG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.189217,51.577219
 Baerdijk,41,A,,5061GG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190050,51.577532
 Baerdijk,41,,,5061GG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190164,51.578461
 Baerdijk,43,,,5061GG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190081,51.577652
+Torenbeemd,62,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187841,51.578973
+Torenbeemd,64,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187771,51.578957
+Torenbeemd,66,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187688,51.578938
+Torenbeemd,68,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187818,51.579003
+Torenbeemd,70,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187750,51.578993
+Torenbeemd,72,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187665,51.578973
+Torenbeemd,74,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187620,51.579051
+Torenbeemd,76,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187691,51.579064
+Torenbeemd,78,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187752,51.579085
+Torenbeemd,80,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187800,51.579032
+Torenbeemd,82,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187730,51.579017
+Torenbeemd,84,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187640,51.579002
+Torenbeemd,86,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187597,51.579082
+Torenbeemd,88,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187667,51.579093
+Torenbeemd,90,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187730,51.579117
 Torenbeemd,92,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187594,51.578790
 Torenbeemd,94,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187494,51.578771
 Torenbeemd,100,,,5061GH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187061,51.578627
@@ -2324,21 +2349,21 @@ Spoorlaan,34,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192301,51.581377
 Spoorlaan,36,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192402,51.581395
 Spoorlaan,38,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192459,51.581423
 Spoorlaan,40,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192532,51.581414
-Spoorlaan,42,A,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192604,51.581432
-Spoorlaan,42,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192690,51.581450
+Spoorlaan,42,A,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192725,51.581452
+Spoorlaan,42,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192597,51.581445
 Spoorlaan,44,A,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192878,51.581459
 Spoorlaan,44,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192863,51.581450
 Spoorlaan,46,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193195,51.581496
 Spoorlaan,48,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193296,51.581523
-Spoorlaan,50,A,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193382,51.581532
+Spoorlaan,50,A,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193445,51.581558
 Spoorlaan,50,B,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193944,51.581668
 Spoorlaan,50,C,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194103,51.581704
 Spoorlaan,50,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193368,51.581541
 Spoorlaan,52,A,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194406,51.581785
 Spoorlaan,52,,,5061HB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194391,51.581776
 Spoorlaan,54,,,5061HC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194550,51.581812
-Spoorlaan,58,,,5061HC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194751,51.581858
-Spoorlaan,60,,,5061HC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194838,51.581876
+Spoorlaan,58,,,5061HC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194812,51.581878
+Spoorlaan,60,,,5061HC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194871,51.581896
 Spoorlaan,62,,,5061HC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194924,51.581903
 Spoorlaan,64,,,5061HC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195083,51.581939
 Spoorlaan,66,,,5061HC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195184,51.581957
@@ -2383,7 +2408,7 @@ Stationsstraat,5,C,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193874,51.5
 Stationsstraat,5,D,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193874,51.581155
 Stationsstraat,5,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193860,51.581110
 Stationsstraat,7,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193845,51.581281
-Stationsstraat,8,A,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194321,51.581282
+Stationsstraat,8,A,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194455,51.581345
 Stationsstraat,8,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194134,51.581255
 Stationsstraat,9,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193787,51.581344
 Stationsstraat,10,A,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194090,51.581299
@@ -2393,7 +2418,7 @@ Stationsstraat,12,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194018,51.5
 Stationsstraat,13,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193686,51.581469
 Stationsstraat,14,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193974,51.581452
 Stationsstraat,15,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193642,51.581505
-Stationsstraat,16,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193988,51.581470
+Stationsstraat,16,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193996,51.581512
 Stationsstraat,17,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193541,51.581577
 Stationsstraat,18,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193945,51.581497
 Stationsstraat,20,,,5061HE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193916,51.581533
@@ -2435,8 +2460,9 @@ Dorpsstraat,13,,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192203,51.5806
 Dorpsstraat,15,B,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192593,51.580479
 Dorpsstraat,15,,1,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192217,51.580685
 Dorpsstraat,15,,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192536,51.580551
-Dorpsstraat,17,A,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192752,51.580497
-Dorpsstraat,17,,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192810,51.580506
+Dorpsstraat,17,A,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192791,51.580528
+Dorpsstraat,17,B,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192667,51.580639
+Dorpsstraat,17,,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192729,51.580519
 Dorpsstraat,19,,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192896,51.580524
 Dorpsstraat,21,,,5061HH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192896,51.580533
 Dorpsstraat,23,,,5061HJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193011,51.580552
@@ -2450,7 +2476,8 @@ Dorpsstraat,35,B,,5061HJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193905,51.580
 Dorpsstraat,35,,,5061HJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193905,51.580643
 Dorpsstraat,37,,,5061HJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194035,51.580715
 Dorpsstraat,39,,,5061HJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194179,51.580661
-Dorpsstraat,41,,,5061HJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194295,51.580715
+Dorpsstraat,41,,,5061HJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194292,51.580689
+Dorpsstraat,43,,,5061HJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194253,51.580793
 Dorpsstraat,2,A,,5061HK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191773,51.580082
 Dorpsstraat,2,B,,5061HK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191773,51.580064
 Dorpsstraat,2,,,5061HK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191758,51.580118
@@ -2490,7 +2517,8 @@ Dorpsstraat,28,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193416,51.5803
 Dorpsstraat,30,A,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193632,51.580373
 Dorpsstraat,30,,ACHT,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193548,51.579986
 Dorpsstraat,30,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193633,51.580355
-Dorpsstraat,34,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193834,51.580382
+Dorpsstraat,32,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193836,51.580412
+Dorpsstraat,34,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193992,51.580417
 Dorpsstraat,36,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193777,51.580400
 Dorpsstraat,38,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193907,51.580391
 Dorpsstraat,40,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193935,51.580409
@@ -2502,8 +2530,8 @@ Dorpsstraat,46,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194325,51.5804
 Dorpsstraat,48,A,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194426,51.580428
 Dorpsstraat,48,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194426,51.580455
 Dorpsstraat,50,,,5061HL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194570,51.580464
-Tuinweg,2,A,,5061HM,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194782,51.581507
-Tuinweg,2,B,,5061HM,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194782,51.581498
+Tuinweg,2,A,,5061HM,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194843,51.581469
+Tuinweg,2,B,,5061HM,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194887,51.581412
 Tuinweg,2,C,,5061HM,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194668,51.581246
 Tuinweg,2,D,,5061HM,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194797,51.581220
 Tuinweg,2,E,,5061HM,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194877,51.580954
@@ -2649,11 +2677,10 @@ Joannes Lenartzstraat,17,,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.1991
 Joannes Lenartzstraat,19,,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199207,51.582503
 Joannes Lenartzstraat,21,,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199192,51.582557
 Joannes Lenartzstraat,23,,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199178,51.582611
-Joannes Lenartzstraat,25,A,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.198961,51.582683
-Joannes Lenartzstraat,25,B,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.198975,51.582692
-Joannes Lenartzstraat,25,C,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.198961,51.582665
-Joannes Lenartzstraat,25,,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.198961,51.582656
-Joannes Lenartzstraat,27,,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.198988,51.582728
+Joannes Lenartzstraat,25,A,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199138,51.582677
+Joannes Lenartzstraat,25,B,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199128,51.582726
+Joannes Lenartzstraat,25,C,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199121,51.582778
+Joannes Lenartzstraat,25,,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199170,51.582753
 Joannes Lenartzstraat,29,,,5061HP,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199105,51.582854
 Joannes Lenartzstraat,2,A,,5061HR,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199771,51.582117
 Joannes Lenartzstraat,2,,,5061HR,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.199833,51.582094
@@ -2691,7 +2718,8 @@ De Lind,17,,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195549,51.580897
 De Lind,19,,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195650,51.580924
 De Lind,23,,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195765,51.580916
 De Lind,25,,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195873,51.580967
-De Lind,27,,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195953,51.580952
+De Lind,27,A,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195986,51.580987
+De Lind,27,,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195934,51.580973
 De Lind,29,A,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.196068,51.581015
 De Lind,29,,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.196068,51.580997
 De Lind,31,A,,5061HS,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.196184,51.580979
@@ -2951,13 +2979,11 @@ Bedrijfsweg,25,,1,5061JX,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183028,51.586
 Bedrijfsweg,25,,2,5061JX,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183014,51.586854
 Bedrijfsweg,25,,3,5061JX,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183014,51.586871
 Bedrijfsweg,25,,,5061JX,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183131,51.586879
-Bedrijfsweg,2,A,1,5061JZ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.188628,51.586477
-Bedrijfsweg,2,A,,5061JZ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.189348,51.586900
 Bedrijfsweg,2,,,5061JZ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.189294,51.586154
 Bedrijfsweg,4,,,5061JZ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.188108,51.586736
 Schijfstraat,1,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190813,51.581752
-Schijfstraat,3,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190900,51.581788
-Schijfstraat,5,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190986,51.581825
+Schijfstraat,3,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190860,51.581769
+Schijfstraat,5,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190920,51.581794
 Schijfstraat,7,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191044,51.581843
 Schijfstraat,9,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.191735,51.582230
 Schijfstraat,11,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192051,51.582357
@@ -2965,7 +2991,6 @@ Schijfstraat,13,B,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.193276,51.58
 Schijfstraat,13,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.192526,51.582600
 Schijfstraat,15,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194875,51.583359
 Schijfstraat,17,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195005,51.583395
-Schijfstraat,19,A,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.194886,51.584150
 Schijfstraat,19,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.195178,51.583440
 Schijfstraat,21,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.196359,51.583847
 Schijfstraat,23,,,5061KA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.196726,51.583905
@@ -4053,7 +4078,6 @@ Almystraat,4,A,,5061PA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.189839,51.58217
 Almystraat,4,,,5061PA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.190020,51.581697
 Almystraat,10,A,,5061PA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.188077,51.581485
 Almystraat,10,,,5061PA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.188574,51.581633
-Almystraat,12,A,,5061PA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187243,51.581727
 Almystraat,12,,,5061PA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187616,51.581579
 Almystraat,14,,,5061PA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187052,51.580994
 Almystraat,16,,,5061PA,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186458,51.580662
@@ -4136,11 +4160,7 @@ Gasthuisstraat,33,,,5061PB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.182959,51.5
 Gasthuisstraat,35,,,5061PB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.182987,51.583285
 Gasthuisstraat,22,,BEDR,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184199,51.583206
 Gasthuisstraat,22,,,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183491,51.583313
-Gasthuisstraat,24,,1,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183505,51.583484
-Gasthuisstraat,24,,2,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183563,51.583511
-Gasthuisstraat,24,,3,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183534,51.583493
-Gasthuisstraat,24,,4,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183592,51.583511
-Gasthuisstraat,24,,5,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183548,51.583502
+Gasthuisstraat,24,,,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183505,51.583484
 Gasthuisstraat,37,,,5061PC,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183000,51.583447
 Donkerstraat,1,,,5061PD,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.179116,51.584096
 Donkerstraat,2,,,5061PD,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178855,51.584365
@@ -4185,8 +4205,68 @@ Laan van KVL,31,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185001,51.582
 Laan van KVL,32,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185519,51.582010
 Laan van KVL,33,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185382,51.582209
 Laan van KVL,35,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185360,51.582260
+Laan van KVL,36,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186627,51.582276
 Laan van KVL,37,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185341,51.582310
+Laan van KVL,38,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186766,51.582420
 Laan van KVL,39,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.185320,51.582368
+Laan van KVL,40,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186591,51.582396
+Laan van KVL,42,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186609,51.582306
+Laan van KVL,44,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186820,51.582306
+Laan van KVL,46,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186772,51.582403
+Laan van KVL,48,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186596,51.582382
+Laan van KVL,50,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186634,51.582300
+Laan van KVL,52,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186812,51.582326
+Laan van KVL,54,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186772,51.582389
+Laan van KVL,56,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186596,51.582368
+Laan van KVL,58,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186695,51.582125
+Laan van KVL,60,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186743,51.581992
+Laan van KVL,62,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186799,51.581871
+Laan van KVL,64,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186967,51.581898
+Laan van KVL,66,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186698,51.582107
+Laan van KVL,68,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186751,51.581965
+Laan van KVL,70,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186809,51.581854
+Laan van KVL,72,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186972,51.581883
+Laan van KVL,74,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186929,51.581987
+Laan van KVL,76,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186896,51.582075
+Laan van KVL,78,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186868,51.582161
+Laan van KVL,80,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186705,51.582089
+Laan van KVL,82,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186763,51.581946
+Laan van KVL,84,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186814,51.581832
+Laan van KVL,86,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186975,51.581862
+Laan van KVL,88,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186939,51.581969
+Laan van KVL,90,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186904,51.582055
+Laan van KVL,92,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186871,51.582144
+Laan van KVL,94,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186977,51.581844
+Laan van KVL,96,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186944,51.581950
+Laan van KVL,98,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186909,51.582037
+Laan van KVL,100,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186733,51.582034
+Laan van KVL,102,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.186819,51.581807
+Laan van KVL,104,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187402,51.582143
+Laan van KVL,106,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187277,51.582041
+Laan van KVL,108,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187410,51.582066
+Laan van KVL,110,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187410,51.582124
+Laan van KVL,112,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187237,51.582130
+Laan van KVL,114,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187285,51.582021
+Laan van KVL,116,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187418,51.582041
+Laan van KVL,118,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187418,51.582105
+Laan van KVL,120,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187245,51.582107
+Laan van KVL,122,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187290,51.581996
+Laan van KVL,124,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187426,51.582012
+Laan van KVL,126,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187342,51.582121
+Laan van KVL,128,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187247,51.582083
+Laan van KVL,130,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187303,51.581969
+Laan van KVL,132,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187438,51.581993
+Laan van KVL,134,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187248,51.582516
+Laan van KVL,136,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187092,51.582491
+Laan van KVL,138,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187296,51.582418
+Laan van KVL,140,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187258,51.582493
+Laan van KVL,142,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187100,51.582466
+Laan van KVL,144,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187128,51.582383
+Laan van KVL,146,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187304,51.582390
+Laan van KVL,148,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187268,51.582468
+Laan van KVL,150,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187110,51.582435
+Laan van KVL,152,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187136,51.582349
+Laan van KVL,154,,,5061PE,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.187316,51.582362
 Drogerij,1,,,5061PG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184574,51.580881
 Drogerij,2,,,5061PG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184289,51.580822
 Drogerij,3,,,5061PG,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.184633,51.580770
@@ -4231,6 +4311,7 @@ Spreeuwenburgerweg,41,,,5061PH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.178716,
 Spreeuwenburgerweg,60,,,5061PH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.179176,51.590020
 Spreeuwenburgerweg,80,,,5061PH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.176770,51.592155
 Spreeuwenburgerweg,90,,,5061PH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175858,51.592764
+Spreeuwenburgerweg,92,,,5061PH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175588,51.592970
 Kerkhovensestraat,5,,,5061PJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183298,51.585154
 Kerkhovensestraat,7,,,5061PJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183540,51.585254
 Kerkhovensestraat,9,A,,5061PJ,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.183973,51.585372
@@ -5226,12 +5307,12 @@ Prinses Marijkestraat,4,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.17619
 Prinses Marijkestraat,6,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.176110,51.575758
 Prinses Marijkestraat,8,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.176039,51.575722
 Prinses Marijkestraat,10,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175952,51.575686
-Prinses Marijkestraat,12,A,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175837,51.575623
-Prinses Marijkestraat,12,B,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175837,51.575641
-Prinses Marijkestraat,12,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175837,51.575614
-Prinses Marijkestraat,14,A,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175650,51.575533
+Prinses Marijkestraat,12,A,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175794,51.575610
+Prinses Marijkestraat,12,B,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175736,51.575585
+Prinses Marijkestraat,12,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175859,51.575630
+Prinses Marijkestraat,14,A,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175619,51.575533
 Prinses Marijkestraat,14,B,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175564,51.575488
-Prinses Marijkestraat,14,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175751,51.575569
+Prinses Marijkestraat,14,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175680,51.575553
 Prinses Marijkestraat,16,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175189,51.575415
 Prinses Marijkestraat,18,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175074,51.575370
 Prinses Marijkestraat,20,,,5061TH,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.174987,51.575334
@@ -5703,7 +5784,7 @@ Lavendel,5,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.174636,51.582587
 Lavendel,6,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175979,51.582311
 Lavendel,7,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.174867,51.582632
 Lavendel,8,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175906,51.582401
-Lavendel,9,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175011,51.582660
+Lavendel,9,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.175027,51.582831
 Lavendel,11,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.174836,51.582947
 Lavendel,13,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.174418,51.582883
 Lavendel,15,,,5061WB,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.173813,51.582747
@@ -6553,7 +6634,6 @@ Hovenierplein,1008,,,5061ZK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.210489,51.
 Hovenierplein,1009,,,5061ZK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.210503,51.582710
 Hovenierplein,1010,,,5061ZK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.210532,51.582692
 Hovenierplein,1011,,,5061ZK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.210547,51.582674
-Hovenierplein,1012,,,5061ZK,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.210576,51.582656
 Botermakerstraat,3,,,5061ZL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.212101,51.583728
 Botermakerstraat,4,,,5061ZL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.211841,51.583637
 Botermakerstraat,5,,,5061ZL,Oisterwijk,Oisterwijk,Noord-Brabant,VBO,5.212144,51.583683

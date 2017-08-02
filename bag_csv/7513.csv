@@ -201,7 +201,6 @@ Prinsestraat,17,,,7513AM,Enschede,Enschede,Overijssel,VBO,6.886545,52.217688
 Prinsestraat,19,,,7513AM,Enschede,Enschede,Overijssel,VBO,6.886533,52.217637
 Prinsestraat,21,,,7513AM,Enschede,Enschede,Overijssel,VBO,6.886523,52.217586
 Prinsestraat,23,,,7513AM,Enschede,Enschede,Overijssel,VBO,6.886512,52.217530
-Parkweg,2,,,7513AR,Enschede,Enschede,Overijssel,VBO,6.886489,52.221787
 Parkweg,15,,,7513AR,Enschede,Enschede,Overijssel,VBO,6.885974,52.221288
 Parkweg,25,A,,7513AR,Enschede,Enschede,Overijssel,VBO,6.883650,52.221056
 Parkweg,25,,,7513AR,Enschede,Enschede,Overijssel,VBO,6.883650,52.221056
@@ -231,7 +230,8 @@ Emmastraat,69,,,7513BA,Enschede,Enschede,Overijssel,VBO,6.887840,52.217579
 Emmastraat,71,,,7513BA,Enschede,Enschede,Overijssel,VBO,6.887772,52.217532
 Emmastraat,73,,,7513BA,Enschede,Enschede,Overijssel,VBO,6.887701,52.217580
 Emmastraat,75,,,7513BA,Enschede,Enschede,Overijssel,VBO,6.887632,52.217544
-Emmastraat,77,,,7513BB,Enschede,Enschede,Overijssel,VBO,6.887507,52.217567
+Emmastraat,77,A,,7513BB,Enschede,Enschede,Overijssel,VBO,6.887507,52.217567
+Emmastraat,77,,,7513BB,Enschede,Enschede,Overijssel,VBO,6.887538,52.217492
 Emmastraat,97,,,7513BB,Enschede,Enschede,Overijssel,VBO,6.887074,52.217503
 Emmastraat,99,,,7513BB,Enschede,Enschede,Overijssel,VBO,6.886940,52.217447
 Emmastraat,101,,,7513BB,Enschede,Enschede,Overijssel,VBO,6.886872,52.217425
@@ -350,235 +350,52 @@ Emmastraat,190,,,7513BH,Enschede,Enschede,Overijssel,VBO,6.883202,52.218249
 Emmastraat,210,,101,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,103,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,105,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,107,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,108,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,109,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,110,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,111,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,112,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,113,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,114,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,115,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,116,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,117,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,118,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,119,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,120,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,121,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,122,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,123,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,124,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,125,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,126,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,127,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,128,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,129,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,130,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
+Emmastraat,210,,110,7513BH,Enschede,Enschede,Overijssel,VBO,6.881494,52.218640
 Emmastraat,210,,131,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,133,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,135,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,201,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,203,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,205,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,207,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,208,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,209,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,210,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,211,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,212,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,213,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,214,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,215,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,216,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,217,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,218,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,219,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,220,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,221,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,222,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,223,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,224,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,225,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,226,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,227,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,228,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,229,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,230,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
+Emmastraat,210,,210,7513BH,Enschede,Enschede,Overijssel,VBO,6.881497,52.218666
 Emmastraat,210,,231,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,233,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,235,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,301,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,303,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,305,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,307,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,308,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,309,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,310,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,311,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,312,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,313,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,314,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,315,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,316,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,317,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,318,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,319,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,320,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,321,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,322,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,323,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,324,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,325,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,326,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,327,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,328,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,329,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,330,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
+Emmastraat,210,,310,7513BH,Enschede,Enschede,Overijssel,VBO,6.881500,52.218692
 Emmastraat,210,,331,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,333,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,335,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,401,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,403,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,405,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,407,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,408,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,409,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,410,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,411,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,412,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,413,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,414,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,415,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,416,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,417,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,418,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,419,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,420,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,421,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,422,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,423,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,424,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,425,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,426,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,427,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,428,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,429,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,430,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
+Emmastraat,210,,410,7513BH,Enschede,Enschede,Overijssel,VBO,6.881500,52.218711
 Emmastraat,210,,431,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,433,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,435,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,501,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,503,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,505,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,507,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,508,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,509,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,510,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,511,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,512,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,513,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,514,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,515,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,516,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,517,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,518,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,519,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,520,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,521,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,522,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,523,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,524,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,525,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,526,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,527,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,528,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,529,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,530,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
+Emmastraat,210,,510,7513BH,Enschede,Enschede,Overijssel,VBO,6.881401,52.218700
 Emmastraat,210,,531,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,533,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,535,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,601,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,603,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,605,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,607,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,608,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,609,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,610,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,611,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,612,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,613,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,614,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,615,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,616,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,617,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,618,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,619,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,620,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,621,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,622,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,623,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,624,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,625,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,626,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,627,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,628,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,629,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,630,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
+Emmastraat,210,,610,7513BH,Enschede,Enschede,Overijssel,VBO,6.881545,52.218755
 Emmastraat,210,,631,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,633,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,635,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,701,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,702,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,703,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,704,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,705,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,706,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,707,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,708,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,709,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,710,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,711,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,712,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,713,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,714,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,715,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,716,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,717,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,718,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,719,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,720,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,721,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,722,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,723,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,724,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,801,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,802,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,803,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,804,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,805,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,806,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,807,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,808,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,809,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,810,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,811,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,812,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,813,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,814,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,815,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,901,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,902,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,903,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,904,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,905,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,907,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,908,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,909,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
-Emmastraat,210,,910,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
+Emmastraat,210,,710,7513BH,Enschede,Enschede,Overijssel,VBO,6.881548,52.218785
+Emmastraat,210,,810,7513BH,Enschede,Enschede,Overijssel,VBO,6.881550,52.218808
 Emmastraat,210,,911,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,913,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,915,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
 Emmastraat,210,,917,7513BH,Enschede,Enschede,Overijssel,VBO,6.881456,52.218525
+Emmastraat,210,,,7513BH,Enschede,Enschede,Overijssel,VBO,6.881497,52.218617
 Emmastraat,216,,,7513BH,Enschede,Enschede,Overijssel,VBO,6.882248,52.217689
 Emmastraat,222,,,7513BJ,Enschede,Enschede,Overijssel,VBO,6.882056,52.217728
 Emmastraat,224,,,7513BJ,Enschede,Enschede,Overijssel,VBO,6.881966,52.217753
@@ -1081,8 +898,7 @@ Volksparksingel,4,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.874133,52.217590
 Volksparksingel,6,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.873989,52.217698
 Volksparksingel,8,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.873950,52.217742
 Volksparksingel,12,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.873928,52.217810
-Volksparksingel,14,A,,7513CT,Enschede,Enschede,Overijssel,VBO,6.873889,52.217871
-Volksparksingel,14,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.873889,52.217871
+Volksparksingel,14,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.873872,52.217872
 Volksparksingel,16,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.874063,52.218197
 Volksparksingel,30,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.874271,52.219030
 Volksparksingel,40,,,7513CT,Enschede,Enschede,Overijssel,VBO,6.874195,52.219764
@@ -1107,7 +923,8 @@ Zwedeweg,22,,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877222,52.216705
 Zwedeweg,24,,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877210,52.216663
 Zwedeweg,26,,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877196,52.216619
 Zwedeweg,28,A,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877191,52.216564
-Zwedeweg,28,,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877191,52.216564
+Zwedeweg,28,B,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877095,52.216560
+Zwedeweg,28,,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877211,52.216563
 Zwedeweg,30,,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877181,52.216519
 Zwedeweg,32,,,7513CW,Enschede,Enschede,Overijssel,VBO,6.877159,52.216395
 Tweede Emmastraat,1,,,7513CX,Enschede,Enschede,Overijssel,VBO,6.877127,52.217162
@@ -1895,7 +1712,11 @@ Haaksbergerstraat,298,B,,7513EG,Enschede,Enschede,Overijssel,VBO,6.881853,52.212
 Haaksbergerstraat,298,,,7513EG,Enschede,Enschede,Overijssel,VBO,6.881829,52.212642
 Haaksbergerstraat,300,A,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881657,52.212531
 Haaksbergerstraat,300,,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881674,52.212507
-Haaksbergerstraat,302,,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881558,52.212454
+Haaksbergerstraat,302,A,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881470,52.212549
+Haaksbergerstraat,302,B,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881402,52.212622
+Haaksbergerstraat,302,C,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881372,52.212657
+Haaksbergerstraat,302,D,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881343,52.212689
+Haaksbergerstraat,302,,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881547,52.212467
 Haaksbergerstraat,304,,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881526,52.212492
 Haaksbergerstraat,306,,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881503,52.212504
 Haaksbergerstraat,308,A,,7513EH,Enschede,Enschede,Overijssel,VBO,6.881407,52.212425
@@ -2145,6 +1966,8 @@ Broekheurnerweg,72,,4,7513ES,Enschede,Enschede,Overijssel,VBO,6.881598,52.211541
 Broekheurnerweg,72,,6,7513ES,Enschede,Enschede,Overijssel,VBO,6.881628,52.211558
 Broekheurnerweg,72,,8,7513ES,Enschede,Enschede,Overijssel,VBO,6.881648,52.211581
 Broekheurnerweg,72,,,7513ES,Enschede,Enschede,Overijssel,VBO,6.882173,52.211421
+Broekheurnerweg,76,A,,7513ES,Enschede,Enschede,Overijssel,VBO,6.882026,52.211330
+Broekheurnerweg,76,B,,7513ES,Enschede,Enschede,Overijssel,VBO,6.881939,52.211332
 Broekheurnerweg,76,,,7513ES,Enschede,Enschede,Overijssel,VBO,6.882035,52.211288
 Broekheurnerweg,78,A,,7513ES,Enschede,Enschede,Overijssel,VBO,6.882103,52.211234
 Broekheurnerweg,78,,,7513ES,Enschede,Enschede,Overijssel,VBO,6.882126,52.211268
@@ -2154,6 +1977,7 @@ Broekheurnerweg,82,,,7513ES,Enschede,Enschede,Overijssel,VBO,6.881980,52.211150
 Cromhoffsbleekweg,1,,,7513ET,Enschede,Enschede,Overijssel,VBO,6.888046,52.213233
 Cromhoffsbleekweg,3,,,7513ET,Enschede,Enschede,Overijssel,VBO,6.887684,52.213231
 Cromhoffsbleekweg,5,,,7513ET,Enschede,Enschede,Overijssel,VBO,6.887517,52.212874
+Cromhoffsbleekweg,69,,,7513ET,Enschede,Enschede,Overijssel,VBO,6.887742,52.212463
 Cromhoffsbleekweg,75,,,7513ET,Enschede,Enschede,Overijssel,VBO,6.887697,52.212199
 Cromhoffsbleekweg,10,,,7513EW,Enschede,Enschede,Overijssel,VBO,6.886836,52.213733
 Cromhoffsbleekweg,12,,,7513EW,Enschede,Enschede,Overijssel,VBO,6.886836,52.213733
@@ -2211,6 +2035,8 @@ Cromhoffsbleekweg,138,,,7513EW,Enschede,Enschede,Overijssel,VBO,6.886228,52.2113
 Cromhoffsbleekweg,142,,,7513EW,Enschede,Enschede,Overijssel,VBO,6.886176,52.210990
 Cromhoffsbleekweg,144,,,7513EW,Enschede,Enschede,Overijssel,VBO,6.886156,52.210939
 Cromhoffsbleekweg,146,,,7513EW,Enschede,Enschede,Overijssel,VBO,6.886131,52.210869
+Industriestraat,30,,,7513EZ,Enschede,Enschede,Overijssel,VBO,6.888304,52.212532
+Industriestraat,32,,,7513EZ,Enschede,Enschede,Overijssel,VBO,6.888313,52.212349
 Getfertsingel,41,,,7513GA,Enschede,Enschede,Overijssel,VBO,6.886804,52.209608
 Getfertsingel,45,,,7513GA,Enschede,Enschede,Overijssel,VBO,6.885428,52.209834
 Getfertsingel,47,,,7513GA,Enschede,Enschede,Overijssel,VBO,6.885813,52.210039
@@ -2295,94 +2121,27 @@ Getfertsingel,204,,,7513GG,Enschede,Enschede,Overijssel,VBO,6.880946,52.211175
 Getfertsingel,206,,,7513GG,Enschede,Enschede,Overijssel,VBO,6.880760,52.211175
 Getfertsingel,208,,,7513GG,Enschede,Enschede,Overijssel,VBO,6.880620,52.211197
 Getfertsingel,210,,,7513GG,Enschede,Enschede,Overijssel,VBO,6.880402,52.211216
-Mina Krusemanstraat,1,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,3,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,5,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,7,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,9,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,11,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,13,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,15,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,17,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,19,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,21,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,23,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,25,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,27,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,29,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,31,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,33,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,35,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882262,52.217398
-Mina Krusemanstraat,37,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,39,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,41,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,43,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,45,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,47,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,49,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,51,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,53,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,55,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,57,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,59,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,61,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,63,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,65,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,67,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,69,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,71,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882019,52.217301
-Mina Krusemanstraat,73,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,75,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,77,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,79,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,81,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,83,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,85,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,87,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,89,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,91,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,93,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,95,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,97,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,99,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,101,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,103,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,105,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,107,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881996,52.217113
-Mina Krusemanstraat,109,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,111,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,113,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,115,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,117,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,119,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,121,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,123,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,125,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,127,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,129,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,131,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,133,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,135,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,137,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,139,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,141,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,143,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,145,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,147,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,149,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,151,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,153,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
-Mina Krusemanstraat,155,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882023,52.216930
+Mina Krusemanstraat,1,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882332,52.217407
+Mina Krusemanstraat,11,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882308,52.217383
+Mina Krusemanstraat,25,,,7513HA,Enschede,Enschede,Overijssel,VBO,6.882251,52.217376
+Mina Krusemanstraat,37,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.881983,52.217337
+Mina Krusemanstraat,47,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882056,52.217315
+Mina Krusemanstraat,61,,,7513HB,Enschede,Enschede,Overijssel,VBO,6.882010,52.217269
+Mina Krusemanstraat,73,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.882024,52.217152
+Mina Krusemanstraat,83,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881953,52.217115
+Mina Krusemanstraat,97,,,7513HC,Enschede,Enschede,Overijssel,VBO,6.881999,52.217093
+Mina Krusemanstraat,109,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882075,52.216967
+Mina Krusemanstraat,117,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.881997,52.216966
+Mina Krusemanstraat,131,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882070,52.216930
+Mina Krusemanstraat,145,,,7513HD,Enschede,Enschede,Overijssel,VBO,6.882020,52.216900
 Mina Krusemanstraat,157,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
 Mina Krusemanstraat,159,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
 Mina Krusemanstraat,161,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
-Mina Krusemanstraat,163,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
-Mina Krusemanstraat,165,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
+Mina Krusemanstraat,163,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881962,52.216739
 Mina Krusemanstraat,167,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
 Mina Krusemanstraat,169,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
 Mina Krusemanstraat,171,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
-Mina Krusemanstraat,173,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
-Mina Krusemanstraat,175,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
+Mina Krusemanstraat,173,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881938,52.216716
 Mina Krusemanstraat,177,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
 Mina Krusemanstraat,179,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
 Mina Krusemanstraat,181,,,7513HE,Enschede,Enschede,Overijssel,VBO,6.881917,52.216737
@@ -2395,30 +2154,23 @@ Mina Krusemanstraat,193,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.21
 Mina Krusemanstraat,195,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
 Mina Krusemanstraat,197,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
 Mina Krusemanstraat,199,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
-Mina Krusemanstraat,201,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
-Mina Krusemanstraat,203,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
+Mina Krusemanstraat,201,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881888,52.216618
 Mina Krusemanstraat,205,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
 Mina Krusemanstraat,207,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
 Mina Krusemanstraat,209,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
-Mina Krusemanstraat,211,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
-Mina Krusemanstraat,213,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
+Mina Krusemanstraat,211,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881868,52.216591
 Mina Krusemanstraat,215,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
 Mina Krusemanstraat,217,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
 Mina Krusemanstraat,219,,,7513HG,Enschede,Enschede,Overijssel,VBO,6.881907,52.216597
-Mina Krusemanstraat,221,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,223,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
+Mina Krusemanstraat,221,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881995,52.216472
 Mina Krusemanstraat,225,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
 Mina Krusemanstraat,227,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,229,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,231,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,233,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,235,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
+Mina Krusemanstraat,229,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881955,52.216478
+Mina Krusemanstraat,233,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881944,52.216453
 Mina Krusemanstraat,237,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
 Mina Krusemanstraat,239,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,241,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,243,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,245,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
-Mina Krusemanstraat,247,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
+Mina Krusemanstraat,241,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.882040,52.216478
+Mina Krusemanstraat,245,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.882043,52.216445
 Mina Krusemanstraat,249,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
 Mina Krusemanstraat,251,,,7513HH,Enschede,Enschede,Overijssel,VBO,6.881987,52.216444
 Mina Krusemanstraat,253,,,7513HJ,Enschede,Enschede,Overijssel,VBO,6.882210,52.216436

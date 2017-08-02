@@ -1,5 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Kooijdijk,1,A,,3615AA,Westbroek,De Bilt,Utrecht,VBO,5.116957,52.140808
+Kooijdijk,1,A,,3615AA,Westbroek,De Bilt,Utrecht,VBO,5.117065,52.140859
 Kooijdijk,1,,,3615AA,Westbroek,De Bilt,Utrecht,VBO,5.116577,52.140807
 Kooijdijk,5,,,3615AA,Westbroek,De Bilt,Utrecht,VBO,5.118658,52.140319
 Kooijdijk,7,,,3615AA,Westbroek,De Bilt,Utrecht,VBO,5.118935,52.140240
@@ -12,7 +12,6 @@ Kooijdijk,33,,,3615AA,Westbroek,De Bilt,Utrecht,VBO,5.142971,52.135567
 Kooijdijk,4,A,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.116154,52.139950
 Kooijdijk,4,,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.116783,52.140144
 Kooijdijk,6,A,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.116435,52.139331
-Kooijdijk,6,B,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.115842,52.138753
 Kooijdijk,6,B,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.116042,52.138866
 Kooijdijk,6,,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.117261,52.140125
 Kooijdijk,8,,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.117368,52.140082
@@ -31,6 +30,7 @@ Kooijdijk,34,,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.131222,52.137404
 Kooijdijk,36,A,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.138415,52.135712
 Kooijdijk,36,B,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.138663,52.135847
 Kooijdijk,36,C,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.138211,52.135361
+Kooijdijk,36,,,3615AB,Westbroek,De Bilt,Utrecht,VBO,5.138253,52.135451
 Burgemeester Huydecoperweg,1,,,3615AC,Westbroek,De Bilt,Utrecht,VBO,5.125667,52.149950
 Burgemeester Huydecoperweg,3,,,3615AC,Westbroek,De Bilt,Utrecht,VBO,5.125613,52.149903
 Burgemeester Huydecoperweg,5,,,3615AC,Westbroek,De Bilt,Utrecht,VBO,5.125515,52.149826
@@ -170,7 +170,9 @@ Dr. Welfferweg,40,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.128549,52.149592
 Dr. Welfferweg,42,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.128310,52.149397
 Dr. Welfferweg,44,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.128158,52.149161
 Dr. Welfferweg,46,A,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.127522,52.148713
+Dr. Welfferweg,46,B,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.127851,52.148873
 Dr. Welfferweg,46,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.128043,52.149209
+Dr. Welfferweg,48,A,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.128200,52.148793
 Dr. Welfferweg,48,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.128513,52.149060
 Dr. Welfferweg,50,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.128562,52.149123
 Dr. Welfferweg,52,A,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.128866,52.149445
@@ -182,7 +184,7 @@ Dr. Welfferweg,62,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.130242,52.149540
 Dr. Welfferweg,64,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.130327,52.149505
 Dr. Welfferweg,66,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.131252,52.149501
 Dr. Welfferweg,68,,TR,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.131085,52.149365
-Dr. Welfferweg,68,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.131110,52.149258
+Dr. Welfferweg,68,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.131247,52.149442
 Dr. Welfferweg,70,,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.131359,52.149451
 Dr. Welfferweg,74,A,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.132177,52.149361
 Dr. Welfferweg,74,B,,3615AP,Westbroek,De Bilt,Utrecht,VBO,5.132135,52.149329
@@ -226,6 +228,7 @@ Kerkdijk,5,A,,3615BA,Westbroek,De Bilt,Utrecht,VBO,5.125709,52.150817
 Kerkdijk,5,,,3615BA,Westbroek,De Bilt,Utrecht,VBO,5.125646,52.150790
 Kerkdijk,7,,,3615BA,Westbroek,De Bilt,Utrecht,VBO,5.125520,52.150838
 Kerkdijk,9,A,,3615BA,Westbroek,De Bilt,Utrecht,VBO,5.125142,52.150797
+Kerkdijk,9,B,,3615BA,Westbroek,De Bilt,Utrecht,VBO,5.125142,52.150679
 Kerkdijk,9,,,3615BA,Westbroek,De Bilt,Utrecht,VBO,5.125229,52.150862
 Kerkdijk,11,,,3615BA,Westbroek,De Bilt,Utrecht,VBO,5.125308,52.150944
 Kerkdijk,17,,,3615BA,Westbroek,De Bilt,Utrecht,VBO,5.124848,52.151033
@@ -255,7 +258,7 @@ Kerkdijk,47,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.121401,52.152562
 Kerkdijk,49,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.120906,52.152489
 Kerkdijk,51,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.120756,52.152667
 Kerkdijk,55,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.120206,52.153042
-Kerkdijk,57,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.119862,52.153164
+Kerkdijk,57,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.119948,52.153161
 Kerkdijk,59,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.119560,52.153248
 Kerkdijk,61,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.119392,52.153431
 Kerkdijk,63,,,3615BB,Westbroek,De Bilt,Utrecht,VBO,5.119077,52.153554
@@ -294,7 +297,6 @@ Kerkdijk,135,,,3615BD,Westbroek,De Bilt,Utrecht,VBO,5.106362,52.158111
 Kerkdijk,137,,,3615BD,Westbroek,De Bilt,Utrecht,VBO,5.106064,52.158217
 Kerkdijk,141,,,3615BD,Westbroek,De Bilt,Utrecht,VBO,5.104799,52.158466
 Kerkdijk,143,A,,3615BD,Westbroek,De Bilt,Utrecht,VBO,5.104052,52.158858
-Kerkdijk,143,,,3615BD,Westbroek,De Bilt,Utrecht,VBO,5.103989,52.158790
 Kerkdijk,149,,,3615BD,Westbroek,De Bilt,Utrecht,VBO,5.102367,52.159458
 Kerkdijk,2,A,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.127437,52.152370
 Kerkdijk,2,,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.128090,52.152846
@@ -314,7 +316,8 @@ Kerkdijk,30,,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.122080,52.152837
 Kerkdijk,32,,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.121724,52.153148
 Kerkdijk,34,,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.121747,52.153620
 Kerkdijk,36,A,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.120820,52.153594
-Kerkdijk,36,,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.121087,52.153422
+Kerkdijk,36,B,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.121120,52.153418
+Kerkdijk,36,,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.120944,52.153297
 Kerkdijk,38,A,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.120381,52.153607
 Kerkdijk,38,,TR,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.120603,52.153620
 Kerkdijk,38,,,3615BE,Westbroek,De Bilt,Utrecht,VBO,5.120345,52.153569
@@ -345,7 +348,7 @@ Kerkdijk,72,A,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.116708,52.155099
 Kerkdijk,72,,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.116572,52.154972
 Kerkdijk,74,,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.116443,52.155213
 Kerkdijk,78,,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.115264,52.155513
-Kerkdijk,80,A,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.114707,52.155707
+Kerkdijk,80,A,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.114808,52.155782
 Kerkdijk,80,,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.114739,52.155585
 Kerkdijk,82,,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.114424,52.155809
 Kerkdijk,84,,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.114143,52.155900
@@ -357,6 +360,7 @@ Kerkdijk,94,,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.113127,52.156171
 Kerkdijk,98,,,3615BH,Westbroek,De Bilt,Utrecht,VBO,5.112837,52.156279
 Kerkdijk,100,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.112990,52.156636
 Kerkdijk,102,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.112942,52.156578
+Kerkdijk,104,A,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.112641,52.156290
 Kerkdijk,104,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.112573,52.156284
 Kerkdijk,106,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.112270,52.156453
 Kerkdijk,108,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.112074,52.156569
@@ -372,7 +376,7 @@ Kerkdijk,126,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.111009,52.157351
 Kerkdijk,128,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.110427,52.157020
 Kerkdijk,130,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.110339,52.157049
 Kerkdijk,134,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.109811,52.157553
-Kerkdijk,136,A,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.109582,52.157520
+Kerkdijk,136,A,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.109602,52.157541
 Kerkdijk,136,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.109389,52.157369
 Kerkdijk,138,,,3615BJ,Westbroek,De Bilt,Utrecht,VBO,5.109164,52.157476
 Kerkdijk,140,,,3615BK,Westbroek,De Bilt,Utrecht,VBO,5.109162,52.157875

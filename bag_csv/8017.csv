@@ -440,10 +440,12 @@ Energieweg,22,,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.105220,52.494799
 Energieweg,24,,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.105277,52.494838
 Energieweg,30,C,1,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.105632,52.495067
 Energieweg,34,,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.106541,52.495692
-Energieweg,36,,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.106561,52.495795
+Energieweg,36,A,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.106648,52.495711
+Energieweg,36,,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.106614,52.495783
 Energieweg,38,A,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.106906,52.495988
 Energieweg,38,,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.106773,52.495970
 Energieweg,40,,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.106939,52.496106
+Energieweg,42,,,8017BE,Zwolle,Zwolle,Overijssel,VBO,6.107199,52.496237
 Grenslaan,1,,,8017BG,Zwolle,Zwolle,Overijssel,VBO,6.096536,52.499114
 Grenslaan,3,,,8017BG,Zwolle,Zwolle,Overijssel,VBO,6.096623,52.499085
 Grenslaan,5,,,8017BG,Zwolle,Zwolle,Overijssel,VBO,6.096983,52.499064
@@ -534,7 +536,7 @@ Schellerbergweg,10,,,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.087056,52.494449
 Schellerbergweg,12,A,,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.085826,52.494305
 Schellerbergweg,12,,,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.085929,52.493994
 Schellerbergweg,16,T,1,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.084104,52.493658
-Schellerbergweg,18,A,,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.083559,52.493764
+Schellerbergweg,18,A,,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.084193,52.493967
 Schellerbergweg,18,,,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.083624,52.493727
 Schellerbergweg,20,,,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.084411,52.493856
 Schellerbergweg,22,,,8017BN,Zwolle,Zwolle,Overijssel,VBO,6.084368,52.493918
@@ -569,9 +571,6 @@ Schellerenkweg,1,T,1,8017BT,Zwolle,Zwolle,Overijssel,VBO,6.079070,52.488523
 Schellerenkweg,1,,,8017BT,Zwolle,Zwolle,Overijssel,VBO,6.078919,52.488418
 Schellerenkweg,2,,,8017BT,Zwolle,Zwolle,Overijssel,VBO,6.078973,52.491935
 Schellerenkweg,4,,,8017BT,Zwolle,Zwolle,Overijssel,VBO,6.078615,52.490621
-Schellerdijk,2,,,8017BV,Zwolle,Zwolle,Overijssel,VBO,6.068677,52.486120
-Schellerdijk,4,T,1,8017BV,Zwolle,Zwolle,Overijssel,VBO,6.069086,52.486062
-Schellerdijk,4,,,8017BV,Zwolle,Zwolle,Overijssel,VBO,6.068747,52.486157
 Schellerdijk,6,A,,8017BV,Zwolle,Zwolle,Overijssel,VBO,6.077944,52.487558
 Schellerdijk,6,B,,8017BV,Zwolle,Zwolle,Overijssel,VBO,6.078153,52.487289
 Schellerdijk,6,,,8017BV,Zwolle,Zwolle,Overijssel,VBO,6.077928,52.488017
@@ -653,7 +652,6 @@ Campus,2,Z,,8017CA,Zwolle,Zwolle,Overijssel,VBO,6.078706,52.499714
 Campus,2,,,8017CA,Zwolle,Zwolle,Overijssel,VBO,6.081462,52.499673
 Campus,4,R,1,8017CA,Zwolle,Zwolle,Overijssel,VBO,6.083338,52.500974
 Campus,4,T,1,8017CA,Zwolle,Zwolle,Overijssel,VBO,6.082828,52.500917
-Campus,4,,,8017CA,Zwolle,Zwolle,Overijssel,VBO,6.082450,52.500162
 Campus,5,,,8017CB,Zwolle,Zwolle,Overijssel,VBO,6.080784,52.498273
 Campus,7,,,8017CB,Zwolle,Zwolle,Overijssel,VBO,6.079602,52.497725
 Burgemeester van Walsumlaan,1,,1,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084627,52.501040
@@ -681,12 +679,15 @@ Burgemeester van Walsumlaan,1,,29,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084434,5
 Burgemeester van Walsumlaan,1,,3,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084608,52.500977
 Burgemeester van Walsumlaan,1,,30,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084428,52.500721
 Burgemeester van Walsumlaan,1,,31,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084468,52.500887
+Burgemeester van Walsumlaan,1,,32,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084551,52.500723
+Burgemeester van Walsumlaan,1,,33,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084617,52.500961
 Burgemeester van Walsumlaan,1,,4,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084601,52.500947
 Burgemeester van Walsumlaan,1,,5,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084592,52.500918
 Burgemeester van Walsumlaan,1,,6,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084571,52.500832
 Burgemeester van Walsumlaan,1,,7,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084563,52.500803
 Burgemeester van Walsumlaan,1,,8,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084552,52.500772
 Burgemeester van Walsumlaan,1,,9,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084544,52.500739
+Burgemeester van Walsumlaan,1,,,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084582,52.500875
 Burgemeester van Walsumlaan,1,,,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.084607,52.500872
 Burgemeester van Walsumlaan,3,,,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.085050,52.500875
 Burgemeester van Walsumlaan,5,,,8017CC,Zwolle,Zwolle,Overijssel,VBO,6.085077,52.500638
@@ -1543,6 +1544,10 @@ Vrouwenlaan,119,,,8017HR,Zwolle,Zwolle,Overijssel,VBO,6.105581,52.497169
 Vrouwenlaan,125,,,8017HR,Zwolle,Zwolle,Overijssel,VBO,6.107650,52.496548
 Vrouwenlaan,127,,,8017HR,Zwolle,Zwolle,Overijssel,VBO,6.107435,52.495068
 Vrouwenlaan,129,,,8017HR,Zwolle,Zwolle,Overijssel,VBO,6.107347,52.494988
+Stien Eelsinghstraat,2,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.106892,52.495524
+Stien Eelsinghstraat,3,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107339,52.496154
+Stien Eelsinghstraat,4,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.106642,52.495626
+Stien Eelsinghstraat,5,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107445,52.496055
 Stien Eelsinghstraat,9,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107309,52.495764
 Vrouwenlaan,24,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.102735,52.498454
 Vrouwenlaan,26,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.102748,52.498397
@@ -1582,9 +1587,9 @@ Vrouwenlaan,90,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.106648,52.496694
 Vrouwenlaan,92,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.106710,52.496658
 Vrouwenlaan,94,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.106866,52.496595
 Vrouwenlaan,96,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.106944,52.496559
-Vrouwenlaan,98,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107325,52.496361
-Vrouwenlaan,100,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107599,52.496238
-Vrouwenlaan,102,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107674,52.496028
+Vrouwenlaan,98,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107386,52.496347
+Vrouwenlaan,100,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107556,52.496267
+Vrouwenlaan,102,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107697,52.496057
 Vrouwenlaan,104,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107633,52.495838
 Vrouwenlaan,106,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107547,52.495674
 Vrouwenlaan,108,,,8017HS,Zwolle,Zwolle,Overijssel,VBO,6.107424,52.495500
@@ -1667,6 +1672,7 @@ Vrouwenlaan,168,,,8017HW,Zwolle,Zwolle,Overijssel,VBO,6.105223,52.494191
 Vrouwenlaan,170,,,8017HW,Zwolle,Zwolle,Overijssel,VBO,6.105177,52.494158
 Vrouwenlaan,173,N,1,8017HW,Zwolle,Zwolle,Overijssel,VBO,6.105190,52.493540
 Vrouwenlaan,173,,,8017HW,Zwolle,Zwolle,Overijssel,VBO,6.105285,52.493375
+Vrouwenlaan,175,A,,8017HW,Zwolle,Zwolle,Overijssel,VBO,6.105953,52.493448
 Vrouwenlaan,175,,,8017HW,Zwolle,Zwolle,Overijssel,VBO,6.105420,52.493253
 Vrouwenlaan,177,,,8017HW,Zwolle,Zwolle,Overijssel,VBO,6.105553,52.493105
 Muijdermanstraat,1,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106747,52.494989
@@ -1681,9 +1687,9 @@ Muijdermanstraat,2,H,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.107090,52.495236
 Muijdermanstraat,2,J,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.107069,52.495191
 Muijdermanstraat,2,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.107007,52.495233
 Muijdermanstraat,3,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106684,52.495024
-Muijdermanstraat,4,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106712,52.495415
+Muijdermanstraat,4,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106685,52.495431
 Muijdermanstraat,5,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106636,52.495062
-Muijdermanstraat,6,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106525,52.495498
+Muijdermanstraat,6,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106517,52.495521
 Muijdermanstraat,7,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106584,52.495097
 Muijdermanstraat,8,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106335,52.495587
 Muijdermanstraat,9,,,8017HX,Zwolle,Zwolle,Overijssel,VBO,6.106537,52.495137
@@ -1778,26 +1784,8 @@ Hanzelaan,97,T,1,8017JE,Zwolle,Zwolle,Overijssel,VBO,6.087070,52.504453
 Hanzelaan,97,,,8017JE,Zwolle,Zwolle,Overijssel,VBO,6.087192,52.504036
 Hanzelaan,101,T,1,8017JE,Zwolle,Zwolle,Overijssel,VBO,6.088438,52.504177
 Hanzelaan,150,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086416,52.503183
-Hanzelaan,152,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086338,52.503194
-Hanzelaan,154,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086254,52.503198
-Hanzelaan,156,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086173,52.503204
-Hanzelaan,158,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086083,52.503208
-Hanzelaan,160,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086002,52.503215
-Hanzelaan,162,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086053,52.503320
-Hanzelaan,164,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086068,52.503374
-Hanzelaan,166,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086086,52.503435
-Hanzelaan,168,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086138,52.503571
-Hanzelaan,170,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086150,52.503627
-Hanzelaan,172,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086163,52.503689
-Hanzelaan,174,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086319,52.503814
-Hanzelaan,176,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086415,52.503807
-Hanzelaan,178,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086513,52.503799
 Hanzelaan,180,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086705,52.503793
-Hanzelaan,182,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086815,52.503787
-Hanzelaan,184,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.086902,52.503775
 Hanzelaan,186,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.087003,52.503328
-Hanzelaan,188,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.087006,52.503369
-Hanzelaan,190,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.087016,52.503411
 Hanzelaan,192,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.087016,52.503457
 Hanzelaan,194,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.087026,52.503507
 Hanzelaan,196,,,8017JG,Zwolle,Zwolle,Overijssel,VBO,6.087038,52.503564
@@ -1814,9 +1802,6 @@ Koggelaan,3,E,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.086987,52.503149
 Koggelaan,3,F,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.086987,52.503181
 Koggelaan,3,G,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.086988,52.503209
 Koggelaan,3,H,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.086847,52.503150
-Koggelaan,3,J,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.086760,52.503156
-Koggelaan,3,K,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.086682,52.503162
-Koggelaan,3,L,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.086609,52.503164
 Koggelaan,3,,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.087394,52.503113
 Koggelaan,5,A,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.088493,52.503048
 Koggelaan,5,B,,8017JH,Zwolle,Zwolle,Overijssel,VBO,6.088412,52.503052
@@ -1890,7 +1875,6 @@ Koggelaan,17,,,8017JN,Zwolle,Zwolle,Overijssel,VBO,6.089127,52.502963
 Koggelaan,19,,,8017JN,Zwolle,Zwolle,Overijssel,VBO,6.089301,52.502984
 Koggelaan,21,,,8017JN,Zwolle,Zwolle,Overijssel,VBO,6.089234,52.502987
 Koggelaan,29,,,8017JN,Zwolle,Zwolle,Overijssel,VBO,6.091134,52.502896
-Koggelaan,31,,,8017JN,Zwolle,Zwolle,Overijssel,VBO,6.091265,52.502892
 Koggelaan,33,,,8017JN,Zwolle,Zwolle,Overijssel,VBO,6.091617,52.502910
 Koggelaan,59,,,8017JN,Zwolle,Zwolle,Overijssel,VBO,6.093208,52.502822
 Koggelaan,69,,,8017JN,Zwolle,Zwolle,Overijssel,VBO,6.093497,52.502926
@@ -1972,11 +1956,8 @@ Zuiderzeelaan,31,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.081871,52.502588
 Zuiderzeelaan,33,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.081851,52.502536
 Zuiderzeelaan,35,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.081994,52.502516
 Zuiderzeelaan,37,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.082010,52.502455
-Zuiderzeelaan,43,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.080718,52.502803
-Zuiderzeelaan,45,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.080800,52.502748
-Zuiderzeelaan,47,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.080958,52.502707
-Zuiderzeelaan,49,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.081171,52.502691
-Zuiderzeelaan,51,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.081390,52.502712
+Zuiderzeelaan,43,T,1,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.081414,52.502774
+Zuiderzeelaan,43,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.081169,52.502692
 Zuiderzeelaan,53,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.079822,52.503066
 Zuiderzeelaan,55,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.079796,52.503003
 Zuiderzeelaan,57,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.079764,52.502934
@@ -1987,14 +1968,63 @@ Zuiderzeelaan,65,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.079090,52.503164
 Zuiderzeelaan,67,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.079071,52.503102
 Zuiderzeelaan,69,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.079025,52.503023
 Zuiderzeelaan,71,,,8017JV,Zwolle,Zwolle,Overijssel,VBO,6.078979,52.502944
+Noordzeelaan,2,N,1,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084814,52.503863
 Noordzeelaan,2,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084561,52.503844
-Noordzeelaan,4,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084670,52.503839
-Noordzeelaan,6,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084785,52.503833
 Noordzeelaan,8,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084540,52.503767
+Noordzeelaan,10,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084369,52.503541
+Noordzeelaan,10,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084397,52.503597
+Noordzeelaan,10,C,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084446,52.503749
+Noordzeelaan,10,D,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084519,52.503887
+Noordzeelaan,10,E,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084633,52.503900
+Noordzeelaan,10,F,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084744,52.503884
+Noordzeelaan,10,G,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084789,52.503785
+Noordzeelaan,10,H,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084651,52.503805
+Noordzeelaan,10,K,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084595,52.503771
+Noordzeelaan,10,L,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084560,52.503676
+Noordzeelaan,10,M,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084512,52.503561
+Noordzeelaan,10,N,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084583,52.503519
+Noordzeelaan,10,P,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084755,52.503499
+Noordzeelaan,10,R,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084992,52.503419
+Noordzeelaan,10,S,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084882,52.503390
+Noordzeelaan,10,T,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084731,52.503412
+Noordzeelaan,10,U,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084584,52.503435
+Noordzeelaan,10,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084353,52.503482
 Noordzeelaan,10,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084520,52.503700
+Noordzeelaan,12,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084411,52.503561
+Noordzeelaan,12,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084421,52.503631
+Noordzeelaan,12,C,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084458,52.503724
+Noordzeelaan,12,D,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084502,52.503860
+Noordzeelaan,12,E,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084585,52.503901
+Noordzeelaan,12,F,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084757,52.503861
+Noordzeelaan,12,G,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084794,52.503813
+Noordzeelaan,12,H,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084600,52.503813
+Noordzeelaan,12,K,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084589,52.503740
+Noordzeelaan,12,L,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084571,52.503709
+Noordzeelaan,12,M,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084518,52.503536
+Noordzeelaan,12,N,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084642,52.503507
+Noordzeelaan,12,P,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084818,52.503495
+Noordzeelaan,12,R,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084979,52.503394
+Noordzeelaan,12,S,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084819,52.503405
+Noordzeelaan,12,T,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084664,52.503425
+Noordzeelaan,12,U,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084517,52.503448
+Noordzeelaan,12,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084389,52.503497
 Noordzeelaan,12,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084499,52.503640
+Noordzeelaan,14,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084532,52.503514
+Noordzeelaan,14,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084688,52.503499
+Noordzeelaan,14,C,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084906,52.503478
+Noordzeelaan,14,D,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084939,52.503421
+Noordzeelaan,14,E,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084859,52.503423
+Noordzeelaan,14,F,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084704,52.503449
+Noordzeelaan,14,G,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084479,52.503479
+Noordzeelaan,14,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084401,52.503468
 Noordzeelaan,14,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084489,52.503580
+Noordzeelaan,16,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084608,52.503876
+Noordzeelaan,16,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084694,52.503876
+Noordzeelaan,16,C,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084722,52.503809
+Noordzeelaan,16,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084551,52.503874
 Noordzeelaan,16,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084572,52.503482
+Noordzeelaan,18,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084476,52.503514
+Noordzeelaan,18,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084427,52.503497
 Noordzeelaan,18,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084808,52.503446
 Noordzeelaan,20,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085084,52.504112
 Noordzeelaan,22,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085046,52.504074
@@ -2002,10 +2032,49 @@ Noordzeelaan,24,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085115,52.504031
 Noordzeelaan,24,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085067,52.504039
 Noordzeelaan,26,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085008,52.504014
 Noordzeelaan,28,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085089,52.503994
+Noordzeelaan,30,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085544,52.503869
+Noordzeelaan,30,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085526,52.503828
+Noordzeelaan,30,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085416,52.503893
 Noordzeelaan,30,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085484,52.503855
+Noordzeelaan,32,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085466,52.503605
+Noordzeelaan,32,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085285,52.503487
+Noordzeelaan,32,C,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085314,52.503566
+Noordzeelaan,32,D,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085347,52.503643
+Noordzeelaan,32,E,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085367,52.503707
+Noordzeelaan,32,F,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085395,52.503789
+Noordzeelaan,32,G,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085417,52.503858
+Noordzeelaan,32,H,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085508,52.503895
+Noordzeelaan,32,K,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085517,52.503754
 Noordzeelaan,32,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085477,52.503794
+Noordzeelaan,32,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085490,52.503672
+Noordzeelaan,34,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085426,52.503475
+Noordzeelaan,34,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085266,52.503466
+Noordzeelaan,34,C,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085315,52.503529
+Noordzeelaan,34,D,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085348,52.503611
+Noordzeelaan,34,E,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085377,52.503676
+Noordzeelaan,34,F,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085395,52.503756
+Noordzeelaan,34,G,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085411,52.503833
+Noordzeelaan,34,H,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085464,52.503885
+Noordzeelaan,34,K,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085497,52.503714
 Noordzeelaan,34,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085465,52.503735
+Noordzeelaan,34,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085481,52.503646
+Noordzeelaan,36,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085443,52.503508
+Noordzeelaan,36,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085263,52.503442
+Noordzeelaan,36,C,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085355,52.503551
+Noordzeelaan,36,D,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085388,52.503632
+Noordzeelaan,36,E,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085417,52.503706
+Noordzeelaan,36,F,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085432,52.503775
+Noordzeelaan,36,G,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085446,52.503847
+Noordzeelaan,36,H,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085473,52.503831
+Noordzeelaan,36,K,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085460,52.503767
 Noordzeelaan,36,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085408,52.503558
+Noordzeelaan,36,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085441,52.503671
+Noordzeelaan,38,A,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085380,52.503525
+Noordzeelaan,38,B,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085409,52.503613
+Noordzeelaan,38,C,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085457,52.503702
+Noordzeelaan,38,D,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085519,52.503789
+Noordzeelaan,38,E,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085541,52.503852
+Noordzeelaan,38,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085349,52.503429
 Noordzeelaan,38,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.085389,52.503448
 Noordzeelaan,40,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.084051,52.504654
 Noordzeelaan,42,,,8017JW,Zwolle,Zwolle,Overijssel,VBO,6.083972,52.504623
@@ -2025,7 +2094,6 @@ Lübeckplein,1,,,8017JZ,Zwolle,Zwolle,Overijssel,VBO,6.090846,52.502871
 Lübeckplein,2,,,8017JZ,Zwolle,Zwolle,Overijssel,VBO,6.090924,52.503073
 Lübeckplein,3,,,8017JZ,Zwolle,Zwolle,Overijssel,VBO,6.090886,52.503279
 Lübeckplein,4,,,8017JZ,Zwolle,Zwolle,Overijssel,VBO,6.090902,52.503358
-Lübeckplein,5,,,8017JZ,Zwolle,Zwolle,Overijssel,VBO,6.090915,52.503423
 Lübeckplein,6,,,8017JZ,Zwolle,Zwolle,Overijssel,VBO,6.090918,52.503480
 Lübeckplein,7,,,8017JZ,Zwolle,Zwolle,Overijssel,VBO,6.090929,52.503602
 Lübeckplein,14,,,8017JZ,Zwolle,Zwolle,Overijssel,VBO,6.089774,52.503658
@@ -3243,7 +3311,6 @@ Rietvoornkolk,5,,,8017PC,Zwolle,Zwolle,Overijssel,VBO,6.093209,52.495310
 Rietvoornkolk,6,,,8017PC,Zwolle,Zwolle,Overijssel,VBO,6.092351,52.495092
 Rietvoornkolk,7,,,8017PC,Zwolle,Zwolle,Overijssel,VBO,6.093039,52.495183
 Rietvoornkolk,8,,,8017PC,Zwolle,Zwolle,Overijssel,VBO,6.092327,52.494783
-Rietvoornkolk,8,,,8017PC,Zwolle,Zwolle,Overijssel,VBO,6.092417,52.494766
 Rietvoornkolk,9,,,8017PC,Zwolle,Zwolle,Overijssel,VBO,6.092820,52.495055
 Rietvoornkolk,10,,,8017PC,Zwolle,Zwolle,Overijssel,VBO,6.092509,52.494702
 Meervalkolk,2,,,8017PD,Zwolle,Zwolle,Overijssel,VBO,6.094532,52.496765
