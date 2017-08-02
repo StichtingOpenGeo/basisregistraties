@@ -84,7 +84,7 @@ Marquette,28,,,1081AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868105,52.324550
 Marquette,30,,,1081AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867416,52.324511
 Marquette,32,,,1081AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867284,52.324511
 Marquette,34,,,1081AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867094,52.324501
-Marquette,36,,,1081AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866996,52.324494
+Marquette,36,,,1081AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867021,52.324491
 Marquette,38,,,1081AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866844,52.324491
 Marquette,40,,,1081AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866756,52.324499
 Marquette,42,,,1081AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866595,52.324490
@@ -146,6 +146,7 @@ Ter Kleef,2,,,1081AM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867149,52.324744
 Ter Kleef,3,,,1081AM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867284,52.324556
 Ter Kleef,5,,,1081AM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867137,52.324555
 Ter Kleef,6,,,1081AM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866475,52.324723
+Ter Kleef,7,,,1081AM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866992,52.324574
 Ter Kleef,9,,,1081AM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866888,52.324545
 Ter Kleef,11,,,1081AM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866756,52.324553
 Ter Kleef,13,,,1081AM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.866624,52.324553
@@ -2151,7 +2152,9 @@ Egelenburg,97,,,1081GJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862863,52.328733
 Egelenburg,99,,,1081GJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862892,52.328734
 Egelenburg,101,,,1081GJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862951,52.328734
 Egelenburg,103,,,1081GJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862995,52.328725
-Egelenburg,2,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862839,52.328248
+Egelenburg,2,A,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863374,52.328350
+Egelenburg,2,B,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863725,52.328336
+Egelenburg,2,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863348,52.328350
 Egelenburg,4,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863586,52.328422
 Egelenburg,6,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863586,52.328422
 Egelenburg,8,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863585,52.328431
@@ -2227,6 +2230,7 @@ Egelenburg,146,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863598,52.328611
 Egelenburg,148,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863629,52.328458
 Egelenburg,150,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863643,52.328521
 Egelenburg,152,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863642,52.328593
+Egelenburg,154,,,1081GK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863642,52.328622
 Cronenburg,1,,,1081GL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860434,52.328174
 Cronenburg,3,,,1081GL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860434,52.328183
 Cronenburg,5,,,1081GL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860434,52.328183
@@ -2821,7 +2825,7 @@ Warmelo,7,,,1081HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858842,52.331340
 Warmelo,8,,,1081HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858357,52.331428
 Warmelo,9,,,1081HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858859,52.331088
 Warmelo,10,,,1081HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858395,52.331196
-Warmelo,12,,,1081HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858416,52.331012
+Warmelo,12,,,1081HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858386,52.331000
 Overijsselweg,1,,,1081HT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.860433,52.332003
 Overijsselweg,5,,,1081HT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.858878,52.331996
 De Boelelaan,1077,A,,1081HV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.867359,52.333625
@@ -2917,6 +2921,9 @@ Amstelveenseweg,623,C,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857766,52.
 Amstelveenseweg,623,D,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857810,52.332953
 Amstelveenseweg,625,,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857796,52.332899
 Amstelveenseweg,627,,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857713,52.332494
+Amstelveenseweg,637,A,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857740,52.332113
+Amstelveenseweg,637,B,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857752,52.332113
+Amstelveenseweg,637,C,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857764,52.332114
 Amstelveenseweg,637,,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857718,52.332117
 Amstelveenseweg,639,,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857718,52.332054
 Amstelveenseweg,641,,,1081JD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857719,52.332000
@@ -2997,20 +3004,28 @@ Amstelveenseweg,588,,,1081JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856503,52.3
 Amstelveenseweg,590,,,1081JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856504,52.336713
 Amstelveenseweg,592,,,1081JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856505,52.336632
 Amstelveenseweg,594,,,1081JH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856708,52.335546
+Amstelveenseweg,638,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856764,52.334000
 Amstelveenseweg,638,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856832,52.333803
 Amstelveenseweg,640,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856831,52.333839
 Amstelveenseweg,642,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856831,52.333866
 Amstelveenseweg,644,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856831,52.333902
 Amstelveenseweg,646,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856830,52.333937
 Amstelveenseweg,648,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856845,52.333902
+Amstelveenseweg,650,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856764,52.334000
 Amstelveenseweg,650,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856845,52.333902
 Amstelveenseweg,660,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333884
 Amstelveenseweg,662,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333884
 Amstelveenseweg,670,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333866
+Amstelveenseweg,674,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856455,52.334099
 Amstelveenseweg,674,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333866
+Amstelveenseweg,676,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856252,52.334099
 Amstelveenseweg,676,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333857
+Amstelveenseweg,678,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856053,52.334098
 Amstelveenseweg,678,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333848
+Amstelveenseweg,680,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.855924,52.334001
+Amstelveenseweg,682,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.855894,52.334093
 Amstelveenseweg,682,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333848
+Amstelveenseweg,684,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.855710,52.334095
 Amstelveenseweg,684,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333848
 Amstelveenseweg,686,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333839
 Amstelveenseweg,688,,,1081JJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.856846,52.333839
@@ -3145,28 +3160,20 @@ Amstelveenseweg,912,,2,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857231,52.
 Amstelveenseweg,912,,H,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857231,52.327387
 Amstelveenseweg,914,,1,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857218,52.327288
 Amstelveenseweg,914,,2,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857218,52.327288
+Amstelveenseweg,914,,3,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857192,52.327288
 Amstelveenseweg,914,,H,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857218,52.327288
 Amstelveenseweg,916,A,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857226,52.327239
 Amstelveenseweg,916,B,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857208,52.327242
 Amstelveenseweg,916,C,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857202,52.327233
 Amstelveenseweg,916,D,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857191,52.327241
-Amstelveenseweg,916,,1,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857218,52.327234
-Amstelveenseweg,916,,2,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857218,52.327234
-Amstelveenseweg,916,,H,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857218,52.327234
 Amstelveenseweg,918,A,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857228,52.327184
 Amstelveenseweg,918,B,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857228,52.327184
 Amstelveenseweg,918,C,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857228,52.327184
-Amstelveenseweg,918,,1,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857219,52.327171
-Amstelveenseweg,918,,2,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857219,52.327171
-Amstelveenseweg,918,,H,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857219,52.327171
 Amstelveenseweg,920,A,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857232,52.327123
 Amstelveenseweg,920,B,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857229,52.327124
 Amstelveenseweg,920,C,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857231,52.327126
 Amstelveenseweg,920,D,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857216,52.327126
 Amstelveenseweg,920,E,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857228,52.327184
-Amstelveenseweg,920,,1,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857220,52.327117
-Amstelveenseweg,920,,2,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857220,52.327117
-Amstelveenseweg,920,,H,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857220,52.327117
 Amstelveenseweg,922,,1,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857206,52.327046
 Amstelveenseweg,922,,2,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857206,52.327046
 Amstelveenseweg,922,,H,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857206,52.327046
@@ -3178,9 +3185,11 @@ Amstelveenseweg,928,,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857208,52.3
 Amstelveenseweg,930,,,1081JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857211,52.326825
 Amstelveenseweg,934,,1,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857253,52.326758
 Amstelveenseweg,934,,2,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857253,52.326758
+Amstelveenseweg,934,,3,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857217,52.326760
 Amstelveenseweg,934,,H,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857253,52.326758
 Amstelveenseweg,936,,1,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857239,52.326704
 Amstelveenseweg,936,,2,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857239,52.326704
+Amstelveenseweg,936,,3,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857224,52.326708
 Amstelveenseweg,936,,H,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857239,52.326704
 Amstelveenseweg,938,,1,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857255,52.326641
 Amstelveenseweg,938,,2,1081JP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.857255,52.326641
@@ -3469,7 +3478,6 @@ Tjotterspad,17,A,,1081KD,Amsterdam,Amsterdam,Noord-Holland,LIG,4.851637,52.33290
 Tjotterspad,17,,,1081KD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.851661,52.333159
 Tjotterspad,18,,,1081KD,Amsterdam,Amsterdam,Noord-Holland,LIG,4.852727,52.333248
 Tjotterspad,19,,,1081KD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.851617,52.333159
-Tjotterspad,20,,,1081KD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.852613,52.333298
 Tjotterspad,20,,,1081KD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.852621,52.333316
 Tjotterspad,21,,,1081KD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.851470,52.333158
 Tjotterspad,22,,,1081KD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.852538,52.333406
@@ -3501,14 +3509,16 @@ Boeierspad,15,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,LIG,4.851156,52.332684
 Boeierspad,19,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,LIG,4.850643,52.332692
 Boeierspad,20,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850641,52.332534
 Boeierspad,21,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.850142,52.332550
+Boeierspad,22,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849605,52.332617
 Boeierspad,22,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849607,52.332594
+Boeierspad,23,A,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849558,52.332872
 Boeierspad,23,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849467,52.332601
+Boeierspad,23,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849489,52.332616
 Boeierspad,24,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.849114,52.332635
 Boeierspad,26,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.848084,52.332855
 Boeierspad,27,,,1081KE,Amsterdam,Amsterdam,Noord-Holland,LIG,4.848274,52.333155
 Koenenkade,24,A,,1081KG,Amsterdam,Amsterdam,Noord-Holland,LIG,4.843014,52.331101
 Koenenkade,24,,,1081KG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.843651,52.331029
-Koenenkade,24,,,1081KG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.843810,52.330876
 Koenenkade,56,,,1081KG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.820455,52.326228
 Koenenkade,6,,,1081KH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.853695,52.331092
 Koenenkade,8,,,1081KH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.852347,52.331014
@@ -3656,6 +3666,5 @@ Gustav Mahlerlaan,3002,,,1081LA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861334,5
 Gustav Mahlerlaan,3004,,,1081LA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.861338,52.336151
 Gustav Mahlerlaan,2009,,,1081LB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.863999,52.335704
 Gustav Mahlerlaan,3003,,,1081LB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.862419,52.335885
-Parnassusweg,242,,,1081LC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868442,52.337035
 Parnassusweg,850,,,1081LC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868353,52.336002
 Clara Schumannstraat,12,,,1081LD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.868172,52.336915

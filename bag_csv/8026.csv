@@ -1,5 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Heinoseweg,1,,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.129108,52.503928
+Heinoseweg,1,,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.129530,52.504137
 Heinoseweg,3,,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.132640,52.501553
 Heinoseweg,5,,1,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.136462,52.499550
 Heinoseweg,5,,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.136130,52.499678
@@ -10,7 +11,6 @@ Heinoseweg,13,T,1,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.140333,52.496513
 Heinoseweg,13,,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.141172,52.496795
 Heinoseweg,15,A,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.144739,52.492707
 Heinoseweg,15,,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.144647,52.492722
-Heinoseweg,17,A,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.146301,52.492653
 Heinoseweg,17,,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.146031,52.492576
 Heinoseweg,19,,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.146489,52.492541
 Heinoseweg,21,A,,8026PA,Zwolle,Zwolle,Overijssel,VBO,6.151542,52.493118
@@ -42,22 +42,24 @@ Heinoseweg,65,N,1,8026PB,Zwolle,Zwolle,Overijssel,VBO,6.182023,52.485117
 Heinoseweg,65,,,8026PB,Zwolle,Zwolle,Overijssel,VBO,6.182287,52.484593
 Heinoseweg,67,A,,8026PB,Zwolle,Zwolle,Overijssel,VBO,6.182606,52.484275
 Heinoseweg,67,,,8026PB,Zwolle,Zwolle,Overijssel,VBO,6.182615,52.484229
-Heinoseweg,69,A,,8026PB,Zwolle,Zwolle,Overijssel,VBO,6.185425,52.484065
+Heinoseweg,69,A,,8026PB,Zwolle,Zwolle,Overijssel,VBO,6.185469,52.484149
+Heinoseweg,69,B,,8026PB,Zwolle,Zwolle,Overijssel,VBO,6.185346,52.484087
 Heinoseweg,69,,,8026PB,Zwolle,Zwolle,Overijssel,VBO,6.185370,52.483845
 Heinoseweg,2,T,1,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.136946,52.498536
 Heinoseweg,2,,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.136797,52.498748
 Heinoseweg,4,,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.139223,52.497254
-Heinoseweg,6,A,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.151282,52.490714
+Heinoseweg,6,B,1,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.151282,52.490714
 Heinoseweg,6,,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.145912,52.491620
 Heinoseweg,8,A,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.154352,52.489929
 Heinoseweg,8,,1,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.157716,52.488736
 Heinoseweg,8,,2,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.159043,52.488602
 Heinoseweg,8,,3,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.157451,52.488484
+Heinoseweg,8,,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.154093,52.489119
 Heinoseweg,8,,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.154491,52.490091
 Heinoseweg,10,B,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.161432,52.487604
 Heinoseweg,10,C,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.160105,52.488232
 Heinoseweg,10,T,1,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.163116,52.487864
-Heinoseweg,10,,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.162650,52.487892
+Heinoseweg,10,,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.162653,52.487907
 Heinoseweg,12,,1,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.164010,52.487166
 Heinoseweg,12,,2,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.163048,52.486239
 Heinoseweg,12,,,8026PC,Zwolle,Zwolle,Overijssel,VBO,6.163065,52.487083
@@ -200,7 +202,8 @@ Kroesenallee,27,,,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.174148,52.489114
 Kroesenallee,29,,,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.188243,52.494545
 Kroesenallee,31,A,,8026PM,Zwolle,Zwolle,Overijssel,STA,6.188134,52.495461
 Kroesenallee,31,,,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.188761,52.495263
-Kroesenallee,33,,,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.185201,52.496326
+Kroesenallee,33,A,,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.185062,52.496319
+Kroesenallee,33,,,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.185253,52.496307
 Kroesenallee,35,A,,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.191094,52.494460
 Kroesenallee,35,T,1,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.191177,52.494696
 Kroesenallee,35,,,8026PM,Zwolle,Zwolle,Overijssel,VBO,6.191193,52.494430
@@ -219,7 +222,8 @@ Kroesenallee,20,,,8026PN,Zwolle,Zwolle,Overijssel,VBO,6.191711,52.491888
 Erfgenamenweg,25,,,8026PP,Zwolle,Zwolle,Overijssel,VBO,6.163692,52.497131
 Erfgenamenweg,27,,,8026PP,Zwolle,Zwolle,Overijssel,VBO,6.165307,52.495499
 Erfgenamenweg,45,,,8026PP,Zwolle,Zwolle,Overijssel,VBO,6.167326,52.493835
-Erfgenamenweg,47,,,8026PP,Zwolle,Zwolle,Overijssel,VBO,6.167706,52.493532
+Erfgenamenweg,47,A,,8026PP,Zwolle,Zwolle,Overijssel,VBO,6.167676,52.493600
+Erfgenamenweg,47,,,8026PP,Zwolle,Zwolle,Overijssel,VBO,6.167751,52.493547
 Erfgenamenweg,49,,,8026PP,Zwolle,Zwolle,Overijssel,VBO,6.168190,52.493207
 Erfgenamenweg,53,,,8026PP,Zwolle,Zwolle,Overijssel,VBO,6.170342,52.493280
 Erfgenamenweg,8,,,8026PR,Zwolle,Zwolle,Overijssel,VBO,6.160308,52.494736
@@ -356,16 +360,17 @@ Herfterlaan,79,A,,8026RE,Zwolle,Zwolle,Overijssel,VBO,6.167157,52.500987
 Herfterlaan,79,,,8026RE,Zwolle,Zwolle,Overijssel,VBO,6.167053,52.501659
 Herfterlaan,81,,,8026RE,Zwolle,Zwolle,Overijssel,VBO,6.168399,52.500738
 Herfterlaan,83,,,8026RE,Zwolle,Zwolle,Overijssel,VBO,6.167930,52.500412
-Herfterlaan,85,,,8026RE,Zwolle,Zwolle,Overijssel,VBO,6.168571,52.500489
+Herfterlaan,85,,,8026RE,Zwolle,Zwolle,Overijssel,VBO,6.168718,52.500314
 Maatgravenweg,20,,,8026RG,Zwolle,Zwolle,Overijssel,VBO,6.170590,52.518468
 Maatgravenweg,22,T,1,8026RG,Zwolle,Zwolle,Overijssel,VBO,6.182133,52.519824
 Maatgravenweg,22,,,8026RG,Zwolle,Zwolle,Overijssel,VBO,6.182376,52.519569
+Maatgravenweg,22,,,8026RG,Zwolle,Zwolle,Overijssel,VBO,6.182381,52.519602
+Maatgravenweg,24,,,8026RG,Zwolle,Zwolle,Overijssel,VBO,6.182550,52.519547
 Herfter Esweg,1,,,8026RH,Zwolle,Zwolle,Overijssel,VBO,6.154221,52.509290
 Herfter Esweg,2,,,8026RH,Zwolle,Zwolle,Overijssel,VBO,6.154087,52.508936
 Sorghvlietweg,2,A,,8026RJ,Zwolle,Zwolle,Overijssel,VBO,6.158696,52.508818
 Sorghvlietweg,2,B,,8026RJ,Zwolle,Zwolle,Overijssel,VBO,6.158900,52.508987
 Sorghvlietweg,2,C,,8026RJ,Zwolle,Zwolle,Overijssel,VBO,6.158362,52.508349
-Sorghvlietweg,2,,,8026RJ,Zwolle,Zwolle,Overijssel,VBO,6.158485,52.508611
 Sorghvlietweg,4,,,8026RJ,Zwolle,Zwolle,Overijssel,VBO,6.159934,52.508207
 Sorghvlietweg,6,,,8026RJ,Zwolle,Zwolle,Overijssel,VBO,6.160483,52.509131
 Sorghvlietweg,8,,,8026RJ,Zwolle,Zwolle,Overijssel,VBO,6.160450,52.508976

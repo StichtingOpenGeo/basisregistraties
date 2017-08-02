@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Europalaan,540,,,6991AB,Rheden,Rheden,Gelderland,VBO,6.026062,52.006270
 Holtbankseweg,1,,,6991AC,Rheden,Rheden,Gelderland,VBO,6.023245,52.009328
 Holtbankseweg,2,,,6991AC,Rheden,Rheden,Gelderland,VBO,6.023996,52.008666
 Holtbankseweg,4,,,6991AC,Rheden,Rheden,Gelderland,VBO,6.024189,52.008558
@@ -146,6 +145,7 @@ Arnhemsestraatweg,44,,,6991AP,Rheden,Rheden,Gelderland,VBO,6.022849,52.008997
 Arnhemsestraatweg,46,,,6991AP,Rheden,Rheden,Gelderland,VBO,6.022607,52.008939
 Arnhemsestraatweg,50,,,6991AP,Rheden,Rheden,Gelderland,VBO,6.020428,52.008666
 Arnhemsestraatweg,66,,,6991AP,Rheden,Rheden,Gelderland,VBO,6.005327,52.005397
+Over-Heuvenseweg,1,,,6991AR,Rheden,Rheden,Gelderland,VBO,6.028824,52.009653
 Over-Heuvenseweg,2,,,6991AR,Rheden,Rheden,Gelderland,VBO,6.028345,52.009823
 Parallelweg,1,,,6991AS,Rheden,Rheden,Gelderland,VBO,6.030604,52.009624
 Parallelweg,2,,,6991AS,Rheden,Rheden,Gelderland,VBO,6.030511,52.009604
@@ -248,7 +248,6 @@ Oranjeweg,214,,,6991AZ,Rheden,Rheden,Gelderland,VBO,6.020673,52.004331
 Oranjeweg,216,a,,6991AZ,Rheden,Rheden,Gelderland,VBO,6.020236,52.004456
 Oranjeweg,216,,,6991AZ,Rheden,Rheden,Gelderland,VBO,6.020489,52.004366
 Oranjeweg,218,,,6991AZ,Rheden,Rheden,Gelderland,VBO,6.019048,52.004955
-Oranjeweg,220,,,6991AZ,Rheden,Rheden,Gelderland,VBO,6.019132,52.005032
 Oranjeweg,222,,,6991AZ,Rheden,Rheden,Gelderland,VBO,6.018826,52.005122
 Oranjeweg,224,,,6991AZ,Rheden,Rheden,Gelderland,VBO,6.018404,52.005483
 Oranjeweg,226,,,6991AZ,Rheden,Rheden,Gelderland,VBO,6.018295,52.005686
@@ -1138,6 +1137,7 @@ Europalaan,532,,,6991DB,Rheden,Rheden,Gelderland,VBO,6.025902,52.006253
 Europalaan,534,,,6991DB,Rheden,Rheden,Gelderland,VBO,6.025953,52.006253
 Europalaan,536,,,6991DB,Rheden,Rheden,Gelderland,VBO,6.025982,52.006254
 Europalaan,538,,,6991DB,Rheden,Rheden,Gelderland,VBO,6.026022,52.006256
+Europalaan,540,,,6991DB,Rheden,Rheden,Gelderland,VBO,6.026062,52.006270
 Europalaan,542,,,6991DB,Rheden,Rheden,Gelderland,VBO,6.025531,52.006260
 Europalaan,544,,,6991DB,Rheden,Rheden,Gelderland,VBO,6.025576,52.006262
 Europalaan,546,,,6991DB,Rheden,Rheden,Gelderland,VBO,6.025619,52.006262
@@ -1254,7 +1254,7 @@ Arnhemseweg,41,,,6991DK,Rheden,Rheden,Gelderland,VBO,6.028491,52.005688
 Arnhemseweg,43,,,6991DK,Rheden,Rheden,Gelderland,VBO,6.028409,52.005675
 Arnhemseweg,49,a,,6991DK,Rheden,Rheden,Gelderland,VBO,6.027621,52.005641
 Arnhemseweg,49,,,6991DK,Rheden,Rheden,Gelderland,VBO,6.027797,52.005655
-Arnhemseweg,51,,,6991DL,Rheden,Rheden,Gelderland,VBO,6.026647,52.005547
+Arnhemseweg,51,,,6991DL,Rheden,Rheden,Gelderland,VBO,6.026683,52.005544
 Arnhemseweg,53,,,6991DL,Rheden,Rheden,Gelderland,VBO,6.026566,52.005544
 Arnhemseweg,55,,,6991DL,Rheden,Rheden,Gelderland,VBO,6.026485,52.005540
 Arnhemseweg,57,,,6991DL,Rheden,Rheden,Gelderland,VBO,6.026245,52.005569
@@ -1339,7 +1339,11 @@ Arnhemseweg,8,,k32,6991DN,Rheden,Rheden,Gelderland,VBO,6.032629,52.006515
 Arnhemseweg,8,,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032407,52.006464
 Arnhemseweg,8,,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032415,52.006427
 Arnhemseweg,10,a,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032851,52.006023
-Arnhemseweg,10,,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032941,52.006062
+Arnhemseweg,10,b,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032960,52.006118
+Arnhemseweg,10,c,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032823,52.006087
+Arnhemseweg,10,d,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032710,52.006124
+Arnhemseweg,10,e,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032829,52.006153
+Arnhemseweg,10,f,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032923,52.006180
 Arnhemseweg,12,a,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032384,52.006000
 Arnhemseweg,12,b,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032454,52.006004
 Arnhemseweg,12,c,,6991DN,Rheden,Rheden,Gelderland,VBO,6.032520,52.006007
@@ -1737,7 +1741,6 @@ Zwarteweg,3,,,6991EG,Rheden,Rheden,Gelderland,VBO,6.032785,52.004422
 Zwarteweg,7,,,6991EG,Rheden,Rheden,Gelderland,VBO,6.032694,52.004350
 Zwarteweg,9,,,6991EG,Rheden,Rheden,Gelderland,VBO,6.032651,52.004306
 Zwarteweg,11,,,6991EG,Rheden,Rheden,Gelderland,VBO,6.032474,52.004167
-Zwarteweg,25,,,6991EG,Rheden,Rheden,Gelderland,VBO,6.032141,52.003776
 Zwarteweg,27,,,6991EG,Rheden,Rheden,Gelderland,VBO,6.032094,52.003718
 Zwarteweg,33,,,6991EG,Rheden,Rheden,Gelderland,VBO,6.031729,52.003288
 Zwarteweg,35,,,6991EG,Rheden,Rheden,Gelderland,VBO,6.031688,52.003241
@@ -2105,6 +2108,13 @@ Groenestraat,52,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.034311,52.005898
 Groenestraat,54,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.034404,52.005777
 Groenestraat,56,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.034507,52.005698
 Groenestraat,58,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.034693,52.005589
+Groenestraat,502,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.032903,52.006836
+Groenestraat,504,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.032866,52.006818
+Groenestraat,506,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.032833,52.006764
+Groenestraat,508,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.032883,52.006722
+Groenestraat,510,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.032904,52.006697
+Groenestraat,512,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.032930,52.006672
+Groenestraat,514,,,6991GG,Rheden,Rheden,Gelderland,VBO,6.032952,52.006652
 Groenestraat,60,,,6991GH,Rheden,Rheden,Gelderland,VBO,6.034989,52.005381
 Groenestraat,62,,,6991GH,Rheden,Rheden,Gelderland,VBO,6.034944,52.005315
 Groenestraat,64,,,6991GH,Rheden,Rheden,Gelderland,VBO,6.035058,52.005352
@@ -2128,7 +2138,7 @@ Groenestraat,82,b,,6991GH,Rheden,Rheden,Gelderland,VBO,6.035699,52.004685
 Groenestraat,82,c,,6991GH,Rheden,Rheden,Gelderland,VBO,6.035791,52.004629
 Groenestraat,82,d,,6991GH,Rheden,Rheden,Gelderland,VBO,6.035847,52.004597
 Groenestraat,82,,,6991GH,Rheden,Rheden,Gelderland,VBO,6.035600,52.004596
-Groenestraat,84,,,6991GH,Rheden,Rheden,Gelderland,VBO,6.036149,52.004611
+Groenestraat,84,,,6991GH,Rheden,Rheden,Gelderland,VBO,6.036218,52.004671
 Groenestraat,86,,,6991GH,Rheden,Rheden,Gelderland,VBO,6.036214,52.004503
 Pinkelseweg,2,a,,6991GJ,Rheden,Rheden,Gelderland,VBO,6.034686,52.010100
 Pinkelseweg,2,,,6991GJ,Rheden,Rheden,Gelderland,VBO,6.036404,52.008535
@@ -2297,7 +2307,9 @@ Apollostraat,18,,,6991GX,Rheden,Rheden,Gelderland,VBO,6.040108,52.007438
 Apollostraat,20,,,6991GX,Rheden,Rheden,Gelderland,VBO,6.040212,52.007470
 Apollostraat,22,,,6991GX,Rheden,Rheden,Gelderland,VBO,6.040297,52.007500
 Apollostraat,24,,,6991GX,Rheden,Rheden,Gelderland,VBO,6.040388,52.007534
+Apollostraat,26,,,6991GX,Rheden,Rheden,Gelderland,VBO,6.041232,52.006837
 Apollostraat,26,,,6991GX,Rheden,Rheden,Gelderland,VBO,6.041275,52.006809
+Apollostraat,28,,,6991GX,Rheden,Rheden,Gelderland,VBO,6.041333,52.006768
 Steegse Haven,1,,,6991GZ,Rheden,Rheden,Gelderland,VBO,6.050507,52.015248
 Steegse Haven,2,,,6991GZ,Rheden,Rheden,Gelderland,LIG,6.049393,52.014447
 Steegse Haven,3,,,6991GZ,Rheden,Rheden,Gelderland,LIG,6.049022,52.014328
@@ -2367,6 +2379,8 @@ Dorpsstraat,7,,,6991HD,Rheden,Rheden,Gelderland,VBO,6.041824,52.007592
 Dorpsstraat,9,a,,6991HD,Rheden,Rheden,Gelderland,VBO,6.041658,52.007482
 Dorpsstraat,9,e,,6991HD,Rheden,Rheden,Gelderland,VBO,6.040827,52.007124
 Dorpsstraat,9,f,,6991HD,Rheden,Rheden,Gelderland,VBO,6.040726,52.006978
+Dorpsstraat,9,h,,6991HD,Rheden,Rheden,Gelderland,VBO,6.040550,52.006928
+Dorpsstraat,9,k,,6991HD,Rheden,Rheden,Gelderland,VBO,6.040495,52.006886
 Dorpsstraat,9,,,6991HD,Rheden,Rheden,Gelderland,VBO,6.041726,52.007507
 Dorpsstraat,11,a,,6991HD,Rheden,Rheden,Gelderland,VBO,6.040324,52.006834
 Dorpsstraat,11,b,,6991HD,Rheden,Rheden,Gelderland,VBO,6.040241,52.006798
@@ -2439,6 +2453,8 @@ Dorpsstraat,74,a,,6991HH,Rheden,Rheden,Gelderland,VBO,6.036468,52.004988
 Dorpsstraat,74,,,6991HH,Rheden,Rheden,Gelderland,VBO,6.036444,52.005210
 Jolinkweg,1,,,6991HJ,Rheden,Rheden,Gelderland,VBO,6.040655,52.006619
 Jolinkweg,2,,,6991HJ,Rheden,Rheden,Gelderland,VBO,6.040110,52.006590
+Jolinkweg,4,c,,6991HJ,Rheden,Rheden,Gelderland,VBO,6.040451,52.006345
+Jolinkweg,4,d,,6991HJ,Rheden,Rheden,Gelderland,VBO,6.040527,52.006296
 Jolinkweg,4,,,6991HJ,Rheden,Rheden,Gelderland,VBO,6.040166,52.006545
 Jolinkweg,6,,,6991HJ,Rheden,Rheden,Gelderland,VBO,6.040786,52.006243
 Laakweg,1,a,,6991HK,Rheden,Rheden,Gelderland,VBO,6.042075,52.007363
@@ -2537,6 +2553,7 @@ Schietbergseweg,58,,,6991JD,Rheden,Rheden,Gelderland,VBO,6.030267,52.017272
 Schietbergseweg,60,,,6991JD,Rheden,Rheden,Gelderland,VBO,6.028447,52.017630
 Schietbergseweg,62,,,6991JD,Rheden,Rheden,Gelderland,VBO,6.028526,52.018140
 Schietbergseweg,64,,,6991JD,Rheden,Rheden,Gelderland,VBO,6.029131,52.017734
+Schietbergseweg,66,,,6991JD,Rheden,Rheden,Gelderland,VBO,6.029313,52.018139
 Schietbergseweg,68,,,6991JD,Rheden,Rheden,Gelderland,VBO,6.029707,52.017747
 Schietbergseweg,70,,,6991JD,Rheden,Rheden,Gelderland,VBO,6.029711,52.018103
 Heuvenseweg,1,a,,6991JE,Rheden,Rheden,Gelderland,VBO,6.026837,52.014442
@@ -3505,6 +3522,10 @@ Oranjeweg,27,g,,6991WG,Rheden,Rheden,Gelderland,VBO,6.034844,52.003231
 Oranjeweg,27,h,,6991WG,Rheden,Rheden,Gelderland,VBO,6.034743,52.003200
 Oranjeweg,27,,bis,6991WG,Rheden,Rheden,Gelderland,VBO,6.035417,52.003525
 Oranjeweg,27,,,6991WG,Rheden,Rheden,Gelderland,VBO,6.035419,52.003521
+Oranjeweg,501,,,6991WG,Rheden,Rheden,Gelderland,VBO,6.036426,52.004115
+Oranjeweg,503,,,6991WG,Rheden,Rheden,Gelderland,VBO,6.036403,52.004090
+Oranjeweg,505,,,6991WG,Rheden,Rheden,Gelderland,VBO,6.036383,52.004063
+Oranjeweg,507,,,6991WG,Rheden,Rheden,Gelderland,VBO,6.036363,52.004040
 Oranjeweg,29,,,6991WH,Rheden,Rheden,Gelderland,VBO,6.034586,52.003133
 Oranjeweg,31,,,6991WH,Rheden,Rheden,Gelderland,VBO,6.034515,52.003104
 Oranjeweg,33,,,6991WH,Rheden,Rheden,Gelderland,VBO,6.034425,52.003067
@@ -3582,6 +3603,7 @@ Oranjeweg,197,,,6991WP,Rheden,Rheden,Gelderland,VBO,6.023627,52.002952
 Oranjeweg,199,,,6991WP,Rheden,Rheden,Gelderland,VBO,6.023538,52.002977
 Oranjeweg,201,,,6991WP,Rheden,Rheden,Gelderland,VBO,6.023336,52.003058
 Oranjeweg,203,,,6991WP,Rheden,Rheden,Gelderland,VBO,6.023224,52.003092
+Oranjeweg,30,,,6991WR,Rheden,Rheden,Gelderland,VBO,6.036203,52.004647
 Oranjeweg,32,,,6991WR,Rheden,Rheden,Gelderland,VBO,6.035945,52.004234
 Oranjeweg,34,,,6991WR,Rheden,Rheden,Gelderland,VBO,6.035896,52.004186
 Oranjeweg,36,,,6991WR,Rheden,Rheden,Gelderland,VBO,6.035846,52.004136
@@ -3830,7 +3852,7 @@ Broekveldseweg,45,,,6991XT,Rheden,Rheden,Gelderland,VBO,6.024703,52.002020
 Broekveldseweg,47,a,,6991XV,Rheden,Rheden,Gelderland,VBO,6.024529,52.002072
 Broekveldseweg,47,b,,6991XV,Rheden,Rheden,Gelderland,VBO,6.024449,52.002097
 Broekveldseweg,47,,,6991XV,Rheden,Rheden,Gelderland,VBO,6.024616,52.002046
-Broekveldseweg,49,,,6991XV,Rheden,Rheden,Gelderland,VBO,6.024087,52.002148
+Broekveldseweg,49,,,6991XV,Rheden,Rheden,Gelderland,VBO,6.024065,52.002126
 Broekveldseweg,51,,,6991XV,Rheden,Rheden,Gelderland,VBO,6.024029,52.002251
 Broekveldseweg,53,,,6991XV,Rheden,Rheden,Gelderland,VBO,6.023934,52.002276
 Broekveldseweg,55,,,6991XV,Rheden,Rheden,Gelderland,VBO,6.023842,52.002299
@@ -4102,13 +4124,12 @@ Buurmeestersstraat,32,,,6991ZN,Rheden,Rheden,Gelderland,VBO,6.022621,52.002299
 Buurmeestersstraat,34,,,6991ZN,Rheden,Rheden,Gelderland,VBO,6.022541,52.002325
 Buurmeestersstraat,36,,,6991ZN,Rheden,Rheden,Gelderland,VBO,6.022462,52.002351
 IJsselsingel,1,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.033334,52.000039
+IJsselsingel,3,a,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.031397,51.999789
 IJsselsingel,3,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.032469,51.999189
 IJsselsingel,5,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.031122,51.999737
 IJsselsingel,7,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.029793,51.999418
 IJsselsingel,9,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.029109,51.999314
 IJsselsingel,11,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.028529,51.999184
-IJsselsingel,13,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.027936,51.998561
-IJsselsingel,15,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.027848,51.998495
 IJsselsingel,17,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.026714,51.998488
 IJsselsingel,19,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.027984,51.999385
 IJsselsingel,21,,,6991ZP,Rheden,Rheden,Gelderland,VBO,6.028313,51.999680

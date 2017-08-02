@@ -75,6 +75,7 @@ Zeeburgerpad,114,,,1019AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.949199,52.3670
 Zeeburgerpad,115,,,1019AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.949492,52.367059
 Zeeburgerpad,116,,,1019AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.949786,52.367114
 Cruquiusweg,89,,,1019AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.952593,52.368310
+Cruquiusweg,89,,,1019AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.952660,52.368314
 Cruquiusweg,91,,,1019AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.952725,52.368302
 Cruquiusweg,97,,,1019AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.953457,52.368583
 Cruquiusweg,107,,,1019AG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.954225,52.369530
@@ -121,7 +122,9 @@ Cruquiusweg,62,,,1019AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.938613,52.368474
 Cruquiusweg,68,,,1019AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.939068,52.368467
 Cruquiusweg,70,,,1019AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.939171,52.368476
 Cruquiusweg,76,,,1019AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.946844,52.368295
-Cruquiusweg,82,,,1019AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.947602,52.368519
+Cruquiusweg,78,A,,1019AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.947004,52.367952
+Cruquiusweg,78,B,,1019AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.947810,52.367640
+Cruquiusweg,78,,,1019AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.947374,52.367797
 Cruquiusweg,84,,,1019AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.948113,52.368474
 Cruquiusweg,86,,,1019AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.948280,52.367953
 Cruquiusweg,90,,,1019AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.949200,52.368460
@@ -204,7 +207,6 @@ Cruquiusweg,102,,,1019AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.953392,52.36796
 Cruquiusweg,104,,,1019AK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.953381,52.368092
 Cruquiusweg,118,B,,1019AK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.954663,52.367706
 Cruquiusweg,118,C,,1019AK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.954074,52.367926
-Cruquiusweg,118,D,,1019AK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.954193,52.368567
 Cruquiusweg,118,E,,1019AK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.954274,52.368666
 Cruquiusweg,118,F,,1019AK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.955536,52.368363
 Cruquiusweg,118,,,1019AK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.954700,52.368223
@@ -290,11 +292,7 @@ Cruquiusweg,63,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.946461,52.369163
 Cruquiusweg,65,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.946467,52.368935
 Cruquiusweg,67,A,,1019AT,Amsterdam,Amsterdam,Noord-Holland,STA,4.948190,52.368915
 Cruquiusweg,67,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.947437,52.369242
-Cruquiusweg,71,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.952103,52.368875
 Cruquiusweg,77,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.950285,52.368572
-Cruquiusweg,79,A,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.951527,52.368343
-Cruquiusweg,79,B,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.951528,52.368525
-Cruquiusweg,81,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.951834,52.368693
 Cruquiusweg,83,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.952248,52.368600
 Cruquiusweg,85,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.952497,52.368610
 Cruquiusweg,87,,,1019AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.952798,52.368620
@@ -938,7 +936,9 @@ Veemkade,572,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.927317,52.376034
 Veemkade,573,A,,1019BL,Amsterdam,Amsterdam,Noord-Holland,LIG,4.928373,52.376081
 Veemkade,573,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,LIG,4.927608,52.376209
 Veemkade,574,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.927346,52.376034
+Veemkade,575,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,LIG,4.928404,52.376138
 Veemkade,576,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.927582,52.375981
+Veemkade,577,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,LIG,4.928544,52.376178
 Veemkade,578,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.927699,52.375964
 Veemkade,580,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.927964,52.375920
 Veemkade,582,,,1019BL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.927964,52.375920
@@ -1010,7 +1010,7 @@ Oostelijke Handelskade,44,B,1,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936
 Oostelijke Handelskade,44,B,2,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936517,52.373949
 Oostelijke Handelskade,44,B,3,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936517,52.373949
 Oostelijke Handelskade,44,B,H,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936517,52.373949
-Oostelijke Handelskade,44,,,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936280,52.374056
+Oostelijke Handelskade,44,,,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936330,52.374061
 Oostelijke Handelskade,46,,1,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936634,52.373904
 Oostelijke Handelskade,46,,H,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936634,52.373904
 Oostelijke Handelskade,48,,1,1019BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936781,52.373896
@@ -1119,17 +1119,15 @@ Dijksgracht,13,A,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917033,52.37611
 Dijksgracht,13,B,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917020,52.376061
 Dijksgracht,14,A,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917405,52.376053
 Dijksgracht,14,B,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917395,52.375993
-Dijksgracht,15,A,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917795,52.375982
-Dijksgracht,15,B,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917789,52.375938
-Dijksgracht,15,C,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917757,52.375895
-Dijksgracht,15,,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917405,52.376053
+Dijksgracht,15,A,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917619,52.375906
+Dijksgracht,15,B,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917734,52.375840
+Dijksgracht,15,C,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.917895,52.375863
 Dijksgracht,16,A,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.918164,52.375929
 Dijksgracht,16,B,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.918155,52.375860
 Dijksgracht,17,A,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.918499,52.375854
 Dijksgracht,17,B,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.918412,52.375797
 Dijksgracht,18,A,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.918879,52.375766
-Dijksgracht,18,B,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.918891,52.375810
-Dijksgracht,18,,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.918499,52.375854
+Dijksgracht,18,,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.918891,52.375810
 Dijksgracht,19,,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.919287,52.375725
 Dijksgracht,20,B,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.919553,52.375665
 Dijksgracht,20,,,1019BT,Amsterdam,Amsterdam,Noord-Holland,LIG,4.919564,52.375705
@@ -1385,7 +1383,6 @@ Oostelijke Handelskade,853,,,1019BW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.9314
 Oostelijke Handelskade,855,,,1019BW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.931422,52.375232
 Oostelijke Handelskade,857,,,1019BW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.931437,52.375232
 Oostelijke Handelskade,859,,,1019BW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.931437,52.375232
-Oostelijke Handelskade,861,,,1019BW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.931452,52.375232
 Oostelijke Handelskade,863,,,1019BW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.931452,52.375232
 Oostelijke Handelskade,865,,,1019BW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.931466,52.375232
 Oostelijke Handelskade,867,,,1019BW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.931467,52.375223
@@ -5520,6 +5517,13 @@ Borneolaan,386,,,1019KL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.938133,52.370980
 Borneolaan,388,,,1019KL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.938133,52.370971
 Borneolaan,390,,,1019KL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.938133,52.370962
 Borneosteiger,1,,,1019KM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.936926,52.369735
+Borneosteiger,2,,,1019KM,Amsterdam,Amsterdam,Noord-Holland,LIG,4.937254,52.369835
+Borneosteiger,3,,,1019KM,Amsterdam,Amsterdam,Noord-Holland,LIG,4.937342,52.369830
+Borneosteiger,4,,,1019KM,Amsterdam,Amsterdam,Noord-Holland,LIG,4.937412,52.369820
+Borneosteiger,5,,,1019KM,Amsterdam,Amsterdam,Noord-Holland,LIG,4.937486,52.369801
+Borneosteiger,6,,,1019KM,Amsterdam,Amsterdam,Noord-Holland,LIG,4.937555,52.369796
+Borneosteiger,7,,,1019KM,Amsterdam,Amsterdam,Noord-Holland,LIG,4.937617,52.369778
+Borneosteiger,8,,,1019KM,Amsterdam,Amsterdam,Noord-Holland,LIG,4.937696,52.369771
 Borneolaan,392,,,1019KN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.939013,52.371028
 Borneolaan,394,,,1019KN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.939013,52.371019
 Borneolaan,396,,,1019KN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.939013,52.371010

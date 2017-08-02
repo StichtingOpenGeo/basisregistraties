@@ -52,7 +52,8 @@ Schagerweg,52,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.761597,52.801021
 Schagerweg,54,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.762065,52.800892
 Schagerweg,56,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.762267,52.800856
 Schagerweg,58,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.762424,52.800789
-Schagerweg,60,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.762587,52.800736
+Schagerweg,60,A,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.762638,52.800769
+Schagerweg,60,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.762516,52.800802
 Schagerweg,62,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.762684,52.800689
 Schagerweg,64,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.762952,52.800629
 Schagerweg,66,,,1751CD,Schagerbrug,Schagen,Noord-Holland,VBO,4.763127,52.800561
@@ -314,6 +315,7 @@ Burg. van Doornstraat,24,,,1751CV,Schagerbrug,Schagen,Noord-Holland,VBO,4.765232
 P. Ottstraat,1,a,,1751CW,Schagerbrug,Schagen,Noord-Holland,VBO,4.765193,52.798651
 P. Ottstraat,1,d,,1751CW,Schagerbrug,Schagen,Noord-Holland,VBO,4.767111,52.799028
 P. Ottstraat,1,,,1751CW,Schagerbrug,Schagen,Noord-Holland,VBO,4.764931,52.797975
+P. Ottstraat,26,,,1751CW,Schagerbrug,Schagen,Noord-Holland,VBO,4.762483,52.798200
 M. Stolpstraat,1,,,1751CZ,Schagerbrug,Schagen,Noord-Holland,VBO,4.759498,52.801150
 M. Stolpstraat,2,,,1751CZ,Schagerbrug,Schagen,Noord-Holland,VBO,4.759804,52.801315
 M. Stolpstraat,3,,,1751CZ,Schagerbrug,Schagen,Noord-Holland,VBO,4.759449,52.801106
@@ -363,8 +365,6 @@ Schagerweg,30,,,1751DA,Schagerbrug,Schagen,Noord-Holland,VBO,4.758291,52.802381
 Dijkweg,1,,,1751DB,Schagerbrug,Schagen,Noord-Holland,VBO,4.740259,52.810463
 Dijkweg,2,,,1751DB,Schagerbrug,Schagen,Noord-Holland,VBO,4.740172,52.810467
 Provincialeweg,1,,,1751DC,Schagerbrug,Schagen,Noord-Holland,VBO,4.739019,52.812434
-Provincialeweg,2,A,,1751DC,Schagerbrug,Schagen,Noord-Holland,VBO,4.744671,52.811866
-Provincialeweg,2,,,1751DC,Schagerbrug,Schagen,Noord-Holland,VBO,4.744729,52.811852
 Korte Ruigeweg,1,,,1751DD,Schagerbrug,Schagen,Noord-Holland,VBO,4.756124,52.812888
 Korte Ruigeweg,3,,,1751DD,Schagerbrug,Schagen,Noord-Holland,VBO,4.760918,52.814900
 Korte Ruigeweg,5,,,1751DD,Schagerbrug,Schagen,Noord-Holland,VBO,4.761422,52.815114
@@ -391,6 +391,7 @@ Korte Ruigeweg,16,,,1751DE,Schagerbrug,Schagen,Noord-Holland,VBO,4.766694,52.816
 Korte Ruigeweg,18,,,1751DE,Schagerbrug,Schagen,Noord-Holland,VBO,4.767599,52.817458
 Korte Ruigeweg,20,a,,1751DE,Schagerbrug,Schagen,Noord-Holland,VBO,4.768599,52.817791
 Korte Ruigeweg,20,,,1751DE,Schagerbrug,Schagen,Noord-Holland,VBO,4.767955,52.817575
+Korte Ruigeweg,22,B,,1751DE,Schagerbrug,Schagen,Noord-Holland,VBO,4.769535,52.818294
 Korte Ruigeweg,22,,,1751DE,Schagerbrug,Schagen,Noord-Holland,VBO,4.769419,52.818244
 Korte Ruigeweg,24,,,1751DE,Schagerbrug,Schagen,Noord-Holland,VBO,4.769810,52.818459
 Korte Ruigeweg,26,,,1751DE,Schagerbrug,Schagen,Noord-Holland,VBO,4.770041,52.818587
@@ -471,6 +472,8 @@ Stolperweg,47,,,1751DH,Schagerbrug,Schagen,Noord-Holland,VBO,4.715828,52.817226
 Stolperweg,49,,,1751DH,Schagerbrug,Schagen,Noord-Holland,VBO,4.714405,52.817652
 Stolperweg,51,,,1751DH,Schagerbrug,Schagen,Noord-Holland,VBO,4.712276,52.818527
 Westerduinweg,40,,,1751DJ,Schagerbrug,Schagen,Noord-Holland,VBO,4.705333,52.813531
+Polderweg,20,A,,1751DK,Schagerbrug,Schagen,Noord-Holland,VBO,4.744671,52.811866
+Polderweg,20,,,1751DK,Schagerbrug,Schagen,Noord-Holland,VBO,4.744729,52.811852
 Rijksweg,55,,,1751EE,Schagerbrug,Schagen,Noord-Holland,VBO,4.735855,52.810702
 Rijksweg,56,a,,1751EE,Schagerbrug,Schagen,Noord-Holland,VBO,4.736259,52.810918
 Rijksweg,56,,,1751EE,Schagerbrug,Schagen,Noord-Holland,VBO,4.736329,52.811037
@@ -543,7 +546,7 @@ Nijverheidsweg,4,,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.753745,52.8032
 Nijverheidsweg,5,,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.754184,52.802558
 Nijverheidsweg,6,,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.753583,52.802995
 Nijverheidsweg,8,,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.753214,52.803202
-Nijverheidsweg,14,,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.753279,52.802279
+Nijverheidsweg,14,,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.752985,52.802159
 Nijverheidsweg,18,a,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.753376,52.802224
 Nijverheidsweg,18,,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.753333,52.801987
 Nijverheidsweg,21,,,1751HG,Schagerbrug,Schagen,Noord-Holland,VBO,4.755177,52.802479
@@ -564,7 +567,7 @@ Ruigeweg,96,,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.739016,52.804403
 Ruigeweg,100,,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.740076,52.804614
 Ruigeweg,101,a,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.721333,52.800672
 Ruigeweg,101,,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.721224,52.801019
-Ruigeweg,102,,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.740732,52.805147
+Ruigeweg,102,,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.740791,52.805195
 Ruigeweg,103,,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.727636,52.800661
 Ruigeweg,104,,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.741159,52.805259
 Ruigeweg,105,,,1751HH,Schagerbrug,Schagen,Noord-Holland,VBO,4.730381,52.800746
@@ -684,7 +687,8 @@ Grote Sloot,425,,,1751LE,Schagerbrug,Schagen,Noord-Holland,VBO,4.775442,52.81059
 Grote Sloot,427,,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.775994,52.810325
 Grote Sloot,429,,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.776145,52.810390
 Grote Sloot,431,,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.776376,52.810526
-Grote Sloot,433,B,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.778389,52.811305
+Grote Sloot,433,B,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.778349,52.811340
+Grote Sloot,433,,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.777737,52.811051
 Grote Sloot,433,,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.777814,52.811066
 Grote Sloot,435,,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.778896,52.811567
 Grote Sloot,437,,,1751LG,Schagerbrug,Schagen,Noord-Holland,VBO,4.779298,52.811711

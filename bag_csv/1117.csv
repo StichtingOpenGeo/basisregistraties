@@ -83,7 +83,7 @@ Walaardt Sacrestraat,453,,,1117BM,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.81
 Walaardt Sacrestraat,455,,,1117BM,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.810807,52.313708
 Walaardt Sacrestraat,457,,,1117BM,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.810803,52.313683
 Stationsplein-NO,101,,,1117BV,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.811480,52.310325
-Stationsplein-NO,301,,,1117BX,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.813048,52.310809
+Stationsplein-NO,301,,,1117BV,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.813048,52.310809
 Stationsplein-ZW,951,,,1117CE,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.810824,52.308533
 Stationsplein-ZW,961,,,1117CE,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812354,52.310101
 Stationsplein-ZW,963,,,1117CE,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812368,52.310077
@@ -192,7 +192,6 @@ Stationsplein-NO,368,,,1117CK,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812451
 Stationsplein-NO,370,,,1117CK,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812462,52.311318
 Stationsplein-NO,372,,,1117CK,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812472,52.311334
 Stationsplein-NO,374,,,1117CK,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812485,52.311350
-Stationsplein-ZW,302,,,1117CK,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.809615,52.309013
 Stationsplein-NO,402,,,1117CL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812698,52.311467
 Stationsplein-NO,404,,,1117CL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812689,52.311503
 Stationsplein-NO,406,,,1117CL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812680,52.311539
@@ -212,6 +211,7 @@ Stationsplein-NO,432,,,1117CL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812455
 Stationsplein-NO,434,,,1117CL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812446,52.311926
 Stationsplein-NO,436,,,1117CL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812453,52.311881
 Stationsplein-NO,438,,,1117CL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.812422,52.311831
+Stationsplein-ZW,302,,,1117CN,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.809615,52.309013
 Stationsplein-ZW,602,,,1117CN,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.809851,52.309446
 Stationsplein-ZW,604,,,1117CN,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.810160,52.309785
 Stationsplein-ZW,610,,,1117CN,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.810341,52.309686
@@ -232,12 +232,16 @@ Stationsplein-ZW,1019,,,1117CV,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.81148
 Navigatorstraat,10,,,1117EB,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.805461,52.308842
 Piet Guilonardweg,3,,,1117EE,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.806414,52.305778
 Piet Guilonardweg,15,,,1117EE,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.807629,52.306540
+Dakotaweg,9,,,1117EG,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.806143,52.307619
 Henk Veenendaalweg,1,,,1117EH,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.806207,52.308143
 Henk Veenendaalweg,2,,,1117EH,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.805214,52.308194
 Henk Veenendaalweg,8,,,1117EH,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.803664,52.307368
 Behoudenvaartweg,4,,,1117EL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.803208,52.308797
-Halim P.K. straat,35,,,1117EL,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.801611,52.307567
+Halim P.K. straat,35,,,1117EP,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.801611,52.307567
+Voltweg,4,,,1117ES,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.801016,52.305492
 Amsterdam-Bataviaweg,1,,,1117ET,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.803208,52.304790
+Amsterdam-Bataviaweg,60,,,1117ET,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.792830,52.298097
+Amsterdam-Bataviaweg,100,,,1117ET,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.791718,52.295687
 Kemajoranstraat,3,,,1117EW,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.800216,52.303936
 Kemajoranstraat,5,,,1117EW,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.799123,52.303932
 Van Weerden-Poelmanweg,8,,,1117EX,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.798146,52.304016
@@ -246,10 +250,7 @@ Kronenburgstraat,12,,,1117GB,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.792481,
 E.L.T.A. straat,4,,,1117GD,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.793703,52.301025
 E.L.T.A. straat,5,,,1117GD,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.793553,52.300540
 E.L.T.A. straat,405,,,1117GD,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.793937,52.300020
+Turbineweg,10,,,1117GJ,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.793207,52.299742
 Kompaspad,428,,,1117GV,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.790687,52.296604
 Instrumentenweg,427,,,1117GW,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.790133,52.296202
 Zuideinde,11,,,1117HB,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.789048,52.296975
-Amsterdam-Bataviaweg,60,,,1117ZB,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.792830,52.298097
-Amsterdam-Bataviaweg,100,,,1117ZB,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.791718,52.295687
-Turbineweg,10,,,1117ZB,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.793207,52.299742
-Voltweg,4,,,1117ZB,Schiphol,Haarlemmermeer,Noord-Holland,VBO,4.801016,52.305492

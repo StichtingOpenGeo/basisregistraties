@@ -1,7 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Nijtap,1,,,9218PA,Opeinde,Smallingerland,Friesland,VBO,6.072041,53.133777
 Nijtap,7,,,9218PA,Opeinde,Smallingerland,Friesland,VBO,6.072748,53.133789
-Nijtap,9,,,9218PA,Opeinde,Smallingerland,Friesland,VBO,6.073198,53.133668
+Nijtap,9,,,9218PA,Opeinde,Smallingerland,Friesland,VBO,6.073746,53.133753
 Nijtap,11,,,9218PA,Opeinde,Smallingerland,Friesland,VBO,6.073740,53.134241
 Nijtap,19,,,9218PA,Opeinde,Smallingerland,Friesland,VBO,6.074299,53.133672
 Nijtap,21,,,9218PA,Opeinde,Smallingerland,Friesland,VBO,6.074825,53.133655
@@ -70,7 +70,7 @@ Kommisjewei,127,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.055021,53.134999
 Kommisjewei,131,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.054685,53.135131
 Kommisjewei,133,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.054497,53.135176
 Kommisjewei,137,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.053963,53.135206
-Kommisjewei,141,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.053751,53.135298
+Kommisjewei,141,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.053756,53.135353
 Kommisjewei,145,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.053408,53.135392
 Kommisjewei,147,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.053179,53.135440
 Kommisjewei,149,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.052942,53.135472
@@ -79,7 +79,7 @@ Kommisjewei,153,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.052467,53.135536
 Kommisjewei,159,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.051699,53.135709
 Kommisjewei,161,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.051022,53.135506
 Kommisjewei,163,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.050234,53.135934
-Kommisjewei,183,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.045769,53.136608
+Kommisjewei,183,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.045741,53.136887
 Kommisjewei,185,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.045665,53.136886
 Kommisjewei,187,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.045380,53.136923
 Kommisjewei,191,,,9218PE,Opeinde,Smallingerland,Friesland,VBO,6.045165,53.136925
@@ -145,6 +145,7 @@ Leidyk,7,,,9218PK,Opeinde,Smallingerland,Friesland,VBO,6.070758,53.140554
 Leidyksreed,3,,,9218PL,Opeinde,Smallingerland,Friesland,VBO,6.067288,53.137549
 Leidyksreed,5,,,9218PL,Opeinde,Smallingerland,Friesland,VBO,6.067910,53.138796
 Iendrachtsingel,1,,,9218PM,Opeinde,Smallingerland,Friesland,VBO,6.057030,53.135097
+Iendrachtsingel,2,,,9218PM,Opeinde,Smallingerland,Friesland,VBO,6.057432,53.135282
 Iendrachtsingel,3,,,9218PM,Opeinde,Smallingerland,Friesland,VBO,6.057324,53.135865
 Iendrachtsingel,5,,,9218PM,Opeinde,Smallingerland,Friesland,VBO,6.057371,53.136087
 Iendrachtsingel,6,,,9218PM,Opeinde,Smallingerland,Friesland,VBO,6.057412,53.136168
@@ -450,7 +451,6 @@ Wijtze Brandsmaloane,2,,,9218RN,Opeinde,Smallingerland,Friesland,VBO,6.052136,53
 Wijtze Brandsmaloane,3,,,9218RN,Opeinde,Smallingerland,Friesland,VBO,6.052673,53.134012
 Wijtze Brandsmaloane,4,,,9218RN,Opeinde,Smallingerland,Friesland,VBO,6.051919,53.134062
 Wijtze Brandsmaloane,5,,,9218RN,Opeinde,Smallingerland,Friesland,VBO,6.052838,53.134003
-Wijtze Brandsmaloane,6,,,9218RN,Opeinde,Smallingerland,Friesland,VBO,6.051759,53.134057
 Wijtze Brandsmaloane,7,,,9218RN,Opeinde,Smallingerland,Friesland,VBO,6.052955,53.133995
 Wijtze Brandsmaloane,8,,,9218RN,Opeinde,Smallingerland,Friesland,VBO,6.051625,53.134125
 Wijtze Brandsmaloane,9,,,9218RN,Opeinde,Smallingerland,Friesland,VBO,6.053124,53.133985
@@ -604,10 +604,11 @@ Swartfean,20,,,9218SC,Opeinde,Smallingerland,Friesland,VBO,6.080420,53.143198
 Swartfean,22,,,9218SC,Opeinde,Smallingerland,Friesland,VBO,6.079019,53.143404
 Swartfean,24,,,9218SC,Opeinde,Smallingerland,Friesland,VBO,6.079176,53.144432
 Swartfean,26,,,9218SC,Opeinde,Smallingerland,Friesland,VBO,6.076277,53.145707
+Binnendyks,2,,,9218SE,Opeinde,Smallingerland,Friesland,VBO,6.072453,53.134218
 Binnendyks,6,,,9218SE,Opeinde,Smallingerland,Friesland,VBO,6.073973,53.136329
 Binnendyks,8,,,9218SE,Opeinde,Smallingerland,Friesland,VBO,6.073992,53.136371
 Binnendyks,10,,,9218SE,Opeinde,Smallingerland,Friesland,VBO,6.074865,53.137997
-Binnendyks,12,,,9218SE,Opeinde,Smallingerland,Friesland,VBO,6.075796,53.138096
+Binnendyks,12,,,9218SE,Opeinde,Smallingerland,Friesland,VBO,6.075783,53.138083
 Binnendyks,14,,,9218SE,Opeinde,Smallingerland,Friesland,VBO,6.076266,53.137955
 Hegewei,3,,,9218VA,Opeinde,Smallingerland,Friesland,VBO,6.061498,53.128455
 Hegewei,7,,,9218VA,Opeinde,Smallingerland,Friesland,VBO,6.060445,53.129603

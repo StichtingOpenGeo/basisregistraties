@@ -13,6 +13,7 @@ Aert Heymlaan,11,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.288942,51.662764
 Aert Heymlaan,13,A,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.288526,51.663314
 Aert Heymlaan,13,B,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.288420,51.663466
 Aert Heymlaan,13,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.288758,51.663025
+Aert Heymlaan,15,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.288249,51.663620
 Aert Heymlaan,15,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.288557,51.663843
 Aert Heymlaan,17,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.288104,51.663871
 Aert Heymlaan,19,A,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.287875,51.664094
@@ -24,7 +25,6 @@ Aert Heymlaan,21,C,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.287522,51.664546
 Aert Heymlaan,23,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.287420,51.664645
 Aert Heymlaan,25,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.287295,51.664773
 Aert Heymlaan,27,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.287136,51.665205
-Aert Heymlaan,29,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.286154,51.666444
 Aert Heymlaan,31,,,5263AA,Vught,Vught,Noord-Brabant,VBO,5.286065,51.666505
 Aert Heymlaan,2,,,5263AB,Vught,Vught,Noord-Brabant,VBO,5.290993,51.658067
 Aert Heymlaan,4,,,5263AB,Vught,Vught,Noord-Brabant,VBO,5.291004,51.658131
@@ -150,7 +150,7 @@ Lekkerbeetjenlaan,88,,,5263AH,Vught,Vught,Noord-Brabant,VBO,5.281531,51.656520
 Lekkerbeetjenlaan,90,,,5263AH,Vught,Vught,Noord-Brabant,VBO,5.281399,51.656528
 Lekkerbeetjenlaan,92,,,5263AH,Vught,Vught,Noord-Brabant,VBO,5.281208,51.656505
 John F. Kennedylaan,1,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.285181,51.656903
-John F. Kennedylaan,2,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.286400,51.657571
+John F. Kennedylaan,2,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.285994,51.657315
 John F. Kennedylaan,3,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.285166,51.656957
 John F. Kennedylaan,4,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.285966,51.657368
 John F. Kennedylaan,5,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.285150,51.657012
@@ -185,7 +185,7 @@ John F. Kennedylaan,32,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.283128,51.661847
 John F. Kennedylaan,34,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.282927,51.662060
 John F. Kennedylaan,36,,,5263AJ,Vught,Vught,Noord-Brabant,VBO,5.282730,51.662298
 Van Hanswijkstraat,1,,,5263AK,Vught,Vught,Noord-Brabant,VBO,5.286298,51.657551
-Van Hanswijkstraat,2,,,5263AK,Vught,Vught,Noord-Brabant,VBO,5.286029,51.657318
+Van Hanswijkstraat,2,,,5263AK,Vught,Vught,Noord-Brabant,VBO,5.286389,51.657577
 Van Hanswijkstraat,3,,,5263AK,Vught,Vught,Noord-Brabant,VBO,5.286473,51.657601
 Van Hanswijkstraat,4,,,5263AK,Vught,Vught,Noord-Brabant,VBO,5.286541,51.657629
 Van Hanswijkstraat,5,,,5263AK,Vught,Vught,Noord-Brabant,VBO,5.286685,51.657683
@@ -286,18 +286,22 @@ Koepelweg,2,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.285116,51.660552
 Koepelweg,3,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.283528,51.659597
 Koepelweg,4,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.284898,51.660488
 Koepelweg,5,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.283126,51.659441
-Koepelweg,6,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.283817,51.660086
+Koepelweg,6,A,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.283500,51.660022
+Koepelweg,6,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.283822,51.660126
 Koepelweg,7,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.282692,51.659283
 Koepelweg,8,A,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.282691,51.659701
+Koepelweg,8,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.283112,51.659879
 Koepelweg,9,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.282358,51.659104
 Koepelweg,10,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.281891,51.659363
 Koepelweg,11,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.281862,51.658864
 Koepelweg,12,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.281663,51.659196
 Koepelweg,14,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.280947,51.658878
 Koepelweg,15,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.281146,51.658549
+Koepelweg,16,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.280579,51.658706
 Koepelweg,17,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.280828,51.658379
 Koepelweg,18,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.280241,51.658557
 Koepelweg,19,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.280417,51.658163
+Koepelweg,20,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.279944,51.658369
 Koepelweg,21,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.280103,51.658040
 Koepelweg,23,,,5263AS,Vught,Vught,Noord-Brabant,VBO,5.279822,51.657840
 Loyolalaan,9,A,151,5263AT,Vught,Vught,Noord-Brabant,VBO,5.287283,51.660425
@@ -386,7 +390,6 @@ Loyolalaan,9,A,,5263AT,Vught,Vught,Noord-Brabant,VBO,5.286884,51.660638
 Loyolalaan,9,,,5263AT,Vught,Vught,Noord-Brabant,VBO,5.287755,51.660326
 Loyolalaan,13,,,5263AT,Vught,Vught,Noord-Brabant,VBO,5.284832,51.662772
 Loyolalaan,15,,,5263AT,Vught,Vught,Noord-Brabant,VBO,5.284733,51.662934
-Loyolalaan,17,,,5263AT,Vught,Vught,Noord-Brabant,VBO,5.284532,51.663291
 Loyolalaan,19,,,5263AT,Vught,Vught,Noord-Brabant,VBO,5.283724,51.664108
 Loyolalaan,21,A,,5263AT,Vught,Vught,Noord-Brabant,VBO,5.282887,51.664741
 Loyolalaan,21,,,5263AT,Vught,Vught,Noord-Brabant,VBO,5.283560,51.664250
@@ -530,6 +533,7 @@ Constantijnlaan,10,,,5263BL,Vught,Vught,Noord-Brabant,VBO,5.285582,51.663720
 Constantijnlaan,12,,,5263BL,Vught,Vught,Noord-Brabant,VBO,5.285280,51.663582
 Constantijnlaan,13,,,5263BL,Vught,Vught,Noord-Brabant,VBO,5.285230,51.663160
 Constantijnlaan,15,,,5263BL,Vught,Vught,Noord-Brabant,VBO,5.284933,51.663043
+Constantijnlaan,16,,,5263BL,Vught,Vught,Noord-Brabant,VBO,5.284532,51.663291
 Vughterhage,1,,,5263BM,Vught,Vught,Noord-Brabant,VBO,5.287832,51.663032
 Vughterhage,3,,,5263BM,Vught,Vught,Noord-Brabant,VBO,5.287863,51.662985
 Vughterhage,5,,,5263BM,Vught,Vught,Noord-Brabant,VBO,5.287897,51.662936
@@ -666,6 +670,7 @@ Johan Frisolaan,55,,,5263BS,Vught,Vught,Noord-Brabant,VBO,5.289830,51.664724
 Johan Frisolaan,57,,,5263BS,Vught,Vught,Noord-Brabant,VBO,5.289830,51.664661
 Johan Frisolaan,59,,,5263BS,Vught,Vught,Noord-Brabant,VBO,5.289534,51.664280
 Johan Frisolaan,61,,,5263BS,Vught,Vught,Noord-Brabant,VBO,5.289351,51.664212
+Margrietlaan,1,,,5263BT,Vught,Vught,Noord-Brabant,VBO,5.288697,51.663874
 Margrietlaan,3,,,5263BT,Vught,Vught,Noord-Brabant,VBO,5.288818,51.663668
 Margrietlaan,5,,,5263BT,Vught,Vught,Noord-Brabant,VBO,5.288858,51.663588
 Margrietlaan,7,,,5263BT,Vught,Vught,Noord-Brabant,VBO,5.288899,51.663437
@@ -717,10 +722,13 @@ Margrietlaan,32,,,5263BV,Vught,Vught,Noord-Brabant,VBO,5.289691,51.664124
 Ridder van Brechtlaan,6,,,5263BW,Vught,Vught,Noord-Brabant,VBO,5.279859,51.659609
 Ridder van Brechtlaan,10,,,5263BW,Vught,Vught,Noord-Brabant,VBO,5.280621,51.659858
 Ridder van Brechtlaan,12,,,5263BW,Vught,Vught,Noord-Brabant,VBO,5.281922,51.660046
+Ridder van Brechtlaan,14,,,5263BW,Vught,Vught,Noord-Brabant,VBO,5.282430,51.660011
 Ridder van Brechtlaan,16,,,5263BW,Vught,Vught,Noord-Brabant,VBO,5.282816,51.660160
 Ridder van Brechtlaan,18,,,5263BW,Vught,Vught,Noord-Brabant,VBO,5.283106,51.660298
 Ridder van Brechtlaan,20,,,5263BW,Vught,Vught,Noord-Brabant,VBO,5.283576,51.660492
 Graaf van Rechterenlaan,2,,,5263BX,Vught,Vught,Noord-Brabant,VBO,5.281487,51.659137
+Graaf van Rechterenlaan,3,,,5263BX,Vught,Vught,Noord-Brabant,VBO,5.279805,51.659100
+Graaf van Rechterenlaan,6,,,5263BX,Vught,Vught,Noord-Brabant,VBO,5.280695,51.659476
 Graaf van Rechterenlaan,8,,,5263BX,Vught,Vught,Noord-Brabant,VBO,5.280320,51.659371
 Baron van Lyndenlaan,2,,,5263BZ,Vught,Vught,Noord-Brabant,VBO,5.281257,51.659788
 Baron van Lyndenlaan,4,,,5263BZ,Vught,Vught,Noord-Brabant,VBO,5.281542,51.659685
@@ -866,6 +874,7 @@ Kampdijklaan,60,,,5263CK,Vught,Vught,Noord-Brabant,VBO,5.286093,51.670021
 Kampdijklaan,62,,,5263CK,Vught,Vught,Noord-Brabant,VBO,5.286052,51.670070
 Kampdijklaan,64,,,5263CK,Vught,Vught,Noord-Brabant,VBO,5.285841,51.670201
 Kampdijklaan,66,,,5263CK,Vught,Vught,Noord-Brabant,VBO,5.285726,51.670367
+Kampdijklaan,68,,,5263CK,Vught,Vught,Noord-Brabant,VBO,5.285686,51.670584
 Kampdijklaan,76,,,5263CK,Vught,Vught,Noord-Brabant,VBO,5.284846,51.670794
 Kampdijklaan,78,,,5263CK,Vught,Vught,Noord-Brabant,VBO,5.284793,51.670907
 Kampdijklaan,80,A,,5263CK,Vught,Vught,Noord-Brabant,VBO,5.284582,51.671079
@@ -912,6 +921,7 @@ Loonsebaan,99,,,5263CM,Vught,Vught,Noord-Brabant,VBO,5.284866,51.663939
 Loonsebaan,101,,,5263CM,Vught,Vught,Noord-Brabant,VBO,5.284677,51.663829
 Loonsebaan,103,,,5263CM,Vught,Vught,Noord-Brabant,VBO,5.284410,51.663640
 Loonsebaan,105,,,5263CM,Vught,Vught,Noord-Brabant,VBO,5.284217,51.663522
+Loonsebaan,107,,,5263CM,Vught,Vught,Noord-Brabant,VBO,5.283757,51.663303
 Loonsebaan,109,,,5263CM,Vught,Vught,Noord-Brabant,VBO,5.283607,51.663131
 Loonsebaan,111,,,5263CM,Vught,Vught,Noord-Brabant,VBO,5.283531,51.663089
 Loonsebaan,113,,,5263CM,Vught,Vught,Noord-Brabant,VBO,5.283267,51.662905
@@ -1060,10 +1070,12 @@ Prinsenhage,91,,,5263CV,Vught,Vught,Noord-Brabant,VBO,5.284574,51.665932
 Prinsenhage,93,,,5263CV,Vught,Vught,Noord-Brabant,VBO,5.284310,51.666070
 Prinsenhage,95,,,5263CV,Vught,Vught,Noord-Brabant,VBO,5.284128,51.666189
 Prinsenhage,97,,,5263CV,Vught,Vught,Noord-Brabant,VBO,5.283900,51.666347
+Postweg,1,,,5263CW,Vught,Vught,Noord-Brabant,VBO,5.285372,51.670516
 Juliana van Stolberglaan,4,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281784,51.663322
 Juliana van Stolberglaan,6,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281766,51.663377
 Juliana van Stolberglaan,12,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281577,51.663990
 Juliana van Stolberglaan,14,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281563,51.664048
+Juliana van Stolberglaan,16,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281507,51.664204
 Juliana van Stolberglaan,18,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281479,51.664348
 Juliana van Stolberglaan,20,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281463,51.664423
 Juliana van Stolberglaan,24,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281262,51.664914
@@ -1073,26 +1085,55 @@ Juliana van Stolberglaan,32,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281178,51.6
 Juliana van Stolberglaan,34,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281214,51.665674
 Juliana van Stolberglaan,36,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281228,51.665747
 Juliana van Stolberglaan,42,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281671,51.666493
+Juliana van Stolberglaan,44,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281826,51.666813
+Juliana van Stolberglaan,46,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.281892,51.666859
+Juliana van Stolberglaan,48,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282018,51.667115
+Juliana van Stolberglaan,50,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282049,51.667168
+Juliana van Stolberglaan,52,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282071,51.667220
+Juliana van Stolberglaan,54,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282113,51.667321
+Juliana van Stolberglaan,56,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282143,51.667380
+Juliana van Stolberglaan,58,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282170,51.667481
+Juliana van Stolberglaan,60,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282186,51.667534
+Juliana van Stolberglaan,62,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282196,51.667590
+Juliana van Stolberglaan,64,A,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282399,51.667714
+Juliana van Stolberglaan,64,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282308,51.667692
 Juliana van Stolberglaan,66,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282274,51.668002
 Juliana van Stolberglaan,68,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282449,51.668540
 Juliana van Stolberglaan,70,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282479,51.668596
 Juliana van Stolberglaan,72,,,5263DA,Vught,Vught,Noord-Brabant,VBO,5.282668,51.668759
-Poortlaan,1,,,5263DB,Vught,Vught,Noord-Brabant,VBO,5.281683,51.666171
+Poortlaan,1,,,5263DB,Vught,Vught,Noord-Brabant,VBO,5.281631,51.666192
+Poortlaan,2,,,5263DB,Vught,Vught,Noord-Brabant,VBO,5.281666,51.665632
+Poortlaan,4,,,5263DB,Vught,Vught,Noord-Brabant,VBO,5.281698,51.665576
 Poortlaan,6,,,5263DB,Vught,Vught,Noord-Brabant,VBO,5.281840,51.665448
 Amalia van Solmslaan,1,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.283303,51.667604
 Amalia van Solmslaan,2,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282325,51.666274
 Amalia van Solmslaan,3,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.283272,51.667655
 Amalia van Solmslaan,4,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282393,51.666219
 Amalia van Solmslaan,5,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282793,51.667952
+Amalia van Solmslaan,6,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282614,51.666422
 Amalia van Solmslaan,7,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282703,51.667990
+Amalia van Solmslaan,8,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282681,51.666466
 Amalia van Solmslaan,9,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282354,51.668060
+Amalia van Solmslaan,10,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282900,51.666607
+Amalia van Solmslaan,12,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282968,51.666647
+Amalia van Solmslaan,14,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.283239,51.666969
+Amalia van Solmslaan,16,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.283288,51.667032
+Amalia van Solmslaan,18,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.283436,51.667158
+Amalia van Solmslaan,20,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.283527,51.667209
 Amalia van Solmslaan,28,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282669,51.668298
 Amalia van Solmslaan,30,,,5263DC,Vught,Vught,Noord-Brabant,VBO,5.282581,51.668325
 Dillenburglaan,1,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.281592,51.666409
 Dillenburglaan,2,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282465,51.666920
+Dillenburglaan,3,A,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282492,51.667408
+Dillenburglaan,3,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282451,51.667358
 Dillenburglaan,4,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282582,51.667004
+Dillenburglaan,5,A,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282646,51.667528
+Dillenburglaan,5,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282537,51.667454
 Dillenburglaan,6,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282406,51.666945
+Dillenburglaan,7,A,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282774,51.667598
+Dillenburglaan,7,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282710,51.667566
 Dillenburglaan,8,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282533,51.667038
+Dillenburglaan,9,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282844,51.667632
 Dillenburglaan,10,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282348,51.666979
 Dillenburglaan,11,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.283031,51.668310
 Dillenburglaan,12,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.282483,51.667069
@@ -1118,7 +1159,10 @@ Dillenburglaan,46,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.283569,51.667911
 Dillenburglaan,48,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.283698,51.667926
 Dillenburglaan,50,,,5263DD,Vught,Vught,Noord-Brabant,VBO,5.283657,51.667900
 Graaf van Nassaustraat,2,,,5263DE,Vught,Vught,Noord-Brabant,VBO,5.281985,51.666363
+Willem de Zwijgerlaan,1,,,5263DG,Vught,Vught,Noord-Brabant,VBO,5.283726,51.667291
 Willem de Zwijgerlaan,2,,,5263DG,Vught,Vught,Noord-Brabant,VBO,5.284703,51.669049
+Willem de Zwijgerlaan,3,,,5263DG,Vught,Vught,Noord-Brabant,VBO,5.283814,51.667303
+Willem de Zwijgerlaan,5,,,5263DG,Vught,Vught,Noord-Brabant,VBO,5.283897,51.667318
 Oranjepad,2,,,5263DH,Vught,Vught,Noord-Brabant,VBO,5.283749,51.667692
 Oranjepad,4,,,5263DH,Vught,Vught,Noord-Brabant,VBO,5.283851,51.667715
 Oranjepad,6,,,5263DH,Vught,Vught,Noord-Brabant,VBO,5.284008,51.667745
@@ -1332,7 +1376,7 @@ Helvoirtseweg,92,,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.290349,51.657458
 Helvoirtseweg,96,,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.290189,51.657399
 Helvoirtseweg,98,A,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.290010,51.657323
 Helvoirtseweg,98,,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.290075,51.657351
-Helvoirtseweg,100,,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.289707,51.657798
+Helvoirtseweg,100,,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.289985,51.657700
 Helvoirtseweg,102,,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.289845,51.657285
 Helvoirtseweg,104,,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.289760,51.657226
 Helvoirtseweg,106,,,5263EG,Vught,Vught,Noord-Brabant,VBO,5.289677,51.657195
@@ -1362,13 +1406,14 @@ Helvoirtseweg,148,,,5263EH,Vught,Vught,Noord-Brabant,VBO,5.284154,51.656102
 Helvoirtseweg,154,,,5263EH,Vught,Vught,Noord-Brabant,VBO,5.276150,51.651551
 Helvoirtseweg,156,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.274614,51.651117
 Helvoirtseweg,158,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.274191,51.650855
+Helvoirtseweg,160,A,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.273002,51.650731
 Helvoirtseweg,160,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.273731,51.650783
 Helvoirtseweg,162,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.272547,51.650495
 Helvoirtseweg,166,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.271332,51.649339
 Helvoirtseweg,170,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.270816,51.649199
 Helvoirtseweg,174,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.270396,51.649006
-Helvoirtseweg,176,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.270045,51.648804
-Helvoirtseweg,178,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.270007,51.648841
+Helvoirtseweg,176,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.270099,51.648820
+Helvoirtseweg,178,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.269980,51.648817
 Helvoirtseweg,180,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.266632,51.647386
 Helvoirtseweg,182,,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.266436,51.647256
 Helvoirtseweg,184,A,,5263EJ,Vught,Vught,Noord-Brabant,VBO,5.256864,51.643722
@@ -1379,6 +1424,7 @@ Van Houwelingenplantsoen,3,,,5263EK,Vught,Vught,Noord-Brabant,VBO,5.281607,51.65
 Van Houwelingenplantsoen,4,,,5263EK,Vught,Vught,Noord-Brabant,VBO,5.281303,51.654912
 Van Houwelingenplantsoen,5,,,5263EK,Vught,Vught,Noord-Brabant,VBO,5.280887,51.654691
 Van Houwelingenplantsoen,6,,,5263EK,Vught,Vught,Noord-Brabant,VBO,5.280548,51.654683
+Van Houwelingenplantsoen,7,,,5263EK,Vught,Vught,Noord-Brabant,VBO,5.280821,51.654258
 Van Houwelingenplantsoen,7,,,5263EK,Vught,Vught,Noord-Brabant,VBO,5.280914,51.654304
 Van Houwelingenplantsoen,8,,,5263EK,Vught,Vught,Noord-Brabant,VBO,5.281098,51.654062
 Van Houwelingenplantsoen,9,,,5263EK,Vught,Vught,Noord-Brabant,VBO,5.281269,51.653864
@@ -1580,6 +1626,7 @@ Esdoornlaan,4,,,5263GE,Vught,Vught,Noord-Brabant,VBO,5.271800,51.654971
 Esdoornlaan,5,,,5263GE,Vught,Vught,Noord-Brabant,VBO,5.272616,51.655119
 Esdoornlaan,6,,,5263GE,Vught,Vught,Noord-Brabant,VBO,5.272073,51.655176
 Esdoornlaan,7,,,5263GE,Vught,Vught,Noord-Brabant,VBO,5.272694,51.655182
+Esdoornlaan,8,,,5263GE,Vught,Vught,Noord-Brabant,VBO,5.272291,51.655367
 Esdoornlaan,9,,,5263GE,Vught,Vught,Noord-Brabant,VBO,5.272949,51.655355
 Esdoornlaan,10,,,5263GE,Vught,Vught,Noord-Brabant,VBO,5.272509,51.655510
 Esdoornlaan,11,,,5263GE,Vught,Vught,Noord-Brabant,VBO,5.273262,51.655483

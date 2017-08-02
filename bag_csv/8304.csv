@@ -21,9 +21,9 @@ Bedrijfsweg,76,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754517,52.6949
 Bedrijfsweg,78,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754398,52.694859
 Bedrijfsweg,80,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754309,52.694823
 Bedrijfsweg,82,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754205,52.694778
-Bedrijfsweg,84,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754175,52.694707
-Bedrijfsweg,86,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754219,52.694662
-Bedrijfsweg,88,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754263,52.694607
+Bedrijfsweg,84,A,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754175,52.694707
+Bedrijfsweg,84,B,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754219,52.694662
+Bedrijfsweg,84,C,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754263,52.694607
 Bedrijfsweg,90,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754307,52.694553
 Bedrijfsweg,92,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754188,52.694455
 Bedrijfsweg,94,,,8304AA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754069,52.694410
@@ -70,6 +70,7 @@ Industrieweg,11,,,8304AC,Emmeloord,Noordoostpolder,Flevoland,VBO,5.746645,52.703
 Industrieweg,13,,,8304AC,Emmeloord,Noordoostpolder,Flevoland,VBO,5.746763,52.703626
 Industrieweg,17,,,8304AC,Emmeloord,Noordoostpolder,Flevoland,VBO,5.746707,52.703977
 Industrieweg,21,,,8304AC,Emmeloord,Noordoostpolder,Flevoland,VBO,5.748402,52.704387
+Industrieweg,31,,,8304AC,Emmeloord,Noordoostpolder,Flevoland,VBO,5.750249,52.704912
 Industrieweg,41,,,8304AC,Emmeloord,Noordoostpolder,Flevoland,VBO,5.752117,52.705129
 Industrieweg,45,,,8304AC,Emmeloord,Noordoostpolder,Flevoland,VBO,5.753245,52.705575
 Industrieweg,47,,,8304AC,Emmeloord,Noordoostpolder,Flevoland,VBO,5.753335,52.705700
@@ -83,7 +84,6 @@ Economieweg,7,,,8304AD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754853,52.69798
 Economieweg,9,,,8304AD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754792,52.697715
 Industrieweg,4,,,8304AD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745927,52.702712
 Industrieweg,6,,1,8304AD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.746551,52.702944
-Industrieweg,12,,,8304AD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.747946,52.703470
 Industrieweg,14,,,8304AD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.749015,52.703925
 Industrieweg,16,,,8304AD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.749653,52.704139
 Industrieweg,18,,,8304AD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.750497,52.704271
@@ -122,6 +122,7 @@ Havenstraat,1,,,8304AG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745827,52.70125
 Havenstraat,3,,,8304AG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.746112,52.701723
 Havenstraat,5,,,8304AG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.746675,52.701892
 Havenstraat,7,,,8304AG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.747150,52.702079
+Havenstraat,9,A,,8304AG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.748368,52.702250
 Havenstraat,9,,,8304AG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.747684,52.702168
 Havenstraat,11,,,8304AG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.748604,52.702605
 Havenstraat,13,,,8304AG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.749405,52.702863
@@ -141,6 +142,7 @@ Havenstraat,18,,,8304AH,Emmeloord,Noordoostpolder,Flevoland,VBO,5.752041,52.7030
 Havenstraat,20,,,8304AH,Emmeloord,Noordoostpolder,Flevoland,VBO,5.752649,52.703020
 Havenstraat,24,,,8304AH,Emmeloord,Noordoostpolder,Flevoland,VBO,5.753900,52.703372
 Havenstraat,26,,,8304AH,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754365,52.703226
+Havenstraat,30,,,8304AH,Emmeloord,Noordoostpolder,Flevoland,VBO,5.754763,52.703200
 Energieweg,1,,,8304AJ,Emmeloord,Noordoostpolder,Flevoland,VBO,5.752343,52.702100
 Energieweg,2,,,8304AJ,Emmeloord,Noordoostpolder,Flevoland,VBO,5.753347,52.701791
 Energieweg,4,,,8304AJ,Emmeloord,Noordoostpolder,Flevoland,VBO,5.755049,52.701965
@@ -351,6 +353,7 @@ Gildenweg,27,,,8304BD,Emmeloord,Noordoostpolder,Flevoland,VBO,5.758702,52.693066
 Revisieweg,3,,,8304BE,Emmeloord,Noordoostpolder,Flevoland,VBO,5.750591,52.694142
 Revisieweg,8,,,8304BE,Emmeloord,Noordoostpolder,Flevoland,VBO,5.750245,52.693523
 Revisieweg,16,,,8304BE,Emmeloord,Noordoostpolder,Flevoland,VBO,5.752234,52.694362
+Revisieweg,16,,,8304BE,Emmeloord,Noordoostpolder,Flevoland,VBO,5.752575,52.694448
 Revisieweg,18,,,8304BE,Emmeloord,Noordoostpolder,Flevoland,VBO,5.752798,52.694549
 Montageweg,1,,,8304BG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.747953,52.695301
 Montageweg,2,,TR,8304BG,Emmeloord,Noordoostpolder,Flevoland,VBO,5.748091,52.695017
@@ -428,6 +431,7 @@ Verlengde Gildenweg,7,,13,8304BK,Emmeloord,Noordoostpolder,Flevoland,VBO,5.74601
 Verlengde Gildenweg,7,,14,8304BK,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745968,52.688126
 Verlengde Gildenweg,7,,15,8304BK,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745920,52.688107
 Verlengde Gildenweg,7,,16,8304BK,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745875,52.688086
+Verlengde Gildenweg,8,,,8304BK,Emmeloord,Noordoostpolder,Flevoland,VBO,5.744589,52.686960
 Verlengde Gildenweg,9,,01,8304BK,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745909,52.687687
 Verlengde Gildenweg,9,,02,8304BK,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745863,52.687721
 Verlengde Gildenweg,9,,03,8304BK,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745815,52.687757
@@ -598,6 +602,7 @@ Titaniumweg,4,,,8304BR,Emmeloord,Noordoostpolder,Flevoland,VBO,5.740902,52.68675
 Titaniumweg,6,,,8304BR,Emmeloord,Noordoostpolder,Flevoland,VBO,5.741748,52.687204
 Titaniumweg,10,,,8304BR,Emmeloord,Noordoostpolder,Flevoland,VBO,5.742727,52.687561
 Verlengde Revisieweg,2,,,8304BS,Emmeloord,Noordoostpolder,Flevoland,VBO,5.746972,52.692840
+Verlengde Revisieweg,4,,,8304BS,Emmeloord,Noordoostpolder,Flevoland,VBO,5.745930,52.692094
 Hoornstraat,3,,,8304CA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.756549,52.704369
 Hoornstraat,5,,,8304CA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.756578,52.704324
 Hoornstraat,7,,,8304CA,Emmeloord,Noordoostpolder,Flevoland,VBO,5.756621,52.704180

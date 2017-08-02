@@ -5,6 +5,8 @@ Biltstraat,1,,,3572AA,Utrecht,Utrecht,Utrecht,VBO,5.126799,52.094934
 Biltstraat,3,,,3572AA,Utrecht,Utrecht,Utrecht,VBO,5.126946,52.094942
 Biltstraat,5,,BS,3572AA,Utrecht,Utrecht,Utrecht,VBO,5.127028,52.094948
 Biltstraat,5,,,3572AA,Utrecht,Utrecht,Utrecht,VBO,5.127048,52.094949
+Biltstraat,7,A,,3572AA,Utrecht,Utrecht,Utrecht,VBO,5.127094,52.094951
+Biltstraat,7,B,,3572AA,Utrecht,Utrecht,Utrecht,VBO,5.127094,52.094951
 Biltstraat,7,,BS,3572AA,Utrecht,Utrecht,Utrecht,VBO,5.127094,52.094951
 Biltstraat,7,,,3572AA,Utrecht,Utrecht,Utrecht,VBO,5.127115,52.094953
 Biltstraat,9,,,3572AB,Utrecht,Utrecht,Utrecht,VBO,5.127144,52.094953
@@ -107,7 +109,6 @@ Biltstraat,97,D,,3572AL,Utrecht,Utrecht,Utrecht,VBO,5.131255,52.095170
 Biltstraat,97,E,,3572AL,Utrecht,Utrecht,Utrecht,VBO,5.131253,52.095161
 Biltstraat,97,G,,3572AL,Utrecht,Utrecht,Utrecht,VBO,5.131250,52.095153
 Biltstraat,97,,,3572AL,Utrecht,Utrecht,Utrecht,VBO,5.131260,52.095202
-Biltstraat,97,,,3572AL,Utrecht,Utrecht,Utrecht,VBO,5.131318,52.095197
 Biltstraat,99,,,3572AL,Utrecht,Utrecht,Utrecht,VBO,5.131426,52.095205
 Biltstraat,101,A,,3572AL,Utrecht,Utrecht,Utrecht,VBO,5.131639,52.095216
 Biltstraat,101,B,A,3572AL,Utrecht,Utrecht,Utrecht,VBO,5.131736,52.095220
@@ -184,10 +185,11 @@ Biltstraat,119,,7,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133276,52.095251
 Biltstraat,119,,8,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133253,52.095300
 Biltstraat,119,,9,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133253,52.095293
 Biltstraat,119,,,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133271,52.095308
-Biltstraat,119,,,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133301,52.095300
 Biltstraat,121,,1,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133485,52.095306
 Biltstraat,121,,10,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133425,52.095315
 Biltstraat,121,,11,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133426,52.095305
+Biltstraat,121,,12,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133422,52.095291
+Biltstraat,121,,13,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133419,52.095277
 Biltstraat,121,,2,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133486,52.095295
 Biltstraat,121,,3,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133464,52.095316
 Biltstraat,121,,4,3572AP,Utrecht,Utrecht,Utrecht,VBO,5.133465,52.095307
@@ -461,10 +463,8 @@ Biltstraat,192,G,,3572BR,Utrecht,Utrecht,Utrecht,VBO,5.140228,52.095781
 Biltstraat,192,H,,3572BR,Utrecht,Utrecht,Utrecht,VBO,5.140226,52.095794
 Biltstraat,192,,BS,3572BR,Utrecht,Utrecht,Utrecht,VBO,5.140201,52.095781
 Biltstraat,192,,,3572BR,Utrecht,Utrecht,Utrecht,VBO,5.140181,52.095799
-Biltstraat,192,,,3572BR,Utrecht,Utrecht,Utrecht,VBO,5.140182,52.095781
 Biltstraat,194,,,3572BR,Utrecht,Utrecht,Utrecht,VBO,5.140283,52.095777
 Biltstraat,196,,,3572BR,Utrecht,Utrecht,Utrecht,VBO,5.140386,52.095777
-Biltstraat,198,,,3572BR,Utrecht,Utrecht,Utrecht,VBO,5.140182,52.095781
 Biltstraat,200,,,3572BS,Utrecht,Utrecht,Utrecht,VBO,5.140624,52.095770
 Biltstraat,202,,,3572BS,Utrecht,Utrecht,Utrecht,VBO,5.140740,52.095768
 Biltstraat,204,,,3572BS,Utrecht,Utrecht,Utrecht,VBO,5.140868,52.095766
@@ -623,6 +623,12 @@ Kleinesingel,3,,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.127526,52.097896
 Kleinesingel,15,,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.127981,52.097961
 Kleinesingel,17,,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128009,52.097963
 Kleinesingel,19,,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128215,52.097979
+Kleinesingel,21,A,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128234,52.097950
+Kleinesingel,21,B,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128234,52.097943
+Kleinesingel,21,C,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128231,52.097936
+Kleinesingel,21,D,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128230,52.097928
+Kleinesingel,21,E,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128228,52.097919
+Kleinesingel,21,G,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128228,52.097911
 Kleinesingel,21,,BS,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128234,52.097965
 Kleinesingel,21,,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128243,52.097981
 Kleinesingel,23,,,3572CG,Utrecht,Utrecht,Utrecht,VBO,5.128298,52.097986
@@ -833,8 +839,6 @@ Marmerplein,34,,,3572CT,Utrecht,Utrecht,Utrecht,VBO,5.128868,52.097801
 Marmerplein,40,,,3572CT,Utrecht,Utrecht,Utrecht,VBO,5.128799,52.098016
 Hoefsmederijstraat,1,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.136279,52.099435
 Hoefsmederijstraat,3,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.136279,52.099435
-Hoefsmederijstraat,5,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.136279,52.099435
-Hoefsmederijstraat,7,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.136279,52.099435
 Hoefsmederijstraat,9,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.136207,52.099411
 Hoefsmederijstraat,11,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.136181,52.099461
 Hoefsmederijstraat,13,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.136132,52.099487
@@ -845,15 +849,10 @@ Hoefsmederijstraat,21,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135918,52.099567
 Hoefsmederijstraat,23,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135897,52.099579
 Hoefsmederijstraat,25,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135881,52.099631
 Hoefsmederijstraat,27,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135881,52.099631
-Hoefsmederijstraat,29,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135881,52.099631
-Hoefsmederijstraat,31,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135881,52.099631
 Hoefsmederijstraat,33,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135444,52.099815
 Hoefsmederijstraat,35,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135549,52.099713
 Hoefsmederijstraat,37,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135455,52.099747
 Hoefsmederijstraat,39,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135430,52.099756
-Hoefsmederijstraat,41,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135430,52.099756
-Hoefsmederijstraat,43,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135430,52.099756
-Hoefsmederijstraat,45,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135430,52.099756
 Hoefsmederijstraat,47,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135279,52.099812
 Hoefsmederijstraat,49,,,3572DA,Utrecht,Utrecht,Utrecht,VBO,5.135255,52.099821
 Veeartsenijstraat,51,,,3572DC,Utrecht,Utrecht,Utrecht,VBO,5.137826,52.096416
@@ -1829,7 +1828,6 @@ Ooftstraat,19,,,3572HR,Utrecht,Utrecht,Utrecht,VBO,5.134810,52.097133
 Ooftstraat,21,A,,3572HR,Utrecht,Utrecht,Utrecht,VBO,5.134747,52.097153
 Ooftstraat,21,B,,3572HR,Utrecht,Utrecht,Utrecht,VBO,5.134747,52.097153
 Ooftstraat,21,,,3572HR,Utrecht,Utrecht,Utrecht,VBO,5.134747,52.097153
-Ooftstraat,23,,BS,3572HR,Utrecht,Utrecht,Utrecht,VBO,5.134703,52.097168
 Ooftstraat,23,,,3572HR,Utrecht,Utrecht,Utrecht,VBO,5.134685,52.097174
 Ooftstraat,25,,,3572HR,Utrecht,Utrecht,Utrecht,VBO,5.134660,52.097183
 Ooftstraat,2,,,3572HS,Utrecht,Utrecht,Utrecht,VBO,5.135482,52.096748
@@ -2456,13 +2454,10 @@ Alexander Numankade,3,A,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
 Alexander Numankade,3,C,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
 Alexander Numankade,3,E,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
 Alexander Numankade,3,G,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
-Alexander Numankade,3,H,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
 Alexander Numankade,3,K,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
 Alexander Numankade,3,M,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
-Alexander Numankade,3,N,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
 Alexander Numankade,3,P,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
 Alexander Numankade,3,S,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
-Alexander Numankade,3,T,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138404,52.098464
 Alexander Numankade,5,A,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138374,52.098490
 Alexander Numankade,5,B,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138398,52.098499
 Alexander Numankade,5,C,,3572KN,Utrecht,Utrecht,Utrecht,VBO,5.138421,52.098508
@@ -2735,7 +2730,7 @@ Huizingalaan,139,,,3572LL,Utrecht,Utrecht,Utrecht,VBO,5.141545,52.099732
 Huizingalaan,141,,,3572LL,Utrecht,Utrecht,Utrecht,VBO,5.141545,52.099732
 Huizingalaan,143,,,3572LL,Utrecht,Utrecht,Utrecht,VBO,5.141569,52.099723
 Huizingalaan,145,,,3572LL,Utrecht,Utrecht,Utrecht,VBO,5.141569,52.099723
-Huizingalaan,187,,,3572LL,Utrecht,Utrecht,Utrecht,VBO,5.141776,52.099648
+Huizingalaan,187,,,3572LL,Utrecht,Utrecht,Utrecht,VBO,5.141729,52.099628
 Huizingalaan,189,,,3572LL,Utrecht,Utrecht,Utrecht,VBO,5.141936,52.099537
 Huizingalaan,191,,,3572LL,Utrecht,Utrecht,Utrecht,VBO,5.141957,52.099529
 Huizingalaan,2,,,3572LM,Utrecht,Utrecht,Utrecht,VBO,5.136269,52.101908
@@ -3878,7 +3873,6 @@ Bekkerstraat,133,,,3572SG,Utrecht,Utrecht,Utrecht,VBO,5.133647,52.099455
 Bekkerstraat,135,,,3572SG,Utrecht,Utrecht,Utrecht,VBO,5.133669,52.099494
 Bekkerstraat,137,,,3572SG,Utrecht,Utrecht,Utrecht,VBO,5.133688,52.099529
 Bekkerstraat,139,,,3572SG,Utrecht,Utrecht,Utrecht,VBO,5.133697,52.099545
-Bekkerstraat,141,,,3572SG,Utrecht,Utrecht,Utrecht,VBO,5.133940,52.099988
 Bekkerstraat,141,,,3572SG,Utrecht,Utrecht,Utrecht,VBO,5.134011,52.099976
 Bekkerstraat,143,,,3572SG,Utrecht,Utrecht,Utrecht,VBO,5.134041,52.099968
 Bekkerstraat,145,,,3572SG,Utrecht,Utrecht,Utrecht,VBO,5.134071,52.099960
@@ -4609,7 +4603,9 @@ Bollenhofsestraat,31,,,3572VH,Utrecht,Utrecht,Utrecht,VBO,5.131528,52.099728
 Bollenhofsestraat,33,,,3572VH,Utrecht,Utrecht,Utrecht,VBO,5.131594,52.099730
 Bollenhofsestraat,35,,,3572VH,Utrecht,Utrecht,Utrecht,VBO,5.131660,52.099732
 Bollenhofsestraat,37,,,3572VH,Utrecht,Utrecht,Utrecht,VBO,5.131688,52.099733
+Bollenhofsestraat,39,A,,3572VH,Utrecht,Utrecht,Utrecht,VBO,5.131910,52.099750
 Bollenhofsestraat,39,,BS,3572VH,Utrecht,Utrecht,Utrecht,VBO,5.131870,52.099759
+Bollenhofsestraat,39,,,3572VH,Utrecht,Utrecht,Utrecht,VBO,5.131792,52.099749
 Bollenhofsestraat,39,,,3572VH,Utrecht,Utrecht,Utrecht,VBO,5.131845,52.099758
 Bollenhofsestraat,41,,BS,3572VJ,Utrecht,Utrecht,Utrecht,VBO,5.132328,52.099786
 Bollenhofsestraat,41,,,3572VJ,Utrecht,Utrecht,Utrecht,VBO,5.132347,52.099782
@@ -4685,7 +4681,7 @@ Bollenhofsestraat,18,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.129768,52.099727
 Bollenhofsestraat,20,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.129833,52.099740
 Bollenhofsestraat,22,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.129883,52.099751
 Bollenhofsestraat,24,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.129931,52.099761
-Bollenhofsestraat,28,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.130038,52.099784
+Bollenhofsestraat,28,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.130016,52.099781
 Bollenhofsestraat,30,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.130097,52.099796
 Bollenhofsestraat,32,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.130159,52.099809
 Bollenhofsestraat,34,,,3572VN,Utrecht,Utrecht,Utrecht,VBO,5.130221,52.099821
@@ -5707,7 +5703,6 @@ Buys Ballotstraat,34,A,,3572ZT,Utrecht,Utrecht,Utrecht,VBO,5.140219,52.098251
 Buys Ballotstraat,34,B,,3572ZT,Utrecht,Utrecht,Utrecht,VBO,5.140241,52.098251
 Buys Ballotstraat,34,C,,3572ZT,Utrecht,Utrecht,Utrecht,VBO,5.140264,52.098248
 Buys Ballotstraat,34,,,3572ZT,Utrecht,Utrecht,Utrecht,VBO,5.140199,52.098252
-Buys Ballotstraat,34,,,3572ZT,Utrecht,Utrecht,Utrecht,VBO,5.140224,52.098265
 Buys Ballotstraat,35,,,3572ZT,Utrecht,Utrecht,Utrecht,VBO,5.140231,52.098319
 Buys Ballotstraat,36,,,3572ZT,Utrecht,Utrecht,Utrecht,VBO,5.140239,52.098375
 Buys Ballotstraat,37,,,3572ZT,Utrecht,Utrecht,Utrecht,VBO,5.140246,52.098424

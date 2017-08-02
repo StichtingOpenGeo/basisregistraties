@@ -1,7 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Markt,1,,,7141AA,Groenlo,Oost Gelre,Gelderland,VBO,6.617001,52.042378
-Markt,2,a,,7141AA,Groenlo,Oost Gelre,Gelderland,VBO,6.617323,52.042560
-Markt,2,,,7141AA,Groenlo,Oost Gelre,Gelderland,VBO,6.617309,52.042553
+Markt,2,,,7141AA,Groenlo,Oost Gelre,Gelderland,VBO,6.617302,52.042568
 Markt,3,,,7141AA,Groenlo,Oost Gelre,Gelderland,VBO,6.616879,52.042424
 Markt,5,a,,7141AA,Groenlo,Oost Gelre,Gelderland,VBO,6.616732,52.042461
 Markt,5,,,7141AA,Groenlo,Oost Gelre,Gelderland,VBO,6.616776,52.042446
@@ -29,6 +28,7 @@ Notenboomstraat,33,,,7141AB,Groenlo,Oost Gelre,Gelderland,VBO,6.615539,52.043249
 Notenboomstraat,35,,,7141AB,Groenlo,Oost Gelre,Gelderland,VBO,6.615477,52.043172
 Notenboomstraat,37,,,7141AB,Groenlo,Oost Gelre,Gelderland,VBO,6.615344,52.043067
 Notenboomstraat,39,,,7141AB,Groenlo,Oost Gelre,Gelderland,VBO,6.615309,52.043017
+Notenboomstraat,41,,,7141AB,Groenlo,Oost Gelre,Gelderland,VBO,6.615250,52.042947
 Notenboomstraat,2,a,,7141AC,Groenlo,Oost Gelre,Gelderland,VBO,6.616866,52.043005
 Notenboomstraat,2,,,7141AC,Groenlo,Oost Gelre,Gelderland,VBO,6.616845,52.042994
 Notenboomstraat,4,,,7141AC,Groenlo,Oost Gelre,Gelderland,VBO,6.616785,52.043063
@@ -91,9 +91,15 @@ Houtwal,30,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612697,52.042382
 Houtwal,31,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.611838,52.043471
 Houtwal,32,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612674,52.042269
 Houtwal,33,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612042,52.043493
+Houtwal,34,a,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612647,52.042559
+Houtwal,34,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612647,52.042559
 Houtwal,35,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.611879,52.043345
+Houtwal,36,a,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612728,52.042621
+Houtwal,36,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612728,52.042621
 Houtwal,37,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.611832,52.043489
+Houtwal,38,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612647,52.042559
 Houtwal,39,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612034,52.043514
+Houtwal,40,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612647,52.042559
 Houtwal,41,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.611954,52.043389
 Houtwal,42,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612723,52.042811
 Houtwal,43,,,7141AE,Groenlo,Oost Gelre,Gelderland,VBO,6.612011,52.043428
@@ -143,10 +149,10 @@ Beltrumsestraat,9,,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.616135,52.042531
 Beltrumsestraat,11,,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.616011,52.042552
 Beltrumsestraat,13,,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615892,52.042556
 Beltrumsestraat,15,a,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615766,52.042524
-Beltrumsestraat,15,,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615796,52.042189
-Beltrumsestraat,17,a,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615660,52.042495
+Beltrumsestraat,15,,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615768,52.042570
+Beltrumsestraat,17,a,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615652,52.042490
 Beltrumsestraat,17,,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615658,52.042534
-Beltrumsestraat,19,a,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615591,52.042304
+Beltrumsestraat,19,a,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615516,52.042489
 Beltrumsestraat,19,,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615520,52.042537
 Beltrumsestraat,21,,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615363,52.042556
 Beltrumsestraat,23,a,,7141AJ,Groenlo,Oost Gelre,Gelderland,VBO,6.615176,52.042589
@@ -166,7 +172,8 @@ Beltrumsestraat,47,a,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.613571,52.04243
 Beltrumsestraat,47,,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.613618,52.042457
 Beltrumsestraat,49,,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.613524,52.042356
 Beltrumsestraat,51,,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.613143,52.042095
-Beltrumsestraat,55,,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.613042,52.042073
+Beltrumsestraat,55,,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.613065,52.042091
+Beltrumsestraat,57,,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.613005,52.042064
 Bleumingsteeg,4,a,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.614787,52.042505
 Bleumingsteeg,4,b,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.614788,52.042528
 Bleumingsteeg,4,c,,7141AK,Groenlo,Oost Gelre,Gelderland,VBO,6.614793,52.042549
@@ -191,7 +198,7 @@ Beltrumsestraat,18,a,,7141AL,Groenlo,Oost Gelre,Gelderland,VBO,6.615485,52.04283
 Beltrumsestraat,18,,,7141AL,Groenlo,Oost Gelre,Gelderland,VBO,6.615493,52.042832
 Beltrumsestraat,20,a,,7141AL,Groenlo,Oost Gelre,Gelderland,VBO,6.615357,52.042799
 Beltrumsestraat,20,,,7141AL,Groenlo,Oost Gelre,Gelderland,VBO,6.615361,52.042828
-Beltrumsestraat,22,,,7141AL,Groenlo,Oost Gelre,Gelderland,VBO,6.615231,52.042805
+Beltrumsestraat,22,,,7141AL,Groenlo,Oost Gelre,Gelderland,VBO,6.615244,52.042752
 Beltrumsestraat,24,,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614996,52.042749
 Beltrumsestraat,26,a,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614772,52.042840
 Beltrumsestraat,26,b,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614734,52.042820
@@ -200,7 +207,6 @@ Beltrumsestraat,28,,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614764,52.042787
 Beltrumsestraat,30,,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614619,52.042810
 Beltrumsestraat,32,,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614460,52.042831
 Beltrumsestraat,34,a,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614158,52.042842
-Beltrumsestraat,34,b,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614180,52.043081
 Beltrumsestraat,34,,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.614154,52.042826
 Beltrumsestraat,40,,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.613480,52.043012
 Beltrumsestraat,42,a,,7141AM,Groenlo,Oost Gelre,Gelderland,VBO,6.613466,52.042857
@@ -293,7 +299,6 @@ Ziekenhuisstraat,14,b,,7141AN,Groenlo,Oost Gelre,Gelderland,VBO,6.613763,52.0405
 Ziekenhuisstraat,14,c,,7141AN,Groenlo,Oost Gelre,Gelderland,VBO,6.612984,52.040683
 Ziekenhuisstraat,14,,,7141AN,Groenlo,Oost Gelre,Gelderland,VBO,6.612984,52.040683
 Molenweg,5,,,7141AP,Groenlo,Oost Gelre,Gelderland,VBO,6.613876,52.042027
-Koningssteeg,3,,,7141AR,Groenlo,Oost Gelre,Gelderland,VBO,6.615827,52.042196
 Koningssteeg,5,,,7141AR,Groenlo,Oost Gelre,Gelderland,VBO,6.615889,52.042529
 Lepelstraat,1,,,7141AS,Groenlo,Oost Gelre,Gelderland,VBO,6.615681,52.041577
 Lepelstraat,3,,,7141AS,Groenlo,Oost Gelre,Gelderland,VBO,6.615494,52.041628
@@ -321,9 +326,9 @@ Lepelstraat,17,,,7141AS,Groenlo,Oost Gelre,Gelderland,VBO,6.613908,52.042200
 Lepelstraat,19,a,,7141AS,Groenlo,Oost Gelre,Gelderland,VBO,6.613748,52.042201
 Lepelstraat,19,,,7141AS,Groenlo,Oost Gelre,Gelderland,VBO,6.613751,52.042226
 Lepelstraat,21,,,7141AS,Groenlo,Oost Gelre,Gelderland,VBO,6.613475,52.042189
-Lepelstraat,2,,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615661,52.041772
-Lepelstraat,4,a,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615621,52.041795
-Lepelstraat,4,,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615624,52.041779
+Lepelstraat,2,,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615646,52.041784
+Lepelstraat,4,a,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615646,52.041784
+Lepelstraat,4,,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615646,52.041784
 Lepelstraat,10,a,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615187,52.041891
 Lepelstraat,10,,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615176,52.041866
 Lepelstraat,12,,,7141AT,Groenlo,Oost Gelre,Gelderland,VBO,6.615054,52.041888
@@ -453,13 +458,14 @@ Nieuwstad,1,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616437,52.041360
 Nieuwstad,3,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616464,52.041256
 Nieuwstad,5,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616477,52.041201
 Nieuwstad,7,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616476,52.041107
-Nieuwstad,9,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616521,52.040991
+Nieuwstad,9,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616553,52.041010
 Nieuwstad,11,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616549,52.040925
 Nieuwstad,13,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616538,52.040826
 Nieuwstad,15,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616540,52.040713
 Nieuwstad,17,a,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616515,52.040583
 Nieuwstad,17,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616525,52.040637
 Nieuwstad,19,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616561,52.040482
+Nieuwstad,23,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.616919,52.040561
 Nieuwstad,25,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.617046,52.040428
 Nieuwstad,27,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.617124,52.040429
 Nieuwstad,29,,,7141BC,Groenlo,Oost Gelre,Gelderland,VBO,6.617221,52.040434
@@ -518,10 +524,10 @@ Kevelderstraat,18,,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616598,52.042047
 Kevelderstraat,20,a,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616486,52.041991
 Kevelderstraat,20,,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616517,52.041975
 Kevelderstraat,22,a,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616438,52.041903
-Kevelderstraat,22,b,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616267,52.042037
+Kevelderstraat,22,b,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616322,52.041988
 Kevelderstraat,22,,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616497,52.041857
 Kevelderstraat,24,a,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616308,52.041753
-Kevelderstraat,24,b,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616408,52.041831
+Kevelderstraat,24,b,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616355,52.041805
 Kevelderstraat,24,,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616405,52.041760
 Kevelderstraat,26,a,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616189,52.041721
 Kevelderstraat,26,,,7141BG,Groenlo,Oost Gelre,Gelderland,VBO,6.616208,52.041707
@@ -549,11 +555,12 @@ Lievelderstraat,15,b,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617760,52.04118
 Lievelderstraat,15,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617708,52.041219
 Lievelderstraat,17,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617752,52.041127
 Lievelderstraat,19,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617772,52.041089
+Lievelderstraat,21,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617854,52.041031
+Lievelderstraat,25,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617790,52.040930
 Lievelderstraat,27,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617894,52.040857
 Lievelderstraat,29,a,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617941,52.040775
 Lievelderstraat,29,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617906,52.040772
-Lievelderstraat,31,a,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618001,52.040680
-Lievelderstraat,31,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617962,52.040675
+Lievelderstraat,31,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617996,52.040676
 Lievelderstraat,33,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.617987,52.040586
 Lievelderstraat,35,a,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618034,52.040466
 Lievelderstraat,35,,,7141BJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618034,52.040492
@@ -607,7 +614,7 @@ Mattelierstraat,7,a,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.617837,52.042158
 Mattelierstraat,7,,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.617704,52.042156
 Mattelierstraat,12,,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.617857,52.041719
 Mattelierstraat,13,,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.618141,52.041744
-Mattelierstraat,19,,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.618584,52.041695
+Mattelierstraat,19,,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.618580,52.041496
 Mattelierstraat,25,,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.618771,52.041358
 Mattelierstraat,27,,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.618924,52.041295
 Mattelierstraat,31,,,7141BP,Groenlo,Oost Gelre,Gelderland,VBO,6.619062,52.041227
@@ -635,10 +642,7 @@ Gasthuisstraat,12,,,7141BT,Groenlo,Oost Gelre,Gelderland,VBO,6.620010,52.041625
 Gasthuisstraat,14,,,7141BT,Groenlo,Oost Gelre,Gelderland,VBO,6.620551,52.041628
 Gasthuisstraat,18,,,7141BT,Groenlo,Oost Gelre,Gelderland,VBO,6.619760,52.042097
 Gasthuisstraat,20,,,7141BT,Groenlo,Oost Gelre,Gelderland,VBO,6.619614,52.042226
-Wheme,2,a,,7141BV,Groenlo,Oost Gelre,Gelderland,VBO,6.619294,52.041728
-Wheme,2,b,,7141BV,Groenlo,Oost Gelre,Gelderland,VBO,6.619432,52.041806
-Wheme,2,c,,7141BV,Groenlo,Oost Gelre,Gelderland,VBO,6.619561,52.041881
-Wheme,2,,,7141BV,Groenlo,Oost Gelre,Gelderland,VBO,6.618522,52.041722
+Wheme,2,a,,7141BV,Groenlo,Oost Gelre,Gelderland,VBO,6.619383,52.041789
 Wheme,3,,,7141BV,Groenlo,Oost Gelre,Gelderland,VBO,6.619215,52.042715
 Wheme,4,,,7141BV,Groenlo,Oost Gelre,Gelderland,VBO,6.619440,52.042337
 Wheme,6,,,7141BV,Groenlo,Oost Gelre,Gelderland,VBO,6.619333,52.042413
@@ -711,7 +715,8 @@ Maliebaan,14,a,,7141CC,Groenlo,Oost Gelre,Gelderland,VBO,6.620500,52.042937
 Maliebaan,16,,,7141CC,Groenlo,Oost Gelre,Gelderland,VBO,6.620807,52.042879
 Maliebaan,18,,,7141CC,Groenlo,Oost Gelre,Gelderland,VBO,6.621108,52.042823
 Maliebaan,20,,,7141CC,Groenlo,Oost Gelre,Gelderland,VBO,6.621517,52.042767
-Eibergseweg,1,,,7141CD,Groenlo,Oost Gelre,Gelderland,VBO,6.618266,52.044586
+Eibergseweg,1,a,,7141CD,Groenlo,Oost Gelre,Gelderland,VBO,6.617591,52.045093
+Eibergseweg,1,,,7141CD,Groenlo,Oost Gelre,Gelderland,VBO,6.618296,52.044605
 Eibergseweg,3,,,7141CD,Groenlo,Oost Gelre,Gelderland,VBO,6.619120,52.044878
 Eibergseweg,5,,,7141CD,Groenlo,Oost Gelre,Gelderland,VBO,6.619272,52.044939
 Eibergseweg,7,,,7141CD,Groenlo,Oost Gelre,Gelderland,VBO,6.619331,52.044992
@@ -746,11 +751,7 @@ Eibergseweg,30,,,7141CE,Groenlo,Oost Gelre,Gelderland,VBO,6.621188,52.046159
 Eibergseweg,34,,,7141CE,Groenlo,Oost Gelre,Gelderland,VBO,6.622298,52.046638
 Eibergseweg,36,a,,7141CE,Groenlo,Oost Gelre,Gelderland,VBO,6.622578,52.046941
 Eibergseweg,36,,,7141CE,Groenlo,Oost Gelre,Gelderland,VBO,6.622268,52.046775
-Eibergseweg,42,,,7141CE,Groenlo,Oost Gelre,Gelderland,VBO,6.626288,52.052077
-Eibergseweg,44,,,7141CE,Groenlo,Oost Gelre,Gelderland,VBO,6.630864,52.056509
 Halve Maanweg,1,,,7141CG,Groenlo,Oost Gelre,Gelderland,VBO,6.617448,52.045948
-Halve Maanweg,2,,,7141CG,Groenlo,Oost Gelre,Gelderland,VBO,6.612156,52.044139
-Halve Maanweg,3,,,7141CG,Groenlo,Oost Gelre,Gelderland,VBO,6.615184,52.049048
 Halve Maanweg,6,,,7141CG,Groenlo,Oost Gelre,Gelderland,VBO,6.615070,52.046174
 Beethovenstraat,1,,,7141CJ,Groenlo,Oost Gelre,Gelderland,VBO,6.623210,52.047086
 Beethovenstraat,2,,,7141CJ,Groenlo,Oost Gelre,Gelderland,VBO,6.623032,52.046758
@@ -843,9 +844,9 @@ Marhulzenweg,39,,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.624541,52.043167
 Marhulzenweg,41,,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.624664,52.043175
 Marhulzenweg,43,a,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.625041,52.043143
 Marhulzenweg,43,,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.624896,52.043153
-Marhulzenweg,45,a,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.625543,52.043069
+Marhulzenweg,45,a,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.625435,52.043096
 Marhulzenweg,45,b,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.625229,52.043042
-Marhulzenweg,45,,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.625372,52.043037
+Marhulzenweg,45,,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.625444,52.043108
 Marhulzenweg,47,,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.627206,52.043182
 Marhulzenweg,49,,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.626890,52.044312
 Marhulzenweg,51,,,7141CR,Groenlo,Oost Gelre,Gelderland,VBO,6.628084,52.043740
@@ -874,8 +875,6 @@ Eschweg,15,,,7141CT,Groenlo,Oost Gelre,Gelderland,VBO,6.623596,52.044871
 Eschweg,17,,,7141CT,Groenlo,Oost Gelre,Gelderland,VBO,6.624195,52.045112
 Eschweg,19,,,7141CT,Groenlo,Oost Gelre,Gelderland,VBO,6.624446,52.045246
 Eschweg,23,,,7141CT,Groenlo,Oost Gelre,Gelderland,VBO,6.624474,52.045439
-Eschweg,29,a,,7141CT,Groenlo,Oost Gelre,Gelderland,VBO,6.625806,52.046274
-Eschweg,29,,,7141CT,Groenlo,Oost Gelre,Gelderland,VBO,6.625781,52.046138
 Eschweg,2,,,7141CV,Groenlo,Oost Gelre,Gelderland,VBO,6.621513,52.044026
 Eschweg,4,,,7141CV,Groenlo,Oost Gelre,Gelderland,VBO,6.621765,52.044141
 Eschweg,6,,,7141CV,Groenlo,Oost Gelre,Gelderland,VBO,6.621983,52.044235
@@ -905,6 +904,7 @@ Kerkhofsteeg,16,,,7141CZ,Groenlo,Oost Gelre,Gelderland,VBO,6.618091,52.041981
 Kerkhofsteeg,18,,,7141CZ,Groenlo,Oost Gelre,Gelderland,VBO,6.617974,52.041995
 Kerkhofsteeg,20,,,7141CZ,Groenlo,Oost Gelre,Gelderland,VBO,6.618049,52.042021
 De Schans,6,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.619562,52.036553
+De Schans,8,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.619773,52.036400
 De Schans,10,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.620098,52.036344
 De Schans,12,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.620137,52.036414
 De Schans,14,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.620166,52.036506
@@ -919,7 +919,7 @@ De Schans,30,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.620199,52.036666
 De Schans,32,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.620234,52.036733
 De Schans,34,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.620049,52.036874
 De Schans,36,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.619869,52.036916
-De Schans,38,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.619634,52.036978
+De Schans,38,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.619679,52.036984
 De Schans,40,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.619513,52.036987
 Laantje van Lasonder,1,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.622893,52.043056
 Laantje van Lasonder,3,,,7141DA,Groenlo,Oost Gelre,Gelderland,VBO,6.622946,52.042796
@@ -960,12 +960,10 @@ Parallelweg,8,a,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.626120,52.039309
 Parallelweg,8,,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.624546,52.038485
 Parallelweg,10,a,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.624426,52.039722
 Parallelweg,12,a,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.624321,52.040345
-Parallelweg,12,,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.625267,52.039439
 Parallelweg,14,a,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.624279,52.040737
 Parallelweg,14,,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.624285,52.040654
 Parallelweg,18,,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.624177,52.041491
 Parallelweg,22,,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.623889,52.042041
-Parallelweg,24,,,7141DC,Groenlo,Oost Gelre,Gelderland,VBO,6.624083,52.042290
 Industrieweg,1,,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.627795,52.037134
 Industrieweg,3,,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.626846,52.038033
 Industrieweg,5,a,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.627826,52.037992
@@ -986,7 +984,6 @@ Industrieweg,17,d,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.624964,52.043317
 Industrieweg,17,,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.625483,52.041719
 Industrieweg,19,a,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.625160,52.043779
 Industrieweg,19,,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.625352,52.043812
-Industrieweg,21,,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.625265,52.044049
 Industrieweg,23,,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.624964,52.044356
 Jaartsveld,2,,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.620433,52.036435
 Jaartsveld,4,,,7141DD,Groenlo,Oost Gelre,Gelderland,VBO,6.620589,52.036584
@@ -1033,7 +1030,7 @@ Oude Winterswijkseweg,33,,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.630590,52.
 Oude Winterswijkseweg,35,,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.631618,52.033115
 Oude Winterswijkseweg,37,a,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.632241,52.033751
 Oude Winterswijkseweg,37,b,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.632602,52.033409
-Oude Winterswijkseweg,37,,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.632974,52.033134
+Oude Winterswijkseweg,37,,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.632920,52.033181
 Oude Winterswijkseweg,41,,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.634317,52.032210
 Oude Winterswijkseweg,43,a,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.634666,52.032079
 Oude Winterswijkseweg,43,,,7141DE,Groenlo,Oost Gelre,Gelderland,VBO,6.634597,52.032027
@@ -1076,7 +1073,7 @@ Oude Winterswijkseweg,38,,,7141DG,Groenlo,Oost Gelre,Gelderland,VBO,6.631269,52.
 Oude Winterswijkseweg,40,,,7141DG,Groenlo,Oost Gelre,Gelderland,VBO,6.630916,52.032172
 Elshofweg,1,,,7141DH,Groenlo,Oost Gelre,Gelderland,VBO,6.631569,52.033662
 Elshofweg,2,a,,7141DH,Groenlo,Oost Gelre,Gelderland,VBO,6.631960,52.035310
-Elshofweg,2,,,7141DH,Groenlo,Oost Gelre,Gelderland,VBO,6.632415,52.034880
+Elshofweg,2,,,7141DH,Groenlo,Oost Gelre,Gelderland,VBO,6.632407,52.034881
 Elshofweg,3,,,7141DH,Groenlo,Oost Gelre,Gelderland,VBO,6.631074,52.035102
 Elshofweg,4,,,7141DH,Groenlo,Oost Gelre,Gelderland,VBO,6.633186,52.035638
 Elshofweg,6,a,,7141DH,Groenlo,Oost Gelre,Gelderland,VBO,6.632668,52.036835
@@ -1356,7 +1353,7 @@ Stationslaan,9,,,7141DJ,Groenlo,Oost Gelre,Gelderland,VBO,6.622863,52.039847
 Stationslaan,10,,,7141DJ,Groenlo,Oost Gelre,Gelderland,VBO,6.622555,52.039470
 Stationslaan,11,,,7141DJ,Groenlo,Oost Gelre,Gelderland,VBO,6.623548,52.039702
 Stationslaan,12,,,7141DJ,Groenlo,Oost Gelre,Gelderland,VBO,6.622766,52.039480
-Stationslaan,14,,,7141DJ,Groenlo,Oost Gelre,Gelderland,VBO,6.622930,52.039528
+Stationslaan,14,,,7141DJ,Groenlo,Oost Gelre,Gelderland,VBO,6.622908,52.039530
 Stationslaan,16,,,7141DJ,Groenlo,Oost Gelre,Gelderland,VBO,6.623136,52.039537
 Stationslaan,18,,,7141DJ,Groenlo,Oost Gelre,Gelderland,VBO,6.623460,52.039306
 Spoorstraat,1,,,7141DK,Groenlo,Oost Gelre,Gelderland,VBO,6.622018,52.039157
@@ -1403,7 +1400,7 @@ Winterswijkseweg,47,,,7141DM,Groenlo,Oost Gelre,Gelderland,VBO,6.626724,52.03301
 Winterswijkseweg,49,,,7141DM,Groenlo,Oost Gelre,Gelderland,VBO,6.627379,52.032659
 Spoorstraat,3,,,7141DN,Groenlo,Oost Gelre,Gelderland,VBO,6.622101,52.039082
 Spoorstraat,5,,,7141DN,Groenlo,Oost Gelre,Gelderland,VBO,6.622217,52.038983
-Winterswijkseweg,4,,,7141DN,Groenlo,Oost Gelre,Gelderland,VBO,6.620063,52.039299
+Winterswijkseweg,6,,,7141DN,Groenlo,Oost Gelre,Gelderland,VBO,6.620063,52.039299
 Winterswijkseweg,8,,,7141DN,Groenlo,Oost Gelre,Gelderland,VBO,6.620405,52.038960
 Winterswijkseweg,10,,,7141DN,Groenlo,Oost Gelre,Gelderland,VBO,6.620335,52.038768
 Winterswijkseweg,12,,,7141DN,Groenlo,Oost Gelre,Gelderland,VBO,6.620785,52.038788
@@ -1452,7 +1449,7 @@ Groeneweg,2,b,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.619132,52.037689
 Groeneweg,2,,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.618671,52.038025
 Groeneweg,4,,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.619309,52.037610
 Groeneweg,6,,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.619478,52.037543
-Groeneweg,8,a,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.619527,52.037415
+Groeneweg,8,a,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.619506,52.037432
 Groeneweg,8,,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.619596,52.037494
 Groeneweg,10,,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.619941,52.037359
 Groeneweg,12,,,7141DS,Groenlo,Oost Gelre,Gelderland,VBO,6.620024,52.037337
@@ -1486,7 +1483,7 @@ Lichtenvoordseweg,5,a,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.619195,52.0390
 Lichtenvoordseweg,5,,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.619234,52.039082
 Lichtenvoordseweg,7,,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.619155,52.038951
 Lichtenvoordseweg,9,,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.619176,52.038775
-Lichtenvoordseweg,11,,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.619139,52.038808
+Lichtenvoordseweg,11,,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.619145,52.038812
 Lichtenvoordseweg,13,,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.618984,52.038673
 Lichtenvoordseweg,15,,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.618954,52.038621
 Lichtenvoordseweg,17,,,7141DV,Groenlo,Oost Gelre,Gelderland,VBO,6.618926,52.038560
@@ -1514,10 +1511,11 @@ Lichtenvoordseweg,49,c,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618210,52.036
 Lichtenvoordseweg,49,d,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618443,52.036805
 Lichtenvoordseweg,49,e,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618417,52.036772
 Lichtenvoordseweg,49,f,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618384,52.036727
-Lichtenvoordseweg,49,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.617793,52.036867
-Lichtenvoordseweg,51,a,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618602,52.036714
-Lichtenvoordseweg,51,b,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618789,52.036699
-Lichtenvoordseweg,51,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618666,52.036643
+Lichtenvoordseweg,49,,01,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.617806,52.036861
+Lichtenvoordseweg,49,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.617806,52.036861
+Lichtenvoordseweg,51,a,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618613,52.036747
+Lichtenvoordseweg,51,b,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618862,52.036728
+Lichtenvoordseweg,51,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.618675,52.036641
 Lichtenvoordseweg,53,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.617521,52.036364
 Lichtenvoordseweg,55,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.617397,52.036296
 Lichtenvoordseweg,57,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.617313,52.036197
@@ -1535,11 +1533,10 @@ Lichtenvoordseweg,79,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.616439,52.0353
 Lichtenvoordseweg,81,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.616404,52.035253
 Lichtenvoordseweg,83,a,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.615798,52.035002
 Lichtenvoordseweg,83,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.616318,52.035107
-Lichtenvoordseweg,85,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.615516,52.034815
 Lichtenvoordseweg,87,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.614909,52.034685
 Lichtenvoordseweg,89,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.614657,52.034692
 Lichtenvoordseweg,91,,,7141DW,Groenlo,Oost Gelre,Gelderland,VBO,6.614519,52.034567
-Lichtenvoordseweg,2,,,7141DX,Groenlo,Oost Gelre,Gelderland,VBO,6.618492,52.038854
+Lichtenvoordseweg,2,,,7141DX,Groenlo,Oost Gelre,Gelderland,VBO,6.618594,52.038941
 Lichtenvoordseweg,4,,,7141DX,Groenlo,Oost Gelre,Gelderland,VBO,6.618386,52.038702
 Lichtenvoordseweg,6,,,7141DX,Groenlo,Oost Gelre,Gelderland,VBO,6.618514,52.038545
 Lichtenvoordseweg,8,,,7141DX,Groenlo,Oost Gelre,Gelderland,VBO,6.618468,52.038449
@@ -1547,7 +1544,6 @@ Lichtenvoordseweg,16,,,7141DX,Groenlo,Oost Gelre,Gelderland,VBO,6.617884,52.0377
 Lichtenvoordseweg,18,,,7141DX,Groenlo,Oost Gelre,Gelderland,VBO,6.617829,52.037654
 Lichtenvoordseweg,22,,,7141DZ,Groenlo,Oost Gelre,Gelderland,VBO,6.617431,52.037119
 Lichtenvoordseweg,24,,,7141DZ,Groenlo,Oost Gelre,Gelderland,VBO,6.617275,52.036988
-Lichtenvoordseweg,30,a,,7141DZ,Groenlo,Oost Gelre,Gelderland,VBO,6.615889,52.036505
 Lichtenvoordseweg,30,,,7141DZ,Groenlo,Oost Gelre,Gelderland,VBO,6.617061,52.036492
 Lichtenvoordseweg,32,,,7141DZ,Groenlo,Oost Gelre,Gelderland,VBO,6.616973,52.036379
 Lichtenvoordseweg,34,,,7141DZ,Groenlo,Oost Gelre,Gelderland,VBO,6.616898,52.036297
@@ -1572,7 +1568,7 @@ Deken Hooijmansingel,11,,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.615375,52.0
 Deken Hooijmansingel,13,,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.615129,52.038517
 Deken Hooijmansingel,15,a,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.614801,52.038795
 Deken Hooijmansingel,15,,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.614990,52.038697
-Deken Hooijmansingel,17,,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.614644,52.038878
+Deken Hooijmansingel,17,,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.614617,52.038888
 Deken Hooijmansingel,19,,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.614532,52.038988
 Deken Hooijmansingel,21,,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.614478,52.039019
 Deken Hooijmansingel,23,,,7141EA,Groenlo,Oost Gelre,Gelderland,VBO,6.614306,52.039148
@@ -1731,19 +1727,23 @@ Buitenschans,44,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609945,52.039148
 Buitenschans,46,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609915,52.039170
 Buitenschans,48,a,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609675,52.039349
 Buitenschans,48,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609687,52.039318
-Buitenschans,50,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609190,52.039442
+Buitenschans,50,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609294,52.039499
 Buitenschans,52,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609798,52.039124
 Buitenschans,54,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609918,52.039047
 Buitenschans,56,a,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609728,52.039171
 Buitenschans,56,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609853,52.039167
 Buitenschans,58,a,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.610036,52.039083
+Buitenschans,58,b,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609225,52.039443
 Buitenschans,58,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.610005,52.039050
 Buitenschans,60,a,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609307,52.039397
 Buitenschans,60,b,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609380,52.039361
 Buitenschans,60,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609440,52.039428
-Buitenschans,62,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.610036,52.039260
-Buitenschans,64,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609762,52.039505
-Buitenschans,66,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609636,52.039551
+Buitenschans,62,a,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609702,52.039408
+Buitenschans,62,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609702,52.039408
+Buitenschans,64,a,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609939,52.039481
+Buitenschans,64,b,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609771,52.039512
+Buitenschans,66,a,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609702,52.039408
+Buitenschans,66,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609702,52.039408
 Buitenschans,70,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.609832,52.039234
 Buitenschans,80,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.611160,52.039013
 Buitenschans,82,,,7141EL,Groenlo,Oost Gelre,Gelderland,VBO,6.611290,52.038945
@@ -1762,8 +1762,7 @@ Mondragonstraat,12,,,7141EM,Groenlo,Oost Gelre,Gelderland,VBO,6.610049,52.040788
 Het Heydenrijck,1,,,7141EN,Groenlo,Oost Gelre,Gelderland,VBO,6.618368,52.041359
 Het Heydenrijck,9,,,7141EN,Groenlo,Oost Gelre,Gelderland,VBO,6.618211,52.040926
 Het Heydenrijck,10,,,7141EN,Groenlo,Oost Gelre,Gelderland,VBO,6.618324,52.040921
-Het Heydenrijck,13,,,7141EN,Groenlo,Oost Gelre,Gelderland,VBO,6.617765,52.041017
-Het Heydenrijck,14,,,7141EN,Groenlo,Oost Gelre,Gelderland,VBO,6.617790,52.040930
+Het Heydenrijck,12,,,7141EN,Groenlo,Oost Gelre,Gelderland,VBO,6.617958,52.041064
 Het Heydenrijck,22,,,7141EN,Groenlo,Oost Gelre,Gelderland,VBO,6.618666,52.041145
 Het Heydenrijck,101,,,7141EP,Groenlo,Oost Gelre,Gelderland,VBO,6.618685,52.040990
 Het Heydenrijck,102,,,7141EP,Groenlo,Oost Gelre,Gelderland,VBO,6.618822,52.041026
@@ -1864,9 +1863,9 @@ Deken Hooijmansingel,170,,,7141EV,Groenlo,Oost Gelre,Gelderland,VBO,6.613812,52.
 Deken Hooijmansingel,172,,,7141EV,Groenlo,Oost Gelre,Gelderland,VBO,6.613590,52.039710
 Deken Hooijmansingel,174,,,7141EV,Groenlo,Oost Gelre,Gelderland,VBO,6.613478,52.039758
 Deken Hooijmansingel,176,,,7141EV,Groenlo,Oost Gelre,Gelderland,VBO,6.613414,52.039813
-Brouwhuis,1,,,7141GD,Groenlo,Oost Gelre,Gelderland,VBO,6.620488,52.047132
-Brouwhuis,3,,,7141GD,Groenlo,Oost Gelre,Gelderland,VBO,6.620419,52.047153
-Brouwhuis,5,,,7141GD,Groenlo,Oost Gelre,Gelderland,VBO,6.620342,52.047180
+Brouwhuis,1,,,7141GD,Groenlo,Oost Gelre,Gelderland,VBO,6.620469,52.047140
+Brouwhuis,3,,,7141GD,Groenlo,Oost Gelre,Gelderland,VBO,6.620400,52.047161
+Brouwhuis,5,,,7141GD,Groenlo,Oost Gelre,Gelderland,VBO,6.620323,52.047188
 Willem Neerfeldtstraat,1,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.618373,52.045294
 Willem Neerfeldtstraat,3,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.618433,52.045333
 Willem Neerfeldtstraat,5,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.618488,52.045368
@@ -1876,12 +1875,12 @@ Willem Neerfeldtstraat,11,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.618676,52
 Willem Neerfeldtstraat,13,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.618815,52.045800
 Willem Neerfeldtstraat,15,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.618910,52.045764
 Willem Neerfeldtstraat,17,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.618996,52.045748
-Willem Neerfeldtstraat,19,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619270,52.045947
-Willem Neerfeldtstraat,21,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619313,52.045990
-Willem Neerfeldtstraat,23,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619357,52.046032
-Willem Neerfeldtstraat,25,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619402,52.046072
-Willem Neerfeldtstraat,27,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619447,52.046115
-Willem Neerfeldtstraat,29,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619492,52.046157
+Willem Neerfeldtstraat,19,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619237,52.045916
+Willem Neerfeldtstraat,21,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619280,52.045959
+Willem Neerfeldtstraat,23,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619338,52.046010
+Willem Neerfeldtstraat,25,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619373,52.046056
+Willem Neerfeldtstraat,27,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619416,52.046100
+Willem Neerfeldtstraat,29,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619458,52.046141
 Willem Neerfeldtstraat,31,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619578,52.046480
 Willem Neerfeldtstraat,33,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619658,52.046436
 Willem Neerfeldtstraat,35,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.619756,52.046407
@@ -1891,8 +1890,8 @@ Willem Neerfeldtstraat,41,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.620080,52
 Willem Neerfeldtstraat,43,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.620128,52.046746
 Willem Neerfeldtstraat,45,,,7141GE,Groenlo,Oost Gelre,Gelderland,VBO,6.620180,52.046788
 Willem Neerfeldtstraat,2,,,7141GG,Groenlo,Oost Gelre,Gelderland,VBO,6.618701,52.045056
-Willem Neerfeldtstraat,4,,,7141GG,Groenlo,Oost Gelre,Gelderland,VBO,6.618868,52.045163
-Willem Neerfeldtstraat,6,,,7141GG,Groenlo,Oost Gelre,Gelderland,VBO,6.618923,52.045209
+Willem Neerfeldtstraat,4,,,7141GG,Groenlo,Oost Gelre,Gelderland,VBO,6.618874,52.045163
+Willem Neerfeldtstraat,6,,,7141GG,Groenlo,Oost Gelre,Gelderland,VBO,6.618916,52.045209
 Theo de Groenstraat,2,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618066,52.045519
 Theo de Groenstraat,4,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618121,52.045557
 Theo de Groenstraat,6,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618176,52.045590
@@ -1904,38 +1903,48 @@ Theo de Groenstraat,16,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618439,52.04
 Theo de Groenstraat,18,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618487,52.045846
 Theo de Groenstraat,20,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618540,52.045885
 Theo de Groenstraat,22,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618583,52.045926
-Theo de Groenstraat,24,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618789,52.046162
-Theo de Groenstraat,26,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618843,52.046201
-Theo de Groenstraat,28,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618886,52.046243
-Theo de Groenstraat,30,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618929,52.046287
-Theo de Groenstraat,32,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618979,52.046328
-Theo de Groenstraat,34,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619018,52.046371
+Theo de Groenstraat,24,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618790,52.046137
+Theo de Groenstraat,26,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618825,52.046180
+Theo de Groenstraat,28,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618868,52.046220
+Theo de Groenstraat,30,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618911,52.046262
+Theo de Groenstraat,32,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618962,52.046300
+Theo de Groenstraat,34,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619000,52.046349
 Theo de Groenstraat,36,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619092,52.046439
 Theo de Groenstraat,38,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619135,52.046479
 Theo de Groenstraat,40,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619181,52.046523
 Theo de Groenstraat,42,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619222,52.046564
 Theo de Groenstraat,44,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619267,52.046605
 Theo de Groenstraat,46,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619314,52.046647
-Theo de Groenstraat,48,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619453,52.046861
-Theo de Groenstraat,50,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619490,52.046906
-Theo de Groenstraat,52,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619537,52.046952
-Theo de Groenstraat,54,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619580,52.046998
-Theo de Groenstraat,56,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619610,52.047044
-Theo de Groenstraat,58,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619699,52.047146
-Theo de Groenstraat,60,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619730,52.047189
-Theo de Groenstraat,62,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619772,52.047233
-Theo de Groenstraat,64,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619813,52.047277
-Theo de Groenstraat,66,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619846,52.047327
-De Woerd,1,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.617381,52.046668
+Theo de Groenstraat,48,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619501,52.046829
+Theo de Groenstraat,50,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619538,52.046873
+Theo de Groenstraat,52,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619585,52.046920
+Theo de Groenstraat,54,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619628,52.046966
+Theo de Groenstraat,56,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619657,52.047012
+Theo de Groenstraat,58,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619746,52.047113
+Theo de Groenstraat,60,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619778,52.047156
+Theo de Groenstraat,62,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619820,52.047201
+Theo de Groenstraat,64,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619860,52.047245
+Theo de Groenstraat,66,,,7141GJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619894,52.047295
+De Woerd,1,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.617375,52.046637
+De Woerd,3,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.617818,52.046687
+De Woerd,4,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.618195,52.046632
 De Woerd,5,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.617944,52.046860
+De Woerd,6,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.618241,52.046682
 De Woerd,10,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.618484,52.046906
-De Woerd,12,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.618616,52.047138
+De Woerd,12,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.618674,52.047121
+De Woerd,14,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.618916,52.047230
+De Woerd,16,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.619015,52.047364
+De Woerd,18,,,7141GK,Groenlo,Oost Gelre,Gelderland,VBO,6.619085,52.047456
 Asser Esch,2,,,7141GM,Groenlo,Oost Gelre,Gelderland,VBO,6.616789,52.046962
+Asser Esch,3,,,7141GM,Groenlo,Oost Gelre,Gelderland,VBO,6.617476,52.046237
+Asser Esch,4,,,7141GM,Groenlo,Oost Gelre,Gelderland,VBO,6.616990,52.047144
+Asser Esch,5,,,7141GM,Groenlo,Oost Gelre,Gelderland,VBO,6.617119,52.046241
 Asser Esch,16,,,7141GM,Groenlo,Oost Gelre,Gelderland,VBO,6.617473,52.047080
-De Bleek,1,,,7141GN,Groenlo,Oost Gelre,Gelderland,VBO,6.618204,52.048285
+De Bleek,1,,,7141GN,Groenlo,Oost Gelre,Gelderland,VBO,6.618278,52.048302
 De Bleek,5,,,7141GN,Groenlo,Oost Gelre,Gelderland,VBO,6.619448,52.048166
-De Bleek,8,,,7141GN,Groenlo,Oost Gelre,Gelderland,VBO,6.617261,52.047722
+De Bleek,8,,,7141GN,Groenlo,Oost Gelre,Gelderland,VBO,6.617298,52.047738
 De Bleek,10,,,7141GN,Groenlo,Oost Gelre,Gelderland,VBO,6.617322,52.047986
+De Bleek,14,,,7141GN,Groenlo,Oost Gelre,Gelderland,VBO,6.618073,52.047862
 Marhulzenpad,2,,,7141HA,Groenlo,Oost Gelre,Gelderland,VBO,6.633467,52.041124
 Marhulzenpad,3,,,7141HA,Groenlo,Oost Gelre,Gelderland,VBO,6.641725,52.042448
 Marhulzenpad,4,,,7141HA,Groenlo,Oost Gelre,Gelderland,VBO,6.642404,52.041425
@@ -1958,11 +1967,12 @@ Boerijendijk,11,,,7141HB,Groenlo,Oost Gelre,Gelderland,VBO,6.648120,52.036795
 Boerijendijk,12,,,7141HB,Groenlo,Oost Gelre,Gelderland,VBO,6.646542,52.043135
 Boerijendijk,13,,,7141HB,Groenlo,Oost Gelre,Gelderland,VBO,6.647397,52.036344
 Boerijendijk,14,,,7141HB,Groenlo,Oost Gelre,Gelderland,VBO,6.646265,52.039602
-Boerijendijk,16,,,7141HB,Groenlo,Oost Gelre,Gelderland,VBO,6.645632,52.033443
+Boerijendijk,16,,,7141HB,Groenlo,Oost Gelre,Gelderland,VBO,6.645777,52.033354
 Boerijendijk,18,,,7141HB,Groenlo,Oost Gelre,Gelderland,VBO,6.645717,52.033389
 Marhulzen,1,,,7141HD,Groenlo,Oost Gelre,Gelderland,VBO,6.637912,52.045191
 Marhulzen,3,,,7141HD,Groenlo,Oost Gelre,Gelderland,VBO,6.638972,52.045789
 Oude Winterswijkseweg,42,a,,7141HE,Groenlo,Oost Gelre,Gelderland,VBO,6.632815,52.031867
+Oude Winterswijkseweg,42,b,,7141HE,Groenlo,Oost Gelre,Gelderland,VBO,6.633191,52.031718
 Oude Winterswijkseweg,42,,,7141HE,Groenlo,Oost Gelre,Gelderland,VBO,6.632915,52.031781
 Oude Winterswijkseweg,44,,,7141HE,Groenlo,Oost Gelre,Gelderland,VBO,6.639639,52.030388
 Oude Winterswijkseweg,46,,,7141HE,Groenlo,Oost Gelre,Gelderland,VBO,6.641609,52.030083
@@ -2006,7 +2016,8 @@ Deventer Kunstweg,25,,,7141JC,Groenlo,Oost Gelre,Gelderland,VBO,6.605645,52.0498
 Holtkampsweg,2,,,7141JD,Groenlo,Oost Gelre,Gelderland,VBO,6.609347,52.058968
 Den Sliem,1,,,7141JE,Groenlo,Oost Gelre,Gelderland,VBO,6.623897,52.052400
 Den Sliem,3,,,7141JE,Groenlo,Oost Gelre,Gelderland,VBO,6.624960,52.054140
-Den Sliem,7,,,7141JE,Groenlo,Oost Gelre,Gelderland,VBO,6.625167,52.055637
+Den Sliem,7,,,7141JE,Groenlo,Oost Gelre,Gelderland,VBO,6.625065,52.055530
+Den Sliem,9,,,7141JE,Groenlo,Oost Gelre,Gelderland,VBO,6.625168,52.055786
 Den Sliem,11,,,7141JE,Groenlo,Oost Gelre,Gelderland,VBO,6.625630,52.055570
 Den Sliem,13,,,7141JE,Groenlo,Oost Gelre,Gelderland,VBO,6.626325,52.055588
 Den Sliem,35,,,7141JE,Groenlo,Oost Gelre,Gelderland,VBO,6.624057,52.055754
@@ -2029,7 +2040,6 @@ Den Sliem,87,,,7141JG,Groenlo,Oost Gelre,Gelderland,VBO,6.622195,52.053220
 Den Sliem,89,,,7141JG,Groenlo,Oost Gelre,Gelderland,VBO,6.622250,52.052888
 Den Sliem,91,,,7141JG,Groenlo,Oost Gelre,Gelderland,VBO,6.622478,52.052356
 Den Sliem,93,,,7141JG,Groenlo,Oost Gelre,Gelderland,VBO,6.621919,52.051817
-Den Sliem,99,,,7141JG,Groenlo,Oost Gelre,Gelderland,VBO,6.618827,52.051244
 Den Sliem,8,,,7141JH,Groenlo,Oost Gelre,Gelderland,VBO,6.624285,52.050593
 Den Sliem,38,,,7141JH,Groenlo,Oost Gelre,Gelderland,VBO,6.619620,52.050166
 Den Sliem,40,,,7141JH,Groenlo,Oost Gelre,Gelderland,VBO,6.619308,52.050171
@@ -2039,8 +2049,7 @@ Den Sliem,70,,,7141JJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619435,52.050494
 Den Sliem,74,,,7141JJ,Groenlo,Oost Gelre,Gelderland,VBO,6.622728,52.051056
 Den Sliem,78,,,7141JJ,Groenlo,Oost Gelre,Gelderland,VBO,6.621956,52.051331
 Den Sliem,92,,,7141JJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619744,52.050909
-Den Sliem,94,,,7141JJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619511,52.050912
-Den Sliem,98,,,7141JJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618896,52.050620
+Den Sliem,94,,,7141JJ,Groenlo,Oost Gelre,Gelderland,VBO,6.619495,52.050912
 Den Sliem,100,,,7141JJ,Groenlo,Oost Gelre,Gelderland,VBO,6.618505,52.050733
 Zuidgang,1,a,,7141JK,Groenlo,Oost Gelre,Gelderland,VBO,6.620450,52.056391
 Zuidgang,1,,,7141JK,Groenlo,Oost Gelre,Gelderland,VBO,6.622037,52.055993
@@ -2054,11 +2063,11 @@ Batterij,4,a,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626710,52.057397
 Batterij,4,c,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626667,52.057563
 Batterij,4,d,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626991,52.057511
 Batterij,5,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626212,52.059925
-Batterij,6,a,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626880,52.057955
-Batterij,6,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626683,52.057981
+Batterij,6,a,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626915,52.058102
+Batterij,6,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626719,52.058133
 Batterij,7,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626333,52.060167
-Batterij,8,a,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.627318,52.057878
-Batterij,8,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.627112,52.057910
+Batterij,8,a,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.627355,52.058033
+Batterij,8,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.627149,52.058065
 Batterij,9,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626435,52.060377
 Batterij,10,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.627097,52.058248
 Batterij,11,,,7141JL,Groenlo,Oost Gelre,Gelderland,VBO,6.626552,52.060623
@@ -2076,14 +2085,17 @@ Bolwerk,1,a,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.621442,52.057592
 Bolwerk,1,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.621457,52.057566
 Bolwerk,2,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.623920,52.059639
 Bolwerk,3,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.620710,52.058270
-Bolwerk,4,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.623612,52.060039
+Bolwerk,4,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.623682,52.060013
 Bolwerk,5,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.621565,52.059046
-Bolwerk,7,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.622429,52.059830
-Bolwerk,9,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.622123,52.060567
+Bolwerk,7,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.622373,52.059831
+Bolwerk,9,,,7141JM,Groenlo,Oost Gelre,Gelderland,VBO,6.622157,52.060435
 Ruiterpad,14,,,7141JN,Groenlo,Oost Gelre,Gelderland,VBO,6.610834,52.064211
+Noordgang,12,,,7141JP,Groenlo,Oost Gelre,Gelderland,VBO,6.620409,52.061177
+Noordgang,14,,,7141JP,Groenlo,Oost Gelre,Gelderland,VBO,6.620409,52.061177
 Redoute,1,,,7141JW,Groenlo,Oost Gelre,Gelderland,VBO,6.627393,52.062504
 Redoute,3,,,7141JW,Groenlo,Oost Gelre,Gelderland,VBO,6.627456,52.062673
 Redoute,5,,,7141JW,Groenlo,Oost Gelre,Gelderland,VBO,6.627540,52.062869
+Redoute,7,,,7141JW,Groenlo,Oost Gelre,Gelderland,VBO,6.626003,52.062691
 Redoute,18,,,7141JW,Groenlo,Oost Gelre,Gelderland,VBO,6.624648,52.062550
 Redoute,20,a,,7141JW,Groenlo,Oost Gelre,Gelderland,VBO,6.625252,52.062287
 Redoute,20,b,,7141JW,Groenlo,Oost Gelre,Gelderland,VBO,6.625374,52.062275
@@ -2127,11 +2139,13 @@ Ds. Haspelsstraat,40,,,7141JZ,Groenlo,Oost Gelre,Gelderland,VBO,6.609068,52.0390
 Ds. Haspelsstraat,42,,,7141JZ,Groenlo,Oost Gelre,Gelderland,VBO,6.609128,52.039098
 Ds. Haspelsstraat,44,,,7141JZ,Groenlo,Oost Gelre,Gelderland,VBO,6.609184,52.039117
 Ds. Haspelsstraat,46,,,7141JZ,Groenlo,Oost Gelre,Gelderland,VBO,6.609245,52.039137
-Ruurloseweg,1,a,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.611818,52.041354
-Ruurloseweg,1,,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.611889,52.041758
+Ruurloseweg,1,a,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.611911,52.041353
+Ruurloseweg,1,,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.611877,52.041695
 Ruurloseweg,5,,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.611024,52.041842
-Ruurloseweg,7,a,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.610859,52.041816
-Ruurloseweg,7,,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.610854,52.041847
+Ruurloseweg,7,a,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.610802,52.041777
+Ruurloseweg,7,b,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.610933,52.041773
+Ruurloseweg,7,c,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.610662,52.041753
+Ruurloseweg,7,,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.610858,52.041842
 Ruurloseweg,9,,,7141KA,Groenlo,Oost Gelre,Gelderland,VBO,6.610275,52.041769
 Ruurloseweg,11,,,7141KB,Groenlo,Oost Gelre,Gelderland,VBO,6.609694,52.041662
 Ruurloseweg,13,a,,7141KB,Groenlo,Oost Gelre,Gelderland,VBO,6.607160,52.041438
@@ -2205,13 +2219,11 @@ Ruurloseweg,62,,,7141KD,Groenlo,Oost Gelre,Gelderland,VBO,6.603771,52.041716
 Ruurloseweg,64,,,7141KD,Groenlo,Oost Gelre,Gelderland,VBO,6.603569,52.041675
 Papendijk,1,a,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610555,52.041330
 Papendijk,1,b,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610698,52.041155
-Papendijk,1,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610446,52.041446
-Papendijk,1,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610573,52.041526
+Papendijk,1,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610420,52.041445
 Papendijk,3,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610721,52.041104
 Papendijk,5,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610740,52.041047
 Papendijk,7,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610737,52.040899
 Papendijk,9,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610725,52.040812
-Papendijk,11,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.610245,52.040215
 Papendijk,31,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.608108,52.039422
 Papendijk,33,,,7141KE,Groenlo,Oost Gelre,Gelderland,VBO,6.607484,52.039272
 Papendijk,35,,,7141KG,Groenlo,Oost Gelre,Gelderland,VBO,6.607146,52.039171
@@ -2236,7 +2248,7 @@ Papendijk,38,,,7141KH,Groenlo,Oost Gelre,Gelderland,VBO,6.609935,52.040359
 Papendijk,40,,,7141KH,Groenlo,Oost Gelre,Gelderland,VBO,6.609863,52.040318
 Papendijk,44,a,,7141KH,Groenlo,Oost Gelre,Gelderland,VBO,6.608979,52.039915
 Papendijk,44,,,7141KH,Groenlo,Oost Gelre,Gelderland,VBO,6.609045,52.039941
-Papendijk,46,,,7141KH,Groenlo,Oost Gelre,Gelderland,VBO,6.608711,52.039836
+Papendijk,46,,,7141KH,Groenlo,Oost Gelre,Gelderland,VBO,6.608730,52.039817
 Papendijk,50,,,7141KJ,Groenlo,Oost Gelre,Gelderland,VBO,6.607798,52.039581
 Papendijk,52,,,7141KJ,Groenlo,Oost Gelre,Gelderland,VBO,6.607713,52.039562
 Papendijk,54,,,7141KJ,Groenlo,Oost Gelre,Gelderland,VBO,6.607630,52.039542
@@ -2495,7 +2507,6 @@ Oude Aaltenseweg,16,,,7141LB,Groenlo,Oost Gelre,Gelderland,VBO,6.615628,52.03332
 Oude Aaltenseweg,18,,,7141LB,Groenlo,Oost Gelre,Gelderland,VBO,6.615281,52.032932
 Oude Aaltenseweg,20,,,7141LB,Groenlo,Oost Gelre,Gelderland,VBO,6.614599,52.032224
 Oude Aaltenseweg,22,,,7141LB,Groenlo,Oost Gelre,Gelderland,VBO,6.614412,52.032019
-Oude Aaltenseweg,24,,,7141LB,Groenlo,Oost Gelre,Gelderland,VBO,6.614049,52.030661
 Oude Aaltenseweg,26,,,7141LB,Groenlo,Oost Gelre,Gelderland,VBO,6.614341,52.029881
 Lichtenvoordseweg,60,,,7141LC,Groenlo,Oost Gelre,Gelderland,VBO,6.613161,52.034585
 Lichtenvoordseweg,62,,,7141LC,Groenlo,Oost Gelre,Gelderland,VBO,6.612970,52.034470
@@ -2529,18 +2540,17 @@ Lichtenvoordseweg,101,,,7141LC,Groenlo,Oost Gelre,Gelderland,VBO,6.606144,52.029
 Slatmansweg,1,a,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.608804,52.029226
 Slatmansweg,1,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.609246,52.029045
 Slatmansweg,2,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.611672,52.029307
-Slatmansweg,3,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.612304,52.029062
 Slatmansweg,4,a,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.610330,52.029277
 Slatmansweg,4,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.610486,52.029206
-Slatmansweg,6,a,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.608868,52.029414
-Slatmansweg,6,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.608871,52.029482
+Slatmansweg,6,a,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.608926,52.029409
+Slatmansweg,6,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.608809,52.029438
 Slatmansweg,8,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.605645,52.030907
 Slatmansweg,10,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.605047,52.031202
 Slatmansweg,12,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.604404,52.031724
 Slatmansweg,14,,,7141LD,Groenlo,Oost Gelre,Gelderland,VBO,6.603927,52.032175
 Ruurloseweg,59,,,7141LG,Groenlo,Oost Gelre,Gelderland,VBO,6.600913,52.041065
 Ruurloseweg,66,,,7141LG,Groenlo,Oost Gelre,Gelderland,VBO,6.603213,52.041680
-Ruurloseweg,70,,,7141LG,Groenlo,Oost Gelre,Gelderland,VBO,6.593873,52.040740
+Ruurloseweg,70,,,7141LG,Groenlo,Oost Gelre,Gelderland,VBO,6.593824,52.040701
 Ruurloseweg,71,,,7141LG,Groenlo,Oost Gelre,Gelderland,VBO,6.598145,52.041043
 Ruurloseweg,72,,,7141LG,Groenlo,Oost Gelre,Gelderland,VBO,6.593312,52.040724
 Ruurloseweg,73,,,7141LG,Groenlo,Oost Gelre,Gelderland,VBO,6.598048,52.041040
@@ -2555,7 +2565,7 @@ Steenbraakweg,2,,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.592730,52.039339
 Steenbraakweg,3,a,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.593296,52.036144
 Steenbraakweg,3,,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.593262,52.036091
 Steenbraakweg,4,,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.590088,52.037266
-Steenbraakweg,5,a,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.593057,52.035076
+Steenbraakweg,5,a,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.593671,52.035046
 Steenbraakweg,5,,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.592808,52.035314
 Steenbraakweg,6,,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.590457,52.036932
 Steenbraakweg,7,a,,7141LH,Groenlo,Oost Gelre,Gelderland,VBO,6.591842,52.034650
@@ -2689,6 +2699,7 @@ Vredenseweg,108,,,7141MB,Groenlo,Oost Gelre,Gelderland,VBO,6.632468,52.049746
 Vredenseweg,110,a,,7141MB,Groenlo,Oost Gelre,Gelderland,VBO,6.636104,52.050724
 Vredenseweg,110,,,7141MB,Groenlo,Oost Gelre,Gelderland,VBO,6.636169,52.050855
 Vredenseweg,112,,,7141MB,Groenlo,Oost Gelre,Gelderland,VBO,6.636732,52.050576
+Brekemansweg,1,,,7141MC,Groenlo,Oost Gelre,Gelderland,VBO,6.630864,52.056509
 Avesterweg,101,,,7141NA,Groenlo,Oost Gelre,Gelderland,VBO,6.603655,52.050639
 Avesterweg,102,,,7141NA,Groenlo,Oost Gelre,Gelderland,VBO,6.604740,52.050368
 Avesterweg,104,,,7141NA,Groenlo,Oost Gelre,Gelderland,VBO,6.604383,52.050660
@@ -2865,7 +2876,7 @@ De Snieder,80,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605566,52.035017
 De Snieder,82,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605478,52.034999
 De Snieder,84,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605386,52.034978
 De Snieder,86,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605291,52.034956
-De Snieder,88,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605205,52.034935
+De Snieder,88,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605219,52.034958
 De Snieder,90,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605110,52.034912
 De Snieder,92,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605121,52.034859
 De Snieder,94,,,7141NK,Groenlo,Oost Gelre,Gelderland,VBO,6.605134,52.034808
@@ -3030,7 +3041,7 @@ Molenaar,42,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.601104,52.039711
 Molenaar,44,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.600794,52.039861
 Molenaar,46,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.600816,52.039913
 Molenaar,48,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.600756,52.040049
-Molenaar,50,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.600671,52.040076
+Molenaar,50,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.600693,52.040086
 Molenaar,52,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.600471,52.040121
 Molenaar,54,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.600387,52.040107
 Molenaar,56,,,7141PB,Groenlo,Oost Gelre,Gelderland,VBO,6.599727,52.040492
@@ -3173,18 +3184,18 @@ Zilversmid,30,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598976,52.039225
 Zilversmid,32,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598941,52.039275
 Zilversmid,34,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598828,52.039355
 Zilversmid,36,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598727,52.039374
-Zilversmid,38,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598542,52.039889
-Zilversmid,40,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598489,52.039916
-Zilversmid,42,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598440,52.039949
-Zilversmid,44,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598376,52.039984
-Zilversmid,46,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598310,52.040026
-Zilversmid,48,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598252,52.040056
+Zilversmid,38,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598526,52.039899
+Zilversmid,40,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598455,52.039937
+Zilversmid,42,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598407,52.039969
+Zilversmid,44,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598346,52.040007
+Zilversmid,46,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598289,52.040040
+Zilversmid,48,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598228,52.040071
 Zilversmid,50,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598589,52.039924
-Zilversmid,52,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598536,52.039952
-Zilversmid,54,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598482,52.039980
-Zilversmid,56,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598417,52.040018
-Zilversmid,58,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598352,52.040056
-Zilversmid,60,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598300,52.040092
+Zilversmid,52,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598501,52.039966
+Zilversmid,54,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598453,52.039999
+Zilversmid,56,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598393,52.040036
+Zilversmid,58,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598338,52.040067
+Zilversmid,60,,,7141PJ,Groenlo,Oost Gelre,Gelderland,VBO,6.598281,52.040100
 Marskramer,1,,,7141PK,Groenlo,Oost Gelre,Gelderland,VBO,6.604137,52.038446
 Marskramer,3,,,7141PK,Groenlo,Oost Gelre,Gelderland,VBO,6.603793,52.038223
 Marskramer,5,,,7141PK,Groenlo,Oost Gelre,Gelderland,VBO,6.603775,52.038175
@@ -3858,8 +3869,8 @@ Hartebroekseweg,51,,,7141VC,Groenlo,Oost Gelre,Gelderland,VBO,6.601650,52.045222
 Hartebroekseweg,53,,,7141VC,Groenlo,Oost Gelre,Gelderland,VBO,6.601561,52.045212
 Hartebroekseweg,55,,,7141VC,Groenlo,Oost Gelre,Gelderland,VBO,6.601472,52.045202
 Hartebroekseweg,57,,,7141VC,Groenlo,Oost Gelre,Gelderland,VBO,6.601368,52.045184
-Hartebroekseweg,59,,,7141VC,Groenlo,Oost Gelre,Gelderland,VBO,6.598894,52.045993
-Hartebroekseweg,61,,,7141VC,Groenlo,Oost Gelre,Gelderland,VBO,6.597865,52.045326
+Hartebroekseweg,59,,,7141VC,Groenlo,Oost Gelre,Gelderland,VBO,6.598880,52.045967
+Hartebroekseweg,61,,,7141VC,Groenlo,Oost Gelre,Gelderland,VBO,6.597777,52.045307
 Hartebroekseweg,4,,,7141VD,Groenlo,Oost Gelre,Gelderland,VBO,6.607151,52.046016
 Hartebroekseweg,6,,,7141VD,Groenlo,Oost Gelre,Gelderland,VBO,6.607079,52.046005
 Hartebroekseweg,16,,,7141VD,Groenlo,Oost Gelre,Gelderland,VBO,6.606526,52.045939
@@ -3940,7 +3951,9 @@ Borculoseweg,25,,,7141VK,Groenlo,Oost Gelre,Gelderland,VBO,6.609744,52.043773
 Borculoseweg,27,,,7141VK,Groenlo,Oost Gelre,Gelderland,VBO,6.609685,52.043829
 Borculoseweg,29,,,7141VK,Groenlo,Oost Gelre,Gelderland,VBO,6.609585,52.043923
 Borculoseweg,31,,,7141VK,Groenlo,Oost Gelre,Gelderland,VBO,6.609526,52.043977
-Borculoseweg,33,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.609210,52.044228
+Borculoseweg,33,a,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.609112,52.044290
+Borculoseweg,33,b,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.609051,52.044363
+Borculoseweg,33,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.609212,52.044212
 Borculoseweg,35,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.608986,52.044407
 Borculoseweg,45,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.608316,52.044960
 Borculoseweg,47,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.608228,52.045062
@@ -3952,7 +3965,8 @@ Borculoseweg,49,e,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607760,52.045691
 Borculoseweg,49,f,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607721,52.045721
 Borculoseweg,49,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607794,52.045590
 Borculoseweg,51,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607560,52.046093
-Borculoseweg,53,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607535,52.046347
+Borculoseweg,53,a,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607533,52.046338
+Borculoseweg,53,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607526,52.046351
 Borculoseweg,55,a,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607395,52.046724
 Borculoseweg,55,b,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.606686,52.047546
 Borculoseweg,55,,,7141VL,Groenlo,Oost Gelre,Gelderland,VBO,6.607454,52.046594
@@ -4335,7 +4349,7 @@ Emmasingel,88,,,7141WP,Groenlo,Oost Gelre,Gelderland,VBO,6.601475,52.043151
 Emmasingel,90,,,7141WR,Groenlo,Oost Gelre,Gelderland,VBO,6.601006,52.043086
 Emmasingel,92,,,7141WR,Groenlo,Oost Gelre,Gelderland,VBO,6.600918,52.043076
 Emmasingel,94,,,7141WR,Groenlo,Oost Gelre,Gelderland,VBO,6.600833,52.043066
-Emmasingel,96,,,7141WR,Groenlo,Oost Gelre,Gelderland,VBO,6.600753,52.043059
+Emmasingel,96,,,7141WR,Groenlo,Oost Gelre,Gelderland,VBO,6.600726,52.043067
 Emmasingel,98,,,7141WR,Groenlo,Oost Gelre,Gelderland,VBO,6.600344,52.043056
 Emmasingel,100,,,7141WR,Groenlo,Oost Gelre,Gelderland,VBO,6.600323,52.043119
 Emmasingel,102,,,7141WR,Groenlo,Oost Gelre,Gelderland,VBO,6.600310,52.043195

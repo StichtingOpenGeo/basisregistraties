@@ -27,6 +27,7 @@ Marktstraat,23,,,9581AB,Musselkanaal,Stadskanaal,Groningen,VBO,7.008916,52.93458
 Marktstraat,24,,,9581AB,Musselkanaal,Stadskanaal,Groningen,VBO,7.009077,52.934534
 Marktstraat,25,,,9581AB,Musselkanaal,Stadskanaal,Groningen,VBO,7.009278,52.934408
 Marktstraat,26,,,9581AB,Musselkanaal,Stadskanaal,Groningen,VBO,7.009303,52.934327
+Marktstraat,27,A,,9581AB,Musselkanaal,Stadskanaal,Groningen,VBO,7.009240,52.934174
 Marktstraat,27,,,9581AB,Musselkanaal,Stadskanaal,Groningen,VBO,7.009312,52.934202
 Marktstraat,28,A,,9581AB,Musselkanaal,Stadskanaal,Groningen,VBO,7.009874,52.934425
 Marktstraat,28,,,9581AB,Musselkanaal,Stadskanaal,Groningen,VBO,7.009794,52.934134
@@ -127,6 +128,7 @@ Marktstraat,94,,,9581AE,Musselkanaal,Stadskanaal,Groningen,VBO,7.016704,52.92803
 Marktstraat,97,,,9581AE,Musselkanaal,Stadskanaal,Groningen,VBO,7.017065,52.927548
 Marktstraat,98,,,9581AE,Musselkanaal,Stadskanaal,Groningen,VBO,7.017398,52.927456
 Marktstraat,100,,,9581AE,Musselkanaal,Stadskanaal,Groningen,VBO,7.017696,52.926949
+Marktstraat,102,,,9581AE,Musselkanaal,Stadskanaal,Groningen,VBO,7.017938,52.926823
 Marktstraat,103,,,9581AE,Musselkanaal,Stadskanaal,Groningen,VBO,7.018021,52.926659
 Willem Diemerstraat,1,,,9581AG,Musselkanaal,Stadskanaal,Groningen,VBO,7.015799,52.929083
 Willem Diemerstraat,3,A,,9581AG,Musselkanaal,Stadskanaal,Groningen,VBO,7.015131,52.929290
@@ -1933,6 +1935,7 @@ Schoolstraat,58,A,,9581GC,Musselkanaal,Stadskanaal,Groningen,VBO,6.976720,52.962
 Schoolstraat,58,,,9581GC,Musselkanaal,Stadskanaal,Groningen,VBO,6.976241,52.962492
 Schoolstraat,59,,,9581GC,Musselkanaal,Stadskanaal,Groningen,VBO,6.976570,52.962302
 Schoolstraat,60,,,9581GC,Musselkanaal,Stadskanaal,Groningen,VBO,6.976753,52.962151
+Schoolstraat,61,A,,9581GC,Musselkanaal,Stadskanaal,Groningen,VBO,6.976786,52.962044
 Schoolstraat,61,,,9581GC,Musselkanaal,Stadskanaal,Groningen,VBO,6.976835,52.962085
 Schoolstraat,63,,,9581GC,Musselkanaal,Stadskanaal,Groningen,VBO,6.977275,52.961934
 Schoolstraat,64,,,9581GC,Musselkanaal,Stadskanaal,Groningen,VBO,6.977361,52.961660
@@ -2486,7 +2489,6 @@ Sluisstraat,67,,,9581JD,Musselkanaal,Stadskanaal,Groningen,VBO,6.997387,52.94443
 Sluisstraat,71,A,,9581JD,Musselkanaal,Stadskanaal,Groningen,VBO,6.997887,52.943972
 Sluisstraat,71,,,9581JD,Musselkanaal,Stadskanaal,Groningen,VBO,6.997919,52.944121
 Sluisstraat,72,A,,9581JD,Musselkanaal,Stadskanaal,Groningen,VBO,6.998127,52.943892
-Sluisstraat,72,,,9581JD,Musselkanaal,Stadskanaal,Groningen,VBO,6.998121,52.943995
 Sluisstraat,74,A,,9581JD,Musselkanaal,Stadskanaal,Groningen,VBO,6.998567,52.943622
 Sluisstraat,74,B,,9581JD,Musselkanaal,Stadskanaal,Groningen,VBO,6.998461,52.943494
 Sluisstraat,74,,,9581JD,Musselkanaal,Stadskanaal,Groningen,VBO,6.998464,52.943701
@@ -2543,8 +2545,6 @@ Sluisstraat,131,,,9581JG,Musselkanaal,Stadskanaal,Groningen,VBO,7.004235,52.9387
 Sluisstraat,132,,,9581JG,Musselkanaal,Stadskanaal,Groningen,VBO,7.004137,52.938647
 Sluisstraat,133,,,9581JG,Musselkanaal,Stadskanaal,Groningen,VBO,7.004229,52.938582
 Sluisstraat,134,,,9581JG,Musselkanaal,Stadskanaal,Groningen,VBO,7.004400,52.938536
-Sluisstraat,137,,,9581JG,Musselkanaal,Stadskanaal,Groningen,VBO,7.004616,52.938500
-Sluisstraat,138,,,9581JG,Musselkanaal,Stadskanaal,Groningen,VBO,7.004559,52.938322
 Sluisstraat,141,,,9581JH,Musselkanaal,Stadskanaal,Groningen,VBO,7.004894,52.938224
 Sluisstraat,142,A,,9581JH,Musselkanaal,Stadskanaal,Groningen,VBO,7.005032,52.938003
 Sluisstraat,142,,,9581JH,Musselkanaal,Stadskanaal,Groningen,VBO,7.004858,52.938037
@@ -2710,12 +2710,13 @@ Sluiskade,145,,,9581JR,Musselkanaal,Stadskanaal,Groningen,VBO,7.004382,52.936551
 Sluiskade,146,,,9581JR,Musselkanaal,Stadskanaal,Groningen,VBO,7.004151,52.936536
 Sluiskade,147,,,9581JR,Musselkanaal,Stadskanaal,Groningen,VBO,7.003932,52.936522
 Sluiskade,148,,,9581JR,Musselkanaal,Stadskanaal,Groningen,VBO,7.003829,52.936475
+Sjoerd ten Katestraat,1,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.003127,52.940216
 Sjoerd ten Katestraat,2,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.003355,52.940001
 Sjoerd ten Katestraat,3,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.003651,52.940409
 Sjoerd ten Katestraat,4,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.003592,52.940116
 Sjoerd ten Katestraat,5,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.003856,52.940511
 Sjoerd ten Katestraat,6,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.003689,52.940151
-Sjoerd ten Katestraat,7,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.004103,52.940595
+Sjoerd ten Katestraat,7,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.004113,52.940638
 Sjoerd ten Katestraat,8,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.003927,52.940257
 Sjoerd ten Katestraat,10,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.004016,52.940295
 Sjoerd ten Katestraat,12,,,9581JS,Musselkanaal,Stadskanaal,Groningen,VBO,7.004240,52.940375
@@ -3340,6 +3341,7 @@ Horsten,21,,,9581TB,Musselkanaal,Stadskanaal,Groningen,VBO,7.006943,52.947321
 Horsten,25,,,9581TB,Musselkanaal,Stadskanaal,Groningen,VBO,7.007509,52.946517
 Horsten,27,,,9581TB,Musselkanaal,Stadskanaal,Groningen,VBO,7.011720,52.948223
 Horsten,29,,,9581TB,Musselkanaal,Stadskanaal,Groningen,VBO,7.008289,52.945845
+Horsten,37,,,9581TB,Musselkanaal,Stadskanaal,Groningen,VBO,7.011084,52.945523
 Horsten,39,,,9581TB,Musselkanaal,Stadskanaal,Groningen,VBO,7.008994,52.944625
 Horsten,41,,,9581TB,Musselkanaal,Stadskanaal,Groningen,VBO,7.010617,52.942641
 Horsten,43,,,9581TB,Musselkanaal,Stadskanaal,Groningen,VBO,7.011427,52.942293
@@ -3458,7 +3460,7 @@ Telefoonweg,19,,,9581TK,Musselkanaal,Stadskanaal,Groningen,VBO,6.997351,52.94676
 Telefoonweg,20,,,9581TK,Musselkanaal,Stadskanaal,Groningen,VBO,6.997591,52.946717
 Telefoonweg,21,,T,9581TK,Musselkanaal,Stadskanaal,Groningen,VBO,6.999286,52.945347
 Telefoonweg,21,,,9581TK,Musselkanaal,Stadskanaal,Groningen,VBO,6.999495,52.945721
-Telefoonweg,22,,,9581TL,Musselkanaal,Stadskanaal,Groningen,VBO,7.001778,52.943028
+Telefoonweg,23,,,9581TL,Musselkanaal,Stadskanaal,Groningen,VBO,7.001818,52.943044
 Telefoonweg,24,A,,9581TL,Musselkanaal,Stadskanaal,Groningen,VBO,7.003278,52.941761
 Telefoonweg,24,,,9581TL,Musselkanaal,Stadskanaal,Groningen,VBO,7.002879,52.942055
 Telefoonweg,25,A,,9581TL,Musselkanaal,Stadskanaal,Groningen,VBO,7.004125,52.941131

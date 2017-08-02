@@ -45,10 +45,11 @@ Oosteinderweg,21,a,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.759558,52.27099
 Oosteinderweg,21,b,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.759636,52.271016
 Oosteinderweg,21,c,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.759714,52.271242
 Oosteinderweg,21,,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.759405,52.270941
-Oosteinderweg,23,a,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.760264,52.271318
 Oosteinderweg,23,,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.759987,52.271230
 Oosteinderweg,25,,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.760008,52.271912
-Oosteinderweg,27,,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.760474,52.271372
+Oosteinderweg,27,a,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.760300,52.271313
+Oosteinderweg,27,b,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.760434,52.271364
+Oosteinderweg,27,,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.760255,52.271417
 Oosteinderweg,29,,,1432AC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.760782,52.271521
 Oosteinderweg,31,a,,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761048,52.271608
 Oosteinderweg,31,,,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.760970,52.271585
@@ -63,7 +64,6 @@ Oosteinderweg,45,,,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762464,52.272136
 Oosteinderweg,47,,,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762557,52.272173
 Oosteinderweg,49,,ws1,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.762901,52.272349
 Oosteinderweg,49,,ws2,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.761271,52.273673
-Oosteinderweg,49,,,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762801,52.272266
 Oosteinderweg,51,a,,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.763370,52.272514
 Oosteinderweg,51,b,,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762896,52.272831
 Oosteinderweg,51,C,,1432AD,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761692,52.273897
@@ -127,7 +127,7 @@ Oosteinderweg,105,D,,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.767743,52.2771
 Oosteinderweg,105,,ws,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.767049,52.277477
 Oosteinderweg,105,,,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.769840,52.275060
 Oosteinderweg,107,a,,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770387,52.275295
-Oosteinderweg,107,,zmhs,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.767365,52.277638
+Oosteinderweg,107,B,,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770389,52.275421
 Oosteinderweg,107,,,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770034,52.275199
 Oosteinderweg,109,,ws1,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.770261,52.275784
 Oosteinderweg,109,,ws2,1432AG,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.770096,52.275948
@@ -137,7 +137,7 @@ Oosteinderweg,111,a,,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.769629,52.2781
 Oosteinderweg,111,,ws,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.769963,52.277185
 Oosteinderweg,111,,,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.768821,52.277744
 Oosteinderweg,113,a,,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771389,52.275675
-Oosteinderweg,113,C,,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770629,52.276521
+Oosteinderweg,113,C,,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770581,52.276440
 Oosteinderweg,113,D,,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770764,52.276350
 Oosteinderweg,113,,zmhs,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770466,52.276695
 Oosteinderweg,113,,,1432AH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771109,52.275660
@@ -252,11 +252,10 @@ Oosteinderweg,106,B,13,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771353,52.27
 Oosteinderweg,106,B,14,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771399,52.274308
 Oosteinderweg,106,B,15,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771457,52.274279
 Oosteinderweg,106,B,16,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771503,52.274237
-Oosteinderweg,106,B,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770652,52.274831
-Oosteinderweg,106,c,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771532,52.274260
 Oosteinderweg,106,,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770373,52.274948
 Oosteinderweg,108,,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.770689,52.275057
 Oosteinderweg,110,,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771031,52.275186
+Oosteinderweg,114,A,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771972,52.275505
 Oosteinderweg,114,,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.771594,52.275409
 Oosteinderweg,116,A,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.772802,52.275052
 Oosteinderweg,116,,,1432AN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.772148,52.275651
@@ -391,6 +390,7 @@ Oosteinderweg,293,,,1432AW,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791525,52.28219
 Oosteinderweg,295,,,1432AW,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791599,52.282219
 Oosteinderweg,299,,,1432AW,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791912,52.282333
 Oosteinderweg,301,B,,1432AW,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790349,52.284363
+Oosteinderweg,301,c,,1432AW,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790009,52.284575
 Oosteinderweg,301,,,1432AW,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792085,52.282449
 Oosteinderweg,303,A,,1432AW,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791611,52.283524
 Oosteinderweg,303,,ws,1432AW,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.791426,52.284364
@@ -461,9 +461,11 @@ Oosteinderweg,206,a,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781646,52.2779
 Oosteinderweg,206,,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781223,52.278188
 Oosteinderweg,208,a,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781405,52.278264
 Oosteinderweg,208,,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781445,52.278294
+Oosteinderweg,210,,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781788,52.278196
 Oosteinderweg,212,A,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781932,52.278254
 Oosteinderweg,212,,traf,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781688,52.278214
 Oosteinderweg,212,,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781756,52.278380
+Oosteinderweg,216,A,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783778,52.276692
 Oosteinderweg,216,,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.782143,52.278535
 Oosteinderweg,220,,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.782648,52.278712
 Oosteinderweg,222,A,,1432BA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783529,52.278459
@@ -484,9 +486,7 @@ Oosteinderweg,242,,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.785309,52.27963
 Oosteinderweg,244,,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.785817,52.279805
 Oosteinderweg,246,A,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.786103,52.279937
 Oosteinderweg,246,,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.786008,52.279893
-Oosteinderweg,248,a,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.786440,52.280072
-Oosteinderweg,248,B,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.786588,52.279962
-Oosteinderweg,248,,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.786310,52.280021
+Oosteinderweg,248,,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.786373,52.280040
 Oosteinderweg,250,,,1432BB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.786630,52.280133
 Oosteinderweg,254,A,,1432BC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.787880,52.280256
 Oosteinderweg,254,,,1432BC,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.787652,52.280494
@@ -658,7 +658,6 @@ Oosteinderweg,569,a,kwek,1432BL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.818768,52.
 Oosteinderweg,569,a,,1432BL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.819106,52.292454
 Oosteinderweg,569,b,,1432BL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.819188,52.292482
 Oosteinderweg,569,,,1432BL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.819784,52.292109
-Oosteinderweg,571,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.819525,52.292587
 Oosteinderweg,573,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.819719,52.292632
 Oosteinderweg,575,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820153,52.292188
 Oosteinderweg,577,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820251,52.292223
@@ -666,8 +665,8 @@ Oosteinderweg,579,a,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820351,52.2924
 Oosteinderweg,579,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820415,52.292404
 Oosteinderweg,581,a,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820367,52.292866
 Oosteinderweg,581,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820658,52.292417
-Oosteinderweg,583,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820864,52.292413
-Oosteinderweg,585,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820956,52.292443
+Oosteinderweg,583,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820809,52.292487
+Oosteinderweg,585,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820893,52.292497
 Oosteinderweg,589,A,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.821083,52.292492
 Oosteinderweg,589,,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.821092,52.292556
 Oosteinderweg,591,A,,1432BM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.821160,52.292599
@@ -697,7 +696,7 @@ Oosteinderweg,438,,,1432BN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806182,52.28694
 Oosteinderweg,442,,,1432BP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806548,52.287060
 Oosteinderweg,444,,,1432BP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806856,52.287220
 Oosteinderweg,448,,,1432BP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807344,52.287346
-Oosteinderweg,450,a,,1432BP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807867,52.286728
+Oosteinderweg,450,a,,1432BP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807873,52.286714
 Oosteinderweg,450,,,1432BP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807761,52.287462
 Oosteinderweg,452,,,1432BP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807933,52.287587
 Oosteinderweg,454,,,1432BP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.808240,52.287670
@@ -722,8 +721,7 @@ Oosteinderweg,502,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.812382,52.28910
 Oosteinderweg,504,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.812599,52.289279
 Oosteinderweg,506,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.812820,52.289334
 Oosteinderweg,508,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813038,52.289410
-Oosteinderweg,510,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813274,52.289509
-Oosteinderweg,512,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813334,52.289530
+Oosteinderweg,512,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813297,52.289467
 Oosteinderweg,516,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813665,52.289628
 Oosteinderweg,518,,,1432BR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813859,52.289701
 Oosteinderweg,520,,,1432BS,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.814135,52.289744
@@ -772,6 +770,7 @@ Mr. Jac. Takkade,1,A,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.800124,52.286
 Mr. Jac. Takkade,1,,traf,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.800656,52.285640
 Mr. Jac. Takkade,1,,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.800372,52.285771
 Mr. Jac. Takkade,2,,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.800947,52.286090
+Mr. Jac. Takkade,3,A,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.802134,52.287682
 Mr. Jac. Takkade,3,,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.801307,52.286504
 Mr. Jac. Takkade,4,a,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.800662,52.286397
 Mr. Jac. Takkade,4,,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.800611,52.286462
@@ -782,6 +781,7 @@ Mr. Jac. Takkade,8,,ws1,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.796870,52.2
 Mr. Jac. Takkade,8,,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.797920,52.288307
 Mr. Jac. Takkade,9,a,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.798779,52.288494
 Mr. Jac. Takkade,9,A,kwek,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799249,52.288488
+Mr. Jac. Takkade,9,b,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.798207,52.289001
 Mr. Jac. Takkade,9,,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799174,52.288297
 Mr. Jac. Takkade,10,A,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.796309,52.290556
 Mr. Jac. Takkade,10,,,1432CA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.796273,52.290943
@@ -798,6 +798,7 @@ Mr. Jac. Takkade,30,,,1432CB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.803829,52.302
 Mr. Jac. Takkade,33,A,,1432CB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806609,52.303591
 Mr. Jac. Takkade,33,,traf,1432CB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806396,52.304246
 Mr. Jac. Takkade,33,,,1432CB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807001,52.304048
+Mr. Jac. Takkade,35,,,1432CB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.809399,52.304608
 Mr. Jac. Takkade,37,A,,1432CB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.810261,52.305074
 Mr. Jac. Takkade,40,,,1432CB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.810191,52.304177
 Ringvaart-Schipholdijk,500,,ws,1432CC,Aalsmeer,Aalsmeer,Noord-Holland,LIG,4.790292,52.290048
@@ -873,7 +874,7 @@ Schinkeldijkje,18,F,,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822176,52.2908
 Schinkeldijkje,18,G,,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822222,52.290878
 Schinkeldijkje,18,H,,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822186,52.290803
 Schinkeldijkje,18,K,,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822240,52.290808
-Schinkeldijkje,20,,,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822622,52.290972
+Schinkeldijkje,20,,,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822655,52.290994
 Schinkeldijkje,22,,,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822266,52.290661
 Schinkeldijkje,24,,,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822940,52.290599
 Schinkeldijkje,26,,kwek,1432CE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822847,52.290259
@@ -896,17 +897,17 @@ Aalsmeerderweg,37,,,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773997,52.27250
 Aalsmeerderweg,39,,,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774213,52.272573
 Aalsmeerderweg,41,,,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774404,52.272635
 Aalsmeerderweg,45,,,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774661,52.272729
-Aalsmeerderweg,47,A,01,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774172,52.273145
+Aalsmeerderweg,47,A,01,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774201,52.273140
+Aalsmeerderweg,47,A,02,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774140,52.273192
 Aalsmeerderweg,47,A,03,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774126,52.273178
-Aalsmeerderweg,47,A,05,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774065,52.273246
-Aalsmeerderweg,47,A,07,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773984,52.273337
-Aalsmeerderweg,47,A,09,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773926,52.273396
-Aalsmeerderweg,47,A,11,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773923,52.273393
 Aalsmeerderweg,47,A,14,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773856,52.273473
 Aalsmeerderweg,47,A,15,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773830,52.273501
 Aalsmeerderweg,47,A,16,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773731,52.273611
-Aalsmeerderweg,47,A,17,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773685,52.273657
-Aalsmeerderweg,47,A,20,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773615,52.273733
+Aalsmeerderweg,47,A,17,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773722,52.273636
+Aalsmeerderweg,47,A,18,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773716,52.273636
+Aalsmeerderweg,47,A,19,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773691,52.273664
+Aalsmeerderweg,47,A,20,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773663,52.273708
+Aalsmeerderweg,47,A,21,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773638,52.273725
 Aalsmeerderweg,47,B,01,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774490,52.273390
 Aalsmeerderweg,47,B,02,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774346,52.273400
 Aalsmeerderweg,47,B,03,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774306,52.273426
@@ -928,10 +929,29 @@ Aalsmeerderweg,47,C,08,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774038,52.27
 Aalsmeerderweg,47,C,10,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773989,52.274018
 Aalsmeerderweg,47,D,01,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.775071,52.273457
 Aalsmeerderweg,47,D,02,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.775047,52.273481
-Aalsmeerderweg,47,D,03,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774879,52.273675
-Aalsmeerderweg,47,D,17,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774405,52.274176
+Aalsmeerderweg,47,D,03,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774999,52.273540
+Aalsmeerderweg,47,D,05,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774931,52.273594
+Aalsmeerderweg,47,D,07,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774877,52.273665
+Aalsmeerderweg,47,D,09,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774834,52.273707
+Aalsmeerderweg,47,D,11,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774784,52.273761
+Aalsmeerderweg,47,D,13,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774737,52.273804
+Aalsmeerderweg,47,D,15,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774696,52.273855
+Aalsmeerderweg,47,D,17,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774625,52.273925
+Aalsmeerderweg,47,D,19,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774556,52.273996
+Aalsmeerderweg,47,D,21,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774499,52.274075
+Aalsmeerderweg,47,D,23,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774437,52.274122
+Aalsmeerderweg,47,D,24,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774412,52.274158
+Aalsmeerderweg,47,D,25,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774378,52.274180
+Aalsmeerderweg,47,D,26,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774371,52.274205
 Aalsmeerderweg,47,D,29,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774284,52.274304
 Aalsmeerderweg,47,E,01,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.775156,52.273501
+Aalsmeerderweg,47,E,02,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.775082,52.273580
+Aalsmeerderweg,47,E,03,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.775022,52.273649
+Aalsmeerderweg,47,E,04,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774975,52.273692
+Aalsmeerderweg,47,E,05,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774923,52.273737
+Aalsmeerderweg,47,E,06,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774875,52.273803
+Aalsmeerderweg,47,E,07,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774835,52.273843
+Aalsmeerderweg,47,E,08,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774788,52.273893
 Aalsmeerderweg,47,,,1432CG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.774626,52.273273
 Aalsmeerderweg,57,,,1432CH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.775836,52.273137
 Aalsmeerderweg,61,,,1432CH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.776257,52.273291
@@ -994,8 +1014,6 @@ Aalsmeerderweg,129,,,1432CJ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781492,52.2755
 Aalsmeerderweg,131,,,1432CJ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781454,52.275571
 Aalsmeerderweg,133,,traf,1432CK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.782016,52.275438
 Aalsmeerderweg,133,,,1432CK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.781997,52.275291
-Aalsmeerderweg,141,,,1432CK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.782555,52.276127
-Aalsmeerderweg,143,,,1432CK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783037,52.275660
 Aalsmeerderweg,147,,,1432CK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783338,52.275758
 Aalsmeerderweg,149,,,1432CK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783525,52.275817
 Aalsmeerderweg,153,,,1432CK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783985,52.275997
@@ -1461,7 +1479,6 @@ Middenweg,25,A,,1432DE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783698,52.271672
 Middenweg,25,B,,1432DE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783163,52.271796
 Middenweg,25,C,,1432DE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783509,52.271901
 Middenweg,25,,,1432DE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783538,52.271615
-Middenweg,48,,,1432DE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.787433,52.271834
 Middenweg,53,,,1432DE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.787622,52.273720
 Middenweg,55,,,1432DE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.788120,52.273178
 Braziliëlaan,22,,,1432DG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791683,52.273868
@@ -1473,7 +1490,9 @@ Ecuadorlaan,41,,,1432DH,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790346,52.276332
 Thailandlaan,3,,,1432DJ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791408,52.267433
 Thailandlaan,5,,,1432DJ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791978,52.266755
 Thailandlaan,6,,,1432DJ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791382,52.268589
+Thailandlaan,13,,,1432DJ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.793943,52.264720
 Japanlaan,4,,,1432DK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.794535,52.268095
+Japanlaan,7,,,1432DK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.794801,52.269164
 Japanlaan,15,,,1432DK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.797109,52.266510
 Japanlaan,17,,,1432DK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.797109,52.266510
 Japanlaan,18,,,1432DK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.794521,52.266101
@@ -1490,6 +1509,7 @@ Aalsmeerderweg,337,,,1432EA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.804755,52.2832
 Aalsmeerderweg,339,a,,1432EA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.803253,52.285291
 Aalsmeerderweg,339,b,,1432EA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.803304,52.285068
 Aalsmeerderweg,339,,,1432EA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.804965,52.283335
+Aalsmeerderweg,341,,,1432EA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.805047,52.283411
 Aalsmeerderweg,343,,,1432EA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.805195,52.283489
 Aalsmeerderweg,345,,,1432EA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.805267,52.283512
 Aalsmeerderweg,347,,,1432EA,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.805613,52.283542
@@ -1553,7 +1573,7 @@ Aalsmeerderweg,487,,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.821300,52.2890
 Aalsmeerderweg,489,,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.821464,52.289111
 Aalsmeerderweg,491,,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.821536,52.289139
 Aalsmeerderweg,497,A,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.820274,52.289141
-Aalsmeerderweg,497,,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.821713,52.289344
+Aalsmeerderweg,497,,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.821753,52.289291
 Aalsmeerderweg,501,,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.823094,52.289521
 Aalsmeerderweg,505,,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.823172,52.289569
 Aalsmeerderweg,507,A,,1432ED,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.822804,52.289800
@@ -1572,21 +1592,23 @@ Aalsmeerderweg,364,,kwek,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.810607,52.
 Aalsmeerderweg,364,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.810196,52.284617
 Aalsmeerderweg,368,,kwek,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.810886,52.284380
 Aalsmeerderweg,368,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.810772,52.284810
-Aalsmeerderweg,370,,kwek,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.812197,52.283898
+Aalsmeerderweg,370,,kwek,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.812599,52.284174
 Aalsmeerderweg,370,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.811423,52.285033
 Aalsmeerderweg,374,A,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.812333,52.285035
 Aalsmeerderweg,374,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.812091,52.285243
+Aalsmeerderweg,376,b,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813064,52.285619
 Aalsmeerderweg,376,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.812462,52.285407
 Aalsmeerderweg,378,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813356,52.285713
-Aalsmeerderweg,380,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813671,52.285460
+Aalsmeerderweg,380,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.813815,52.285287
 Aalsmeerderweg,388,,,1432EE,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.814399,52.286025
 Aalsmeerderweg,390,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.814743,52.286155
 Aalsmeerderweg,392,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.815067,52.286200
 Aalsmeerderweg,394,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.815367,52.286313
 Aalsmeerderweg,396,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.815870,52.286409
 Aalsmeerderweg,398,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.816551,52.286631
+Aalsmeerderweg,418,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.817362,52.286969
 Aalsmeerderweg,420,a,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.817518,52.287112
-Aalsmeerderweg,420,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.817283,52.286942
+Aalsmeerderweg,420,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.817286,52.286942
 Aalsmeerderweg,422,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.817714,52.287141
 Aalsmeerderweg,424,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.818226,52.287314
 Aalsmeerderweg,426,,,1432EG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.818598,52.287440
@@ -1653,8 +1675,8 @@ Machineweg,23,,,1432EK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.788720,52.279076
 Machineweg,25,,,1432EK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.788801,52.278973
 Machineweg,29,A,,1432EK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789052,52.278968
 Machineweg,29,,,1432EK,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.788840,52.278894
-Machineweg,33,a,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789012,52.278682
-Machineweg,33,b,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789108,52.278708
+Machineweg,33,a,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789107,52.278696
+Machineweg,33,b,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789160,52.278666
 Machineweg,33,C,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789129,52.278786
 Machineweg,33,,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789005,52.278756
 Machineweg,35,a,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789103,52.278570
@@ -1667,53 +1689,9 @@ Machineweg,39,,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789486,52.278196
 Machineweg,41,,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789589,52.278090
 Machineweg,43,,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789549,52.278080
 Machineweg,47,,,1432EL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.789635,52.277943
-Machineweg,49,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790211,52.277410
-Machineweg,51,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790264,52.277356
-Machineweg,53,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790318,52.277301
-Machineweg,55,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790371,52.277247
-Machineweg,57,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790452,52.277213
-Machineweg,59,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790500,52.277162
-Machineweg,61,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790548,52.277111
-Machineweg,63,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790596,52.277061
-Machineweg,65,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790644,52.277010
-Machineweg,67,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790692,52.276959
-Machineweg,69,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790740,52.276908
-Machineweg,71,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790788,52.276857
-Machineweg,73,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790836,52.276806
-Machineweg,75,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790884,52.276755
-Machineweg,77,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790932,52.276704
-Machineweg,79,,,1432EM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.790980,52.276654
-Machineweg,81,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791013,52.276559
-Machineweg,83,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791054,52.276511
-Machineweg,85,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791097,52.276466
-Machineweg,87,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791157,52.276416
-Machineweg,89,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791307,52.276361
-Machineweg,91,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791354,52.276312
-Machineweg,93,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791401,52.276263
-Machineweg,95,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791447,52.276214
-Machineweg,97,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791494,52.276165
-Machineweg,99,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791541,52.276116
-Machineweg,101,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791587,52.276067
-Machineweg,103,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791634,52.276018
-Machineweg,105,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791681,52.275969
-Machineweg,107,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791728,52.275920
-Machineweg,109,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791774,52.275872
-Machineweg,111,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791821,52.275823
-Machineweg,113,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791905,52.275723
-Machineweg,115,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791914,52.275610
-Machineweg,117,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.791958,52.275550
-Machineweg,119,,,1432EN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792036,52.275480
-Machineweg,121,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792053,52.275463
-Machineweg,123,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792128,52.275385
-Machineweg,125,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792138,52.275374
-Machineweg,127,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792210,52.275293
-Machineweg,129,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792222,52.275281
-Machineweg,131,a,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792309,52.275189
-Machineweg,131,b,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792367,52.275085
-Machineweg,131,c,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792386,52.275065
-Machineweg,131,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792290,52.275207
 Machineweg,133,A,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792893,52.275124
-Machineweg,133,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792548,52.274971
+Machineweg,133,b,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792835,52.275044
+Machineweg,133,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792570,52.274990
 Machineweg,135,,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792644,52.274857
 Machineweg,137,a,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792771,52.274723
 Machineweg,137,b,,1432EP,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792814,52.274687
@@ -1782,7 +1760,6 @@ Machineweg,32,,,1432ET,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.788655,52.278076
 Machineweg,34,,,1432ET,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.788698,52.278029
 Machineweg,36,,,1432ET,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.788820,52.277961
 Machineweg,38,,,1432ET,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.788858,52.277907
-Machineweg,122,,,1432EV,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.792758,52.273844
 Machineweg,202,,,1432EV,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.796731,52.269666
 Machineweg,204,,,1432EV,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.796902,52.269419
 Machineweg,222,A,,1432EV,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.797243,52.268268
@@ -2025,6 +2002,15 @@ Hornweg,309,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.805272,52.274911
 Hornweg,311,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.805633,52.275000
 Hornweg,313,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.805699,52.275018
 Hornweg,317,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806533,52.275479
+Hornweg,319,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806505,52.275306
+Hornweg,321,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806714,52.275412
+Hornweg,323,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.806971,52.275464
+Hornweg,325,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807186,52.275561
+Hornweg,327,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807399,52.275655
+Hornweg,329,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807637,52.275723
+Hornweg,331,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.807880,52.275790
+Hornweg,333,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.808097,52.275887
+Hornweg,335,,,1432GL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.808314,52.275937
 Hornweg,34,,traf,1432GM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.782826,52.266390
 Hornweg,34,,,1432GM,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.782270,52.266433
 Hornweg,54,,,1432GN,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.783813,52.266963
@@ -2067,7 +2053,7 @@ Hornweg,160,,,1432GR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.793245,52.270165
 Hornweg,162,,,1432GR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.793546,52.270285
 Hornweg,166,,,1432GR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.793987,52.270430
 Hornweg,168,,,1432GR,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.794431,52.270584
-Hornweg,172,,traf,1432GS,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.795031,52.270658
+Hornweg,170,,,1432GS,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.794766,52.270683
 Hornweg,178,,,1432GS,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.795463,52.270959
 Hornweg,186,,,1432GS,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.796312,52.271346
 Hornweg,190,,,1432GS,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.796816,52.271504
@@ -2160,6 +2146,7 @@ Oranjestraat,11,,,1432GZ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799285,52.273561
 Oranjestraat,12,,,1432GZ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799515,52.274018
 Oranjestraat,13,,,1432GZ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799128,52.273505
 Oranjestraat,14,,,1432GZ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799373,52.273970
+Oranjestraat,15,,,1432GZ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799030,52.273477
 Oranjestraat,16,,,1432GZ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799288,52.273942
 Oranjestraat,17,,,1432GZ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.798813,52.273394
 Oranjestraat,18,,,1432GZ,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799211,52.273914
@@ -2649,7 +2636,6 @@ Rietwijkeroordweg,13,,,1432JG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.797392,52.29
 Rietwijkeroordweg,15,,,1432JG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.797343,52.291395
 Rietwijkeroordweg,17,,,1432JG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.798381,52.290947
 Rietwijkeroordweg,19,,kwek,1432JG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.799770,52.291408
-Rietwijkeroordweg,33,,kwek,1432JG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.801834,52.292520
 Rietwijkeroordweg,33,,traf,1432JG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.803094,52.292510
 Rietwijkeroordweg,33,,,1432JG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.801037,52.292701
 Rietwijkeroordweg,35,,,1432JG,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.803494,52.293100
@@ -4576,21 +4562,3 @@ Ringvaart-Aalsmeerderdijk,540,,zmhs,1432SB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4
 Ringvaart-Aalsmeerderdijk,542,A,,1432SB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773512,52.280352
 Ringvaart-Aalsmeerderdijk,542,,,1432SB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.773801,52.280457
 Ringvaart-Aalsmeerderdijk,580,,,1432SB,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761780,52.275604
-Saturnusstraat,19,A,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762168,52.252547
-Saturnusstraat,19,B,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761944,52.252527
-Saturnusstraat,19,C,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762121,52.252542
-Saturnusstraat,19,D,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761817,52.252517
-Saturnusstraat,19,E,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761989,52.252530
-Saturnusstraat,19,F,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761876,52.252636
-Saturnusstraat,19,G,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761836,52.252631
-Saturnusstraat,19,H,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761901,52.252524
-Saturnusstraat,19,I,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761862,52.252519
-Saturnusstraat,19,J,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761790,52.252628
-Saturnusstraat,19,K,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761964,52.252640
-Saturnusstraat,19,M,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.761920,52.252637
-Saturnusstraat,19,O,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762011,52.252645
-Saturnusstraat,19,P,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762060,52.252651
-Saturnusstraat,19,Q,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762109,52.252653
-Saturnusstraat,19,R,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762147,52.252658
-Saturnusstraat,19,S,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762072,52.252538
-Saturnusstraat,19,T,,1432XL,Aalsmeer,Aalsmeer,Noord-Holland,VBO,4.762032,52.252532

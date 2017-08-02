@@ -10,6 +10,7 @@ Schoolstraat,3,,,3451AA,Vleuten,Utrecht,Utrecht,VBO,5.011529,52.106468
 Schoolstraat,5,,,3451AA,Vleuten,Utrecht,Utrecht,VBO,5.011952,52.106568
 Schoolstraat,7,,,3451AA,Vleuten,Utrecht,Utrecht,VBO,5.012757,52.106712
 Schoolstraat,11,,,3451AA,Vleuten,Utrecht,Utrecht,VBO,5.012506,52.107271
+Schoolstraat,13,,,3451AA,Vleuten,Utrecht,Utrecht,VBO,5.013357,52.107288
 Schoolstraat,15,,,3451AA,Vleuten,Utrecht,Utrecht,VBO,5.012635,52.107518
 Schoolstraat,17,,,3451AA,Vleuten,Utrecht,Utrecht,VBO,5.012722,52.107649
 Schoolstraat,19,,,3451AA,Vleuten,Utrecht,Utrecht,VBO,5.012745,52.107684
@@ -1497,8 +1498,6 @@ Alendorperweg,63,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.031907,52.092508
 Alendorperweg,65,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.031930,52.092498
 Alendorperweg,67,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.032321,52.092326
 Alendorperweg,69,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.032721,52.092053
-Alendorperweg,71,A,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.033573,52.091691
-Alendorperweg,71,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.033400,52.092034
 Alendorperweg,71,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.033416,52.092071
 Alendorperweg,73,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.033870,52.091848
 Alendorperweg,75,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.034444,52.091708
@@ -1520,13 +1519,13 @@ Alendorperweg,99,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.038877,52.089908
 Alendorperweg,103,,,3451GL,Vleuten,Utrecht,Utrecht,VBO,5.039187,52.089432
 Alendorperweg,2,A,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.027672,52.098966
 Alendorperweg,2,,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.027174,52.098822
-Alendorperweg,2,,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.027222,52.098812
 Alendorperweg,4,,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.026994,52.098620
 Alendorperweg,6,A,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.026698,52.098078
 Alendorperweg,6,,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.026855,52.098299
 Alendorperweg,8,A,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.026353,52.097476
 Alendorperweg,8,B,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.026223,52.097114
 Alendorperweg,8,,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.026685,52.098067
+Alendorperweg,10,A,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.026031,52.096584
 Alendorperweg,10,,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.025745,52.096530
 Alendorperweg,12,A,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.027361,52.095936
 Alendorperweg,12,,,3451GM,Vleuten,Utrecht,Utrecht,VBO,5.026853,52.096022
@@ -1559,6 +1558,7 @@ Alendorperweg,56,,,3451GN,Vleuten,Utrecht,Utrecht,VBO,5.035392,52.091798
 Alendorperweg,58,,,3451GN,Vleuten,Utrecht,Utrecht,VBO,5.036669,52.091329
 Alendorperweg,60,,,3451GN,Vleuten,Utrecht,Utrecht,VBO,5.038862,52.090564
 Alendorperweg,62,,,3451GN,Vleuten,Utrecht,Utrecht,VBO,5.038974,52.090173
+Alendorperweg,62,,,3451GN,Vleuten,Utrecht,Utrecht,VBO,5.039021,52.090155
 Alendorperweg,64,,,3451GN,Vleuten,Utrecht,Utrecht,VBO,5.039502,52.090048
 Alendorperweg,66,,,3451GN,Vleuten,Utrecht,Utrecht,VBO,5.039527,52.090039
 Heumenseboslaan,1000,,,3451GV,Vleuten,Utrecht,Utrecht,VBO,5.019158,52.094045
@@ -1723,7 +1723,6 @@ Europaweg,44,,,3451HG,Vleuten,Utrecht,Utrecht,VBO,5.024445,52.089107
 Europaweg,48,,,3451HG,Vleuten,Utrecht,Utrecht,VBO,5.022778,52.088509
 Europaweg,50,A,,3451HG,Vleuten,Utrecht,Utrecht,VBO,5.022185,52.087723
 Europaweg,50,,,3451HG,Vleuten,Utrecht,Utrecht,VBO,5.021612,52.088800
-Europaweg,52,,,3451HG,Vleuten,Utrecht,Utrecht,VBO,5.022142,52.087356
 Europaweg,52,,,3451HG,Vleuten,Utrecht,Utrecht,VBO,5.022185,52.087305
 Europaweg,54,,,3451HG,Vleuten,Utrecht,Utrecht,VBO,5.022300,52.087237
 Europaweg,56,,,3451HG,Vleuten,Utrecht,Utrecht,VBO,5.022460,52.087197
@@ -1748,7 +1747,9 @@ Wilhelminalaan,11,A,,3451HJ,Vleuten,Utrecht,Utrecht,VBO,5.013374,52.100872
 Wilhelminalaan,11,B,,3451HJ,Vleuten,Utrecht,Utrecht,VBO,5.013183,52.100755
 Wilhelminalaan,11,C,,3451HJ,Vleuten,Utrecht,Utrecht,VBO,5.014286,52.100931
 Wilhelminalaan,11,D,,3451HJ,Vleuten,Utrecht,Utrecht,VBO,5.013867,52.100774
+Wilhelminalaan,11,,1,3451HJ,Vleuten,Utrecht,Utrecht,VBO,5.013730,52.101048
 Wilhelminalaan,11,,,3451HJ,Vleuten,Utrecht,Utrecht,VBO,5.013740,52.101083
+Wilhelminalaan,11,,,3451HJ,Vleuten,Utrecht,Utrecht,VBO,5.013776,52.101074
 Wilhelminalaan,12,A,1,3451HJ,Vleuten,Utrecht,Utrecht,VBO,5.015076,52.100705
 Wilhelminalaan,12,A,,3451HJ,Vleuten,Utrecht,Utrecht,STA,5.015312,52.100559
 Wilhelminalaan,12,B,,3451HJ,Vleuten,Utrecht,Utrecht,STA,5.015404,52.100451
@@ -1873,9 +1874,11 @@ Mastboslaan,2,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017753,52.100206
 Mastboslaan,3,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.016813,52.100002
 Mastboslaan,4,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017803,52.100159
 Mastboslaan,5,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.016969,52.100092
+Mastboslaan,6,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017954,52.100044
 Mastboslaan,7,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017041,52.100126
 Mastboslaan,9,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017188,52.100221
 Mastboslaan,11,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017253,52.100263
+Mastboslaan,15,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017505,52.100402
 Mastboslaan,17,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017895,52.100461
 Mastboslaan,19,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.017982,52.100509
 Mastboslaan,21,,,3451HP,Vleuten,Utrecht,Utrecht,VBO,5.018142,52.100597
@@ -3444,6 +3447,7 @@ Dorpeldijk,3,,,3451RD,Vleuten,Utrecht,Utrecht,VBO,4.976339,52.100150
 Dorpeldijk,4,,,3451RD,Vleuten,Utrecht,Utrecht,VBO,4.992061,52.100719
 Dorpeldijk,5,,,3451RD,Vleuten,Utrecht,Utrecht,VBO,4.975995,52.100039
 Dorpeldijk,7,,,3451RD,Vleuten,Utrecht,Utrecht,VBO,4.975487,52.100163
+Dorpeldijk,9,,,3451RD,Vleuten,Utrecht,Utrecht,VBO,4.974777,52.100729
 't Spijck,1,,,3451RE,Vleuten,Utrecht,Utrecht,VBO,4.974618,52.102688
 't Spijck,2,,,3451RE,Vleuten,Utrecht,Utrecht,VBO,4.975482,52.103531
 Hamlaan,1,,,3451RG,Vleuten,Utrecht,Utrecht,VBO,4.995008,52.106321
@@ -3503,10 +3507,12 @@ Enghlaan,35,,,3451SK,Vleuten,Utrecht,Utrecht,VBO,5.032530,52.108274
 Enghlaan,36,,,3451SK,Vleuten,Utrecht,Utrecht,VBO,5.031859,52.108076
 Enghlaan,37,,,3451SK,Vleuten,Utrecht,Utrecht,VBO,5.032303,52.108359
 Enghlaan,38,,,3451SK,Vleuten,Utrecht,Utrecht,VBO,5.031545,52.107966
+Enghlaan,39,,,3451SK,Vleuten,Utrecht,Utrecht,VBO,5.032179,52.108454
 Enghlaan,40,,,3451SK,Vleuten,Utrecht,Utrecht,VBO,5.031685,52.108240
 Enghlaan,42,,,3451SK,Vleuten,Utrecht,Utrecht,VBO,5.031459,52.108261
 Jan Vogellaan,2,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.032183,52.108831
 Jan Vogellaan,4,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.032004,52.108693
+Jan Vogellaan,6,A,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.031212,52.108461
 Jan Vogellaan,6,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.031718,52.108606
 Jan Vogellaan,8,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.030810,52.108385
 Jan Vogellaan,10,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.030563,52.108346
@@ -3516,6 +3522,8 @@ Jan Vogellaan,18,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.029969,52.107932
 Jan Vogellaan,20,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.030026,52.107793
 Jan Vogellaan,22,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.029959,52.107663
 Jan Vogellaan,24,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.030478,52.107552
+Jan Vogellaan,26,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.029953,52.107489
+Jan Vogellaan,28,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.030059,52.107351
 Jan Vogellaan,30,,,3451SL,Vleuten,Utrecht,Utrecht,VBO,5.029914,52.107178
 Julius Susanlaan,1,,,3451SM,Vleuten,Utrecht,Utrecht,VBO,5.032319,52.107415
 Julius Susanlaan,2,,,3451SM,Vleuten,Utrecht,Utrecht,VBO,5.031891,52.107374
@@ -4004,6 +4012,44 @@ Rijnweide,330,,,3451VL,Vleuten,Utrecht,Utrecht,VBO,5.020589,52.107147
 Rijnweide,332,,,3451VL,Vleuten,Utrecht,Utrecht,VBO,5.020589,52.107147
 Rijnweide,334,,,3451VL,Vleuten,Utrecht,Utrecht,VBO,5.020589,52.107147
 Rijnweide,1,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.019026,52.106912
+Rijnweide,3,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,5,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,7,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,9,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,11,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,13,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,15,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,17,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018262,52.106960
+Rijnweide,19,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018262,52.106960
+Rijnweide,21,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018262,52.106960
+Rijnweide,23,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018262,52.106960
+Rijnweide,25,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018262,52.106960
+Rijnweide,27,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,29,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,31,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,33,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018259,52.106959
+Rijnweide,35,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018262,52.106960
+Rijnweide,37,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018262,52.106960
+Rijnweide,39,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018077,52.106491
+Rijnweide,41,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018077,52.106491
+Rijnweide,43,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018077,52.106491
+Rijnweide,45,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018077,52.106491
+Rijnweide,47,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018083,52.106490
+Rijnweide,49,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018077,52.106491
+Rijnweide,51,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018082,52.106489
+Rijnweide,53,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018077,52.106491
+Rijnweide,55,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018078,52.106492
+Rijnweide,57,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018083,52.106490
+Rijnweide,59,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018083,52.106490
+Rijnweide,61,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018082,52.106489
+Rijnweide,63,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018083,52.106490
+Rijnweide,65,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018078,52.106492
+Rijnweide,67,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018083,52.106490
+Rijnweide,69,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018083,52.106490
+Rijnweide,71,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018084,52.106491
+Rijnweide,73,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018084,52.106491
+Rijnweide,75,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018084,52.106491
+Rijnweide,77,,,3451VM,Vleuten,Utrecht,Utrecht,VBO,5.018084,52.106491
 Kloosterweide,2,,,3451VN,Vleuten,Utrecht,Utrecht,VBO,5.017964,52.106013
 Kloosterweide,8,A,,3451VN,Vleuten,Utrecht,Utrecht,VBO,5.019655,52.106703
 Kloosterweide,8,,,3451VN,Vleuten,Utrecht,Utrecht,VBO,5.019634,52.106706

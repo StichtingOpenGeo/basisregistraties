@@ -1,9 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Landweg,3,,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.072343,52.152378
 Maarsseveensevaart,13,a,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.067335,52.149922
 Maarsseveensevaart,13,b,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.071211,52.151833
 Maarsseveensevaart,13,,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.067387,52.149832
-Maarsseveensevaart,15,a,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.072060,52.152073
 Maarsseveensevaart,15,b,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.078487,52.155199
 Maarsseveensevaart,15,,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.071694,52.152210
 Maarsseveensevaart,17,,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.079099,52.155515
@@ -22,6 +20,7 @@ Maarsseveensevaart,130,,,3612AA,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.089306,52
 Oudedijk,2,a,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.075855,52.152534
 Oudedijk,2,b,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.076006,52.152323
 Oudedijk,2,c,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.076277,52.152487
+Oudedijk,2,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.076153,52.152645
 Oudedijk,2,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.076246,52.152680
 Oudedijk,4,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.076442,52.152680
 Oudedijk,6,b,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.073622,52.151101
@@ -41,7 +40,6 @@ Oudedijk,26,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.078081,52.151565
 Oudedijk,28,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.078238,52.151514
 Oudedijk,30,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.078915,52.151132
 Oudedijk,32,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.079221,52.150948
-Oudedijk,32,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.079292,52.150971
 Oudedijk,34,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.079731,52.150692
 Oudedijk,36,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.079793,52.150599
 Oudedijk,38,,,3612AB,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.080114,52.150448
@@ -86,6 +84,7 @@ Westbroekse Binnenweg,21,,,3612AE,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.096018,
 Westbroekse Binnenweg,23,a,,3612AG,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097589,52.142901
 Westbroekse Binnenweg,23,b,,3612AG,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097509,52.143164
 Westbroekse Binnenweg,23,c,,3612AG,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.098549,52.143976
+Westbroekse Binnenweg,23,d,,3612AG,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.099295,52.143593
 Westbroekse Binnenweg,23,,,3612AG,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097829,52.142627
 Westbroekse Binnenweg,25,,,3612AG,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.099069,52.141889
 Westbroekse Binnenweg,27,,,3612AG,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.099116,52.141946
@@ -180,6 +179,7 @@ Westbroekse Binnenweg,42,a,C25,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.091
 Westbroekse Binnenweg,42,a,C26,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092071,52.141872
 Westbroekse Binnenweg,42,a,C27,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092215,52.141837
 Westbroekse Binnenweg,42,a,C28,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092328,52.141780
+Westbroekse Binnenweg,42,a,C29,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092497,52.141663
 Westbroekse Binnenweg,42,a,C29,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092608,52.141692
 Westbroekse Binnenweg,42,a,C3,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092580,52.143102
 Westbroekse Binnenweg,42,a,C31,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092751,52.141586
@@ -188,6 +188,7 @@ Westbroekse Binnenweg,42,a,C33,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.093
 Westbroekse Binnenweg,42,a,C34,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.091904,52.142210
 Westbroekse Binnenweg,42,a,C35,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092017,52.142144
 Westbroekse Binnenweg,42,a,C36,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092015,52.142255
+Westbroekse Binnenweg,42,a,C37,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092094,52.142240
 Westbroekse Binnenweg,42,a,C37,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092139,52.142245
 Westbroekse Binnenweg,42,a,C38,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092128,52.142402
 Westbroekse Binnenweg,42,a,C39,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092289,52.142324
@@ -206,6 +207,7 @@ Westbroekse Binnenweg,42,a,C54,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092
 Westbroekse Binnenweg,42,a,C55,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092787,52.142295
 Westbroekse Binnenweg,42,a,C56,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092855,52.142482
 Westbroekse Binnenweg,42,a,C57,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092966,52.142455
+Westbroekse Binnenweg,42,a,C57,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.093013,52.142437
 Westbroekse Binnenweg,42,a,C58,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092574,52.141887
 Westbroekse Binnenweg,42,a,C59,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092776,52.141816
 Westbroekse Binnenweg,42,a,C6,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.092147,52.142936
@@ -377,7 +379,6 @@ Westbroekse Binnenweg,68,,C4,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.09859
 Westbroekse Binnenweg,68,,C41,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097835,52.140556
 Westbroekse Binnenweg,68,,C43,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097602,52.140648
 Westbroekse Binnenweg,68,,C46,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097727,52.140408
-Westbroekse Binnenweg,68,,C47,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097566,52.140463
 Westbroekse Binnenweg,68,,C48,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097455,52.140512
 Westbroekse Binnenweg,68,,C5,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.098489,52.140749
 Westbroekse Binnenweg,68,,C51,3612AJ,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.097500,52.140333
@@ -645,6 +646,7 @@ Middenweg,20,,,3612AV,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.058860,52.158713
 Middenweg,22,,,3612AV,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.053793,52.157463
 Landweg,1,,,3612AW,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.067702,52.160243
 Landweg,2,,,3612AW,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.069726,52.158722
+Landweg,3,,,3612AW,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.072343,52.152378
 Landweg,4,,,3612AW,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.069408,52.159158
 Bethuneweg,1,,,3612AX,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.063752,52.151086
 Bethuneweg,2,,,3612AX,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.060983,52.157218
@@ -692,7 +694,6 @@ Looydijk,45,a,,3612BD,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.086378,52.162230
 Looydijk,45,b,,3612BD,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.086332,52.162278
 Looydijk,45,,,3612BD,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.085979,52.161954
 Looydijk,47,a,,3612BD,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.086154,52.162496
-Looydijk,47,,,3612BD,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.086192,52.162360
 Looydijk,47,,,3612BD,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.086288,52.162355
 Looydijk,49,a,,3612BD,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.086044,52.162615
 Looydijk,49,,,3612BD,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.086121,52.162564
@@ -876,6 +877,7 @@ Laan van Niftarlake,50,,,3612BT,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.081324,52
 Laan van Niftarlake,54,a,,3612BT,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.081243,52.170284
 Laan van Niftarlake,54,,,3612BT,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.081404,52.169717
 Laan van Niftarlake,56,,,3612BV,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.080911,52.170553
+Laan van Niftarlake,56,,,3612BV,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.080914,52.170597
 Laan van Niftarlake,58,,,3612BV,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.080670,52.170772
 Laan van Niftarlake,60,,,3612BV,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.080562,52.171050
 Laan van Niftarlake,64,a,,3612BV,Tienhoven,Stichtse Vecht,Utrecht,VBO,5.080110,52.171728

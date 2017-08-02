@@ -2,7 +2,7 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 Horsterweg,21,A,,5811AA,Castenray,Venray,Limburg,VBO,6.006447,51.495378
 Horsterweg,21,A,,5811AA,Castenray,Venray,Limburg,VBO,6.006549,51.495597
 Horsterweg,21,,,5811AA,Castenray,Venray,Limburg,VBO,6.006912,51.495165
-Horsterweg,23,,,5811AA,Castenray,Venray,Limburg,VBO,6.007320,51.495092
+Horsterweg,23,,,5811AA,Castenray,Venray,Limburg,VBO,6.007320,51.495111
 Horsterweg,25,,,5811AA,Castenray,Venray,Limburg,VBO,6.010237,51.494606
 Horsterweg,27,,,5811AA,Castenray,Venray,Limburg,VBO,6.011334,51.494561
 Horsterweg,29,A,,5811AA,Castenray,Venray,Limburg,VBO,6.017206,51.493412
@@ -128,6 +128,7 @@ Lollebeekweg,85,,,5811AJ,Castenray,Venray,Limburg,VBO,6.033180,51.489055
 Lollebeekweg,87,,,5811AJ,Castenray,Venray,Limburg,VBO,6.033755,51.489156
 Lollebeekweg,91,,,5811AJ,Castenray,Venray,Limburg,VBO,6.034086,51.489239
 Lollebeekweg,16,,,5811AK,Castenray,Venray,Limburg,VBO,6.007089,51.480126
+Lollebeekweg,20,A,,5811AL,Castenray,Venray,Limburg,VBO,6.010100,51.480797
 Lollebeekweg,20,,,5811AL,Castenray,Venray,Limburg,VBO,6.009160,51.480982
 Lollebeekweg,22,A,,5811AL,Castenray,Venray,Limburg,VBO,6.012237,51.482134
 Lollebeekweg,22,,,5811AL,Castenray,Venray,Limburg,VBO,6.011341,51.482175
@@ -165,7 +166,7 @@ Castenrayseweg,54,,,5811AM,Castenray,Venray,Limburg,VBO,6.038218,51.489214
 Castenrayseweg,56,,,5811AM,Castenray,Venray,Limburg,VBO,6.038038,51.489058
 Matthiasstraat,1,A,,5811AN,Castenray,Venray,Limburg,VBO,6.034870,51.489710
 Matthiasstraat,1,,,5811AN,Castenray,Venray,Limburg,VBO,6.034783,51.489672
-Matthiasstraat,2,,,5811AN,Castenray,Venray,Limburg,VBO,6.036028,51.489678
+Matthiasstraat,2,,,5811AN,Castenray,Venray,Limburg,VBO,6.036022,51.489663
 Matthiasstraat,3,,,5811AN,Castenray,Venray,Limburg,VBO,6.034233,51.490720
 Matthiasstraat,4,,,5811AN,Castenray,Venray,Limburg,VBO,6.036853,51.489843
 Matthiasstraat,5,,,5811AN,Castenray,Venray,Limburg,VBO,6.035079,51.489772
@@ -222,7 +223,7 @@ Tunnelweg,1,,,5811AS,Castenray,Venray,Limburg,VBO,6.040788,51.491637
 Tunnelweg,2,,,5811AS,Castenray,Venray,Limburg,VBO,6.040702,51.491296
 Tunnelweg,3,,,5811AS,Castenray,Venray,Limburg,VBO,6.041520,51.491884
 Tunnelweg,4,A,,5811AS,Castenray,Venray,Limburg,VBO,6.041689,51.491607
-Tunnelweg,4,,,5811AS,Castenray,Venray,Limburg,VBO,6.041689,51.491607
+Tunnelweg,4,,,5811AS,Castenray,Venray,Limburg,VBO,6.041567,51.491604
 Tunnelweg,5,,,5811AS,Castenray,Venray,Limburg,VBO,6.042836,51.492131
 Tunnelweg,6,,,5811AS,Castenray,Venray,Limburg,VBO,6.042671,51.491837
 Tunnelweg,7,,,5811AS,Castenray,Venray,Limburg,VBO,6.043714,51.492427
@@ -233,11 +234,10 @@ Roffert,4,,,5811AT,Castenray,Venray,Limburg,VBO,6.039407,51.493670
 Roffert,6,,,5811AT,Castenray,Venray,Limburg,VBO,6.039391,51.493774
 Roffert,7,A,,5811AT,Castenray,Venray,Limburg,VBO,6.038917,51.494805
 Roffert,7,,,5811AT,Castenray,Venray,Limburg,VBO,6.039070,51.494667
-Roffert,8,A,,5811AT,Castenray,Venray,Limburg,VBO,6.041875,51.494684
+Roffert,8,A,,5811AT,Castenray,Venray,Limburg,VBO,6.039521,51.494350
 Roffert,8,,,5811AT,Castenray,Venray,Limburg,VBO,6.039494,51.494110
 Roffert,10,,,5811AT,Castenray,Venray,Limburg,VBO,6.038930,51.495328
 Roffert,12,,,5811AT,Castenray,Venray,Limburg,VBO,6.038182,51.496003
-Roffert,15,,,5811AT,Castenray,Venray,Limburg,VBO,6.036529,51.496264
 Roffert,21,,,5811AT,Castenray,Venray,Limburg,VBO,6.036622,51.496818
 Heesakker,8,,,5811AV,Castenray,Venray,Limburg,VBO,6.039023,51.497301
 Heesakker,17,,,5811AV,Castenray,Venray,Limburg,VBO,6.040531,51.495311
@@ -248,6 +248,7 @@ Klein Oirlo,4,,,5811AW,Castenray,Venray,Limburg,VBO,6.049480,51.495749
 Klein Oirlo,10,,,5811AW,Castenray,Venray,Limburg,VBO,6.055108,51.495460
 Klein Oirlo,11,,,5811AW,Castenray,Venray,Limburg,VBO,6.054785,51.495097
 Klein Oirlo,12,A,,5811AW,Castenray,Venray,Limburg,VBO,6.056249,51.496092
+Klein Oirlo,12,B,,5811AW,Castenray,Venray,Limburg,VBO,6.057980,51.497365
 Klein Oirlo,12,,,5811AW,Castenray,Venray,Limburg,VBO,6.056502,51.495864
 Klein Oirlo,13,,,5811AW,Castenray,Venray,Limburg,VBO,6.056816,51.494168
 Klein Oirlo,14,,,5811AW,Castenray,Venray,Limburg,VBO,6.057638,51.493333
@@ -331,6 +332,7 @@ Rietweg,10,,,5811BN,Castenray,Venray,Limburg,VBO,6.035420,51.487675
 Rietweg,12,,,5811BN,Castenray,Venray,Limburg,VBO,6.035343,51.487653
 Rietweg,25,,,5811BN,Castenray,Venray,Limburg,VBO,6.034598,51.487239
 Rietweg,27,,,5811BN,Castenray,Venray,Limburg,VBO,6.034248,51.487245
+Rietweg,33,,,5811BN,Castenray,Venray,Limburg,VBO,6.033405,51.487479
 Roerdomp,4,,,5811BP,Castenray,Venray,Limburg,VBO,6.034384,51.488160
 Roerdomp,14,,,5811BP,Castenray,Venray,Limburg,VBO,6.034220,51.487469
 Aan het Broek,9,,,5811BR,Castenray,Venray,Limburg,VBO,6.033545,51.488168

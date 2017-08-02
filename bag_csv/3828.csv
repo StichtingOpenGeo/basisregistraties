@@ -52,9 +52,7 @@ Hamseweg,19,G,,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374175,52.180160
 Hamseweg,19,H,,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374178,52.180150
 Hamseweg,19,K,,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374187,52.180140
 Hamseweg,19,L,,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374197,52.180125
-Hamseweg,19,,1,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.373792,52.180291
-Hamseweg,19,,2,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374124,52.180101
-Hamseweg,19,,3,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374124,52.180101
+Hamseweg,19,,,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374124,52.180101
 Hamseweg,21,A,,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374258,52.180025
 Hamseweg,21,B,,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374264,52.180015
 Hamseweg,21,C,,3828AA,Hoogland,Amersfoort,Utrecht,VBO,5.374273,52.180003
@@ -116,8 +114,8 @@ Hamseweg,81,B,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376995,52.173776
 Hamseweg,81,,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376318,52.176054
 Hamseweg,83,A,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376714,52.172908
 Hamseweg,83,,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376638,52.172956
-Hamseweg,89,A,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376442,52.172404
-Hamseweg,89,,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376487,52.172643
+Hamseweg,87,,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376487,52.172643
+Hamseweg,89,,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376442,52.172404
 Hamseweg,91,,,3828AC,Hoogland,Amersfoort,Utrecht,VBO,5.376277,52.172301
 Hamseweg,2,A,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.372247,52.181334
 Hamseweg,2,H,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.372194,52.181195
@@ -125,7 +123,8 @@ Hamseweg,4,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.372616,52.181076
 Hamseweg,6,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.372852,52.180919
 Hamseweg,8,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.373052,52.180649
 Hamseweg,10,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.373230,52.180475
-Hamseweg,12,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.373283,52.180424
+Hamseweg,12,A,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.373332,52.180392
+Hamseweg,12,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.373298,52.180423
 Hamseweg,16,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.373468,52.180248
 Hamseweg,18,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.373754,52.179959
 Hamseweg,20,A,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.373984,52.179794
@@ -138,6 +137,7 @@ Hamseweg,28,A,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.374824,52.179389
 Hamseweg,28,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.374765,52.179429
 Hamseweg,30,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.374884,52.179358
 Hamseweg,32,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.374936,52.179324
+Hamseweg,34,A,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.374969,52.179264
 Hamseweg,34,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.374992,52.179279
 Hamseweg,36,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.375055,52.179245
 Hamseweg,38,,,3828AD,Hoogland,Amersfoort,Utrecht,VBO,5.374929,52.179090
@@ -296,6 +296,7 @@ De Bik,18,,,3828AN,Hoogland,Amersfoort,Utrecht,VBO,5.371163,52.180407
 De Bik,20,,,3828AN,Hoogland,Amersfoort,Utrecht,VBO,5.371079,52.180383
 De Bik,22,,,3828AN,Hoogland,Amersfoort,Utrecht,VBO,5.370759,52.180316
 De Bik,24,,,3828AN,Hoogland,Amersfoort,Utrecht,VBO,5.370738,52.180468
+De Bik,26,A,,3828AN,Hoogland,Amersfoort,Utrecht,VBO,5.370324,52.180810
 De Bik,26,,,3828AN,Hoogland,Amersfoort,Utrecht,VBO,5.370389,52.180374
 De Bik,28,,,3828AN,Hoogland,Amersfoort,Utrecht,VBO,5.370089,52.180464
 De Schans,19,,,3828AP,Hoogland,Amersfoort,Utrecht,VBO,5.374318,52.168916
@@ -1531,9 +1532,8 @@ Kerklaan,14,,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382201,52.190222
 Kerklaan,16,A,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382470,52.190185
 Kerklaan,16,B,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382555,52.190174
 Kerklaan,16,,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382318,52.190209
-Kerklaan,18,A,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382659,52.189987
-Kerklaan,18,,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382760,52.190157
-Kerklaan,20,,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382883,52.190096
+Kerklaan,18,A,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382723,52.190129
+Kerklaan,20,,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.382760,52.190157
 Kerklaan,22,,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.383626,52.190248
 Martinuslaan,1,,,3828EB,Hoogland,Amersfoort,Utrecht,VBO,5.383339,52.192115
 Oude Kerklaan,1,,,3828EC,Hoogland,Amersfoort,Utrecht,VBO,5.381150,52.192388
@@ -2987,9 +2987,7 @@ Kraailandhof,106,,,3828JM,Hoogland,Amersfoort,Utrecht,VBO,5.375514,52.187146
 Kraailandhof,1,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.373292,52.187141
 Kraailandhof,3,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.373771,52.187744
 Kraailandhof,11,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374549,52.186980
-Kraailandhof,13,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374549,52.186980
 Kraailandhof,15,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374643,52.187145
-Kraailandhof,17,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374643,52.187145
 Kraailandhof,19,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374741,52.187297
 Kraailandhof,21,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374786,52.187368
 Kraailandhof,23,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374467,52.187113
@@ -3004,11 +3002,9 @@ Kraailandhof,39,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374574,52.187285
 Kraailandhof,41,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374577,52.187291
 Kraailandhof,43,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374579,52.187299
 Kraailandhof,45,,,3828JN,Hoogland,Amersfoort,Utrecht,VBO,5.374584,52.187309
-Kraailandhof,47,,,3828JP,Hoogland,Amersfoort,Utrecht,VBO,5.374891,52.187511
 Kraailandhof,49,,,3828JP,Hoogland,Amersfoort,Utrecht,VBO,5.374891,52.187511
 Kraailandhof,51,,,3828JP,Hoogland,Amersfoort,Utrecht,VBO,5.374989,52.187666
 Kraailandhof,53,,,3828JP,Hoogland,Amersfoort,Utrecht,VBO,5.375023,52.187731
-Kraailandhof,55,,,3828JP,Hoogland,Amersfoort,Utrecht,VBO,5.375023,52.187731
 Kraailandhof,57,,,3828JP,Hoogland,Amersfoort,Utrecht,VBO,5.375134,52.187885
 Kraailandhof,59,,,3828JP,Hoogland,Amersfoort,Utrecht,VBO,5.374789,52.187621
 Kraailandhof,61,,,3828JP,Hoogland,Amersfoort,Utrecht,VBO,5.374797,52.187629
@@ -3169,9 +3165,6 @@ Burgemeester de Wijserf,9,,,3828LN,Hoogland,Amersfoort,Utrecht,VBO,5.369636,52.1
 Burgemeester de Wijserf,11,,,3828LN,Hoogland,Amersfoort,Utrecht,VBO,5.369877,52.193332
 Hogesteeg,8,,1,3828MV,Hoogland,Amersfoort,Utrecht,VBO,5.414976,52.204063
 Hogesteeg,8,,,3828MV,Hoogland,Amersfoort,Utrecht,VBO,5.414919,52.203910
-Hogesteeg,10,A,,3828MV,Hoogland,Amersfoort,Utrecht,VBO,5.417551,52.206875
-Hogesteeg,10,,,3828MV,Hoogland,Amersfoort,Utrecht,VBO,5.417507,52.206789
-Hogesteeg,13,,,3828MV,Hoogland,Amersfoort,Utrecht,VBO,5.415512,52.206796
 Calveenseweg,9,A,,3828NH,Hoogland,Amersfoort,Utrecht,VBO,5.405042,52.199438
 Calveenseweg,9,,,3828NH,Hoogland,Amersfoort,Utrecht,VBO,5.403931,52.199670
 Neerzeldertseweg,4,,,3828NL,Hoogland,Amersfoort,Utrecht,VBO,5.353293,52.207116
@@ -3275,7 +3268,7 @@ Boelenhoefseweg,3,,,3828NX,Hoogland,Amersfoort,Utrecht,VBO,5.365371,52.177542
 Boelenhoefseweg,4,,,3828NX,Hoogland,Amersfoort,Utrecht,VBO,5.368244,52.177541
 Boelenhoefseweg,5,,,3828NX,Hoogland,Amersfoort,Utrecht,VBO,5.366906,52.175800
 Boelenhoefseweg,7,,,3828NX,Hoogland,Amersfoort,Utrecht,VBO,5.367548,52.175824
-Rijksweg A1,2,,,3828NZ,Hoogland,Amersfoort,Utrecht,VBO,5.340473,52.211986
+Rijksweg A1,2,,,3828NZ,Hoogland,Amersfoort,Utrecht,VBO,5.340891,52.212049
 Coelhorsterweg,1,A,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.369068,52.180832
 Coelhorsterweg,1,,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.369172,52.180778
 Coelhorsterweg,3,,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.368871,52.180532
@@ -3290,7 +3283,9 @@ Coelhorsterweg,13,,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.365129,52.181806
 Coelhorsterweg,15,,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.364173,52.181917
 Coelhorsterweg,17,,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.362785,52.182200
 Coelhorsterweg,19,,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.362370,52.182303
-Coelhorsterweg,21,B,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.361135,52.182488
+Coelhorsterweg,21,A,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.361175,52.182477
+Coelhorsterweg,21,B,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.361259,52.182369
+Coelhorsterweg,21,C,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.361266,52.182387
 Coelhorsterweg,21,,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.361263,52.182488
 Coelhorsterweg,23,,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.360267,52.182275
 Coelhorsterweg,25,A,,3828PA,Hoogland,Amersfoort,Utrecht,VBO,5.358634,52.181989
@@ -3337,6 +3332,7 @@ Weerhorsterweg,5,,,3828PD,Hoogland,Amersfoort,Utrecht,VBO,5.363436,52.179447
 Weerhorsterweg,6,,,3828PD,Hoogland,Amersfoort,Utrecht,VBO,5.362201,52.179288
 Weerhorsterweg,8,,,3828PD,Hoogland,Amersfoort,Utrecht,VBO,5.362201,52.179288
 Weerhorsterweg,11,,,3828PD,Hoogland,Amersfoort,Utrecht,VBO,5.360202,52.176835
+Weerhorsterweg,12,A,,3828PD,Hoogland,Amersfoort,Utrecht,VBO,5.361015,52.178547
 Weerhorsterweg,12,,,3828PD,Hoogland,Amersfoort,Utrecht,VBO,5.361086,52.178307
 Weerhorsterweg,14,,,3828PD,Hoogland,Amersfoort,Utrecht,VBO,5.360964,52.178246
 Weerhorsterweg,15,,,3828PD,Hoogland,Amersfoort,Utrecht,VBO,5.359743,52.175721
@@ -3466,8 +3462,7 @@ Pastoor Pieckweg,30,,,3828PR,Hoogland,Amersfoort,Utrecht,VBO,5.373445,52.192767
 Pastoor Pieckweg,32,,,3828PR,Hoogland,Amersfoort,Utrecht,VBO,5.372630,52.192727
 Pastoor Pieckweg,34,A,,3828PR,Hoogland,Amersfoort,Utrecht,VBO,5.371158,52.192786
 Pastoor Pieckweg,34,,,3828PR,Hoogland,Amersfoort,Utrecht,VBO,5.371635,52.192742
-Pastoor Pieckweg,36,A,,3828PR,Hoogland,Amersfoort,Utrecht,VBO,5.370681,52.192770
-Pastoor Pieckweg,36,,,3828PR,Hoogland,Amersfoort,Utrecht,VBO,5.370695,52.192733
+Pastoor Pieckweg,36,,,3828PR,Hoogland,Amersfoort,Utrecht,VBO,5.370681,52.192770
 Pastoor Pieckweg,40,,,3828PR,Hoogland,Amersfoort,Utrecht,VBO,5.369623,52.192757
 Zevenhuizerstraat,65,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.375367,52.186250
 Zevenhuizerstraat,67,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.375480,52.186411
@@ -3491,7 +3486,7 @@ Zevenhuizerstraat,97,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.377995,52.188366
 Zevenhuizerstraat,101,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.378203,52.188452
 Zevenhuizerstraat,105,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.378637,52.188814
 Zevenhuizerstraat,107,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.378784,52.188878
-Zevenhuizerstraat,109,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.378833,52.189152
+Zevenhuizerstraat,109,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.378955,52.189060
 Zevenhuizerstraat,111,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.379108,52.189145
 Zevenhuizerstraat,115,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.379352,52.189400
 Zevenhuizerstraat,117,,,3828PS,Hoogland,Amersfoort,Utrecht,VBO,5.379419,52.189476

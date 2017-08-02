@@ -323,6 +323,7 @@ Van Goijenstraat,27,A,,3043AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425294,51.9
 Van Goijenstraat,27,B,,3043AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425294,51.936649
 Van Goijenstraat,29,A,,3043AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425378,51.936685
 Van Goijenstraat,29,B,,3043AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425378,51.936685
+Van Goijenstraat,29,,,3043AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425378,51.936685
 Van Goijenstraat,31,A,,3043AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425456,51.936715
 Van Goijenstraat,31,B,,3043AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425456,51.936715
 Van Goijenstraat,33,A,,3043AW,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425267,51.936358
@@ -435,12 +436,15 @@ Rotterdamse Rijweg,1,A,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421052,51.
 Rotterdamse Rijweg,1,B,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421052,51.939174
 Rotterdamse Rijweg,3,,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421218,51.939045
 Rotterdamse Rijweg,5,,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421268,51.938996
+Rotterdamse Rijweg,7,A,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421315,51.938958
+Rotterdamse Rijweg,7,B,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421315,51.938958
 Rotterdamse Rijweg,7,,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421342,51.938926
 Rotterdamse Rijweg,9,,BGA,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421509,51.938812
 Rotterdamse Rijweg,9,,BGV,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421509,51.938812
 Rotterdamse Rijweg,9,,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421509,51.938812
 Rotterdamse Rijweg,11,,,3043BE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421635,51.938697
 Rotterdamse Rijweg,13,A,,3043BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421978,51.938399
+Rotterdamse Rijweg,13,B,02,3043BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421978,51.938399
 Rotterdamse Rijweg,13,B,,3043BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421978,51.938399
 Rotterdamse Rijweg,15,A,,3043BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422029,51.938352
 Rotterdamse Rijweg,15,B,,3043BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422029,51.938352
@@ -678,8 +682,9 @@ Delftweg,73,,,3043CD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420373,51.942303
 Delftweg,75,,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420599,51.942389
 Delftweg,77,A,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420562,51.942444
 Delftweg,77,B,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420562,51.942444
+Delftweg,77,,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420562,51.942444
 Delftweg,79,B,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420232,51.942413
-Delftweg,79,,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420499,51.942466
+Delftweg,79,,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420444,51.942526
 Delftweg,81,,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420444,51.942526
 Delftweg,85,,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420333,51.942631
 Delftweg,91,,,3043CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420250,51.942703
@@ -823,7 +828,7 @@ Overschiese Dorpsstraat,59,,,3043CN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.42100
 Overschiese Dorpsstraat,61,,,3043CN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420889,51.939410
 Overschiese Dorpsstraat,63,,,3043CN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420437,51.939654
 Overschiese Dorpsstraat,65,,,3043CN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420772,51.939336
-Overschiese Dorpsstraat,67,A,,3043CN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420672,51.939281
+Overschiese Dorpsstraat,67,A,,3043CN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420570,51.939406
 Overschiese Dorpsstraat,67,B,,3043CN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420672,51.939281
 Overschiese Dorpsstraat,71,,,3043CN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420606,51.939246
 Overschiese Dorpsstraat,73,A,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420557,51.939220
@@ -834,7 +839,6 @@ Overschiese Dorpsstraat,79,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.42033
 Overschiese Dorpsstraat,81,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.420184,51.939433
 Overschiese Dorpsstraat,95,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.419883,51.939021
 Overschiese Dorpsstraat,101,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.419364,51.939007
-Overschiese Dorpsstraat,103,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.419233,51.938990
 Overschiese Dorpsstraat,105,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.419152,51.938969
 Overschiese Dorpsstraat,109,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.419020,51.938929
 Overschiese Dorpsstraat,111,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.418869,51.939073
@@ -850,8 +854,7 @@ Overschiese Dorpsstraat,135,,,3043CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.4185
 Overschiese Dorpsstraat,141,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.418495,51.938438
 Overschiese Dorpsstraat,147,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.418361,51.938341
 Overschiese Dorpsstraat,149,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.418192,51.938444
-Overschiese Dorpsstraat,151,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.418014,51.938435
-Overschiese Dorpsstraat,153,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.417995,51.938445
+Overschiese Dorpsstraat,151,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.418182,51.938234
 Overschiese Dorpsstraat,155,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.418072,51.938172
 Overschiese Dorpsstraat,159,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.417988,51.938137
 Overschiese Dorpsstraat,163,,,3043CR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.417900,51.938091
@@ -1112,7 +1115,6 @@ Schout van Groenewegenstraat,73,,,3043EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.
 Burgemeester Bosplein,1,,,3043GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.426010,51.943208
 Burgemeester Bosplein,2,,,3043GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425994,51.943278
 Burgemeester Bosplein,3,,,3043GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.426429,51.943341
-Burgemeester Bosplein,4,,,3043GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.426451,51.943305
 Burgemeester Bosplein,4,,,3043GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.426472,51.943302
 Burgemeester Bosplein,5,,,3043GA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.426524,51.943269
 Burgemeester Bosstraat,39,,,3043GB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425605,51.943052
@@ -1291,6 +1293,7 @@ Parallelstraat,42,A,,3043GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.424113,51.944
 Parallelstraat,42,B,,3043GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.424113,51.944197
 Parallelstraat,44,A,,3043GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.424065,51.944240
 Parallelstraat,44,B,,3043GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.424065,51.944240
+Parallelstraat,44,C,,3043GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.424065,51.944240
 Parallelstraat,46,,,3043GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.424017,51.944282
 Parallelstraat,48,,,3043GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.423969,51.944323
 Parallelstraat,120,,,3043GR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.423875,51.944413
@@ -2634,6 +2637,8 @@ Prins Mauritssingel,57,C,,3043PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425289,5
 Prins Mauritssingel,77,A,,3043PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425634,51.938599
 Prins Mauritssingel,77,B,,3043PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425634,51.938599
 Prins Mauritssingel,77,C,,3043PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425634,51.938599
+Prins Mauritssingel,79,A,,3043PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425709,51.938632
+Prins Mauritssingel,79,B,,3043PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425709,51.938630
 Prins Mauritssingel,79,,,3043PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425709,51.938630
 Prins Mauritssingel,81,A,,3043PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425784,51.938660
 Prins Mauritssingel,81,B,,3043PD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.425784,51.938660
@@ -3039,56 +3044,27 @@ Saenredamplein,32,,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422502,51.9391
 Saenredamplein,34,A,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422498,51.939251
 Saenredamplein,34,B,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422498,51.939251
 Saenredamplein,36,A,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422168,51.939272
-Saenredamplein,36,A,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422190,51.939274
 Saenredamplein,36,B,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422169,51.939243
-Saenredamplein,36,B,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422192,51.939244
 Saenredamplein,36,C,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422170,51.939215
-Saenredamplein,36,C,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422193,51.939217
 Saenredamplein,36,D,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422172,51.939186
-Saenredamplein,36,D,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422195,51.939191
 Saenredamplein,36,E,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422173,51.939157
-Saenredamplein,36,E,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422196,51.939168
 Saenredamplein,36,F,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422174,51.939128
-Saenredamplein,36,F,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422197,51.939140
 Saenredamplein,36,G,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422132,51.939093
-Saenredamplein,36,G,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422179,51.939106
 Saenredamplein,36,H,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421997,51.939087
-Saenredamplein,36,H,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422142,51.939085
 Saenredamplein,36,J,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421948,51.939067
-Saenredamplein,36,J,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422065,51.939062
 Saenredamplein,36,K,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421853,51.939029
-Saenredamplein,36,K,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422104,51.939076
 Saenredamplein,36,L,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421813,51.939005
-Saenredamplein,36,L,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422026,51.939049
 Saenredamplein,36,M,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421773,51.938990
-Saenredamplein,36,M,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421988,51.939037
 Saenredamplein,36,N,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421737,51.938978
-Saenredamplein,36,N,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421955,51.939022
-Saenredamplein,36,P,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421913,51.939011
-Saenredamplein,36,Q,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421878,51.938995
-Saenredamplein,36,R,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421819,51.938998
-Saenredamplein,36,S,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421785,51.938984
-Saenredamplein,36,T,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421744,51.938971
 Saenredamplein,38,A,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422000,51.939199
-Saenredamplein,38,A,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422065,51.939206
 Saenredamplein,38,B,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421968,51.939184
-Saenredamplein,38,B,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422029,51.939194
 Saenredamplein,38,C,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421933,51.939171
-Saenredamplein,38,C,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421984,51.939178
 Saenredamplein,38,D,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421904,51.939157
-Saenredamplein,38,D,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421946,51.939166
 Saenredamplein,38,E,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421870,51.939143
-Saenredamplein,38,E,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421910,51.939150
 Saenredamplein,38,F,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421837,51.939131
-Saenredamplein,38,F,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421880,51.939138
 Saenredamplein,38,G,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421803,51.939117
-Saenredamplein,38,G,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421840,51.939121
 Saenredamplein,38,H,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421766,51.939097
-Saenredamplein,38,H,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421803,51.939107
 Saenredamplein,38,J,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421726,51.939082
-Saenredamplein,38,J,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421771,51.939093
-Saenredamplein,38,K,001,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421733,51.939078
-Saenredamplein,38,K,002,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421694,51.939062
 Saenredamplein,38,K,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421686,51.939068
 Saenredamplein,38,L,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.421616,51.939046
 Saenredamplein,44,A,,3043RM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.422237,51.939409

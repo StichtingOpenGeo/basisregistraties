@@ -22,6 +22,7 @@ Maasvlakteboulevard,45,,,3199KE,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,
 Maasvlakteboulevard,51,,,3199KE,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,3.983991,51.924440
 Prinses Máximaweg,960,,,3199KG,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.029276,51.985723
 Slag Maasmond,10,,,3199KH,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.046217,51.982145
+Pieter van Vollenhovenweg,101,,,3199KV,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.005638,51.963588
 Hormuzstraat,49,,,3199KW,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.018383,51.928197
 Hormuzstraat,50,,,3199KW,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.020337,51.928747
 Hormuzstraat,99,,,3199KW,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.022380,51.928182
@@ -40,9 +41,9 @@ Missouriweg,30,,,3199LB,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.036634
 Missouriweg,53,,,3199LB,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.063449,51.944009
 Missouriweg,55,,,3199LB,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.067724,51.944823
 Missouriweg,69,,,3199LB,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.072047,51.944819
+Europaweg,500,,,3199LC,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.095116,51.931942
 Europaweg,902,,,3199LC,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.015156,51.960343
 Europaweg,910,,,3199LC,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.015754,51.955568
-Europaweg,920,,,3199LC,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.005638,51.963588
 Maasvlakteweg,951,,,3199LC,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.043185,51.979891
 Europaweg,755,,,3199LD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.069499,51.934012
 Europaweg,805,,,3199LD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.039249,51.929248
@@ -75,6 +76,8 @@ Bosporusstraat,44,,,3199LJ,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.015
 Bosporusstraat,46,,,3199LJ,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.015259,51.944221
 Bosporusstraat,48,,,3199LJ,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.015008,51.944643
 Bosporusstraat,50,,,3199LJ,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.014734,51.945097
+Malakkastraat,7,,,3199LK,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.031307,51.931660
+Malakkastraat,15,,,3199LK,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.015222,51.937506
 Malakkastraat,16,,,3199LK,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.020697,51.935148
 Malakkastraat,51,,,3199LK,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.010972,51.938168
 Makassarstraat,1,,,3199LL,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.024473,51.936499
@@ -91,8 +94,6 @@ Magallanesstraat,25,,,3199LP,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.0
 Magallanesstraat,51,,,3199LP,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.025364,51.941349
 Magallanesstraat,55,,,3199LP,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.026711,51.941727
 Magallanesstraat,61,,,3199LP,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.024299,51.940196
-Malakkastraat,7,,,3199LP,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.031307,51.931660
-Malakkastraat,15,,,3199LP,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.015222,51.937506
 Koerilenstraat,2,,,3199LR,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.021303,51.943746
 Koerilenstraat,4,,,3199LR,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.021303,51.943746
 Koerilenstraat,6,,,3199LR,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.021303,51.943746
@@ -102,7 +103,6 @@ Tsugarustraat,5,,,3199LS,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.02171
 Hainanstraat,1,,,3199LT,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.013850,51.942091
 Noordzeeboulevard,501,,,3199LV,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,3.999134,51.932738
 Sontstraat,8,,,3199LW,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.015396,51.942369
-Slag Dobbelsteen,20,,,3199LX,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.016226,51.958036
 Maasvlakteweg,355,,,3199LZ,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,3.973828,51.942381
 Maasvlakteweg,755,,,3199LZ,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,3.970950,51.970569
 Maasvlakteweg,955,,,3199LZ,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.047460,51.979837
@@ -117,6 +117,7 @@ Dolfijnweg,14,,,3199MD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.096565,
 Dolfijnweg,16,,,3199MD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.097090,51.936873
 Dolfijnweg,18,,,3199MD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.097669,51.936802
 Dolfijnweg,20,,,3199MD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.092679,51.936377
+Dolfijnweg,21,,,3199MD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.091001,51.936579
 Dolfijnweg,22,,,3199MD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.093205,51.936313
 Dolfijnweg,24,,,3199MD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.093671,51.936257
 Dolfijnweg,26,,,3199MD,Maasvlakte Rotterdam,Rotterdam,Zuid-Holland,VBO,4.094196,51.936193

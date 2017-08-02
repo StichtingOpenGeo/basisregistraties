@@ -28,6 +28,7 @@ Vierambachtsstraat,23,A,,3022AB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452545,51
 Vierambachtsstraat,23,B,01,3022AB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452545,51.916934
 Vierambachtsstraat,23,B,02,3022AB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452545,51.916934
 Vierambachtsstraat,23,B,03,3022AB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452545,51.916934
+Vierambachtsstraat,23,B,04,3022AB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452545,51.916934
 Vierambachtsstraat,25,B,01,3022AC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452480,51.916917
 Vierambachtsstraat,25,B,02,3022AC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452480,51.916917
 Vierambachtsstraat,25,B,03,3022AC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452480,51.916917
@@ -326,8 +327,7 @@ Burgemeester Meineszlaan,115,A,,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.44
 Burgemeester Meineszlaan,115,B,,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449711,51.919416
 Burgemeester Meineszlaan,117,A,,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449609,51.919443
 Burgemeester Meineszlaan,117,B,,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449609,51.919443
-Burgemeester Meineszlaan,119,A,,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449542,51.919467
-Burgemeester Meineszlaan,119,B,,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449542,51.919467
+Burgemeester Meineszlaan,119,,,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449542,51.919467
 Burgemeester Meineszlaan,121,A,,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449464,51.919484
 Burgemeester Meineszlaan,121,B,02,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449464,51.919484
 Burgemeester Meineszlaan,121,B,03,3022BG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449464,51.919484
@@ -444,7 +444,6 @@ Burgemeester Meineszlaan,98,A,01,3022BN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.4
 Burgemeester Meineszlaan,98,A,02,3022BN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450210,51.918946
 Burgemeester Meineszlaan,98,B,,3022BN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450210,51.918946
 Burgemeester Meineszlaan,100,A,,3022BN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450140,51.918969
-Burgemeester Meineszlaan,100,B,,3022BN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450140,51.918969
 Burgemeester Meineszlaan,102,A,,3022BP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449845,51.919059
 Burgemeester Meineszlaan,102,B,,3022BP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449845,51.919059
 Burgemeester Meineszlaan,102,C,,3022BP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449845,51.919059
@@ -546,6 +545,7 @@ Heemraadssingel,159,,,3022CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454419,51.91
 Heemraadssingel,161,,,3022CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454415,51.917829
 Heemraadssingel,163,,,3022CE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454415,51.917783
 Heemraadssingel,165,,,3022CG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454413,51.917703
+Heemraadssingel,167,A,,3022CG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454411,51.917659
 Heemraadssingel,167,,,3022CG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454411,51.917659
 Heemraadssingel,169,,,3022CG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.454410,51.917591
 Beukelsdijk,139,A,,3022DA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.453646,51.921096
@@ -884,14 +884,13 @@ Essenburgsingel,74,B,,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450715,51.92
 Essenburgsingel,75,A,,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450590,51.921926
 Essenburgsingel,75,B,,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450590,51.921926
 Essenburgsingel,76,A,,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450462,51.921916
-Essenburgsingel,76,B,,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450462,51.921916
-Essenburgsingel,76,C,,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450462,51.921916
+Essenburgsingel,76,B,01,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450462,51.921916
+Essenburgsingel,76,B,02,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450462,51.921916
 Essenburgsingel,77,A,,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450336,51.921905
 Essenburgsingel,77,B,,3022EC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450336,51.921905
 Essenburgsingel,78,A,,3022ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450209,51.921895
 Essenburgsingel,78,B,01,3022ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450209,51.921895
 Essenburgsingel,78,B,02,3022ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450209,51.921895
-Essenburgsingel,78,B,,3022ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450209,51.921895
 Essenburgsingel,79,A,01,3022ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450082,51.921885
 Essenburgsingel,79,A,02,3022ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450082,51.921885
 Essenburgsingel,79,B,,3022ED,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450082,51.921885
@@ -1115,6 +1114,7 @@ Essenburgsingel,151,B,03,3022EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.443028,51
 Essenburgsingel,152,A,,3022EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.442946,51.920661
 Essenburgsingel,152,B,02,3022EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.442946,51.920661
 Essenburgsingel,152,B,03,3022EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.442946,51.920661
+Essenburgsingel,153,,,3022EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.442195,51.920738
 Mevlanaplein,1,,,3022EP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.441539,51.921303
 Middenhoefstraat,1,A,,3022ER,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451404,51.921952
 Middenhoefstraat,1,B,01,3022ER,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451404,51.921952
@@ -1165,8 +1165,6 @@ Middenhoefstraat,21,B,,3022ES,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451884,51.9
 Middenhoefstraat,2,A,,3022ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451667,51.921978
 Middenhoefstraat,2,B,01,3022ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451667,51.921978
 Middenhoefstraat,2,B,02,3022ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451667,51.921978
-Middenhoefstraat,4,A,01,3022ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451682,51.921903
-Middenhoefstraat,4,A,02,3022ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451682,51.921903
 Middenhoefstraat,4,A,,3022ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451682,51.921903
 Middenhoefstraat,4,B,,3022ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451682,51.921903
 Middenhoefstraat,6,A,,3022ET,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.451694,51.921825
@@ -1327,6 +1325,7 @@ Beukelsweg,53,D,,3022GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444833,51.920131
 Beukelsweg,53,E,,3022GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444833,51.920131
 Beukelsweg,53,F,,3022GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444833,51.920131
 Beukelsweg,55,A,,3022GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444747,51.920138
+Beukelsweg,55,B,01,3022GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444747,51.920138
 Beukelsweg,55,B,,3022GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444747,51.920138
 Beukelsweg,57,A,,3022GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444661,51.920144
 Beukelsweg,57,B,,3022GD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.444661,51.920144
@@ -1426,7 +1425,6 @@ Beukelsweg,14,A,03A,3022GH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447070,51.9196
 Beukelsweg,14,A,03V,3022GH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447070,51.919681
 Beukelsweg,14,A,04A,3022GH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447070,51.919681
 Beukelsweg,14,A,04V,3022GH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447070,51.919681
-Beukelsweg,14,A,,3022GH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447070,51.919681
 Beukelsweg,14,B,,3022GH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447070,51.919681
 Beukelsweg,16,A,,3022GH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.446982,51.919687
 Beukelsweg,16,B,,3022GH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.446982,51.919687
@@ -2299,8 +2297,6 @@ Essenburgstraat,33,B,02,3022MB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450668,51.
 Essenburgstraat,35,A,,3022MC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450542,51.921536
 Essenburgstraat,35,B,,3022MC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450542,51.921536
 Essenburgstraat,37,A,,3022MC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450416,51.921526
-Essenburgstraat,37,B,01,3022MC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450416,51.921526
-Essenburgstraat,37,B,02,3022MC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450416,51.921526
 Essenburgstraat,37,B,,3022MC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450416,51.921526
 Essenburgstraat,39,A,,3022MC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450289,51.921517
 Essenburgstraat,39,B,,3022MC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450289,51.921517
@@ -3697,6 +3693,7 @@ Gerrit van de Lindestraat,19,A,01,3022TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.
 Gerrit van de Lindestraat,19,A,02,3022TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452809,51.917417
 Gerrit van de Lindestraat,19,B,,3022TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452809,51.917417
 Gerrit van de Lindestraat,19,C,,3022TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452809,51.917417
+Gerrit van de Lindestraat,21,A,01,3022TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452745,51.917443
 Gerrit van de Lindestraat,21,A,,3022TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452745,51.917443
 Gerrit van de Lindestraat,21,B,,3022TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452745,51.917443
 Gerrit van de Lindestraat,23,A,,3022TB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452671,51.917469
@@ -3833,12 +3830,7 @@ Gerrit van de Lindestraat,16,D,,3022TK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.45
 Gerrit van de Lindestraat,16,E,,3022TK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452442,51.917303
 Gerrit van de Lindestraat,16,F,,3022TK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452442,51.917303
 Gerrit van de Lindestraat,16,G,,3022TK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452442,51.917303
-Gerrit van de Lindestraat,18,A,01A,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
-Gerrit van de Lindestraat,18,A,01V,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
-Gerrit van de Lindestraat,18,A,02A,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
-Gerrit van de Lindestraat,18,A,02V,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
-Gerrit van de Lindestraat,18,A,03A,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
-Gerrit van de Lindestraat,18,A,03V,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
+Gerrit van de Lindestraat,18,A,,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
 Gerrit van de Lindestraat,18,B,,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
 Gerrit van de Lindestraat,20,A,,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452355,51.917316
 Gerrit van de Lindestraat,20,B,,3022TL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.452248,51.917344
@@ -4010,6 +4002,7 @@ Doedesstraat,131,,,3022VD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449311,51.91669
 Doedesstraat,133,,,3022VD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449311,51.916691
 Doedesstraat,135,,,3022VD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449311,51.916691
 Doedesstraat,137,,,3022VD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449311,51.916691
+Doedesstraat,2,A,,3022VE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450095,51.918922
 Doedesstraat,2,,,3022VE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450095,51.918922
 Doedesstraat,6,A,,3022VE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450063,51.918760
 Doedesstraat,6,B,,3022VE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.450063,51.918760
@@ -4098,7 +4091,9 @@ Doedesstraat,76,B,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449693,51.91689
 Doedesstraat,78,A,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449676,51.916844
 Doedesstraat,78,B,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449676,51.916844
 Doedesstraat,78,C,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449676,51.916844
+Doedesstraat,78,C,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449716,51.916844
 Doedesstraat,80,A,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449676,51.916844
+Doedesstraat,80,A,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449708,51.916801
 Doedesstraat,80,B,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449669,51.916803
 Doedesstraat,80,C,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449669,51.916803
 Doedesstraat,82,,,3022VJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449673,51.916627
@@ -4381,6 +4376,7 @@ Burgemeester Meineszplein,14,A,02,3022XB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.
 Burgemeester Meineszplein,14,B,,3022XB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448439,51.919338
 Burgemeester Meineszplein,18,A,02,3022XB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447633,51.919538
 Burgemeester Meineszplein,18,A,03,3022XB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447633,51.919538
+Burgemeester Meineszplein,18,A,04,3022XB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447633,51.919538
 Burgemeester Meineszplein,18,B,,3022XB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447636,51.919495
 Burgemeester Meineszplein,18,C,,3022XB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447633,51.919538
 Burgemeester Meineszplein,19,,,3022XB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.447618,51.919594
@@ -4498,8 +4494,6 @@ Van Oosterzeestraat,7,A,02,3022XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449035,
 Van Oosterzeestraat,7,B,,3022XG,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.449035,51.919021
 Van Oosterzeestraat,19,A,,3022XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448952,51.918642
 Van Oosterzeestraat,19,B,,3022XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448952,51.918642
-Van Oosterzeestraat,21,A,,3022XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448944,51.918600
-Van Oosterzeestraat,21,B,,3022XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448944,51.918600
 Van Oosterzeestraat,21,,,3022XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448944,51.918600
 Van Oosterzeestraat,23,A,,3022XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448936,51.918555
 Van Oosterzeestraat,23,B,,3022XH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448936,51.918555
@@ -4520,7 +4514,6 @@ Van Oosterzeestraat,41,A,,3022XJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448857,5
 Van Oosterzeestraat,41,B,,3022XJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448857,51.918172
 Van Oosterzeestraat,43,A,,3022XJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448850,51.918129
 Van Oosterzeestraat,43,B,,3022XJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448850,51.918129
-Van Oosterzeestraat,43,C,,3022XJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448850,51.918129
 Van Oosterzeestraat,45,A,,3022XJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448841,51.918085
 Van Oosterzeestraat,45,B,,3022XJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448841,51.918085
 Van Oosterzeestraat,131,,,3022XL,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.448593,51.916947

@@ -12,7 +12,8 @@ Rijksweg,10,,,9731AA,Groningen,Groningen,Groningen,VBO,6.598132,53.226383
 Rijksweg,11,,,9731AA,Groningen,Groningen,Groningen,VBO,6.598371,53.226454
 Rijksweg,12,,,9731AA,Groningen,Groningen,Groningen,VBO,6.598503,53.226446
 Rijksweg,13,,,9731AA,Groningen,Groningen,Groningen,VBO,6.598580,53.226463
-Rijksweg,14,,,9731AA,Groningen,Groningen,Groningen,VBO,6.598851,53.226529
+Rijksweg,14,a,,9731AA,Groningen,Groningen,Groningen,VBO,6.598912,53.226540
+Rijksweg,14,,,9731AA,Groningen,Groningen,Groningen,VBO,6.598833,53.226524
 Rijksweg,15,,,9731AA,Groningen,Groningen,Groningen,VBO,6.599079,53.226644
 Rijksweg,16,a,,9731AB,Groningen,Groningen,Groningen,VBO,6.599712,53.227089
 Rijksweg,16,b,,9731AB,Groningen,Groningen,Groningen,VBO,6.599695,53.227115
@@ -154,6 +155,7 @@ Timpweg,24,a,,9731AL,Groningen,Groningen,Groningen,VBO,6.601621,53.226564
 Timpweg,24,,,9731AL,Groningen,Groningen,Groningen,VBO,6.601295,53.226600
 Timpweg,26,,,9731AL,Groningen,Groningen,Groningen,VBO,6.601740,53.226688
 Timpweg,28,,,9731AL,Groningen,Groningen,Groningen,VBO,6.602048,53.226653
+Timpweg,30,,,9731AL,Groningen,Groningen,Groningen,VBO,6.603391,53.226991
 Timpweg,32,,,9731AL,Groningen,Groningen,Groningen,VBO,6.603131,53.226382
 Koningsweg,1,b,,9731AM,Groningen,Groningen,Groningen,VBO,6.601293,53.225472
 Koningsweg,1,c,,9731AM,Groningen,Groningen,Groningen,VBO,6.600851,53.225369
@@ -208,6 +210,7 @@ Koningsweg,46,,,9731AT,Groningen,Groningen,Groningen,VBO,6.609663,53.226282
 Koningsweg,48,,,9731AT,Groningen,Groningen,Groningen,VBO,6.608791,53.226938
 Oostersluisweg,9,,,9731AV,Groningen,Groningen,Groningen,VBO,6.592153,53.228415
 Oostersluisweg,10,,,9731AV,Groningen,Groningen,Groningen,VBO,6.592348,53.226922
+Beckerweg,1,,,9731AW,Groningen,Groningen,Groningen,VBO,6.586345,53.234906
 Beckerweg,5,,,9731AW,Groningen,Groningen,Groningen,VBO,6.587182,53.235787
 Beckerweg,9,,,9731AW,Groningen,Groningen,Groningen,VBO,6.586475,53.235990
 Beckerweg,11,,,9731AW,Groningen,Groningen,Groningen,VBO,6.586319,53.236111
@@ -294,9 +297,21 @@ Pop Dijkemaweg,34,,,9731BE,Groningen,Groningen,Groningen,VBO,6.595858,53.227306
 Pop Dijkemaweg,36,,,9731BE,Groningen,Groningen,Groningen,VBO,6.595773,53.227376
 Pop Dijkemaweg,38,a,,9731BE,Groningen,Groningen,Groningen,VBO,6.595710,53.227455
 Pop Dijkemaweg,38,,,9731BE,Groningen,Groningen,Groningen,VBO,6.595801,53.227595
-Pop Dijkemaweg,40,a,,9731BE,Groningen,Groningen,Groningen,VBO,6.595981,53.227693
-Pop Dijkemaweg,40,b,,9731BE,Groningen,Groningen,Groningen,VBO,6.595918,53.227664
+Pop Dijkemaweg,40,a,1,9731BE,Groningen,Groningen,Groningen,VBO,6.596076,53.227623
+Pop Dijkemaweg,40,a,2,9731BE,Groningen,Groningen,Groningen,VBO,6.596031,53.227657
+Pop Dijkemaweg,40,a,3,9731BE,Groningen,Groningen,Groningen,VBO,6.595981,53.227693
+Pop Dijkemaweg,40,b,1,9731BE,Groningen,Groningen,Groningen,VBO,6.596014,53.227594
+Pop Dijkemaweg,40,b,2,9731BE,Groningen,Groningen,Groningen,VBO,6.595969,53.227627
+Pop Dijkemaweg,40,b,3,9731BE,Groningen,Groningen,Groningen,VBO,6.595918,53.227664
 Pop Dijkemaweg,40,c,,9731BE,Groningen,Groningen,Groningen,VBO,6.595862,53.227635
+Pop Dijkemaweg,40,d,,9731BE,Groningen,Groningen,Groningen,VBO,6.595982,53.227549
+Pop Dijkemaweg,40,e,,9731BE,Groningen,Groningen,Groningen,VBO,6.595948,53.227532
+Pop Dijkemaweg,40,f,,9731BE,Groningen,Groningen,Groningen,VBO,6.595912,53.227515
+Pop Dijkemaweg,40,g,,9731BE,Groningen,Groningen,Groningen,VBO,6.595885,53.227535
+Pop Dijkemaweg,40,h,,9731BE,Groningen,Groningen,Groningen,VBO,6.595918,53.227553
+Pop Dijkemaweg,40,k,,9731BE,Groningen,Groningen,Groningen,VBO,6.595954,53.227570
+Pop Dijkemaweg,40,m,,9731BE,Groningen,Groningen,Groningen,VBO,6.595927,53.227590
+Pop Dijkemaweg,40,n,,9731BE,Groningen,Groningen,Groningen,VBO,6.595892,53.227573
 Pop Dijkemaweg,40,,,9731BE,Groningen,Groningen,Groningen,VBO,6.596029,53.227716
 Pop Dijkemaweg,42,,,9731BG,Groningen,Groningen,Groningen,VBO,6.595372,53.227666
 Pop Dijkemaweg,44,,,9731BG,Groningen,Groningen,Groningen,VBO,6.595247,53.227751
@@ -339,6 +354,7 @@ Pop Dijkemaweg,94,,,9731BH,Groningen,Groningen,Groningen,VBO,6.589010,53.233775
 Pop Dijkemaweg,96,b,,9731BH,Groningen,Groningen,Groningen,VBO,6.588843,53.234240
 Pop Dijkemaweg,96,c,,9731BH,Groningen,Groningen,Groningen,VBO,6.588811,53.234425
 Pop Dijkemaweg,96,,,9731BH,Groningen,Groningen,Groningen,VBO,6.588950,53.233877
+Pop Dijkemaweg,100,,,9731BH,Groningen,Groningen,Groningen,VBO,6.589125,53.236179
 Pop Dijkemaweg,102,a,,9731BH,Groningen,Groningen,Groningen,VBO,6.588567,53.236395
 Pop Dijkemaweg,102,b,,9731BH,Groningen,Groningen,Groningen,VBO,6.588382,53.236638
 Pop Dijkemaweg,102,c,,9731BH,Groningen,Groningen,Groningen,VBO,6.588184,53.236833
@@ -484,6 +500,55 @@ Heerdenpad,8,,,9731BW,Groningen,Groningen,Groningen,VBO,6.578285,53.237652
 Heerdenpad,9,,,9731BW,Groningen,Groningen,Groningen,VBO,6.577557,53.237818
 Melisseweg,2,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592823,53.233891
 Melisseweg,6,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592899,53.234914
+Melisseweg,8,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592399,53.234833
+Melisseweg,10,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592430,53.234788
+Melisseweg,12,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592459,53.234744
+Melisseweg,14,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592490,53.234698
+Melisseweg,16,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592520,53.234653
+Melisseweg,18,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592550,53.234608
+Melisseweg,20,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592582,53.234562
+Melisseweg,22,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592251,53.234482
+Melisseweg,24,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592220,53.234528
+Melisseweg,26,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592190,53.234573
+Melisseweg,28,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592160,53.234618
+Melisseweg,30,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592129,53.234664
+Melisseweg,32,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592099,53.234708
+Melisseweg,34,,,9731BX,Groningen,Groningen,Groningen,VBO,6.592069,53.234753
+Melisseweg,36,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591581,53.234635
+Melisseweg,38,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591612,53.234590
+Melisseweg,40,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591641,53.234546
+Melisseweg,42,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591672,53.234500
+Melisseweg,44,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591702,53.234455
+Melisseweg,46,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591732,53.234410
+Melisseweg,48,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591764,53.234364
+Melisseweg,50,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591212,53.234230
+Melisseweg,52,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591181,53.234277
+Melisseweg,54,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591150,53.234322
+Melisseweg,56,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591120,53.234367
+Melisseweg,58,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591090,53.234412
+Melisseweg,60,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591060,53.234457
+Melisseweg,62,,,9731BX,Groningen,Groningen,Groningen,VBO,6.591030,53.234502
+Melisseweg,64,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590542,53.234383
+Melisseweg,66,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590572,53.234338
+Melisseweg,68,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590602,53.234294
+Melisseweg,70,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590632,53.234248
+Melisseweg,72,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590663,53.234203
+Melisseweg,74,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590693,53.234158
+Melisseweg,76,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590724,53.234112
+Melisseweg,78,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590421,53.234038
+Melisseweg,80,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590389,53.234085
+Melisseweg,82,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590359,53.234130
+Melisseweg,84,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590329,53.234175
+Melisseweg,86,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590298,53.234220
+Melisseweg,88,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590269,53.234265
+Melisseweg,90,,,9731BX,Groningen,Groningen,Groningen,VBO,6.590238,53.234310
+Melisseweg,92,,,9731BX,Groningen,Groningen,Groningen,VBO,6.589752,53.234192
+Melisseweg,94,,,9731BX,Groningen,Groningen,Groningen,VBO,6.589782,53.234147
+Melisseweg,96,,,9731BX,Groningen,Groningen,Groningen,VBO,6.589812,53.234102
+Melisseweg,98,,,9731BX,Groningen,Groningen,Groningen,VBO,6.589842,53.234057
+Melisseweg,100,,,9731BX,Groningen,Groningen,Groningen,VBO,6.589873,53.234012
+Melisseweg,102,,,9731BX,Groningen,Groningen,Groningen,VBO,6.589903,53.233967
+Melisseweg,104,,,9731BX,Groningen,Groningen,Groningen,VBO,6.589934,53.233920
 Gentiaanstraat,37,,,9731BZ,Groningen,Groningen,Groningen,VBO,6.596779,53.232764
 Gentiaanstraat,39,,,9731BZ,Groningen,Groningen,Groningen,VBO,6.596874,53.232781
 Gentiaanstraat,41,,,9731BZ,Groningen,Groningen,Groningen,VBO,6.597018,53.232811
@@ -1587,8 +1652,19 @@ Bieslookstraat,23,,,9731HH,Groningen,Groningen,Groningen,VBO,6.603617,53.233298
 Bieslookstraat,25,,,9731HH,Groningen,Groningen,Groningen,VBO,6.604379,53.233423
 Bieslookstraat,29,a,,9731HH,Groningen,Groningen,Groningen,VBO,6.604072,53.233653
 Bieslookstraat,29,,1,9731HH,Groningen,Groningen,Groningen,VBO,6.603310,53.233895
+Bieslookstraat,29,,10,9731HH,Groningen,Groningen,Groningen,VBO,6.603324,53.233960
+Bieslookstraat,29,,11,9731HH,Groningen,Groningen,Groningen,VBO,6.603394,53.233964
+Bieslookstraat,29,,12,9731HH,Groningen,Groningen,Groningen,VBO,6.603263,53.233983
+Bieslookstraat,29,,13,9731HH,Groningen,Groningen,Groningen,VBO,6.603313,53.233989
+Bieslookstraat,29,,14,9731HH,Groningen,Groningen,Groningen,VBO,6.603379,53.233998
 Bieslookstraat,29,,2,9731HH,Groningen,Groningen,Groningen,VBO,6.603360,53.233900
 Bieslookstraat,29,,3,9731HH,Groningen,Groningen,Groningen,VBO,6.603419,53.233907
+Bieslookstraat,29,,4,9731HH,Groningen,Groningen,Groningen,VBO,6.603284,53.233923
+Bieslookstraat,29,,5,9731HH,Groningen,Groningen,Groningen,VBO,6.603341,53.233929
+Bieslookstraat,29,,6,9731HH,Groningen,Groningen,Groningen,VBO,6.603405,53.233935
+Bieslookstraat,29,,7,9731HH,Groningen,Groningen,Groningen,VBO,6.603465,53.233942
+Bieslookstraat,29,,8,9731HH,Groningen,Groningen,Groningen,VBO,6.603521,53.233948
+Bieslookstraat,29,,9,9731HH,Groningen,Groningen,Groningen,VBO,6.603275,53.233954
 Bieslookstraat,29,,,9731HH,Groningen,Groningen,Groningen,VBO,6.604007,53.233649
 Bieslookstraat,31,,1,9731HH,Groningen,Groningen,Groningen,VBO,6.603043,53.233472
 Bieslookstraat,31,,,9731HH,Groningen,Groningen,Groningen,VBO,6.602346,53.233894
@@ -1688,7 +1764,6 @@ Lavendelweg,35,d,,9731HR,Groningen,Groningen,Groningen,VBO,6.596925,53.235013
 Lavendelweg,35,e,,9731HR,Groningen,Groningen,Groningen,VBO,6.596947,53.235044
 Lavendelweg,35,f,,9731HR,Groningen,Groningen,Groningen,VBO,6.596911,53.235038
 Lavendelweg,35,,,9731HR,Groningen,Groningen,Groningen,VBO,6.597107,53.235065
-Lavendelweg,37,,,9731HR,Groningen,Groningen,Groningen,VBO,6.596290,53.234839
 Lavendelweg,37,,,9731HR,Groningen,Groningen,Groningen,VBO,6.596648,53.234994
 Lavendelweg,39,,,9731HR,Groningen,Groningen,Groningen,VBO,6.596574,53.234978
 Lavendelweg,41,,,9731HR,Groningen,Groningen,Groningen,VBO,6.596495,53.234961

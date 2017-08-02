@@ -1,5 +1,6 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Grote Koppel,5,,,3813AA,Amersfoort,Amersfoort,Utrecht,VBO,5.384530,52.159888
+Grote Koppel,6,,,3813AA,Amersfoort,Amersfoort,Utrecht,VBO,5.384437,52.159926
 Grote Koppel,7,A,,3813AA,Amersfoort,Amersfoort,Utrecht,VBO,5.384352,52.160005
 Grote Koppel,7,B,,3813AA,Amersfoort,Amersfoort,Utrecht,VBO,5.384344,52.160021
 Grote Koppel,7,,,3813AA,Amersfoort,Amersfoort,Utrecht,VBO,5.384322,52.160009
@@ -96,7 +97,6 @@ Schimmelpenninckkade,50,,,3813AE,Amersfoort,Amersfoort,Utrecht,VBO,5.388419,52.1
 Schimmelpenninckkade,52,,,3813AE,Amersfoort,Amersfoort,Utrecht,VBO,5.388385,52.160440
 Schimmelpenninckkade,54,,,3813AE,Amersfoort,Amersfoort,Utrecht,VBO,5.388341,52.160482
 Schimmelpenninckkade,56,,,3813AE,Amersfoort,Amersfoort,Utrecht,VBO,5.388303,52.160518
-Schimmelpenninckstraat,1,,,3813AG,Amersfoort,Amersfoort,Utrecht,VBO,5.386358,52.159683
 Schimmelpenninckstraat,3,A,,3813AG,Amersfoort,Amersfoort,Utrecht,VBO,5.386191,52.159780
 Schimmelpenninckstraat,3,B,,3813AG,Amersfoort,Amersfoort,Utrecht,VBO,5.386199,52.159772
 Schimmelpenninckstraat,3,C,,3813AG,Amersfoort,Amersfoort,Utrecht,VBO,5.386208,52.159763
@@ -145,7 +145,7 @@ Schimmelpenninckstraat,49,B,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.387911,5
 Schimmelpenninckstraat,49,C,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.387880,52.160410
 Schimmelpenninckstraat,49,D,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.387935,52.160327
 Schimmelpenninckstraat,49,E,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.387919,52.160426
-Schimmelpenninckstraat,49,F,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.387991,52.160288
+Schimmelpenninckstraat,49,F,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.387936,52.160302
 Schimmelpenninckstraat,49,,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.387889,52.160403
 Schimmelpenninckstraat,51,,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.387979,52.160430
 Schimmelpenninckstraat,53,,,3813AH,Amersfoort,Amersfoort,Utrecht,VBO,5.388059,52.160441
@@ -539,9 +539,7 @@ Ringweg-Koppel,26,D,,3813BB,Amersfoort,Amersfoort,Utrecht,VBO,5.386571,52.166377
 Ringweg-Koppel,26,,1,3813BB,Amersfoort,Amersfoort,Utrecht,VBO,5.386564,52.166421
 Ringweg-Koppel,28,,,3813BB,Amersfoort,Amersfoort,Utrecht,VBO,5.388325,52.166907
 Keerkring,2,,,3813BC,Amersfoort,Amersfoort,Utrecht,VBO,5.384696,52.163668
-Keerkring,3,,,3813BC,Amersfoort,Amersfoort,Utrecht,VBO,5.387953,52.163881
 Keerkring,4,,,3813BC,Amersfoort,Amersfoort,Utrecht,VBO,5.384780,52.163686
-Keerkring,5,,,3813BC,Amersfoort,Amersfoort,Utrecht,VBO,5.387953,52.163881
 Keerkring,6,,,3813BC,Amersfoort,Amersfoort,Utrecht,VBO,5.384861,52.163710
 Keerkring,7,,,3813BC,Amersfoort,Amersfoort,Utrecht,VBO,5.388733,52.164017
 Keerkring,8,,,3813BC,Amersfoort,Amersfoort,Utrecht,VBO,5.384948,52.163728
@@ -859,6 +857,120 @@ Geernoutstraat,37,,,3813BV,Amersfoort,Amersfoort,Utrecht,VBO,5.381723,52.166553
 Geernoutstraat,39,,,3813BV,Amersfoort,Amersfoort,Utrecht,VBO,5.381743,52.166558
 Geernoutstraat,41,,,3813BV,Amersfoort,Amersfoort,Utrecht,VBO,5.381688,52.166521
 Geernoutstraat,43,,,3813BV,Amersfoort,Amersfoort,Utrecht,VBO,5.381760,52.166545
+Evenaar,1,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387194,52.163654
+Evenaar,3,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387198,52.163624
+Evenaar,5,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387227,52.163582
+Evenaar,7,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387258,52.163531
+Evenaar,9,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387331,52.163433
+Evenaar,11,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387380,52.163362
+Evenaar,13,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387424,52.163286
+Evenaar,15,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387469,52.163223
+Evenaar,17,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387237,52.163663
+Evenaar,19,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387254,52.163628
+Evenaar,21,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387314,52.163605
+Evenaar,23,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387341,52.163517
+Evenaar,25,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387345,52.163461
+Evenaar,27,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387393,52.163379
+Evenaar,29,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387451,52.163272
+Evenaar,31,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387482,52.163221
+Evenaar,33,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387260,52.163685
+Evenaar,35,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387252,52.163638
+Evenaar,37,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387262,52.163609
+Evenaar,39,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387295,52.163561
+Evenaar,41,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387366,52.163458
+Evenaar,43,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387440,52.163320
+Evenaar,45,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387470,52.163278
+Evenaar,47,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387490,52.163199
+Evenaar,49,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387256,52.163687
+Evenaar,51,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387325,52.163618
+Evenaar,53,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387339,52.163619
+Evenaar,55,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387395,52.163544
+Evenaar,57,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387459,52.163454
+Evenaar,59,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387482,52.163399
+Evenaar,61,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387525,52.163334
+Evenaar,63,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387588,52.163279
+Evenaar,65,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387302,52.163731
+Evenaar,67,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387351,52.163653
+Evenaar,69,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387376,52.163620
+Evenaar,71,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387455,52.163498
+Evenaar,73,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387509,52.163414
+Evenaar,75,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387527,52.163389
+Evenaar,77,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387573,52.163326
+Evenaar,79,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387610,52.163270
+Evenaar,81,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387312,52.163699
+Evenaar,83,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387213,52.163605
+Evenaar,85,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387223,52.163589
+Evenaar,87,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387262,52.163530
+Evenaar,89,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387670,52.163446
+Evenaar,91,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387724,52.163480
+Evenaar,93,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387817,52.163542
+Evenaar,95,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387933,52.163616
+Evenaar,97,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388001,52.163654
+Evenaar,99,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388057,52.163688
+Evenaar,101,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388161,52.163755
+Evenaar,103,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388233,52.163800
+Evenaar,105,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388411,52.163910
+Evenaar,107,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388362,52.163937
+Evenaar,109,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388277,52.163989
+Evenaar,111,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388194,52.164042
+Evenaar,113,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388099,52.164096
+Evenaar,115,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388005,52.164149
+Evenaar,117,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387683,52.163435
+Evenaar,119,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387757,52.163477
+Evenaar,121,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387834,52.163535
+Evenaar,123,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387857,52.163540
+Evenaar,125,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388016,52.163639
+Evenaar,127,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388084,52.163691
+Evenaar,129,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388157,52.163736
+Evenaar,131,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388246,52.163793
+Evenaar,133,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388413,52.163888
+Evenaar,135,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388333,52.163912
+Evenaar,137,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388252,52.163985
+Evenaar,139,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388180,52.164025
+Evenaar,141,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388101,52.164067
+Evenaar,143,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387983,52.164138
+Evenaar,145,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387707,52.163424
+Evenaar,147,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387790,52.163474
+Evenaar,149,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387871,52.163511
+Evenaar,151,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387950,52.163566
+Evenaar,153,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388043,52.163620
+Evenaar,155,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388097,52.163657
+Evenaar,157,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388184,52.163714
+Evenaar,159,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388273,52.163770
+Evenaar,161,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388378,52.163874
+Evenaar,163,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388306,52.163906
+Evenaar,165,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388223,52.163964
+Evenaar,167,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388144,52.164014
+Evenaar,169,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388070,52.164060
+Evenaar,171,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387960,52.164124
+Evenaar,173,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387749,52.163397
+Evenaar,175,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387809,52.163441
+Evenaar,177,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387931,52.163521
+Evenaar,179,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387989,52.163563
+Evenaar,181,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388059,52.163594
+Evenaar,183,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388153,52.163655
+Evenaar,185,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388244,52.163719
+Evenaar,187,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388304,52.163761
+Evenaar,189,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388355,52.163850
+Evenaar,191,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388285,52.163897
+Evenaar,193,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388179,52.163962
+Evenaar,195,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388124,52.163994
+Evenaar,197,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388030,52.164046
+Evenaar,199,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387908,52.164117
+Evenaar,201,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387765,52.163381
+Evenaar,203,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387838,52.163427
+Evenaar,205,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387935,52.163490
+Evenaar,207,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387929,52.163486
+Evenaar,209,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388093,52.163588
+Evenaar,211,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388008,52.163600
+Evenaar,213,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388269,52.163704
+Evenaar,215,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388339,52.163744
+Evenaar,217,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388333,52.163832
+Evenaar,219,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388250,52.163882
+Evenaar,221,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388151,52.163943
+Evenaar,223,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.388090,52.163981
+Evenaar,225,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387987,52.164043
+Evenaar,227,,,3813BW,Amersfoort,Amersfoort,Utrecht,VBO,5.387892,52.164096
 Balladelaan,1,A,,3813CA,Amersfoort,Amersfoort,Utrecht,VBO,5.379891,52.166655
 Balladelaan,1,,,3813CA,Amersfoort,Amersfoort,Utrecht,VBO,5.379924,52.166609
 Balladelaan,3,,,3813CA,Amersfoort,Amersfoort,Utrecht,VBO,5.379804,52.166775
@@ -2194,7 +2306,6 @@ Vivianestraat,8,,,3813EX,Amersfoort,Amersfoort,Utrecht,VBO,5.385180,52.169986
 Vivianestraat,10,,,3813EX,Amersfoort,Amersfoort,Utrecht,VBO,5.385270,52.170005
 Vivianestraat,12,,,3813EX,Amersfoort,Amersfoort,Utrecht,VBO,5.385343,52.170029
 Grote Spui,35,,,3813EZ,Amersfoort,Amersfoort,Utrecht,VBO,5.385256,52.159626
-Grote Spui,37,,,3813EZ,Amersfoort,Amersfoort,Utrecht,VBO,5.385009,52.159590
 Grote Spui,39,,,3813EZ,Amersfoort,Amersfoort,Utrecht,VBO,5.385009,52.159590
 Graalpad,1,,,3813GA,Amersfoort,Amersfoort,Utrecht,VBO,5.385636,52.170124
 Graalpad,3,,,3813GA,Amersfoort,Amersfoort,Utrecht,VBO,5.385599,52.170184
@@ -2792,6 +2903,7 @@ Roelandplaats,33,,,3813HR,Amersfoort,Amersfoort,Utrecht,VBO,5.389573,52.172093
 Roelandplaats,35,,,3813HR,Amersfoort,Amersfoort,Utrecht,VBO,5.389594,52.172102
 Roelandplaats,37,,,3813HR,Amersfoort,Amersfoort,Utrecht,VBO,5.389495,52.172077
 Roelandplaats,39,,,3813HR,Amersfoort,Amersfoort,Utrecht,VBO,5.389516,52.172077
+Roelandplaats,41,A,,3813HS,Amersfoort,Amersfoort,Utrecht,VBO,5.389904,52.172163
 Roelandplaats,41,,,3813HS,Amersfoort,Amersfoort,Utrecht,VBO,5.389536,52.172078
 Roelandplaats,43,,,3813HS,Amersfoort,Amersfoort,Utrecht,VBO,5.389557,52.172085
 Roelandplaats,45,,,3813HS,Amersfoort,Amersfoort,Utrecht,VBO,5.389479,52.172073
@@ -5218,8 +5330,6 @@ Camera Obscurastraat,150,,,3813PL,Amersfoort,Amersfoort,Utrecht,VBO,5.389205,52.
 Camera Obscurastraat,152,,,3813PL,Amersfoort,Amersfoort,Utrecht,VBO,5.389193,52.173622
 Camera Obscurastraat,154,,,3813PL,Amersfoort,Amersfoort,Utrecht,VBO,5.389216,52.173627
 Van Brammenstraat,1,,,3813PM,Amersfoort,Amersfoort,Utrecht,VBO,5.390607,52.174144
-Van Brammenstraat,3,,,3813PM,Amersfoort,Amersfoort,Utrecht,VBO,5.390607,52.174144
-Van Brammenstraat,5,,,3813PM,Amersfoort,Amersfoort,Utrecht,VBO,5.390607,52.174144
 Van Brammenstraat,7,,,3813PM,Amersfoort,Amersfoort,Utrecht,VBO,5.390513,52.174300
 Van Brammenstraat,9,,,3813PM,Amersfoort,Amersfoort,Utrecht,VBO,5.390496,52.174348
 Van Brammenstraat,11,,,3813PM,Amersfoort,Amersfoort,Utrecht,VBO,5.390496,52.174370
@@ -5284,12 +5394,10 @@ Pieter Stastokerf,4,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.390032,52.17302
 Pieter Stastokerf,6,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389767,52.173049
 Pieter Stastokerf,8,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389767,52.173049
 Pieter Stastokerf,10,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389555,52.173280
-Pieter Stastokerf,12,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389438,52.173468
 Pieter Stastokerf,18,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389438,52.173468
 Pieter Stastokerf,26,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389334,52.173633
 Pieter Stastokerf,30,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389315,52.173708
 Pieter Stastokerf,38,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389664,52.173824
-Pieter Stastokerf,40,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389664,52.173824
 Pieter Stastokerf,42,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.389808,52.173858
 Pieter Stastokerf,44,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.390033,52.173907
 Pieter Stastokerf,52,,,3813PR,Amersfoort,Amersfoort,Utrecht,VBO,5.390185,52.173962
@@ -6257,7 +6365,6 @@ Jachtpad,6,,,3813TV,Amersfoort,Amersfoort,Utrecht,VBO,5.378406,52.164548
 De Schans,18,,,3813TW,Amersfoort,Amersfoort,Utrecht,VBO,5.374893,52.167604
 De Schans,20,A,,3813TW,Amersfoort,Amersfoort,Utrecht,VBO,5.371774,52.167537
 De Schans,20,B,,3813TW,Amersfoort,Amersfoort,Utrecht,VBO,5.372700,52.167029
-De Schans,20,C,,3813TW,Amersfoort,Amersfoort,Utrecht,VBO,5.373378,52.166715
 De Schans,20,,,3813TW,Amersfoort,Amersfoort,Utrecht,VBO,5.371398,52.167788
 De Schans,22,,,3813TW,Amersfoort,Amersfoort,Utrecht,VBO,5.370915,52.168091
 De Stuw,1,,,3813TX,Amersfoort,Amersfoort,Utrecht,VBO,5.376583,52.165831
@@ -7232,7 +7339,7 @@ Boy Edgarstraat,5,,,3813ZA,Amersfoort,Amersfoort,Utrecht,VBO,5.399908,52.175328
 Boy Edgarstraat,7,,,3813ZA,Amersfoort,Amersfoort,Utrecht,VBO,5.399962,52.175294
 Boy Edgarstraat,9,,,3813ZA,Amersfoort,Amersfoort,Utrecht,VBO,5.400022,52.175259
 Boy Edgarstraat,11,,,3813ZA,Amersfoort,Amersfoort,Utrecht,VBO,5.400082,52.175228
-Boy Edgarstraat,13,,,3813ZA,Amersfoort,Amersfoort,Utrecht,VBO,5.400194,52.175165
+Boy Edgarstraat,13,,,3813ZA,Amersfoort,Amersfoort,Utrecht,VBO,5.400141,52.175195
 Boy Edgarstraat,15,,,3813ZA,Amersfoort,Amersfoort,Utrecht,VBO,5.400194,52.175165
 Wessel Ilckenstraat,1,,,3813ZB,Amersfoort,Amersfoort,Utrecht,VBO,5.400750,52.175239
 Wessel Ilckenstraat,2,,,3813ZB,Amersfoort,Amersfoort,Utrecht,VBO,5.401439,52.175226
@@ -7665,15 +7772,15 @@ Zielhorsterweg,53,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.402423,52.174391
 Zielhorsterweg,55,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.402505,52.174439
 Zielhorsterweg,57,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.402575,52.174490
 Zielhorsterweg,59,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.402631,52.174539
-Zielhorsterweg,61,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.402631,52.174539
+Zielhorsterweg,61,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.402715,52.174594
 Zielhorsterweg,65,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.403387,52.175026
 Zielhorsterweg,71,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404043,52.175425
 Zielhorsterweg,73,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404132,52.175478
-Zielhorsterweg,75,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404132,52.175478
+Zielhorsterweg,75,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404195,52.175529
 Zielhorsterweg,77,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404243,52.175558
 Zielhorsterweg,79,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404306,52.175606
-Zielhorsterweg,81,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404370,52.175645
+Zielhorsterweg,81,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404401,52.175660
 Zielhorsterweg,83,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404462,52.175704
-Zielhorsterweg,85,A,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404499,52.175782
-Zielhorsterweg,85,B,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404531,52.175800
+Zielhorsterweg,85,A,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404553,52.175787
+Zielhorsterweg,85,B,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404525,52.175804
 Zielhorsterweg,85,,,3813ZX,Amersfoort,Amersfoort,Utrecht,VBO,5.404575,52.175772

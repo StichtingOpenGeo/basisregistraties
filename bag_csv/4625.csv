@@ -92,6 +92,7 @@ Antwerpsestraatweg,398,,,4625AE,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,
 Antwerpsestraatweg,400,,,4625AE,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.301732,51.477713
 Antwerpsestraatweg,402,,,4625AE,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.301758,51.477655
 Antwerpsestraatweg,404,,,4625AE,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.301783,51.477601
+Antwerpsestraatweg,406,,,4625AG,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.301771,51.477551
 Antwerpsestraatweg,408,,,4625AG,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.301897,51.477254
 Antwerpsestraatweg,410,,,4625AG,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.301916,51.477202
 Antwerpsestraatweg,412,,,4625AG,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.301933,51.477156
@@ -524,6 +525,10 @@ Pastoor Kuijpersstraat,20,,,4625BP,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,V
 Pastoor Kuijpersstraat,21,,,4625BP,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.306936,51.477019
 Pastoor Kuijpersstraat,22,,,4625BP,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.306992,51.476836
 Pastoor Kuijpersstraat,24,,,4625BP,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.307076,51.476835
+Frans Halsstraat,17,,,4625BR,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303780,51.477523
+Frans Halsstraat,19,,,4625BR,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303788,51.477473
+Frans Halsstraat,21,,,4625BR,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303797,51.477423
+Frans Halsstraat,23,,,4625BR,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303805,51.477376
 Frans Halsstraat,25,,,4625BR,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303906,51.477072
 Frans Halsstraat,51,,,4625BS,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.304214,51.475884
 Frans Halsstraat,53,,,4625BS,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.304209,51.475829
@@ -593,7 +598,8 @@ Rembrandtstraat,23,,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.30
 Rembrandtstraat,25,,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303733,51.477835
 Rembrandtstraat,27,,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303819,51.477843
 Rembrandtstraat,29,,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303892,51.477848
-Rembrandtstraat,31,,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303967,51.477854
+Rembrandtstraat,31,a,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303990,51.477879
+Rembrandtstraat,31,,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303995,51.477857
 Rembrandtstraat,33,,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.303969,51.478103
 Rembrandtstraat,35,a,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.304080,51.477892
 Rembrandtstraat,35,,,4625CA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.304093,51.477865
@@ -635,12 +641,6 @@ Rembrandtstraat,48,,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.30
 Rembrandtstraat,52,a,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305379,51.477697
 Rembrandtstraat,52,,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305373,51.477721
 Rembrandtstraat,54,,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305704,51.477858
-Rembrandtstraat,56,a,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305739,51.477671
-Rembrandtstraat,56,b,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305753,51.477604
-Rembrandtstraat,56,c,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305767,51.477536
-Rembrandtstraat,56,d,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305770,51.477450
-Rembrandtstraat,56,e,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305749,51.477372
-Rembrandtstraat,56,f,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305763,51.477306
 Rembrandtstraat,56,,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305774,51.477863
 Rembrandtstraat,58,,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305852,51.477869
 Rembrandtstraat,60,,,4625CC,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305957,51.477878
@@ -895,6 +895,12 @@ Rembrandtstraat,125,,,4625CW,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.3
 Rembrandtstraat,127,,,4625CW,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305603,51.478180
 Rembrandtstraat,129,,,4625CW,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305603,51.478180
 Rembrandtstraat,131,,,4625CW,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305603,51.478180
+Bosschaertpad,1,,,4625CX,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305739,51.477671
+Bosschaertpad,3,,,4625CX,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305753,51.477604
+Bosschaertpad,5,,,4625CX,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305767,51.477536
+Bosschaertpad,7,,,4625CX,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305770,51.477450
+Bosschaertpad,9,,,4625CX,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305749,51.477372
+Bosschaertpad,11,,,4625CX,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.305763,51.477306
 Bremstraat,3,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.318714,51.468521
 Bremstraat,5,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.318730,51.468246
 Bremstraat,16,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.317566,51.467993
@@ -906,7 +912,7 @@ Bremstraat,26,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.320093,
 Bremstraat,27,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.320344,51.468062
 Bremstraat,28,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.320625,51.468060
 Bremstraat,29,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.321018,51.468053
-Bremstraat,36,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.319176,51.468330
+Bremstraat,36,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.319144,51.468342
 Bremstraat,38,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.319149,51.468613
 Bremstraat,40,,,4625DA,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.319142,51.469031
 Heimolen,4,,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.308611,51.467987
@@ -916,7 +922,7 @@ Heimolen,24,,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.315617,51
 Heimolen,26,a,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.316189,51.467920
 Heimolen,26,,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.315961,51.467959
 Heimolen,28,a,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.316896,51.468177
-Heimolen,28,,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.316622,51.468106
+Heimolen,28,,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.316582,51.468098
 Heimolen,30,,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.317059,51.468340
 Heimolen,32,,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.317406,51.468377
 Heimolen,34,,,4625DB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.317689,51.468538
@@ -939,6 +945,7 @@ Heimolen,56,,,4625DD,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.322617,51
 Heimolen,60,a,,4625DD,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.325008,51.465813
 Heimolen,60,,,4625DD,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.324500,51.465796
 Heimolen,64,,,4625DD,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.323661,51.469237
+Heimolen,68,,,4625DD,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.324409,51.469038
 Heimolen,70,,,4625DD,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.325045,51.469110
 Heimolen,72,,,4625DD,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.325360,51.469107
 Heimolen,74,b,,4625DD,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.326448,51.469023
@@ -982,7 +989,7 @@ Zandven,2,,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.328436,51.4
 Zandven,3,,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.323695,51.461304
 Zandven,4,a,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.328738,51.464628
 Zandven,4,,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.328642,51.464573
-Zandven,5,,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.323980,51.461437
+Zandven,5,,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.323980,51.461438
 Zandven,6,a,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.329272,51.464880
 Zandven,6,,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.328940,51.464700
 Zandven,7,,,4625DH,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.323991,51.461921
@@ -1014,6 +1021,7 @@ Zandven,68,b,,4625DJ,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.331518,51
 Zandven,68,,,4625DJ,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.331098,51.463349
 Zandven,70,,,4625DJ,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.333363,51.462990
 Zandven,80,,,4625DJ,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.336198,51.460220
+Nieuwebaan,1,,,4625DL,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.323984,51.468543
 Nieuwebaan,7,a,,4625DL,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.326876,51.464830
 Nieuwebaan,7,b,,4625DL,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.327206,51.465348
 Nieuwebaan,7,c,,4625DL,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.326881,51.465834
@@ -1309,6 +1317,22 @@ Hof van de Paltz,108,,,4625ER,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.
 Hof van de Paltz,109,,,4625ER,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.298410,51.477923
 Hof van de Paltz,110,,,4625ER,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.298485,51.477925
 Laan van Borgvliet,1,,,4625ES,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.298001,51.476664
+Hof van Merksem,6,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.296691,51.477815
+Hof van Merksem,8,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.296695,51.477752
+Hof van Merksem,10,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.296699,51.477682
+Hof van Merksem,11,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.298081,51.478066
+Hof van Merksem,12,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.296704,51.477619
+Hof van Merksem,13,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297970,51.478063
+Hof van Merksem,14,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.296708,51.477550
+Hof van Merksem,15,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297870,51.478060
+Hof van Merksem,17,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297760,51.478058
+Hof van Merksem,19,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297662,51.478055
+Hof van Merksem,21,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297497,51.477935
+Hof van Merksem,23,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297403,51.477905
+Hof van Merksem,25,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297306,51.477874
+Hof van Merksem,27,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297216,51.477845
+Hof van Merksem,29,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297117,51.477814
+Hof van Merksem,31,,,4625ET,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.297026,51.477785
 Onder de Jefkes,1,,,4625GB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.299588,51.476508
 Onder de Jefkes,2,,,4625GB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.299693,51.476427
 Onder de Jefkes,3,,,4625GB,Bergen op Zoom,Bergen op Zoom,Noord-Brabant,VBO,4.299573,51.476557

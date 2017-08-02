@@ -171,6 +171,7 @@ Bloemenstraat,45,,,7571AG,Oldenzaal,Oldenzaal,Overijssel,VBO,6.923324,52.313542
 Bloemenstraat,47,,,7571AG,Oldenzaal,Oldenzaal,Overijssel,VBO,6.923168,52.313597
 Bloemenstraat,49,,,7571AG,Oldenzaal,Oldenzaal,Overijssel,VBO,6.923022,52.313579
 Kloosterstraat,1,a,,7571AH,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929551,52.314389
+Kloosterstraat,1,b,,7571AH,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929636,52.314455
 Kloosterstraat,1,,,7571AH,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929483,52.314447
 Kloosterstraat,3,a,,7571AH,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929399,52.314426
 Kloosterstraat,3,,,7571AH,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929399,52.314453
@@ -369,7 +370,10 @@ Deurningerstraat,12,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926886,52.3121
 Deurningerstraat,14,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926865,52.312159
 Deurningerstraat,16,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926759,52.312088
 Deurningerstraat,18,a,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926628,52.312091
-Deurningerstraat,18,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926645,52.312050
+Deurningerstraat,18,,AP1,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926548,52.312127
+Deurningerstraat,18,,AP2,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926667,52.312103
+Deurningerstraat,18,,AP3,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926572,52.312059
+Deurningerstraat,18,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926629,52.312054
 Deurningerstraat,20,a,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926481,52.312012
 Deurningerstraat,20,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926459,52.312052
 Deurningerstraat,22,a,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926309,52.312021
@@ -377,7 +381,8 @@ Deurningerstraat,22,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926375,52.3120
 Deurningerstraat,24,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926244,52.312049
 Deurningerstraat,26,a,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926214,52.312206
 Deurningerstraat,26,b,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926237,52.312136
-Deurningerstraat,26,c,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926226,52.312175
+Deurningerstraat,26,c,AP1,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926214,52.312166
+Deurningerstraat,26,c,AP2,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926198,52.312196
 Deurningerstraat,26,,,7571BC,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926252,52.312088
 Deurningerstraat,28,,,7571BD,Oldenzaal,Oldenzaal,Overijssel,VBO,6.925987,52.312155
 Deurningerstraat,30,a,,7571BD,Oldenzaal,Oldenzaal,Overijssel,VBO,6.925826,52.312137
@@ -484,6 +489,14 @@ Steenstraat,99,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927613,52.309769
 Steenstraat,101,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927613,52.309711
 Steenstraat,103,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927595,52.309888
 Steenstraat,105,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927555,52.309743
+Steenstraat,107,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927455,52.309627
+Steenstraat,109,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927451,52.309572
+Steenstraat,111,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927449,52.309522
+Steenstraat,113,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927447,52.309468
+Steenstraat,115,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927442,52.309360
+Steenstraat,117,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927443,52.309309
+Steenstraat,119,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927445,52.309257
+Steenstraat,121,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927450,52.309204
 Steenstraat,169,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.928068,52.308995
 Steenstraat,171,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927484,52.309077
 Steenstraat,173,,,7571BJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927484,52.308971
@@ -543,7 +556,6 @@ Nieuwstraat,16,,,7571BM,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926489,52.310296
 Nieuwstraat,18,,,7571BM,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926302,52.310337
 Nieuwstraat,20,,,7571BM,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926233,52.310362
 Nieuwstraat,22,,,7571BM,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926209,52.310382
-Nieuwstraat,22,,,7571BM,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926290,52.310413
 Nieuwstraat,24,,,7571BM,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926123,52.310439
 Nieuwstraat,26,,,7571BM,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926115,52.310458
 Nieuwstraat,28,,,7571BM,Oldenzaal,Oldenzaal,Overijssel,VBO,6.926031,52.310518
@@ -1286,7 +1298,6 @@ Monnikstraat,33,,A029,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932824,52.3156
 Monnikstraat,33,,A030,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932895,52.315710
 Monnikstraat,33,,A031,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932951,52.315764
 Monnikstraat,33,,A101,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932656,52.315170
-Monnikstraat,33,,A102,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932661,52.315106
 Monnikstraat,33,,A107,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932807,52.315059
 Monnikstraat,33,,A108,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932925,52.315059
 Monnikstraat,33,,A109,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.933035,52.315059
@@ -1305,8 +1316,6 @@ Monnikstraat,33,,A128,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932866,52.3156
 Monnikstraat,33,,A129,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932803,52.315683
 Monnikstraat,33,,A130,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932923,52.315719
 Monnikstraat,33,,A131,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932961,52.315779
-Monnikstraat,33,,A201,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932637,52.315179
-Monnikstraat,33,,A202,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932641,52.315117
 Monnikstraat,33,,A207,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932779,52.315069
 Monnikstraat,33,,A208,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932891,52.315068
 Monnikstraat,33,,A209,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.933001,52.315067
@@ -1326,7 +1335,6 @@ Monnikstraat,33,,A229,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932794,52.3157
 Monnikstraat,33,,A230,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932954,52.315728
 Monnikstraat,33,,A231,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932964,52.315794
 Monnikstraat,33,,A301,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932609,52.315189
-Monnikstraat,33,,A302,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932620,52.315123
 Monnikstraat,33,,A307,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932804,52.315083
 Monnikstraat,33,,A308,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932907,52.315083
 Monnikstraat,33,,A309,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.933023,52.315086
@@ -1346,7 +1354,6 @@ Monnikstraat,33,,A329,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932799,52.3157
 Monnikstraat,33,,A330,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932979,52.315732
 Monnikstraat,33,,A331,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932942,52.315809
 Monnikstraat,33,,A401,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932581,52.315198
-Monnikstraat,33,,A402,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932600,52.315133
 Monnikstraat,33,,A407,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932775,52.315097
 Monnikstraat,33,,A408,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932885,52.315093
 Monnikstraat,33,,A409,7571CW,Oldenzaal,Oldenzaal,Overijssel,VBO,6.932997,52.315097
@@ -1380,7 +1387,7 @@ Bisschopstraat,9,,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929576,52.314235
 Bisschopstraat,11,a,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929770,52.314323
 Bisschopstraat,11,,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929724,52.314278
 Bisschopstraat,13,a,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929713,52.314377
-Bisschopstraat,13,,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929713,52.314377
+Bisschopstraat,13,,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929774,52.314373
 Bisschopstraat,15,a,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929745,52.314440
 Bisschopstraat,17,a,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929790,52.314484
 Bisschopstraat,17,,,7571CX,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929834,52.314475
@@ -1422,6 +1429,7 @@ Bisschopstraat,36,,,7571CZ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.930499,52.315147
 Bisschopstraat,38,,,7571CZ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.930606,52.314823
 Bisschopstraat,40,,,7571CZ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.930443,52.314862
 Bisschopstraat,42,,,7571CZ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.930407,52.315034
+Bisschopstraat,44,,,7571CZ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.930441,52.315150
 Bisschopstraat,46,,,7571CZ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.930481,52.315239
 Kloosterstraat,18,,TR,7571DB,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929789,52.314904
 Kloosterstraat,20,,GR1,7571DB,Oldenzaal,Oldenzaal,Overijssel,VBO,6.929375,52.315059
@@ -1866,6 +1874,7 @@ Hofstraat,11,,,7571EN,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927297,52.312513
 Hofstraat,15,,,7571EN,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927475,52.312495
 Hofstraat,20,,,7571EN,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927203,52.312384
 Hofstraat,22,,,7571EN,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927328,52.312410
+Hofstraat,24,a,,7571EN,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927414,52.312425
 Hofstraat,24,,,7571EN,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927406,52.312413
 Hofstraat,26,,,7571EN,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927549,52.312332
 Hofstraat,28,,,7571EN,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927512,52.312406
@@ -2133,6 +2142,15 @@ De Walgaarden,558,,,7571GE,Oldenzaal,Oldenzaal,Overijssel,VBO,6.924686,52.313039
 De Walgaarden,560,,,7571GE,Oldenzaal,Oldenzaal,Overijssel,VBO,6.924655,52.312998
 De Walgaarden,562,,,7571GE,Oldenzaal,Oldenzaal,Overijssel,VBO,6.924632,52.312957
 De Walgaarden,564,,,7571GE,Oldenzaal,Oldenzaal,Overijssel,VBO,6.924628,52.312854
+De Rozengaarden,10,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.928123,52.309484
+De Rozengaarden,12,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927986,52.309477
+De Rozengaarden,14,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927850,52.309469
+De Rozengaarden,16,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927850,52.309369
+De Rozengaarden,18,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.927997,52.309374
+De Rozengaarden,20,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.928134,52.309381
+De Rozengaarden,22,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.928431,52.309314
+De Rozengaarden,24,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.928447,52.309243
+De Rozengaarden,26,,,7571JA,Oldenzaal,Oldenzaal,Overijssel,VBO,6.928478,52.309193
 Huurnestraat,4,,,7571VJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.923424,52.312778
 Huurnestraat,6,a,,7571VJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.923284,52.312978
 Huurnestraat,6,,,7571VJ,Oldenzaal,Oldenzaal,Overijssel,VBO,6.923428,52.312895

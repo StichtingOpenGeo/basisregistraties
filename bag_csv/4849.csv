@@ -1,6 +1,5 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Taxusstraat,49,,,4849AC,Dorst,Oosterhout,Noord-Brabant,VBO,4.864053,51.590677
-Taxusstraat,51,,,4849AC,Dorst,Oosterhout,Noord-Brabant,VBO,4.863924,51.590678
 Taxusstraat,53,,,4849AC,Dorst,Oosterhout,Noord-Brabant,VBO,4.863512,51.590610
 Taxusstraat,55,,,4849AC,Dorst,Oosterhout,Noord-Brabant,VBO,4.863502,51.590563
 Taxusstraat,57,,,4849AC,Dorst,Oosterhout,Noord-Brabant,VBO,4.863492,51.590514
@@ -155,7 +154,6 @@ Cypressenstraat,20,,,4849AP,Dorst,Oosterhout,Noord-Brabant,VBO,4.862967,51.59221
 Spoorstraat,15,,,4849AR,Dorst,Oosterhout,Noord-Brabant,VBO,4.861293,51.593077
 Spoorstraat,17,,,4849AR,Dorst,Oosterhout,Noord-Brabant,VBO,4.861820,51.593003
 Spoorstraat,19,,,4849AR,Dorst,Oosterhout,Noord-Brabant,VBO,4.862695,51.592925
-Spoorstraat,21,A,,4849AR,Dorst,Oosterhout,Noord-Brabant,VBO,4.861627,51.592797
 Spoorstraat,21,,,4849AR,Dorst,Oosterhout,Noord-Brabant,VBO,4.861305,51.592906
 Spoorstraat,23,,,4849AR,Dorst,Oosterhout,Noord-Brabant,VBO,4.861300,51.592702
 Spoorstraat,25,,,4849AR,Dorst,Oosterhout,Noord-Brabant,VBO,4.861300,51.592649
@@ -174,8 +172,12 @@ Spoorstraat,49,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.861321,51.591480
 Spoorstraat,51,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860988,51.591045
 Spoorstraat,53,A,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860974,51.590956
 Spoorstraat,53,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860973,51.591001
+Spoorstraat,55,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860853,51.590965
 Spoorstraat,55,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860861,51.591045
-Spoorstraat,57,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860853,51.590965
+Spoorstraat,57,A,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860806,51.590998
+Spoorstraat,57,B,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860898,51.590962
+Spoorstraat,57,C,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860807,51.590964
+Spoorstraat,57,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860898,51.590999
 Spoorstraat,59,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860724,51.591045
 Spoorstraat,61,,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860726,51.590963
 Spoorstraat,63,A,,4849AS,Dorst,Oosterhout,Noord-Brabant,VBO,4.860443,51.590815
@@ -369,7 +371,6 @@ Dennenlaan,56,,,4849BE,Dorst,Oosterhout,Noord-Brabant,VBO,4.855618,51.592079
 Dennenlaan,58,,,4849BE,Dorst,Oosterhout,Noord-Brabant,VBO,4.855432,51.592126
 Dennenlaan,60,,,4849BE,Dorst,Oosterhout,Noord-Brabant,VBO,4.855343,51.592147
 Dennenlaan,62,,,4849BE,Dorst,Oosterhout,Noord-Brabant,VBO,4.855162,51.592191
-Dennenlaan,64,A,,4849BE,Dorst,Oosterhout,Noord-Brabant,VBO,4.855035,51.592327
 Dennenlaan,64,,,4849BE,Dorst,Oosterhout,Noord-Brabant,VBO,4.855051,51.592218
 Dennenlaan,66,,,4849BE,Dorst,Oosterhout,Noord-Brabant,VBO,4.854842,51.592269
 Pastoor den Rondenstraat,5,,,4849BG,Dorst,Oosterhout,Noord-Brabant,VBO,4.856019,51.591047
@@ -505,7 +506,6 @@ Rijksweg,169,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.861262,51.589081
 Rijksweg,171,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.861353,51.589062
 Rijksweg,173,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.861686,51.589006
 Rijksweg,175,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.862001,51.588949
-Rijksweg,177,A,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.862565,51.589000
 Rijksweg,177,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.862554,51.588850
 Rijksweg,179,A,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.863178,51.588796
 Rijksweg,179,B,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.863300,51.588777
@@ -521,7 +521,6 @@ Rijksweg,191,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.864493,51.588570
 Rijksweg,193,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.864575,51.588555
 Rijksweg,195,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.864658,51.588540
 Rijksweg,197,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.864755,51.588522
-Rijksweg,211,,,4849BP,Dorst,Oosterhout,Noord-Brabant,VBO,4.878540,51.586816
 Rijksweg,36,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.843488,51.591061
 Rijksweg,38,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.843572,51.591052
 Rijksweg,40,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.843630,51.591045
@@ -542,7 +541,6 @@ Rijksweg,90,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.852515,51.589953
 Rijksweg,94,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.853044,51.590033
 Rijksweg,96,A,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.853140,51.589857
 Rijksweg,96,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.853190,51.590016
-Rijksweg,98,A,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.853503,51.589933
 Rijksweg,98,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.853396,51.589982
 Rijksweg,100,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.853674,51.589969
 Rijksweg,106,,,4849BR,Dorst,Oosterhout,Noord-Brabant,VBO,4.854742,51.589965
@@ -634,7 +632,6 @@ Kapelerf,3,,,4849BZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.856746,51.589518
 Kapelerf,4,,,4849BZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.855912,51.589568
 Kapelerf,5,,,4849BZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.856572,51.589490
 Kapelerf,7,,,4849BZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.856400,51.589465
-Kapelerf,8,,,4849BZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.855498,51.589251
 Kapelerf,10,,,4849BZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.855646,51.589226
 Kapelerf,11,,,4849BZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.856177,51.589433
 Kapelerf,13,,,4849BZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.856004,51.589148
@@ -698,14 +695,12 @@ Generaal Maczekstraat,40,,,4849CC,Dorst,Oosterhout,Noord-Brabant,VBO,4.855016,51
 Generaal Maczekstraat,42,,,4849CC,Dorst,Oosterhout,Noord-Brabant,VBO,4.855111,51.592972
 Generaal Maczekstraat,44,,,4849CC,Dorst,Oosterhout,Noord-Brabant,VBO,4.855211,51.592951
 Generaal Maczekstraat,46,,,4849CC,Dorst,Oosterhout,Noord-Brabant,VBO,4.855306,51.592926
-Generaal Maczekstraat,39,,,4849CD,Dorst,Oosterhout,Noord-Brabant,VBO,4.855464,51.593146
 Sint Franciscusstraat,3,,,4849CE,Dorst,Oosterhout,Noord-Brabant,VBO,4.856748,51.591243
 Sint Franciscusstraat,5,,,4849CE,Dorst,Oosterhout,Noord-Brabant,VBO,4.856733,51.591151
 Sint Franciscusstraat,7,,,4849CE,Dorst,Oosterhout,Noord-Brabant,VBO,4.856731,51.591011
 Sint Franciscusstraat,9,,,4849CE,Dorst,Oosterhout,Noord-Brabant,VBO,4.856675,51.590874
 Sint Franciscusstraat,11,,,4849CE,Dorst,Oosterhout,Noord-Brabant,VBO,4.856630,51.590749
 Sint Franciscusstraat,8,,,4849CG,Dorst,Oosterhout,Noord-Brabant,VBO,4.856205,51.590729
-Sint Marcoenstraat,3,,,4849CJ,Dorst,Oosterhout,Noord-Brabant,VBO,4.858114,51.590395
 Sint Marcoenstraat,4,,,4849CJ,Dorst,Oosterhout,Noord-Brabant,VBO,4.857308,51.591111
 Sint Marcoenstraat,5,,,4849CJ,Dorst,Oosterhout,Noord-Brabant,VBO,4.857733,51.591057
 Sint Marcoenstraat,6,,,4849CJ,Dorst,Oosterhout,Noord-Brabant,VBO,4.857254,51.591002
@@ -777,6 +772,7 @@ Pastinaak,2,,AP21,4849CS,Dorst,Oosterhout,Noord-Brabant,VBO,4.849630,51.593545
 Pastinaak,2,,AP22,4849CS,Dorst,Oosterhout,Noord-Brabant,VBO,4.849829,51.593452
 Pastinaak,2,,AP23,4849CS,Dorst,Oosterhout,Noord-Brabant,VBO,4.849770,51.593400
 Pastinaak,2,,AP24,4849CS,Dorst,Oosterhout,Noord-Brabant,VBO,4.849731,51.593371
+Pastinaak,2,,,4849CS,Dorst,Oosterhout,Noord-Brabant,VBO,4.849670,51.593341
 Pastinaak,3,,,4849CS,Dorst,Oosterhout,Noord-Brabant,VBO,4.849047,51.593338
 Palmkool,10,,,4849CT,Dorst,Oosterhout,Noord-Brabant,VBO,4.850914,51.594389
 Palmkool,12,,,4849CT,Dorst,Oosterhout,Noord-Brabant,VBO,4.850977,51.594357
@@ -848,7 +844,6 @@ Tuinpad,42,,,4849CZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.851244,51.594040
 Tuinpad,44,,,4849CZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.851485,51.594253
 Tuinpad,46,,,4849CZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.851533,51.594288
 Tuinpad,48,,,4849CZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.851576,51.594331
-Parallelweg,8,,,4849PA,Dorst,Oosterhout,Noord-Brabant,VBO,4.850840,51.595190
 Parallelweg,21,,,4849PA,Dorst,Oosterhout,Noord-Brabant,VBO,4.839880,51.596746
 Parallelweg,23,,,4849PA,Dorst,Oosterhout,Noord-Brabant,VBO,4.839675,51.596825
 Parallelweg,25,,,4849PA,Dorst,Oosterhout,Noord-Brabant,VBO,4.839618,51.596844
@@ -921,7 +916,6 @@ Broekstraat,54,,,4849PE,Dorst,Oosterhout,Noord-Brabant,VBO,4.851387,51.592436
 Broekstraat,56,,,4849PE,Dorst,Oosterhout,Noord-Brabant,VBO,4.851287,51.592347
 Broekstraat,58,,,4849PE,Dorst,Oosterhout,Noord-Brabant,VBO,4.851242,51.592307
 Wethouder van Dijklaan,11,,,4849PG,Dorst,Oosterhout,Noord-Brabant,VBO,4.861327,51.594281
-Wethouder van Dijklaan,13,,,4849PG,Dorst,Oosterhout,Noord-Brabant,VBO,4.862488,51.594047
 Wethouder van Dijklaan,15,,,4849PG,Dorst,Oosterhout,Noord-Brabant,VBO,4.861251,51.593730
 Wethouder van Dijklaan,17,,,4849PG,Dorst,Oosterhout,Noord-Brabant,VBO,4.865659,51.593642
 Wethouder van Dijklaan,19,,,4849PG,Dorst,Oosterhout,Noord-Brabant,VBO,4.866052,51.593874
@@ -1185,6 +1179,7 @@ Vijf Eikenweg,45,,S28,4849PX,Dorst,Oosterhout,Noord-Brabant,VBO,4.892624,51.6111
 Vijf Eikenweg,45,,T1,4849PX,Dorst,Oosterhout,Noord-Brabant,VBO,4.891685,51.611838
 Vijf Eikenweg,45,,,4849PX,Dorst,Oosterhout,Noord-Brabant,VBO,4.889221,51.609440
 Leijweg,4,,,4849PZ,Dorst,Oosterhout,Noord-Brabant,VBO,4.849730,51.581695
+Klein Oosterhout,15,,,4849RA,Dorst,Oosterhout,Noord-Brabant,VBO,4.905158,51.603023
 Klein Oosterhout,17,,,4849RA,Dorst,Oosterhout,Noord-Brabant,VBO,4.905983,51.602485
 Klein Oosterhout,16,,,4849RB,Dorst,Oosterhout,Noord-Brabant,VBO,4.907677,51.601563
 Klein Oosterhout,18,,,4849RB,Dorst,Oosterhout,Noord-Brabant,VBO,4.911557,51.600596
@@ -1224,7 +1219,6 @@ Steenovensebaan,51,,,4849RD,Dorst,Oosterhout,Noord-Brabant,VBO,4.915063,51.60741
 Steenovensebaan,55,,,4849RD,Dorst,Oosterhout,Noord-Brabant,VBO,4.917509,51.607572
 Rijenseweg,2,,,4849RE,Dorst,Oosterhout,Noord-Brabant,VBO,4.914526,51.612041
 Rijenseweg,2,,,4849RE,Dorst,Oosterhout,Noord-Brabant,VBO,4.914577,51.612067
-Rijenseweg,2,,,4849RE,Dorst,Oosterhout,Noord-Brabant,VBO,4.914684,51.612230
 Rijenseweg,8,A,,4849RE,Dorst,Oosterhout,Noord-Brabant,VBO,4.917414,51.607271
 Rijenseweg,8,,,4849RE,Dorst,Oosterhout,Noord-Brabant,VBO,4.917605,51.607280
 Rijenseweg,10,,,4849RE,Dorst,Oosterhout,Noord-Brabant,VBO,4.917732,51.606810
@@ -1327,6 +1321,7 @@ Waterjuffer,21,,,4849RP,Dorst,Oosterhout,Noord-Brabant,VBO,4.854088,51.595601
 Waterjuffer,22,,,4849RP,Dorst,Oosterhout,Noord-Brabant,VBO,4.855321,51.596051
 Waterjuffer,23,,,4849RP,Dorst,Oosterhout,Noord-Brabant,VBO,4.854065,51.595657
 Waterjuffer,24,,,4849RP,Dorst,Oosterhout,Noord-Brabant,VBO,4.855077,51.596095
+Waterjuffer,25,,,4849RP,Dorst,Oosterhout,Noord-Brabant,VBO,4.853980,51.595817
 Waterjuffer,26,,,4849RP,Dorst,Oosterhout,Noord-Brabant,VBO,4.854858,51.596176
 Waterjuffer,27,,,4849RP,Dorst,Oosterhout,Noord-Brabant,VBO,4.854050,51.595984
 Waterjuffer,28,,,4849RP,Dorst,Oosterhout,Noord-Brabant,VBO,4.854783,51.596210

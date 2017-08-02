@@ -977,6 +977,7 @@ Princenlant,197,,,5283BS,Boxtel,Boxtel,Noord-Brabant,VBO,5.333314,51.587533
 Princenlant,198,,,5283BS,Boxtel,Boxtel,Noord-Brabant,VBO,5.333498,51.587508
 Oosterhof,1,a,,5283BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.334217,51.587756
 Oosterhof,1,,,5283BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.334245,51.587748
+Oosterhof,3,b,,5283BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.334521,51.587622
 Oosterhof,3,,,5283BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.334491,51.587712
 Oosterhof,4,,,5283BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.334606,51.587649
 Oosterhof,5,,,5283BV,Boxtel,Boxtel,Noord-Brabant,VBO,5.334722,51.587658
@@ -1699,7 +1700,6 @@ Elzengaard,41,,,5283GB,Boxtel,Boxtel,Noord-Brabant,VBO,5.342784,51.591787
 Elzengaard,42,,,5283GB,Boxtel,Boxtel,Noord-Brabant,VBO,5.342798,51.591715
 Elzengaard,43,,,5283GB,Boxtel,Boxtel,Noord-Brabant,VBO,5.342813,51.591661
 Elzengaard,44,,,5283GB,Boxtel,Boxtel,Noord-Brabant,VBO,5.342827,51.591616
-Zonnegoud,9,,,5283GB,Boxtel,Boxtel,Noord-Brabant,VBO,5.334367,51.594277
 Elzengaard,45,,,5283GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.342697,51.591562
 Elzengaard,46,,,5283GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.342726,51.591481
 Elzengaard,47,,,5283GC,Boxtel,Boxtel,Noord-Brabant,VBO,5.342726,51.591454
@@ -1914,8 +1914,11 @@ Zonnestraal,15,,,5283GN,Boxtel,Boxtel,Noord-Brabant,VBO,5.334671,51.594040
 Zonnestraal,16,,,5283GN,Boxtel,Boxtel,Noord-Brabant,VBO,5.336235,51.594352
 Zonnestraal,17,,,5283GN,Boxtel,Boxtel,Noord-Brabant,VBO,5.334599,51.594022
 Zonnestraal,18,,,5283GN,Boxtel,Boxtel,Noord-Brabant,VBO,5.336302,51.594384
+Zonnegoud,2,,,5283GP,Boxtel,Boxtel,Noord-Brabant,VBO,5.335330,51.594616
+Zonnegoud,4,,,5283GP,Boxtel,Boxtel,Noord-Brabant,VBO,5.335197,51.594613
 Zonnegoud,6,,,5283GP,Boxtel,Boxtel,Noord-Brabant,VBO,5.334915,51.594651
 Zonnegoud,8,,,5283GP,Boxtel,Boxtel,Noord-Brabant,VBO,5.334722,51.594596
+Zonnegoud,9,,,5283GP,Boxtel,Boxtel,Noord-Brabant,VBO,5.334367,51.594277
 Zonnegoud,10,,,5283GP,Boxtel,Boxtel,Noord-Brabant,VBO,5.334621,51.594566
 Zonnegoud,12,,,5283GP,Boxtel,Boxtel,Noord-Brabant,VBO,5.334441,51.594508
 Zonnegoud,14,,,5283GP,Boxtel,Boxtel,Noord-Brabant,VBO,5.334239,51.594473
@@ -3623,7 +3626,6 @@ Souverein,13,,,5283PM,Boxtel,Boxtel,Noord-Brabant,VBO,5.323981,51.601450
 Souverein,15,,,5283PM,Boxtel,Boxtel,Noord-Brabant,VBO,5.324140,51.601441
 Souverein,17,,,5283PM,Boxtel,Boxtel,Noord-Brabant,VBO,5.324270,51.601441
 Statendaalder,1,,,5283PN,Boxtel,Boxtel,Noord-Brabant,VBO,5.324631,51.601576
-Statendaalder,2,,,5283PN,Boxtel,Boxtel,Noord-Brabant,VBO,5.324446,51.601030
 Statendaalder,3,,,5283PN,Boxtel,Boxtel,Noord-Brabant,VBO,5.324746,51.601388
 Statendaalder,5,,,5283PN,Boxtel,Boxtel,Noord-Brabant,VBO,5.324862,51.601244
 Statendaalder,7,,,5283PN,Boxtel,Boxtel,Noord-Brabant,VBO,5.325021,51.601073
@@ -3693,13 +3695,16 @@ Liempdseweg,13,,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.352808,51.578820
 Liempdseweg,14,a,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.342594,51.579509
 Liempdseweg,15,,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.353140,51.578802
 Liempdseweg,17,,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.354006,51.578515
-Liempdseweg,22,,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.348047,51.578989
+Liempdseweg,22,a,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.347835,51.578928
+Liempdseweg,22,,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.348166,51.578989
 Liempdseweg,24,,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.350963,51.577516
 Liempdseweg,26,,,5283RB,Boxtel,Boxtel,Noord-Brabant,VBO,5.353300,51.577337
 De Oorsprong,1,,,5283RC,Boxtel,Boxtel,Noord-Brabant,VBO,5.343002,51.574700
 Goorestraat,1,,,5283RD,Boxtel,Boxtel,Noord-Brabant,VBO,5.342556,51.578009
+Goorestraat,2,a,,5283RD,Boxtel,Boxtel,Noord-Brabant,VBO,5.344802,51.577902
 Goorestraat,2,,,5283RD,Boxtel,Boxtel,Noord-Brabant,VBO,5.344956,51.577917
 Goorestraat,3,,,5283RD,Boxtel,Boxtel,Noord-Brabant,VBO,5.344312,51.578233
+Goorestraat,4,a,,5283RD,Boxtel,Boxtel,Noord-Brabant,VBO,5.345319,51.577792
 Goorestraat,4,,,5283RD,Boxtel,Boxtel,Noord-Brabant,VBO,5.345187,51.577854
 Goorestraat,5,,,5283RD,Boxtel,Boxtel,Noord-Brabant,VBO,5.344903,51.578368
 Selissen,1,,,5283SB,Boxtel,Boxtel,Noord-Brabant,VBO,5.322590,51.605099
@@ -3734,6 +3739,8 @@ De Ketting,6,,,5283SL,Boxtel,Boxtel,Noord-Brabant,VBO,5.322545,51.606321
 De Ketting,12,,,5283SL,Boxtel,Boxtel,Noord-Brabant,VBO,5.324753,51.607293
 Venrodeweg,2,,,5283SM,Boxtel,Boxtel,Noord-Brabant,VBO,5.322131,51.613152
 Venrodeweg,4,,,5283SM,Boxtel,Boxtel,Noord-Brabant,VBO,5.322865,51.613253
+Venrodeweg,6,,,5283SM,Boxtel,Boxtel,Noord-Brabant,VBO,5.322880,51.612698
+Kampspoor,2,,,5283SN,Boxtel,Boxtel,Noord-Brabant,STA,5.319305,51.619308
 Bieakker,1,,,5283TA,Boxtel,Boxtel,Noord-Brabant,VBO,5.325634,51.596337
 Bieakker,2,,,5283TA,Boxtel,Boxtel,Noord-Brabant,VBO,5.325951,51.596148
 Bieakker,3,,,5283TA,Boxtel,Boxtel,Noord-Brabant,VBO,5.325691,51.596346
@@ -3897,7 +3904,7 @@ Munsel,90,,,5283TP,Boxtel,Boxtel,Noord-Brabant,VBO,5.329574,51.596419
 Munsel,92,,,5283TP,Boxtel,Boxtel,Noord-Brabant,VBO,5.329732,51.596339
 Munsel,94,,,5283TP,Boxtel,Boxtel,Noord-Brabant,VBO,5.329805,51.596303
 Munsel,96,,,5283TP,Boxtel,Boxtel,Noord-Brabant,VBO,5.329862,51.596267
-Munsel,104,a,,5283TP,Boxtel,Boxtel,Noord-Brabant,VBO,5.330368,51.596240
+Munsel,104,a,,5283TP,Boxtel,Boxtel,Noord-Brabant,VBO,5.330777,51.596270
 Munsel,104,,,5283TP,Boxtel,Boxtel,Noord-Brabant,VBO,5.330238,51.596213
 Munsel,49,,,5283TR,Boxtel,Boxtel,Noord-Brabant,VBO,5.324767,51.597073
 Munsel,51,,,5283TR,Boxtel,Boxtel,Noord-Brabant,VBO,5.325012,51.597082
@@ -3955,7 +3962,9 @@ Het Klaverblad,1,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.338626,51.593098
 Het Klaverblad,2,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.338640,51.593628
 Het Klaverblad,3,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.338648,51.593179
 Het Klaverblad,4,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.338190,51.593922
-Het Klaverblad,6,,,5283TV,Boxtel,Boxtel,Noord-Brabant,STA,5.338295,51.593935
+Het Klaverblad,5,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.338347,51.593373
+Het Klaverblad,7,,,5283TV,Boxtel,Boxtel,Noord-Brabant,STA,5.338051,51.593332
+Het Klaverblad,7,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.338228,51.593422
 Het Klaverblad,8,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.338452,51.594149
 Het Klaverblad,10,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.338996,51.594514
 Het Klaverblad,12,,,5283TV,Boxtel,Boxtel,Noord-Brabant,VBO,5.339139,51.594502
@@ -4020,6 +4029,7 @@ Munselse Hoeve,8,,,5283TZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.332779,51.594919
 Munselse Hoeve,10,,,5283TZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.333475,51.594797
 Munselse Hoeve,14,,,5283TZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.334237,51.595056
 Munselse Hoeve,16,,,5283TZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.334371,51.595081
+Munselse Hoeve,18,a,,5283TZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.335005,51.594889
 Munselse Hoeve,18,,,5283TZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.334987,51.595073
 Munselse Hoeve,20,,,5283TZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.335395,51.595014
 Munselse Hoeve,25,,,5283TZ,Boxtel,Boxtel,Noord-Brabant,VBO,5.337411,51.594581
@@ -4110,9 +4120,11 @@ Oude Boomgaard,3,,,5283VV,Boxtel,Boxtel,Noord-Brabant,VBO,5.342545,51.600003
 Oude Boomgaard,4,a,,5283VV,Boxtel,Boxtel,Noord-Brabant,VBO,5.344680,51.601352
 Oude Boomgaard,4,,,5283VV,Boxtel,Boxtel,Noord-Brabant,VBO,5.343411,51.599526
 Oude Boomgaard,6,,,5283VV,Boxtel,Boxtel,Noord-Brabant,VBO,5.345242,51.602026
+Oude Boomgaard,6,,,5283VV,Boxtel,Boxtel,Noord-Brabant,VBO,5.345264,51.601841
 Hoog Huis,2,,,5283VW,Boxtel,Boxtel,Noord-Brabant,VBO,5.341955,51.597656
+Bosscheweg,56,a,,5283WB,Boxtel,Boxtel,Noord-Brabant,VBO,5.324365,51.601071
 Bosscheweg,56,,,5283WB,Boxtel,Boxtel,Noord-Brabant,VBO,5.323088,51.600542
-Bosscheweg,56,,,5283WB,Boxtel,Boxtel,Noord-Brabant,VBO,5.323133,51.600556
+Bosscheweg,56,,,5283WB,Boxtel,Boxtel,Noord-Brabant,VBO,5.323129,51.600546
 Bosscheweg,60,,,5283WB,Boxtel,Boxtel,Noord-Brabant,VBO,5.322522,51.602411
 Bosscheweg,74,,,5283WB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321262,51.605458
 Bosscheweg,76,,,5283WB,Boxtel,Boxtel,Noord-Brabant,VBO,5.321693,51.606905

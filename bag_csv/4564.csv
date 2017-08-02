@@ -26,6 +26,7 @@ Wilhelminastraat,139,,,4564AA,Sint Jansteen,Hulst,Zeeland,VBO,4.038229,51.253732
 Wilhelminastraat,141,,,4564AA,Sint Jansteen,Hulst,Zeeland,VBO,4.037972,51.253675
 Wilhelminastraat,143,A,,4564AA,Sint Jansteen,Hulst,Zeeland,VBO,4.037437,51.253354
 Wilhelminastraat,143,,,4564AA,Sint Jansteen,Hulst,Zeeland,VBO,4.037690,51.253528
+Wilhelminastraat,145,a,,4564AA,Sint Jansteen,Hulst,Zeeland,VBO,4.036846,51.253356
 Wilhelminastraat,145,,,4564AA,Sint Jansteen,Hulst,Zeeland,VBO,4.037048,51.253431
 Wilhelminastraat,147,,,4564AA,Sint Jansteen,Hulst,Zeeland,VBO,4.036494,51.253271
 Wilhelminastraat,72,,,4564AB,Sint Jansteen,Hulst,Zeeland,VBO,4.046885,51.258125
@@ -127,7 +128,6 @@ Wilhelminastraat,62,,,4564AG,Sint Jansteen,Hulst,Zeeland,VBO,4.047812,51.258652
 Wilhelminastraat,64,,,4564AG,Sint Jansteen,Hulst,Zeeland,VBO,4.047516,51.258533
 Wilhelminastraat,66,,,4564AG,Sint Jansteen,Hulst,Zeeland,VBO,4.047389,51.258423
 Wilhelminastraat,68,,,4564AG,Sint Jansteen,Hulst,Zeeland,VBO,4.047221,51.258277
-Wilhelminastraat,70,t,,4564AG,Sint Jansteen,Hulst,Zeeland,VBO,4.047141,51.258193
 Badhuisweg,1,A,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.047367,51.259160
 Badhuisweg,1,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.047584,51.259081
 Badhuisweg,2,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.047652,51.259235
@@ -138,6 +138,8 @@ Badhuisweg,6,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.047492,51.259305
 Badhuisweg,8,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.047303,51.259411
 Badhuisweg,9,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.046330,51.258922
 Badhuisweg,10,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.047230,51.259437
+Badhuisweg,11,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.044981,51.259954
+Badhuisweg,13,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.044981,51.259954
 Badhuisweg,14,,,4564AH,Sint Jansteen,Hulst,Zeeland,VBO,4.046285,51.259920
 Burg. IJsebaertstraat,1,,,4564AJ,Sint Jansteen,Hulst,Zeeland,VBO,4.047983,51.259185
 Burg. IJsebaertstraat,2,,,4564AJ,Sint Jansteen,Hulst,Zeeland,VBO,4.048307,51.259368
@@ -367,15 +369,16 @@ Hemelstraat,10,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.048882,51.264697
 Hemelstraat,12,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.048143,51.264976
 Hemelstraat,14,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.047831,51.264873
 Hemelstraat,16,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.047687,51.264899
-Hemelstraat,18,t,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.047558,51.265136
 Hemelstraat,18,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.047426,51.264995
 Hemelstraat,20,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.047103,51.265011
 Hemelstraat,22,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.046705,51.265130
 Hemelstraat,24,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.046228,51.265296
 Hemelstraat,26,,,4564BB,Sint Jansteen,Hulst,Zeeland,VBO,4.045836,51.265453
+Tragel,1,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.045436,51.266281
 Tragel,1,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.045454,51.266275
 Tragel,2,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.045805,51.266019
 Tragel,3,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.045493,51.266393
+Tragel,4,c,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.045984,51.266532
 Tragel,4,d,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.046054,51.266683
 Tragel,4,e,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.046084,51.266761
 Tragel,4,f,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.046168,51.266910
@@ -395,18 +398,11 @@ Tragel,20,,,4564BC,Sint Jansteen,Hulst,Zeeland,STA,4.046893,51.268159
 Tragel,22,,,4564BC,Sint Jansteen,Hulst,Zeeland,STA,4.046844,51.268056
 Tragel,24,,,4564BC,Sint Jansteen,Hulst,Zeeland,STA,4.046796,51.267953
 Tragel,26,,,4564BC,Sint Jansteen,Hulst,Zeeland,STA,4.046693,51.267775
-Tragel,28,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.047301,51.268284
-Tragel,30,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.047344,51.268275
-Tragel,32,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.047387,51.268267
-Tragel,34,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.047431,51.268258
-Tragel,36,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.047474,51.268250
-Tragel,38,,,4564BC,Sint Jansteen,Hulst,Zeeland,VBO,4.047517,51.268241
 Oude Galgenstraat,2,,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.050775,51.264152
 Oude Galgenstraat,3,,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.050762,51.264584
 Oude Galgenstraat,4,,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.050942,51.264307
 Oude Galgenstraat,6,A,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.051208,51.264544
 Oude Galgenstraat,6,,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.051067,51.264443
-Oude Galgenstraat,7,t,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.051266,51.265182
 Oude Galgenstraat,8,,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.051260,51.264724
 Oude Galgenstraat,9,,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.051325,51.265417
 Oude Galgenstraat,10,,,4564BD,Sint Jansteen,Hulst,Zeeland,VBO,4.051658,51.265322
@@ -519,7 +515,6 @@ Visserijstraat,26,,,4564BL,Sint Jansteen,Hulst,Zeeland,VBO,4.053789,51.265445
 Visserijstraat,28,,,4564BL,Sint Jansteen,Hulst,Zeeland,VBO,4.053876,51.265410
 Visserijstraat,30,,,4564BL,Sint Jansteen,Hulst,Zeeland,VBO,4.053978,51.265358
 Visserijstraat,32,,,4564BL,Sint Jansteen,Hulst,Zeeland,VBO,4.054079,51.265323
-Geslechtendijk,3,t,,4564BM,Sint Jansteen,Hulst,Zeeland,VBO,4.052384,51.263012
 Geslechtendijk,5,A,,4564BM,Sint Jansteen,Hulst,Zeeland,VBO,4.052166,51.263134
 Geslechtendijk,5,,,4564BM,Sint Jansteen,Hulst,Zeeland,VBO,4.052224,51.263108
 Geslechtendijk,7,A,,4564BM,Sint Jansteen,Hulst,Zeeland,VBO,4.052294,51.263172
@@ -599,7 +594,6 @@ van der Heydenstraat,7,,,4564BW,Sint Jansteen,Hulst,Zeeland,VBO,4.045651,51.2644
 van der Heydenstraat,9,,,4564BW,Sint Jansteen,Hulst,Zeeland,VBO,4.045678,51.264480
 van der Heydenstraat,11,,,4564BW,Sint Jansteen,Hulst,Zeeland,VBO,4.045720,51.264526
 Berkenstraat,1,,,4564BX,Sint Jansteen,Hulst,Zeeland,VBO,4.046326,51.261934
-De Verrekijker,2,A,,4564BZ,Sint Jansteen,Hulst,Zeeland,VBO,4.052364,51.267146
 De Verrekijker,2,,,4564BZ,Sint Jansteen,Hulst,Zeeland,VBO,4.055110,51.264382
 Clingedijk,1,,,4564CA,Sint Jansteen,Hulst,Zeeland,VBO,4.044466,51.263792
 Clingedijk,2,,,4564CA,Sint Jansteen,Hulst,Zeeland,VBO,4.043517,51.263421
@@ -688,15 +682,6 @@ Plein de Mate,25,,,4564CG,Sint Jansteen,Hulst,Zeeland,VBO,4.044340,51.262226
 Plein de Mate,26,,,4564CG,Sint Jansteen,Hulst,Zeeland,VBO,4.044303,51.262037
 Plein de Mate,27,,,4564CG,Sint Jansteen,Hulst,Zeeland,VBO,4.044179,51.261874
 Populierenstraat,1,,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.046610,51.262531
-Populierenstraat,2,a,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.045951,51.262578
-Populierenstraat,2,b,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.045909,51.262586
-Populierenstraat,2,c,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.045869,51.262594
-Populierenstraat,2,d,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.045827,51.262604
-Populierenstraat,2,e,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.045784,51.262611
-Populierenstraat,2,f,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.045746,51.262619
-Populierenstraat,2,g,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.045705,51.262627
-Populierenstraat,2,h,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.045664,51.262636
-Populierenstraat,2,t,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.046026,51.262618
 Populierenstraat,2,,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.046236,51.262554
 Populierenstraat,3,,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.046583,51.262459
 Populierenstraat,4,,,4564CH,Sint Jansteen,Hulst,Zeeland,VBO,4.046224,51.262491
@@ -820,7 +805,6 @@ Burg. Geirnaerdtstraat,20,,,4564CS,Sint Jansteen,Hulst,Zeeland,VBO,4.047988,51.2
 Burg. Geirnaerdtstraat,22,,,4564CS,Sint Jansteen,Hulst,Zeeland,VBO,4.047858,51.261961
 Burg. Geirnaerdtstraat,24,,,4564CS,Sint Jansteen,Hulst,Zeeland,VBO,4.047743,51.261987
 Oude Drydijck,1,A,,4564CT,Sint Jansteen,Hulst,Zeeland,VBO,4.051049,51.261413
-Oude Drydijck,1,B,,4564CT,Sint Jansteen,Hulst,Zeeland,VBO,4.050669,51.261301
 Oude Drydijck,1,,,4564CT,Sint Jansteen,Hulst,Zeeland,VBO,4.050842,51.261375
 Oude Drydijck,3,,,4564CT,Sint Jansteen,Hulst,Zeeland,VBO,4.050527,51.261336
 Oude Drydijck,5,,,4564CT,Sint Jansteen,Hulst,Zeeland,VBO,4.050301,51.261252
@@ -1118,12 +1102,6 @@ Burggraaf,29,,,4564DN,Sint Jansteen,Hulst,Zeeland,VBO,4.058651,51.262145
 Heerstraat,1,A,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053213,51.260698
 Heerstraat,1,B,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053275,51.260605
 Heerstraat,1,C,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053175,51.260467
-Heerstraat,1,d,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053655,51.260710
-Heerstraat,1,e,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053660,51.260682
-Heerstraat,1,f,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053662,51.260658
-Heerstraat,1,g,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053665,51.260630
-Heerstraat,1,h,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053667,51.260605
-Heerstraat,1,j,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053670,51.260578
 Heerstraat,1,,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053279,51.260837
 Heerstraat,3,,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053293,51.260351
 Heerstraat,5,A,,4564EA,Sint Jansteen,Hulst,Zeeland,VBO,4.053286,51.260100
@@ -1147,13 +1125,11 @@ Heerstraat,25,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.053116,51.257317
 Heerstraat,29,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.053131,51.257059
 Heerstraat,31,A,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.053464,51.256590
 Heerstraat,31,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.053133,51.256996
-Heerstraat,33,t,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.053346,51.256208
 Heerstraat,35,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.053682,51.256124
 Heerstraat,37,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.054239,51.254923
 Heerstraat,39,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.054372,51.254763
 Heerstraat,41,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.054623,51.254505
 Heerstraat,47,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.057443,51.251652
-Heerstraat,49,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.058546,51.252132
 Heerstraat,51,,,4564EB,Sint Jansteen,Hulst,Zeeland,VBO,4.057264,51.251164
 Heerstraat,2,A,,4564EC,Sint Jansteen,Hulst,Zeeland,VBO,4.053030,51.261005
 Heerstraat,2,,,4564EC,Sint Jansteen,Hulst,Zeeland,VBO,4.052961,51.260905
@@ -1255,7 +1231,6 @@ Roskamstraat,29,,,4564EJ,Sint Jansteen,Hulst,Zeeland,VBO,4.059274,51.260627
 Roskamstraat,31,,,4564EJ,Sint Jansteen,Hulst,Zeeland,VBO,4.059618,51.260613
 Roskamstraat,33,,,4564EJ,Sint Jansteen,Hulst,Zeeland,VBO,4.059876,51.260598
 Roskamstraat,35,,,4564EJ,Sint Jansteen,Hulst,Zeeland,VBO,4.060135,51.260591
-Roskamstraat,49,t,,4564EJ,Sint Jansteen,Hulst,Zeeland,VBO,4.062498,51.260476
 Roskamstraat,53,,,4564EJ,Sint Jansteen,Hulst,Zeeland,VBO,4.062958,51.260579
 Roskamstraat,2,A,,4564EK,Sint Jansteen,Hulst,Zeeland,VBO,4.056401,51.260343
 Roskamstraat,2,,,4564EK,Sint Jansteen,Hulst,Zeeland,VBO,4.056220,51.260333
@@ -1421,6 +1396,7 @@ Carmen,5,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.046592,51.265725
 Carmen,6,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047229,51.265365
 Carmen,8,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047273,51.265437
 Carmen,10,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047947,51.265418
+Carmen,11,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.046590,51.266075
 Carmen,12,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047971,51.265465
 Carmen,14,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.048053,51.265586
 Carmen,15,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047047,51.265968
@@ -1428,7 +1404,6 @@ Carmen,16,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.048066,51.265631
 Carmen,17,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047178,51.265833
 Carmen,18,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.048091,51.265757
 Carmen,19,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047191,51.265691
-Carmen,19,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047393,51.265633
 Carmen,20,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.048090,51.265802
 Carmen,22,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.048058,51.265928
 Carmen,24,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.048042,51.265982
@@ -1444,10 +1419,16 @@ Carmen,33,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047731,51.265917
 Carmen,35,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047702,51.265964
 Carmen,37,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047561,51.266096
 Carmen,39,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047515,51.266121
+Carmen,40,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047221,51.267117
 Carmen,41,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047357,51.266205
+Carmen,42,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047245,51.267166
 Carmen,43,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047290,51.266235
+Carmen,44,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047267,51.267212
 Carmen,45,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047157,51.266313
+Carmen,46,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047289,51.267259
 Carmen,47,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047107,51.266346
+Carmen,48,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047311,51.267305
+Carmen,50,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.047333,51.267352
 Carmen,61,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.046860,51.267200
 Carmen,63,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.046887,51.267254
 Carmen,65,,,4564EW,Sint Jansteen,Hulst,Zeeland,VBO,4.046914,51.267299
