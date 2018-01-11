@@ -40,12 +40,6 @@ Ebbinge Wubbenlaan,17,,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205832,52.64
 Ebbinge Wubbenlaan,19,,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205528,52.648255
 Ebbinge Wubbenlaan,21,,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205540,52.648391
 Ebbinge Wubbenlaan,23,,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205460,52.648420
-Ebbinge Wubbenlaan,25,a,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205258,52.648631
-Ebbinge Wubbenlaan,25,b,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205316,52.648529
-Ebbinge Wubbenlaan,25,,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205357,52.648547
-Ebbinge Wubbenlaan,27,a,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205274,52.648508
-Ebbinge Wubbenlaan,27,b,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205148,52.648586
-Ebbinge Wubbenlaan,27,,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.205201,52.648605
 Ebbinge Wubbenlaan,29,,,7951AA,Staphorst,Staphorst,Overijssel,VBO,6.204045,52.649418
 Ebbinge Wubbenlaan,2,,,7951AB,Staphorst,Staphorst,Overijssel,VBO,6.208449,52.646693
 Ebbinge Wubbenlaan,4,a,,7951AB,Staphorst,Staphorst,Overijssel,VBO,6.208230,52.646849
@@ -157,6 +151,12 @@ John F Kennedystraat,20,,,7951AH,Staphorst,Staphorst,Overijssel,VBO,6.203167,52.
 John F Kennedystraat,22,,,7951AH,Staphorst,Staphorst,Overijssel,VBO,6.203000,52.647497
 John F Kennedystraat,24,,,7951AH,Staphorst,Staphorst,Overijssel,VBO,6.202730,52.647471
 John F Kennedystraat,26,,,7951AH,Staphorst,Staphorst,Overijssel,VBO,6.202707,52.647401
+Churchilllaan,1,a,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.205258,52.648631
+Churchilllaan,1,b,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.205357,52.648547
+Churchilllaan,1,c,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.205201,52.648605
+Churchilllaan,1,d,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.205316,52.648529
+Churchilllaan,1,e,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.205148,52.648586
+Churchilllaan,1,f,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.205274,52.648508
 Churchilllaan,1,,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.204773,52.648381
 Churchilllaan,2,,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.204325,52.648920
 Churchilllaan,3,,,7951AJ,Staphorst,Staphorst,Overijssel,VBO,6.204445,52.648201
@@ -1069,7 +1069,6 @@ Gemeenteweg,181,,,7951CJ,Staphorst,Staphorst,Overijssel,VBO,6.216484,52.649347
 Gemeenteweg,183,a,,7951CJ,Staphorst,Staphorst,Overijssel,VBO,6.215823,52.649743
 Gemeenteweg,183,,,7951CJ,Staphorst,Staphorst,Overijssel,VBO,6.215731,52.649696
 Gemeenteweg,185,,,7951CJ,Staphorst,Staphorst,Overijssel,VBO,6.215437,52.649921
-Gemeenteweg,187,,SLP,7951CJ,Staphorst,Staphorst,Overijssel,VBO,6.215499,52.649921
 Gemeenteweg,187,,,7951CJ,Staphorst,Staphorst,Overijssel,VBO,6.215483,52.650039
 Gemeenteweg,189,,,7951CJ,Staphorst,Staphorst,Overijssel,VBO,6.214363,52.650856
 Gemeenteweg,191,,,7951CJ,Staphorst,Staphorst,Overijssel,VBO,6.214927,52.650931
@@ -1098,6 +1097,7 @@ Gemeenteweg,217,a,,7951CK,Staphorst,Staphorst,Overijssel,VBO,6.218961,52.650638
 Gemeenteweg,217,,,7951CK,Staphorst,Staphorst,Overijssel,VBO,6.217681,52.651290
 Gemeenteweg,219,,,7951CK,Staphorst,Staphorst,Overijssel,VBO,6.218643,52.650963
 Gemeenteweg,221,,,7951CK,Staphorst,Staphorst,Overijssel,VBO,6.218446,52.650990
+Gemeenteweg,223,,,7951CK,Staphorst,Staphorst,Overijssel,VBO,6.218243,52.651228
 Gemeenteweg,223,,,7951CK,Staphorst,Staphorst,Overijssel,VBO,6.218248,52.651209
 Gemeenteweg,225,,,7951CK,Staphorst,Staphorst,Overijssel,VBO,6.217871,52.651530
 Gemeenteweg,227,,,7951CK,Staphorst,Staphorst,Overijssel,VBO,6.219332,52.650701
@@ -1136,8 +1136,7 @@ Egbert Vosland,6,,,7951CM,Staphorst,Staphorst,Overijssel,VBO,6.216891,52.650750
 Egbert Vosland,8,,,7951CM,Staphorst,Staphorst,Overijssel,VBO,6.216572,52.650944
 Egbert Vosland,10,,,7951CM,Staphorst,Staphorst,Overijssel,VBO,6.215656,52.651672
 Egbert Vosland,12,,,7951CM,Staphorst,Staphorst,Overijssel,VBO,6.215312,52.651909
-Egbert Vosland,14,,BIJ,7951CM,Staphorst,Staphorst,Overijssel,VBO,6.215142,52.652066
-Egbert Vosland,14,,,7951CM,Staphorst,Staphorst,Overijssel,VBO,6.215320,52.652109
+Egbert Vosland,14,,,7951CM,Staphorst,Staphorst,Overijssel,VBO,6.215142,52.652066
 Gemeenteweg,4,,,7951CN,Staphorst,Staphorst,Overijssel,VBO,6.203595,52.643734
 Gemeenteweg,6,,,7951CN,Staphorst,Staphorst,Overijssel,VBO,6.203781,52.643963
 Gemeenteweg,8,,,7951CN,Staphorst,Staphorst,Overijssel,VBO,6.204263,52.643554
@@ -1242,7 +1241,6 @@ Gemeenteweg,174,a,,7951CT,Staphorst,Staphorst,Overijssel,VBO,6.217468,52.649002
 Gemeenteweg,174,,,7951CT,Staphorst,Staphorst,Overijssel,VBO,6.217322,52.649122
 Gemeenteweg,176,,,7951CT,Staphorst,Staphorst,Overijssel,VBO,6.217524,52.649287
 Gemeenteweg,178,,,7951CT,Staphorst,Staphorst,Overijssel,VBO,6.217616,52.649450
-Gemeenteweg,180,a,,7951CT,Staphorst,Staphorst,Overijssel,VBO,6.218141,52.649306
 Gemeenteweg,180,b,,7951CT,Staphorst,Staphorst,Overijssel,VBO,6.218684,52.648984
 Gemeenteweg,180,,,7951CT,Staphorst,Staphorst,Overijssel,VBO,6.217995,52.649436
 Gemeenteweg,182,,,7951CT,Staphorst,Staphorst,Overijssel,VBO,6.218150,52.649674
@@ -1263,9 +1261,11 @@ Gemeenteweg,204,a,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.219391,52.649891
 Gemeenteweg,204,,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.219267,52.650015
 Gemeenteweg,206,a,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.220527,52.649022
 Gemeenteweg,206,,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.220417,52.649106
+Gemeenteweg,208,a,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.221035,52.648589
+Gemeenteweg,208,b,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.221145,52.648503
 Gemeenteweg,208,c,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.221586,52.648278
 Gemeenteweg,208,d,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.221713,52.648158
-Gemeenteweg,208,,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.221058,52.648574
+Gemeenteweg,208,,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.220930,52.648682
 Gemeenteweg,210,,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.220047,52.650094
 Gemeenteweg,212,,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.219977,52.650286
 Gemeenteweg,214,,,7951CV,Staphorst,Staphorst,Overijssel,VBO,6.221013,52.649312
@@ -1350,6 +1350,7 @@ Industrieweg,27,a,,7951CX,Staphorst,Staphorst,Overijssel,VBO,6.223066,52.638684
 Industrieweg,27,,,7951CX,Staphorst,Staphorst,Overijssel,VBO,6.223206,52.638617
 Industrieweg,28,a,,7951CX,Staphorst,Staphorst,Overijssel,VBO,6.220903,52.639944
 Industrieweg,28,b,,7951CX,Staphorst,Staphorst,Overijssel,VBO,6.221278,52.639620
+Industrieweg,28,c,,7951CX,Staphorst,Staphorst,Overijssel,VBO,6.220966,52.639802
 Industrieweg,28,,,7951CX,Staphorst,Staphorst,Overijssel,VBO,6.220546,52.639803
 Industrieweg,30,a,,7951CX,Staphorst,Staphorst,Overijssel,VBO,6.221283,52.639414
 Industrieweg,30,,,7951CX,Staphorst,Staphorst,Overijssel,VBO,6.221460,52.639492
@@ -1638,8 +1639,7 @@ Oude Rijksweg,220,a,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.188282,52.63593
 Oude Rijksweg,220,,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.188570,52.635720
 Oude Rijksweg,222,,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.187651,52.636430
 Oude Rijksweg,224,a,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.187371,52.636663
-Oude Rijksweg,224,,BIJ,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.187224,52.636774
-Oude Rijksweg,224,,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.186971,52.637116
+Oude Rijksweg,224,,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.187224,52.636774
 Oude Rijksweg,226,a,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.188212,52.635657
 Oude Rijksweg,226,,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.188345,52.635565
 Oude Rijksweg,228,,,7951DP,Staphorst,Staphorst,Overijssel,VBO,6.187854,52.635943
@@ -1800,6 +1800,7 @@ Oude Rijksweg,43,,,7951DX,Staphorst,Staphorst,Overijssel,VBO,6.200661,52.640874
 Oude Rijksweg,45,a,,7951DX,Staphorst,Staphorst,Overijssel,VBO,6.199700,52.641356
 Oude Rijksweg,45,b,,7951DX,Staphorst,Staphorst,Overijssel,VBO,6.199907,52.641223
 Oude Rijksweg,45,,,7951DX,Staphorst,Staphorst,Overijssel,VBO,6.199406,52.641579
+Geerligsweg,1,b,,7951DZ,Staphorst,Staphorst,Overijssel,VBO,6.198871,52.640630
 Geerligsweg,1,,,7951DZ,Staphorst,Staphorst,Overijssel,VBO,6.198384,52.640746
 Geerligsweg,2,a,,7951DZ,Staphorst,Staphorst,Overijssel,VBO,6.198143,52.640420
 Geerligsweg,2,,,7951DZ,Staphorst,Staphorst,Overijssel,VBO,6.198568,52.640112
@@ -1847,7 +1848,6 @@ Oude Rijksweg,89,,,7951EA,Staphorst,Staphorst,Overijssel,VBO,6.196363,52.639841
 Oude Rijksweg,91,,,7951EA,Staphorst,Staphorst,Overijssel,VBO,6.196936,52.639296
 Oude Rijksweg,93,a,,7951EB,Staphorst,Staphorst,Overijssel,VBO,6.196187,52.639716
 Oude Rijksweg,93,,,7951EB,Staphorst,Staphorst,Overijssel,VBO,6.196063,52.639803
-Oude Rijksweg,95,a,,7951EB,Staphorst,Staphorst,Overijssel,VBO,6.195926,52.639699
 Oude Rijksweg,95,b,,7951EB,Staphorst,Staphorst,Overijssel,VBO,6.196593,52.639281
 Oude Rijksweg,95,,,7951EB,Staphorst,Staphorst,Overijssel,VBO,6.195831,52.639777
 Oude Rijksweg,97,a,,7951EB,Staphorst,Staphorst,Overijssel,VBO,6.197094,52.638800
@@ -1888,6 +1888,7 @@ Middenwolderweg,5,b,,7951EC,Staphorst,Staphorst,Overijssel,VBO,6.194868,52.63795
 Middenwolderweg,5,c,,7951EC,Staphorst,Staphorst,Overijssel,VBO,6.195375,52.637975
 Middenwolderweg,5,,A1,7951EC,Staphorst,Staphorst,Overijssel,VBO,6.195358,52.638064
 Middenwolderweg,5,,,7951EC,Staphorst,Staphorst,Overijssel,VBO,6.195275,52.637773
+Middenwolderweg,6,,,7951EC,Staphorst,Staphorst,Overijssel,VBO,6.196029,52.636579
 Middenwolderweg,6,,,7951EC,Staphorst,Staphorst,Overijssel,VBO,6.196055,52.636621
 Middenwolderweg,7,,,7951EC,Staphorst,Staphorst,Overijssel,VBO,6.195579,52.637653
 Middenwolderweg,9,,,7951EC,Staphorst,Staphorst,Overijssel,VBO,6.195947,52.637482
@@ -2793,9 +2794,7 @@ Rijksparallelweg,33,,,7951KA,Staphorst,Staphorst,Overijssel,VBO,6.198989,52.6531
 Rijksparallelweg,35,,,7951KA,Staphorst,Staphorst,Overijssel,VBO,6.198741,52.654841
 Rijksparallelweg,37,a,,7951KA,Staphorst,Staphorst,Overijssel,VBO,6.197816,52.656345
 Rijksparallelweg,37,,,7951KA,Staphorst,Staphorst,Overijssel,VBO,6.198742,52.654906
-Rijksparallelweg,6,,,7951KB,Staphorst,Staphorst,Overijssel,VBO,6.200224,52.647178
 Rijksparallelweg,6,,,7951KB,Staphorst,Staphorst,Overijssel,VBO,6.200362,52.647296
-Rijksparallelweg,8,,,7951KB,Staphorst,Staphorst,Overijssel,VBO,6.200191,52.647674
 Rijksparallelweg,12,,,7951KB,Staphorst,Staphorst,Overijssel,VBO,6.200244,52.648099
 Rijksparallelweg,39,,,7951KB,Staphorst,Staphorst,Overijssel,VBO,6.196275,52.664551
 Rijksparallelweg,41,,,7951KB,Staphorst,Staphorst,Overijssel,VBO,6.196274,52.664596
@@ -2824,8 +2823,7 @@ Berggiersweg,8,,,7951KC,Staphorst,Staphorst,Overijssel,VBO,6.189232,52.678129
 Berggiersweg,10,a,,7951KC,Staphorst,Staphorst,Overijssel,VBO,6.187170,52.677809
 Berggiersweg,10,,,7951KC,Staphorst,Staphorst,Overijssel,VBO,6.188530,52.677993
 Berggiersweg,12,,,7951KC,Staphorst,Staphorst,Overijssel,VBO,6.187040,52.677819
-Berggiersweg,14,,BIJ,7951KC,Staphorst,Staphorst,Overijssel,VBO,6.186280,52.677690
-Berggiersweg,14,,,7951KC,Staphorst,Staphorst,Overijssel,VBO,6.186390,52.677742
+Berggiersweg,14,,,7951KC,Staphorst,Staphorst,Overijssel,VBO,6.186249,52.677645
 Kastanjelaan,1,a,1,7951KD,Staphorst,Staphorst,Overijssel,VBO,6.184349,52.677704
 Kastanjelaan,1,a,i,7951KD,Staphorst,Staphorst,Overijssel,VBO,6.184481,52.677706
 Kastanjelaan,1,a,,7951KD,Staphorst,Staphorst,Overijssel,VBO,6.184640,52.677755
@@ -2851,10 +2849,8 @@ Kastanjelaan,2,c,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.184680,52.678767
 Kastanjelaan,2,d,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.185076,52.678886
 Kastanjelaan,2,e,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.185433,52.678985
 Kastanjelaan,2,,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.185374,52.677780
-Kastanjelaan,4,a,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.185589,52.679744
 Kastanjelaan,4,a,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.185628,52.679734
 Kastanjelaan,4,,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.185733,52.679459
-Kastanjelaan,6,a,1,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.185123,52.680538
 Kastanjelaan,6,a,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.184664,52.681132
 Kastanjelaan,6,b,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.184355,52.681703
 Kastanjelaan,6,,,7951KE,Staphorst,Staphorst,Overijssel,VBO,6.185224,52.680365
@@ -2887,6 +2883,7 @@ Hamingen,6,,,7951KN,Staphorst,Staphorst,Overijssel,VBO,6.143058,52.672127
 Hamingen,8,a,,7951KN,Staphorst,Staphorst,Overijssel,VBO,6.143352,52.672324
 Hamingen,8,,,7951KN,Staphorst,Staphorst,Overijssel,VBO,6.143404,52.672158
 Hamingen,10,,,7951KN,Staphorst,Staphorst,Overijssel,VBO,6.143984,52.671984
+Hamingen,12,a,,7951KN,Staphorst,Staphorst,Overijssel,VBO,6.144343,52.672084
 Hamingen,12,,,7951KN,Staphorst,Staphorst,Overijssel,VBO,6.144246,52.672131
 Hamingerweg,1,,,7951KP,Staphorst,Staphorst,Overijssel,VBO,6.145618,52.666457
 Hamingerweg,2,a,,7951KP,Staphorst,Staphorst,Overijssel,VBO,6.147969,52.665732
@@ -2924,7 +2921,6 @@ Postweg,2,c,,7951KT,Staphorst,Staphorst,Overijssel,VBO,6.120473,52.653132
 Postweg,2,,,7951KT,Staphorst,Staphorst,Overijssel,VBO,6.120231,52.653668
 Postweg,4,,,7951KT,Staphorst,Staphorst,Overijssel,VBO,6.120249,52.652229
 Postweg,8,,,7951KT,Staphorst,Staphorst,Overijssel,VBO,6.116949,52.646416
-Rechterensweg,11,,,7951KV,Staphorst,Staphorst,Overijssel,VBO,6.139789,52.659061
 Rechterensweg,13,a,,7951KV,Staphorst,Staphorst,Overijssel,VBO,6.143233,52.660617
 Rechterensweg,13,,,7951KV,Staphorst,Staphorst,Overijssel,VBO,6.143323,52.660694
 Rechterensweg,15,a,,7951KV,Staphorst,Staphorst,Overijssel,VBO,6.145411,52.661685
@@ -3077,6 +3073,7 @@ d'Olde Dijk,13,a,,7951LE,Staphorst,Staphorst,Overijssel,VBO,6.191220,52.652467
 d'Olde Dijk,13,,,7951LE,Staphorst,Staphorst,Overijssel,VBO,6.191153,52.652443
 d'Olde Dijk,15,,,7951LE,Staphorst,Staphorst,Overijssel,VBO,6.191246,52.652816
 d'Olde Dijk,17,,,7951LE,Staphorst,Staphorst,Overijssel,VBO,6.191409,52.652809
+Maatslootweg,3,,,7951LG,Staphorst,Staphorst,Overijssel,VBO,6.221633,52.671399
 Maatslootweg,5,,,7951LG,Staphorst,Staphorst,Overijssel,VBO,6.220977,52.671524
 Beunteweg,1,a,,7951LH,Staphorst,Staphorst,Overijssel,VBO,6.227714,52.613801
 Beunteweg,1,,,7951LH,Staphorst,Staphorst,Overijssel,VBO,6.227404,52.613870
@@ -3104,6 +3101,7 @@ Westerparallelweg,16,a,,7951LL,Staphorst,Staphorst,Overijssel,VBO,6.223168,52.64
 Westerparallelweg,16,b,,7951LL,Staphorst,Staphorst,Overijssel,VBO,6.223024,52.641882
 Westerparallelweg,16,,,7951LL,Staphorst,Staphorst,Overijssel,VBO,6.223293,52.641707
 Westerparallelweg,18,a,,7951LL,Staphorst,Staphorst,Overijssel,VBO,6.223697,52.641163
+Westerparallelweg,18,a,,7951LL,Staphorst,Staphorst,Overijssel,VBO,6.223874,52.640978
 Westerparallelweg,18,,,7951LL,Staphorst,Staphorst,Overijssel,VBO,6.223516,52.641347
 Westerparallelweg,24,a,,7951LL,Staphorst,Staphorst,Overijssel,VBO,6.225983,52.638273
 Westerparallelweg,24,c,,7951LL,Staphorst,Staphorst,Overijssel,VBO,6.227211,52.637240
@@ -3560,6 +3558,8 @@ Akkerweg,2,,,7951NV,Staphorst,Staphorst,Overijssel,VBO,6.221029,52.645701
 Akkerweg,3,,,7951NV,Staphorst,Staphorst,Overijssel,VBO,6.225725,52.648165
 Akkerweg,4,,,7951NV,Staphorst,Staphorst,Overijssel,VBO,6.226241,52.647766
 Gemeenteweg,275,,,7951PA,Staphorst,Staphorst,Overijssel,VBO,6.222447,52.652004
+Gemeenteweg,277,b,,7951PA,Staphorst,Staphorst,Overijssel,VBO,6.221771,52.652637
+Gemeenteweg,277,c,,7951PA,Staphorst,Staphorst,Overijssel,VBO,6.221644,52.652762
 Gemeenteweg,277,,,7951PA,Staphorst,Staphorst,Overijssel,VBO,6.222082,52.652363
 Gemeenteweg,279,a,,7951PA,Staphorst,Staphorst,Overijssel,VBO,6.223052,52.651971
 Gemeenteweg,279,,,7951PA,Staphorst,Staphorst,Overijssel,VBO,6.223141,52.651858
@@ -4112,7 +4112,6 @@ Industrieweg,80,,,7951TA,Staphorst,Staphorst,Overijssel,VBO,6.230247,52.631873
 Industrieweg,82,,,7951TA,Staphorst,Staphorst,Overijssel,VBO,6.230502,52.631327
 Industrieweg,84,a,,7951TA,Staphorst,Staphorst,Overijssel,VBO,6.231032,52.630985
 Industrieweg,84,,,7951TA,Staphorst,Staphorst,Overijssel,VBO,6.231292,52.631131
-Albert Huismanstraat,2,a,,7951TB,Staphorst,Staphorst,Overijssel,VBO,6.223714,52.638411
 Albert Huismanstraat,2,,,7951TB,Staphorst,Staphorst,Overijssel,VBO,6.223601,52.638277
 Albert Huismanstraat,4,,,7951TB,Staphorst,Staphorst,Overijssel,VBO,6.224477,52.638367
 Albert Huismanstraat,6,,,7951TB,Staphorst,Staphorst,Overijssel,VBO,6.224580,52.638712
@@ -4497,16 +4496,20 @@ Haverveld,31,,,7951XK,Staphorst,Staphorst,Overijssel,VBO,6.222180,52.637097
 Haverveld,33,,,7951XK,Staphorst,Staphorst,Overijssel,VBO,6.222276,52.637149
 Haverveld,35,,,7951XK,Staphorst,Staphorst,Overijssel,VBO,6.222423,52.637200
 Haverveld,37,,,7951XK,Staphorst,Staphorst,Overijssel,VBO,6.222520,52.637251
+Ambachtsstraat,3,,,7951ZA,Staphorst,Staphorst,Overijssel,VBO,6.226571,52.641559
 Ambachtsstraat,5,,,7951ZA,Staphorst,Staphorst,Overijssel,VBO,6.227264,52.642004
 Ambachtsstraat,7,,,7951ZA,Staphorst,Staphorst,Overijssel,VBO,6.227845,52.642142
 Houtdraaier,21,,,7951ZB,Staphorst,Staphorst,Overijssel,VBO,6.221535,52.645324
 Houtdraaier,28,,,7951ZB,Staphorst,Staphorst,Overijssel,VBO,6.223547,52.646506
 Hoefsmid,2,,,7951ZC,Staphorst,Staphorst,Overijssel,VBO,6.225624,52.641202
+Hoefsmid,8,,,7951ZC,Staphorst,Staphorst,Overijssel,VBO,6.224783,52.641981
 Hoefsmid,10,,,7951ZC,Staphorst,Staphorst,Overijssel,VBO,6.224292,52.642512
 Hoefsmid,20,,,7951ZC,Staphorst,Staphorst,Overijssel,VBO,6.223189,52.643753
 Rietdekker,9,,,7951ZD,Staphorst,Staphorst,Overijssel,VBO,6.226334,52.643815
 Rietdekker,10,a,,7951ZD,Staphorst,Staphorst,Overijssel,VBO,6.226947,52.643613
 Rietdekker,10,,,7951ZD,Staphorst,Staphorst,Overijssel,VBO,6.227068,52.643456
+Klompenmaker,1,,,7951ZE,Staphorst,Staphorst,Overijssel,VBO,6.227273,52.642721
+Klompenmaker,3,,,7951ZE,Staphorst,Staphorst,Overijssel,VBO,6.227668,52.642949
 Klompenmaker,7,,,7951ZE,Staphorst,Staphorst,Overijssel,VBO,6.226617,52.643912
 Klompenmaker,27,,,7951ZE,Staphorst,Staphorst,Overijssel,VBO,6.223752,52.646655
 Kanaaldijk,2,,A1,7951ZZ,Staphorst,Staphorst,Overijssel,VBO,6.200023,52.675006

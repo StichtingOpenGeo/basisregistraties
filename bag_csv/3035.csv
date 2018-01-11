@@ -1,6 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Burgemeester Roosstraat,1,A,,3035AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479531,51.932576
 Burgemeester Roosstraat,1,B,,3035AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479597,51.932662
+Burgemeester Roosstraat,3,,,3035AA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479071,51.932554
 Burgemeester Roosstraat,25,A,,3035AB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479038,51.932098
 Burgemeester Roosstraat,25,B,BOL,3035AB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479038,51.932098
 Burgemeester Roosstraat,25,B,BOR,3035AB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.479038,51.932098
@@ -110,6 +111,8 @@ Burgemeester Roosstraat,52,D,,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.4787
 Burgemeester Roosstraat,52,E,,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478737,51.931539
 Burgemeester Roosstraat,52,F,,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478717,51.931474
 Burgemeester Roosstraat,54,,,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478688,51.931487
+Burgemeester Roosstraat,56,A,A,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478617,51.931419
+Burgemeester Roosstraat,56,A,V,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478623,51.931419
 Burgemeester Roosstraat,56,A,,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478688,51.931487
 Burgemeester Roosstraat,56,B,01AR,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478617,51.931419
 Burgemeester Roosstraat,56,B,01VR,3035AH,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.478617,51.931419
@@ -254,6 +257,8 @@ Zwart Janstraat,129,A,,3035AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475962,51.9
 Zwart Janstraat,129,B,,3035AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475962,51.934119
 Zwart Janstraat,131,A,,3035AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475880,51.934141
 Zwart Janstraat,131,B,,3035AP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475880,51.934141
+Zwart Janstraat,133,A,01,3035AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475801,51.934163
+Zwart Janstraat,133,A,02,3035AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475801,51.934163
 Zwart Janstraat,133,A,,3035AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475801,51.934163
 Zwart Janstraat,133,B,,3035AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475801,51.934163
 Zwart Janstraat,135,A,01,3035AR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475719,51.934185
@@ -838,21 +843,12 @@ Noordplein,233,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482883,51.929922
 Noordplein,235,A,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482860,51.929903
 Noordplein,235,B,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482860,51.929903
 Noordplein,235,C,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482860,51.929903
-Noordplein,239,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482763,51.929876
-Noordplein,241,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482763,51.929876
 Noordplein,241,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482875,51.929877
-Noordplein,243,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482833,51.929881
 Noordplein,243,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482853,51.929862
-Noordplein,245,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482689,51.929836
 Noordplein,245,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482817,51.929833
-Noordplein,247,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482689,51.929836
 Noordplein,247,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482792,51.929816
 Noordplein,249,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482766,51.929788
-Noordplein,249,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482783,51.929839
-Noordplein,251,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482635,51.929791
 Noordplein,251,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482743,51.929774
-Noordplein,253,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482635,51.929791
-Noordplein,255,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482730,51.929793
 Noordplein,257,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482657,51.929743
 Noordplein,259,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482617,51.929708
 Noordplein,261,,,3035EE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482519,51.929699
@@ -969,6 +965,7 @@ Noordsingel,107,,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.477963,51.931439
 Noordsingel,111,,K001,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.477620,51.931572
 Noordsingel,111,,K002,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.477620,51.931572
 Noordsingel,113,,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476809,51.931628
+Noordsingel,113,,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.477121,51.931535
 Noordsingel,115,A,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476904,51.932108
 Noordsingel,115,B,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476904,51.932108
 Noordsingel,115,C,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476904,51.932108
@@ -1004,6 +1001,7 @@ Noordsingel,117,G,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476904,51.93210
 Noordsingel,117,H,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476904,51.932108
 Noordsingel,117,J,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476904,51.932108
 Noordsingel,117,K,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476904,51.932108
+Noordsingel,117,,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476520,51.931759
 Noordsingel,117,,,3035EM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.476809,51.931628
 Noordsingel,121,,,3035EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475532,51.932020
 Noordsingel,123,A,,3035EN,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.475472,51.932042
@@ -1439,6 +1437,7 @@ Zaagmolenstraat,80,,,3035HD,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482633,51.934
 Zaagmolenstraat,82,,,3035HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482633,51.934546
 Zaagmolenstraat,84,A,,3035HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482575,51.934582
 Zaagmolenstraat,84,B,,3035HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482575,51.934582
+Zaagmolenstraat,86,A,,3035HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482502,51.934594
 Zaagmolenstraat,86,,,3035HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482502,51.934594
 Zaagmolenstraat,88,,,3035HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482439,51.934605
 Zaagmolenstraat,90,A,,3035HE,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482366,51.934618
@@ -2576,6 +2575,7 @@ Jacob Catsstraat,43,A,,3035PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482037,51.9
 Jacob Catsstraat,43,B,,3035PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.482037,51.933704
 Jacob Catsstraat,45,A,,3035PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481997,51.933662
 Jacob Catsstraat,45,B,,3035PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481997,51.933662
+Jacob Catsstraat,45,,,3035PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481997,51.933662
 Jacob Catsstraat,47,A,,3035PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481958,51.933620
 Jacob Catsstraat,47,B,,3035PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481958,51.933620
 Jacob Catsstraat,49,A,,3035PC,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481919,51.933580
@@ -2771,14 +2771,19 @@ Jacob Catsstraat,82,,,3035PR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481153,51.93
 Jacob Catsstraat,84,,,3035PR,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.481078,51.932355
 Jacob Catsstraat,86,B,01,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480854,51.932079
 Jacob Catsstraat,86,B,02,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480854,51.932079
+Jacob Catsstraat,88,A,01,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
+Jacob Catsstraat,88,A,02,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
 Jacob Catsstraat,88,A,,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
+Jacob Catsstraat,88,B,01,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
 Jacob Catsstraat,88,B,01L,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
 Jacob Catsstraat,88,B,01R,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
+Jacob Catsstraat,88,B,02,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
 Jacob Catsstraat,88,B,02L,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
 Jacob Catsstraat,88,B,02R,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
 Jacob Catsstraat,88,C,,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480805,51.932029
 Jacob Catsstraat,92,A,01,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480748,51.931969
 Jacob Catsstraat,92,A,02,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480748,51.931969
+Jacob Catsstraat,92,A,,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480748,51.931969
 Jacob Catsstraat,92,B,,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480748,51.931969
 Jacob Catsstraat,94,A,01,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480708,51.931930
 Jacob Catsstraat,94,A,02,3035PS,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.480708,51.931930

@@ -18,6 +18,7 @@ Amsteldijk,319,,,1083AB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.897993,52.330484
 Amsteldijk,320,,,1083AB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.897465,52.330437
 Amsteldijk,355,,,1083AB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.895074,52.322455
 De Borcht,2,,,1083AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.890810,52.323443
+De Borcht,3,,,1083AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.891097,52.323887
 De Borcht,3,,,1083AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.891112,52.323930
 De Borcht,4,,,1083AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.891117,52.323552
 De Borcht,6,,,1083AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.891511,52.323689
@@ -28,7 +29,6 @@ Europaboulevard,6,,,1083AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.890336,52.336
 Europaboulevard,8,,,1083AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889546,52.336021
 Europaboulevard,10,,,1083AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889096,52.333700
 Europaboulevard,24,,,1083AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889599,52.328058
-Europaboulevard,30,,,1083AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.888745,52.327075
 Europaboulevard,55,,,1083AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.890637,52.324422
 Europaboulevard,57,,,1083AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.890772,52.324180
 Europaboulevard,59,,,1083AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.890655,52.323896
@@ -245,8 +245,8 @@ Nederhoven,34,,,1083AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.884105,52.323595
 Van Boshuizenstraat,1,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889209,52.324875
 Van Boshuizenstraat,3,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889180,52.324866
 Van Boshuizenstraat,5,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889180,52.324866
-Van Boshuizenstraat,7,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889180,52.324866
-Van Boshuizenstraat,9,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889180,52.324866
+Van Boshuizenstraat,7,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889146,52.324852
+Van Boshuizenstraat,9,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889146,52.324847
 Van Boshuizenstraat,11,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889180,52.324857
 Van Boshuizenstraat,13,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889180,52.324857
 Van Boshuizenstraat,15,,,1083AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.889180,52.324857
@@ -2000,7 +2000,9 @@ Van Nijenrodeweg,94,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.883971,52.3
 Van Nijenrodeweg,95,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.883971,52.327594
 Van Nijenrodeweg,96,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.883971,52.327594
 Van Nijenrodeweg,97,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.883986,52.327594
+Van Nijenrodeweg,98,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.883979,52.327584
 Van Nijenrodeweg,99,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.883986,52.327594
+Van Nijenrodeweg,99,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.883988,52.327585
 Van Nijenrodeweg,100,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.883986,52.327603
 Van Nijenrodeweg,101,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.884001,52.327603
 Van Nijenrodeweg,102,,,1083EG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.884001,52.327603
@@ -2683,6 +2685,224 @@ De Boelelaan,27,,,1083HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.885227,52.33443
 De Boelelaan,28,,,1083HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.886731,52.335281
 De Boelelaan,30,,,1083HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.886218,52.335180
 De Boelelaan,32,,,1083HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.885677,52.335025
+Beethovenstraat,305,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877213,52.338070
+Beethovenstraat,309,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877440,52.337887
+Beethovenstraat,311,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877476,52.337890
+Beethovenstraat,313,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877510,52.337892
+Beethovenstraat,315,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877537,52.337893
+Beethovenstraat,317,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877569,52.337893
+Beethovenstraat,319,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877601,52.337893
+Beethovenstraat,321,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877633,52.337892
+Beethovenstraat,323,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877667,52.337894
+Beethovenstraat,325,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877696,52.337895
+Beethovenstraat,327,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877728,52.337893
+Beethovenstraat,329,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877760,52.337897
+Beethovenstraat,331,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877794,52.337897
+Beethovenstraat,333,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877440,52.337863
+Beethovenstraat,335,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877474,52.337864
+Beethovenstraat,337,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877506,52.337863
+Beethovenstraat,339,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877535,52.337866
+Beethovenstraat,341,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877567,52.337866
+Beethovenstraat,343,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877604,52.337868
+Beethovenstraat,345,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877640,52.337868
+Beethovenstraat,347,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877675,52.337868
+Beethovenstraat,349,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877704,52.337871
+Beethovenstraat,351,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877733,52.337870
+Beethovenstraat,353,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877760,52.337872
+Beethovenstraat,355,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877792,52.337872
+Beethovenstraat,357,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877435,52.337840
+Beethovenstraat,359,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877475,52.337841
+Beethovenstraat,361,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877509,52.337845
+Beethovenstraat,363,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877543,52.337845
+Beethovenstraat,365,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877567,52.337847
+Beethovenstraat,367,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877604,52.337844
+Beethovenstraat,369,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877638,52.337843
+Beethovenstraat,371,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877680,52.337846
+Beethovenstraat,373,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877709,52.337846
+Beethovenstraat,375,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877743,52.337849
+Beethovenstraat,377,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877773,52.337849
+Beethovenstraat,379,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877438,52.337822
+Beethovenstraat,381,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877472,52.337823
+Beethovenstraat,383,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877504,52.337823
+Beethovenstraat,385,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877541,52.337823
+Beethovenstraat,387,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877575,52.337821
+Beethovenstraat,389,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877607,52.337822
+Beethovenstraat,391,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877636,52.337823
+Beethovenstraat,393,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877670,52.337823
+Beethovenstraat,395,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877704,52.337827
+Beethovenstraat,397,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877736,52.337827
+Beethovenstraat,399,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877768,52.337828
+Beethovenstraat,401,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877795,52.337828
+Beethovenstraat,403,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877438,52.337806
+Beethovenstraat,405,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877472,52.337805
+Beethovenstraat,407,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877502,52.337803
+Beethovenstraat,409,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877531,52.337803
+Beethovenstraat,411,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877563,52.337805
+Beethovenstraat,413,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877595,52.337805
+Beethovenstraat,415,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877624,52.337805
+Beethovenstraat,417,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877653,52.337810
+Beethovenstraat,419,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877683,52.337808
+Beethovenstraat,421,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877717,52.337810
+Beethovenstraat,423,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877749,52.337809
+Beethovenstraat,425,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877780,52.337807
+Beethovenstraat,427,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877436,52.337788
+Beethovenstraat,429,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877465,52.337790
+Beethovenstraat,431,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877495,52.337788
+Beethovenstraat,433,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877526,52.337787
+Beethovenstraat,435,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877556,52.337784
+Beethovenstraat,437,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877590,52.337784
+Beethovenstraat,439,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877627,52.337783
+Beethovenstraat,441,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877654,52.337784
+Beethovenstraat,443,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877685,52.337788
+Beethovenstraat,445,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877715,52.337788
+Beethovenstraat,447,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877744,52.337789
+Beethovenstraat,449,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877771,52.337789
+Beethovenstraat,451,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877439,52.337765
+Beethovenstraat,453,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877473,52.337769
+Beethovenstraat,455,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877505,52.337766
+Beethovenstraat,457,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877544,52.337770
+Beethovenstraat,459,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877578,52.337766
+Beethovenstraat,461,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877607,52.337766
+Beethovenstraat,463,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877634,52.337766
+Beethovenstraat,465,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877671,52.337768
+Beethovenstraat,467,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877700,52.337770
+Beethovenstraat,469,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877730,52.337771
+Beethovenstraat,471,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877759,52.337770
+Beethovenstraat,473,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877436,52.337748
+Beethovenstraat,475,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877471,52.337748
+Beethovenstraat,477,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877502,52.337746
+Beethovenstraat,479,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877532,52.337749
+Beethovenstraat,481,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877559,52.337751
+Beethovenstraat,485,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877414,52.338000
+Beethovenstraat,489,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877573,52.338006
+Beethovenstraat,493,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877607,52.338006
+Beethovenstraat,497,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877370,52.338000
+Beethovenstraat,503,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877641,52.338004
+Beethovenstraat,505,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877328,52.337996
+Beethovenstraat,509,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877289,52.337994
+Beethovenstraat,513,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877339,52.337726
+Beethovenstraat,515,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877338,52.337636
+Beethovenstraat,529,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877372,52.337638
+Beethovenstraat,531,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877401,52.337640
+Beethovenstraat,533,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877425,52.337640
+Beethovenstraat,535,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877340,52.337618
+Beethovenstraat,537,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877679,52.337259
+Beethovenstraat,541,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877711,52.337261
+Beethovenstraat,545,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877740,52.337262
+Beethovenstraat,547,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877770,52.337262
+Beethovenstraat,549,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877789,52.337265
+Beethovenstraat,551,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877821,52.337263
+Beethovenstraat,553,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877165,52.337769
+Beethovenstraat,557,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877144,52.337667
+Beethovenstraat,559,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877166,52.337667
+Beethovenstraat,561,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877190,52.337667
+Beethovenstraat,563,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877210,52.337667
+Beethovenstraat,565,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877234,52.337670
+Beethovenstraat,567,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877259,52.337670
+Beethovenstraat,569,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877142,52.337649
+Beethovenstraat,571,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877166,52.337649
+Beethovenstraat,573,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877188,52.337649
+Beethovenstraat,575,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877205,52.337649
+Beethovenstraat,577,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877225,52.337651
+Beethovenstraat,579,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877242,52.337652
+Beethovenstraat,581,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877262,52.337651
+Beethovenstraat,583,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877144,52.337631
+Beethovenstraat,585,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877162,52.337631
+Beethovenstraat,587,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877176,52.337631
+Beethovenstraat,589,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877196,52.337634
+Beethovenstraat,591,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877215,52.337634
+Beethovenstraat,593,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877235,52.337634
+Beethovenstraat,595,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877257,52.337637
+Beethovenstraat,597,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877137,52.337619
+Beethovenstraat,599,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877159,52.337618
+Beethovenstraat,601,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877181,52.337616
+Beethovenstraat,603,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877201,52.337618
+Beethovenstraat,605,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877223,52.337624
+Beethovenstraat,607,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877245,52.337621
+Beethovenstraat,609,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877147,52.337600
+Beethovenstraat,611,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877172,52.337603
+Beethovenstraat,613,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877196,52.337603
+Beethovenstraat,615,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877221,52.337603
+Beethovenstraat,617,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877243,52.337603
+Beethovenstraat,619,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877155,52.337586
+Beethovenstraat,621,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877182,52.337588
+Beethovenstraat,623,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877206,52.337586
+Beethovenstraat,625,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877226,52.337589
+Beethovenstraat,627,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877167,52.337573
+Beethovenstraat,629,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877192,52.337573
+Beethovenstraat,633,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877312,52.337299
+Beethovenstraat,635,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877397,52.337162
+Beethovenstraat,637,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877424,52.337166
+Beethovenstraat,639,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877450,52.337173
+Beethovenstraat,641,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877477,52.337176
+Beethovenstraat,643,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877502,52.337176
+Beethovenstraat,645,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877529,52.337177
+Beethovenstraat,647,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877555,52.337176
+Beethovenstraat,649,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877582,52.337178
+Beethovenstraat,651,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877397,52.337145
+Beethovenstraat,653,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877419,52.337150
+Beethovenstraat,655,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877443,52.337156
+Beethovenstraat,657,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877470,52.337159
+Beethovenstraat,659,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877495,52.337158
+Beethovenstraat,661,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877524,52.337159
+Beethovenstraat,663,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877548,52.337161
+Beethovenstraat,665,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877575,52.337163
+Beethovenstraat,667,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877409,52.337130
+Beethovenstraat,669,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877431,52.337137
+Beethovenstraat,671,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877458,52.337141
+Beethovenstraat,673,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877480,52.337144
+Beethovenstraat,675,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877509,52.337144
+Beethovenstraat,677,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877536,52.337144
+Beethovenstraat,679,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877563,52.337146
+Beethovenstraat,681,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877585,52.337146
+Beethovenstraat,683,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877419,52.337114
+Beethovenstraat,685,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877444,52.337117
+Beethovenstraat,687,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877466,52.337123
+Beethovenstraat,689,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877492,52.337125
+Beethovenstraat,691,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877517,52.337128
+Beethovenstraat,693,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877536,52.337128
+Beethovenstraat,695,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877556,52.337130
+Beethovenstraat,697,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877578,52.337131
+Beethovenstraat,699,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877427,52.337096
+Beethovenstraat,701,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877456,52.337102
+Beethovenstraat,703,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877483,52.337108
+Beethovenstraat,705,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877505,52.337111
+Beethovenstraat,707,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877529,52.337113
+Beethovenstraat,709,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877551,52.337113
+Beethovenstraat,711,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877568,52.337116
+Beethovenstraat,713,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877588,52.337118
+Beethovenstraat,715,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877437,52.337081
+Beethovenstraat,717,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877464,52.337086
+Beethovenstraat,721,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877490,52.337093
+Beethovenstraat,723,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877515,52.337096
+Beethovenstraat,725,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877539,52.337098
+Beethovenstraat,727,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877561,52.337101
+Beethovenstraat,729,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877583,52.337100
+Beethovenstraat,731,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877447,52.337065
+Beethovenstraat,733,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877469,52.337071
+Beethovenstraat,735,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877496,52.337075
+Beethovenstraat,737,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877517,52.337082
+Beethovenstraat,739,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877539,52.337082
+Beethovenstraat,741,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877561,52.337086
+Beethovenstraat,743,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877583,52.337083
+Beethovenstraat,745,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877449,52.337050
+Beethovenstraat,747,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877471,52.337056
+Beethovenstraat,749,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877493,52.337060
+Beethovenstraat,751,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877513,52.337068
+Beethovenstraat,753,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877535,52.337068
+Beethovenstraat,755,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877559,52.337070
+Beethovenstraat,757,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877579,52.337070
+Beethovenstraat,759,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877457,52.337036
+Beethovenstraat,761,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877479,52.337041
+Beethovenstraat,763,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877501,52.337044
+Beethovenstraat,765,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877525,52.337049
+Beethovenstraat,767,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877547,52.337055
+Beethovenstraat,769,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877569,52.337056
+Beethovenstraat,771,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877469,52.337021
+Beethovenstraat,773,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877489,52.337029
+Beethovenstraat,775,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877513,52.337034
+Beethovenstraat,779,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877535,52.337037
+Beethovenstraat,781,,,1083HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.877544,52.336926
 De Klencke,10,,,1083HL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.885522,52.334163
 De Klencke,12,,,1083HL,Amsterdam,Amsterdam,Noord-Holland,VBO,4.885522,52.334163
 Tommaso Albinonistraat,1,,,1083HM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.886922,52.335246
@@ -3652,6 +3872,7 @@ Antonio Vivaldistraat,60,,,1083HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.885449
 Antonio Vivaldistraat,66,,,1083HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.885468,52.335847
 Antonio Vivaldistraat,148,,,1083HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.884637,52.337447
 Antonio Vivaldistraat,150,,,1083HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.884722,52.337780
+Maurice Ravellaan,4,,,1083HR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.882131,52.337088
 Amstelpark,1,,,1083HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.891467,52.331580
 Amstelpark,2,A,,1083HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.892911,52.332377
 Amstelpark,2,B,,1083HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.893238,52.331965

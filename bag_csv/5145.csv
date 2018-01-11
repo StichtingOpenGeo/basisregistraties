@@ -13,6 +13,7 @@ Kleiweg,26,,,5145NB,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.047129,51.697214
 Kleiweg,28,,,5145NB,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.047084,51.697466
 Pompweg,1,,,5145NC,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.041017,51.705262
 Mechie Trommelenweg,1,,,5145ND,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.066249,51.703581
+Mechie Trommelenweg,10,,,5145ND,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.063636,51.701924
 Spuiweg,2,,,5145NE,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.049939,51.696620
 Spuiweg,3,,,5145NE,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.050884,51.696002
 Spuiweg,4,,,5145NE,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.049970,51.696431
@@ -58,8 +59,7 @@ Spuiweg,26,,,5145NE,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.042890,51.695404
 Spuiweg,28,,,5145NE,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.041921,51.695455
 Pakketweg,2,,,5145NG,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.066249,51.703581
 Havenweg,1,,,5145NJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.053026,51.693878
-Havenweg,2,a,,5145NJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.053046,51.694833
-Havenweg,2,,,5145NJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.053172,51.694611
+Havenweg,2,,,5145NJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.052933,51.694580
 Havenweg,4,,,5145NJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.051958,51.694499
 Havenweg,6,,,5145NJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.051460,51.694405
 Havenweg,7,,,5145NJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.049614,51.693680
@@ -100,7 +100,7 @@ Vijzelweg,10,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.044435,51.697710
 Vijzelweg,11,a,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.048849,51.697372
 Vijzelweg,11,b,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.048879,51.697165
 Vijzelweg,11,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.048819,51.697543
-Vijzelweg,12,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.043870,51.697726
+Vijzelweg,12,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.043818,51.697770
 Vijzelweg,13,a,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.048659,51.697560
 Vijzelweg,13,b,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.048705,51.697300
 Vijzelweg,13,c,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.048703,51.696947
@@ -121,7 +121,7 @@ Vijzelweg,19,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.044309,51.697143
 Vijzelweg,21,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.043426,51.697239
 Vijzelweg,23,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.042761,51.697138
 Vijzelweg,25,c,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.042211,51.697182
-Vijzelweg,25,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.042197,51.697173
+Vijzelweg,25,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.042232,51.697038
 Vijzelweg,27,d,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.041645,51.696367
 Vijzelweg,27,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.041551,51.697025
 Vijzelweg,29,,,5145NK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.041089,51.697113
@@ -345,7 +345,6 @@ Industrieweg,45,a,,5145PD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.059079,51.699799
 Industrieweg,45,b,,5145PD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.059243,51.700179
 Industrieweg,45,,,5145PD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.059172,51.699632
 Industrieweg,47,a,,5145PD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.060003,51.699750
-Industrieweg,47,,,5145PD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.059886,51.699300
 Industrieweg,47,,,5145PD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.060081,51.699411
 Industrieweg,51,a,,5145PD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.060835,51.699769
 Industrieweg,51,,,5145PD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.060865,51.699486
@@ -557,10 +556,11 @@ Tielenstraat,7,,,5145RC,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.036690,51.694774
 Tielenstraat,9,,,5145RC,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.036144,51.694711
 Tielenstraat,11,,,5145RC,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.035610,51.694666
 Tielenstraat,13,,,5145RC,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.035056,51.694597
-Tielenstraat,17,,,5145RC,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.033820,51.694471
+Tielenstraat,17,,,5145RC,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.033841,51.694342
 Tielenstraat,19,,,5145RC,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.032684,51.694380
 Tielenstraat,2,,,5145RD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.037445,51.695616
 Tielenstraat,10,,,5145RD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.036174,51.695425
+Tielenstraat,12,,,5145RD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.033376,51.695393
 Tielenstraat,14,,,5145RD,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.032608,51.695274
 van Schijndelstraat,5,,,5145RE,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.036421,51.696165
 van Schijndelstraat,7,,,5145RE,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.035149,51.696095
@@ -573,10 +573,12 @@ van Harenstraat,1,,,5145RH,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.035848,51.70002
 van Harenstraat,3,,,5145RH,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.031774,51.700081
 van Harenstraat,2,,,5145RJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.037420,51.701347
 van Harenstraat,4,,,5145RJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.036389,51.701249
+van Harenstraat,6,,,5145RJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.034846,51.701209
 van Harenstraat,8,,,5145RJ,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.033385,51.701245
 van Hilststraat,1,,,5145RK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.036101,51.701822
 van Hilststraat,5,,,5145RK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.035828,51.703266
 van Hilststraat,7,,,5145RK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.035781,51.704027
+van Hilststraat,19,,,5145RK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.036740,51.705097
 van Hilststraat,21,,,5145RK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.032491,51.704932
 van Hilststraat,23,,,5145RK,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.031216,51.701068
 van Hilststraat,4,,,5145RL,Waalwijk,Waalwijk,Noord-Brabant,VBO,5.035191,51.701574

@@ -72,6 +72,7 @@ Burg. de Kuijperlaan,6,,62,5461AA,Veghel,Meierijstad,Noord-Brabant,VBO,5.539568,
 Burg. de Kuijperlaan,6,,7,5461AA,Veghel,Meierijstad,Noord-Brabant,VBO,5.539942,51.618654
 Burg. de Kuijperlaan,6,,8,5461AA,Veghel,Meierijstad,Noord-Brabant,VBO,5.539996,51.618637
 Burg. de Kuijperlaan,6,,9,5461AA,Veghel,Meierijstad,Noord-Brabant,VBO,5.539614,51.618710
+Burg. de Kuijperlaan,6,,,5461AA,Veghel,Meierijstad,Noord-Brabant,VBO,5.539780,51.618611
 Burg. de Kuijperlaan,7,,,5461AA,Veghel,Meierijstad,Noord-Brabant,VBO,5.540758,51.621159
 Burg. de Kuijperlaan,10,,,5461AA,Veghel,Meierijstad,Noord-Brabant,VBO,5.538876,51.619696
 Burg. de Kuijperlaan,12,,,5461AB,Veghel,Meierijstad,Noord-Brabant,VBO,5.539862,51.621160
@@ -441,47 +442,74 @@ Molenbeemden,98,,,5461BE,Veghel,Meierijstad,Noord-Brabant,VBO,5.540690,51.618755
 Molenbeemden,100,,,5461BE,Veghel,Meierijstad,Noord-Brabant,VBO,5.540232,51.619535
 Molenbeemden,102,,,5461BE,Veghel,Meierijstad,Noord-Brabant,VBO,5.540706,51.618740
 Molenbeemden,104,,,5461BE,Veghel,Meierijstad,Noord-Brabant,VBO,5.540304,51.619290
-Zwijsenhof,14,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538813,51.619579
-Zwijsenhof,15,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538868,51.619601
-Zwijsenhof,16,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538944,51.619637
-Zwijsenhof,17,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539020,51.619673
-Zwijsenhof,38,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538762,51.619643
-Zwijsenhof,39,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538805,51.619669
-Zwijsenhof,40,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538893,51.619700
-Zwijsenhof,41,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538959,51.619737
-Zwijsenhof,42,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539169,51.619718
-Zwijsenhof,43,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539229,51.619661
-Zwijsenhof,44,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539268,51.619629
-Zwijsenhof,45,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539332,51.619567
-Zwijsenhof,46,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539344,51.619493
-Zwijsenhof,47,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539480,51.619450
-Zwijsenhof,48,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539072,51.619102
-Zwijsenhof,49,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539182,51.619095
-Zwijsenhof,50,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539278,51.619149
-Zwijsenhof,51,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539391,51.619198
-Zwijsenhof,52,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539554,51.619275
-Zwijsenhof,53,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539083,51.619069
-Zwijsenhof,54,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539159,51.619086
-Zwijsenhof,55,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539230,51.619153
-Zwijsenhof,56,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539314,51.619177
-Zwijsenhof,57,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539374,51.619212
-Zwijsenhof,58,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539495,51.619258
+Zwijsenhof,1,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539606,51.619944
+Zwijsenhof,2,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539521,51.619895
+Zwijsenhof,3,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539443,51.619857
+Zwijsenhof,4,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539360,51.619826
+Zwijsenhof,5,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539296,51.619800
+Zwijsenhof,6,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539223,51.619768
+Zwijsenhof,7,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539553,51.619970
+Zwijsenhof,8,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539485,51.619936
+Zwijsenhof,9,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539409,51.619906
+Zwijsenhof,10,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539342,51.619872
+Zwijsenhof,11,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539261,51.619836
+Zwijsenhof,12,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539187,51.619807
+Zwijsenhof,13,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539064,51.619798
+Zwijsenhof,14,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538997,51.619699
+Zwijsenhof,15,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538941,51.619676
+Zwijsenhof,16,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538877,51.619647
+Zwijsenhof,17,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538789,51.619607
+Zwijsenhof,18,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538656,51.619660
+Zwijsenhof,19,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538561,51.619750
+Zwijsenhof,20,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538449,51.619771
+Zwijsenhof,21,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538486,51.619740
+Zwijsenhof,22,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538530,51.619696
+Zwijsenhof,23,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538592,51.619644
+Zwijsenhof,24,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538442,51.619683
+Zwijsenhof,25,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538518,51.619620
+Zwijsenhof,26,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538567,51.619567
+Zwijsenhof,27,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538656,51.619493
+Zwijsenhof,28,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538731,51.619428
+Zwijsenhof,29,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538825,51.619466
+Zwijsenhof,30,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538765,51.619527
+Zwijsenhof,38,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538757,51.619649
+Zwijsenhof,39,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538841,51.619685
+Zwijsenhof,40,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538897,51.619716
+Zwijsenhof,41,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538964,51.619747
+Zwijsenhof,42,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539188,51.619702
+Zwijsenhof,43,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539238,51.619656
+Zwijsenhof,44,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539285,51.619613
+Zwijsenhof,45,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539350,51.619558
+Zwijsenhof,46,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539341,51.619485
+Zwijsenhof,47,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539404,51.619426
+Zwijsenhof,48,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539103,51.619094
+Zwijsenhof,49,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539139,51.619108
+Zwijsenhof,50,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539262,51.619165
+Zwijsenhof,51,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539371,51.619213
+Zwijsenhof,52,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539529,51.619281
+Zwijsenhof,53,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539084,51.619115
+Zwijsenhof,54,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539121,51.619130
+Zwijsenhof,55,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539183,51.619157
+Zwijsenhof,56,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539291,51.619205
+Zwijsenhof,57,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539375,51.619243
+Zwijsenhof,58,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539476,51.619287
 Zwijsenhof,59,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539569,51.619295
-Zwijsenhof,62,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539241,51.619130
-Zwijsenhof,63,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539328,51.619172
-Zwijsenhof,64,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539405,51.619205
-Zwijsenhof,65,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539501,51.619244
-Zwijsenhof,66,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539701,51.619342
-Zwijsenhof,67,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539639,51.619340
-Zwijsenhof,68,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539718,51.619373
-Zwijsenhof,69,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539528,51.619366
-Zwijsenhof,70,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539513,51.619376
-Zwijsenhof,71,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539495,51.619404
-Zwijsenhof,72,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539444,51.619440
-Zwijsenhof,73,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539413,51.619482
-Zwijsenhof,74,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539341,51.619557
-Zwijsenhof,75,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539259,51.619612
-Zwijsenhof,76,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539169,51.619699
+Zwijsenhof,61,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539125,51.619070
+Zwijsenhof,62,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539231,51.619116
+Zwijsenhof,63,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539338,51.619165
+Zwijsenhof,64,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539425,51.619204
+Zwijsenhof,65,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539524,51.619248
+Zwijsenhof,66,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539727,51.619338
+Zwijsenhof,67,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539702,51.619359
+Zwijsenhof,68,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539680,51.619379
+Zwijsenhof,69,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539548,51.619388
+Zwijsenhof,70,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539530,51.619374
+Zwijsenhof,71,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539469,51.619425
+Zwijsenhof,72,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539395,51.619489
+Zwijsenhof,73,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539327,51.619549
+Zwijsenhof,74,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539268,51.619603
+Zwijsenhof,75,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539216,51.619650
+Zwijsenhof,76,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.539162,51.619697
 Zwijsenhof,80,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538167,51.619837
 Zwijsenhof,81,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538117,51.619883
 Zwijsenhof,82,,,5461BG,Veghel,Meierijstad,Noord-Brabant,VBO,5.538071,51.619918
@@ -2052,8 +2080,8 @@ Stationsstraat,32,A,,5461JV,Veghel,Meierijstad,Noord-Brabant,VBO,5.545208,51.620
 Stationsstraat,32,,,5461JV,Veghel,Meierijstad,Noord-Brabant,VBO,5.545375,51.620011
 Stationsstraat,34,,,5461JV,Veghel,Meierijstad,Noord-Brabant,VBO,5.545173,51.620227
 Stationsstraat,36,,,5461JW,Veghel,Meierijstad,Noord-Brabant,VBO,5.544892,51.620336
-Stationsstraat,42,A,,5461JW,Veghel,Meierijstad,Noord-Brabant,VBO,5.545073,51.620524
-Stationsstraat,42,,,5461JW,Veghel,Meierijstad,Noord-Brabant,VBO,5.545035,51.620515
+Stationsstraat,42,A,,5461JW,Veghel,Meierijstad,Noord-Brabant,VBO,5.545048,51.620558
+Stationsstraat,42,,,5461JW,Veghel,Meierijstad,Noord-Brabant,VBO,5.545086,51.620551
 Stationsstraat,44,A,,5461JW,Veghel,Meierijstad,Noord-Brabant,VBO,5.544970,51.620874
 Stationsstraat,44,,,5461JW,Veghel,Meierijstad,Noord-Brabant,VBO,5.544929,51.620686
 Stationsstraat,46,,,5461JW,Veghel,Meierijstad,Noord-Brabant,VBO,5.544910,51.621221
@@ -2421,7 +2449,8 @@ Stadhuisplein,86,,,5461KS,Veghel,Meierijstad,Noord-Brabant,VBO,5.547198,51.61518
 Stadhuisplein,88,,,5461KS,Veghel,Meierijstad,Noord-Brabant,VBO,5.547086,51.615419
 Stadhuisplein,96,,,5461KS,Veghel,Meierijstad,Noord-Brabant,VBO,5.547185,51.615348
 Stadhuisplein,98,,,5461KS,Veghel,Meierijstad,Noord-Brabant,VBO,5.547186,51.615367
-Stadhuisplein,100,,,5461KS,Veghel,Meierijstad,Noord-Brabant,VBO,5.547118,51.615688
+Stadhuisplein,100,A,,5461KS,Veghel,Meierijstad,Noord-Brabant,VBO,5.547187,51.615676
+Stadhuisplein,100,,,5461KS,Veghel,Meierijstad,Noord-Brabant,VBO,5.547114,51.615677
 Franciscanessenlaan,1,,,5461KV,Veghel,Meierijstad,Noord-Brabant,VBO,5.544263,51.617401
 Franciscanessenlaan,3,,,5461KV,Veghel,Meierijstad,Noord-Brabant,VBO,5.544281,51.617513
 Franciscanessenlaan,5,,,5461KV,Veghel,Meierijstad,Noord-Brabant,VBO,5.544281,51.617601
@@ -2580,8 +2609,6 @@ Middegaal,31,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.536886,51.627624
 Middegaal,33,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.536827,51.627672
 Middegaal,35,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.536736,51.627753
 Middegaal,37,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.536607,51.627834
-Middegaal,39,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.541700,51.627739
-Middegaal,41,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.542057,51.627697
 Middegaal,49,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.534412,51.630725
 Middegaal,51,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.534813,51.631333
 Middegaal,53,,,5461XC,Veghel,Meierijstad,Noord-Brabant,VBO,5.533671,51.630975
@@ -2601,6 +2628,7 @@ Middegaal,18,,,5461XD,Veghel,Meierijstad,Noord-Brabant,VBO,5.537337,51.625909
 Middegaal,20,,,5461XD,Veghel,Meierijstad,Noord-Brabant,VBO,5.535533,51.627914
 Middegaal,22,,,5461XD,Veghel,Meierijstad,Noord-Brabant,VBO,5.534184,51.628987
 Middegaal,24,,,5461XD,Veghel,Meierijstad,Noord-Brabant,VBO,5.533639,51.630085
+Middegaal,26,A,,5461XD,Veghel,Meierijstad,Noord-Brabant,VBO,5.532425,51.630330
 Middegaal,26,,,5461XD,Veghel,Meierijstad,Noord-Brabant,VBO,5.532977,51.630292
 Middegaal,28,,,5461XD,Veghel,Meierijstad,Noord-Brabant,VBO,5.532167,51.630527
 Middegaal,30,A,,5461XD,Veghel,Meierijstad,Noord-Brabant,VBO,5.529708,51.631156
@@ -2659,6 +2687,6 @@ Prins Willem Alexander Sportpark,22,,,5461XL,Veghel,Meierijstad,Noord-Brabant,VB
 Prins Willem Alexander Sportpark,24,,,5461XL,Veghel,Meierijstad,Noord-Brabant,VBO,5.537452,51.630206
 Prins Willem Alexander Sportpark,25,,,5461XL,Veghel,Meierijstad,Noord-Brabant,VBO,5.537194,51.630638
 Prins Willem Alexander Sportpark,27,,,5461XL,Veghel,Meierijstad,Noord-Brabant,VBO,5.535817,51.629219
-Prins Willem Alexander Sportpark,30,,,5461XL,Veghel,Meierijstad,Noord-Brabant,VBO,5.541603,51.627746
+Prins Willem Alexander Sportpark,30,,,5461XL,Veghel,Meierijstad,Noord-Brabant,VBO,5.541800,51.627679
 Prins Willem Alexander Sportpark,31,,,5461XL,Veghel,Meierijstad,Noord-Brabant,VBO,5.546595,51.630992
 Prins Willem Alexander Sportpark,33,,,5461XL,Veghel,Meierijstad,Noord-Brabant,VBO,5.541517,51.630988

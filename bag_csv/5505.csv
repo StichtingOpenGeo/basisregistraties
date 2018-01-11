@@ -332,6 +332,7 @@ Zittard,26,,,5505JD,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.373445,51.404455
 Zittard,30,,,5505JD,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.372590,51.404566
 Zittard,32,,,5505JD,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.371729,51.404699
 Zittard,34,,,5505JD,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.370553,51.405072
+Zittard,38,A,,5505JD,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.369728,51.405567
 Zittard,38,,,5505JD,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.369489,51.405596
 Zittard,42,A,,5505JD,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.368587,51.406336
 Zittard,42,,,5505JD,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.368267,51.406390
@@ -344,6 +345,7 @@ Roskam,1,,,5505JH,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.385853,51.411037
 Roskam,19,A,,5505JH,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.383984,51.410361
 Roskam,19,,,5505JH,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.383732,51.410367
 Roskam,21,,,5505JH,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.383454,51.410248
+Roskam,21,,,5505JH,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.383554,51.410187
 Roskam,35,,,5505JH,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.380403,51.408947
 Roskam,37,,,5505JH,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.379214,51.408439
 Roskam,39,,,5505JH,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.378300,51.408049
@@ -369,14 +371,12 @@ Grote Kerkepad,31,,,5505JM,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.379300,51.403
 Grote Kerkepad,33,,,5505JM,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.379253,51.403651
 Grote Kerkepad,35,,,5505JM,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.379140,51.403797
 Grote Kerkepad,2,,,5505JN,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.389805,51.405766
-Grote Kerkepad,10,,,5505JN,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.387700,51.405435
 Grote Kerkepad,18,,,5505JN,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.387558,51.405436
 Grote Kerkepad,125,,,5505JN,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.385183,51.405824
 Koppelenweg,3,,,5505JP,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.376708,51.400057
 Koppelenweg,7,,,5505JP,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.376190,51.401493
 Koppelenweg,10,,,5505JR,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.377223,51.402212
 Schooterweg,41,,,5505JS,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.377839,51.402314
-Schooterweg,61,,,5505JS,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.376915,51.403742
 Schooterweg,40,,,5505JT,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.377792,51.403243
 Schooterweg,60,,,5505JT,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.377497,51.404146
 Sondervick,11,,,5505NA,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.390179,51.406013
@@ -615,6 +615,13 @@ Nijlandlaan,53,,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392258,51.410110
 Nijlandlaan,55,,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392291,51.410056
 Nijlandlaan,57,,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392322,51.410005
 Nijlandlaan,59,,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392355,51.409950
+Nijlandlaan,61,A,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392650,51.409559
+Nijlandlaan,61,B,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392678,51.409514
+Nijlandlaan,61,C,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392705,51.409468
+Nijlandlaan,61,D,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392733,51.409423
+Nijlandlaan,61,E,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392760,51.409377
+Nijlandlaan,61,F,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392801,51.409323
+Nijlandlaan,61,,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392624,51.409617
 Nijlandlaan,63,,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.392907,51.409085
 Nijlandlaan,67,,,5505PB,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393079,51.408784
 Nijlandlaan,2,,,5505PC,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.390116,51.413017
@@ -1538,9 +1545,16 @@ Aquila,44,,,5505VJ,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.391661,51.408712
 Aquila,46,,,5505VJ,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.391741,51.408731
 Aquila,48,,,5505VJ,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.391834,51.408753
 Libra,1,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393403,51.409837
+Libra,2,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393020,51.409710
 Libra,3,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393437,51.409781
+Libra,4,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393061,51.409656
 Libra,5,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393471,51.409725
+Libra,6,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393089,51.409611
 Libra,7,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393505,51.409669
+Libra,8,A,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393144,51.409520
+Libra,8,B,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393171,51.409474
+Libra,8,C,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393198,51.409417
+Libra,8,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393116,51.409565
 Libra,9,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393538,51.409613
 Libra,10,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393341,51.409231
 Libra,11,,,5505VK,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393572,51.409557
@@ -1578,6 +1592,7 @@ Orion,39,,,5505VL,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.395914,51.409498
 Orion,41,,,5505VL,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.395949,51.409440
 Orion,43,,,5505VL,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.396007,51.409344
 Orion,45,,,5505VL,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.396041,51.409286
+Orionerf,8,,,5505VL,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.394616,51.409862
 Orion,2,,,5505VM,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393895,51.409935
 Orion,4,,,5505VM,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393929,51.409879
 Orion,6,,,5505VM,Veldhoven,Veldhoven,Noord-Brabant,VBO,5.393959,51.409829

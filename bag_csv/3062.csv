@@ -353,6 +353,7 @@ Langepad,27,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506951,51.934701
 Langepad,30,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.505005,51.936841
 Langepad,31,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506295,51.935550
 Langepad,35,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506485,51.935787
+Langepad,39,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,LIG,4.506909,51.935881
 Langepad,41,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506629,51.936048
 Langepad,43,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506794,51.936252
 Langepad,47,,,3062CJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.506850,51.936494
@@ -407,7 +408,6 @@ Prinses Beatrixlaan,15,,,3062CM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526442,51
 Prinses Beatrixlaan,24,,,3062CM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526195,51.939966
 Prinses Beatrixlaan,450,,,3062CM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.503469,51.939569
 Prinses Beatrixlaan,499,,,3062CM,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.501065,51.937281
-Terbregsehof,11,,,3062CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528039,51.945440
 Terbregsehof,12,,,3062CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528697,51.945589
 Terbregsehof,14,,,3062CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528775,51.945599
 Terbregsehof,16,,,3062CP,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.528913,51.945621
@@ -1249,6 +1249,7 @@ Kralingseweg,77,,,3062HB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.520144,51.926932
 Kralingseweg,79,,,3062HB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.520144,51.926932
 Kralingseweg,81,,,3062HB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.520144,51.926932
 Kralingseweg,83,,,3062HB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.520144,51.926932
+Kralingseweg,85,,,3062HB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.520165,51.926976
 Kralingseweg,87,,,3062HB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.520144,51.926932
 Kralingseweg,89,,,3062HB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.520144,51.926932
 Kralingseweg,91,,,3062HB,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.520144,51.926932
@@ -2160,6 +2161,8 @@ Avenue Concordia,11,C,,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514020,51.9
 Avenue Concordia,11,D,,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.514020,51.924530
 Avenue Concordia,13,A,,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513978,51.924470
 Avenue Concordia,13,B,,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513978,51.924470
+Avenue Concordia,15,A,01,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513938,51.924411
+Avenue Concordia,15,A,02,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513938,51.924411
 Avenue Concordia,15,A,,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513938,51.924411
 Avenue Concordia,15,B,,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513938,51.924411
 Avenue Concordia,17,A,,3062LA,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513895,51.924351
@@ -3560,7 +3563,6 @@ Van Somerenweg,58,,,3062RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.521080,51.9208
 's-Gravenwetering,112,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,114,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,116,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
-'s-Gravenwetering,118,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,120,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,122,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,126,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
@@ -3584,7 +3586,6 @@ Van Somerenweg,58,,,3062RK,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.521080,51.9208
 's-Gravenwetering,176,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,178,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,182,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
-'s-Gravenwetering,184,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,186,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,188,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
 's-Gravenwetering,192,,,3062SJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.526568,51.921761
@@ -3802,7 +3803,6 @@ Waterloostraat,97,B,02,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513998,51.9
 Waterloostraat,99,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513971,51.922631
 Waterloostraat,99,B,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513971,51.922631
 Waterloostraat,101,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513911,51.922533
-Waterloostraat,101,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513915,51.922530
 Waterloostraat,101,B,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513913,51.922532
 Waterloostraat,101,C,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513916,51.922535
 Waterloostraat,103,A,,3062TJ,Rotterdam,Rotterdam,Zuid-Holland,VBO,4.513913,51.922532

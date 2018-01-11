@@ -134,7 +134,6 @@ Hoofdstraat,73,,,2861AL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783162,51.
 Hoofdstraat,77,,,2861AM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783208,51.934567
 Hoofdstraat,79,,,2861AM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783195,51.934672
 Hoofdstraat,93,,,2861AM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783456,51.934845
-Hoofdstraat,95,a,,2861AM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783692,51.935163
 Hoofdstraat,95,,,2861AM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783138,51.935121
 Hoofdstraat,97,a,,2861AM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783681,51.935090
 Hoofdstraat,97,b,,2861AM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783689,51.935141
@@ -202,8 +201,8 @@ Hoofdstraat,64,a,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782801,51
 Hoofdstraat,64,,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782817,51.934148
 Hoofdstraat,66,a,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782823,51.934198
 Hoofdstraat,66,,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782816,51.934193
-Hoofdstraat,68,a,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782283,51.934172
-Hoofdstraat,68,,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782816,51.934238
+Hoofdstraat,68,a,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782865,51.934241
+Hoofdstraat,68,,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782865,51.934241
 Hoofdstraat,70,,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782840,51.934312
 Hoofdstraat,72,,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782931,51.934320
 Hoofdstraat,74,,,2861AR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782843,51.934355
@@ -353,6 +352,7 @@ Bovenberg,128,,,2861BD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.826572,51.9
 Bovenberg,130,,,2861BD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.826487,51.956375
 Bovenberg,132,a,,2861BD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.828767,51.956563
 Bovenberg,132,,,2861BD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.828418,51.956543
+Fransekade,1,h,,2861BE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.827915,51.965057
 Fransekade,2,c,,2861BE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.825753,51.970522
 Fransekade,20,b,,2861BE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.826105,51.969714
 West-Vlisterdijk,64,a,,2861BG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.819595,51.971813
@@ -439,7 +439,7 @@ Tussenlanen,51,,,2861CC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.807231,51.
 Tussenlanen,53,a,,2861CC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.810476,51.944211
 Tussenlanen,53,,,2861CC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.807476,51.942803
 Tussenlanen,2,a,,2861CD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784028,51.937831
-Tussenlanen,2,,,2861CD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784403,51.938246
+Tussenlanen,2,,,2861CD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784555,51.938052
 Tussenlanen,4,,,2861CD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784787,51.937943
 Tussenlanen,6,,,2861CD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784904,51.937943
 Tussenlanen,8,,,2861CD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785180,51.937963
@@ -499,7 +499,7 @@ Kadijkselaan,47,a,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783650,5
 Kadijkselaan,47,,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783688,51.940221
 Kadijkselaan,49,a,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783787,51.940628
 Kadijkselaan,49,,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783662,51.940517
-Kadijkselaan,51,,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784026,51.940723
+Kadijkselaan,51,,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783596,51.940758
 Kadijkselaan,53,,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783643,51.940813
 Kadijkselaan,55,a,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783657,51.941072
 Kadijkselaan,55,b,,2861CH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783659,51.941142
@@ -964,9 +964,7 @@ Dijklaan,43,,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784174,51.927
 Dijklaan,57,a,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784696,51.926818
 Dijklaan,57,,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784878,51.926777
 Dijklaan,59,,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784881,51.926609
-Dijklaan,61,a,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784523,51.926202
 Dijklaan,61,b,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783877,51.926157
-Dijklaan,61,,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784494,51.926193
 Dijklaan,63,,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783827,51.926612
 Dijklaan,67,,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785276,51.926404
 Dijklaan,69,,,2861DW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785176,51.925507
@@ -1033,7 +1031,7 @@ Parallelweg,13,a,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783601,51
 Parallelweg,23,,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783934,51.931080
 Parallelweg,25,,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784050,51.931117
 Parallelweg,27,,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784151,51.931144
-Parallelweg,29,,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784319,51.931035
+Parallelweg,29,,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784225,51.931194
 Parallelweg,31,,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784296,51.931208
 Parallelweg,33,,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784368,51.931226
 Parallelweg,35,,,2861EC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784523,51.931278
@@ -1063,7 +1061,7 @@ Dijklaan,42,,,2861EE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785909,51.927
 Dijklaan,44,,,2861EE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785869,51.927728
 Dijklaan,46,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785856,51.927647
 Dijklaan,48,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785900,51.927567
-Dijklaan,50,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786141,51.927437
+Dijklaan,50,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785833,51.927426
 Dijklaan,52,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785841,51.927206
 Dijklaan,54,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785791,51.927090
 Dijklaan,56,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785807,51.926973
@@ -1072,7 +1070,7 @@ Dijklaan,60,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785808,51.926
 Dijklaan,62,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785808,51.926838
 Dijklaan,64,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785809,51.926766
 Dijklaan,66,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785825,51.926703
-Dijklaan,68,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786146,51.926658
+Dijklaan,68,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785835,51.926667
 Dijklaan,70,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785797,51.926622
 Dijklaan,72,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785797,51.926586
 Dijklaan,74,,,2861EG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785871,51.926524
@@ -1084,12 +1082,12 @@ Dijklaan,9,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785364,51.9296
 Dijklaan,11,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785367,51.929483
 Dijklaan,13,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785338,51.929307
 Dijklaan,84,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785859,51.926111
-Dijklaan,86,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786036,51.925995
+Dijklaan,86,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785766,51.925978
 Dijklaan,88,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785836,51.925903
 Dijklaan,90,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785808,51.925813
 Dijklaan,92,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785765,51.925732
-Dijklaan,94,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785996,51.925661
-Dijklaan,96,,,2861EJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786046,51.925521
+Dijklaan,94,,,2861EH,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785759,51.925641
+Dijklaan,96,,,2861EJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785766,51.925534
 Dijklaan,98,,,2861EJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785768,51.925490
 Dijklaan,100,,,2861EJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785755,51.925404
 Dijklaan,104,,,2861EJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785728,51.925324
@@ -1153,10 +1151,10 @@ Dijklaan,202,,,2861EM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785556,51.92
 Wethouder Van den Bergplein,1,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786061,51.922112
 Wethouder Van den Bergplein,2,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786177,51.922112
 Wethouder Van den Bergplein,3,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786279,51.922114
-Wethouder Van den Bergplein,4,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786320,51.922041
+Wethouder Van den Bergplein,4,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786370,51.922118
 Wethouder Van den Bergplein,5,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786497,51.922123
 Wethouder Van den Bergplein,6,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786917,51.922233
-Wethouder Van den Bergplein,7,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787067,51.922281
+Wethouder Van den Bergplein,7,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786901,51.922287
 Wethouder Van den Bergplein,8,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786944,51.922341
 Wethouder Van den Bergplein,9,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786871,51.922394
 Wethouder Van den Bergplein,10,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786957,51.922449
@@ -1166,7 +1164,7 @@ Wethouder Van den Bergplein,13,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,
 Wethouder Van den Bergplein,14,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787027,51.922710
 Wethouder Van den Bergplein,15,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787040,51.922773
 Wethouder Van den Bergplein,16,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787054,51.922809
-Wethouder Van den Bergplein,17,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787226,51.922862
+Wethouder Van den Bergplein,17,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787032,51.922864
 Wethouder Van den Bergplein,18,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787167,51.923052
 Wethouder Van den Bergplein,19,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787080,51.923060
 Wethouder Van den Bergplein,20,,,2861EN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786993,51.923078
@@ -1183,10 +1181,10 @@ Wethouder Van den Bergplein,30,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,
 Wethouder Van den Bergplein,31,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786213,51.922670
 Wethouder Van den Bergplein,32,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786214,51.922607
 Wethouder Van den Bergplein,33,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786215,51.922562
-Wethouder Van den Bergplein,34,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786106,51.922479
+Wethouder Van den Bergplein,34,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786226,51.922493
 Wethouder Van den Bergplein,35,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786202,51.922436
 Wethouder Van den Bergplein,36,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786202,51.922382
-Wethouder Van den Bergplein,37,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786078,51.922340
+Wethouder Van den Bergplein,37,,,2861EP,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786217,51.922319
 Lekdijk-West,4,,,2861ER,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784697,51.920615
 Lekdijk-West,5,,,2861ER,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784357,51.921363
 Lekdijk-West,6,,,2861ER,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784070,51.920416
@@ -1207,7 +1205,7 @@ Lekdijk-West,27,,,2861ER,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.776898,51
 Lekdijk-West,29,,,2861ER,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.776123,51.918873
 Lekdijk-West,31,a,,2861ES,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.775780,51.919101
 Lekdijk-West,31,b,,2861ES,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.749243,51.912219
-Lekdijk-West,31,,,2861ES,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.775459,51.919230
+Lekdijk-West,31,,,2861ES,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.775458,51.919137
 Lekdijk-West,33,a,,2861ES,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.774712,51.919761
 Lekdijk-West,33,b,,2861ES,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.774776,51.919202
 Lekdijk-West,33,c,,2861ES,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.775330,51.920316
@@ -1298,6 +1296,7 @@ Ambachtstraat,30,,,2861EX,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.788697,5
 't Hooge Zand,6,,,2861EZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783127,51.924029
 Lekdijk-Oost,5,,,2861GA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785609,51.921102
 Lekdijk-Oost,7,a,,2861GA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785699,51.920914
+Lekdijk-Oost,7,,,2861GA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786215,51.921064
 Lekdijk-Oost,11,a,,2861GA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787418,51.921400
 Lekdijk-Oost,11,,,2861GA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786683,51.921207
 Lekdijk-Oost,13,a,,2861GA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787450,51.921507
@@ -1378,7 +1377,7 @@ Hogedijk,112,a,,2861GD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.820432,51.9
 Hogedijk,112,,,2861GD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.819796,51.935169
 Hogedijk,114,,,2861GD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.821244,51.935322
 Hogedijk,116,,,2861GD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.823053,51.935220
-Hogedijk,120,,,2861GE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.823602,51.935415
+Hogedijk,120,,,2861GE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.823764,51.935209
 Hogedijk,122,,,2861GE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.824353,51.935928
 Hogedijk,124,,,2861GE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.825024,51.936340
 Hogedijk,126,,,2861GE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.825274,51.936669
@@ -1398,6 +1397,8 @@ Broekselaantje,1,b,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.813546,
 Broekselaantje,1,c,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.813513,51.931441
 Broekselaantje,1,,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.813569,51.930913
 Broekselaantje,2,a,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.813003,51.931258
+Broekselaantje,2,b,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.813006,51.931594
+Broekselaantje,2,c,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.813011,51.931778
 Broekselaantje,2,,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.812962,51.931738
 Broekselaantje,3,,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.813523,51.931636
 Broekselaantje,4,,,2861GG,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.812966,51.931980
@@ -1519,6 +1520,7 @@ Nijverheidstraat,19,e,,2861GX,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.7919
 Nijverheidstraat,21,,,2861GX,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.792241,51.931529
 Nijverheidstraat,23,,,2861GX,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.791914,51.931419
 Verbindingsweg,1,,,2861GZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.792012,51.927948
+Verbindingsweg,2,,,2861GZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.792193,51.928458
 Verbindingsweg,5,,,2861GZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.792891,51.927945
 Verbindingsweg,7,,,2861GZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.792966,51.927949
 Verbindingsweg,9,,,2861GZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.793039,51.927954
@@ -1601,7 +1603,7 @@ Traverse,26,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782526,51.928
 Traverse,28,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782490,51.928349
 Traverse,30,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782504,51.928299
 Traverse,32,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782516,51.928251
-Traverse,34,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782518,51.928201
+Traverse,34,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782523,51.928201
 Traverse,36,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782550,51.928118
 Traverse,38,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782562,51.928070
 Traverse,40,,,2861HC,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782575,51.928022
@@ -1722,6 +1724,22 @@ Molenlaan,5,a,,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780328,51.93
 Molenlaan,5,,,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780343,51.937185
 Molenlaan,7,,,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780014,51.937118
 Molenlaan,9,,,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.779851,51.937233
+Molenlaan,11,a,1,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,10,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,11,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,12,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,13,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,14,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,15,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,2,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,3,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,4,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,5,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,6,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,7,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,8,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,a,9,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
+Molenlaan,11,b,,2861LA,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.780076,51.938153
 Molenlaan,2,,,2861LB,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782732,51.937226
 Molenlaan,4,,,2861LB,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782587,51.937217
 Molenlaan,6,a,,2861LB,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.782311,51.937148
@@ -1780,7 +1798,7 @@ Benedenberg,101,,,2861LD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.745371,51
 Benedenberg,103,,,2861LE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.744567,51.935372
 Benedenberg,105,a,,2861LE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.744001,51.935474
 Benedenberg,105,,,2861LE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.743757,51.935370
-Benedenberg,109,,,2861LE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.741787,51.935780
+Benedenberg,109,,,2861LE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.742234,51.935553
 Benedenberg,111,,,2861LE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.741137,51.935646
 Benedenberg,113,,,2861LE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.740638,51.935648
 Benedenberg,115,a,,2861LE,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.738565,51.935649
@@ -1877,7 +1895,7 @@ Zuidbroek,169,,,2861LL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.721553,51.9
 Zuidbroek,171,a,,2861LL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.721415,51.936683
 Zuidbroek,171,,,2861LL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.721470,51.936030
 Zuidbroek,173,,,2861LL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.720164,51.936129
-Zuidbroek,177,,,2861LL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.718146,51.936399
+Zuidbroek,177,,,2861LL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.718388,51.936220
 Zuidbroek,179,,,2861LL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.717774,51.936142
 Zuidbroek,134,,,2861LM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.736939,51.935225
 Zuidbroek,136,,,2861LM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.736299,51.935212
@@ -1892,6 +1910,7 @@ Zuidbroek,152,a,,2861LM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.719896,51.
 Zuidbroek,152,,,2861LM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.719896,51.935633
 Zuidbroek,154,,,2861LM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.719250,51.935750
 Molenhofje,3,,,2861LN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.781858,51.936323
+Molenhofje,9,,,2861LN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.781791,51.935751
 Boomgaard,1,,,2861SB,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786686,51.934654
 Boomgaard,2,,,2861SB,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.787107,51.934853
 Boomgaard,3,,,2861SB,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786765,51.934653
@@ -2230,7 +2249,7 @@ Goudenregenstraat,21,,,2861TJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.7862
 Goudenregenstraat,23,,,2861TJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786315,51.936827
 Goudenregenstraat,25,,,2861TJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786314,51.936881
 Goudenregenstraat,27,,,2861TJ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786270,51.936926
-Goudenregenstraat,2,,,2861TK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785689,51.936130
+Goudenregenstraat,2,,,2861TK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785890,51.936168
 Goudenregenstraat,4,,,2861TK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785916,51.936214
 Goudenregenstraat,6,,,2861TK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785915,51.936268
 Goudenregenstraat,8,,,2861TK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785914,51.936321
@@ -3039,7 +3058,7 @@ Schoolstraat,28,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786053,51
 Schoolstraat,30,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786082,51.932439
 Schoolstraat,32,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786127,51.932339
 Schoolstraat,34,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786015,51.932288
-Schoolstraat,36,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786159,51.932166
+Schoolstraat,36,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786039,51.932180
 Schoolstraat,38,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786065,51.932127
 Schoolstraat,40,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786047,51.932033
 Schoolstraat,42,,,2861XD,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.786028,51.931964
@@ -3115,44 +3134,37 @@ Koningin Beatrixstraat,10,,,2861XK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4
 Koningin Beatrixstraat,12,,,2861XK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785673,51.934819
 Koningin Beatrixstraat,14,,,2861XK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785840,51.934807
 Koningin Beatrixstraat,16,,,2861XK,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785939,51.934805
-Prinses Julianastraat,1,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785052,51.934483
-Prinses Julianastraat,3,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785052,51.934430
-Prinses Julianastraat,5,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785053,51.934367
-Prinses Julianastraat,7,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785025,51.934322
-Prinses Julianastraat,9,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785026,51.934268
-Prinses Julianastraat,11,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785041,51.934214
-Prinses Julianastraat,13,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785042,51.934124
-Prinses Julianastraat,15,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785028,51.934079
-Prinses Julianastraat,17,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785029,51.934025
-Prinses Julianastraat,19,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785030,51.933971
-Prinses Julianastraat,21,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785030,51.933917
-Prinses Julianastraat,23,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785031,51.933854
-Prinses Julianastraat,25,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785003,51.933800
-Prinses Julianastraat,27,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785019,51.933710
-Prinses Julianastraat,29,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785019,51.933656
-Prinses Julianastraat,31,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785020,51.933602
-Prinses Julianastraat,33,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785006,51.933548
-Prinses Julianastraat,35,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785007,51.933503
-Prinses Julianastraat,37,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785007,51.933450
-Prinses Julianastraat,2,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785285,51.934422
-Prinses Julianastraat,4,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785286,51.934368
-Prinses Julianastraat,6,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785287,51.934314
-Prinses Julianastraat,8,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785273,51.934269
-Prinses Julianastraat,10,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785273,51.934215
-Prinses Julianastraat,12,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785333,51.934098
-Prinses Julianastraat,14,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785334,51.934071
-Prinses Julianastraat,16,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785334,51.934035
-Prinses Julianastraat,18,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785335,51.933991
-Prinses Julianastraat,20,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785321,51.933954
-Prinses Julianastraat,22,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785321,51.933919
-Prinses Julianastraat,24,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785322,51.933874
-Prinses Julianastraat,26,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785322,51.933829
-Prinses Julianastraat,28,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785251,51.933711
-Prinses Julianastraat,30,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785252,51.933667
-Prinses Julianastraat,32,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785252,51.933613
-Prinses Julianastraat,34,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785253,51.933559
-Prinses Julianastraat,36,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785239,51.933505
-Prinses Julianastraat,38,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785240,51.933451
+Prinses Julianastraat,3,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784930,51.934393
+Prinses Julianastraat,5,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784857,51.934393
+Prinses Julianastraat,7,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784778,51.934395
+Prinses Julianastraat,9,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784709,51.934396
+Prinses Julianastraat,11,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784636,51.934396
+Prinses Julianastraat,13,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784715,51.934204
+Prinses Julianastraat,15,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784788,51.934202
+Prinses Julianastraat,17,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784862,51.934201
+Prinses Julianastraat,19,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784933,51.934203
+Prinses Julianastraat,21,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784921,51.933937
+Prinses Julianastraat,23,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784844,51.933940
+Prinses Julianastraat,25,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784772,51.933944
+Prinses Julianastraat,27,,,2861XL,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784700,51.933940
+Prinses Julianastraat,4,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785338,51.934407
+Prinses Julianastraat,6,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785337,51.934357
+Prinses Julianastraat,8,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785332,51.934307
+Prinses Julianastraat,10,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785332,51.934258
+Prinses Julianastraat,12,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785331,51.934212
+Prinses Julianastraat,14,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785329,51.934160
+Prinses Julianastraat,16,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785323,51.934045
+Prinses Julianastraat,18,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785320,51.933994
+Prinses Julianastraat,20,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785316,51.933950
+Prinses Julianastraat,22,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785314,51.933904
+Prinses Julianastraat,24,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785317,51.933852
+Prinses Julianastraat,26,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785309,51.933805
+Prinses Julianastraat,28,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785308,51.933690
+Prinses Julianastraat,30,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785303,51.933637
+Prinses Julianastraat,32,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785297,51.933591
+Prinses Julianastraat,34,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785298,51.933545
+Prinses Julianastraat,36,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785297,51.933493
+Prinses Julianastraat,38,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785288,51.933439
 Prinses Julianastraat,40,,,2861XM,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785227,51.933361
 Secretaris Schippersstraat,7,,,2861XN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784185,51.935153
 Secretaris Schippersstraat,9,,,2861XN,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784194,51.935104
@@ -3168,26 +3180,6 @@ Secretaris Schippersstraat,10,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,V
 Secretaris Schippersstraat,12,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784709,51.935075
 Secretaris Schippersstraat,14,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784697,51.934949
 Secretaris Schippersstraat,16,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784683,51.934895
-Secretaris Schippersstraat,18,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784514,51.934490
-Secretaris Schippersstraat,20,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784573,51.934418
-Secretaris Schippersstraat,22,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784588,51.934382
-Secretaris Schippersstraat,24,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784516,51.934337
-Secretaris Schippersstraat,26,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784502,51.934283
-Secretaris Schippersstraat,28,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784503,51.934229
-Secretaris Schippersstraat,30,,,2861XR,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784503,51.934184
-Secretaris Schippersstraat,32,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784504,51.934130
-Secretaris Schippersstraat,34,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784490,51.934085
-Secretaris Schippersstraat,36,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784491,51.934031
-Secretaris Schippersstraat,38,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784492,51.933923
-Secretaris Schippersstraat,40,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784493,51.933869
-Secretaris Schippersstraat,42,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784494,51.933815
-Secretaris Schippersstraat,44,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784494,51.933762
-Secretaris Schippersstraat,46,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784495,51.933717
-Secretaris Schippersstraat,48,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784481,51.933663
-Secretaris Schippersstraat,50,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784482,51.933609
-Secretaris Schippersstraat,52,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784482,51.933564
-Secretaris Schippersstraat,54,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784483,51.933501
-Secretaris Schippersstraat,56,,,2861XS,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784517,51.933452
 Badhuisstraat,1,a,,2861XT,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783386,51.933094
 Badhuisstraat,1,,,2861XT,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783386,51.933094
 Badhuisstraat,2,a,,2861XT,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784043,51.933342
@@ -3210,18 +3202,6 @@ Badhuisstraat,7,,,2861XT,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783386,51
 Badhuisstraat,9,,,2861XT,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.783386,51.933094
 Badhuisstraat,11,,,2861XT,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784038,51.933085
 Badhuisstraat,17,,,2861XT,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784915,51.932748
-Badhuisstraat,6,a,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784515,51.933276
-Badhuisstraat,6,,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784501,51.933258
-Badhuisstraat,8,a,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784617,51.933277
-Badhuisstraat,8,,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784588,51.933250
-Badhuisstraat,10,a,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784712,51.933255
-Badhuisstraat,10,,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784705,51.933250
-Badhuisstraat,12,a,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784799,51.933237
-Badhuisstraat,12,,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784792,51.933251
-Badhuisstraat,14,a,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784901,51.933251
-Badhuisstraat,14,,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784879,51.933251
-Badhuisstraat,16,a,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784988,51.933270
-Badhuisstraat,16,,,2861XV,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.784952,51.933252
 Badhuisstraat,18,,,2861XW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785272,51.933262
 Badhuisstraat,20,,,2861XW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785345,51.933236
 Badhuisstraat,22,,,2861XW,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.785446,51.933245
@@ -3267,10 +3247,10 @@ Dr Albert Schweitzerstraat,25,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,V
 Dr Albert Schweitzerstraat,27,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789553,51.936079
 Dr Albert Schweitzerstraat,29,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789552,51.936151
 Dr Albert Schweitzerstraat,31,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789566,51.936187
-Dr Albert Schweitzerstraat,33,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789426,51.936264
-Dr Albert Schweitzerstraat,35,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789429,51.936314
+Dr Albert Schweitzerstraat,33,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789681,51.936272
+Dr Albert Schweitzerstraat,35,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789684,51.936329
 Dr Albert Schweitzerstraat,37,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789680,51.936377
-Dr Albert Schweitzerstraat,39,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789471,51.936448
+Dr Albert Schweitzerstraat,39,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789690,51.936444
 Dr Albert Schweitzerstraat,41,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789707,51.936485
 Dr Albert Schweitzerstraat,43,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789677,51.936556
 Dr Albert Schweitzerstraat,45,,,2861XZ,Bergambacht,Krimpenerwaard,Zuid-Holland,VBO,4.789674,51.936628

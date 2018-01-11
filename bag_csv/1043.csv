@@ -5,6 +5,7 @@ Sportpark Spieringhorn,7,,,1043AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.827343
 Sportpark Spieringhorn,9,,,1043AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.827490,52.386084
 Sportpark Spieringhorn,10,,,1043AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.829241,52.386104
 Sportpark Spieringhorn,11,,,1043AA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.829793,52.386338
+Humberweg,2,,,1043AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.829789,52.391335
 Humberweg,3,,,1043AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.831052,52.391332
 Humberweg,5,,,1043AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.830886,52.390540
 Humberweg,6,,,1043AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.830410,52.390969
@@ -151,7 +152,6 @@ Basisweg,29,,,1043AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.832198,52.391337
 Basisweg,31,,,1043AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.831801,52.391335
 Basisweg,35,,,1043AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.831052,52.391332
 Basisweg,39,,,1043AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.830410,52.390969
-Basisweg,41,,,1043AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.829789,52.391335
 Basisweg,43,,,1043AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.829656,52.391334
 Basisweg,45,,,1043AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.829274,52.391341
 Basisweg,47,,,1043AN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.828129,52.391336
@@ -219,9 +219,7 @@ Basisweg,56,V,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.820694,52.392230
 Basisweg,56,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.820718,52.392229
 Basisweg,58,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.820655,52.392208
 Basisweg,60,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.816968,52.392146
-Basisweg,62,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.814300,52.392798
-Basisweg,64,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.814183,52.392797
-Basisweg,66,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.814095,52.392797
+Basisweg,62,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.816713,52.393152
 Basisweg,68,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.811551,52.394112
 Basisweg,70,,,1043AP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.810857,52.394404
 Basisweg,7,,,1043AR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841440,52.391164
@@ -265,6 +263,7 @@ Theemsweg,20,,,1043BD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.813843,52.389560
 Theemsweg,22,,,1043BD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.812961,52.389565
 Seineweg,1,A,,1043BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.820176,52.386059
 Seineweg,1,,,1043BE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.820452,52.386204
+Seineweg,2,,,1043BG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.817211,52.390835
 Seineweg,10,,,1043BG,Amsterdam,Amsterdam,Noord-Holland,VBO,4.817649,52.388266
 Seineweg,16,,,1043BH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.813831,52.387088
 Theemsweg,26,,,1043BJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.811167,52.389718
@@ -1499,6 +1498,38 @@ Arlandaweg,161,,,1043HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839811,52.386286
 Arlandaweg,163,,,1043HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839811,52.386286
 Arlandaweg,165,,,1043HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839811,52.386286
 Arlandaweg,167,,,1043HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839811,52.386286
+Radarweg,160,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835661,52.388583
+Radarweg,170,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835538,52.387822
+Radarweg,172,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835538,52.387834
+Radarweg,174,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835539,52.387847
+Radarweg,176,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835538,52.387858
+Radarweg,178,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835537,52.387869
+Radarweg,180,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835538,52.387884
+Radarweg,182,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835537,52.387897
+Radarweg,184,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835536,52.387908
+Radarweg,186,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835536,52.387920
+Radarweg,188,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835535,52.387932
+Radarweg,190,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835567,52.387822
+Radarweg,192,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835566,52.387833
+Radarweg,194,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835566,52.387847
+Radarweg,196,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835565,52.387858
+Radarweg,198,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835568,52.387868
+Radarweg,200,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835566,52.387883
+Radarweg,202,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835566,52.387896
+Radarweg,204,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835564,52.387908
+Radarweg,206,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835563,52.387920
+Radarweg,208,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835563,52.387932
+Radarweg,210,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835600,52.387822
+Radarweg,212,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835599,52.387832
+Radarweg,214,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835598,52.387847
+Radarweg,216,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835597,52.387858
+Radarweg,218,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835596,52.387869
+Radarweg,220,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835595,52.387883
+Radarweg,222,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835595,52.387896
+Radarweg,224,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835593,52.387908
+Radarweg,226,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835593,52.387920
+Radarweg,228,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835593,52.387931
+Radarweg,230,,,1043NS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835516,52.387834
 Radarweg,60,,,1043NT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835403,52.391092
 Radarweg,236,,,1043NV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835540,52.387183
 Radarweg,27,,,1043NX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837365,52.393490

@@ -48,7 +48,6 @@ Leeuweringerstraat,18,A,,3421AC,Oudewater,Oudewater,Utrecht,VBO,4.871962,52.0236
 Leeuweringerstraat,18,,,3421AC,Oudewater,Oudewater,Utrecht,VBO,4.871997,52.023608
 Leeuweringerstraat,20,,,3421AC,Oudewater,Oudewater,Utrecht,VBO,4.871880,52.023654
 Leeuweringerstraat,22,,,3421AC,Oudewater,Oudewater,Utrecht,VBO,4.871847,52.023717
-Leeuweringerstraat,24,,,3421AC,Oudewater,Oudewater,Utrecht,VBO,4.871722,52.023792
 Leeuweringerstraat,24,,,3421AC,Oudewater,Oudewater,Utrecht,VBO,4.871816,52.023773
 Leeuweringerstraat,26,A,,3421AC,Oudewater,Oudewater,Utrecht,VBO,4.871766,52.023829
 Leeuweringerstraat,26,,,3421AC,Oudewater,Oudewater,Utrecht,VBO,4.871845,52.023847
@@ -146,6 +145,7 @@ Wijdstraat,28,,,3421AK,Oudewater,Oudewater,Utrecht,VBO,4.870997,52.022134
 Wijdstraat,30,,,3421AK,Oudewater,Oudewater,Utrecht,VBO,4.870904,52.022123
 Zuider-Kerkstraat,2,,,3421AL,Oudewater,Oudewater,Utrecht,VBO,4.870854,52.022256
 Zuider-Kerkstraat,4,,,3421AL,Oudewater,Oudewater,Utrecht,VBO,4.870809,52.022328
+Peperstraat,1,A,,3421AM,Oudewater,Oudewater,Utrecht,VBO,4.871822,52.022457
 Peperstraat,1,A,,3421AM,Oudewater,Oudewater,Utrecht,VBO,4.871858,52.022449
 Peperstraat,1,B,,3421AM,Oudewater,Oudewater,Utrecht,VBO,4.871876,52.022464
 Peperstraat,2,A,,3421AM,Oudewater,Oudewater,Utrecht,VBO,4.872025,52.022393
@@ -184,6 +184,7 @@ Marktstraat,17,E,,3421AP,Oudewater,Oudewater,Utrecht,VBO,4.871826,52.022581
 Marktstraat,17,F,,3421AP,Oudewater,Oudewater,Utrecht,VBO,4.871793,52.022562
 Marktstraat,17,G,,3421AP,Oudewater,Oudewater,Utrecht,VBO,4.871767,52.022539
 Marktstraat,17,H,,3421AP,Oudewater,Oudewater,Utrecht,VBO,4.871744,52.022521
+Marktstraat,17,J,,3421AP,Oudewater,Oudewater,Utrecht,VBO,4.871758,52.022497
 Marktstraat,19,,,3421AP,Oudewater,Oudewater,Utrecht,VBO,4.871409,52.022745
 Marktstraat,21,,,3421AP,Oudewater,Oudewater,Utrecht,VBO,4.871354,52.022716
 Marktstraat,23,,,3421AP,Oudewater,Oudewater,Utrecht,VBO,4.871289,52.022680
@@ -428,7 +429,19 @@ Broeckerstraat,12,,,3421BL,Oudewater,Oudewater,Utrecht,VBO,4.869448,52.024125
 Broeckerstraat,13,,,3421BL,Oudewater,Oudewater,Utrecht,VBO,4.869338,52.023852
 Broeckerstraat,15,,,3421BL,Oudewater,Oudewater,Utrecht,VBO,4.869237,52.023786
 Broeckerstraat,20,,,3421BL,Oudewater,Oudewater,Utrecht,VBO,4.869291,52.024150
-Papenhoef,1,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.867131,52.024378
+A.W. den Boerhof,1,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.867131,52.024378
+A.W. den Boerhof,1,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.867432,52.023907
+A.W. den Boerhof,2,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.867214,52.023936
+A.W. den Boerhof,3,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.867429,52.023870
+A.W. den Boerhof,4,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.867203,52.023897
+A.W. den Boerhof,5,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.867420,52.023832
+A.W. den Boerhof,6,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.867195,52.023856
+A.W. den Boerhof,7,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.866868,52.024173
+A.W. den Boerhof,8,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.866675,52.024139
+A.W. den Boerhof,9,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.866892,52.024118
+A.W. den Boerhof,10,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.866703,52.024093
+A.W. den Boerhof,11,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.866915,52.024066
+A.W. den Boerhof,12,,,3421BM,Oudewater,Oudewater,Utrecht,VBO,4.866742,52.024048
 Biezenstraat,1,,,3421BN,Oudewater,Oudewater,Utrecht,VBO,4.868922,52.024591
 Biezenstraat,2,,,3421BN,Oudewater,Oudewater,Utrecht,VBO,4.869245,52.024661
 Biezenstraat,3,,,3421BN,Oudewater,Oudewater,Utrecht,VBO,4.868888,52.024618
@@ -448,10 +461,8 @@ Havenstraat,2,B,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872252,52.022110
 Havenstraat,2,C,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872348,52.022124
 Havenstraat,2,D,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872260,52.022077
 Havenstraat,2,,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872299,52.022118
-Havenstraat,2,,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872321,52.022083
 Havenstraat,3,,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872225,52.022024
 Havenstraat,4,,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872175,52.021980
-Havenstraat,5,,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872114,52.021941
 Havenstraat,6,,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872070,52.021902
 Havenstraat,7,,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.872004,52.021868
 Havenstraat,8,,,3421BS,Oudewater,Oudewater,Utrecht,VBO,4.871897,52.021811
@@ -1100,7 +1111,6 @@ Noord-Linschoterkade,11,,,3421EH,Oudewater,Oudewater,Utrecht,VBO,4.872813,52.025
 Noord-Linschoterkade,12,,,3421EH,Oudewater,Oudewater,Utrecht,VBO,4.873091,52.025931
 Noord-Linschoterkade,13,,,3421EH,Oudewater,Oudewater,Utrecht,VBO,4.873180,52.025918
 Noord-Linschoterkade,14,,,3421EH,Oudewater,Oudewater,Utrecht,VBO,4.873263,52.025904
-Noord-Linschoterkade,15,A,,3421EH,Oudewater,Oudewater,Utrecht,VBO,4.873993,52.026022
 Noord-Linschoterkade,15,,,3421EH,Oudewater,Oudewater,Utrecht,VBO,4.873699,52.025884
 Noord-Linschoterkade,17,,,3421EH,Oudewater,Oudewater,Utrecht,VBO,4.874283,52.025858
 Noord-Linschoterkade,18,,,3421EH,Oudewater,Oudewater,Utrecht,VBO,4.874817,52.025875
@@ -1326,7 +1336,6 @@ Utrechtse straatweg,33,,,3421GL,Oudewater,Oudewater,Utrecht,VBO,4.869793,52.0201
 Utrechtse straatweg,35,,,3421GL,Oudewater,Oudewater,Utrecht,VBO,4.869926,52.020047
 Utrechtse straatweg,37,,,3421GL,Oudewater,Oudewater,Utrecht,VBO,4.870008,52.020009
 Utrechtse straatweg,39,,,3421GM,Oudewater,Oudewater,Utrecht,VBO,4.870547,52.019703
-Utrechtse straatweg,41,A,,3421GM,Oudewater,Oudewater,Utrecht,VBO,4.870759,52.019716
 Utrechtse straatweg,41,,,3421GM,Oudewater,Oudewater,Utrecht,VBO,4.870873,52.019698
 Utrechtse straatweg,43,,,3421GM,Oudewater,Oudewater,Utrecht,VBO,4.870714,52.019542
 Utrechtse straatweg,45,,,3421GM,Oudewater,Oudewater,Utrecht,VBO,4.870809,52.019468
@@ -1486,7 +1495,6 @@ Oudeweg,1,,,3421GX,Oudewater,Oudewater,Utrecht,VBO,4.903739,52.024294
 Oudeweg,2,,,3421GX,Oudewater,Oudewater,Utrecht,VBO,4.905612,52.024175
 Oudeweg,3,,,3421GX,Oudewater,Oudewater,Utrecht,VBO,4.900495,52.024735
 Oudeweg,4,B,,3421GX,Oudewater,Oudewater,Utrecht,VBO,4.901961,52.025112
-Oudeweg,4,,,3421GX,Oudewater,Oudewater,Utrecht,VBO,4.902248,52.024853
 Oudeweg,4,,,3421GX,Oudewater,Oudewater,Utrecht,VBO,4.902307,52.024950
 Oudeweg,6,C,,3421GX,Oudewater,Oudewater,Utrecht,VBO,4.901391,52.024699
 Oudeweg,6,,,3421GX,Oudewater,Oudewater,Utrecht,VBO,4.901555,52.024965
@@ -2591,6 +2599,7 @@ Kluwen,7,,,3421KW,Oudewater,Oudewater,Utrecht,VBO,4.873579,52.030728
 Kluwen,9,,,3421KW,Oudewater,Oudewater,Utrecht,VBO,4.873703,52.030791
 Kardeel,1,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872298,52.031493
 Kardeel,3,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872370,52.031516
+Kardeel,4,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.871223,52.032278
 Kardeel,5,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872440,52.031537
 Kardeel,6,A,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.871357,52.032098
 Kardeel,6,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.871309,52.032156
@@ -2610,7 +2619,7 @@ Kardeel,15,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872794,52.031648
 Kardeel,16,A,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.871935,52.031373
 Kardeel,16,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.871883,52.031452
 Kardeel,17,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872859,52.031669
-Kardeel,18,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872151,52.031310
+Kardeel,18,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872083,52.031283
 Kardeel,19,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872933,52.031692
 Kardeel,21,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.873002,52.031713
 Kardeel,22,,,3421KX,Oudewater,Oudewater,Utrecht,VBO,4.872620,52.031206
@@ -3267,7 +3276,7 @@ Wilgenweg,15,B,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.867082,52.036083
 Wilgenweg,15,C,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.867191,52.036108
 Wilgenweg,15,D,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.867303,52.036139
 Wilgenweg,15,E,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.867422,52.036172
-Wilgenweg,15,G,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.867460,52.036190
+Wilgenweg,15,F,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.867460,52.036190
 Wilgenweg,15,,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.866856,52.036063
 Wilgenweg,16,,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.864388,52.035044
 Wilgenweg,17,B,,3421TV,Oudewater,Oudewater,Utrecht,VBO,4.867404,52.036601
@@ -3303,10 +3312,10 @@ Populierenweg,3,,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.864213,52.034235
 Populierenweg,4,,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.864525,52.034352
 Populierenweg,8,,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.864909,52.033945
 Populierenweg,12,,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865368,52.034071
-Populierenweg,14,A,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865675,52.034151
-Populierenweg,14,B,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865577,52.034231
-Populierenweg,14,C,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865546,52.034280
-Populierenweg,14,D,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865507,52.034327
+Populierenweg,14,A,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865650,52.034145
+Populierenweg,14,B,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865538,52.034229
+Populierenweg,14,C,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865503,52.034271
+Populierenweg,14,D,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865469,52.034321
 Populierenweg,14,,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.865565,52.034122
 Populierenweg,15,A,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.864244,52.033765
 Populierenweg,15,,,3421TX,Oudewater,Oudewater,Utrecht,VBO,4.864326,52.033784

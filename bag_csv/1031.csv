@@ -90,7 +90,6 @@ Mosveld,125,,,1031AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.914890,52.390522
 Mosveld,127,,,1031AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.914957,52.390486
 Mosveld,129,,,1031AD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915172,52.390356
 Gentiaanstraat,1,,,1031AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911796,52.390937
-Gentiaanstraat,3,,,1031AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911899,52.390965
 Gentiaanstraat,7,,,1031AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911994,52.391197
 Gentiaanstraat,9,,,1031AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912065,52.391208
 Gentiaanstraat,11,,,1031AE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912119,52.391221
@@ -618,7 +617,6 @@ Hagedoornweg,42,,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912423,52.39004
 Hagedoornweg,44,,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912378,52.390068
 Hagedoornweg,46,A,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912387,52.390116
 Hagedoornweg,46,B,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912395,52.390106
-Hagedoornweg,46,,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912363,52.390095
 Hagedoornweg,48,A,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912333,52.390140
 Hagedoornweg,48,,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912334,52.390131
 Hagedoornweg,50,,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912333,52.390176
@@ -626,6 +624,8 @@ Hagedoornweg,52,,,1031BS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912318,52.39021
 Hagedoornweg,54,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912184,52.390382
 Hagedoornweg,56,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912154,52.390427
 Hagedoornweg,58,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912139,52.390454
+Hagedoornweg,60,A,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912094,52.390480
+Hagedoornweg,60,B,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912085,52.390497
 Hagedoornweg,60,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912109,52.390489
 Hagedoornweg,62,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912094,52.390516
 Hagedoornweg,64,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912065,52.390561
@@ -633,13 +633,11 @@ Hagedoornweg,66,A,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912029,52.3905
 Hagedoornweg,66,B,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912022,52.390581
 Hagedoornweg,68,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912020,52.390624
 Hagedoornweg,70,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912020,52.390624
-Hagedoornweg,72,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911975,52.390687
 Hagedoornweg,72,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911984,52.390678
 Hagedoornweg,74,A,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911962,52.390711
 Hagedoornweg,74,B,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911953,52.390723
 Hagedoornweg,74,C,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911971,52.390714
 Hagedoornweg,74,D,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911962,52.390726
-Hagedoornweg,74,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911945,52.390713
 Hagedoornweg,76,,,1031BT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.911930,52.390749
 Hagedoornplein,1,A,,1031BV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.912906,52.387401
 Hagedoornplein,1,B,,1031BV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.913039,52.387664
@@ -704,7 +702,6 @@ Wingerdweg,43,,H,1031BZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915024,52.389890
 Wingerdweg,45,,1,1031BZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915112,52.389989
 Wingerdweg,45,,H,1031BZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915112,52.389989
 Wingerdweg,47,,,1031BZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915170,52.390016
-Wingerdweg,49,B,,1031BZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915547,52.390467
 Wingerdweg,49,,1,1031BZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915272,52.390080
 Wingerdweg,49,,H,1031BZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915272,52.390080
 Wingerdweg,4,,,1031CA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.913640,52.388824
@@ -791,9 +788,9 @@ Buiksloterweg,27,,,1031CD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906825,52.3847
 Buiksloterweg,29,,,1031CD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907073,52.384807
 Buiksloterweg,35,A,,1031CD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907641,52.385014
 Buiksloterweg,35,B,,1031CD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907641,52.385014
-Buiksloterweg,35,C,,1031CD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907728,52.385025
+Buiksloterweg,35,C,,1031CD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907721,52.385036
 Buiksloterweg,37,A,,1031CE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907863,52.385044
-Buiksloterweg,37,B,,1031CE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908035,52.385052
+Buiksloterweg,37,B,,1031CE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908029,52.385070
 Buiksloterweg,39,A,1,1031CE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908143,52.385063
 Buiksloterweg,39,A,H,1031CE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908143,52.385063
 Buiksloterweg,41,A,1,1031CE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908260,52.385063
@@ -880,20 +877,12 @@ Van der Pekstraat,23,,,1031CN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908526,52.
 Van der Pekstraat,27,,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908642,52.387815
 Van der Pekstraat,29,A,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908671,52.387851
 Van der Pekstraat,29,B,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908679,52.387864
-Van der Pekstraat,29,,1,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908671,52.387851
-Van der Pekstraat,29,,H,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908671,52.387851
 Van der Pekstraat,31,A,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908690,52.387882
 Van der Pekstraat,31,B,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908699,52.387897
-Van der Pekstraat,31,,1,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908700,52.387905
-Van der Pekstraat,31,,H,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908700,52.387905
 Van der Pekstraat,33,A,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908734,52.387951
 Van der Pekstraat,33,B,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908747,52.387964
-Van der Pekstraat,33,,1,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908743,52.387950
-Van der Pekstraat,33,,H,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908743,52.387950
 Van der Pekstraat,35,A,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908760,52.387982
 Van der Pekstraat,35,B,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908770,52.387997
-Van der Pekstraat,35,,1,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908772,52.388004
-Van der Pekstraat,35,,H,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908772,52.388004
 Van der Pekstraat,37,,,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908816,52.388058
 Van der Pekstraat,39,,1,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908902,52.388203
 Van der Pekstraat,39,,H,1031CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908902,52.388203
@@ -1007,8 +996,7 @@ Buiksloterweg,149,,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915405,52.388
 Buiksloterweg,151,,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915420,52.388606
 Buiksloterweg,153,,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915435,52.388606
 Buiksloterweg,155,,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915464,52.388615
-Buiksloterweg,157,A,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915435,52.388597
-Buiksloterweg,157,B,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915420,52.388588
+Buiksloterweg,157,,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915435,52.388597
 Buiksloterweg,159,A,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915420,52.388579
 Buiksloterweg,159,B,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915420,52.388570
 Buiksloterweg,161,,,1031DA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.915814,52.388814
@@ -1092,12 +1080,20 @@ Van der Pekstraat,22,A,,1031EA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908954,52
 Van der Pekstraat,22,B,,1031EA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908930,52.387452
 Van der Pekstraat,24,,,1031EA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908983,52.387520
 Van der Pekstraat,26,,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909099,52.387682
+Van der Pekstraat,28,A,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909137,52.387742
+Van der Pekstraat,28,B,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909153,52.387737
 Van der Pekstraat,28,,1,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909128,52.387727
 Van der Pekstraat,28,,H,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909128,52.387727
+Van der Pekstraat,30,A,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909186,52.387777
+Van der Pekstraat,30,B,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909197,52.387774
 Van der Pekstraat,30,,1,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909171,52.387781
 Van der Pekstraat,30,,H,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909171,52.387781
+Van der Pekstraat,32,A,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909206,52.387838
+Van der Pekstraat,32,B,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909220,52.387834
 Van der Pekstraat,32,,1,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909200,52.387826
 Van der Pekstraat,32,,H,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909200,52.387826
+Van der Pekstraat,34,A,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909259,52.387877
+Van der Pekstraat,34,B,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909269,52.387873
 Van der Pekstraat,34,,1,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909243,52.387880
 Van der Pekstraat,34,,H,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909243,52.387880
 Van der Pekstraat,36,,,1031EB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909272,52.387934
@@ -1394,12 +1390,20 @@ Jasmijnstraat,30,,1,1031EX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908550,52.388
 Jasmijnstraat,30,,H,1031EX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908550,52.388129
 Jasmijnstraat,34,,,1031EX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908757,52.388076
 Jasmijnstraat,38,,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909331,52.387926
+Jasmijnstraat,40,A,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909540,52.387864
+Jasmijnstraat,40,B,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909528,52.387852
 Jasmijnstraat,40,,1,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909552,52.387873
 Jasmijnstraat,40,,H,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909552,52.387873
+Jasmijnstraat,42,A,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909609,52.387855
+Jasmijnstraat,42,B,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909603,52.387848
 Jasmijnstraat,42,,1,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909640,52.387855
 Jasmijnstraat,42,,H,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909640,52.387855
+Jasmijnstraat,44,A,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909685,52.387837
+Jasmijnstraat,44,B,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909677,52.387827
 Jasmijnstraat,44,,1,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909714,52.387837
 Jasmijnstraat,44,,H,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909714,52.387837
+Jasmijnstraat,46,A,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909757,52.387820
+Jasmijnstraat,46,B,,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909750,52.387812
 Jasmijnstraat,46,,1,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909788,52.387820
 Jasmijnstraat,46,,H,1031EZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909788,52.387820
 Meidoornplein,1,,1,1031GA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.910762,52.387329
@@ -1563,56 +1567,42 @@ Begoniastraat,16,,1,1031GM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.910158,52.387
 Begoniastraat,16,,H,1031GM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.910158,52.387516
 Oleanderstraat,3,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907424,52.387847
 Oleanderstraat,3,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907455,52.387853
-Oleanderstraat,3,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907422,52.387855
-Oleanderstraat,3,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907422,52.387855
 Oleanderstraat,5,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907542,52.387874
 Oleanderstraat,5,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907560,52.387877
-Oleanderstraat,5,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907525,52.387864
-Oleanderstraat,5,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907525,52.387864
 Oleanderstraat,7,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907578,52.387880
 Oleanderstraat,7,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907593,52.387883
-Oleanderstraat,7,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907613,52.387883
-Oleanderstraat,7,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907613,52.387883
 Oleanderstraat,9,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907715,52.387905
 Oleanderstraat,9,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907734,52.387908
-Oleanderstraat,9,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907701,52.387901
-Oleanderstraat,9,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907701,52.387901
 Oleanderstraat,11,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907757,52.387910
 Oleanderstraat,11,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907774,52.387910
-Oleanderstraat,11,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907804,52.387911
-Oleanderstraat,11,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907804,52.387911
 Oleanderstraat,13,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907919,52.387908
 Oleanderstraat,13,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907934,52.387908
-Oleanderstraat,13,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907906,52.387911
-Oleanderstraat,13,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907906,52.387911
 Oleanderstraat,15,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907952,52.387907
 Oleanderstraat,15,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907970,52.387906
-Oleanderstraat,15,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907995,52.387902
-Oleanderstraat,15,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907995,52.387902
 Oleanderstraat,17,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908111,52.387901
 Oleanderstraat,17,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908126,52.387901
-Oleanderstraat,17,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908097,52.387903
-Oleanderstraat,17,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908097,52.387903
 Oleanderstraat,19,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908149,52.387898
 Oleanderstraat,19,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908167,52.387895
-Oleanderstraat,19,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908186,52.387885
-Oleanderstraat,19,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908186,52.387885
 Oleanderstraat,21,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908273,52.387864
 Oleanderstraat,21,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908286,52.387860
-Oleanderstraat,21,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908274,52.387867
-Oleanderstraat,21,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908274,52.387867
 Oleanderstraat,23,A,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908304,52.387855
 Oleanderstraat,23,B,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908318,52.387851
-Oleanderstraat,23,,1,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908318,52.387850
-Oleanderstraat,23,,H,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908318,52.387850
 Oleanderstraat,25,,,1031GN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908569,52.387779
 Oleanderstraat,29,,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909158,52.387655
+Oleanderstraat,31,A,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909341,52.387601
+Oleanderstraat,31,B,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909349,52.387612
 Oleanderstraat,31,,1,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909364,52.387593
 Oleanderstraat,31,,H,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909364,52.387593
+Oleanderstraat,33,A,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909456,52.387571
+Oleanderstraat,33,B,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909461,52.387582
 Oleanderstraat,33,,1,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909438,52.387576
 Oleanderstraat,33,,H,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909438,52.387576
+Oleanderstraat,35,A,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909513,52.387559
+Oleanderstraat,35,B,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909517,52.387569
 Oleanderstraat,35,,1,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909541,52.387549
 Oleanderstraat,35,,H,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909541,52.387549
+Oleanderstraat,37,A,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909599,52.387540
+Oleanderstraat,37,B,,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909604,52.387552
 Oleanderstraat,37,,1,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909629,52.387531
 Oleanderstraat,37,,H,1031GP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909629,52.387531
 Oleanderstraat,2,,,1031GR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907498,52.387667
@@ -1895,34 +1885,64 @@ Distelweg,80,M,,1031HH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.903280,52.394606
 Distelweg,88,,,1031HH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900939,52.394992
 Ridderspoorweg,210,,,1031HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.902611,52.394881
 Ridderspoorweg,212,,,1031HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.902688,52.394864
+Lia Doranastraat,1,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899551,52.394104
+Lia Doranastraat,3,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899594,52.394146
 Lia Doranastraat,4,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899772,52.394026
+Lia Doranastraat,5,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899431,52.394013
 Lia Doranastraat,6,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899815,52.394067
+Lia Doranastraat,7,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899364,52.394006
 Lia Doranastraat,8,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899778,52.393860
+Lia Doranastraat,9,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899298,52.394000
 Lia Doranastraat,10,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899690,52.393860
+Lia Doranastraat,11,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899491,52.394071
 Lia Doranastraat,12,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899692,52.393927
+Lia Doranastraat,13,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899533,52.394112
 Lia Doranastraat,14,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899746,52.393979
+Lia Doranastraat,15,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899575,52.394153
 Lia Doranastraat,16,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899788,52.394020
+Lia Doranastraat,17,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899412,52.394020
 Lia Doranastraat,18,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899830,52.394061
+Lia Doranastraat,19,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899346,52.394013
 Lia Doranastraat,20,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899792,52.393855
+Lia Doranastraat,21,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899279,52.394007
 Lia Doranastraat,22,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899704,52.393855
+Lia Doranastraat,23,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899472,52.394078
 Lia Doranastraat,24,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899705,52.393921
+Lia Doranastraat,25,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899514,52.394119
 Lia Doranastraat,26,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899761,52.393973
+Lia Doranastraat,27,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899556,52.394160
 Lia Doranastraat,28,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899803,52.394014
+Lia Doranastraat,29,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899394,52.394027
 Lia Doranastraat,30,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899846,52.394055
+Lia Doranastraat,31,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899327,52.394020
 Lia Doranastraat,32,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899806,52.393849
+Lia Doranastraat,33,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899260,52.394014
 Lia Doranastraat,34,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899718,52.393850
+Lia Doranastraat,35,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899453,52.394085
 Lia Doranastraat,36,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899719,52.393916
+Lia Doranastraat,37,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899495,52.394126
 Lia Doranastraat,38,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899777,52.393967
+Lia Doranastraat,39,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899538,52.394167
 Lia Doranastraat,40,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899819,52.394008
+Lia Doranastraat,41,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899375,52.394034
 Lia Doranastraat,42,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899861,52.394049
+Lia Doranastraat,43,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899308,52.394028
 Lia Doranastraat,44,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899819,52.393844
+Lia Doranastraat,45,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899242,52.394021
 Lia Doranastraat,46,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899732,52.393844
+Lia Doranastraat,47,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899435,52.394092
 Lia Doranastraat,48,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899733,52.393911
+Lia Doranastraat,49,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899477,52.394133
 Lia Doranastraat,50,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899792,52.393961
+Lia Doranastraat,51,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899519,52.394174
 Lia Doranastraat,52,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899835,52.394002
+Lia Doranastraat,53,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899356,52.394041
 Lia Doranastraat,54,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899877,52.394043
+Lia Doranastraat,55,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899223,52.394028
 Lia Doranastraat,56,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899833,52.393839
+Lia Doranastraat,57,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899338,52.394048
 Lia Doranastraat,58,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899745,52.393839
+Lia Doranastraat,59,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899204,52.394035
 Lia Doranastraat,60,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899746,52.393906
 Lia Doranastraat,62,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899847,52.393834
 Lia Doranastraat,64,,,1031HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899759,52.393834
@@ -2156,7 +2176,9 @@ Asterweg,40,,,1031HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.902822,52.393463
 Asterdwarsweg,1,,,1031HR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.903480,52.392575
 Asterdwarsweg,5,,,1031HR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904037,52.392848
 Asterdwarsweg,10,,,1031HR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904007,52.392587
+Leen Jongewaardkade,31,,,1031HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899332,52.393966
 Leen Jongewaardkade,41,,,1031HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.899690,52.393840
+Leen Jongewaardkade,99,,,1031HS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900688,52.393455
 Chrysantenstraat,2,,,1031HT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.903887,52.391472
 Chrysantenstraat,4,,,1031HT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904063,52.391508
 Chrysantenstraat,6,,,1031HT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904136,52.391527
@@ -2290,6 +2312,40 @@ Grasweg,79,,,1031HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.898518,52.392468
 Grasweg,81,,,1031HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.898467,52.392535
 Grasweg,83,,,1031HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.898015,52.392436
 Grasweg,85,,,1031HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.898486,52.392565
+Conny Stuartstraat,1,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900891,52.393587
+Conny Stuartstraat,3,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900936,52.393632
+Conny Stuartstraat,5,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900807,52.393411
+Conny Stuartstraat,7,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900733,52.393439
+Conny Stuartstraat,9,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900645,52.393473
+Conny Stuartstraat,11,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900873,52.393469
+Conny Stuartstraat,13,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900926,52.393524
+Conny Stuartstraat,15,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900985,52.393583
+Conny Stuartstraat,17,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900816,52.393423
+Conny Stuartstraat,19,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900741,52.393449
+Conny Stuartstraat,21,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900652,52.393483
+Conny Stuartstraat,23,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900856,52.393476
+Conny Stuartstraat,25,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900911,52.393529
+Conny Stuartstraat,27,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900970,52.393588
+Conny Stuartstraat,29,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900825,52.393434
+Conny Stuartstraat,31,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900750,52.393458
+Conny Stuartstraat,33,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900659,52.393491
+Conny Stuartstraat,35,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900843,52.393481
+Conny Stuartstraat,37,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900920,52.393517
+Conny Stuartstraat,39,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900993,52.393593
+Conny Stuartstraat,41,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900832,52.393443
+Conny Stuartstraat,43,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900757,52.393467
+Conny Stuartstraat,45,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900664,52.393499
+Conny Stuartstraat,47,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900831,52.393486
+Conny Stuartstraat,49,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900906,52.393521
+Conny Stuartstraat,51,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900979,52.393597
+Conny Stuartstraat,53,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900864,52.393437
+Conny Stuartstraat,55,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900787,52.393462
+Conny Stuartstraat,57,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900693,52.393494
+Conny Stuartstraat,59,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900855,52.393427
+Conny Stuartstraat,61,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900776,52.393450
+Conny Stuartstraat,63,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900685,52.393481
+Conny Stuartstraat,65,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900731,52.393521
+Conny Stuartstraat,67,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.900775,52.393505
 Conny Stuartstraat,77,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.901228,52.394035
 Conny Stuartstraat,79,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.901161,52.394063
 Conny Stuartstraat,81,,,1031HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.901106,52.394082
@@ -2518,18 +2574,18 @@ Kogeldistelstraat,6,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906241,52.3
 Kogeldistelstraat,7,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906218,52.392974
 Kogeldistelstraat,8,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906288,52.392814
 Kogeldistelstraat,9,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906266,52.393024
-Kogeldistelstraat,10,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906329,52.392865
+Kogeldistelstraat,10,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906343,52.392862
 Kogeldistelstraat,11,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906312,52.393065
-Kogeldistelstraat,12,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906370,52.392906
+Kogeldistelstraat,12,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906383,52.392902
 Kogeldistelstraat,13,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906355,52.393113
 Kogeldistelstraat,14,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906424,52.392947
 Kogeldistelstraat,15,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906408,52.393150
-Kogeldistelstraat,16,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906459,52.392988
+Kogeldistelstraat,16,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906474,52.392984
 Kogeldistelstraat,17,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906456,52.393197
-Kogeldistelstraat,18,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906503,52.393035
+Kogeldistelstraat,18,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906515,52.393031
 Kogeldistelstraat,20,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906553,52.393076
 Kogeldistelstraat,22,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906601,52.393120
-Kogeldistelstraat,24,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906639,52.393161
+Kogeldistelstraat,24,,,1031JV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906656,52.393162
 Mariadistelkade,3,,,1031JW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907076,52.393155
 Mariadistelkade,5,,,1031JW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906920,52.393217
 Mariadistelkade,6,,,1031JW,Amsterdam,Amsterdam,Noord-Holland,LIG,4.906897,52.393554
@@ -3572,6 +3628,210 @@ Bercylaan,773,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904706,52.385364
 Bercylaan,775,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904764,52.385389
 Bercylaan,777,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904802,52.385351
 Bercylaan,779,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904802,52.385351
+Bercylaan,809,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,811,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,813,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,815,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,817,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,819,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,821,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,823,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,825,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,827,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,829,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,831,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,833,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,835,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,837,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,839,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,841,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,843,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,845,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,847,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,849,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,851,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,853,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,855,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,857,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,859,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,861,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,863,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,865,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,867,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,869,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,871,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,873,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,875,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905144,52.385617
+Bercylaan,877,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,879,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,881,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,883,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,885,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,887,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,889,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,891,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,893,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,895,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,897,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,899,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,901,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,903,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,905,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,907,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,909,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,911,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,913,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,915,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,917,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,919,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,921,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,923,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905180,52.385635
+Bercylaan,925,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,927,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,929,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,931,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905179,52.385636
+Bercylaan,933,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,935,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,937,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905179,52.385636
+Bercylaan,939,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905179,52.385636
+Bercylaan,941,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905179,52.385636
+Bercylaan,943,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905177,52.385635
+Bercylaan,945,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,947,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,949,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,951,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,953,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,955,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,957,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,959,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,961,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,963,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,965,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,967,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,969,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,971,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,973,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,975,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,977,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,979,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,981,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,983,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,985,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,987,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,989,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,991,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,993,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,995,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,997,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905220,52.385650
+Bercylaan,999,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905220,52.385650
+Bercylaan,1001,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905220,52.385650
+Bercylaan,1003,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905220,52.385650
+Bercylaan,1005,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905220,52.385650
+Bercylaan,1007,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385650
+Bercylaan,1009,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385649
+Bercylaan,1011,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905221,52.385650
+Bercylaan,1013,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1015,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1017,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1019,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1021,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1023,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1025,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1027,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1029,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1031,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1033,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905258,52.385664
+Bercylaan,1035,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1037,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1039,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1041,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385665
+Bercylaan,1043,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1045,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1047,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385665
+Bercylaan,1049,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385665
+Bercylaan,1051,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1053,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385665
+Bercylaan,1055,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1057,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385665
+Bercylaan,1059,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385665
+Bercylaan,1061,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1063,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385666
+Bercylaan,1065,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1067,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1069,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385666
+Bercylaan,1071,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905257,52.385665
+Bercylaan,1073,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905254,52.385666
+Bercylaan,1075,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385666
+Bercylaan,1077,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385665
+Bercylaan,1079,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905256,52.385665
+Bercylaan,1081,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1083,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1085,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1087,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1089,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1091,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1093,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1095,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1097,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1099,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1101,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1103,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385679
+Bercylaan,1105,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385680
+Bercylaan,1107,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385680
+Bercylaan,1109,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385680
+Bercylaan,1111,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385680
+Bercylaan,1113,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905289,52.385681
+Bercylaan,1115,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1117,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1119,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385680
+Bercylaan,1121,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1123,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1125,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1127,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1129,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385680
+Bercylaan,1131,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1133,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385680
+Bercylaan,1135,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905289,52.385681
+Bercylaan,1137,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905289,52.385681
+Bercylaan,1139,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905289,52.385681
+Bercylaan,1141,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1143,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905291,52.385680
+Bercylaan,1145,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1147,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905290,52.385681
+Bercylaan,1149,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1151,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1153,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1155,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1157,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1159,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905319,52.385701
+Bercylaan,1161,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905319,52.385701
+Bercylaan,1163,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1165,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905319,52.385701
+Bercylaan,1167,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905319,52.385701
+Bercylaan,1169,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1171,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905326,52.385695
+Bercylaan,1173,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1175,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1177,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1179,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1181,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1183,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1185,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905326,52.385695
+Bercylaan,1187,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1189,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1191,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1193,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1195,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1197,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1199,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1201,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1203,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1205,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1207,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905326,52.385695
+Bercylaan,1209,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905326,52.385695
+Bercylaan,1211,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1213,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
+Bercylaan,1215,,,1031KP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905324,52.385697
 Overhoeksplein,1,,,1031KS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.902266,52.383808
 Overhoeksplein,1,,,1031KS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.902414,52.383698
 Overhoeksplein,2,,,1031KS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.902879,52.384206
@@ -3612,7 +3872,167 @@ IJpromenade,2,,,1031KT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.903030,52.383088
 Badhuiskade,11,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904666,52.384620
 Badhuiskade,15,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904473,52.384559
 Badhuiskade,17,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.904015,52.385067
-Badhuiskade,345,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906151,52.385429
+Badhuiskade,35,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905918,52.385237
+Badhuiskade,37,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905911,52.385244
+Badhuiskade,39,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905899,52.385251
+Badhuiskade,41,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905925,52.385242
+Badhuiskade,43,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905918,52.385249
+Badhuiskade,45,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905909,52.385257
+Badhuiskade,47,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905904,52.385265
+Badhuiskade,49,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905930,52.385246
+Badhuiskade,51,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905936,52.385250
+Badhuiskade,53,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905926,52.385256
+Badhuiskade,55,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905919,52.385262
+Badhuiskade,57,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905913,52.385268
+Badhuiskade,59,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905944,52.385254
+Badhuiskade,63,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905934,52.385260
+Badhuiskade,65,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905928,52.385266
+Badhuiskade,67,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905921,52.385272
+Badhuiskade,69,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905951,52.385257
+Badhuiskade,71,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905942,52.385263
+Badhuiskade,73,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905895,52.385216
+Badhuiskade,75,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905889,52.385220
+Badhuiskade,77,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905878,52.385229
+Badhuiskade,79,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905867,52.385236
+Badhuiskade,81,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905859,52.385246
+Badhuiskade,83,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905889,52.385212
+Badhuiskade,85,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905882,52.385218
+Badhuiskade,87,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905872,52.385226
+Badhuiskade,89,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905862,52.385233
+Badhuiskade,91,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905853,52.385240
+Badhuiskade,93,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905846,52.385248
+Badhuiskade,95,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905839,52.385252
+Badhuiskade,97,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905831,52.385259
+Badhuiskade,99,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905841,52.385265
+Badhuiskade,101,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905876,52.385207
+Badhuiskade,103,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905871,52.385216
+Badhuiskade,105,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905856,52.385222
+Badhuiskade,107,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905849,52.385228
+Badhuiskade,109,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905840,52.385237
+Badhuiskade,111,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905831,52.385245
+Badhuiskade,113,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905821,52.385256
+Badhuiskade,115,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905813,52.385262
+Badhuiskade,117,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905820,52.385271
+Badhuiskade,119,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905841,52.385177
+Badhuiskade,121,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905831,52.385189
+Badhuiskade,123,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905816,52.385201
+Badhuiskade,125,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905802,52.385213
+Badhuiskade,127,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905792,52.385222
+Badhuiskade,129,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905776,52.385236
+Badhuiskade,131,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905765,52.385244
+Badhuiskade,133,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905759,52.385253
+Badhuiskade,135,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905751,52.385260
+Badhuiskade,137,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905829,52.385172
+Badhuiskade,139,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905820,52.385185
+Badhuiskade,141,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905805,52.385198
+Badhuiskade,143,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905792,52.385210
+Badhuiskade,145,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905779,52.385219
+Badhuiskade,147,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905764,52.385232
+Badhuiskade,149,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905751,52.385243
+Badhuiskade,151,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905737,52.385256
+Badhuiskade,153,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905729,52.385266
+Badhuiskade,155,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905818,52.385166
+Badhuiskade,157,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905807,52.385179
+Badhuiskade,159,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905793,52.385191
+Badhuiskade,161,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905777,52.385205
+Badhuiskade,163,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905765,52.385215
+Badhuiskade,165,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905749,52.385229
+Badhuiskade,167,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905734,52.385238
+Badhuiskade,169,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905720,52.385250
+Badhuiskade,171,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905712,52.385259
+Badhuiskade,173,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905787,52.385142
+Badhuiskade,175,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905772,52.385155
+Badhuiskade,177,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905753,52.385168
+Badhuiskade,179,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905740,52.385185
+Badhuiskade,181,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905724,52.385200
+Badhuiskade,183,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905706,52.385213
+Badhuiskade,185,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905695,52.385224
+Badhuiskade,187,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905685,52.385236
+Badhuiskade,189,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905673,52.385249
+Badhuiskade,191,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905774,52.385137
+Badhuiskade,193,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905760,52.385150
+Badhuiskade,195,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905742,52.385163
+Badhuiskade,197,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905727,52.385177
+Badhuiskade,199,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905711,52.385194
+Badhuiskade,201,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905692,52.385208
+Badhuiskade,203,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905679,52.385218
+Badhuiskade,205,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905667,52.385230
+Badhuiskade,207,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905657,52.385243
+Badhuiskade,209,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905765,52.385131
+Badhuiskade,211,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905748,52.385144
+Badhuiskade,213,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905730,52.385156
+Badhuiskade,215,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905714,52.385171
+Badhuiskade,217,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905696,52.385188
+Badhuiskade,219,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905677,52.385203
+Badhuiskade,221,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905666,52.385215
+Badhuiskade,223,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905651,52.385226
+Badhuiskade,225,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905641,52.385238
+Badhuiskade,227,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905728,52.385108
+Badhuiskade,229,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905711,52.385124
+Badhuiskade,231,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905693,52.385138
+Badhuiskade,233,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905678,52.385150
+Badhuiskade,235,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905655,52.385169
+Badhuiskade,237,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905639,52.385183
+Badhuiskade,239,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905626,52.385194
+Badhuiskade,241,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905612,52.385208
+Badhuiskade,243,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905595,52.385225
+Badhuiskade,245,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905714,52.385102
+Badhuiskade,247,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905695,52.385119
+Badhuiskade,249,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905676,52.385132
+Badhuiskade,251,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905654,52.385151
+Badhuiskade,253,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905637,52.385165
+Badhuiskade,255,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905622,52.385179
+Badhuiskade,257,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905605,52.385194
+Badhuiskade,259,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905586,52.385211
+Badhuiskade,261,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905702,52.385096
+Badhuiskade,263,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905683,52.385112
+Badhuiskade,265,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905662,52.385127
+Badhuiskade,267,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905643,52.385143
+Badhuiskade,269,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905622,52.385160
+Badhuiskade,271,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905604,52.385176
+Badhuiskade,273,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905588,52.385192
+Badhuiskade,275,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905569,52.385207
+Badhuiskade,277,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905496,52.385285
+Badhuiskade,279,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905506,52.385294
+Badhuiskade,281,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905516,52.385300
+Badhuiskade,283,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905526,52.385308
+Badhuiskade,285,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905541,52.385316
+Badhuiskade,287,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905553,52.385322
+Badhuiskade,289,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905568,52.385330
+Badhuiskade,291,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905578,52.385334
+Badhuiskade,293,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905588,52.385342
+Badhuiskade,295,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905605,52.385347
+Badhuiskade,297,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905617,52.385356
+Badhuiskade,299,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905632,52.385363
+Badhuiskade,301,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905646,52.385369
+Badhuiskade,303,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905660,52.385374
+Badhuiskade,305,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905670,52.385381
+Badhuiskade,307,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905683,52.385386
+Badhuiskade,309,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905506,52.385278
+Badhuiskade,311,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905518,52.385284
+Badhuiskade,313,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905525,52.385293
+Badhuiskade,315,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905538,52.385298
+Badhuiskade,317,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905550,52.385307
+Badhuiskade,319,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905561,52.385312
+Badhuiskade,321,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905574,52.385319
+Badhuiskade,323,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905588,52.385327
+Badhuiskade,325,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905597,52.385334
+Badhuiskade,327,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905611,52.385338
+Badhuiskade,329,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905623,52.385345
+Badhuiskade,331,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905634,52.385355
+Badhuiskade,333,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905651,52.385360
+Badhuiskade,335,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905666,52.385365
+Badhuiskade,337,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905676,52.385375
+Badhuiskade,339,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905689,52.385379
+Badhuiskade,341,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905573,52.385267
+Badhuiskade,343,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905595,52.385278
+Badhuiskade,345,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905613,52.385287
+Badhuiskade,347,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905631,52.385296
+Badhuiskade,349,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905650,52.385305
+Badhuiskade,351,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905674,52.385315
+Badhuiskade,353,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905695,52.385321
+Badhuiskade,355,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.905766,52.385304
+Badhuiskade,361,,,1031KV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906151,52.385429
 Jac. P. Thijsseplein,1,,1,1031TM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.910077,52.388225
 Jac. P. Thijsseplein,1,,H,1031TM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.910077,52.388225
 Jac. P. Thijsseplein,3,,1,1031TM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.910091,52.388270
@@ -4130,7 +4550,6 @@ Lange Distelstraat,27,,,1031XE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.909067,52
 Lange Distelstraat,29,,,1031XE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908964,52.391978
 Lange Distelstraat,31,,,1031XE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908684,52.392048
 Lange Distelstraat,33,,,1031XE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908625,52.392066
-Lange Distelstraat,35,,,1031XE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908566,52.392084
 Lange Distelstraat,37,,,1031XE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908257,52.392164
 Lange Distelstraat,39,,,1031XE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908183,52.392181
 Lange Distelstraat,41,,,1031XE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.908124,52.392199
@@ -4255,29 +4674,17 @@ Ranonkelkade,11,,1,1031XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907234,52.3876
 Ranonkelkade,11,,H,1031XR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907234,52.387648
 Ranonkelkade,12,A,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907119,52.387828
 Ranonkelkade,12,B,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907109,52.387842
-Ranonkelkade,12,,1,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907143,52.387836
-Ranonkelkade,12,,H,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907143,52.387836
 Ranonkelkade,13,A,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907097,52.387865
 Ranonkelkade,13,B,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907089,52.387880
-Ranonkelkade,13,,1,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907114,52.387872
-Ranonkelkade,13,,H,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907114,52.387872
 Ranonkelkade,14,A,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907068,52.387929
 Ranonkelkade,14,B,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907062,52.387943
-Ranonkelkade,14,,1,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907084,52.387935
-Ranonkelkade,14,,H,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907084,52.387935
 Ranonkelkade,15,A,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907053,52.387962
 Ranonkelkade,15,B,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907044,52.387978
-Ranonkelkade,15,,1,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907068,52.387970
-Ranonkelkade,15,,H,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907068,52.387970
 Ranonkelkade,16,A,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907026,52.388025
 Ranonkelkade,16,B,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907018,52.388039
 Ranonkelkade,16,N,,1031XS,Amsterdam,Amsterdam,Noord-Holland,LIG,4.906692,52.387912
-Ranonkelkade,16,,1,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907053,52.388024
-Ranonkelkade,16,,H,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907053,52.388024
 Ranonkelkade,17,A,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907000,52.388072
 Ranonkelkade,17,B,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907008,52.388059
-Ranonkelkade,17,,1,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907023,52.388069
-Ranonkelkade,17,,H,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.907023,52.388069
 Ranonkelkade,18,A,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906895,52.388234
 Ranonkelkade,18,B,,1031XS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.906888,52.388247
 Ranonkelkade,18,N,,1031XS,Amsterdam,Amsterdam,Noord-Holland,LIG,4.906503,52.388271

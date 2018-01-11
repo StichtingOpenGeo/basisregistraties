@@ -17,7 +17,9 @@ Witte Singel,108,A,,2313AA,Leiden,Leiden,Zuid-Holland,VBO,4.489479,52.153262
 Witte Singel,108,B,,2313AA,Leiden,Leiden,Zuid-Holland,VBO,4.489473,52.153250
 Witte Singel,108,,,2313AA,Leiden,Leiden,Zuid-Holland,VBO,4.489483,52.153273
 Witte Singel,109,,,2313AA,Leiden,Leiden,Zuid-Holland,VBO,4.489619,52.153264
+Stadhouderslaan,1,A,,2313AB,Leiden,Leiden,Zuid-Holland,VBO,4.487683,52.150486
 Stadhouderslaan,1,B,,2313AB,Leiden,Leiden,Zuid-Holland,VBO,4.487910,52.150402
+Stadhouderslaan,1,B,,2313AB,Leiden,Leiden,Zuid-Holland,VBO,4.488085,52.150384
 Stadhouderslaan,1,,,2313AB,Leiden,Leiden,Zuid-Holland,VBO,4.486796,52.150781
 Stadhouderslaan,3,,,2313AB,Leiden,Leiden,Zuid-Holland,VBO,4.486740,52.150818
 Stadhouderslaan,5,,,2313AB,Leiden,Leiden,Zuid-Holland,VBO,4.486695,52.150847
@@ -2299,7 +2301,7 @@ Burggravenlaan,169,,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502957,52.149994
 Burggravenlaan,171,,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502941,52.150009
 Burggravenlaan,173,,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502899,52.149936
 Burggravenlaan,175,,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502883,52.149952
-Burggravenlaan,177,A,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502794,52.149881
+Burggravenlaan,177,A,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502816,52.149890
 Burggravenlaan,177,B,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502752,52.149878
 Burggravenlaan,177,C,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502744,52.149853
 Burggravenlaan,177,D,,2313HR,Leiden,Leiden,Zuid-Holland,VBO,4.502565,52.149971
@@ -3198,7 +3200,6 @@ Hoge Rijndijk,116,,,2313KM,Leiden,Leiden,Zuid-Holland,VBO,4.511680,52.155205
 Hoge Rijndijk,118,A,,2313KM,Leiden,Leiden,Zuid-Holland,VBO,4.511752,52.155199
 Hoge Rijndijk,118,B,,2313KM,Leiden,Leiden,Zuid-Holland,VBO,4.511750,52.155213
 Hoge Rijndijk,118,,,2313KM,Leiden,Leiden,Zuid-Holland,VBO,4.511750,52.155186
-Hoge Rijndijk,118,,,2313KM,Leiden,Leiden,Zuid-Holland,VBO,4.511752,52.155173
 Hoge Rijndijk,120,A,,2313KM,Leiden,Leiden,Zuid-Holland,VBO,4.511835,52.155214
 Hoge Rijndijk,120,,,2313KM,Leiden,Leiden,Zuid-Holland,VBO,4.511825,52.155188
 Hoge Rijndijk,122,A,,2313KN,Leiden,Leiden,Zuid-Holland,VBO,4.511883,52.155178
@@ -3342,7 +3343,6 @@ Utrechtse Jaagpad,11,A,,2313KX,Leiden,Leiden,Zuid-Holland,VBO,4.506774,52.155980
 Utrechtse Jaagpad,11,B,,2313KX,Leiden,Leiden,Zuid-Holland,LIG,4.506804,52.156065
 Utrechtse Jaagpad,11,,,2313KX,Leiden,Leiden,Zuid-Holland,VBO,4.506801,52.155981
 Utrechtse Jaagpad,12,A,,2313KX,Leiden,Leiden,Zuid-Holland,VBO,4.506879,52.155981
-Utrechtse Jaagpad,12,,,2313KX,Leiden,Leiden,Zuid-Holland,VBO,4.506837,52.155981
 Utrechtse Jaagpad,13,A,,2313KX,Leiden,Leiden,Zuid-Holland,VBO,4.506931,52.155981
 Utrechtse Jaagpad,13,,,2313KX,Leiden,Leiden,Zuid-Holland,VBO,4.506961,52.155981
 Utrechtse Jaagpad,14,A,,2313KX,Leiden,Leiden,Zuid-Holland,VBO,4.507040,52.155980
@@ -4700,9 +4700,9 @@ Van 't Hoffstraat,52,C,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497582,52.147886
 Van 't Hoffstraat,52,D,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497622,52.147892
 Van 't Hoffstraat,52,E,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497661,52.147898
 Van 't Hoffstraat,52,F,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497727,52.147885
-Van 't Hoffstraat,52,G,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497744,52.147858
-Van 't Hoffstraat,52,H,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497763,52.147832
-Van 't Hoffstraat,52,J,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497791,52.147816
+Van 't Hoffstraat,52,G,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497745,52.147845
+Van 't Hoffstraat,52,H,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497795,52.147834
+Van 't Hoffstraat,52,J,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497788,52.147797
 Van 't Hoffstraat,52,,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497382,52.147750
 Van 't Hoffstraat,54,A,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497467,52.147571
 Van 't Hoffstraat,54,,,2313ST,Leiden,Leiden,Zuid-Holland,VBO,4.497434,52.147612
@@ -4739,6 +4739,7 @@ Zeemanlaan,55,,,2313SW,Leiden,Leiden,Zuid-Holland,VBO,4.497022,52.149852
 Zeemanlaan,57,,,2313SW,Leiden,Leiden,Zuid-Holland,VBO,4.497097,52.149880
 Zeemanlaan,2,A,,2313SX,Leiden,Leiden,Zuid-Holland,VBO,4.494972,52.149647
 Zeemanlaan,2,B,,2313SX,Leiden,Leiden,Zuid-Holland,VBO,4.494850,52.149602
+Zeemanlaan,2,C,,2313SX,Leiden,Leiden,Zuid-Holland,VBO,4.494903,52.149614
 Zeemanlaan,2,,,2313SX,Leiden,Leiden,Zuid-Holland,VBO,4.494989,52.149625
 Zeemanlaan,4,A,,2313SX,Leiden,Leiden,Zuid-Holland,VBO,4.495072,52.149662
 Zeemanlaan,4,,,2313SX,Leiden,Leiden,Zuid-Holland,VBO,4.495088,52.149643
@@ -5476,10 +5477,10 @@ Hyacinthenstraat,47,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491595,52.148270
 Hyacinthenstraat,49,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491649,52.148244
 Hyacinthenstraat,51,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.490870,52.148370
 Hyacinthenstraat,53,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.490944,52.148328
-Hyacinthenstraat,55,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491020,52.148306
-Hyacinthenstraat,57,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491096,52.148264
+Hyacinthenstraat,55,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491005,52.148294
+Hyacinthenstraat,57,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491091,52.148257
 Hyacinthenstraat,59,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491178,52.148227
-Hyacinthenstraat,61,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491291,52.148172
+Hyacinthenstraat,61,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491287,52.148165
 Hyacinthenstraat,63,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491350,52.148135
 Hyacinthenstraat,65,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491188,52.148511
 Hyacinthenstraat,67,,,2313XB,Leiden,Leiden,Zuid-Holland,VBO,4.491332,52.148444

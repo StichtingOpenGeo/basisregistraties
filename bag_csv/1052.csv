@@ -74,7 +74,6 @@ De Wittenkade,33,,HL,1052AB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879625,52.38
 De Wittenkade,33,,HR,1052AB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879625,52.384432
 De Wittenkade,35,W,,1052AC,Amsterdam,Amsterdam,Noord-Holland,LIG,4.879272,52.384447
 De Wittenkade,35,,1L,1052AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879523,52.384368
-De Wittenkade,35,,1R,1052AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879523,52.384368
 De Wittenkade,35,,2L,1052AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879523,52.384368
 De Wittenkade,35,,2R,1052AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879523,52.384368
 De Wittenkade,35,,3L,1052AC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879523,52.384368
@@ -247,6 +246,7 @@ Nassauplein,46,,,1052AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.881166,52.384519
 Nassauplein,47,,,1052AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.881196,52.384510
 Nassauplein,60,,,1052AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.880987,52.385453
 Nassauplein,62,,,1052AH,Amsterdam,Amsterdam,Noord-Holland,STA,4.880946,52.385348
+Nassauplein,64,,,1052AH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.881911,52.385101
 De Wittenstraat,3,,,1052AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.880683,52.384346
 De Wittenstraat,5,,,1052AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.880625,52.384310
 De Wittenstraat,7,A,,1052AJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.880567,52.384256
@@ -443,6 +443,7 @@ De Wittenstraat,129,,H,1052AS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876950,52.
 De Wittenstraat,145,,1,1052AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876906,52.381993
 De Wittenstraat,145,,2,1052AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876906,52.381993
 De Wittenstraat,145,,3,1052AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876906,52.381993
+De Wittenstraat,145,,4,1052AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876885,52.381989
 De Wittenstraat,145,,H,1052AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876906,52.381993
 De Wittenstraat,147,,1,1052AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876848,52.381957
 De Wittenstraat,147,,2,1052AT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876848,52.381957
@@ -1363,6 +1364,7 @@ Nassaukade,47,M,,1052CM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879018,52.382299
 Nassaukade,47,N,,1052CM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879032,52.382299
 Nassaukade,48,,,1052CM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878960,52.382245
 Nassaukade,50,A,,1052CN,Amsterdam,Amsterdam,Noord-Holland,STA,4.879540,52.381306
+Nassaukade,50,,,1052CN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.879335,52.381790
 Nassaukade,51,,1,1052CN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878911,52.381400
 Nassaukade,51,,2,1052CN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878911,52.381400
 Nassaukade,51,,3,1052CN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878911,52.381400
@@ -1394,7 +1396,7 @@ Nassaukade,57,,H,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878953,52.381084
 Nassaukade,58,,1,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878930,52.380959
 Nassaukade,58,,2,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878930,52.380959
 Nassaukade,58,,3,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878930,52.380959
-Nassaukade,58,,O,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878930,52.380959
+Nassaukade,58,,H,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878930,52.380959
 Nassaukade,59,,1,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878916,52.380905
 Nassaukade,59,,2,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878916,52.380905
 Nassaukade,59,,3,1052CP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.878916,52.380905
@@ -1521,6 +1523,8 @@ Nassaukade,78,,H,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876263,52.376670
 Nassaukade,79,,1,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876234,52.376625
 Nassaukade,79,,2,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876234,52.376625
 Nassaukade,79,,3,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876234,52.376625
+Nassaukade,79,,3,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876248,52.376645
+Nassaukade,79,,4,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876251,52.376648
 Nassaukade,79,,H,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876234,52.376625
 Nassaukade,80,,2,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876205,52.376562
 Nassaukade,80,,H,1052CT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876205,52.376562
@@ -2703,6 +2707,7 @@ Kostverlorenstraat,27,,2,1052GT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873360,5
 Kostverlorenstraat,27,,3,1052GT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873360,52.378760
 Kostverlorenstraat,27,,H,1052GT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873360,52.378760
 Kostverlorenstraat,29,,,1052GT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873272,52.378778
+Kostverlorenstraat,31,,,1052GT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873006,52.378889
 Kostverlorenstraat,2,,1,1052GV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874737,52.379036
 Kostverlorenstraat,2,,2,1052GV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874737,52.379036
 Kostverlorenstraat,2,,3,1052GV,Amsterdam,Amsterdam,Noord-Holland,VBO,4.874737,52.379036
@@ -3519,6 +3524,7 @@ Van Oldenbarneveldtplein,8,,1,1052JM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876
 Van Oldenbarneveldtplein,8,,2,1052JM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876486,52.377632
 Van Oldenbarneveldtplein,8,,3,1052JM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876486,52.377632
 Van Oldenbarneveldtplein,8,,4,1052JM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876486,52.377632
+Van Oldenbarneveldtplein,8,,5,1052JM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876475,52.377651
 Van Oldenbarneveldtplein,8,,H,1052JM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876486,52.377632
 Van Oldenbarneveldtplein,10,,1,1052JM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876398,52.377659
 Van Oldenbarneveldtplein,10,,2,1052JM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.876398,52.377659
@@ -3611,6 +3617,8 @@ Van Oldenbarneveldtstraat,37,,H,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.8
 Van Oldenbarneveldtstraat,39,,1,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875211,52.376162
 Van Oldenbarneveldtstraat,39,,2,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875211,52.376162
 Van Oldenbarneveldtstraat,39,,3,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875218,52.376176
+Van Oldenbarneveldtstraat,39,,3,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875218,52.376177
+Van Oldenbarneveldtstraat,39,,4,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875222,52.376177
 Van Oldenbarneveldtstraat,39,,H,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875211,52.376162
 Van Oldenbarneveldtstraat,41,,1,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875197,52.376108
 Van Oldenbarneveldtstraat,41,,2,1052JS,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875197,52.376108
@@ -3780,7 +3788,9 @@ Van Oldenbarneveldtstraat,10,,4,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.8
 Van Oldenbarneveldtstraat,10,,H,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875421,52.377098
 Van Oldenbarneveldtstraat,12,,1,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875392,52.377053
 Van Oldenbarneveldtstraat,12,,2,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875392,52.377053
+Van Oldenbarneveldtstraat,12,,3,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875366,52.377071
 Van Oldenbarneveldtstraat,12,,3,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875392,52.377053
+Van Oldenbarneveldtstraat,12,,4,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875352,52.377050
 Van Oldenbarneveldtstraat,12,,H,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875392,52.377053
 Van Oldenbarneveldtstraat,14,,1,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875363,52.377007
 Van Oldenbarneveldtstraat,14,,2,1052KA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.875363,52.377007
@@ -4464,6 +4474,7 @@ Tweede Hugo de Grootstraat,42,,H,1052LE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.
 Tweede Hugo de Grootstraat,44,,1,1052LE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871965,52.374971
 Tweede Hugo de Grootstraat,44,,2,1052LE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871965,52.374971
 Tweede Hugo de Grootstraat,44,,3,1052LE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871965,52.374971
+Tweede Hugo de Grootstraat,44,,4,1052LE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871965,52.374971
 Tweede Hugo de Grootstraat,44,,H,1052LE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871965,52.374971
 Tweede Hugo de Grootstraat,60,,1,1052LE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871494,52.375058
 Tweede Hugo de Grootstraat,60,,2,1052LE,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871494,52.375058
@@ -4503,7 +4514,14 @@ Tweede Hugo de Grootstraat,78,,2,1052LH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.
 Tweede Hugo de Grootstraat,78,,3,1052LH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870315,52.375431
 Tweede Hugo de Grootstraat,78,,H,1052LH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870315,52.375431
 Tweede Hugo de Grootstraat,80,,,1052LH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870358,52.375485
+Tweede Hugo de Grootstraat,82,,,1052LH,Amsterdam,Amsterdam,Noord-Holland,VBO,4.870205,52.375462
 Derde Hugo de Grootstraat,3,,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873570,52.373315
+Derde Hugo de Grootstraat,5,A,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872879,52.373465
+Derde Hugo de Grootstraat,5,B,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872928,52.373454
+Derde Hugo de Grootstraat,5,C,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872975,52.373444
+Derde Hugo de Grootstraat,5,D,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873021,52.373434
+Derde Hugo de Grootstraat,5,E,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872904,52.373449
+Derde Hugo de Grootstraat,5,F,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.873053,52.373424
 Derde Hugo de Grootstraat,5,,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872967,52.373420
 Derde Hugo de Grootstraat,7,,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872687,52.373482
 Derde Hugo de Grootstraat,9,,,1052LJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872525,52.373526
@@ -4674,6 +4692,8 @@ Hugo de Grootkade,22,W,,1052LS,Amsterdam,Amsterdam,Noord-Holland,LIG,4.873687,52
 Hugo de Grootkade,24,L,,1052LS,Amsterdam,Amsterdam,Noord-Holland,LIG,4.873400,52.373082
 Hugo de Grootkade,26,W,,1052LS,Amsterdam,Amsterdam,Noord-Holland,LIG,4.873103,52.373029
 Hugo de Grootkade,28,W,,1052LS,Amsterdam,Amsterdam,Noord-Holland,LIG,4.872739,52.372953
+Hugo de Grootkade,30,A,,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872799,52.373129
+Hugo de Grootkade,30,B,,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872777,52.373126
 Hugo de Grootkade,30,,1,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872794,52.373150
 Hugo de Grootkade,30,,2,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872794,52.373150
 Hugo de Grootkade,30,,3,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872794,52.373150
@@ -4681,16 +4701,20 @@ Hugo de Grootkade,30,,H,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872784,52
 Hugo de Grootkade,32,,1,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872720,52.373140
 Hugo de Grootkade,32,,2,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872720,52.373140
 Hugo de Grootkade,32,,3,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872720,52.373140
+Hugo de Grootkade,32,,H,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872740,52.373119
 Hugo de Grootkade,32,,H,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872784,52.373143
 Hugo de Grootkade,34,,1,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872662,52.373122
 Hugo de Grootkade,34,,2,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872662,52.373122
 Hugo de Grootkade,34,,3,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872662,52.373122
+Hugo de Grootkade,34,,H,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872675,52.373107
 Hugo de Grootkade,36,,1,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872603,52.373104
 Hugo de Grootkade,36,,2,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872603,52.373104
 Hugo de Grootkade,36,,3,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872603,52.373104
+Hugo de Grootkade,36,,H,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872621,52.373092
 Hugo de Grootkade,38,,1,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872530,52.373095
 Hugo de Grootkade,38,,2,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872530,52.373095
 Hugo de Grootkade,38,,3,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872530,52.373095
+Hugo de Grootkade,38,,H,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872547,52.373082
 Hugo de Grootkade,38,,H,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872784,52.373143
 Hugo de Grootkade,40,,1,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872471,52.373085
 Hugo de Grootkade,40,,2,1052LT,Amsterdam,Amsterdam,Noord-Holland,VBO,4.872471,52.373085
@@ -6434,6 +6458,7 @@ Gillis van Ledenberchstraat,50,,H,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4
 Gillis van Ledenberchstraat,52,,1,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871959,52.376593
 Gillis van Ledenberchstraat,52,,2,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871943,52.376597
 Gillis van Ledenberchstraat,52,,3,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871929,52.376601
+Gillis van Ledenberchstraat,52,,H,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871916,52.376586
 Gillis van Ledenberchstraat,52,,H,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871973,52.376588
 Gillis van Ledenberchstraat,54,,1,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871943,52.376537
 Gillis van Ledenberchstraat,54,,2,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871928,52.376543
@@ -6442,6 +6467,7 @@ Gillis van Ledenberchstraat,54,,H,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4
 Gillis van Ledenberchstraat,56,,1,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871859,52.376480
 Gillis van Ledenberchstraat,56,,2,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871859,52.376480
 Gillis van Ledenberchstraat,56,,3,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871859,52.376480
+Gillis van Ledenberchstraat,56,,H,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871833,52.376490
 Gillis van Ledenberchstraat,56,,H,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871973,52.376588
 Gillis van Ledenberchstraat,58,,1,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871830,52.376426
 Gillis van Ledenberchstraat,58,,2,1052VJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.871830,52.376426

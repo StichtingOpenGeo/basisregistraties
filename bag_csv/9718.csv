@@ -1,5 +1,4 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Lissabonstraat,162,,,9718AA,Groningen,Groningen,Groningen,VBO,6.555241,53.214854
 Lissabonstraat,194,,,9718AA,Groningen,Groningen,Groningen,VBO,6.554999,53.214566
 Lissabonstraat,196,,,9718AA,Groningen,Groningen,Groningen,VBO,6.554992,53.214524
 Lissabonstraat,198,,,9718AA,Groningen,Groningen,Groningen,VBO,6.554947,53.214556
@@ -354,6 +353,7 @@ Lissabonstraat,34,,,9718AZ,Groningen,Groningen,Groningen,VBO,6.555211,53.215064
 Lissabonstraat,36,,,9718AZ,Groningen,Groningen,Groningen,VBO,6.555468,53.215022
 Lissabonstraat,38,,,9718AZ,Groningen,Groningen,Groningen,VBO,6.555446,53.214824
 Lissabonstraat,40,,,9718AZ,Groningen,Groningen,Groningen,VBO,6.555167,53.214930
+Lissabonstraat,42,,,9718AZ,Groningen,Groningen,Groningen,VBO,6.555241,53.214854
 Lissabonstraat,44,,,9718AZ,Groningen,Groningen,Groningen,VBO,6.555446,53.214856
 Lissabonstraat,46,,,9718AZ,Groningen,Groningen,Groningen,VBO,6.555488,53.214871
 Lissabonstraat,48,,,9718AZ,Groningen,Groningen,Groningen,VBO,6.555532,53.214880
@@ -576,6 +576,7 @@ Lage der A,9,,,9718BJ,Groningen,Groningen,Groningen,VBO,6.559041,53.217348
 Lage der A,10,a,,9718BJ,Groningen,Groningen,Groningen,VBO,6.559028,53.217418
 Lage der A,10,,,9718BJ,Groningen,Groningen,Groningen,VBO,6.559023,53.217437
 Lage der A,11,a,,9718BJ,Groningen,Groningen,Groningen,VBO,6.559002,53.217478
+Lage der A,11,,1,9718BJ,Groningen,Groningen,Groningen,VBO,6.558956,53.217494
 Lage der A,11,,,9718BJ,Groningen,Groningen,Groningen,VBO,6.558993,53.217502
 Lage der A,12,,1,9718BJ,Groningen,Groningen,Groningen,VBO,6.558932,53.217615
 Lage der A,12,,10,9718BJ,Groningen,Groningen,Groningen,VBO,6.558927,53.217541
@@ -1112,6 +1113,7 @@ Aweg,4,,3e,9718CS,Groningen,Groningen,Groningen,VBO,6.556429,53.216742
 Aweg,4,,3f,9718CS,Groningen,Groningen,Groningen,VBO,6.556408,53.216764
 Aweg,4,,3g,9718CS,Groningen,Groningen,Groningen,VBO,6.556391,53.216784
 Aweg,4,,3h,9718CS,Groningen,Groningen,Groningen,VBO,6.556377,53.216796
+Aweg,4,,4,9718CS,Groningen,Groningen,Groningen,VBO,6.556197,53.216833
 Aweg,4,,4a,9718CS,Groningen,Groningen,Groningen,VBO,6.556453,53.216599
 Aweg,4,,4b,9718CS,Groningen,Groningen,Groningen,VBO,6.556429,53.216620
 Aweg,4,,4c,9718CS,Groningen,Groningen,Groningen,VBO,6.556408,53.216642
@@ -1325,7 +1327,6 @@ Aweg,41,a,,9718CW,Groningen,Groningen,Groningen,VBO,6.551473,53.214908
 Aweg,41,,1,9718CW,Groningen,Groningen,Groningen,VBO,6.551407,53.214936
 Aweg,41,,2,9718CW,Groningen,Groningen,Groningen,VBO,6.551394,53.214954
 Aweg,41,,,9718CW,Groningen,Groningen,Groningen,VBO,6.551420,53.214920
-Aweg,41,,,9718CW,Groningen,Groningen,Groningen,VBO,6.551434,53.214899
 Aweg,42,a,,9718CX,Groningen,Groningen,Groningen,VBO,6.551262,53.214890
 Aweg,42,b,,9718CX,Groningen,Groningen,Groningen,VBO,6.551238,53.214922
 Aweg,42,c,,9718CX,Groningen,Groningen,Groningen,VBO,6.551213,53.214958
@@ -1761,7 +1762,8 @@ Blekerstraat,15,,,9718EA,Groningen,Groningen,Groningen,VBO,6.555622,53.216539
 Blekerstraat,17,a,,9718EA,Groningen,Groningen,Groningen,VBO,6.555564,53.216491
 Blekerstraat,17,b,,9718EA,Groningen,Groningen,Groningen,VBO,6.555576,53.216505
 Blekerstraat,17,,,9718EA,Groningen,Groningen,Groningen,VBO,6.555554,53.216473
-Blekerstraat,19,a,,9718EA,Groningen,Groningen,Groningen,VBO,6.555503,53.216389
+Blekerstraat,19,a,1,9718EA,Groningen,Groningen,Groningen,VBO,6.555435,53.216421
+Blekerstraat,19,a,,9718EA,Groningen,Groningen,Groningen,VBO,6.555486,53.216424
 Blekerstraat,19,b,,9718EA,Groningen,Groningen,Groningen,VBO,6.555510,53.216406
 Blekerstraat,19,c,,9718EA,Groningen,Groningen,Groningen,VBO,6.555517,53.216425
 Blekerstraat,19,,,9718EA,Groningen,Groningen,Groningen,VBO,6.555495,53.216373
@@ -1779,7 +1781,6 @@ Blekerstraat,12,a,,9718EB,Groningen,Groningen,Groningen,VBO,6.556220,53.216854
 Blekerstraat,12,,1,9718EB,Groningen,Groningen,Groningen,VBO,6.556121,53.216773
 Blekerstraat,12,,2,9718EB,Groningen,Groningen,Groningen,VBO,6.556133,53.216761
 Blekerstraat,12,,3,9718EB,Groningen,Groningen,Groningen,VBO,6.556144,53.216747
-Blekerstraat,12,,,9718EB,Groningen,Groningen,Groningen,VBO,6.556197,53.216833
 Blekerstraat,14,a,,9718EB,Groningen,Groningen,Groningen,VBO,6.556044,53.216702
 Blekerstraat,14,,,9718EB,Groningen,Groningen,Groningen,VBO,6.556016,53.216679
 Blekerstraat,16,a,,9718EC,Groningen,Groningen,Groningen,VBO,6.555986,53.216649
@@ -1885,6 +1886,7 @@ Nieuwe Blekerstraat,135,,,9718EH,Groningen,Groningen,Groningen,VBO,6.550174,53.2
 Nieuwe Blekerstraat,2,a,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555426,53.216147
 Nieuwe Blekerstraat,2,b,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555328,53.216015
 Nieuwe Blekerstraat,2,c,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555297,53.216007
+Nieuwe Blekerstraat,2,d,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555248,53.216054
 Nieuwe Blekerstraat,2,,1,9718EJ,Groningen,Groningen,Groningen,VBO,6.555708,53.216009
 Nieuwe Blekerstraat,2,,2,9718EJ,Groningen,Groningen,Groningen,VBO,6.555646,53.216088
 Nieuwe Blekerstraat,2,,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555456,53.216137
@@ -1892,7 +1894,7 @@ Nieuwe Blekerstraat,4,a,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555365,53.21
 Nieuwe Blekerstraat,6,a,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555234,53.216142
 Nieuwe Blekerstraat,6,,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555265,53.216143
 Nieuwe Blekerstraat,8,a,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555141,53.216127
-Nieuwe Blekerstraat,8,,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555170,53.216130
+Nieuwe Blekerstraat,8,,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555201,53.216134
 Nieuwe Blekerstraat,10,a,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555045,53.216111
 Nieuwe Blekerstraat,10,,,9718EJ,Groningen,Groningen,Groningen,VBO,6.555069,53.216115
 Nieuwe Blekerstraat,12,a,,9718EJ,Groningen,Groningen,Groningen,VBO,6.554903,53.216061
@@ -2059,7 +2061,7 @@ Jozef Israëlsstraat,27,a,,9718GB,Groningen,Groningen,Groningen,VBO,6.554158,53.
 Jozef Israëlsstraat,27,,,9718GB,Groningen,Groningen,Groningen,VBO,6.554118,53.216523
 Jozef Israëlsstraat,29,,,9718GB,Groningen,Groningen,Groningen,VBO,6.554031,53.216501
 Jozef Israëlsstraat,31,,,9718GC,Groningen,Groningen,Groningen,VBO,6.553927,53.216475
-Jozef Israëlsstraat,33,,,9718GC,Groningen,Groningen,Groningen,VBO,6.553828,53.216450
+Jozef Israëlsstraat,33,a,,9718GC,Groningen,Groningen,Groningen,VBO,6.553874,53.216464
 Jozef Israëlsstraat,35,,,9718GC,Groningen,Groningen,Groningen,VBO,6.553735,53.216425
 Jozef Israëlsstraat,37,,,9718GC,Groningen,Groningen,Groningen,VBO,6.553653,53.216404
 Jozef Israëlsstraat,39,,,9718GC,Groningen,Groningen,Groningen,VBO,6.553563,53.216376
@@ -2146,8 +2148,6 @@ Jozef Israëlsstraat,8,a,,9718GJ,Groningen,Groningen,Groningen,VBO,6.555335,53.2
 Jozef Israëlsstraat,8,b,,9718GJ,Groningen,Groningen,Groningen,VBO,6.555346,53.216614
 Jozef Israëlsstraat,8,c,,9718GJ,Groningen,Groningen,Groningen,VBO,6.555360,53.216594
 Jozef Israëlsstraat,8,,1,9718GJ,Groningen,Groningen,Groningen,VBO,6.555377,53.216620
-Jozef Israëlsstraat,8,,,9718GJ,Groningen,Groningen,Groningen,VBO,6.555318,53.216653
-Jozef Israëlsstraat,8,,,9718GJ,Groningen,Groningen,Groningen,VBO,6.555348,53.216661
 Jozef Israëlsstraat,8,,,9718GJ,Groningen,Groningen,Groningen,VBO,6.555363,53.216638
 Jozef Israëlsstraat,10,a,,9718GJ,Groningen,Groningen,Groningen,VBO,6.555237,53.216631
 Jozef Israëlsstraat,10,,,9718GJ,Groningen,Groningen,Groningen,VBO,6.555197,53.216621
@@ -2336,7 +2336,6 @@ H.W. Mesdagstraat,10,n,,9718HG,Groningen,Groningen,Groningen,VBO,6.554353,53.216
 H.W. Mesdagstraat,10,,,9718HG,Groningen,Groningen,Groningen,VBO,6.554322,53.217002
 H.W. Mesdagstraat,12,,,9718HG,Groningen,Groningen,Groningen,VBO,6.554198,53.216972
 H.W. Mesdagstraat,14,a,,9718HG,Groningen,Groningen,Groningen,VBO,6.554079,53.216942
-H.W. Mesdagstraat,14,a,,9718HG,Groningen,Groningen,Groningen,VBO,6.554129,53.216953
 H.W. Mesdagstraat,14,b,,9718HG,Groningen,Groningen,Groningen,VBO,6.554122,53.216931
 H.W. Mesdagstraat,16,,,9718HH,Groningen,Groningen,Groningen,VBO,6.553989,53.216920
 H.W. Mesdagstraat,18,a,,9718HH,Groningen,Groningen,Groningen,VBO,6.553900,53.216896
@@ -2465,7 +2464,6 @@ Leeuwarderstraat,22,,,9718HX,Groningen,Groningen,Groningen,VBO,6.553535,53.21739
 Leeuwarderstraat,24,,,9718HX,Groningen,Groningen,Groningen,VBO,6.553461,53.217378
 Leeuwarderstraat,26,,,9718HX,Groningen,Groningen,Groningen,VBO,6.553392,53.217362
 Leeuwarderstraat,28,,,9718HX,Groningen,Groningen,Groningen,VBO,6.553300,53.217342
-Leeuwarderstraat,30,a,,9718HZ,Groningen,Groningen,Groningen,VBO,6.553256,53.217328
 Leeuwarderstraat,30,,,9718HZ,Groningen,Groningen,Groningen,VBO,6.553219,53.217321
 Leeuwarderstraat,32,,,9718HZ,Groningen,Groningen,Groningen,VBO,6.553155,53.217306
 Leeuwarderstraat,34,a,,9718HZ,Groningen,Groningen,Groningen,VBO,6.553097,53.217293
@@ -2552,6 +2550,8 @@ Kraneweg,13,,13,9718JC,Groningen,Groningen,Groningen,VBO,6.553759,53.218505
 Kraneweg,13,,14,9718JC,Groningen,Groningen,Groningen,VBO,6.553794,53.218516
 Kraneweg,13,,15,9718JC,Groningen,Groningen,Groningen,VBO,6.553826,53.218525
 Kraneweg,13,,16,9718JC,Groningen,Groningen,Groningen,VBO,6.553866,53.218536
+Kraneweg,13,,17,9718JC,Groningen,Groningen,Groningen,VBO,6.553908,53.218544
+Kraneweg,13,,18,9718JC,Groningen,Groningen,Groningen,VBO,6.553948,53.218554
 Kraneweg,13,,19,9718JC,Groningen,Groningen,Groningen,VBO,6.553624,53.218501
 Kraneweg,13,,2,9718JC,Groningen,Groningen,Groningen,VBO,6.553697,53.218459
 Kraneweg,13,,3,9718JC,Groningen,Groningen,Groningen,VBO,6.553731,53.218469
@@ -2774,7 +2774,8 @@ Kraneweg,92,,,9718JX,Groningen,Groningen,Groningen,VBO,6.548039,53.216403
 Kraneweg,94,,,9718JX,Groningen,Groningen,Groningen,VBO,6.548007,53.216404
 Kraneweg,96,,,9718JX,Groningen,Groningen,Groningen,VBO,6.547971,53.216405
 Kraneweg,98,,,9718JX,Groningen,Groningen,Groningen,VBO,6.547940,53.216408
-Kraneweg,102,,,9718JX,Groningen,Groningen,Groningen,VBO,6.547868,53.216388
+Kraneweg,102,a,,9718JX,Groningen,Groningen,Groningen,VBO,6.547867,53.216383
+Kraneweg,102,,,9718JX,Groningen,Groningen,Groningen,VBO,6.547905,53.216393
 Otto Eerelmanstraat,1,b,,9718JZ,Groningen,Groningen,Groningen,VBO,6.553333,53.218207
 Otto Eerelmanstraat,1,c,,9718JZ,Groningen,Groningen,Groningen,VBO,6.553520,53.218166
 Otto Eerelmanstraat,1,d,,9718JZ,Groningen,Groningen,Groningen,VBO,6.553559,53.218175
@@ -3321,7 +3322,6 @@ Wassenberghstraat,25,c,,9718LH,Groningen,Groningen,Groningen,VBO,6.550171,53.217
 Wassenberghstraat,25,d,,9718LH,Groningen,Groningen,Groningen,VBO,6.550161,53.217994
 Wassenberghstraat,25,,1,9718LH,Groningen,Groningen,Groningen,VBO,6.549193,53.217714
 Wassenberghstraat,25,,,9718LH,Groningen,Groningen,Groningen,VBO,6.550152,53.217953
-Wassenberghstraat,25,,,9718LH,Groningen,Groningen,Groningen,VBO,6.550158,53.217948
 Wassenberghstraat,27,,,9718LH,Groningen,Groningen,Groningen,VBO,6.549109,53.217694
 Wassenberghstraat,29,,,9718LH,Groningen,Groningen,Groningen,VBO,6.549039,53.217677
 Wassenberghstraat,31,,,9718LH,Groningen,Groningen,Groningen,VBO,6.548953,53.217656
@@ -3997,7 +3997,55 @@ Friesestraatweg,20,,7,9718NH,Groningen,Groningen,Groningen,VBO,6.546413,53.21660
 Friesestraatweg,20,,8,9718NH,Groningen,Groningen,Groningen,VBO,6.546414,53.216590
 Friesestraatweg,20,,9,9718NH,Groningen,Groningen,Groningen,VBO,6.546414,53.216574
 Friesestraatweg,22,,1,9718NH,Groningen,Groningen,Groningen,VBO,6.546309,53.216710
+Friesestraatweg,22,,10,9718NH,Groningen,Groningen,Groningen,VBO,6.545843,53.216972
+Friesestraatweg,22,,11,9718NH,Groningen,Groningen,Groningen,VBO,6.545903,53.216939
+Friesestraatweg,22,,12,9718NH,Groningen,Groningen,Groningen,VBO,6.545957,53.216913
+Friesestraatweg,22,,13,9718NH,Groningen,Groningen,Groningen,VBO,6.546189,53.216805
+Friesestraatweg,22,,14,9718NH,Groningen,Groningen,Groningen,VBO,6.546154,53.216863
+Friesestraatweg,22,,15,9718NH,Groningen,Groningen,Groningen,VBO,6.545927,53.216750
+Friesestraatweg,22,,16,9718NH,Groningen,Groningen,Groningen,VBO,6.545874,53.216778
+Friesestraatweg,22,,17,9718NH,Groningen,Groningen,Groningen,VBO,6.545806,53.216819
+Friesestraatweg,22,,18,9718NH,Groningen,Groningen,Groningen,VBO,6.545745,53.216851
+Friesestraatweg,22,,19,9718NH,Groningen,Groningen,Groningen,VBO,6.545659,53.216893
 Friesestraatweg,22,,2,9718NH,Groningen,Groningen,Groningen,VBO,6.546236,53.216755
+Friesestraatweg,22,,20,9718NH,Groningen,Groningen,Groningen,VBO,6.545613,53.216918
+Friesestraatweg,22,,21,9718NH,Groningen,Groningen,Groningen,VBO,6.545761,53.216986
+Friesestraatweg,22,,22,9718NH,Groningen,Groningen,Groningen,VBO,6.545818,53.216952
+Friesestraatweg,22,,23,9718NH,Groningen,Groningen,Groningen,VBO,6.545880,53.216920
+Friesestraatweg,22,,24,9718NH,Groningen,Groningen,Groningen,VBO,6.545929,53.216890
+Friesestraatweg,22,,25,9718NH,Groningen,Groningen,Groningen,VBO,6.546111,53.216853
+Friesestraatweg,22,,26,9718NH,Groningen,Groningen,Groningen,VBO,6.546156,53.216795
+Friesestraatweg,22,,27,9718NH,Groningen,Groningen,Groningen,VBO,6.545946,53.216762
+Friesestraatweg,22,,28,9718NH,Groningen,Groningen,Groningen,VBO,6.545910,53.216789
+Friesestraatweg,22,,29,9718NH,Groningen,Groningen,Groningen,VBO,6.545828,53.216831
+Friesestraatweg,22,,3,9718NH,Groningen,Groningen,Groningen,VBO,6.545908,53.216737
+Friesestraatweg,22,,30,9718NH,Groningen,Groningen,Groningen,VBO,6.545759,53.216865
+Friesestraatweg,22,,31,9718NH,Groningen,Groningen,Groningen,VBO,6.545684,53.216904
+Friesestraatweg,22,,32,9718NH,Groningen,Groningen,Groningen,VBO,6.545634,53.216929
+Friesestraatweg,22,,33,9718NH,Groningen,Groningen,Groningen,VBO,6.545743,53.216976
+Friesestraatweg,22,,34,9718NH,Groningen,Groningen,Groningen,VBO,6.545804,53.216941
+Friesestraatweg,22,,35,9718NH,Groningen,Groningen,Groningen,VBO,6.545865,53.216911
+Friesestraatweg,22,,36,9718NH,Groningen,Groningen,Groningen,VBO,6.545917,53.216883
+Friesestraatweg,22,,37,9718NH,Groningen,Groningen,Groningen,VBO,6.546075,53.216844
+Friesestraatweg,22,,38,9718NH,Groningen,Groningen,Groningen,VBO,6.546127,53.216790
+Friesestraatweg,22,,39,9718NH,Groningen,Groningen,Groningen,VBO,6.545961,53.216772
+Friesestraatweg,22,,4,9718NH,Groningen,Groningen,Groningen,VBO,6.545836,53.216770
+Friesestraatweg,22,,40,9718NH,Groningen,Groningen,Groningen,VBO,6.545926,53.216797
+Friesestraatweg,22,,41,9718NH,Groningen,Groningen,Groningen,VBO,6.545843,53.216843
+Friesestraatweg,22,,42,9718NH,Groningen,Groningen,Groningen,VBO,6.545771,53.216878
+Friesestraatweg,22,,43,9718NH,Groningen,Groningen,Groningen,VBO,6.545699,53.216917
+Friesestraatweg,22,,44,9718NH,Groningen,Groningen,Groningen,VBO,6.545651,53.216943
+Friesestraatweg,22,,45,9718NH,Groningen,Groningen,Groningen,VBO,6.545729,53.216969
+Friesestraatweg,22,,46,9718NH,Groningen,Groningen,Groningen,VBO,6.545792,53.216931
+Friesestraatweg,22,,47,9718NH,Groningen,Groningen,Groningen,VBO,6.545850,53.216904
+Friesestraatweg,22,,48,9718NH,Groningen,Groningen,Groningen,VBO,6.545901,53.216872
+Friesestraatweg,22,,49,9718NH,Groningen,Groningen,Groningen,VBO,6.546050,53.216835
+Friesestraatweg,22,,5,9718NH,Groningen,Groningen,Groningen,VBO,6.545772,53.216803
+Friesestraatweg,22,,50,9718NH,Groningen,Groningen,Groningen,VBO,6.546099,53.216783
+Friesestraatweg,22,,6,9718NH,Groningen,Groningen,Groningen,VBO,6.545717,53.216832
+Friesestraatweg,22,,7,9718NH,Groningen,Groningen,Groningen,VBO,6.545616,53.216886
+Friesestraatweg,22,,8,9718NH,Groningen,Groningen,Groningen,VBO,6.545574,53.216910
+Friesestraatweg,22,,9,9718NH,Groningen,Groningen,Groningen,VBO,6.545799,53.216995
 Friesestraatweg,24,b,,9718NJ,Groningen,Groningen,Groningen,VBO,6.545722,53.216936
 Friesestraatweg,24,,1,9718NJ,Groningen,Groningen,Groningen,VBO,6.545677,53.217059
 Friesestraatweg,24,,10,9718NJ,Groningen,Groningen,Groningen,VBO,6.544996,53.217427
@@ -4095,9 +4143,7 @@ Friesestraatweg,374,,,9718NW,Groningen,Groningen,Groningen,VBO,6.542055,53.21919
 Friesestraatweg,376,,,9718NW,Groningen,Groningen,Groningen,VBO,6.541912,53.219180
 Friesestraatweg,378,,,9718NW,Groningen,Groningen,Groningen,VBO,6.541954,53.219200
 Friesestraatweg,380,,,9718NW,Groningen,Groningen,Groningen,VBO,6.541848,53.219220
-Friesestraatweg,382,a,,9718NW,Groningen,Groningen,Groningen,VBO,6.541893,53.219241
 Friesestraatweg,382,,,9718NW,Groningen,Groningen,Groningen,VBO,6.541893,53.219241
-Friesestraatweg,382,,,9718NW,Groningen,Groningen,Groningen,VBO,6.541923,53.219261
 Friesestraatweg,384,,,9718NW,Groningen,Groningen,Groningen,VBO,6.541781,53.219256
 Friesestraatweg,386,,,9718NW,Groningen,Groningen,Groningen,VBO,6.541822,53.219280
 Friesestraatweg,388,,,9718NW,Groningen,Groningen,Groningen,VBO,6.541760,53.219344
@@ -4171,7 +4217,6 @@ Eerste Spoorstraat,40,,,9718PB,Groningen,Groningen,Groningen,VBO,6.540776,53.218
 Eerste Spoorstraat,42,,,9718PB,Groningen,Groningen,Groningen,VBO,6.540703,53.218535
 Eerste Spoorstraat,44,,,9718PB,Groningen,Groningen,Groningen,VBO,6.540630,53.218518
 Tweede Spoorstraat,1,a,,9718PC,Groningen,Groningen,Groningen,VBO,6.541315,53.219397
-Tweede Spoorstraat,1,b,,9718PC,Groningen,Groningen,Groningen,VBO,6.541288,53.219412
 Tweede Spoorstraat,1,,,9718PC,Groningen,Groningen,Groningen,VBO,6.541290,53.219382
 Tweede Spoorstraat,3,,,9718PC,Groningen,Groningen,Groningen,VBO,6.541229,53.219343
 Tweede Spoorstraat,5,a,,9718PC,Groningen,Groningen,Groningen,VBO,6.541190,53.219318
@@ -4378,7 +4423,7 @@ Rembrandt van Rijnstraat,216,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543840
 Rembrandt van Rijnstraat,218,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543854,53.216922
 Rembrandt van Rijnstraat,220,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543869,53.216897
 Rembrandt van Rijnstraat,222,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543888,53.216872
-Rembrandt van Rijnstraat,224,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543754,53.217227
+Rembrandt van Rijnstraat,224,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543884,53.216983
 Rembrandt van Rijnstraat,226,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543768,53.217208
 Rembrandt van Rijnstraat,228,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543780,53.217190
 Rembrandt van Rijnstraat,230,,,9718PT,Groningen,Groningen,Groningen,VBO,6.543793,53.217171
@@ -5087,7 +5132,10 @@ Hoendiep,51,,,9718TC,Groningen,Groningen,Groningen,VBO,6.546677,53.214383
 Hoendiep,53,,,9718TC,Groningen,Groningen,Groningen,VBO,6.546122,53.214253
 Hoendiep,55,a,,9718TC,Groningen,Groningen,Groningen,VBO,6.546040,53.214240
 Hoendiep,55,,,9718TC,Groningen,Groningen,Groningen,VBO,6.545992,53.214230
+Hoendiep,57,a,,9718TC,Groningen,Groningen,Groningen,VBO,6.545777,53.214233
 Hoendiep,57,a,,9718TC,Groningen,Groningen,Groningen,VBO,6.545796,53.214210
+Hoendiep,57,b,,9718TC,Groningen,Groningen,Groningen,VBO,6.545796,53.214210
+Hoendiep,57,c,,9718TC,Groningen,Groningen,Groningen,VBO,6.545808,53.214229
 Hoendiep,57,,,9718TC,Groningen,Groningen,Groningen,VBO,6.545812,53.214188
 Hoendiep,59,a,,9718TC,Groningen,Groningen,Groningen,VBO,6.545850,53.214221
 Hoendiep,59,,,9718TC,Groningen,Groningen,Groningen,VBO,6.545865,53.214199
@@ -5135,6 +5183,8 @@ Hoendiep,97,b,,9718TE,Groningen,Groningen,Groningen,VBO,6.536481,53.213801
 Hoendiep,97,c,,9718TE,Groningen,Groningen,Groningen,VBO,6.536196,53.213877
 Hoendiep,97,d,1,9718TE,Groningen,Groningen,Groningen,VBO,6.535520,53.214406
 Hoendiep,97,d,2,9718TE,Groningen,Groningen,Groningen,VBO,6.535582,53.214551
+Hoendiep,97,d,2,9718TE,Groningen,Groningen,Groningen,VBO,6.535590,53.214534
+Hoendiep,97,d,3,9718TE,Groningen,Groningen,Groningen,VBO,6.535713,53.214737
 Hoendiep,97,d,,9718TE,Groningen,Groningen,Groningen,VBO,6.535631,53.214215
 Hoendiep,97,d,,9718TE,Groningen,Groningen,Groningen,VBO,6.535669,53.214157
 Hoendiep,97,e,,9718TE,Groningen,Groningen,Groningen,VBO,6.538088,53.213583
