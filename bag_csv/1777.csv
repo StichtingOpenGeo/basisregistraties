@@ -74,7 +74,6 @@ Elft,31,,,1777AC,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.967266,52.906
 Elft,33,,,1777AC,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.967446,52.906913
 Elft,35,,,1777AC,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.967553,52.906943
 Elft,37,,,1777AC,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.967662,52.906973
-Elft,39,,,1777AC,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.967759,52.906988
 Elft,41,,,1777AC,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.967831,52.907001
 Elft,45,,,1777AC,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.968104,52.907048
 Elft,47,a,,1777AC,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.968496,52.907059
@@ -109,7 +108,7 @@ Slingerweg,19,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966037,
 Slingerweg,21,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966103,52.912140
 Slingerweg,25,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966316,52.912029
 Slingerweg,27,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966352,52.911981
-Slingerweg,29,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966698,52.911920
+Slingerweg,29,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966495,52.911755
 Slingerweg,31,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966559,52.911608
 Slingerweg,33,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966604,52.911573
 Slingerweg,35,,,1777AE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.966639,52.911526
@@ -370,6 +369,7 @@ Tjatting,45,,,1777AZ,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.972008,52
 Parklaan,1,a,,1777BA,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963165,52.907819
 Parklaan,1,a,,1777BA,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963197,52.907778
 Parklaan,1,b,,1777BA,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963088,52.907746
+Parklaan,1,c,,1777BA,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963252,52.907870
 Parklaan,1,,,1777BA,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963046,52.907832
 Parklaan,1,,,1777BA,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963312,52.907817
 Parklaan,9,,,1777BA,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963769,52.907984
@@ -884,7 +884,7 @@ Zandburen,20,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963629,5
 Zandburen,24,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963516,52.910875
 Zandburen,26,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963440,52.910773
 Zandburen,28,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963340,52.910671
-Zandburen,30,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963287,52.910474
+Zandburen,30,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963237,52.910470
 Zandburen,32,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963131,52.910035
 Zandburen,34,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963107,52.909896
 Zandburen,38,,,1777CS,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.963067,52.909755
@@ -1742,7 +1742,7 @@ Molenveld,43,,,1777HN,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.950974,5
 Molenveld,2,,,1777HP,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.952264,52.901703
 Molenveld,4,a,,1777HP,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.952145,52.902019
 Molenveld,4,b,,1777HP,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.951788,52.902290
-Molenveld,4,c,,1777HP,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.951861,52.901874
+Molenveld,4,c,,1777HP,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.951983,52.901903
 Molenveld,4,d,,1777HP,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.951861,52.901874
 Molenveld,4,e,,1777HP,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.951524,52.901842
 Molenveld,4,f,,1777HP,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.952105,52.902205
@@ -1800,6 +1800,7 @@ De Wieken,50,,,1777HT,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.948988,5
 De Wieken,52,,,1777HT,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.948757,52.901578
 De Wieken,54,,,1777HT,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.948640,52.901761
 De Wieken,56,,,1777HT,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.948533,52.901889
+Schoor,2,,,1777HV,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.948268,52.901471
 Schoor,4,,,1777HV,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.948045,52.901473
 Schoor,5,,,1777HV,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.948262,52.901239
 Schoor,7,,,1777HV,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.948117,52.901129
@@ -2294,7 +2295,7 @@ Stroeërweg,39,a,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.98543
 Stroeërweg,39,,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.985873,52.929042
 Stroeërweg,40,,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.980990,52.928802
 Stroeërweg,41,,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.988098,52.928191
-Stroeërweg,42,,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.981697,52.929137
+Stroeërweg,42,,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.981778,52.929147
 Stroeërweg,44,,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.982711,52.929349
 Stroeërweg,46,,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.984027,52.929286
 Stroeërweg,48,,,1777NE,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.986664,52.929209
@@ -2535,9 +2536,9 @@ Stroeërdijk,2,a,,1777PG,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.99084
 Stroeërdijk,2,,,1777PG,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.991494,52.911267
 Stroeërdijk,3,,,1777PG,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.992723,52.911598
 Stroeërdijk,5,,,1777PG,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.994557,52.911995
-Burgerweg,2,,,1777PH,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.996443,52.903801
-Burgerweg,2,,,1777PH,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.996944,52.903805
+Burgerweg,2,,,1777PH,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,4.996768,52.903610
 Polderweg,1,,,1777PJ,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,5.000193,52.905655
+Polderweg,5,,,1777PJ,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,5.006650,52.909310
 Polderweg,6,t,,1777PJ,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,5.007368,52.910140
 Polderweg,6,,,1777PJ,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,5.007636,52.910367
 Polderweg,7,,,1777PJ,Hippolytushoef,Hollands Kroon,Noord-Holland,VBO,5.007344,52.909657

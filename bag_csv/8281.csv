@@ -211,7 +211,6 @@ Langestraat,242,,,8281AR,Genemuiden,Zwartewaterland,Overijssel,VBO,6.039891,52.6
 Langestraat,244,,,8281AS,Genemuiden,Zwartewaterland,Overijssel,VBO,6.039891,52.619864
 Langestraat,246,,,8281AS,Genemuiden,Zwartewaterland,Overijssel,VBO,6.039884,52.619810
 Langestraat,252,,,8281AS,Genemuiden,Zwartewaterland,Overijssel,VBO,6.039900,52.619691
-Langestraat,256,,,8281AS,Genemuiden,Zwartewaterland,Overijssel,VBO,6.039893,52.619618
 Langestraat,258,,,8281AS,Genemuiden,Zwartewaterland,Overijssel,VBO,6.039915,52.619557
 Langestraat,260,,,8281AS,Genemuiden,Zwartewaterland,Overijssel,VBO,6.039819,52.619546
 Langestraat,262,,,8281AS,Genemuiden,Zwartewaterland,Overijssel,VBO,6.039745,52.619535
@@ -520,7 +519,8 @@ Sasdijk,15,,,8281BM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.049340,52.627622
 Sasdijk,17,,,8281BM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.049327,52.627519
 Sasdijk,18,,,8281BM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.050634,52.627918
 Sasdijk,20,,,8281BM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.051664,52.627920
-Sasdijk,26,,,8281BM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.052278,52.626722
+Sasdijk,26,a,,8281BM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.052139,52.626810
+Sasdijk,26,,,8281BM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.052281,52.626694
 Industriestraat,3,,,8281BN,Genemuiden,Zwartewaterland,Overijssel,VBO,6.041203,52.627419
 Industriestraat,15,,,8281BN,Genemuiden,Zwartewaterland,Overijssel,VBO,6.044557,52.627517
 Industriestraat,17,,,8281BN,Genemuiden,Zwartewaterland,Overijssel,VBO,6.044850,52.627490
@@ -2179,6 +2179,7 @@ Tagweg,2,b,,8281HE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032711,52.624289
 Tagweg,2,c,,8281HE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032711,52.624234
 Tagweg,2,d,,8281HE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032684,52.624188
 Tagweg,2,e,,8281HE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032664,52.624132
+Tagweg,2,,,8281HE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032652,52.623651
 Tagweg,4,,,8281HE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032533,52.623526
 Tagweg,6,,,8281HE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032494,52.623481
 Tagweg,8,,,8281HE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032333,52.623311
@@ -2205,10 +2206,22 @@ Vierroeder,11,,,8281HG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.033190,52.624
 Vierroeder,13,,,8281HG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.033260,52.624234
 Vierroeder,15,,,8281HG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.033287,52.624283
 Schuurberg,1,,,8281HH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032711,52.623111
+Schuurberg,2,,,8281HH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032920,52.623297
 Schuurberg,3,,,8281HH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032661,52.623071
 Schuurberg,5,,,8281HH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032613,52.622935
 Schuurberg,7,,,8281HH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032556,52.622893
 Schuurberg,9,,,8281HH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032487,52.622750
+Dijkkamer,1,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031790,52.622606
+Dijkkamer,3,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031865,52.622645
+Dijkkamer,5,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031935,52.622684
+Dijkkamer,7,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032198,52.622493
+Dijkkamer,9,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032116,52.622450
+Dijkkamer,11,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032021,52.622404
+Dijkkamer,13,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031934,52.622357
+Dijkkamer,15,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031775,52.622302
+Dijkkamer,17,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031680,52.622437
+Dijkkamer,19,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031582,52.622494
+Dijkkamer,21,,,8281HJ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031501,52.622542
 Kapberg,1,,,8281HM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032177,52.623671
 Kapberg,2,,,8281HM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.031959,52.623481
 Kapberg,3,,,8281HM,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032112,52.623703
@@ -2288,6 +2301,7 @@ Kokosstraat,10,,,8281JC,Genemuiden,Zwartewaterland,Overijssel,VBO,6.054679,52.62
 Kokosstraat,16,,,8281JC,Genemuiden,Zwartewaterland,Overijssel,VBO,6.055536,52.627227
 Kokosstraat,18,,,8281JC,Genemuiden,Zwartewaterland,Overijssel,VBO,6.056618,52.627572
 Kokosstraat,20,,,8281JC,Genemuiden,Zwartewaterland,Overijssel,VBO,6.057096,52.628030
+Nijverheidstraat,11,,,8281JD,Genemuiden,Zwartewaterland,Overijssel,VBO,6.056096,52.625654
 Nijverheidstraat,13,,,8281JD,Genemuiden,Zwartewaterland,Overijssel,VBO,6.056606,52.624241
 Nijverheidstraat,15,,,8281JD,Genemuiden,Zwartewaterland,Overijssel,VBO,6.057072,52.623942
 Nijverheidstraat,17,,,8281JD,Genemuiden,Zwartewaterland,Overijssel,VBO,6.057626,52.623473
@@ -2317,7 +2331,6 @@ Biezenstraat,3,,,8281JG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.056770,52.62
 Biezenstraat,4,,,8281JG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.056096,52.625654
 Biezenstraat,8,,,8281JG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.057065,52.626079
 Biezenstraat,9,,,8281JG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.058746,52.627070
-Biezenstraat,10,,,8281JG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.057837,52.625250
 Biezenstraat,14,,,8281JG,Genemuiden,Zwartewaterland,Overijssel,VBO,6.059140,52.626860
 De Blokmat,1,,,8281JH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.058340,52.617023
 De Blokmat,7,,,8281JH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.058126,52.616333
@@ -2521,7 +2534,6 @@ Nylonstraat,14,,4,8281JX,Genemuiden,Zwartewaterland,Overijssel,VBO,6.060660,52.6
 Nylonstraat,14,,5,8281JX,Genemuiden,Zwartewaterland,Overijssel,VBO,6.060720,52.615367
 Nylonstraat,14,,6,8281JX,Genemuiden,Zwartewaterland,Overijssel,VBO,6.060518,52.615755
 Nylonstraat,16,,,8281JX,Genemuiden,Zwartewaterland,Overijssel,VBO,6.060926,52.615904
-Katoenstraat,6,,,8281JZ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.059626,52.613812
 Katoenstraat,7,,1,8281JZ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.059791,52.614264
 Katoenstraat,7,,2,8281JZ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.059698,52.614362
 Katoenstraat,7,,3,8281JZ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.059868,52.614290
@@ -2911,14 +2923,14 @@ Zwanebloem,17,,,8281LE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.032795,52.630
 Zwanebloem,19,,,8281LE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.033018,52.630532
 Zwanebloem,21,,,8281LE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.033103,52.630545
 Zwanebloem,23,,,8281LE,Genemuiden,Zwartewaterland,Overijssel,VBO,6.033309,52.630570
-Valeriaan,2,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034489,52.628747
-Valeriaan,4,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034557,52.628728
-Valeriaan,6,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034633,52.628706
-Valeriaan,8,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034716,52.628686
-Valeriaan,10,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034516,52.628785
-Valeriaan,12,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034585,52.628768
-Valeriaan,14,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034662,52.628749
-Valeriaan,16,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034742,52.628729
+Valeriaan,2,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034710,52.628690
+Valeriaan,4,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034641,52.628707
+Valeriaan,6,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034555,52.628731
+Valeriaan,8,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034483,52.628749
+Valeriaan,10,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034742,52.628735
+Valeriaan,12,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034663,52.628756
+Valeriaan,14,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034589,52.628775
+Valeriaan,16,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034507,52.628796
 Valeriaan,18,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034884,52.628803
 Valeriaan,20,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034942,52.628841
 Valeriaan,22,,,8281LH,Genemuiden,Zwartewaterland,Overijssel,VBO,6.034995,52.628883
@@ -3723,6 +3735,7 @@ Kamperzeedijk,109,,,8281PD,Genemuiden,Zwartewaterland,Overijssel,VBO,5.992564,52
 Kamperzeedijk,111,a,,8281PD,Genemuiden,Zwartewaterland,Overijssel,VBO,5.991226,52.597870
 Kamperzeedijk,111,,,8281PD,Genemuiden,Zwartewaterland,Overijssel,VBO,5.991055,52.597869
 Kamperzeedijk,113,,,8281PD,Genemuiden,Zwartewaterland,Overijssel,VBO,5.990803,52.597942
+Kamperzeedijk,115,a,,8281PD,Genemuiden,Zwartewaterland,Overijssel,VBO,5.990275,52.597339
 Kamperzeedijk,115,,,8281PD,Genemuiden,Zwartewaterland,Overijssel,VBO,5.990102,52.597776
 Kamperzeedijk,117,a,,8281PD,Genemuiden,Zwartewaterland,Overijssel,VBO,5.989553,52.597528
 Kamperzeedijk,117,,,8281PD,Genemuiden,Zwartewaterland,Overijssel,VBO,5.989741,52.597606
@@ -3844,7 +3857,6 @@ Korenbeltweg,3,,,8281PT,Genemuiden,Zwartewaterland,Overijssel,VBO,6.023217,52.59
 Korenbeltweg,5,,,8281PT,Genemuiden,Zwartewaterland,Overijssel,VBO,6.025045,52.599897
 Korenbeltweg,7,,,8281PT,Genemuiden,Zwartewaterland,Overijssel,VBO,6.027183,52.600214
 Korenbeltweg,9,,,8281PT,Genemuiden,Zwartewaterland,Overijssel,VBO,6.027045,52.600454
-Korenbeltweg,11,a,,8281PT,Genemuiden,Zwartewaterland,Overijssel,VBO,6.027665,52.600651
 Korenbeltweg,11,,,8281PT,Genemuiden,Zwartewaterland,Overijssel,VBO,6.027251,52.600546
 Korenbeltweg,13,,,8281PT,Genemuiden,Zwartewaterland,Overijssel,VBO,6.029864,52.601560
 Korenbeltweg,15,,,8281PT,Genemuiden,Zwartewaterland,Overijssel,VBO,6.030474,52.601748
@@ -3917,9 +3929,8 @@ Sanssenhekkenweg,6,,,8281PZ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.009851,5
 Sanssenhekkenweg,7,,,8281PZ,Genemuiden,Zwartewaterland,Overijssel,VBO,6.009597,52.618461
 Polleboersweg,1,a,,8281RA,Genemuiden,Zwartewaterland,Overijssel,VBO,6.044414,52.607635
 Polleboersweg,1,,,8281RA,Genemuiden,Zwartewaterland,Overijssel,VBO,6.044110,52.607584
-Polleboersweg,2,a,,8281RA,Genemuiden,Zwartewaterland,Overijssel,VBO,6.041155,52.606467
-Polleboersweg,2,,,8281RA,Genemuiden,Zwartewaterland,Overijssel,VBO,6.040738,52.606679
-Polleboersweg,3,,,8281RA,Genemuiden,Zwartewaterland,Overijssel,VBO,6.040896,52.605986
+Polleboersweg,2,,,8281RA,Genemuiden,Zwartewaterland,Overijssel,VBO,6.040766,52.606553
+Polleboersweg,3,,,8281RA,Genemuiden,Zwartewaterland,Overijssel,VBO,6.041012,52.606006
 Oostermaat,1,,,8281RB,Genemuiden,Zwartewaterland,Overijssel,VBO,6.003002,52.598529
 Oostermaat,2,a,,8281RB,Genemuiden,Zwartewaterland,Overijssel,VBO,6.003222,52.598289
 Oostermaat,2,,,8281RB,Genemuiden,Zwartewaterland,Overijssel,VBO,6.003899,52.598251

@@ -993,6 +993,7 @@ Koppelweg,3,,,3704GD,Zeist,Zeist,Utrecht,VBO,5.220690,52.089398
 Koppelweg,5,A,,3704GD,Zeist,Zeist,Utrecht,VBO,5.220588,52.089380
 Koppelweg,5,,,3704GD,Zeist,Zeist,Utrecht,VBO,5.220632,52.089362
 Koppelweg,7,,,3704GD,Zeist,Zeist,Utrecht,VBO,5.220486,52.089245
+Koppelweg,9,A,,3704GD,Zeist,Zeist,Utrecht,VBO,5.220656,52.089059
 Koppelweg,9,,,3704GD,Zeist,Zeist,Utrecht,VBO,5.220428,52.089200
 Koppelweg,11,,,3704GD,Zeist,Zeist,Utrecht,VBO,5.220290,52.089132
 Koppelweg,13,A,,3704GD,Zeist,Zeist,Utrecht,VBO,5.220196,52.089061
@@ -1131,7 +1132,6 @@ Noordweg,131,,,3704GM,Zeist,Zeist,Utrecht,VBO,5.213395,52.089306
 Noordweg,133,,,3704GM,Zeist,Zeist,Utrecht,VBO,5.213322,52.089324
 Noordweg,147,,,3704GM,Zeist,Zeist,Utrecht,VBO,5.212372,52.089485
 Noordweg,149,,,3704GM,Zeist,Zeist,Utrecht,VBO,5.212358,52.089520
-Noordweg,151,,,3704GM,Zeist,Zeist,Utrecht,VBO,5.211933,52.089631
 Noordweg,9000,,,3704GM,Zeist,Zeist,Utrecht,VBO,5.212212,52.089511
 De Gooyertiend,1,,,3704GN,Zeist,Zeist,Utrecht,VBO,5.214151,52.089928
 De Gooyertiend,3,,,3704GN,Zeist,Zeist,Utrecht,VBO,5.214195,52.089919
@@ -1244,13 +1244,16 @@ Kwikstaartlaan,22,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209681,52.087512
 Kwikstaartlaan,24,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209564,52.087449
 Kwikstaartlaan,26,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209375,52.087386
 Kwikstaartlaan,28,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209171,52.087377
-Kwikstaartlaan,30,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.208704,52.087412
-Kwikstaartlaan,32,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.208566,52.087395
+Kwikstaartlaan,30,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.208752,52.087440
+Kwikstaartlaan,32,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.208246,52.087497
+Kwikstaartlaan,34,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.208516,52.087619
 Kwikstaartlaan,36,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.208765,52.087657
 Kwikstaartlaan,38,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.208936,52.087736
 Kwikstaartlaan,42,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209038,52.087844
 Kwikstaartlaan,44,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209271,52.087826
 Kwikstaartlaan,46,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209402,52.087925
+Kwikstaartlaan,48,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209509,52.088071
+Kwikstaartlaan,50,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209696,52.088164
 Kwikstaartlaan,52,,,3704GS,Zeist,Zeist,Utrecht,VBO,5.209824,52.088303
 Meerkoetlaan,1,,,3704GT,Zeist,Zeist,Utrecht,VBO,5.215504,52.087071
 Meerkoetlaan,2,,,3704GT,Zeist,Zeist,Utrecht,VBO,5.215417,52.087116
@@ -1419,7 +1422,6 @@ Utrechtseweg,48,F,,3704HE,Zeist,Zeist,Utrecht,VBO,5.225062,52.090914
 Utrechtseweg,48,G,,3704HE,Zeist,Zeist,Utrecht,VBO,5.225120,52.090860
 Utrechtseweg,48,H,,3704HE,Zeist,Zeist,Utrecht,VBO,5.225471,52.090618
 Utrechtseweg,48,I,,3704HE,Zeist,Zeist,Utrecht,VBO,5.225559,52.090546
-Utrechtseweg,48,,BIS,3704HE,Zeist,Zeist,Utrecht,VBO,5.223891,52.091748
 Utrechtseweg,48,,,3704HE,Zeist,Zeist,Utrecht,VBO,5.221511,52.092293
 Utrechtseweg,50,,,3704HE,Zeist,Zeist,Utrecht,VBO,5.225750,52.090304
 Utrechtseweg,52,,,3704HE,Zeist,Zeist,Utrecht,VBO,5.225852,52.090241
@@ -1523,9 +1525,85 @@ Pijlstaartlaan,1,,,3704HS,Zeist,Zeist,Utrecht,VBO,5.211411,52.089178
 Pijlstaartlaan,3,,,3704HS,Zeist,Zeist,Utrecht,VBO,5.210887,52.088898
 Pijlstaartlaan,5,A,,3704HS,Zeist,Zeist,Utrecht,VBO,5.211117,52.088505
 Pijlstaartlaan,5,,,3704HS,Zeist,Zeist,Utrecht,VBO,5.210889,52.088594
+Mijnhardtweg,1,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218485,52.094295
+Mijnhardtweg,2,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218866,52.094060
+Mijnhardtweg,3,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218335,52.094336
+Mijnhardtweg,4,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218934,52.093956
+Mijnhardtweg,5,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218338,52.094318
+Mijnhardtweg,6,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218903,52.093957
+Mijnhardtweg,7,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218217,52.094274
+Mijnhardtweg,8,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218859,52.093900
+Mijnhardtweg,9,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218219,52.094254
+Mijnhardtweg,10,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218830,52.093902
+Mijnhardtweg,11,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218102,52.094210
+Mijnhardtweg,12,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218744,52.093833
+Mijnhardtweg,13,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218104,52.094191
+Mijnhardtweg,14,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218714,52.093834
+Mijnhardtweg,15,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.217959,52.094132
+Mijnhardtweg,16,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218600,52.093754
+Mijnhardtweg,17,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.217957,52.094113
+Mijnhardtweg,18,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218568,52.093755
+Mijnhardtweg,19,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218465,52.094281
+Mijnhardtweg,20,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218845,52.094047
+Mijnhardtweg,21,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218387,52.094308
+Mijnhardtweg,22,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218886,52.093989
+Mijnhardtweg,23,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218384,52.094292
+Mijnhardtweg,24,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218852,52.093989
+Mijnhardtweg,25,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218269,52.094248
+Mijnhardtweg,26,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218810,52.093930
+Mijnhardtweg,27,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218269,52.094230
+Mijnhardtweg,28,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218778,52.093931
+Mijnhardtweg,29,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218158,52.094184
+Mijnhardtweg,30,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218701,52.093863
+Mijnhardtweg,31,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218156,52.094165
+Mijnhardtweg,32,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218664,52.093865
+Mijnhardtweg,33,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218011,52.094106
+Mijnhardtweg,34,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218559,52.093786
+Mijnhardtweg,35,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218009,52.094086
+Mijnhardtweg,36,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218527,52.093786
+Mijnhardtweg,37,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218583,52.094207
+Mijnhardtweg,38,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218728,52.094109
+Mijnhardtweg,39,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218450,52.094271
+Mijnhardtweg,40,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218831,52.094032
+Mijnhardtweg,41,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218401,52.094265
+Mijnhardtweg,42,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218848,52.094014
+Mijnhardtweg,43,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218398,52.094248
+Mijnhardtweg,44,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218820,52.094011
+Mijnhardtweg,45,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218328,52.094216
+Mijnhardtweg,46,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218764,52.093959
+Mijnhardtweg,47,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218326,52.094200
+Mijnhardtweg,48,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218728,52.093961
+Mijnhardtweg,49,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218219,52.094153
+Mijnhardtweg,50,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218655,52.093893
+Mijnhardtweg,51,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218216,52.094133
+Mijnhardtweg,52,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218621,52.093891
+Mijnhardtweg,53,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218075,52.094066
+Mijnhardtweg,54,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218499,52.093818
+Mijnhardtweg,55,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218562,52.094195
+Mijnhardtweg,56,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218710,52.094099
+Mijnhardtweg,57,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218438,52.094264
+Mijnhardtweg,58,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218816,52.094027
+Mijnhardtweg,59,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218429,52.094250
+Mijnhardtweg,60,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218793,52.094022
+Mijnhardtweg,61,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218429,52.094236
+Mijnhardtweg,62,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218770,52.094021
+Mijnhardtweg,63,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218378,52.094194
+Mijnhardtweg,64,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218728,52.093979
+Mijnhardtweg,65,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218375,52.094179
+Mijnhardtweg,66,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218696,52.093978
+Mijnhardtweg,67,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218271,52.094135
+Mijnhardtweg,68,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218617,52.093918
+Mijnhardtweg,69,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218105,52.094051
+Mijnhardtweg,70,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218463,52.093838
+Mijnhardtweg,71,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218461,52.094218
+Mijnhardtweg,72,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218660,52.094001
+Mijnhardtweg,73,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218463,52.094239
+Mijnhardtweg,74,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218760,52.094041
+Mijnhardtweg,75,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218420,52.094179
+Mijnhardtweg,76,,,3704HX,Zeist,Zeist,Utrecht,VBO,5.218697,52.094005
 Tolakkerlaan,1,A,,3704JA,Zeist,Zeist,Utrecht,VBO,5.199799,52.080322
 Tolakkerlaan,1,,,3704JA,Zeist,Zeist,Utrecht,VBO,5.199851,52.080244
-Tolakkerlaan,3,,,3704JA,Zeist,Zeist,Utrecht,VBO,5.194900,52.080838
+Tolakkerlaan,3,,,3704JA,Zeist,Zeist,Utrecht,VBO,5.194957,52.080484
 Tolakkerlaan,5,,,3704JA,Zeist,Zeist,Utrecht,VBO,5.194710,52.081071
 Tolakkerlaan,7,,,3704JA,Zeist,Zeist,Utrecht,VBO,5.194621,52.081404
 Tolakkerlaan,9,,,3704JA,Zeist,Zeist,Utrecht,VBO,5.194221,52.082832
@@ -1554,7 +1632,14 @@ Noordweg-Noord,146,,,3704JG,Zeist,Zeist,Utrecht,VBO,5.210090,52.091036
 Noordweg-Noord,148,,,3704JG,Zeist,Zeist,Utrecht,VBO,5.210002,52.091072
 Noordweg-Noord,150,,,3704JG,Zeist,Zeist,Utrecht,VBO,5.209844,52.093832
 De Clomp,3102,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.218716,52.082672
+De Clomp,3102,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220601,52.083235
 De Clomp,3104,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.218846,52.082933
+De Clomp,3104,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220429,52.083321
+De Clomp,3106,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220194,52.083450
+De Clomp,3108,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220105,52.083498
+De Clomp,3110,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220002,52.083557
+De Clomp,3112,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219816,52.083662
+De Clomp,3114,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219738,52.083706
 De Clomp,3116,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.218963,52.082834
 De Clomp,3118,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219124,52.082951
 De Clomp,3120,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219167,52.082987
@@ -1563,24 +1648,102 @@ De Clomp,3124,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219298,52.083068
 De Clomp,3126,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219356,52.083113
 De Clomp,3128,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219429,52.083149
 De Clomp,3130,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219502,52.083194
+De Clomp,3130,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220646,52.083269
 De Clomp,3132,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219443,52.083248
+De Clomp,3132,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220568,52.083308
+De Clomp,3134,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220498,52.083345
+De Clomp,3136,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220408,52.083396
 De Clomp,3138,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219195,52.083419
+De Clomp,3138,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220319,52.083439
+De Clomp,3140,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220249,52.083479
+De Clomp,3142,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220160,52.083524
 De Clomp,3144,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219486,52.083581
+De Clomp,3144,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220083,52.083567
+De Clomp,3146,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220000,52.083607
+De Clomp,3148,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219923,52.083652
+De Clomp,3150,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219847,52.083696
+De Clomp,3152,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219782,52.083735
+De Clomp,3154,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220697,52.083297
+De Clomp,3156,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220614,52.083346
+De Clomp,3158,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220546,52.083387
+De Clomp,3160,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220454,52.083434
+De Clomp,3162,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220356,52.083475
+De Clomp,3164,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220276,52.083513
+De Clomp,3166,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220193,52.083558
+De Clomp,3168,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220132,52.083602
+De Clomp,3170,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.220040,52.083643
+De Clomp,3172,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219960,52.083682
+De Clomp,3174,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219883,52.083724
+De Clomp,3176,,,3704KA,Zeist,Zeist,Utrecht,VBO,5.219810,52.083763
 De Clomp,3202,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218934,52.083005
+De Clomp,3202,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.220000,52.082796
+De Clomp,3204,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219854,52.082871
 De Clomp,3206,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218948,52.083113
+De Clomp,3206,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219659,52.082975
 De Clomp,3208,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219006,52.083149
+De Clomp,3208,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219394,52.083023
+De Clomp,3210,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219200,52.082899
 De Clomp,3211,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219137,52.083239
+De Clomp,3212,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219067,52.082812
 De Clomp,3212,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219195,52.083266
+De Clomp,3230,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219959,52.082771
+De Clomp,3232,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219884,52.082811
+De Clomp,3234,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219801,52.082852
+De Clomp,3236,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219727,52.082890
+De Clomp,3238,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219647,52.082931
+De Clomp,3240,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219568,52.082977
+De Clomp,3242,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219442,52.082993
+De Clomp,3244,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219381,52.082957
+De Clomp,3246,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219329,52.082909
+De Clomp,3248,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219271,52.082880
+De Clomp,3250,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219207,52.082834
+De Clomp,3252,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219908,52.082739
+De Clomp,3254,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219841,52.082781
+De Clomp,3256,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219761,52.082813
+De Clomp,3258,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219681,52.082858
+De Clomp,3260,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219605,52.082903
+De Clomp,3262,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219528,52.082944
+De Clomp,3264,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219473,52.082965
+De Clomp,3266,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219427,52.082927
+De Clomp,3268,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219378,52.082878
+De Clomp,3270,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219338,52.082842
+De Clomp,3272,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219268,52.082804
 De Clomp,3301,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218475,52.083075
 De Clomp,3302,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218335,52.083238
 De Clomp,3304,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218743,52.083391
+De Clomp,3304,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219408,52.083700
 De Clomp,3306,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218654,52.083535
+De Clomp,3306,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219346,52.083656
 De Clomp,3308,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218889,52.083536
+De Clomp,3308,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219199,52.083543
 De Clomp,3310,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219048,52.083535
+De Clomp,3310,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219056,52.083379
+De Clomp,3312,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218996,52.083343
+De Clomp,3314,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218857,52.083256
 De Clomp,3314,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219165,52.083580
 De Clomp,3316,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219208,52.083643
 De Clomp,3318,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219194,52.083724
 De Clomp,3320,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219048,52.083724
+De Clomp,3330,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219371,52.083717
+De Clomp,3332,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219303,52.083661
+De Clomp,3334,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219241,52.083618
+De Clomp,3336,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219110,52.083533
+De Clomp,3338,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219039,52.083474
+De Clomp,3340,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218994,52.083444
+De Clomp,3342,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219007,52.083400
+De Clomp,3344,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218949,52.083355
+De Clomp,3346,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218881,52.083321
+De Clomp,3348,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218802,52.083274
+De Clomp,3350,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219318,52.083746
+De Clomp,3352,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219260,52.083699
+De Clomp,3354,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219186,52.083650
+De Clomp,3356,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219109,52.083604
+De Clomp,3358,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.219036,52.083557
+De Clomp,3360,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218984,52.083491
+De Clomp,3362,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218957,52.083421
+De Clomp,3364,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218899,52.083383
+De Clomp,3366,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218841,52.083342
+De Clomp,3368,,,3704KB,Zeist,Zeist,Utrecht,VBO,5.218771,52.083302
 De Clomp,2001,,,3704KC,Zeist,Zeist,Utrecht,VBO,5.217972,52.082671
 De Clomp,2002,,,3704KC,Zeist,Zeist,Utrecht,VBO,5.217692,52.083497
 De Clomp,2003,,,3704KC,Zeist,Zeist,Utrecht,VBO,5.217870,52.082716

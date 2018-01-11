@@ -132,7 +132,7 @@ De Venterkamp,5,,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.457208,52.079601
 De Venterkamp,6,,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.456646,52.079923
 De Venterkamp,7,a,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.457461,52.079799
 De Venterkamp,7,,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.457316,52.079845
-De Venterkamp,8,,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.457113,52.080530
+De Venterkamp,8,,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.456803,52.080323
 De Venterkamp,9,,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.457612,52.080013
 De Venterkamp,10,,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.457325,52.080834
 De Venterkamp,11,,,7261AH,Ruurlo,Berkelland,Gelderland,VBO,6.457907,52.080182
@@ -945,7 +945,7 @@ Van Tuyll van Serooskerkenweg,39,,,7261CV,Ruurlo,Berkelland,Gelderland,VBO,6.456
 Van Tuyll van Serooskerkenweg,41,,,7261CV,Ruurlo,Berkelland,Gelderland,VBO,6.456450,52.092437
 Van Tuyll van Serooskerkenweg,43,,,7261CV,Ruurlo,Berkelland,Gelderland,VBO,6.456653,52.092400
 Van Tuyll van Serooskerkenweg,45,,,7261CW,Ruurlo,Berkelland,Gelderland,VBO,6.457048,52.092342
-Van Tuyll van Serooskerkenweg,47,,,7261CW,Ruurlo,Berkelland,Gelderland,VBO,6.457205,52.092287
+Van Tuyll van Serooskerkenweg,47,,,7261CW,Ruurlo,Berkelland,Gelderland,VBO,6.457220,52.092311
 Van Tuyll van Serooskerkenweg,49,,,7261CW,Ruurlo,Berkelland,Gelderland,VBO,6.457510,52.092230
 Van Tuyll van Serooskerkenweg,51,,,7261CW,Ruurlo,Berkelland,Gelderland,VBO,6.457699,52.092192
 Van Tuyll van Serooskerkenweg,53,,,7261CW,Ruurlo,Berkelland,Gelderland,VBO,6.458384,52.092168
@@ -1762,6 +1762,7 @@ Brinklaan,65,,,7261JH,Ruurlo,Berkelland,Gelderland,VBO,6.462685,52.080462
 Brinklaan,67,,,7261JH,Ruurlo,Berkelland,Gelderland,VBO,6.462689,52.080229
 Brinklaan,69,,,7261JH,Ruurlo,Berkelland,Gelderland,VBO,6.462616,52.080017
 Brinklaan,71,,,7261JH,Ruurlo,Berkelland,Gelderland,VBO,6.462405,52.079736
+Brinklaan,72,,,7261JH,Ruurlo,Berkelland,Gelderland,VBO,6.463192,52.080226
 Vlas,1,,,7261JJ,Ruurlo,Berkelland,Gelderland,VBO,6.459999,52.085268
 Vlas,2,,,7261JJ,Ruurlo,Berkelland,Gelderland,VBO,6.459669,52.085523
 Vlas,3,,,7261JJ,Ruurlo,Berkelland,Gelderland,VBO,6.460130,52.085276
@@ -1959,8 +1960,8 @@ Strengendijk,3,,,7261KM,Ruurlo,Berkelland,Gelderland,VBO,6.467957,52.031173
 Strengendijk,5,,,7261KM,Ruurlo,Berkelland,Gelderland,VBO,6.454077,52.031191
 Strengendijk,6,,,7261KM,Ruurlo,Berkelland,Gelderland,VBO,6.458459,52.032554
 Strengendijk,8,,,7261KM,Ruurlo,Berkelland,Gelderland,VBO,6.458342,52.032546
-Doornenbrink,1,a,,7261KN,Ruurlo,Berkelland,Gelderland,VBO,6.483231,52.034223
-Doornenbrink,1,,,7261KN,Ruurlo,Berkelland,Gelderland,VBO,6.482998,52.034234
+Doornenbrink,1,a,,7261KN,Ruurlo,Berkelland,Gelderland,VBO,6.483032,52.034253
+Doornenbrink,1,,,7261KN,Ruurlo,Berkelland,Gelderland,VBO,6.483254,52.034224
 Doornenbrink,2,,,7261KN,Ruurlo,Berkelland,Gelderland,VBO,6.481540,52.034814
 Molenstroetweg,1,,,7261KP,Ruurlo,Berkelland,Gelderland,VBO,6.425378,52.075070
 Tolhutterweg,1,a,,7261KS,Ruurlo,Berkelland,Gelderland,VBO,6.449254,52.070200
@@ -2021,7 +2022,6 @@ Tolhutterweg,42,a,,7261KT,Ruurlo,Berkelland,Gelderland,VBO,6.456885,52.025827
 Tolhutterweg,42,,,7261KT,Ruurlo,Berkelland,Gelderland,VBO,6.457024,52.025833
 Tolhutterweg,44,,,7261KT,Ruurlo,Berkelland,Gelderland,VBO,6.458233,52.022516
 Tolhutterweg,46,,,7261KT,Ruurlo,Berkelland,Gelderland,VBO,6.458231,52.022408
-Vlakkendijk,1,a,,7261KT,Ruurlo,Berkelland,Gelderland,VBO,6.478164,52.039798
 Buitenvelderweg,1,,,7261KV,Ruurlo,Berkelland,Gelderland,VBO,6.448361,52.035702
 Buitenvelderweg,2,,,7261KV,Ruurlo,Berkelland,Gelderland,VBO,6.448567,52.035152
 Buitenvelderweg,4,a,,7261KV,Ruurlo,Berkelland,Gelderland,VBO,6.443134,52.035210
@@ -2040,9 +2040,11 @@ Manpadweg,8,f,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.437563,52.034129
 Manpadweg,8,g,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.437339,52.034157
 Manpadweg,8,,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.437642,52.034180
 Manpadweg,10,a,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.434096,52.034493
-Manpadweg,10,,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.434311,52.034434
+Manpadweg,10,b,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.434360,52.034466
+Manpadweg,10,,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.434078,52.034455
 Manpadweg,12,,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.435283,52.031783
 Manpadweg,14,,,7261KW,Ruurlo,Berkelland,Gelderland,VBO,6.438403,52.025616
+Vlakkendijk,1,a,,7261KX,Ruurlo,Berkelland,Gelderland,VBO,6.478164,52.039798
 Vlakkendijk,1,,,7261KX,Ruurlo,Berkelland,Gelderland,VBO,6.478135,52.039816
 Vlakkendijk,3,,,7261KX,Ruurlo,Berkelland,Gelderland,VBO,6.475759,52.036198
 Vlakkendijk,5,,,7261KX,Ruurlo,Berkelland,Gelderland,VBO,6.475587,52.035723
@@ -2298,7 +2300,12 @@ Vordenseweg,2,,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.445037,52.078833
 Vordenseweg,3,,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.447248,52.082858
 Vordenseweg,4,,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.426787,52.081350
 Vordenseweg,6,,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.414583,52.086113
-Vordenseweg,7,,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.442914,52.079751
+Vordenseweg,7,a,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.442904,52.079801
+Vordenseweg,7,b,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.442758,52.079822
+Vordenseweg,7,c,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.442720,52.079757
+Vordenseweg,7,d,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.442804,52.079746
+Vordenseweg,7,e,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.442883,52.079734
+Vordenseweg,7,,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.443028,52.079747
 Vordenseweg,9,,,7261LZ,Ruurlo,Berkelland,Gelderland,VBO,6.442342,52.079839
 Binnemansdijk,1,,,7261MA,Ruurlo,Berkelland,Gelderland,VBO,6.446095,52.083599
 Wiersseweg,43,,,7261MB,Ruurlo,Berkelland,Gelderland,VBO,6.441335,52.087648
@@ -2492,8 +2499,8 @@ Höfteweg,11,,,7261ND,Ruurlo,Berkelland,Gelderland,VBO,6.464414,52.103722
 Höfteweg,12,,,7261ND,Ruurlo,Berkelland,Gelderland,VBO,6.457010,52.105466
 Sleumersteeg,1,,,7261NE,Ruurlo,Berkelland,Gelderland,VBO,6.454824,52.107472
 Weusdijk,1,,,7261NG,Ruurlo,Berkelland,Gelderland,VBO,6.472715,52.101799
-Weusdijk,4,,,7261NG,Ruurlo,Berkelland,Gelderland,VBO,6.471042,52.103032
-Weusdijk,6,,,7261NG,Ruurlo,Berkelland,Gelderland,VBO,6.470610,52.102888
+Weusdijk,4,,,7261NG,Ruurlo,Berkelland,Gelderland,VBO,6.470607,52.102918
+Weusdijk,6,,,7261NG,Ruurlo,Berkelland,Gelderland,VBO,6.471048,52.103014
 Berenpassteeg,1,a,,7261NH,Ruurlo,Berkelland,Gelderland,VBO,6.476786,52.095263
 Berenpassteeg,1,,,7261NH,Ruurlo,Berkelland,Gelderland,VBO,6.476735,52.095276
 Berenpassteeg,2,a,,7261NH,Ruurlo,Berkelland,Gelderland,VBO,6.474818,52.095856
@@ -2665,8 +2672,7 @@ De Huikert,3,,,7261NX,Ruurlo,Berkelland,Gelderland,VBO,6.479895,52.091018
 De Huikert,4,,,7261NX,Ruurlo,Berkelland,Gelderland,VBO,6.484883,52.093273
 De Huikert,6,,,7261NX,Ruurlo,Berkelland,Gelderland,VBO,6.487978,52.090934
 De Huikert,8,,,7261NX,Ruurlo,Berkelland,Gelderland,VBO,6.492596,52.090785
-De Huikert,8,,,7261NX,Ruurlo,Berkelland,Gelderland,VBO,6.493229,52.090830
-De Huikert,10,,,7261NX,Ruurlo,Berkelland,Gelderland,VBO,6.493141,52.090846
+De Huikert,10,,,7261NX,Ruurlo,Berkelland,Gelderland,VBO,6.493053,52.091208
 Otterweg,1,,,7261NZ,Ruurlo,Berkelland,Gelderland,VBO,6.489573,52.093489
 Brillensteeg,1,,,7261PA,Ruurlo,Berkelland,Gelderland,VBO,6.484729,52.095926
 Brillensteeg,2,,,7261PA,Ruurlo,Berkelland,Gelderland,VBO,6.485989,52.095527
@@ -2963,8 +2969,8 @@ Strikkersteeg,7,,,7261RW,Ruurlo,Berkelland,Gelderland,VBO,6.465986,52.069753
 Strikkersteeg,9,,,7261RW,Ruurlo,Berkelland,Gelderland,VBO,6.471230,52.068044
 Strikkersteeg,11,,,7261RW,Ruurlo,Berkelland,Gelderland,VBO,6.471110,52.068073
 Morsdijk,1,,,7261RX,Ruurlo,Berkelland,Gelderland,VBO,6.475051,52.067027
-Morsdijk,2,a,,7261RX,Ruurlo,Berkelland,Gelderland,VBO,6.478422,52.065654
-Morsdijk,2,,,7261RX,Ruurlo,Berkelland,Gelderland,VBO,6.477266,52.066350
+Morsdijk,2,a,,7261RX,Ruurlo,Berkelland,Gelderland,VBO,6.477269,52.066346
+Morsdijk,2,,,7261RX,Ruurlo,Berkelland,Gelderland,VBO,6.478379,52.065661
 Morsdijk,3,a,,7261RX,Ruurlo,Berkelland,Gelderland,VBO,6.482156,52.062943
 Morsdijk,3,,,7261RX,Ruurlo,Berkelland,Gelderland,VBO,6.482066,52.062872
 Morsdijk,4,a,,7261RX,Ruurlo,Berkelland,Gelderland,VBO,6.480601,52.064369
@@ -3019,6 +3025,7 @@ Slootsdijk,25,,,7261SB,Ruurlo,Berkelland,Gelderland,VBO,6.485416,52.054948
 Slootsdijk,27,,,7261SB,Ruurlo,Berkelland,Gelderland,VBO,6.495609,52.047947
 Kaaldijk,4,,,7261SC,Ruurlo,Berkelland,Gelderland,VBO,6.459371,52.073067
 Kaaldijk,6,a,,7261SC,Ruurlo,Berkelland,Gelderland,VBO,6.460285,52.073060
+Kaaldijk,6,b,,7261SC,Ruurlo,Berkelland,Gelderland,VBO,6.459938,52.072778
 Kaaldijk,6,,,7261SC,Ruurlo,Berkelland,Gelderland,VBO,6.459623,52.073227
 Kaaldijk,8,,,7261SC,Ruurlo,Berkelland,Gelderland,VBO,6.463224,52.068933
 Kaaldijk,9,,,7261SC,Ruurlo,Berkelland,Gelderland,VBO,6.450926,52.077386
@@ -3036,6 +3043,7 @@ Vorsterkampweg,5,,,7261SE,Ruurlo,Berkelland,Gelderland,VBO,6.466312,52.068743
 Vorsterkampweg,7,,,7261SE,Ruurlo,Berkelland,Gelderland,VBO,6.466981,52.069285
 Foekendijk,1,a,,7261SG,Ruurlo,Berkelland,Gelderland,VBO,6.475900,52.061787
 Foekendijk,1,,,7261SG,Ruurlo,Berkelland,Gelderland,VBO,6.476033,52.061840
+Foekendijk,2,,01,7261SG,Ruurlo,Berkelland,Gelderland,VBO,6.483673,52.065347
 Foekendijk,2,,,7261SG,Ruurlo,Berkelland,Gelderland,VBO,6.473549,52.059457
 Foekendijk,3,,,7261SG,Ruurlo,Berkelland,Gelderland,VBO,6.473179,52.060824
 Foekendijk,5,,,7261SG,Ruurlo,Berkelland,Gelderland,VBO,6.473122,52.060896
@@ -3102,7 +3110,7 @@ Batsdijk,6,,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.454726,52.068756
 Batsdijk,8,,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.455186,52.068251
 Batsdijk,10,,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.456127,52.067955
 Batsdijk,12,,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.456328,52.067809
-Batsdijk,14,a,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.457363,52.067073
+Batsdijk,14,a,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.457286,52.067028
 Batsdijk,14,,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.457240,52.067059
 Batsdijk,16,,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.461645,52.063986
 Batsdijk,18,a,,7261SP,Ruurlo,Berkelland,Gelderland,VBO,6.463182,52.065338

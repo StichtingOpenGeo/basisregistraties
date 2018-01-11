@@ -1416,28 +1416,28 @@ Jan Tooropstraat,16,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836800,52.3
 Jan Tooropstraat,18,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836798,52.361723
 Jan Tooropstraat,20,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836797,52.361783
 Jan Tooropstraat,22,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836792,52.361853
-Jan Tooropstraat,24,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836827,52.361954
-Jan Tooropstraat,26,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836830,52.361988
-Jan Tooropstraat,28,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836820,52.361672
-Jan Tooropstraat,30,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836821,52.361723
-Jan Tooropstraat,32,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836819,52.361784
-Jan Tooropstraat,34,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836814,52.361853
-Jan Tooropstraat,36,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836840,52.361956
-Jan Tooropstraat,38,,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836840,52.361990
-Jan Tooropstraat,40,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836831,52.361673
-Jan Tooropstraat,42,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836835,52.361724
-Jan Tooropstraat,44,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836830,52.361785
-Jan Tooropstraat,46,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836825,52.361856
-Jan Tooropstraat,48,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836851,52.361956
+Jan Tooropstraat,24,A,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836827,52.361954
+Jan Tooropstraat,24,B,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836830,52.361988
+Jan Tooropstraat,26,A,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836820,52.361672
+Jan Tooropstraat,26,B,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836821,52.361723
+Jan Tooropstraat,28,A,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836819,52.361784
+Jan Tooropstraat,28,B,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836814,52.361853
+Jan Tooropstraat,30,A,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836840,52.361956
+Jan Tooropstraat,30,B,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836840,52.361990
+Jan Tooropstraat,32,A,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836831,52.361673
+Jan Tooropstraat,32,B,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836835,52.361724
+Jan Tooropstraat,34,A,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836830,52.361785
+Jan Tooropstraat,34,B,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836825,52.361856
+Jan Tooropstraat,36,A,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836851,52.361956
+Jan Tooropstraat,36,B,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836852,52.361991
+Jan Tooropstraat,38,A,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836841,52.361673
+Jan Tooropstraat,38,B,,1062BM,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836845,52.361724
+Jan Tooropstraat,40,A,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836839,52.361786
+Jan Tooropstraat,40,B,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836836,52.361856
+Jan Tooropstraat,42,A,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836861,52.361958
+Jan Tooropstraat,42,B,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836862,52.361992
+Jan Tooropstraat,44,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836797,52.361997
 Jan Tooropstraat,50,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836819,52.362247
-Jan Tooropstraat,50,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836852,52.361991
-Jan Tooropstraat,52,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836841,52.361673
-Jan Tooropstraat,54,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836845,52.361724
-Jan Tooropstraat,56,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836839,52.361786
-Jan Tooropstraat,58,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836836,52.361856
-Jan Tooropstraat,60,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836861,52.361958
-Jan Tooropstraat,62,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836862,52.361992
-Jan Tooropstraat,64,,,1062BN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836797,52.361997
 Thorn Prikkerstraat,2,,,1062BP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840049,52.362262
 Thorn Prikkerstraat,4,,,1062BP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840048,52.362343
 Thorn Prikkerstraat,5,,,1062BP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840266,52.362022
@@ -3862,6 +3862,64 @@ Maassluisstraat,626,,2,1062HB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836445,52.
 Maassluisstraat,626,,3,1062HB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836445,52.347461
 Maassluisstraat,626,,4,1062HB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836445,52.347461
 Maassluisstraat,626,,H,1062HB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836445,52.347461
+Maassluisstraat,475,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836932,52.348280
+Maassluisstraat,477,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836929,52.348218
+Maassluisstraat,479,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836930,52.348171
+Maassluisstraat,481,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836931,52.348099
+Maassluisstraat,483,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836924,52.348027
+Maassluisstraat,485,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836933,52.347922
+Maassluisstraat,487,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837053,52.347854
+Maassluisstraat,489,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347821
+Maassluisstraat,491,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347789
+Maassluisstraat,493,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347762
+Maassluisstraat,495,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347734
+Maassluisstraat,497,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837056,52.347708
+Maassluisstraat,499,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836924,52.347739
+Maassluisstraat,501,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836927,52.347766
+Maassluisstraat,503,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836931,52.347797
+Maassluisstraat,505,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836923,52.347820
+Maassluisstraat,507,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836926,52.347853
+Maassluisstraat,509,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837053,52.347856
+Maassluisstraat,511,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347818
+Maassluisstraat,513,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347789
+Maassluisstraat,515,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347760
+Maassluisstraat,517,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347734
+Maassluisstraat,519,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837056,52.347704
+Maassluisstraat,521,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836924,52.347739
+Maassluisstraat,523,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836927,52.347766
+Maassluisstraat,525,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836931,52.347797
+Maassluisstraat,527,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836923,52.347820
+Maassluisstraat,529,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836926,52.347853
+Maassluisstraat,531,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837053,52.347854
+Maassluisstraat,533,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347818
+Maassluisstraat,535,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347789
+Maassluisstraat,537,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347760
+Maassluisstraat,539,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347734
+Maassluisstraat,541,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837056,52.347708
+Maassluisstraat,543,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836924,52.347739
+Maassluisstraat,545,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836927,52.347766
+Maassluisstraat,547,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836931,52.347797
+Maassluisstraat,549,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836930,52.347820
+Maassluisstraat,551,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836934,52.347862
+Maassluisstraat,553,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837053,52.347856
+Maassluisstraat,555,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347821
+Maassluisstraat,557,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347789
+Maassluisstraat,559,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347760
+Maassluisstraat,561,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347734
+Maassluisstraat,563,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837056,52.347704
+Maassluisstraat,565,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836924,52.347739
+Maassluisstraat,567,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836927,52.347766
+Maassluisstraat,569,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836931,52.347797
+Maassluisstraat,571,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836923,52.347820
+Maassluisstraat,573,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836934,52.347862
+Maassluisstraat,575,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837053,52.347856
+Maassluisstraat,577,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.347811
+Maassluisstraat,579,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837062,52.347782
+Maassluisstraat,581,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347762
+Maassluisstraat,583,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837055,52.347734
+Maassluisstraat,585,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837056,52.347706
+Maassluisstraat,587,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836924,52.347739
+Maassluisstraat,589,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836934,52.347862
 Maassluisstraat,599,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836939,52.347625
 Maassluisstraat,603,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836937,52.347614
 Maassluisstraat,605,,,1062HC,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837467,52.347284
@@ -4634,22 +4692,6 @@ Cornelis Lelylaan,11,,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835351,52.
 Cornelis Lelylaan,13,,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835275,52.357539
 Cornelis Lelylaan,15,,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835214,52.357540
 Cornelis Lelylaan,17,,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835150,52.357537
-Cornelis Lelylaan,21,A,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834762,52.357526
-Cornelis Lelylaan,21,B,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834733,52.357527
-Cornelis Lelylaan,21,C,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834699,52.357527
-Cornelis Lelylaan,21,D,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834669,52.357527
-Cornelis Lelylaan,21,E,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834633,52.357527
-Cornelis Lelylaan,23,A,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834596,52.357511
-Cornelis Lelylaan,23,B,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834599,52.357511
-Cornelis Lelylaan,23,C,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834602,52.357511
-Cornelis Lelylaan,23,D,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834605,52.357510
-Cornelis Lelylaan,23,E,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834610,52.357511
-Cornelis Lelylaan,23,F,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834613,52.357511
-Cornelis Lelylaan,25,A,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834595,52.357502
-Cornelis Lelylaan,25,B,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834599,52.357502
-Cornelis Lelylaan,25,C,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834602,52.357502
-Cornelis Lelylaan,25,D,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834605,52.357503
-Cornelis Lelylaan,25,E,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834610,52.357503
 Cornelis Lelylaan,33,,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834010,52.357965
 Cornelis Lelylaan,35,,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834025,52.357938
 Cornelis Lelylaan,37,,,1062HD,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834027,52.357804
@@ -5087,7 +5129,302 @@ Koningin Wilhelminaplein,21,,,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841
 Koningin Wilhelminaplein,23,,,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841080,52.353639
 Koningin Wilhelminaplein,25,,,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841096,52.353522
 Koningin Wilhelminaplein,27,,,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841098,52.353378
+Koningin Wilhelminaplein,29,C,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840958,52.353317
+Koningin Wilhelminaplein,29,C,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841548,52.353063
+Koningin Wilhelminaplein,29,C,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841434,52.353062
+Koningin Wilhelminaplein,29,C,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841336,52.353062
+Koningin Wilhelminaplein,29,C,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841244,52.353061
+Koningin Wilhelminaplein,29,C,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841152,52.353059
+Koningin Wilhelminaplein,29,C,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841052,52.353057
+Koningin Wilhelminaplein,29,C,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840965,52.353056
+Koningin Wilhelminaplein,29,C,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840995,52.353318
+Koningin Wilhelminaplein,29,C,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841024,52.353319
+Koningin Wilhelminaplein,29,C,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841076,52.353321
+Koningin Wilhelminaplein,29,C,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841187,52.353325
+Koningin Wilhelminaplein,29,C,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841274,52.353327
+Koningin Wilhelminaplein,29,C,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841540,52.353222
+Koningin Wilhelminaplein,29,C,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841534,52.353275
+Koningin Wilhelminaplein,29,C,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841530,52.353328
+Koningin Wilhelminaplein,29,D,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840959,52.353248
+Koningin Wilhelminaplein,29,D,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841543,52.353261
+Koningin Wilhelminaplein,29,D,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841539,52.353306
+Koningin Wilhelminaplein,29,D,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841537,52.353329
+Koningin Wilhelminaplein,29,D,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841545,52.353192
+Koningin Wilhelminaplein,29,D,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841546,52.353162
+Koningin Wilhelminaplein,29,D,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841544,52.353128
+Koningin Wilhelminaplein,29,D,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841547,52.353084
+Koningin Wilhelminaplein,29,D,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841433,52.353059
+Koningin Wilhelminaplein,29,D,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841337,52.353058
+Koningin Wilhelminaplein,29,D,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841265,52.353055
+Koningin Wilhelminaplein,29,D,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840958,52.353320
+Koningin Wilhelminaplein,29,D,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841176,52.353054
+Koningin Wilhelminaplein,29,D,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841113,52.353055
+Koningin Wilhelminaplein,29,D,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841051,52.353054
+Koningin Wilhelminaplein,29,D,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840957,52.353173
+Koningin Wilhelminaplein,29,D,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840955,52.353130
+Koningin Wilhelminaplein,29,D,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840955,52.353094
+Koningin Wilhelminaplein,29,D,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841023,52.353323
+Koningin Wilhelminaplein,29,D,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841121,52.353326
+Koningin Wilhelminaplein,29,D,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841231,52.353330
+Koningin Wilhelminaplein,29,D,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841336,52.353332
+Koningin Wilhelminaplein,29,D,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841416,52.353334
+Koningin Wilhelminaplein,29,D,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841480,52.353336
+Koningin Wilhelminaplein,29,D,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841546,52.353223
+Koningin Wilhelminaplein,29,E,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840963,52.353249
+Koningin Wilhelminaplein,29,E,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841547,52.353262
+Koningin Wilhelminaplein,29,E,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841543,52.353306
+Koningin Wilhelminaplein,29,E,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841542,52.353331
+Koningin Wilhelminaplein,29,E,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841550,52.353193
+Koningin Wilhelminaplein,29,E,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841550,52.353162
+Koningin Wilhelminaplein,29,E,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841548,52.353128
+Koningin Wilhelminaplein,29,E,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841551,52.353085
+Koningin Wilhelminaplein,29,E,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841432,52.353056
+Koningin Wilhelminaplein,29,E,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841336,52.353056
+Koningin Wilhelminaplein,29,E,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841264,52.353053
+Koningin Wilhelminaplein,29,E,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840956,52.353324
+Koningin Wilhelminaplein,29,E,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841176,52.353052
+Koningin Wilhelminaplein,29,E,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841113,52.353052
+Koningin Wilhelminaplein,29,E,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841049,52.353050
+Koningin Wilhelminaplein,29,E,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840961,52.353175
+Koningin Wilhelminaplein,29,E,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840961,52.353130
+Koningin Wilhelminaplein,29,E,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840958,52.353094
+Koningin Wilhelminaplein,29,E,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841023,52.353327
+Koningin Wilhelminaplein,29,E,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841119,52.353329
+Koningin Wilhelminaplein,29,E,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841230,52.353333
+Koningin Wilhelminaplein,29,E,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841334,52.353334
+Koningin Wilhelminaplein,29,E,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841415,52.353337
+Koningin Wilhelminaplein,29,E,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841479,52.353339
+Koningin Wilhelminaplein,29,E,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841551,52.353223
+Koningin Wilhelminaplein,29,F,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840954,52.353248
+Koningin Wilhelminaplein,29,F,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841550,52.353263
+Koningin Wilhelminaplein,29,F,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841547,52.353307
+Koningin Wilhelminaplein,29,F,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841545,52.353330
+Koningin Wilhelminaplein,29,F,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841554,52.353193
+Koningin Wilhelminaplein,29,F,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841553,52.353162
+Koningin Wilhelminaplein,29,F,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841551,52.353128
+Koningin Wilhelminaplein,29,F,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841555,52.353084
+Koningin Wilhelminaplein,29,F,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841432,52.353053
+Koningin Wilhelminaplein,29,F,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841335,52.353054
+Koningin Wilhelminaplein,29,F,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841265,52.353051
+Koningin Wilhelminaplein,29,F,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840958,52.353326
+Koningin Wilhelminaplein,29,F,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841175,52.353050
+Koningin Wilhelminaplein,29,F,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841112,52.353050
+Koningin Wilhelminaplein,29,F,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841049,52.353047
+Koningin Wilhelminaplein,29,F,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840953,52.353174
+Koningin Wilhelminaplein,29,F,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840950,52.353131
+Koningin Wilhelminaplein,29,F,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840949,52.353093
+Koningin Wilhelminaplein,29,F,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841024,52.353329
+Koningin Wilhelminaplein,29,F,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841120,52.353332
+Koningin Wilhelminaplein,29,F,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841230,52.353336
+Koningin Wilhelminaplein,29,F,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841334,52.353337
+Koningin Wilhelminaplein,29,F,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841414,52.353340
+Koningin Wilhelminaplein,29,F,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841480,52.353342
+Koningin Wilhelminaplein,29,F,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841553,52.353224
+Koningin Wilhelminaplein,29,G,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840948,52.353249
+Koningin Wilhelminaplein,29,G,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841554,52.353263
+Koningin Wilhelminaplein,29,G,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841551,52.353306
+Koningin Wilhelminaplein,29,G,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841545,52.353328
+Koningin Wilhelminaplein,29,G,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841558,52.353191
+Koningin Wilhelminaplein,29,G,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841557,52.353160
+Koningin Wilhelminaplein,29,G,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841554,52.353127
+Koningin Wilhelminaplein,29,G,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841557,52.353082
+Koningin Wilhelminaplein,29,G,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841435,52.353051
+Koningin Wilhelminaplein,29,G,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841336,52.353053
+Koningin Wilhelminaplein,29,G,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841269,52.353051
+Koningin Wilhelminaplein,29,G,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840960,52.353325
+Koningin Wilhelminaplein,29,G,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841178,52.353049
+Koningin Wilhelminaplein,29,G,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841115,52.353048
+Koningin Wilhelminaplein,29,G,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841054,52.353048
+Koningin Wilhelminaplein,29,G,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840946,52.353174
+Koningin Wilhelminaplein,29,G,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840945,52.353131
+Koningin Wilhelminaplein,29,G,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840943,52.353093
+Koningin Wilhelminaplein,29,G,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841026,52.353328
+Koningin Wilhelminaplein,29,G,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841123,52.353331
+Koningin Wilhelminaplein,29,G,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841234,52.353339
+Koningin Wilhelminaplein,29,G,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841337,52.353340
+Koningin Wilhelminaplein,29,G,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841418,52.353342
+Koningin Wilhelminaplein,29,G,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841485,52.353343
+Koningin Wilhelminaplein,29,G,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841554,52.353221
+Koningin Wilhelminaplein,29,H,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840946,52.353253
+Koningin Wilhelminaplein,29,H,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841558,52.353260
+Koningin Wilhelminaplein,29,H,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841554,52.353304
+Koningin Wilhelminaplein,29,H,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841539,52.353328
+Koningin Wilhelminaplein,29,H,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841554,52.353189
+Koningin Wilhelminaplein,29,H,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841556,52.353158
+Koningin Wilhelminaplein,29,H,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841556,52.353124
+Koningin Wilhelminaplein,29,H,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841554,52.353081
+Koningin Wilhelminaplein,29,H,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841438,52.353063
+Koningin Wilhelminaplein,29,H,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841338,52.353065
+Koningin Wilhelminaplein,29,H,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841265,52.353058
+Koningin Wilhelminaplein,29,H,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840961,52.353323
+Koningin Wilhelminaplein,29,H,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841178,52.353058
+Koningin Wilhelminaplein,29,H,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841115,52.353059
+Koningin Wilhelminaplein,29,H,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841055,52.353060
+Koningin Wilhelminaplein,29,H,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840962,52.353173
+Koningin Wilhelminaplein,29,H,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840965,52.353128
+Koningin Wilhelminaplein,29,H,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840962,52.353094
+Koningin Wilhelminaplein,29,H,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841027,52.353325
+Koningin Wilhelminaplein,29,H,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841126,52.353328
+Koningin Wilhelminaplein,29,H,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841234,52.353337
+Koningin Wilhelminaplein,29,H,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841338,52.353338
+Koningin Wilhelminaplein,29,H,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841418,52.353340
+Koningin Wilhelminaplein,29,H,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841484,52.353340
+Koningin Wilhelminaplein,29,H,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841549,52.353220
+Koningin Wilhelminaplein,29,K,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840952,52.353253
+Koningin Wilhelminaplein,29,K,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841571,52.353263
+Koningin Wilhelminaplein,29,K,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841564,52.353310
+Koningin Wilhelminaplein,29,K,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841557,52.353333
+Koningin Wilhelminaplein,29,K,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841571,52.353194
+Koningin Wilhelminaplein,29,K,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841570,52.353163
+Koningin Wilhelminaplein,29,K,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841567,52.353131
+Koningin Wilhelminaplein,29,K,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841567,52.353090
+Koningin Wilhelminaplein,29,K,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841449,52.353056
+Koningin Wilhelminaplein,29,K,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841349,52.353062
+Koningin Wilhelminaplein,29,K,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841278,52.353059
+Koningin Wilhelminaplein,29,K,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840962,52.353321
+Koningin Wilhelminaplein,29,K,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841191,52.353059
+Koningin Wilhelminaplein,29,K,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841126,52.353055
+Koningin Wilhelminaplein,29,K,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841067,52.353056
+Koningin Wilhelminaplein,29,K,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840974,52.353176
+Koningin Wilhelminaplein,29,K,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840976,52.353135
+Koningin Wilhelminaplein,29,K,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840977,52.353095
+Koningin Wilhelminaplein,29,K,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841027,52.353322
+Koningin Wilhelminaplein,29,K,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841126,52.353325
+Koningin Wilhelminaplein,29,K,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841235,52.353334
+Koningin Wilhelminaplein,29,K,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841236,52.353330
+Koningin Wilhelminaplein,29,K,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841340,52.353335
+Koningin Wilhelminaplein,29,K,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841485,52.353336
+Koningin Wilhelminaplein,29,K,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841566,52.353224
+Koningin Wilhelminaplein,29,L,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840965,52.353257
+Koningin Wilhelminaplein,29,L,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841572,52.353260
+Koningin Wilhelminaplein,29,L,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841567,52.353308
+Koningin Wilhelminaplein,29,L,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841559,52.353330
+Koningin Wilhelminaplein,29,L,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841574,52.353190
+Koningin Wilhelminaplein,29,L,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841570,52.353158
+Koningin Wilhelminaplein,29,L,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841569,52.353126
+Koningin Wilhelminaplein,29,L,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841570,52.353088
+Koningin Wilhelminaplein,29,L,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841452,52.353061
+Koningin Wilhelminaplein,29,L,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841351,52.353058
+Koningin Wilhelminaplein,29,L,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841283,52.353055
+Koningin Wilhelminaplein,29,L,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840943,52.353319
+Koningin Wilhelminaplein,29,L,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841193,52.353055
+Koningin Wilhelminaplein,29,L,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841128,52.353052
+Koningin Wilhelminaplein,29,L,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841067,52.353053
+Koningin Wilhelminaplein,29,L,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840977,52.353174
+Koningin Wilhelminaplein,29,L,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840978,52.353131
+Koningin Wilhelminaplein,29,L,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840976,52.353091
+Koningin Wilhelminaplein,29,L,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841038,52.353315
+Koningin Wilhelminaplein,29,L,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841129,52.353338
+Koningin Wilhelminaplein,29,L,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841245,52.353344
+Koningin Wilhelminaplein,29,L,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841347,52.353345
+Koningin Wilhelminaplein,29,L,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841427,52.353335
+Koningin Wilhelminaplein,29,L,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841473,52.353328
+Koningin Wilhelminaplein,29,L,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841570,52.353221
+Koningin Wilhelminaplein,29,M,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840971,52.353257
+Koningin Wilhelminaplein,29,M,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841568,52.353267
+Koningin Wilhelminaplein,29,M,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841569,52.353305
+Koningin Wilhelminaplein,29,M,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841560,52.353327
+Koningin Wilhelminaplein,29,M,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841572,52.353187
+Koningin Wilhelminaplein,29,M,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841568,52.353155
+Koningin Wilhelminaplein,29,M,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841570,52.353122
+Koningin Wilhelminaplein,29,M,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841571,52.353083
+Koningin Wilhelminaplein,29,M,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841449,52.353052
+Koningin Wilhelminaplein,29,M,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841352,52.353053
+Koningin Wilhelminaplein,29,M,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841283,52.353052
+Koningin Wilhelminaplein,29,M,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840942,52.353316
+Koningin Wilhelminaplein,29,M,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841192,52.353051
+Koningin Wilhelminaplein,29,M,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841130,52.353047
+Koningin Wilhelminaplein,29,M,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841068,52.353049
+Koningin Wilhelminaplein,29,M,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840973,52.353089
+Koningin Wilhelminaplein,29,M,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840978,52.353128
+Koningin Wilhelminaplein,29,M,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840975,52.353170
+Koningin Wilhelminaplein,29,M,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841039,52.353320
+Koningin Wilhelminaplein,29,M,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841133,52.353337
+Koningin Wilhelminaplein,29,M,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841247,52.353341
+Koningin Wilhelminaplein,29,M,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841350,52.353342
+Koningin Wilhelminaplein,29,M,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841431,52.353337
+Koningin Wilhelminaplein,29,M,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841468,52.353331
+Koningin Wilhelminaplein,29,M,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841568,52.353219
+Koningin Wilhelminaplein,29,N,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840973,52.353253
+Koningin Wilhelminaplein,29,N,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841570,52.353258
+Koningin Wilhelminaplein,29,N,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841567,52.353302
+Koningin Wilhelminaplein,29,N,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841558,52.353325
+Koningin Wilhelminaplein,29,N,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841568,52.353185
+Koningin Wilhelminaplein,29,N,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841566,52.353153
+Koningin Wilhelminaplein,29,N,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841565,52.353118
+Koningin Wilhelminaplein,29,N,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841571,52.353079
+Koningin Wilhelminaplein,29,N,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841449,52.353047
+Koningin Wilhelminaplein,29,N,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841349,52.353050
+Koningin Wilhelminaplein,29,N,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841282,52.353048
+Koningin Wilhelminaplein,29,N,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840942,52.353313
+Koningin Wilhelminaplein,29,N,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841192,52.353046
+Koningin Wilhelminaplein,29,N,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841125,52.353045
+Koningin Wilhelminaplein,29,N,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841065,52.353044
+Koningin Wilhelminaplein,29,N,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840972,52.353167
+Koningin Wilhelminaplein,29,N,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840975,52.353125
+Koningin Wilhelminaplein,29,N,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840977,52.353089
+Koningin Wilhelminaplein,29,N,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841041,52.353324
+Koningin Wilhelminaplein,29,N,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841135,52.353335
+Koningin Wilhelminaplein,29,N,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841248,52.353337
+Koningin Wilhelminaplein,29,N,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841351,52.353340
+Koningin Wilhelminaplein,29,N,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841427,52.353335
+Koningin Wilhelminaplein,29,N,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841465,52.353337
+Koningin Wilhelminaplein,29,N,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841572,52.353224
+Koningin Wilhelminaplein,29,P,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840975,52.353249
+Koningin Wilhelminaplein,29,P,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841567,52.353255
+Koningin Wilhelminaplein,29,P,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841564,52.353299
+Koningin Wilhelminaplein,29,P,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841557,52.353338
+Koningin Wilhelminaplein,29,P,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841563,52.353183
+Koningin Wilhelminaplein,29,P,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841574,52.353163
+Koningin Wilhelminaplein,29,P,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841572,52.353130
+Koningin Wilhelminaplein,29,P,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841567,52.353076
+Koningin Wilhelminaplein,29,P,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841455,52.353057
+Koningin Wilhelminaplein,29,P,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841354,52.353062
+Koningin Wilhelminaplein,29,P,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841282,52.353061
+Koningin Wilhelminaplein,29,P,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840942,52.353313
+Koningin Wilhelminaplein,29,P,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841196,52.353059
+Koningin Wilhelminaplein,29,P,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841129,52.353056
+Koningin Wilhelminaplein,29,P,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841069,52.353046
+Koningin Wilhelminaplein,29,P,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840979,52.353177
+Koningin Wilhelminaplein,29,P,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840983,52.353131
+Koningin Wilhelminaplein,29,P,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840980,52.353093
+Koningin Wilhelminaplein,29,P,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841040,52.353329
+Koningin Wilhelminaplein,29,P,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841137,52.353332
+Koningin Wilhelminaplein,29,P,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841249,52.353334
+Koningin Wilhelminaplein,29,P,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841349,52.353331
+Koningin Wilhelminaplein,29,P,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841425,52.353328
+Koningin Wilhelminaplein,29,P,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841478,52.353328
+Koningin Wilhelminaplein,29,P,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841566,52.353215
+Koningin Wilhelminaplein,29,R,1,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840974,52.353246
+Koningin Wilhelminaplein,29,R,10,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841391,52.353340
+Koningin Wilhelminaplein,29,R,11,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841528,52.353341
+Koningin Wilhelminaplein,29,R,12,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841539,52.353289
+Koningin Wilhelminaplein,29,R,13,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841541,52.353247
+Koningin Wilhelminaplein,29,R,14,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841538,52.353237
+Koningin Wilhelminaplein,29,R,15,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841541,52.353206
+Koningin Wilhelminaplein,29,R,16,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841541,52.353175
+Koningin Wilhelminaplein,29,R,17,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841545,52.353144
+Koningin Wilhelminaplein,29,R,18,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841544,52.353103
+Koningin Wilhelminaplein,29,R,19,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841416,52.353072
+Koningin Wilhelminaplein,29,R,2,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840947,52.353274
+Koningin Wilhelminaplein,29,R,20,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841320,52.353073
+Koningin Wilhelminaplein,29,R,21,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841244,52.353072
+Koningin Wilhelminaplein,29,R,22,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841182,52.353070
+Koningin Wilhelminaplein,29,R,23,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841119,52.353071
+Koningin Wilhelminaplein,29,R,24,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841048,52.353073
+Koningin Wilhelminaplein,29,R,25,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840985,52.353176
+Koningin Wilhelminaplein,29,R,26,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840987,52.353128
+Koningin Wilhelminaplein,29,R,27,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840986,52.353092
+Koningin Wilhelminaplein,29,R,28,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840984,52.353059
+Koningin Wilhelminaplein,29,R,3,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840944,52.353289
+Koningin Wilhelminaplein,29,R,4,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840981,52.353326
+Koningin Wilhelminaplein,29,R,5,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841051,52.353331
+Koningin Wilhelminaplein,29,R,6,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841089,52.353333
+Koningin Wilhelminaplein,29,R,7,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841161,52.353335
+Koningin Wilhelminaplein,29,R,8,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841206,52.353336
+Koningin Wilhelminaplein,29,R,9,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841306,52.353339
 Koningin Wilhelminaplein,29,,,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841100,52.353244
+Koningin Wilhelminaplein,29,,,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841114,52.353281
 Koningin Wilhelminaplein,31,,,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841118,52.352965
 Koningin Wilhelminaplein,33,,,1062HJ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841119,52.352830
 Koningin Wilhelminaplein,2,,,1062HK,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839664,52.355367
@@ -5164,7 +5501,6 @@ Overschiestraat,57,,,1062HN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839931,52.34
 Delflandplein,1,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840882,52.349486
 Delflandplein,3,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840839,52.349396
 Delflandplein,9,A,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840639,52.348909
-Delflandplein,9,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840669,52.348883
 Delflandplein,11,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840653,52.348990
 Delflandplein,17,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840592,52.349179
 Delflandplein,21,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840445,52.349151
@@ -5174,6 +5510,7 @@ Delflandplein,27,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840314,52.3490
 Delflandplein,29,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840300,52.349025
 Delflandplein,31,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840286,52.348962
 Delflandplein,33,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,STA,4.840199,52.348629
+Delflandplein,149,,,1062HP,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840634,52.349178
 Delflandplein,2,,,1062HR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841230,52.349829
 Delflandplein,4,,,1062HR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841098,52.349819
 Delflandplein,6,,,1062HR,Amsterdam,Amsterdam,Noord-Holland,VBO,4.841053,52.349828
@@ -5264,14 +5601,7 @@ Delflandplein,182,,,1062HW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839873,52.349
 Delflandplein,186,,,1062HW,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839873,52.349140
 Cornelis Lelyplein,2,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835082,52.357470
 Cornelis Lelyplein,4,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835186,52.357184
-Cornelis Lelyplein,5,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834759,52.357388
 Cornelis Lelyplein,6,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835132,52.356901
-Cornelis Lelyplein,7,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834737,52.357388
-Cornelis Lelyplein,9,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834709,52.357387
-Cornelis Lelyplein,11,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834678,52.357387
-Cornelis Lelyplein,13,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834640,52.357386
-Cornelis Lelyplein,15,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834796,52.357013
-Cornelis Lelyplein,19,,,1062HX,Amsterdam,Amsterdam,Noord-Holland,VBO,4.834755,52.357187
 Willem Frogerstraat,2,,,1062HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835916,52.357542
 Willem Frogerstraat,4,,,1062HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835904,52.357499
 Willem Frogerstraat,6,,,1062HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835896,52.357458
@@ -5292,7 +5622,58 @@ Willem Frogerstraat,36,,,1062HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835771,5
 Willem Frogerstraat,38,,,1062HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835753,52.356869
 Willem Frogerstraat,40,,,1062HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835739,52.356817
 Willem Frogerstraat,42,,,1062HZ,Amsterdam,Amsterdam,Noord-Holland,VBO,4.835727,52.356782
+Rodenrijsstraat,2,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837865,52.348312
+Rodenrijsstraat,4,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837862,52.348208
+Rodenrijsstraat,6,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837851,52.348143
+Rodenrijsstraat,8,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837851,52.348115
+Rodenrijsstraat,10,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837841,52.348144
+Rodenrijsstraat,12,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837841,52.348116
+Rodenrijsstraat,14,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837831,52.348144
+Rodenrijsstraat,16,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837831,52.348116
+Rodenrijsstraat,18,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837817,52.348144
+Rodenrijsstraat,20,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837820,52.348115
+Rodenrijsstraat,22,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837804,52.348145
+Rodenrijsstraat,24,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837807,52.348116
+Rodenrijsstraat,26,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837855,52.348054
+Rodenrijsstraat,28,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837853,52.348031
+Rodenrijsstraat,30,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837843,52.348055
+Rodenrijsstraat,32,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837842,52.348033
+Rodenrijsstraat,34,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837830,52.348056
+Rodenrijsstraat,36,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837831,52.348032
+Rodenrijsstraat,38,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837819,52.348057
+Rodenrijsstraat,40,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837814,52.348031
+Rodenrijsstraat,42,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837805,52.348056
+Rodenrijsstraat,44,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837804,52.348031
+Rodenrijsstraat,46,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837853,52.347967
+Rodenrijsstraat,48,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837852,52.347939
+Rodenrijsstraat,50,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837840,52.347967
+Rodenrijsstraat,52,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837841,52.347939
+Rodenrijsstraat,54,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837825,52.347968
+Rodenrijsstraat,56,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837828,52.347940
+Rodenrijsstraat,58,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837812,52.347970
+Rodenrijsstraat,60,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837815,52.347940
+Rodenrijsstraat,62,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837801,52.347969
+Rodenrijsstraat,64,,,1062JA,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837802,52.347938
+Voorburgstraat,225,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837839,52.348350
+Voorburgstraat,227,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837836,52.348291
+Voorburgstraat,229,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837837,52.348227
+Voorburgstraat,231,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837725,52.348216
+Voorburgstraat,233,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837649,52.348284
+Voorburgstraat,235,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837603,52.348284
+Voorburgstraat,237,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837553,52.348284
+Voorburgstraat,239,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837497,52.348284
+Voorburgstraat,241,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837431,52.348283
+Voorburgstraat,243,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837372,52.348283
+Voorburgstraat,245,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837322,52.348283
+Voorburgstraat,247,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837264,52.348282
+Voorburgstraat,249,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837831,52.348349
+Voorburgstraat,251,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837827,52.348291
+Voorburgstraat,252,B,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840669,52.348883
+Voorburgstraat,253,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837829,52.348227
+Voorburgstraat,255,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837729,52.348219
+Voorburgstraat,257,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837650,52.348288
 Voorburgstraat,258,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839242,52.348883
+Voorburgstraat,259,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837602,52.348289
 Voorburgstraat,260,A,1,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838338,52.348692
 Voorburgstraat,260,A,10,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838338,52.348692
 Voorburgstraat,260,A,11,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838338,52.348692
@@ -5320,63 +5701,193 @@ Voorburgstraat,260,A,6,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838338,52.
 Voorburgstraat,260,A,7,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838338,52.348692
 Voorburgstraat,260,A,8,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838338,52.348692
 Voorburgstraat,260,A,9,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838338,52.348692
+Voorburgstraat,261,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837553,52.348289
 Voorburgstraat,262,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838190,52.348659
+Voorburgstraat,263,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837497,52.348288
 Voorburgstraat,264,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838019,52.348653
+Voorburgstraat,265,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837430,52.348287
 Voorburgstraat,266,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837896,52.348654
+Voorburgstraat,267,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837370,52.348287
 Voorburgstraat,268,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837782,52.348652
+Voorburgstraat,269,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837322,52.348289
 Voorburgstraat,270,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838189,52.348664
+Voorburgstraat,271,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837823,52.348350
 Voorburgstraat,272,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838018,52.348658
+Voorburgstraat,273,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837819,52.348291
 Voorburgstraat,274,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837896,52.348659
+Voorburgstraat,275,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837820,52.348226
 Voorburgstraat,276,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837780,52.348658
+Voorburgstraat,277,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837721,52.348220
 Voorburgstraat,278,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838189,52.348672
+Voorburgstraat,279,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837649,52.348292
 Voorburgstraat,280,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838018,52.348665
+Voorburgstraat,281,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837601,52.348296
 Voorburgstraat,282,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837895,52.348664
+Voorburgstraat,283,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837554,52.348295
 Voorburgstraat,284,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837772,52.348662
+Voorburgstraat,285,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837498,52.348295
 Voorburgstraat,286,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838188,52.348678
+Voorburgstraat,287,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837430,52.348293
 Voorburgstraat,288,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838018,52.348671
+Voorburgstraat,289,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837372,52.348293
 Voorburgstraat,290,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837893,52.348669
+Voorburgstraat,291,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837322,52.348294
 Voorburgstraat,292,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837769,52.348667
+Voorburgstraat,293,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837811,52.348351
 Voorburgstraat,294,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837681,52.348681
+Voorburgstraat,295,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837810,52.348292
 Voorburgstraat,296,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837568,52.348678
+Voorburgstraat,297,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837811,52.348226
 Voorburgstraat,298,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837450,52.348679
+Voorburgstraat,299,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837725,52.348216
 Voorburgstraat,300,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837353,52.348678
+Voorburgstraat,301,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837648,52.348298
 Voorburgstraat,302,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837283,52.348677
+Voorburgstraat,303,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837600,52.348301
 Voorburgstraat,304,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837198,52.348674
+Voorburgstraat,305,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837553,52.348299
 Voorburgstraat,306,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837121,52.348673
+Voorburgstraat,307,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837495,52.348300
 Voorburgstraat,308,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838185,52.348685
+Voorburgstraat,309,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837428,52.348298
 Voorburgstraat,310,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838016,52.348677
+Voorburgstraat,311,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837372,52.348297
 Voorburgstraat,312,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837892,52.348675
+Voorburgstraat,313,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837319,52.348299
 Voorburgstraat,314,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837767,52.348673
+Voorburgstraat,315,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837800,52.348351
 Voorburgstraat,316,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837680,52.348686
+Voorburgstraat,317,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837799,52.348291
 Voorburgstraat,318,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837567,52.348682
+Voorburgstraat,319,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837802,52.348226
 Voorburgstraat,320,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837450,52.348684
+Voorburgstraat,321,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837717,52.348216
 Voorburgstraat,322,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837352,52.348683
+Voorburgstraat,323,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837647,52.348303
 Voorburgstraat,324,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837283,52.348680
+Voorburgstraat,325,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837598,52.348306
 Voorburgstraat,326,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837197,52.348679
+Voorburgstraat,327,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837551,52.348304
 Voorburgstraat,328,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837120,52.348677
+Voorburgstraat,329,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837496,52.348305
 Voorburgstraat,330,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838184,52.348690
+Voorburgstraat,331,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837428,52.348304
 Voorburgstraat,332,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838014,52.348682
+Voorburgstraat,333,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837371,52.348302
 Voorburgstraat,334,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837890,52.348681
+Voorburgstraat,335,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837321,52.348303
 Voorburgstraat,336,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837764,52.348679
+Voorburgstraat,337,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837789,52.348352
 Voorburgstraat,338,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837680,52.348690
+Voorburgstraat,339,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837788,52.348292
 Voorburgstraat,340,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837566,52.348687
+Voorburgstraat,341,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837646,52.348310
 Voorburgstraat,342,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837450,52.348689
+Voorburgstraat,343,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837600,52.348310
 Voorburgstraat,344,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837351,52.348687
+Voorburgstraat,345,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837552,52.348310
 Voorburgstraat,346,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837281,52.348684
+Voorburgstraat,347,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837496,52.348309
 Voorburgstraat,348,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837195,52.348683
+Voorburgstraat,349,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837428,52.348309
 Voorburgstraat,350,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837120,52.348681
+Voorburgstraat,351,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837370,52.348306
 Voorburgstraat,352,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838011,52.348687
+Voorburgstraat,353,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837321,52.348308
 Voorburgstraat,354,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837888,52.348686
+Voorburgstraat,355,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837594,52.348366
 Voorburgstraat,356,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837767,52.348685
+Voorburgstraat,357,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837542,52.348367
 Voorburgstraat,358,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837678,52.348694
+Voorburgstraat,359,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837496,52.348367
 Voorburgstraat,360,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837565,52.348692
+Voorburgstraat,361,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837424,52.348367
 Voorburgstraat,362,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837450,52.348694
+Voorburgstraat,363,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837370,52.348366
 Voorburgstraat,364,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837349,52.348691
+Voorburgstraat,365,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837312,52.348366
 Voorburgstraat,366,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837280,52.348688
 Voorburgstraat,368,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837196,52.348687
+Voorburgstraat,369,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836982,52.348351
 Voorburgstraat,370,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837358,52.348659
+Voorburgstraat,371,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836983,52.348317
 Voorburgstraat,372,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837286,52.348657
+Voorburgstraat,373,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837075,52.348284
 Voorburgstraat,374,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837205,52.348654
+Voorburgstraat,375,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837076,52.348249
+Voorburgstraat,377,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837077,52.348217
+Voorburgstraat,379,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837075,52.348185
+Voorburgstraat,381,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837078,52.348151
+Voorburgstraat,383,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837076,52.348110
+Voorburgstraat,385,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837075,52.348077
+Voorburgstraat,387,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837079,52.348036
+Voorburgstraat,389,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837078,52.347997
+Voorburgstraat,391,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837076,52.347960
+Voorburgstraat,393,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837089,52.348251
+Voorburgstraat,395,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837086,52.348185
+Voorburgstraat,397,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837090,52.348111
+Voorburgstraat,399,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837093,52.348037
+Voorburgstraat,401,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837091,52.347961
+Voorburgstraat,403,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837023,52.347960
+Voorburgstraat,405,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837024,52.348037
+Voorburgstraat,407,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837025,52.348112
+Voorburgstraat,409,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837026,52.348186
+Voorburgstraat,411,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837024,52.348252
+Voorburgstraat,413,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836991,52.348317
+Voorburgstraat,415,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836989,52.348352
+Voorburgstraat,417,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837054,52.348352
+Voorburgstraat,419,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837098,52.348250
+Voorburgstraat,421,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837097,52.348184
+Voorburgstraat,423,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837101,52.348111
+Voorburgstraat,425,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837102,52.348036
+Voorburgstraat,427,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837104,52.347960
+Voorburgstraat,429,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837010,52.347962
+Voorburgstraat,431,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837012,52.348037
+Voorburgstraat,433,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837013,52.348112
+Voorburgstraat,435,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837015,52.348185
+Voorburgstraat,437,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837013,52.348252
+Voorburgstraat,439,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836975,52.348317
+Voorburgstraat,441,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836973,52.348351
+Voorburgstraat,443,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837059,52.348352
+Voorburgstraat,445,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837107,52.348250
+Voorburgstraat,447,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837104,52.348185
+Voorburgstraat,449,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837110,52.348110
+Voorburgstraat,451,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837110,52.348037
+Voorburgstraat,453,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837114,52.347961
+Voorburgstraat,455,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837000,52.347962
+Voorburgstraat,457,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837002,52.348036
+Voorburgstraat,459,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837000,52.348111
+Voorburgstraat,461,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837000,52.348187
+Voorburgstraat,463,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837000,52.348252
+Voorburgstraat,465,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836962,52.348318
+Voorburgstraat,467,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836962,52.348352
+Voorburgstraat,469,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837065,52.348352
+Voorburgstraat,471,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837116,52.348251
+Voorburgstraat,473,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837115,52.348185
+Voorburgstraat,475,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837119,52.348110
+Voorburgstraat,477,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837119,52.348038
+Voorburgstraat,479,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837125,52.347960
+Voorburgstraat,481,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836989,52.347963
+Voorburgstraat,483,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836989,52.348037
+Voorburgstraat,485,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836987,52.348110
+Voorburgstraat,487,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836987,52.348188
+Voorburgstraat,489,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836986,52.348252
+Voorburgstraat,491,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836949,52.348319
+Voorburgstraat,493,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836948,52.348352
+Voorburgstraat,495,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837068,52.348353
+Voorburgstraat,497,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837124,52.348250
+Voorburgstraat,499,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837123,52.348185
+Voorburgstraat,501,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837127,52.348110
+Voorburgstraat,503,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837129,52.348037
+Voorburgstraat,505,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837134,52.347961
+Voorburgstraat,507,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836975,52.347963
+Voorburgstraat,509,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836974,52.348037
+Voorburgstraat,511,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836975,52.348111
+Voorburgstraat,513,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836976,52.348191
+Voorburgstraat,515,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836973,52.348252
+Voorburgstraat,517,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836934,52.348320
+Voorburgstraat,519,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.836933,52.348354
+Voorburgstraat,521,,,1062JB,Amsterdam,Amsterdam,Noord-Holland,VBO,4.837071,52.348351
 Postjesweg,175,,,1062JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.840955,52.363804
 Postjesweg,179,A,,1062JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.839120,52.363759
 Postjesweg,179,B,,1062JN,Amsterdam,Amsterdam,Noord-Holland,VBO,4.838695,52.363748

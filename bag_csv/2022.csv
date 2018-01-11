@@ -5,7 +5,7 @@ Julianapark,2,,,2022AA,Haarlem,Haarlem,Noord-Holland,VBO,4.642152,52.396587
 Julianapark,3,,,2022AA,Haarlem,Haarlem,Noord-Holland,VBO,4.642670,52.396679
 Julianapark,4,,,2022AA,Haarlem,Haarlem,Noord-Holland,VBO,4.642225,52.396579
 Julianapark,6,,,2022AA,Haarlem,Haarlem,Noord-Holland,VBO,4.642296,52.396573
-Julianapark,7,,,2022AA,Haarlem,Haarlem,Noord-Holland,VBO,4.643170,52.397518
+Julianapark,7,,,2022AA,Haarlem,Haarlem,Noord-Holland,STA,4.643178,52.397522
 Julianapark,8,,,2022AA,Haarlem,Haarlem,Noord-Holland,VBO,4.642361,52.396563
 Julianapark,9,,,2022AA,Haarlem,Haarlem,Noord-Holland,STA,4.643214,52.397606
 Julianapark,10,,,2022AA,Haarlem,Haarlem,Noord-Holland,VBO,4.642422,52.396552
@@ -34,8 +34,9 @@ Julianapark,42,,44,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643282,52.397222
 Julianapark,42,,RD,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643368,52.397211
 Julianapark,44,,RD,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643385,52.397257
 Julianapark,46,A,,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643410,52.397305
-Julianapark,46,,,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643325,52.397316
+Julianapark,46,,,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643341,52.397315
 Julianapark,48,,RD,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643432,52.397350
+Julianapark,48,,,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643360,52.397369
 Julianapark,50,,RD,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643454,52.397397
 Julianapark,50,,,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643390,52.397411
 Julianapark,52,,RD,2022AB,Haarlem,Haarlem,Noord-Holland,VBO,4.643473,52.397445
@@ -383,7 +384,6 @@ Ternatestraat,24,,,2022BV,Haarlem,Haarlem,Noord-Holland,VBO,4.646988,52.398299
 Ternatestraat,26,,,2022BV,Haarlem,Haarlem,Noord-Holland,VBO,4.647019,52.398351
 Ternatestraat,28,A,,2022BV,Haarlem,Haarlem,Noord-Holland,VBO,4.647640,52.398779
 Ternatestraat,28,B,,2022BV,Haarlem,Haarlem,Noord-Holland,VBO,4.647593,52.398793
-Ternatestraat,28,,RD,2022BV,Haarlem,Haarlem,Noord-Holland,VBO,4.647538,52.398811
 Ternatestraat,28,,,2022BV,Haarlem,Haarlem,Noord-Holland,VBO,4.647443,52.398838
 Ternatestraat,30,,,2022BV,Haarlem,Haarlem,Noord-Holland,VBO,4.647489,52.398881
 Ternatestraat,32,,,2022BV,Haarlem,Haarlem,Noord-Holland,VBO,4.647519,52.398927
@@ -721,6 +721,7 @@ Zaanenstraat,14,,,2022CP,Haarlem,Haarlem,Noord-Holland,VBO,4.647224,52.400805
 Zaanenstraat,18,A,,2022CP,Haarlem,Haarlem,Noord-Holland,VBO,4.647489,52.400735
 Zaanenstraat,18,B,,2022CP,Haarlem,Haarlem,Noord-Holland,VBO,4.647484,52.400691
 Zaanenstraat,18,C,,2022CP,Haarlem,Haarlem,Noord-Holland,VBO,4.647468,52.400651
+Zaanenstraat,18,D,,2022CP,Haarlem,Haarlem,Noord-Holland,VBO,4.647379,52.400665
 Zaanenstraat,20,,,2022CP,Haarlem,Haarlem,Noord-Holland,VBO,4.647688,52.400592
 Zaanenstraat,22,,,2022CP,Haarlem,Haarlem,Noord-Holland,VBO,4.647737,52.400580
 Zaanenstraat,24,,,2022CP,Haarlem,Haarlem,Noord-Holland,VBO,4.647787,52.400574
@@ -831,6 +832,8 @@ Oosterstraat,26,,,2022CW,Haarlem,Haarlem,Noord-Holland,VBO,4.648096,52.401810
 Oosterstraat,28,,,2022CW,Haarlem,Haarlem,Noord-Holland,VBO,4.648139,52.401851
 Oosterstraat,30,,,2022CW,Haarlem,Haarlem,Noord-Holland,VBO,4.648178,52.401895
 Oosterstraat,32,,,2022CW,Haarlem,Haarlem,Noord-Holland,VBO,4.648231,52.401935
+Oosterstraat,34,A,,2022CX,Haarlem,Haarlem,Noord-Holland,VBO,4.648701,52.402223
+Oosterstraat,34,,,2022CX,Haarlem,Haarlem,Noord-Holland,VBO,4.648675,52.402238
 Oosterstraat,34,,,2022CX,Haarlem,Haarlem,Noord-Holland,VBO,4.648681,52.402241
 Oosterstraat,36,,,2022CX,Haarlem,Haarlem,Noord-Holland,VBO,4.648741,52.402276
 Oosterstraat,38,,,2022CX,Haarlem,Haarlem,Noord-Holland,VBO,4.648819,52.402378
@@ -938,11 +941,10 @@ Rijksstraatweg,102,A,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648157,52.40386
 Rijksstraatweg,102,,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648094,52.403884
 Rijksstraatweg,104,A,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648171,52.403921
 Rijksstraatweg,104,B,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648241,52.403904
-Rijksstraatweg,104,,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648123,52.403933
 Rijksstraatweg,104,,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648128,52.403945
 Rijksstraatweg,106,A,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648191,52.403966
 Rijksstraatweg,106,B,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648220,52.403958
-Rijksstraatweg,108,B,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648246,52.404201
+Rijksstraatweg,108,B,,2022DD,Haarlem,Haarlem,Noord-Holland,STA,4.648247,52.404197
 Rijksstraatweg,108,,,2022DD,Haarlem,Haarlem,Noord-Holland,VBO,4.648190,52.404020
 Rijksstraatweg,110,,RD,2022DE,Haarlem,Haarlem,Noord-Holland,VBO,4.648478,52.404319
 Rijksstraatweg,110,,,2022DE,Haarlem,Haarlem,Noord-Holland,VBO,4.648397,52.404348
@@ -1179,7 +1181,10 @@ Hodsonstraat,13,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650390,52.407277
 Hodsonstraat,15,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650416,52.407323
 Hodsonstraat,17,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650436,52.407371
 Hodsonstraat,19,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650455,52.407414
+Hodsonstraat,21,A,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650461,52.407462
+Hodsonstraat,21,B,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650434,52.407468
 Hodsonstraat,21,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650486,52.407457
+Hodsonstraat,21,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650503,52.407455
 Hodsonstraat,23,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650510,52.407503
 Hodsonstraat,25,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650532,52.407548
 Hodsonstraat,27,,,2022DT,Haarlem,Haarlem,Noord-Holland,VBO,4.650554,52.407592
@@ -1345,6 +1350,8 @@ Spaarndamseweg,426,,,2022EA,Haarlem,Haarlem,Noord-Holland,VBO,4.650685,52.397745
 Spaarndamseweg,428,,,2022EA,Haarlem,Haarlem,Noord-Holland,VBO,4.650698,52.397797
 Spaarndamseweg,484,,RD,2022EB,Haarlem,Haarlem,Noord-Holland,VBO,4.651308,52.399276
 Spaarndamseweg,484,,ZW,2022EB,Haarlem,Haarlem,Noord-Holland,VBO,4.651377,52.399263
+Spaarndamseweg,486,A,,2022EB,Haarlem,Haarlem,Noord-Holland,VBO,4.651295,52.399322
+Spaarndamseweg,486,B,,2022EB,Haarlem,Haarlem,Noord-Holland,VBO,4.651303,52.399348
 Spaarndamseweg,486,,RD,2022EB,Haarlem,Haarlem,Noord-Holland,VBO,4.651338,52.399325
 Spaarndamseweg,486,,ZW,2022EB,Haarlem,Haarlem,Noord-Holland,VBO,4.651407,52.399312
 Spaarndamseweg,488,,RD,2022EB,Haarlem,Haarlem,Noord-Holland,VBO,4.651356,52.399376
@@ -2215,6 +2222,9 @@ Sillemstraat,39,,,2022PP,Haarlem,Haarlem,Noord-Holland,VBO,4.651699,52.407246
 Sillemstraat,41,,,2022PP,Haarlem,Haarlem,Noord-Holland,VBO,4.651761,52.407207
 Sillemstraat,43,,,2022PP,Haarlem,Haarlem,Noord-Holland,VBO,4.651814,52.407174
 Sillemstraat,45,,,2022PP,Haarlem,Haarlem,Noord-Holland,VBO,4.651870,52.407127
+Sillemstraat,2,A,,2022PR,Haarlem,Haarlem,Noord-Holland,VBO,4.650283,52.407737
+Sillemstraat,2,B,,2022PR,Haarlem,Haarlem,Noord-Holland,VBO,4.650279,52.407711
+Sillemstraat,2,,,2022PR,Haarlem,Haarlem,Noord-Holland,VBO,4.650279,52.407759
 Sillemstraat,2,,,2022PR,Haarlem,Haarlem,Noord-Holland,VBO,4.650302,52.407752
 Sillemstraat,4,,,2022PR,Haarlem,Haarlem,Noord-Holland,VBO,4.650378,52.407737
 Sillemstraat,6,,,2022PR,Haarlem,Haarlem,Noord-Holland,VBO,4.651061,52.407379
@@ -2679,7 +2689,6 @@ Semarangstraat,23,,,2022RV,Haarlem,Haarlem,Noord-Holland,VBO,4.650578,52.405746
 Semarangstraat,25,,,2022RV,Haarlem,Haarlem,Noord-Holland,VBO,4.650595,52.405784
 Semarangstraat,27,A,,2022RV,Haarlem,Haarlem,Noord-Holland,VBO,4.650596,52.405832
 Semarangstraat,27,B,,2022RV,Haarlem,Haarlem,Noord-Holland,VBO,4.650554,52.405840
-Semarangstraat,27,,,2022RV,Haarlem,Haarlem,Noord-Holland,VBO,4.650619,52.405829
 Semarangstraat,27,,,2022RV,Haarlem,Haarlem,Noord-Holland,VBO,4.650624,52.405826
 Semarangstraat,29,,,2022RV,Haarlem,Haarlem,Noord-Holland,VBO,4.650643,52.405875
 Semarangstraat,31,,,2022RV,Haarlem,Haarlem,Noord-Holland,VBO,4.650672,52.405919
@@ -3831,7 +3840,8 @@ Balistraat,8,,,2022XZ,Haarlem,Haarlem,Noord-Holland,VBO,4.645026,52.397978
 Balistraat,9,,RD,2022XZ,Haarlem,Haarlem,Noord-Holland,VBO,4.644719,52.398159
 Balistraat,9,,,2022XZ,Haarlem,Haarlem,Noord-Holland,VBO,4.644815,52.398135
 Balistraat,10,,,2022XZ,Haarlem,Haarlem,Noord-Holland,VBO,4.645004,52.398026
-Balistraat,12,,,2022XZ,Haarlem,Haarlem,Noord-Holland,VBO,4.645046,52.398072
+Balistraat,12,A,,2022XZ,Haarlem,Haarlem,Noord-Holland,VBO,4.645041,52.398076
+Balistraat,12,B,,2022XZ,Haarlem,Haarlem,Noord-Holland,VBO,4.645023,52.398052
 Balistraat,14,,,2022XZ,Haarlem,Haarlem,Noord-Holland,VBO,4.645081,52.398054
 Transvaalstraat,9,,,2022ZA,Haarlem,Haarlem,Noord-Holland,VBO,4.649148,52.395585
 Transvaalstraat,11,,,2022ZA,Haarlem,Haarlem,Noord-Holland,VBO,4.649049,52.395601
@@ -3852,6 +3862,7 @@ Delistraat,18,,RD,2022ZB,Haarlem,Haarlem,Noord-Holland,VBO,4.648820,52.396054
 Delistraat,18,,,2022ZB,Haarlem,Haarlem,Noord-Holland,VBO,4.648749,52.396064
 Delistraat,1,B,,2022ZC,Haarlem,Haarlem,Noord-Holland,VBO,4.648590,52.396412
 Delistraat,1,C,,2022ZC,Haarlem,Haarlem,Noord-Holland,VBO,4.648633,52.396824
+Delistraat,1,E,,2022ZC,Haarlem,Haarlem,Noord-Holland,VBO,4.648785,52.396854
 Delistraat,1,,,2022ZC,Haarlem,Haarlem,Noord-Holland,VBO,4.648425,52.396068
 Delistraat,3,,,2022ZC,Haarlem,Haarlem,Noord-Holland,VBO,4.649046,52.397397
 Delistraat,5,,,2022ZC,Haarlem,Haarlem,Noord-Holland,VBO,4.649260,52.397872

@@ -54,6 +54,7 @@ Scheveningseweg,88,M,,2584AC,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.2797
 Scheveningseweg,88,N,,2584AC,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279744,52.099207
 Scheveningseweg,88,P,,2584AC,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279746,52.099198
 Scheveningseweg,88,Q,,2584AC,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279837,52.099117
+Scheveningseweg,88,,,2584AC,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.280596,52.099477
 Scheveningseweg,90,A,,2584AC,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.280864,52.099676
 Scheveningseweg,90,B,,2584AC,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.280879,52.099687
 Scheveningseweg,90,C,,2584AC,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.280911,52.099695
@@ -427,6 +428,8 @@ Doornstraat,172,B,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272210,
 Doornstraat,172,,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272306,52.096604
 Doornstraat,174,A,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272154,52.096474
 Doornstraat,174,,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272154,52.096474
+Doornstraat,176,A,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272097,52.096430
+Doornstraat,176,B,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272099,52.096428
 Doornstraat,176,,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272097,52.096430
 Doornstraat,178,A,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272042,52.096388
 Doornstraat,178,B,,2584AP,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.272042,52.096388
@@ -691,7 +694,6 @@ Keizerstraat,137,A,,2584BD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.274634
 Keizerstraat,137,,,2584BD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.274657,52.105037
 Keizerstraat,139,A,,2584BD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.274770,52.105093
 Keizerstraat,139,,,2584BD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.274797,52.105104
-Keizerstraat,143,A,,2584BD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.274829,52.105123
 Keizerstraat,143,,,2584BD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.274821,52.105123
 Keizerstraat,145,,,2584BD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.274854,52.105097
 Keizerstraat,149,A,,2584BD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.274896,52.105062
@@ -779,13 +781,11 @@ Keizerstraat,20,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273529,5
 Keizerstraat,22,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273598,52.106305
 Keizerstraat,24,A,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273870,52.106454
 Keizerstraat,24,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273598,52.106305
-Keizerstraat,26,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273662,52.106255
 Keizerstraat,26,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273689,52.106271
 Keizerstraat,28,A,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273933,52.106400
 Keizerstraat,28,,1,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273674,52.106261
 Keizerstraat,28,,2,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273676,52.106265
 Keizerstraat,28,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273668,52.106257
-Keizerstraat,28,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273678,52.106252
 Keizerstraat,30,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273746,52.106184
 Keizerstraat,32,A,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273794,52.106143
 Keizerstraat,32,,,2584BJ,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.273794,52.106143
@@ -2364,10 +2364,19 @@ Badhuisstraat,45,,,2584HD,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278808,
 Badhuisstraat,47,A,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279135,52.105256
 Badhuisstraat,47,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279135,52.105256
 Badhuisstraat,49,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279135,52.105256
+Badhuisstraat,51,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279115,52.105208
 Badhuisstraat,51,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279128,52.105209
 Badhuisstraat,53,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279014,52.105164
+Badhuisstraat,53,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279119,52.105185
+Badhuisstraat,55,A,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279086,52.105134
+Badhuisstraat,55,B,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279039,52.105193
+Badhuisstraat,55,C,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279037,52.105124
+Badhuisstraat,55,D,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278999,52.105181
+Badhuisstraat,55,E,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278998,52.105113
 Badhuisstraat,55,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278956,52.105147
+Badhuisstraat,55,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279081,52.105202
 Badhuisstraat,57,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278887,52.105136
+Badhuisstraat,65,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279114,52.105142
 Badhuisstraat,65,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279121,52.105145
 Badhuisstraat,69,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279114,52.105089
 Badhuisstraat,71,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279111,52.105074
@@ -2377,6 +2386,10 @@ Badhuisstraat,77,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279102,
 Badhuisstraat,79,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279102,52.105001
 Badhuisstraat,81,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279094,52.104946
 Badhuisstraat,83,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279094,52.104946
+Badhuisstraat,85,A,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278526,52.104909
+Badhuisstraat,85,B,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278550,52.104859
+Badhuisstraat,85,C,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278610,52.104791
+Badhuisstraat,85,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278544,52.104917
 Badhuisstraat,85,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279088,52.104905
 Badhuisstraat,87,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279088,52.104905
 Badhuisstraat,89,,,2584HE,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279079,52.104843
@@ -2396,6 +2409,7 @@ Badhuisstraat,131,,,2584HG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279029
 Badhuisstraat,133,,,2584HG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279020,52.104400
 Badhuisstraat,135,,,2584HG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279020,52.104400
 Badhuisstraat,137,,,2584HG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279020,52.104400
+Badhuisstraat,139,,,2584HG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.278985,52.104332
 Badhuisstraat,141,,,2584HG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279011,52.104331
 Badhuisstraat,143,,,2584HG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279011,52.104331
 Badhuisstraat,145,,,2584HG,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.279003,52.104264
@@ -2701,7 +2715,6 @@ Hoge Prins Willemstraat,3,B,,2584HW,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO
 Hoge Prins Willemstraat,3,C,,2584HW,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.277431,52.103435
 Hoge Prins Willemstraat,5,,,2584HW,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.277928,52.103027
 Hoge Prins Willemstraat,7,,,2584HW,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.277968,52.102960
-Hoge Prins Willemstraat,164,,,2584HX,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.277809,52.103305
 Hoge Prins Willemstraat,166,,,2584HX,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.277923,52.103304
 Hoge Prins Willemstraat,168,,,2584HX,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.277871,52.103300
 Hoge Prins Willemstraat,170,,,2584HX,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.277898,52.103325
@@ -4151,7 +4164,6 @@ Jacob Vermijstraat,41,,,2584XL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.28
 Jacob Vermijstraat,43,,,2584XL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.283044,52.103876
 Jacob Vermijstraat,45,,,2584XL,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.283044,52.103876
 Jacob Vermijstraat,2,,BIS,2584XM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.282633,52.104303
-Jacob Vermijstraat,2,,,2584XM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.282742,52.104236
 Jacob Vermijstraat,4,,,2584XM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.282742,52.104236
 Jacob Vermijstraat,6,,,2584XM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.282851,52.104171
 Jacob Vermijstraat,8,,,2584XM,'s-Gravenhage,'s-Gravenhage,Zuid-Holland,VBO,4.282851,52.104171

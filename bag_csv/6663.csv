@@ -61,6 +61,7 @@ Griftdijk Noord,22,,,6663AC,Lent,Nijmegen,Gelderland,VBO,5.854781,51.869506
 Griftdijk Noord,24,,,6663AC,Lent,Nijmegen,Gelderland,VBO,5.854183,51.869991
 Griftdijk Noord,36,,,6663AC,Lent,Nijmegen,Gelderland,VBO,5.851360,51.873136
 Griftdijk Noord,50,,,6663AC,Lent,Nijmegen,Gelderland,VBO,5.850891,51.873511
+Margaretha van Mechelenweg,51,,,6663AC,Lent,Nijmegen,Gelderland,VBO,5.856998,51.873078
 Dijkstraat,1,,,6663AD,Lent,Nijmegen,Gelderland,VBO,5.857778,51.870153
 Dijkstraat,4,,,6663AD,Lent,Nijmegen,Gelderland,VBO,5.858198,51.869905
 Dijkstraat,7,A,,6663AD,Lent,Nijmegen,Gelderland,VBO,5.856072,51.869704
@@ -223,8 +224,6 @@ Weverstraat,28,,,6663AX,Lent,Nijmegen,Gelderland,VBO,5.863012,51.859428
 Weverstraat,30,,,6663AX,Lent,Nijmegen,Gelderland,VBO,5.862904,51.859516
 Weverstraat,32,,,6663AX,Lent,Nijmegen,Gelderland,VBO,5.862842,51.859576
 Weverstraat,34,,,6663AX,Lent,Nijmegen,Gelderland,VBO,5.862736,51.859709
-Griftdijk Zuid,1,,,6663BA,Lent,Nijmegen,Gelderland,VBO,5.867043,51.854221
-Griftdijk Zuid,3,,,6663BA,Lent,Nijmegen,Gelderland,VBO,5.867602,51.854403
 Griftdijk Zuid,77,A,,6663BB,Lent,Nijmegen,Gelderland,VBO,5.866314,51.857914
 Griftdijk Zuid,77,,,6663BB,Lent,Nijmegen,Gelderland,VBO,5.866305,51.857932
 Griftdijk Zuid,79,,,6663BB,Lent,Nijmegen,Gelderland,VBO,5.866305,51.857932
@@ -563,6 +562,7 @@ Laauwikstraat,57,,,6663CG,Lent,Nijmegen,Gelderland,VBO,5.872463,51.865960
 Laauwikstraat,61,,,6663CH,Lent,Nijmegen,Gelderland,VBO,5.874623,51.866116
 Laauwikstraat,63,,,6663CH,Lent,Nijmegen,Gelderland,VBO,5.874745,51.866117
 Laauwikstraat,65,,,6663CH,Lent,Nijmegen,Gelderland,VBO,5.875276,51.866124
+Laauwikstraat,67,A,,6663CH,Lent,Nijmegen,Gelderland,VBO,5.875932,51.866129
 Laauwikstraat,67,,,6663CH,Lent,Nijmegen,Gelderland,VBO,5.875662,51.866087
 Laauwikstraat,69,,,6663CH,Lent,Nijmegen,Gelderland,VBO,5.876160,51.866095
 Laauwikstraat,71,,,6663CH,Lent,Nijmegen,Gelderland,VBO,5.876920,51.866173
@@ -2609,7 +2609,6 @@ Vossenpelssestraat,38,B,,6663KC,Lent,Nijmegen,Gelderland,VBO,5.879592,51.868660
 Vossenpelssestraat,38,,,6663KC,Lent,Nijmegen,Gelderland,VBO,5.878934,51.868416
 Vossenpelssestraat,40,,,6663KC,Lent,Nijmegen,Gelderland,VBO,5.879881,51.868810
 Vossenpelssestraat,42,,,6663KC,Lent,Nijmegen,Gelderland,VBO,5.880290,51.868743
-Vossenpelssestraat,11,,,6663KD,Lent,Nijmegen,Gelderland,VBO,5.877901,51.866602
 Vossenpelssestraat,13,A,,6663KD,Lent,Nijmegen,Gelderland,VBO,5.878147,51.867297
 Vossenpelssestraat,13,B,,6663KD,Lent,Nijmegen,Gelderland,VBO,5.878092,51.867407
 Vossenpelssestraat,13,E,,6663KD,Lent,Nijmegen,Gelderland,VBO,5.877808,51.867752
@@ -2690,7 +2689,7 @@ Visveldsestraat,2,G,,6663KK,Lent,Nijmegen,Gelderland,VBO,5.867763,51.866269
 Visveldsestraat,2,H,,6663KK,Lent,Nijmegen,Gelderland,VBO,5.867702,51.866404
 Visveldsestraat,2,J,,6663KK,Lent,Nijmegen,Gelderland,VBO,5.867689,51.866585
 Visveldsestraat,2,K,,6663KK,Lent,Nijmegen,Gelderland,VBO,5.867499,51.866700
-Visveldsestraat,3,A,A,6663KK,Lent,Nijmegen,Gelderland,VBO,5.866634,51.866490
+Visveldsestraat,3,A,A,6663KK,Lent,Nijmegen,Gelderland,VBO,5.866647,51.866470
 Visveldsestraat,3,A,,6663KK,Lent,Nijmegen,Gelderland,VBO,5.867093,51.866466
 Visveldsestraat,3,B,,6663KK,Lent,Nijmegen,Gelderland,VBO,5.866857,51.866822
 Visveldsestraat,3,C,,6663KK,Lent,Nijmegen,Gelderland,VBO,5.866742,51.867084
@@ -2729,7 +2728,7 @@ Lentseveld,20,,,6663KM,Lent,Nijmegen,Gelderland,VBO,5.863669,51.865817
 Lentseveld,22,,,6663KM,Lent,Nijmegen,Gelderland,VBO,5.863517,51.865894
 Lentseveld,24,,,6663KM,Lent,Nijmegen,Gelderland,VBO,5.863491,51.866142
 Lentseveld,26,,,6663KM,Lent,Nijmegen,Gelderland,VBO,5.863330,51.866218
-Lentseveld,28,,,6663KM,Lent,Nijmegen,Gelderland,VBO,5.863126,51.866267
+Lentseveld,28,,,6663KM,Lent,Nijmegen,Gelderland,VBO,5.863168,51.866283
 Lentseveld,30,,,6663KM,Lent,Nijmegen,Gelderland,VBO,5.863063,51.866373
 Lentseveld,32,,,6663KM,Lent,Nijmegen,Gelderland,VBO,5.862957,51.866477
 Geldershofstraat,1,,,6663KN,Lent,Nijmegen,Gelderland,VBO,5.862178,51.863902
@@ -2836,6 +2835,7 @@ Oosterhoutsedijk,55,,,6663KT,Lent,Nijmegen,Gelderland,VBO,5.862017,51.854500
 Oosterhoutsedijk,57,,,6663KT,Lent,Nijmegen,Gelderland,VBO,5.861639,51.854563
 Oosterhoutsedijk,59,,,6663KT,Lent,Nijmegen,Gelderland,VBO,5.861255,51.854635
 Oudedijk,2,,,6663KT,Lent,Nijmegen,Gelderland,VBO,5.868434,51.853732
+Oudedijk,3,,,6663KT,Lent,Nijmegen,Gelderland,VBO,5.869593,51.854523
 Oosterhoutsedijk,46,,,6663KV,Lent,Nijmegen,Gelderland,VBO,5.858336,51.857167
 Oosterhoutsedijk,48,,,6663KV,Lent,Nijmegen,Gelderland,VBO,5.858656,51.857701
 Oosterhoutsedijk,50,,,6663KV,Lent,Nijmegen,Gelderland,VBO,5.858029,51.857659
@@ -2880,7 +2880,7 @@ Karl Marxstraat,4,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875666,51.864675
 Karl Marxstraat,5,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875735,51.864923
 Karl Marxstraat,6,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875745,51.864692
 Karl Marxstraat,7,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875895,51.864925
-Karl Marxstraat,8,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875805,51.864737
+Karl Marxstraat,8,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875814,51.864701
 Karl Marxstraat,8,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875823,51.864689
 Karl Marxstraat,9,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875991,51.864937
 Karl Marxstraat,10,,,6663LA,Lent,Nijmegen,Gelderland,VBO,5.875901,51.864704
@@ -2924,17 +2924,19 @@ Rosa Luxemburgstraat,29,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.877248,51.864816
 Rosa Luxemburgstraat,31,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.877313,51.864750
 Rosa Luxemburgstraat,33,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.877201,51.864855
 Rosa Luxemburgstraat,35,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.877259,51.864825
-Rosa Luxemburgstraat,37,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876638,51.864584
-Rosa Luxemburgstraat,39,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876702,51.864584
-Rosa Luxemburgstraat,41,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876685,51.864555
-Rosa Luxemburgstraat,43,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876803,51.864556
+Rosa Luxemburgstraat,37,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876627,51.864619
+Rosa Luxemburgstraat,39,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876749,51.864620
+Rosa Luxemburgstraat,41,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876710,51.864574
+Rosa Luxemburgstraat,43,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876808,51.864617
 Rosa Luxemburgstraat,45,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876765,51.864455
 Rosa Luxemburgstraat,47,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876892,51.864345
 Rosa Luxemburgstraat,49,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.877065,51.864433
 Rosa Luxemburgstraat,51,,,6663LB,Lent,Nijmegen,Gelderland,VBO,5.876962,51.864574
 Edith Steinstraat,1,,,6663LC,Lent,Nijmegen,Gelderland,VBO,5.875082,51.864593
 Edith Steinstraat,2,,,6663LC,Lent,Nijmegen,Gelderland,VBO,5.875159,51.864294
+Edith Steinstraat,4,A,,6663LC,Lent,Nijmegen,Gelderland,VBO,5.875172,51.864039
 Edith Steinstraat,4,,,6663LC,Lent,Nijmegen,Gelderland,VBO,5.875216,51.864151
+Edith Steinstraat,4,,,6663LC,Lent,Nijmegen,Gelderland,VBO,5.875230,51.864142
 Edith Steinstraat,5,,,6663LC,Lent,Nijmegen,Gelderland,VBO,5.874906,51.864814
 Edith Steinstraat,6,,,6663LC,Lent,Nijmegen,Gelderland,VBO,5.875470,51.864310
 Edith Steinstraat,7,,,6663LC,Lent,Nijmegen,Gelderland,VBO,5.874839,51.864941
@@ -2970,7 +2972,6 @@ Duitslandstraat,24,,,6663LE,Lent,Nijmegen,Gelderland,VBO,5.876855,51.865243
 Duitslandstraat,26,,,6663LE,Lent,Nijmegen,Gelderland,VBO,5.876803,51.865202
 Immanuel Kantstraat,14,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.876822,51.866466
 Immanuel Kantstraat,16,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877038,51.866451
-Immanuel Kantstraat,18,A,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877202,51.866318
 Immanuel Kantstraat,18,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877201,51.866443
 Immanuel Kantstraat,20,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877377,51.866458
 Immanuel Kantstraat,40,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877629,51.867156
@@ -2979,13 +2980,13 @@ Immanuel Kantstraat,42,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877649,51.867275
 Immanuel Kantstraat,43,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877271,51.866665
 Immanuel Kantstraat,44,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877690,51.867468
 Immanuel Kantstraat,45,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877299,51.866790
-Immanuel Kantstraat,46,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.878050,51.867484
+Immanuel Kantstraat,46,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.878120,51.867468
 Immanuel Kantstraat,47,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877302,51.866916
 Immanuel Kantstraat,49,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877303,51.866968
 Immanuel Kantstraat,51,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877276,51.867093
 Immanuel Kantstraat,53,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877271,51.867143
 Immanuel Kantstraat,55,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877275,51.867196
-Immanuel Kantstraat,57,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877308,51.867491
+Immanuel Kantstraat,57,,,6663LG,Lent,Nijmegen,Gelderland,VBO,5.877286,51.867518
 Baumgartenstraat,4,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876919,51.866766
 Baumgartenstraat,5,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876478,51.866848
 Baumgartenstraat,6,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876891,51.866892
@@ -3004,7 +3005,6 @@ Baumgartenstraat,25,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876513,51.867970
 Baumgartenstraat,26,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876949,51.867385
 Baumgartenstraat,27,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876799,51.867988
 Baumgartenstraat,28,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876958,51.867436
-Baumgartenstraat,29,A,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876947,51.867848
 Baumgartenstraat,29,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877004,51.867953
 Baumgartenstraat,30,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876964,51.867483
 Baumgartenstraat,31,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877100,51.867947
@@ -3012,15 +3012,15 @@ Baumgartenstraat,32,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876952,51.867571
 Baumgartenstraat,33,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877347,51.867892
 Baumgartenstraat,34,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.876937,51.867682
 Baumgartenstraat,35,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877628,51.867988
-Baumgartenstraat,36,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877315,51.867695
+Baumgartenstraat,36,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877298,51.867671
 Baumgartenstraat,37,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877534,51.867987
 Baumgartenstraat,39,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877697,51.867986
 Baumgartenstraat,41,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877774,51.867981
 Baumgartenstraat,43,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877518,51.868017
 Baumgartenstraat,45,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877631,51.868014
 Baumgartenstraat,47,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877732,51.868010
-Baumgartenstraat,49,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877598,51.868037
-Baumgartenstraat,51,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877707,51.868030
+Baumgartenstraat,49,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877576,51.868022
+Baumgartenstraat,51,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877701,51.868018
 Baumgartenstraat,53,,,6663LH,Lent,Nijmegen,Gelderland,VBO,5.877652,51.867769
 Georg Hegelstraat,4,A,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.874401,51.866401
 Georg Hegelstraat,4,,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.874520,51.866590
@@ -3031,7 +3031,6 @@ Georg Hegelstraat,8,,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.875204,51.866574
 Georg Hegelstraat,10,A,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.875576,51.866517
 Georg Hegelstraat,10,,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.875383,51.866591
 Georg Hegelstraat,12,,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.875748,51.866581
-Georg Hegelstraat,14,A,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.875947,51.866372
 Georg Hegelstraat,14,,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.875955,51.866463
 Georg Hegelstraat,18,,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.876342,51.866581
 Georg Hegelstraat,53,,,6663LJ,Lent,Nijmegen,Gelderland,VBO,5.875318,51.866812
@@ -3054,7 +3053,7 @@ Goethestraat,27,A,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.874674,51.867331
 Goethestraat,27,,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.874786,51.867309
 Goethestraat,29,,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.874757,51.867422
 Goethestraat,31,,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.874792,51.867535
-Goethestraat,33,,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.874764,51.867661
+Goethestraat,33,,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.874692,51.867677
 Goethestraat,35,,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.875327,51.867645
 Goethestraat,50,,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.875793,51.867159
 Goethestraat,51,,,6663LK,Lent,Nijmegen,Gelderland,VBO,5.876163,51.867509
@@ -3455,7 +3454,7 @@ Notenlaantje,12,,,6663MG,Lent,Nijmegen,Gelderland,VBO,5.865477,51.870074
 Notenlaantje,14,,,6663MG,Lent,Nijmegen,Gelderland,VBO,5.865390,51.870160
 Notenlaantje,16,,,6663MG,Lent,Nijmegen,Gelderland,VBO,5.865390,51.870160
 Notenlaantje,25,,,6663MG,Lent,Nijmegen,Gelderland,VBO,5.864516,51.870632
-Notenlaantje,80,,,6663MG,Lent,Nijmegen,Gelderland,VBO,5.862398,51.874496
+Notenlaantje,80,,,6663MG,Lent,Nijmegen,Gelderland,VBO,5.863569,51.874498
 Georges Brassensstraat,1,,,6663MH,Lent,Nijmegen,Gelderland,VBO,5.862843,51.870563
 Georges Brassensstraat,3,,,6663MH,Lent,Nijmegen,Gelderland,VBO,5.863073,51.870564
 Georges Brassensstraat,5,,,6663MH,Lent,Nijmegen,Gelderland,VBO,5.862848,51.870583
@@ -3485,31 +3484,31 @@ Georges Brassensstraat,51,,,6663MH,Lent,Nijmegen,Gelderland,VBO,5.863056,51.8705
 Georges Brassensstraat,61,,,6663MH,Lent,Nijmegen,Gelderland,VBO,5.862901,51.871207
 Dalidastraat,2,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862847,51.871955
 Dalidastraat,3,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862550,51.871673
-Dalidastraat,4,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862839,51.872002
+Dalidastraat,4,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862838,51.872021
 Dalidastraat,5,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862545,51.871732
-Dalidastraat,6,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862838,51.872049
+Dalidastraat,6,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862836,51.872066
 Dalidastraat,7,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862557,51.871851
-Dalidastraat,8,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862845,51.872095
+Dalidastraat,8,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862839,51.872116
 Dalidastraat,9,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862560,51.871910
-Dalidastraat,10,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862844,51.872141
+Dalidastraat,10,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862837,51.872162
 Dalidastraat,11,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862546,51.872026
-Dalidastraat,12,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862840,51.872184
+Dalidastraat,12,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862840,51.872211
 Dalidastraat,13,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862547,51.872086
-Dalidastraat,14,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862835,51.872232
+Dalidastraat,14,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862834,51.872260
 Dalidastraat,15,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862553,51.872199
-Dalidastraat,16,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862832,51.872278
+Dalidastraat,16,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862835,51.872310
 Dalidastraat,17,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862548,51.872255
-Dalidastraat,18,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862840,51.872374
+Dalidastraat,18,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862823,51.872386
 Dalidastraat,19,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862537,51.872374
-Dalidastraat,20,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862840,51.872420
+Dalidastraat,20,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862823,51.872437
 Dalidastraat,21,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862543,51.872435
-Dalidastraat,22,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862836,51.872466
+Dalidastraat,22,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862826,51.872487
 Dalidastraat,23,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862544,51.872550
-Dalidastraat,24,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862830,51.872511
+Dalidastraat,24,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862823,51.872535
 Dalidastraat,25,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862539,51.872605
-Dalidastraat,26,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862832,51.872557
+Dalidastraat,26,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862823,51.872585
 Dalidastraat,27,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862528,51.872880
-Dalidastraat,28,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862825,51.872605
+Dalidastraat,28,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862822,51.872632
 Dalidastraat,29,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862520,51.872941
 Dalidastraat,30,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862834,51.872855
 Dalidastraat,31,,,6663MJ,Lent,Nijmegen,Gelderland,VBO,5.862511,51.873055
@@ -3585,22 +3584,22 @@ Gilbert Bécaudstraat,5,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863196,51.871719
 Gilbert Bécaudstraat,7,A,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863389,51.871843
 Gilbert Bécaudstraat,7,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863319,51.871802
 Gilbert Bécaudstraat,9,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863429,51.871894
-Gilbert Bécaudstraat,11,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863491,51.871978
-Gilbert Bécaudstraat,13,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863503,51.872033
-Gilbert Bécaudstraat,15,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863522,51.872078
-Gilbert Bécaudstraat,17,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863530,51.872126
-Gilbert Bécaudstraat,19,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863552,51.872171
-Gilbert Bécaudstraat,21,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863563,51.872223
+Gilbert Bécaudstraat,11,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863514,51.871991
+Gilbert Bécaudstraat,13,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863542,51.872045
+Gilbert Bécaudstraat,15,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863554,51.872092
+Gilbert Bécaudstraat,17,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863571,51.872141
+Gilbert Bécaudstraat,19,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863574,51.872190
+Gilbert Bécaudstraat,21,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863572,51.872237
 Gilbert Bécaudstraat,23,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863573,51.872274
-Gilbert Bécaudstraat,25,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863573,51.872318
-Gilbert Bécaudstraat,27,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863574,51.872356
-Gilbert Bécaudstraat,29,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863568,51.872415
-Gilbert Bécaudstraat,31,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863559,51.872456
-Gilbert Bécaudstraat,33,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863559,51.872512
-Gilbert Bécaudstraat,35,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863531,51.872552
-Gilbert Bécaudstraat,37,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863519,51.872596
-Gilbert Bécaudstraat,39,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863497,51.872647
-Gilbert Bécaudstraat,41,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863475,51.872695
+Gilbert Bécaudstraat,25,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863582,51.872335
+Gilbert Bécaudstraat,27,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863571,51.872382
+Gilbert Bécaudstraat,29,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863575,51.872433
+Gilbert Bécaudstraat,31,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863559,51.872478
+Gilbert Bécaudstraat,33,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863549,51.872528
+Gilbert Bécaudstraat,35,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863531,51.872575
+Gilbert Bécaudstraat,37,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863510,51.872622
+Gilbert Bécaudstraat,39,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863504,51.872669
+Gilbert Bécaudstraat,41,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863473,51.872718
 Gilbert Bécaudstraat,43,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863363,51.872923
 Gilbert Bécaudstraat,45,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863332,51.872965
 Gilbert Bécaudstraat,47,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863308,51.873008
@@ -3611,6 +3610,7 @@ Gilbert Bécaudstraat,55,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.863039,51.87349
 Gilbert Bécaudstraat,57,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.862962,51.873495
 Gilbert Bécaudstraat,59,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.862881,51.873490
 Gilbert Bécaudstraat,61,,,6663MK,Lent,Nijmegen,Gelderland,VBO,5.862804,51.873491
+Barbarastraat,1,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.865150,51.871008
 Barbarastraat,2,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.865371,51.871299
 Barbarastraat,4,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.865236,51.871275
 Barbarastraat,6,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.864955,51.871214
@@ -3660,9 +3660,9 @@ Barbarastraat,92,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863806,51.873196
 Barbarastraat,94,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863687,51.873399
 Barbarastraat,96,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863759,51.873416
 Barbarastraat,98,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863826,51.873429
-Barbarastraat,100,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863923,51.873451
-Barbarastraat,102,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863991,51.873465
-Barbarastraat,104,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.864060,51.873481
+Barbarastraat,100,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863903,51.873440
+Barbarastraat,102,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863975,51.873453
+Barbarastraat,104,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.864044,51.873467
 Barbarastraat,106,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.864122,51.873491
 Barbarastraat,108,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.864193,51.873513
 Barbarastraat,130,,,6663ML,Lent,Nijmegen,Gelderland,VBO,5.863552,51.873687
@@ -3792,15 +3792,15 @@ Andalusiëstraat,138,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860390,51.867101
 Andalusiëstraat,140,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860388,51.867139
 Andalusiëstraat,142,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860375,51.867176
 Andalusiëstraat,144,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860374,51.867212
-Andalusiëstraat,146,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860396,51.867350
-Andalusiëstraat,148,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860390,51.867402
-Andalusiëstraat,150,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860384,51.867443
-Andalusiëstraat,152,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860389,51.867492
-Andalusiëstraat,154,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860382,51.867537
-Andalusiëstraat,156,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860372,51.867585
-Andalusiëstraat,158,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860370,51.867630
-Andalusiëstraat,160,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860363,51.867677
-Andalusiëstraat,162,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860371,51.867722
+Andalusiëstraat,146,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860383,51.867369
+Andalusiëstraat,148,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860375,51.867418
+Andalusiëstraat,150,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860372,51.867463
+Andalusiëstraat,152,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860367,51.867507
+Andalusiëstraat,154,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860370,51.867550
+Andalusiëstraat,156,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860362,51.867599
+Andalusiëstraat,158,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860350,51.867644
+Andalusiëstraat,160,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860352,51.867692
+Andalusiëstraat,162,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860348,51.867738
 Andalusiëstraat,164,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860360,51.867817
 Andalusiëstraat,166,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860345,51.867867
 Andalusiëstraat,168,,,6663NA,Lent,Nijmegen,Gelderland,VBO,5.860350,51.867909
@@ -3944,13 +3944,22 @@ Murciastraat,11,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861901,51.867149
 Murciastraat,12,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.862092,51.867411
 Murciastraat,14,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861887,51.867601
 Murciastraat,15,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861793,51.867230
+Murciastraat,16,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.862169,51.867949
 Murciastraat,17,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861687,51.867339
 Murciastraat,18,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861936,51.867926
 Murciastraat,19,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861570,51.867440
+Murciastraat,20,A,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861794,51.867838
+Murciastraat,20,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861661,51.867806
 Murciastraat,21,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861421,51.867575
 Murciastraat,22,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861551,51.867914
+Murciastraat,23,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861305,51.867675
+Murciastraat,24,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861442,51.868047
 Murciastraat,25,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861097,51.867797
+Murciastraat,26,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861340,51.868168
 Murciastraat,27,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861041,51.867861
+Murciastraat,28,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.861191,51.868254
+Murciastraat,29,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.860973,51.868043
+Murciastraat,31,,,6663NG,Lent,Nijmegen,Gelderland,VBO,5.860817,51.868128
 Aragónstraat,1,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.860648,51.866147
 Aragónstraat,2,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.860692,51.865998
 Aragónstraat,3,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.860970,51.866282
@@ -3965,6 +3974,7 @@ Aragónstraat,11,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.861497,51.866380
 Aragónstraat,12,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.861319,51.866020
 Aragónstraat,14,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.861394,51.866034
 Aragónstraat,16,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.861471,51.866052
+Aragónstraat,17,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.863108,51.866859
 Aragónstraat,18,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.861548,51.866065
 Aragónstraat,19,,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.863439,51.866951
 Aragónstraat,20,A,,6663NH,Lent,Nijmegen,Gelderland,VBO,5.861951,51.866164
@@ -4009,6 +4019,7 @@ Cataloniëstraat,9,,,6663NJ,Lent,Nijmegen,Gelderland,VBO,5.862830,51.867162
 Cataloniëstraat,10,,,6663NJ,Lent,Nijmegen,Gelderland,VBO,5.863212,51.867357
 Cataloniëstraat,11,,,6663NJ,Lent,Nijmegen,Gelderland,VBO,5.862799,51.867207
 Cataloniëstraat,12,,,6663NJ,Lent,Nijmegen,Gelderland,VBO,5.863192,51.867403
+Cataloniëstraat,13,,,6663NJ,Lent,Nijmegen,Gelderland,VBO,5.862713,51.867300
 Cataloniëstraat,14,,,6663NJ,Lent,Nijmegen,Gelderland,VBO,5.863174,51.867449
 Cataloniëstraat,15,,,6663NJ,Lent,Nijmegen,Gelderland,VBO,5.862804,51.867424
 Cataloniëstraat,16,,,6663NJ,Lent,Nijmegen,Gelderland,VBO,5.863150,51.867496
@@ -4323,9 +4334,9 @@ Castiliëstraat,12,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.862253,51.868326
 Castiliëstraat,13,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.861017,51.868596
 Castiliëstraat,14,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.862435,51.868333
 Castiliëstraat,15,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.861093,51.868594
-Castiliëstraat,16,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.862868,51.868369
+Castiliëstraat,16,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.862861,51.868356
 Castiliëstraat,17,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.861175,51.868595
-Castiliëstraat,18,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.863063,51.868377
+Castiliëstraat,18,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.863064,51.868358
 Castiliëstraat,19,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.861251,51.868604
 Castiliëstraat,20,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.864331,51.868466
 Castiliëstraat,21,,,6663NT,Lent,Nijmegen,Gelderland,VBO,5.861320,51.868608

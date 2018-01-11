@@ -1,5 +1,8 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Schouw 38,8,,,8232AA,Lelystad,Lelystad,Flevoland,VBO,5.466215,52.508847
+Schouw 38,10,A,,8232AA,Lelystad,Lelystad,Flevoland,VBO,5.466123,52.508870
+Schouw 38,10,B,,8232AA,Lelystad,Lelystad,Flevoland,VBO,5.466127,52.508873
+Schouw 38,10,C,,8232AA,Lelystad,Lelystad,Flevoland,VBO,5.466132,52.508843
 Schouw 38,10,,,8232AA,Lelystad,Lelystad,Flevoland,VBO,5.466131,52.508843
 Schouw 38,12,,,8232AA,Lelystad,Lelystad,Flevoland,VBO,5.466052,52.508840
 Schouw 38,14,,,8232AA,Lelystad,Lelystad,Flevoland,VBO,5.465973,52.508837
@@ -562,7 +565,6 @@ De Wissel,24,,,8232DP,Lelystad,Lelystad,Flevoland,VBO,5.476126,52.509312
 De Wissel,32,,,8232DP,Lelystad,Lelystad,Flevoland,VBO,5.476016,52.509453
 De Wissel,34,,,8232DP,Lelystad,Lelystad,Flevoland,VBO,5.475921,52.509484
 De Wissel,42,,,8232DP,Lelystad,Lelystad,Flevoland,VBO,5.475766,52.509570
-Waagpassage,1,,,8232DR,Lelystad,Lelystad,Flevoland,VBO,5.474573,52.511559
 Waagpassage,3,,,8232DR,Lelystad,Lelystad,Flevoland,VBO,5.475017,52.511385
 Waagpassage,7,,,8232DR,Lelystad,Lelystad,Flevoland,VBO,5.474959,52.511312
 Waagpassage,11,,,8232DR,Lelystad,Lelystad,Flevoland,VBO,5.474903,52.511201
@@ -619,7 +621,6 @@ Agorahof,30,,,8232DX,Lelystad,Lelystad,Flevoland,VBO,5.475564,52.510061
 Agorahof,32,,,8232DX,Lelystad,Lelystad,Flevoland,VBO,5.475439,52.509973
 Agorahof,34,,,8232DX,Lelystad,Lelystad,Flevoland,VBO,5.475354,52.509966
 Agorahof,36,,,8232DX,Lelystad,Lelystad,Flevoland,VBO,5.475265,52.510023
-Waagstraat,1,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474013,52.511487
 Waagstraat,1,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474346,52.511486
 Waagstraat,3,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474010,52.511483
 Waagstraat,5,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474011,52.511569
@@ -628,7 +629,6 @@ Waagstraat,9,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474465,52.511589
 Waagstraat,11,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474559,52.511638
 Waagstraat,13,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474734,52.511648
 Waagstraat,15,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474949,52.511651
-Waagstraat,17,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.473924,52.510446
 Waagstraat,17,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474968,52.511537
 Waagstraat,19,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474767,52.511526
 Waagstraat,21,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474494,52.511493
@@ -660,6 +660,7 @@ Waagstraat,71,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474760,52.511643
 Waagstraat,73,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474752,52.511541
 Waagstraat,75,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474617,52.511531
 Waagstraat,77,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474545,52.511581
+Waagstraat,81,,,8232DZ,Lelystad,Lelystad,Flevoland,VBO,5.474418,52.510385
 De Stelling 10,1,,,8232EA,Lelystad,Lelystad,Flevoland,VBO,5.474213,52.511973
 De Stelling 10,3,,,8232EA,Lelystad,Lelystad,Flevoland,VBO,5.474138,52.511970
 De Stelling 10,5,,,8232EA,Lelystad,Lelystad,Flevoland,VBO,5.474063,52.511968
@@ -2815,6 +2816,16 @@ Hanzepark,14,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469555,52.510169
 Hanzepark,16,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469539,52.510122
 Hanzepark,18,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469539,52.510065
 Hanzepark,20,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469513,52.510024
+Hanzepark,22,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469499,52.509890
+Hanzepark,24,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469523,52.509844
+Hanzepark,26,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469547,52.509796
+Hanzepark,28,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469576,52.509751
+Hanzepark,30,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469587,52.509701
+Hanzepark,32,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469609,52.509651
+Hanzepark,34,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469634,52.509611
+Hanzepark,36,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469655,52.509563
+Hanzepark,38,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469676,52.509517
+Hanzepark,40,,,8232RT,Lelystad,Lelystad,Flevoland,VBO,5.469692,52.509464
 Lübeckstraat,1,,,8232RV,Lelystad,Lelystad,Flevoland,VBO,5.468869,52.510606
 Lübeckstraat,3,,,8232RV,Lelystad,Lelystad,Flevoland,VBO,5.468886,52.510554
 Lübeckstraat,5,,,8232RV,Lelystad,Lelystad,Flevoland,VBO,5.468894,52.510508
@@ -3166,6 +3177,30 @@ Stadhuisplein,67,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476962,52.507341
 Stadhuisplein,71,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476962,52.507341
 Stadhuisplein,73,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476983,52.507301
 Stadhuisplein,75,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476583,52.506929
+Stadhuisplein,77,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.477030,52.507588
+Stadhuisplein,79,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476870,52.507613
+Stadhuisplein,81,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476889,52.507550
+Stadhuisplein,83,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476892,52.507482
+Stadhuisplein,85,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476907,52.507401
+Stadhuisplein,87,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476916,52.507337
+Stadhuisplein,89,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476916,52.507279
+Stadhuisplein,91,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.477052,52.507331
+Stadhuisplein,93,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.477022,52.507586
+Stadhuisplein,95,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476874,52.507614
+Stadhuisplein,97,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476895,52.507547
+Stadhuisplein,99,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476892,52.507480
+Stadhuisplein,101,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476898,52.507397
+Stadhuisplein,103,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476916,52.507337
+Stadhuisplein,105,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476913,52.507282
+Stadhuisplein,107,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.477052,52.507335
+Stadhuisplein,109,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.477019,52.507577
+Stadhuisplein,111,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476877,52.507609
+Stadhuisplein,113,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476895,52.507543
+Stadhuisplein,115,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476895,52.507482
+Stadhuisplein,117,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476898,52.507403
+Stadhuisplein,119,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476916,52.507331
+Stadhuisplein,121,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.476907,52.507284
+Stadhuisplein,123,,,8232VM,Lelystad,Lelystad,Flevoland,VBO,5.477049,52.507331
 Poststraat,11,,,8232VN,Lelystad,Lelystad,Flevoland,VBO,5.477210,52.507971
 Poststraat,13,,,8232VN,Lelystad,Lelystad,Flevoland,VBO,5.477333,52.507999
 Poststraat,17,,,8232VN,Lelystad,Lelystad,Flevoland,VBO,5.477447,52.508002
@@ -3211,6 +3246,8 @@ Reaalhof,46,,,8232VR,Lelystad,Lelystad,Flevoland,VBO,5.475369,52.507046
 Reaalhof,48,,,8232VR,Lelystad,Lelystad,Flevoland,VBO,5.475245,52.507041
 Reaalhof,50,,,8232VR,Lelystad,Lelystad,Flevoland,VBO,5.475122,52.507037
 Reaalhof,54,T,,8232VR,Lelystad,Lelystad,Flevoland,VBO,5.474909,52.507272
+Reaalhof,60,,,8232VS,Lelystad,Lelystad,Flevoland,VBO,5.474304,52.507095
+Reaalhof,62,,,8232VS,Lelystad,Lelystad,Flevoland,VBO,5.474575,52.506960
 Reaalhof,64,,,8232VS,Lelystad,Lelystad,Flevoland,VBO,5.474473,52.506985
 Reaalhof,70,,,8232VS,Lelystad,Lelystad,Flevoland,VBO,5.474792,52.507027
 Reaalhof,72,,,8232VS,Lelystad,Lelystad,Flevoland,VBO,5.474792,52.507026
@@ -3355,7 +3392,8 @@ De Promesse,9,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474469,52.508286
 De Promesse,10,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474709,52.508216
 De Promesse,12,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474706,52.508264
 De Promesse,13,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474479,52.508399
-De Promesse,14,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474695,52.508332
+De Promesse,14,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474698,52.508307
+De Promesse,16,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474691,52.508389
 De Promesse,17,A,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474469,52.508557
 De Promesse,17,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474467,52.508494
 De Promesse,18,,,8232VX,Lelystad,Lelystad,Flevoland,VBO,5.474698,52.508454

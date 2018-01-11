@@ -2,7 +2,7 @@ openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaat
 Zuideinde,1,A,,2421AA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.760210,52.132000
 Zuideinde,1,,,2421AA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.759738,52.133065
 Zuideinde,3,A,,2421AA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.760485,52.131838
-Zuideinde,3,B,I,2421AA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.760372,52.132358
+Zuideinde,3,B,1,2421AA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.760372,52.132358
 Zuideinde,3,B,,2421AA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.760587,52.131847
 Zuideinde,3,C,,2421AA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.760877,52.132047
 Zuideinde,3,D,,2421AA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.761108,52.132192
@@ -407,8 +407,8 @@ Dorpsstraat,91,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778570,52.150301
 Dorpsstraat,93,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778610,52.150281
 Dorpsstraat,95,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778858,52.150099
 Dorpsstraat,97,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778940,52.150153
-Dorpsstraat,103,A,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778958,52.150270
-Dorpsstraat,103,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.779017,52.150226
+Dorpsstraat,103,A,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.779022,52.150322
+Dorpsstraat,103,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.779069,52.150299
 Dorpsstraat,105,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.779119,52.150271
 Dorpsstraat,107,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.779191,52.150334
 Vijverhofpad,2,,,2421AW,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.777543,52.149068
@@ -567,8 +567,7 @@ Kolfbaan,80,,,2421BD,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778472,52.150450
 Kolfbaan,82,,,2421BD,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778610,52.150340
 Kolfbaan,84,,,2421BD,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778747,52.150267
 Reghthuysplein,1,,,2421BE,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.779263,52.150434
-Reghthuysplein,2,,,2421BE,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.779068,52.150513
-Reghthuysplein,3,,,2421BE,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.779014,52.150536
+Reghthuysplein,3,,,2421BE,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778857,52.150523
 Reghthuysplein,4,,,2421BE,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778959,52.150563
 Reghthuysplein,5,A,,2421BE,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778552,52.150518
 Reghthuysplein,5,B,,2421BE,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.778594,52.150545
@@ -1114,9 +1113,9 @@ Achterweg,26,,,2421EA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.781469,52.152629
 Achterweg,28,,,2421EA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.781541,52.152657
 Achterweg,30,,,2421EA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.781759,52.152730
 Achterweg,32,,,2421EA,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.781847,52.152757
+Achterweg,1,,,2421EB,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.773123,52.149065
 Achterweg,3,,,2421EB,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.775302,52.149460
 Achterweg,5,,,2421EB,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.776133,52.149573
-Achterweg,7,,,2421EB,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.776196,52.149831
 Achterweg,34,,,2421EB,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.782051,52.152812
 Achterweg,36,,,2421EB,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.782123,52.152839
 Achterweg,38,,,2421EB,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.782356,52.152921
@@ -2398,7 +2397,9 @@ De Regenboog,2,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.767985,52.134272
 De Regenboog,4,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768176,52.134148
 De Regenboog,6,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768444,52.133996
 De Regenboog,8,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768589,52.133873
+De Regenboog,9,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.769214,52.133841
 De Regenboog,10,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768769,52.133733
+De Regenboog,11,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.769319,52.133730
 De Regenboog,12,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768898,52.133596
 De Regenboog,14,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.769016,52.133478
 De Regenboog,15,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.769464,52.133579
@@ -2414,6 +2415,7 @@ De Regenboog,27,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.771386,52.132139
 De Regenboog,28,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770692,52.132186
 De Regenboog,30,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770598,52.132152
 De Regenboog,32,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770511,52.132122
+De Regenboog,35,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.772104,52.131511
 De Regenboog,38,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.771133,52.131677
 De Regenboog,39,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.772396,52.131209
 De Regenboog,40,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.771352,52.131589
@@ -2427,8 +2429,13 @@ De Regenboog,49,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770171,52.131207
 De Regenboog,50,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.771335,52.131395
 De Regenboog,51,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770035,52.131409
 De Regenboog,53,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.769873,52.131583
+De Regenboog,54,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.771669,52.131097
 De Regenboog,58,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.771145,52.130989
 De Regenboog,60,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770931,52.131125
+De Regenboog,62,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770776,52.131250
+De Regenboog,64,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770677,52.131332
+De Regenboog,68,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770572,52.131482
+De Regenboog,70,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.770460,52.131548
 De Regenboog,76,,,2421JX,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.769830,52.132079
 De Vrijheid,2,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.766771,52.133931
 De Vrijheid,3,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.767433,52.134019
@@ -2440,6 +2447,7 @@ De Vrijheid,9,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768063,52.133689
 De Vrijheid,10,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.767477,52.133537
 De Vrijheid,11,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768142,52.133618
 De Vrijheid,13,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768215,52.133554
+De Vrijheid,14,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.767993,52.133220
 De Vrijheid,16,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768143,52.133094
 De Vrijheid,17,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768542,52.133314
 De Vrijheid,18,,,2421JZ,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.768321,52.132958
@@ -3147,7 +3155,7 @@ Meije,324,,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,LIG,4.818161,52.141250
 Meije,326,,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,LIG,4.818363,52.141376
 Meije,328,,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,LIG,4.818647,52.141490
 Meije,332,,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,LIG,4.818831,52.141220
-Meije,334,,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.818692,52.141813
+Meije,334,,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.818818,52.141694
 Meije,336,,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.819260,52.141924
 Meije,340,A,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.820610,52.145544
 Meije,340,,,2421ND,Nieuwkoop,Nieuwkoop,Zuid-Holland,VBO,4.821400,52.142509

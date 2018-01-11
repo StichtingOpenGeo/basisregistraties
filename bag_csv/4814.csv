@@ -1333,8 +1333,8 @@ Dijklaan,3,,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760200,51.584783
 Dijklaan,5,A,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760591,51.584970
 Dijklaan,5,,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760620,51.584976
 Dijklaan,7,A,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760116,51.584894
-Dijklaan,7,,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760136,51.584900
-Dijklaan,7,,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760236,51.584951
+Dijklaan,7,B,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760236,51.584951
+Dijklaan,7,,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760320,51.584888
 Dijklaan,9,,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760509,51.585090
 Dijklaan,13,,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.759842,51.585042
 Dijklaan,15,,,4814CA,Breda,Breda,Noord-Brabant,VBO,4.760401,51.585223
@@ -2246,7 +2246,6 @@ Haagweg,15,A,,4814GA,Breda,Breda,Noord-Brabant,VBO,4.761785,51.584835
 Haagweg,15,,,4814GA,Breda,Breda,Noord-Brabant,VBO,4.761759,51.584856
 Haagweg,17,A,,4814GA,Breda,Breda,Noord-Brabant,VBO,4.761709,51.584799
 Haagweg,17,,,4814GA,Breda,Breda,Noord-Brabant,VBO,4.761683,51.584821
-Haagweg,19,A,,4814GA,Breda,Breda,Noord-Brabant,VBO,4.761559,51.584762
 Haagweg,19,,,4814GA,Breda,Breda,Noord-Brabant,VBO,4.761607,51.584785
 Haagweg,21,,,4814GA,Breda,Breda,Noord-Brabant,VBO,4.761399,51.584687
 Haagweg,27,A,,4814GA,Breda,Breda,Noord-Brabant,VBO,4.760234,51.584106
@@ -2345,7 +2344,8 @@ Haagweg,30,,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.761189,51.584996
 Haagweg,32,A,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.761050,51.584965
 Haagweg,32,,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.761076,51.584944
 Haagweg,34,,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.760842,51.584743
-Haagweg,36,,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.760725,51.584682
+Haagweg,36,A,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.760707,51.584704
+Haagweg,36,,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.760721,51.584689
 Haagweg,38,,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.760649,51.584673
 Haagweg,40,A,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.760550,51.584634
 Haagweg,40,,,4814GE,Breda,Breda,Noord-Brabant,VBO,4.760569,51.584617
@@ -2483,18 +2483,18 @@ Abeelstraat,34,,,4814HC,Breda,Breda,Noord-Brabant,VBO,4.758028,51.586980
 Abeelstraat,36,,,4814HD,Breda,Breda,Noord-Brabant,VBO,4.758010,51.586931
 Abeelstraat,38,,,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757955,51.586884
 Abeelstraat,40,A,,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757174,51.586915
-Abeelstraat,40,,G01,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757116,51.586807
-Abeelstraat,40,,G02,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757312,51.586783
-Abeelstraat,40,,G03,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757268,51.586787
-Abeelstraat,40,,G04,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757435,51.586768
-Abeelstraat,40,,G05,4814HD,Breda,Breda,Noord-Brabant,VBO,4.756990,51.586818
-Abeelstraat,40,,G06,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757204,51.586795
-Abeelstraat,40,,G07,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757358,51.586778
-Abeelstraat,40,,G08,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757160,51.586800
-Abeelstraat,40,,G09,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757471,51.586761
-Abeelstraat,40,,G10,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757067,51.586812
-Abeelstraat,40,,G11,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757028,51.586817
-Abeelstraat,40,,G12,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757399,51.586771
+Abeelstraat,40,,G01,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757471,51.586778
+Abeelstraat,40,,G02,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757428,51.586783
+Abeelstraat,40,,G03,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757385,51.586788
+Abeelstraat,40,,G04,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757341,51.586792
+Abeelstraat,40,,G05,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757296,51.586796
+Abeelstraat,40,,G06,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757252,51.586802
+Abeelstraat,40,,G07,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757207,51.586808
+Abeelstraat,40,,G08,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757164,51.586812
+Abeelstraat,40,,G09,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757120,51.586817
+Abeelstraat,40,,G10,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757075,51.586821
+Abeelstraat,40,,G11,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757032,51.586827
+Abeelstraat,40,,G12,4814HD,Breda,Breda,Noord-Brabant,VBO,4.756987,51.586832
 Abeelstraat,40,,,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757942,51.586841
 Abeelstraat,42,,,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757921,51.586765
 Abeelstraat,44,,,4814HD,Breda,Breda,Noord-Brabant,VBO,4.757907,51.586713
@@ -3620,6 +3620,7 @@ Kwakkelhutstraat,129,,,4814KP,Breda,Breda,Noord-Brabant,VBO,4.751752,51.590549
 Kwakkelhutstraat,131,,,4814KP,Breda,Breda,Noord-Brabant,VBO,4.751710,51.590555
 Kwakkelhutstraat,133,,,4814KP,Breda,Breda,Noord-Brabant,VBO,4.751667,51.590562
 Kwakkelhutstraat,135,,,4814KP,Breda,Breda,Noord-Brabant,VBO,4.751624,51.590568
+Kwakkelhutstraat,48,,,4814KR,Breda,Breda,Noord-Brabant,VBO,4.754964,51.592047
 Kwakkelhutstraat,50,,,4814KR,Breda,Breda,Noord-Brabant,VBO,4.754498,51.591469
 Kwakkelhutstraat,52,A,,4814KR,Breda,Breda,Noord-Brabant,VBO,4.754515,51.591322
 Kwakkelhutstraat,52,B,,4814KR,Breda,Breda,Noord-Brabant,VBO,4.754493,51.591400
@@ -4163,6 +4164,7 @@ Van de Reijtstraat,24,,,4814NE,Breda,Breda,Noord-Brabant,VBO,4.741179,51.583468
 Van de Reijtstraat,26,,,4814NE,Breda,Breda,Noord-Brabant,VBO,4.741138,51.583232
 Van de Reijtstraat,28,,,4814NE,Breda,Breda,Noord-Brabant,VBO,4.740990,51.583188
 Van de Reijtstraat,30,A,,4814NE,Breda,Breda,Noord-Brabant,VBO,4.740680,51.583165
+Van de Reijtstraat,30,,,4814NE,Breda,Breda,Noord-Brabant,VBO,4.740499,51.583124
 Van de Reijtstraat,31,,,4814NE,Breda,Breda,Noord-Brabant,VBO,4.740288,51.582571
 Van de Reijtstraat,32,A,,4814NE,Breda,Breda,Noord-Brabant,VBO,4.740606,51.583187
 Van de Reijtstraat,32,,,4814NE,Breda,Breda,Noord-Brabant,VBO,4.740627,51.583158
@@ -4256,9 +4258,11 @@ Heilaarpark,62,,,4814NJ,Breda,Breda,Noord-Brabant,VBO,4.738755,51.588994
 Heilaarpark,64,A,,4814NJ,Breda,Breda,Noord-Brabant,VBO,4.738779,51.589055
 Heilaarpark,64,,,4814NJ,Breda,Breda,Noord-Brabant,VBO,4.738719,51.589068
 Heilaarpark,78,,,4814NJ,Breda,Breda,Noord-Brabant,VBO,4.738367,51.587538
+Vinkenweide,1,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741172,51.588425
 Vinkenweide,2,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.740830,51.588507
 Vinkenweide,3,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741189,51.588292
 Vinkenweide,4,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.740767,51.588376
+Vinkenweide,5,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741196,51.588162
 Vinkenweide,6,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.740762,51.588258
 Vinkenweide,8,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.740794,51.588133
 Vinkenweide,9,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741275,51.587920
@@ -4268,6 +4272,7 @@ Vinkenweide,15,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741404,51.587544
 Vinkenweide,16,A,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.740897,51.587428
 Vinkenweide,16,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741087,51.587475
 Vinkenweide,17,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741460,51.587425
+Vinkenweide,18,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741109,51.587330
 Vinkenweide,19,,,4814NK,Breda,Breda,Noord-Brabant,VBO,4.741507,51.587301
 Warmoezenierstraat,2,,,4814NL,Breda,Breda,Noord-Brabant,VBO,4.739858,51.585080
 Warmoezenierstraat,3,,,4814NL,Breda,Breda,Noord-Brabant,VBO,4.739390,51.584564
@@ -4312,6 +4317,7 @@ Heilaardreef,20,,,4814NM,Breda,Breda,Noord-Brabant,VBO,4.741561,51.585881
 Heilaardreef,21,,,4814NM,Breda,Breda,Noord-Brabant,VBO,4.739817,51.584691
 Heilaardreef,22,,,4814NM,Breda,Breda,Noord-Brabant,VBO,4.740803,51.586162
 Heilaardreef,24,,,4814NM,Breda,Breda,Noord-Brabant,VBO,4.740442,51.586347
+Heilaardreef,25,A,,4814NM,Breda,Breda,Noord-Brabant,VBO,4.739120,51.586401
 Heilaardreef,25,,,4814NM,Breda,Breda,Noord-Brabant,VBO,4.739368,51.586281
 Heilaardreef,27,,,4814NM,Breda,Breda,Noord-Brabant,VBO,4.739200,51.586671
 Heilaardreef,30,,,4814NM,Breda,Breda,Noord-Brabant,VBO,4.740008,51.586861
@@ -4348,6 +4354,7 @@ Liesboslaan,24,,,4814NW,Breda,Breda,Noord-Brabant,VBO,4.729557,51.578498
 Liesboslaan,26,,,4814NW,Breda,Breda,Noord-Brabant,VBO,4.729429,51.578495
 Liesboslaan,28,,,4814NW,Breda,Breda,Noord-Brabant,VBO,4.729339,51.578493
 Liesboslaan,30,A,,4814NW,Breda,Breda,Noord-Brabant,VBO,4.728604,51.578920
+Liesboslaan,30,B,,4814NW,Breda,Breda,Noord-Brabant,VBO,4.729065,51.578977
 Liesboslaan,30,,,4814NW,Breda,Breda,Noord-Brabant,VBO,4.729012,51.578652
 Liesboslaan,32,,,4814NW,Breda,Breda,Noord-Brabant,VBO,4.728474,51.578726
 Heilaarstraat,175,,,4814NX,Breda,Breda,Noord-Brabant,VBO,4.736060,51.582596
@@ -4553,8 +4560,8 @@ Tuinbouwveilingweg,3,,,4814RP,Breda,Breda,Noord-Brabant,VBO,4.735151,51.590163
 Heilaar-Noordweg,1,,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.736805,51.589648
 Heilaar-Noordweg,2,A,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738110,51.590241
 Heilaar-Noordweg,2,B,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738071,51.590470
-Heilaar-Noordweg,2,C,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738199,51.590034
-Heilaar-Noordweg,2,D,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738123,51.590485
+Heilaar-Noordweg,2,C,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738123,51.590485
+Heilaar-Noordweg,2,D,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738199,51.590034
 Heilaar-Noordweg,2,,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738146,51.590014
 Heilaar-Noordweg,6,A,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738128,51.591223
 Heilaar-Noordweg,6,,,4814RR,Breda,Breda,Noord-Brabant,VBO,4.738142,51.591023
@@ -4643,9 +4650,7 @@ Kruisvoort,101,,,4814RX,Breda,Breda,Noord-Brabant,VBO,4.730420,51.582360
 Kruisvoort,8,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.733543,51.581969
 Kruisvoort,10,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.733865,51.581890
 Kruisvoort,12,A,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.734208,51.581768
-Kruisvoort,12,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.734136,51.581795
 Kruisvoort,12,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.734162,51.581782
-Kruisvoort,14,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.734378,51.581691
 Kruisvoort,14,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.734420,51.581679
 Kruisvoort,18,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.734769,51.581398
 Kruisvoort,20,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.734710,51.581329
@@ -4668,7 +4673,6 @@ Kruisvoort,54,A,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.732332,51.581339
 Kruisvoort,54,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.732251,51.581406
 Kruisvoort,56,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.732423,51.581145
 Kruisvoort,58,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.732556,51.581016
-Kruisvoort,60,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.732814,51.580803
 Kruisvoort,62,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.733090,51.580699
 Kruisvoort,64,B,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.732183,51.580384
 Kruisvoort,64,,,4814RZ,Breda,Breda,Noord-Brabant,VBO,4.731821,51.580698

@@ -99,7 +99,6 @@ Mr. Adriaan Duycklaan,11,,,2691AD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.159
 Mr. Adriaan Duycklaan,12,,,2691AD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160253,52.004996
 Gasthuislaan,4,,,2691AE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160273,52.004590
 Gasthuislaan,6,,,2691AE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160334,52.004586
-Gasthuislaan,6,,,2691AE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160341,52.004609
 Gasthuislaan,8,,,2691AE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160487,52.004607
 Gasthuislaan,10,,,2691AE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160529,52.004629
 Gasthuislaan,12,,,2691AE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160573,52.004648
@@ -148,6 +147,7 @@ Vaartplein,10,A,,2691AJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161631,52.003
 Vaartplein,10,,,2691AJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161775,52.003711
 Vaartplein,11,,,2691AJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.162230,52.003977
 Vaartplein,12,,,2691AJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161706,52.003766
+Vaartplein,13,,,2691AJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.162217,52.003961
 Vaartplein,14,,,2691AJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161720,52.003809
 Vaartplein,15,,,2691AJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.162317,52.004057
 Vaartplein,16,,,2691AJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161614,52.003867
@@ -661,6 +661,8 @@ van Straalenstraat,10,,,2691BT,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160162
 van Straalenstraat,12,,,2691BT,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160092,52.003017
 van Straalenstraat,14,,,2691BT,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.160023,52.002992
 Marktplein,2,,,2691BV,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161676,52.002635
+Marktplein,3,A,,2691BV,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161836,52.002703
+Marktplein,3,,,2691BV,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161859,52.002711
 Marktplein,5,,,2691BV,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161978,52.002737
 Marktplein,6,,,2691BV,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.162362,52.002821
 Marktplein,9,,,2691BV,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.162417,52.002840
@@ -1863,6 +1865,7 @@ Koningin Julianaweg,156,,,2691GH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.1717
 Koningin Julianaweg,158,A,,2691GH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.171818,51.994133
 Koningin Julianaweg,158,,,2691GH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.170995,51.994074
 Koningin Julianaweg,160,A,,2691GH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.170493,51.993694
+Koningin Julianaweg,160,B,,2691GH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.170325,51.993564
 Koningin Julianaweg,160,C,,2691GH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.169473,51.992718
 Koningin Julianaweg,160,,,2691GH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.170668,51.993864
 Koningin Julianaweg,162,,,2691GH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.169296,51.992571
@@ -2120,7 +2123,6 @@ Fultonstraat,2,A,9,2691HA,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178893,51.9
 Fultonstraat,2,A,,2691HA,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.179415,51.996241
 Fultonstraat,2,B,,2691HA,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.179264,51.996235
 Fultonstraat,2,,,2691HA,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.177454,51.996109
-Fultonstraat,3,,,2691HA,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178610,51.996470
 Fultonstraat,4,,,2691HA,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.179837,51.996275
 Fultonstraat,6,,,2691HA,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.180036,51.996234
 Fultonstraat,8,,,2691HA,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.180365,51.996269
@@ -2152,13 +2154,11 @@ Franklinstraat,2,S,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.179977,51.
 Franklinstraat,2,T,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.179809,51.995117
 Franklinstraat,2,,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178933,51.995276
 Franklinstraat,3,A,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178452,51.995788
-Franklinstraat,3,A,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178477,51.995673
 Franklinstraat,3,B,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178470,51.995703
 Franklinstraat,3,C,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178484,51.995622
 Franklinstraat,3,D,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178494,51.995554
 Franklinstraat,3,E,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178592,51.995558
 Franklinstraat,3,F,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178680,51.995562
-Franklinstraat,3,,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178418,51.995738
 Franklinstraat,4,,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.181030,51.995381
 Franklinstraat,6,,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.181353,51.995437
 Franklinstraat,8,,,2691HB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.181772,51.995405
@@ -2626,6 +2626,7 @@ Monsterseweg,129,E,,2691JE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.157496,52.
 Monsterseweg,129,,,2691JE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.153796,52.013933
 Monsterseweg,131,,,2691JE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.153819,52.014204
 Monsterseweg,133,,,2691JE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.153799,52.014518
+Monsterseweg,135,,,2691JE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.154211,52.014582
 Monsterseweg,135,,,2691JE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.154622,52.014518
 Monsterseweg,137,,,2691JE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.156583,52.015171
 Monsterseweg,139,A,,2691JE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.154009,52.014958
@@ -2671,7 +2672,6 @@ Monsterseweg,48,A,,2691JH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.155412,52.0
 Monsterseweg,48,,,2691JH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.155790,52.008925
 Monsterseweg,50,,,2691JH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.155655,52.009036
 Monsterseweg,52,,,2691JH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.155588,52.009131
-Monsterseweg,54,,,2691JH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.155225,52.009450
 Monsterseweg,54,,,2691JH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.155330,52.009477
 Monsterseweg,56,,,2691JH,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.155165,52.009693
 Monsterseweg,58,,,2691JJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.154761,52.010055
@@ -2697,7 +2697,7 @@ Monsterseweg,84,,,2691JJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.151026,52.01
 Monsterseweg,86,,,2691JJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.150987,52.013207
 Monsterseweg,90,A,,2691JJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.152801,52.015680
 Monsterseweg,90,,,2691JJ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.153363,52.015223
-Arendsduin,6,,,2691JK,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.149516,52.015719
+Arendsduin,4,,,2691JK,'s-Gravenzande,Westland,Zuid-Holland,STA,4.147925,52.017524
 Monsterseweg,92,A,,2691JK,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.153307,52.016731
 Monsterseweg,92,,,2691JK,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.152609,52.016532
 Monsterseweg,94,A,,2691JK,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.155717,52.017651
@@ -2762,10 +2762,8 @@ Parallelweg,73,,,2691JN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.169058,52.006
 Parallelweg,75,,,2691JN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.169087,52.006297
 Parallelweg,81,,,2691JN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.169300,52.006092
 Perzikenlaan,1,,,2691JP,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.167553,52.013139
-Perzikenlaan,2,,,2691JP,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.168081,52.012946
 Perzikenlaan,3,,,2691JP,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.167052,52.013595
 Perzikenlaan,5,,,2691JP,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.166692,52.013970
-Perzikenlaan,6,,,2691JP,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.167367,52.013787
 Perzikenlaan,9,B,,2691JP,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.165869,52.015169
 Perzikenlaan,9,,,2691JP,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.165807,52.014960
 Perzikenlaan,10,A,,2691JP,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.166716,52.014625
@@ -2789,8 +2787,6 @@ Meloenlaan,10,,,2691JS,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.174456,52.0146
 Meloenlaan,12,,,2691JS,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.174805,52.014791
 Meloenlaan,13,,,2691JS,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.173615,52.015304
 Meloenlaan,17,,,2691JS,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.174726,52.015639
-Meloenlaan,18,,,2691JS,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.175923,52.015242
-Meloenlaan,19,,,2691JS,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.174716,52.015269
 Meloenlaan,21,,,2691JS,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.175352,52.015438
 Rusthovenlaan,18,,,2691JT,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178670,52.011773
 Rusthovenlaan,20,A,,2691JT,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178731,52.011202
@@ -2845,6 +2841,7 @@ Boerenlaan,7,L,,2691JX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.169869,52.0091
 Boerenlaan,7,M,,2691JX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.169926,52.009166
 Boerenlaan,7,N,,2691JX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.170084,52.009212
 Boerenlaan,7,P,,2691JX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.170142,52.009230
+Boerenlaan,7,T,,2691JX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.171376,52.009439
 Boerenlaan,7,,,2691JX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.168765,52.008710
 Boerenlaan,8,A,,2691JX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.170012,52.009375
 Boerenlaan,8,B,,2691JX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.170239,52.009488
@@ -3050,6 +3047,8 @@ Noordlandseweg,30,,,2691KL,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.149625,52.
 Noordlandseweg,32,,,2691KL,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.149529,52.002638
 Noordlandseweg,34,,,2691KL,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.149432,52.002620
 Verlengde Strandweg,1,B,,2691KL,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.143172,52.009546
+Verlengde Strandweg,1,,,2691KL,'s-Gravenzande,Westland,Zuid-Holland,STA,4.140500,52.011560
+Verlengde Strandweg,7,,,2691KL,'s-Gravenzande,Westland,Zuid-Holland,STA,4.137529,52.009386
 Noordlandseweg,36,,,2691KM,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.148770,52.002414
 Noordlandseweg,38,,,2691KM,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.148581,52.002349
 Noordlandseweg,40,,,2691KM,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.148735,52.001454
@@ -3070,7 +3069,6 @@ Noordlandseweg,64,,,2691KM,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.142454,51.
 Noordlandseweg,66,,,2691KM,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.141524,51.998993
 Noordlandseweg,68,,,2691KM,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.141685,51.998845
 Noordlandseweg,70,,,2691KM,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.142421,51.999401
-Noordlandseweg,74,A,,2691KN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.143203,51.997492
 Noordlandseweg,74,,,2691KN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.142906,51.997181
 Noordlandseweg,76,,,2691KN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.142961,51.997106
 Noordlandseweg,78,A,,2691KN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.143404,51.996972
@@ -3237,7 +3235,7 @@ Heenweg,28,,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.183557,51.985178
 Heenweg,30,,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.189483,51.984701
 Heenweg,34,A,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.183424,51.985006
 Heenweg,34,B,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.183333,51.984681
-Heenweg,36,B,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.183907,51.984326
+Heenweg,36,,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.183907,51.984326
 Heenweg,38,,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.183217,51.984089
 Heenweg,42,,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.182972,51.983651
 Heenweg,44,,,2691LD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.182909,51.983471
@@ -3498,7 +3496,6 @@ Poelmolenweg,3,,,2691MC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.175692,52.007
 Poelmolenweg,4,,,2691MC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176633,52.007201
 Poelmolenweg,5,,,2691MC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176093,52.007522
 Poelmolenweg,6,,,2691MC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176960,52.007297
-Poelmolenweg,8,A,,2691MC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.177489,52.007706
 Poelmolenweg,8,,,2691MC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.177263,52.007394
 Poelmolenweg,10,,,2691MC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178311,52.008458
 Poelkade,2,A,,2691MD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.180026,52.004509
@@ -3550,7 +3547,6 @@ Galgeweg,22,,,2691MG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.203597,51.984518
 Galgeweg,24,,,2691MG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.202426,51.983508
 Galgeweg,26,,,2691MG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.203708,51.983945
 Galgeweg,28,,,2691MG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.204833,51.983560
-Galgeweg,30,,,2691MG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.204705,51.983353
 Galgeweg,32,,,2691MG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.205596,51.982957
 Galgeweg,34,,,2691MG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.205796,51.982681
 Galgeweg,36,,,2691MG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.205882,51.982628
@@ -3844,6 +3840,8 @@ Enthovenlaan,1,,,2691MX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178291,52.009
 Enthovenlaan,6,,,2691MX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.177212,52.009033
 Enthovenlaan,8,,,2691MX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176834,52.008934
 Enthovenlaan,10,,,2691MX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176713,52.008719
+Enthovenlaan,12,,,2691MX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176717,52.008487
+Enthovenlaan,14,,,2691MX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176537,52.008229
 Enthovenlaan,16,,,2691MX,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176471,52.007986
 Dennenpad,2,,,2691MZ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.162006,51.998524
 Dennenpad,4,,,2691MZ,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.161984,51.998601
@@ -3951,6 +3949,7 @@ Gravin van Bylandtlaan,11,,,2691ND,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.16
 Gravin van Bylandtlaan,13,,,2691ND,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.165742,51.980983
 Gravin van Bylandtlaan,17,,,2691ND,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.165212,51.980392
 Gravin van Bylandtlaan,19,,,2691ND,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.165005,51.980038
+Papedijk,1,A,,2691NE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.180586,51.977213
 Papedijk,1,,,2691NE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.179088,51.980023
 Papedijk,2,,,2691NE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.179918,51.979734
 Papedijk,3,,,2691NE,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.178416,51.978697
@@ -4259,7 +4258,7 @@ Maasdijk,97,A,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.175161,51.98291
 Maasdijk,97,,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.174896,51.982992
 Maasdijk,99,,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.175467,51.982824
 Maasdijk,101,A,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176016,51.982669
-Maasdijk,101,B,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176301,51.982930
+Maasdijk,101,B,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176148,51.983301
 Maasdijk,101,,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.175695,51.982760
 Maasdijk,103,,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.176341,51.982506
 Maasdijk,113,A,,2691PC,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.177119,51.982742
@@ -5087,21 +5086,30 @@ Vlugtenburg,23,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.137050,52.002
 Vlugtenburg,24,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136972,52.002280
 Vlugtenburg,25,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136893,52.002399
 Vlugtenburg,26,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136840,52.002477
+Vlugtenburg,27,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.137120,52.001661
 Vlugtenburg,28,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136988,52.001814
 Vlugtenburg,29,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136949,52.001898
 Vlugtenburg,30,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136880,52.001992
 Vlugtenburg,31,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136743,52.002108
 Vlugtenburg,32,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136722,52.002241
 Vlugtenburg,33,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136677,52.002345
+Vlugtenburg,34,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136996,52.001442
+Vlugtenburg,35,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136935,52.001530
+Vlugtenburg,36,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136837,52.001651
 Vlugtenburg,37,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136730,52.001786
 Vlugtenburg,38,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136672,52.001873
 Vlugtenburg,39,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136583,52.002006
 Vlugtenburg,40,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136563,52.002073
 Vlugtenburg,41,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136452,52.002175
+Vlugtenburg,42,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136796,52.001317
+Vlugtenburg,43,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136731,52.001407
+Vlugtenburg,44,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136635,52.001521
 Vlugtenburg,45,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136528,52.001664
 Vlugtenburg,46,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136428,52.001811
 Vlugtenburg,47,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136372,52.001897
 Vlugtenburg,48,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136282,52.002030
+Vlugtenburg,51,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136459,52.001366
+Vlugtenburg,52,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136400,52.001453
 Vlugtenburg,53,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136298,52.001584
 Vlugtenburg,54,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136241,52.001671
 Vlugtenburg,55,,,2691SG,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.136136,52.001783
@@ -6439,6 +6447,8 @@ Hagemanstraat,21,,,2691WL,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.172457,52.0
 Hagemanstraat,23,,,2691WL,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.172504,52.005314
 Hagemanstraat,25,,,2691WL,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.172550,52.005273
 Hagemanstraat,27,,,2691WL,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.172597,52.005231
+Verlengde Strandweg,2,,,2691WM,'s-Gravenzande,Westland,Zuid-Holland,STA,4.140885,52.011873
+Verlengde Strandweg,4,,,2691WM,'s-Gravenzande,Westland,Zuid-Holland,STA,4.141456,52.012255
 Hagemanstraat,29,,,2691WN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.172814,52.005044
 Hagemanstraat,31,,,2691WN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.172762,52.005096
 Hagemanstraat,33,,,2691WN,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.172848,52.004985
@@ -6534,6 +6544,10 @@ van Gochstraat,37,,,2691XB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.171615,52.
 van Gochstraat,39,,,2691XB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.171696,52.005538
 van Gochstraat,41,,,2691XB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.171777,52.005557
 van Gochstraat,43,,,2691XB,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.171858,52.005577
+Slag Vlugtenburg,1,,,2691XC,'s-Gravenzande,Westland,Zuid-Holland,STA,4.128062,52.002076
+Slag Vlugtenburg,4,,,2691XC,'s-Gravenzande,Westland,Zuid-Holland,STA,4.128576,52.002525
+Slag Vlugtenburg,5,,,2691XC,'s-Gravenzande,Westland,Zuid-Holland,STA,4.126710,52.002047
+Slag Vlugtenburg,8,,,2691XC,'s-Gravenzande,Westland,Zuid-Holland,STA,4.128811,52.003484
 van der Kest Wittensstraat,2,,,2691XD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.168805,52.001883
 van der Kest Wittensstraat,3,,,2691XD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.168994,52.002375
 van der Kest Wittensstraat,4,,,2691XD,'s-Gravenzande,Westland,Zuid-Holland,VBO,4.168890,52.001903

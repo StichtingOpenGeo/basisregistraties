@@ -68,6 +68,7 @@ Berkelseweg,108,,,2661AK,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.485726,5
 Berkelseweg,110,,,2661AK,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.485683,51.996434
 Groeneweg,5,,,2661AL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.493415,51.994263
 Groeneweg,7,,,2661AL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.493780,51.994349
+Groeneweg,11,a,,2661AL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494069,51.994671
 Groeneweg,11,,,2661AL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.493803,51.994509
 Groeneweg,13,,,2661AL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494147,51.994790
 Groeneweg,15,,,2661AL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494610,51.995057
@@ -740,7 +741,6 @@ Vlaggemansdreef,16,,,2661CC,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.49868
 Vlaggemansdreef,18,,,2661CC,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.498321,51.989150
 Vlaggemansdreef,20,,,2661CC,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.498003,51.989049
 Vlaggemansdreef,22,,,2661CC,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.497714,51.988930
-Dorpsstraat,1,,,2661CD,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.499598,51.987892
 Dorpsstraat,1,,,2661CD,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.499672,51.987902
 Dorpsstraat,3,,,2661CD,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.499797,51.988163
 Dorpsstraat,5,a,,2661CD,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.499778,51.988370
@@ -914,6 +914,7 @@ Smitshoek,112,,,2661CK,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.497237,51.
 Smitshoek,114,,,2661CK,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.497056,51.988464
 Smitshoek,120,,,2661CK,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.496285,51.988310
 Smitshoek,122,,,2661CK,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.496293,51.988053
+De Akker,3,,,2661CL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.499158,51.988117
 De Akker,3,,,2661CL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.499229,51.988159
 De Akker,7,,,2661CL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.498949,51.988310
 Bergweg-noord,1,,,2661CM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.500121,51.987204
@@ -1029,7 +1030,6 @@ Bergweg-zuid,163,,,2661CT,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.497365,
 Bergweg-zuid,165,,,2661CT,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.497091,51.974103
 Bergweg-zuid,167,a,,2661CT,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.497229,51.973780
 Bergweg-zuid,167,,,2661CT,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.496734,51.973785
-Bergweg-zuid,169,,,2661CT,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.496750,51.973687
 Bergweg-zuid,171,,,2661CT,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.496710,51.973516
 Bergweg-zuid,173,,,2661CT,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.496599,51.973209
 Bergweg-zuid,177,a,,2661CT,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.497020,51.972529
@@ -1249,6 +1249,30 @@ Weg en Bos,11,d,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503452,51
 Weg en Bos,11,e,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503371,51.978652
 Weg en Bos,11,f,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503294,51.978686
 Weg en Bos,11,,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503700,51.978467
+Weg en Bos,13,a,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503995,51.978648
+Weg en Bos,13,b,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503903,51.978633
+Weg en Bos,13,c,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503847,51.978663
+Weg en Bos,13,d,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503800,51.978686
+Weg en Bos,13,e,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503754,51.978707
+Weg en Bos,13,f,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503709,51.978738
+Weg en Bos,13,g,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503646,51.978766
+Weg en Bos,13,h,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503595,51.978794
+Weg en Bos,13,i,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503545,51.978819
+Weg en Bos,13,j,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503496,51.978844
+Weg en Bos,13,k,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503440,51.978871
+Weg en Bos,13,l,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503414,51.978947
+Weg en Bos,15,a,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504132,51.978759
+Weg en Bos,15,b,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504156,51.978828
+Weg en Bos,15,c,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504100,51.978853
+Weg en Bos,15,d,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504041,51.978882
+Weg en Bos,15,e,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503988,51.978906
+Weg en Bos,15,f,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503924,51.978928
+Weg en Bos,15,g,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503841,51.978967
+Weg en Bos,15,h,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503780,51.978996
+Weg en Bos,15,i,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503725,51.979027
+Weg en Bos,15,j,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503673,51.979053
+Weg en Bos,15,k,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503628,51.979079
+Weg en Bos,15,l,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503544,51.979047
 Weg en Bos,17,,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504329,51.979056
 Weg en Bos,19,,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504559,51.979229
 Weg en Bos,21,,,2661DG,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.505020,51.979448
@@ -1739,10 +1763,10 @@ Emmastraat,53,,,2661ES,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503933,51.
 Emmastraat,55,,,2661ES,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504024,51.989400
 Emmastraat,57,,,2661ES,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504301,51.989458
 Wilhelminastraat,1,a,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504453,51.989078
-Wilhelminastraat,1,b,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504271,51.989227
-Wilhelminastraat,1,c,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504352,51.989250
-Wilhelminastraat,1,d,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504489,51.989289
-Wilhelminastraat,1,e,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504619,51.989321
+Wilhelminastraat,1,b,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504619,51.989321
+Wilhelminastraat,1,c,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504271,51.989227
+Wilhelminastraat,1,d,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504352,51.989250
+Wilhelminastraat,1,e,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504489,51.989289
 Wilhelminastraat,1,g,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504469,51.989262
 Wilhelminastraat,1,h,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.504375,51.989229
 Wilhelminastraat,2,,,2661ET,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.503944,51.988986
@@ -2753,7 +2777,6 @@ Hoeksekade,141,a,,2661JL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.535191,5
 Hoeksekade,141,b,,2661JL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.535505,51.976886
 Hoeksekade,141,c,,2661JL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.535817,51.976740
 Hoeksekade,141,,,2661JL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.535581,51.976548
-Hoeksekade,142,,,2661JL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.516302,51.981626
 Hoeksekade,142,,,2661JL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.516333,51.981657
 Hoeksekade,144,,,2661JL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.516715,51.981378
 Hoeksekade,145,,,2661JL,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.533975,51.977001
@@ -2771,6 +2794,7 @@ Rottekade,1,,,2661JM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.546280,51.98
 Rottekade,2,,,2661JM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.546454,51.988371
 Rottekade,5,,,2661JM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.547960,51.982575
 Rottekade,6,a,,2661JM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.549873,51.981474
+Rottekade,6,b,,2661JM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.550161,51.981367
 Rottekade,7,,,2661JM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.550446,51.981200
 Rottekade,8,,,2661JM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.550655,51.981106
 Rottekade,12,,,2661JM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.551498,51.978637
@@ -3243,8 +3267,22 @@ Weg en Land,46,,,2661KR,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.501737,51
 Weg en Land,48,,,2661KR,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.501534,51.979865
 Weg en Land,62,,,2661KR,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.500747,51.980309
 Weg en Land,64,,,2661KR,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.500747,51.980309
-Groeneweg,81,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494749,51.995706
-Groeneweg,83,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494672,51.995748
+Groeneweg,81,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494787,51.995703
+Groeneweg,83,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494757,51.995675
+Groeneweg,85,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494723,51.995648
+Groeneweg,87,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494649,51.995592
+Groeneweg,89,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494717,51.995735
+Groeneweg,91,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494690,51.995703
+Groeneweg,93,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494651,51.995675
+Groeneweg,95,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494589,51.995628
+Groeneweg,97,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494662,51.995766
+Groeneweg,99,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494622,51.995736
+Groeneweg,101,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494582,51.995709
+Groeneweg,103,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494518,51.995660
+Groeneweg,105,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494528,51.995757
+Groeneweg,107,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494484,51.995729
+Groeneweg,109,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494446,51.995697
+Groeneweg,111,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494508,51.995825
 Groeneweg,125,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494174,51.996001
 Groeneweg,127,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494382,51.996283
 Groeneweg,129,,,2661KV,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494784,51.996458
@@ -3653,6 +3691,67 @@ Korstmos,31,,,2661ML,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.495584,51.99
 Korstmos,33,,,2661ML,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.495525,51.992859
 Korstmos,35,,,2661ML,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.495466,51.992895
 Korstmos,37,,,2661ML,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.495421,51.992948
+Dorsvloerweg,3,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507733,51.983944
+Dorsvloerweg,5,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507760,51.983965
+Dorsvloerweg,7,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507784,51.983984
+Dorsvloerweg,9,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507814,51.984008
+Dorsvloerweg,11,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507844,51.984030
+Dorsvloerweg,13,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507872,51.984054
+Dorsvloerweg,15,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507895,51.984071
+Dorsvloerweg,17,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507925,51.984093
+Dorsvloerweg,19,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507946,51.984115
+Dorsvloerweg,21,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507968,51.984137
+Dorsvloerweg,23,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507997,51.984158
+Dorsvloerweg,25,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508023,51.984180
+Dorsvloerweg,27,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508056,51.984198
+Dorsvloerweg,29,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508083,51.984221
+Dorsvloerweg,31,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508107,51.984242
+Dorsvloerweg,33,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508136,51.984263
+Dorsvloerweg,35,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508163,51.984281
+Dorsvloerweg,37,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508189,51.984308
+Dorsvloerweg,39,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508222,51.984325
+Dorsvloerweg,41,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508246,51.984343
+Dorsvloerweg,43,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508273,51.984365
+Dorsvloerweg,45,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508295,51.984392
+Dorsvloerweg,47,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508326,51.984410
+Dorsvloerweg,49,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508354,51.984428
+Dorsvloerweg,51,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508377,51.984452
+Dorsvloerweg,53,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508408,51.984475
+Dorsvloerweg,55,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508434,51.984497
+Dorsvloerweg,57,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508465,51.984516
+Dorsvloerweg,59,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508494,51.984534
+Dorsvloerweg,61,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508517,51.984554
+Dorsvloerweg,63,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508544,51.984575
+Dorsvloerweg,65,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508695,51.984465
+Dorsvloerweg,67,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508663,51.984481
+Dorsvloerweg,69,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508653,51.984453
+Dorsvloerweg,71,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508620,51.984430
+Dorsvloerweg,73,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508590,51.984410
+Dorsvloerweg,75,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508572,51.984386
+Dorsvloerweg,77,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508545,51.984370
+Dorsvloerweg,79,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508508,51.984350
+Dorsvloerweg,81,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508483,51.984327
+Dorsvloerweg,83,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508459,51.984304
+Dorsvloerweg,85,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508428,51.984284
+Dorsvloerweg,87,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508408,51.984266
+Dorsvloerweg,89,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508373,51.984240
+Dorsvloerweg,91,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508355,51.984221
+Dorsvloerweg,93,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508326,51.984200
+Dorsvloerweg,95,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508301,51.984179
+Dorsvloerweg,97,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508269,51.984161
+Dorsvloerweg,99,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508240,51.984138
+Dorsvloerweg,101,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508216,51.984116
+Dorsvloerweg,103,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508187,51.984096
+Dorsvloerweg,105,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508156,51.984073
+Dorsvloerweg,107,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508126,51.984052
+Dorsvloerweg,109,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508103,51.984036
+Dorsvloerweg,111,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508085,51.984011
+Dorsvloerweg,113,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508046,51.983990
+Dorsvloerweg,115,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.508031,51.983969
+Dorsvloerweg,117,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507995,51.983948
+Dorsvloerweg,119,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507977,51.983927
+Dorsvloerweg,121,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507942,51.983907
+Dorsvloerweg,123,,,2661MM,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.507923,51.983885
 Rendiermos,2,,,2661MP,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.494900,51.992810
 Rendiermos,4,,,2661MP,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.495146,51.992892
 Rendiermos,6,,,2661MP,Bergschenhoek,Lansingerland,Zuid-Holland,VBO,4.495174,51.992955

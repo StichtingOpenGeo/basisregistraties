@@ -106,6 +106,7 @@ Zutphenseweg,4,,,7418AJ,Deventer,Deventer,Overijssel,VBO,6.168447,52.243847
 Zutphenseweg,6,A,,7418AJ,Deventer,Deventer,Overijssel,VBO,6.169616,52.243114
 Zutphenseweg,6,B,,7418AJ,Deventer,Deventer,Overijssel,VBO,6.169282,52.243062
 Zutphenseweg,6,C,,7418AJ,Deventer,Deventer,Overijssel,VBO,6.168767,52.242893
+Zutphenseweg,6,D,,7418AJ,Deventer,Deventer,Overijssel,VBO,6.168188,52.243662
 Zutphenseweg,6,T,,7418AJ,Deventer,Deventer,Overijssel,VBO,6.169340,52.243329
 Zutphenseweg,6,,,7418AJ,Deventer,Deventer,Overijssel,VBO,6.168184,52.243123
 Zutphenseweg,8,,,7418AJ,Deventer,Deventer,Overijssel,VBO,6.170055,52.242931
@@ -158,7 +159,6 @@ Finsestraat,12,,,7418AN,Deventer,Deventer,Overijssel,VBO,6.168872,52.244393
 Finsestraat,14,,,7418AN,Deventer,Deventer,Overijssel,VBO,6.168945,52.244343
 Deensestraat,2,,,7418AP,Deventer,Deventer,Overijssel,VBO,6.168676,52.245200
 Deensestraat,4,,,7418AP,Deventer,Deventer,Overijssel,VBO,6.168836,52.245181
-Deensestraat,5,,,7418AP,Deventer,Deventer,Overijssel,LIG,6.170282,52.245286
 Deensestraat,9,,,7418AP,Deventer,Deventer,Overijssel,LIG,6.170661,52.245176
 Deensestraat,801,,,7418AP,Deventer,Deventer,Overijssel,VBO,6.171722,52.244139
 Hanzeweg,20,,,7418AT,Deventer,Deventer,Overijssel,VBO,6.175932,52.246528
@@ -446,6 +446,7 @@ Revalstraat,10,,,7418BJ,Deventer,Deventer,Overijssel,VBO,6.200788,52.246652
 Revalstraat,12,,,7418BJ,Deventer,Deventer,Overijssel,VBO,6.201221,52.246447
 Revalstraat,18,,,7418BJ,Deventer,Deventer,Overijssel,VBO,6.201014,52.246055
 Duisburgstraat,2,,,7418BK,Deventer,Deventer,Overijssel,VBO,6.189966,52.243056
+Duisburgstraat,4,,,7418BK,Deventer,Deventer,Overijssel,VBO,6.190450,52.242887
 Duisburgstraat,8,,,7418BK,Deventer,Deventer,Overijssel,VBO,6.192684,52.242250
 Duisburgstraat,10,,,7418BK,Deventer,Deventer,Overijssel,VBO,6.193807,52.242262
 Hannoverstraat,2,A,,7418BL,Deventer,Deventer,Overijssel,VBO,6.199488,52.247877
@@ -809,7 +810,7 @@ Holterweg,16,A,,7418EB,Deventer,Deventer,Overijssel,VBO,6.194019,52.250495
 Holterweg,16,B,,7418EB,Deventer,Deventer,Overijssel,VBO,6.193968,52.250333
 Holterweg,16,C,,7418EB,Deventer,Deventer,Overijssel,VBO,6.193759,52.250057
 Holterweg,16,D,,7418EB,Deventer,Deventer,Overijssel,VBO,6.193540,52.250178
-Holterweg,16,E,,7418EB,Deventer,Deventer,Overijssel,VBO,6.193694,52.250272
+Holterweg,16,E,,7418EB,Deventer,Deventer,Overijssel,VBO,6.193575,52.250313
 Holterweg,16,,,7418EB,Deventer,Deventer,Overijssel,VBO,6.193752,52.250794
 Holterweg,18,,,7418EB,Deventer,Deventer,Overijssel,VBO,6.194099,52.250720
 Holterweg,20,,,7418EB,Deventer,Deventer,Overijssel,VBO,6.194264,52.250711
@@ -845,7 +846,6 @@ Heukelenseweg,14,,,7418ED,Deventer,Deventer,Overijssel,VBO,6.193811,52.249423
 Heukelenseweg,16,,,7418ED,Deventer,Deventer,Overijssel,VBO,6.194054,52.249208
 Heukelenseweg,18,A,,7418ED,Deventer,Deventer,Overijssel,VBO,6.194616,52.248807
 Heukelenseweg,18,B,,7418ED,Deventer,Deventer,Overijssel,VBO,6.194833,52.248671
-Heukelenseweg,18,,,7418ED,Deventer,Deventer,Overijssel,VBO,6.194137,52.248831
 Heukelenseweg,20,A,,7418ED,Deventer,Deventer,Overijssel,VBO,6.195502,52.248339
 Heukelenseweg,20,,,7418ED,Deventer,Deventer,Overijssel,VBO,6.195130,52.248530
 Heukelenseweg,22,,,7418ED,Deventer,Deventer,Overijssel,VBO,6.195849,52.248260
@@ -1084,7 +1084,9 @@ Keulenstraat,15,,,7418ET,Deventer,Deventer,Overijssel,VBO,6.187870,52.236675
 Keulenstraat,16,,,7418ET,Deventer,Deventer,Overijssel,VBO,6.188300,52.238685
 Keulenstraat,17,,,7418ET,Deventer,Deventer,Overijssel,VBO,6.187907,52.237132
 Keulenstraat,18,A,,7418ET,Deventer,Deventer,Overijssel,VBO,6.188066,52.239325
+Keulenstraat,18,B,,7418ET,Deventer,Deventer,Overijssel,VBO,6.188126,52.239196
 Keulenstraat,18,C,,7418ET,Deventer,Deventer,Overijssel,VBO,6.188055,52.238904
+Keulenstraat,18,,,7418ET,Deventer,Deventer,Overijssel,VBO,6.188176,52.239049
 Keulenstraat,19,A,,7418ET,Deventer,Deventer,Overijssel,VBO,6.187863,52.237882
 Keulenstraat,19,,,7418ET,Deventer,Deventer,Overijssel,VBO,6.188122,52.237974
 Keulenstraat,21,,,7418ET,Deventer,Deventer,Overijssel,VBO,6.187646,52.238374
@@ -1311,3 +1313,20 @@ Nering Bögelweg,47,,,7418HG,Deventer,Deventer,Overijssel,VBO,6.203207,52.230657
 Nering Bögelweg,49,,,7418HG,Deventer,Deventer,Overijssel,VBO,6.203226,52.230587
 Van der Landeweg,9,,,7418HG,Deventer,Deventer,Overijssel,VBO,6.211402,52.231141
 Birnieweg,2,,,7418HH,Deventer,Deventer,Overijssel,VBO,6.210207,52.233016
+Birnieweg,4,,,7418HH,Deventer,Deventer,Overijssel,VBO,6.210881,52.234206
+Nering Bögelweg,51,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203539,52.230610
+Nering Bögelweg,53,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203525,52.230642
+Nering Bögelweg,55,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203509,52.230680
+Nering Bögelweg,57,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203496,52.230715
+Nering Bögelweg,59,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203482,52.230749
+Nering Bögelweg,61,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203467,52.230787
+Nering Bögelweg,63,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203450,52.230833
+Nering Bögelweg,65,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203427,52.230890
+Nering Bögelweg,67,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203567,52.230906
+Nering Bögelweg,69,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203580,52.230848
+Nering Bögelweg,71,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203593,52.230805
+Nering Bögelweg,73,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203608,52.230763
+Nering Bögelweg,75,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203623,52.230732
+Nering Bögelweg,77,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203635,52.230694
+Nering Bögelweg,79,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203650,52.230658
+Nering Bögelweg,81,,,7418HJ,Deventer,Deventer,Overijssel,VBO,6.203664,52.230625

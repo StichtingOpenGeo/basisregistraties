@@ -86,7 +86,7 @@ Bingerweg,20,,,2031AZ,Haarlem,Haarlem,Noord-Holland,VBO,4.664532,52.396966
 Bingerweg,21,,,2031AZ,Haarlem,Haarlem,Noord-Holland,VBO,4.664158,52.397334
 Bingerweg,23,,,2031AZ,Haarlem,Haarlem,Noord-Holland,VBO,4.664298,52.397352
 Bingerweg,25,,,2031AZ,Haarlem,Haarlem,Noord-Holland,VBO,4.664678,52.397389
-H.N. Werkmanweg,1,,,2031BA,Haarlem,Haarlem,Noord-Holland,VBO,4.663334,52.390003
+H.N. Werkmanweg,1,,,2031BA,Haarlem,Haarlem,Noord-Holland,VBO,4.663763,52.389514
 H.N. Werkmanweg,15,,,2031BA,Haarlem,Haarlem,Noord-Holland,VBO,4.664544,52.388854
 H.N. Werkmanweg,17,,,2031BA,Haarlem,Haarlem,Noord-Holland,VBO,4.665054,52.388053
 Beijnesweg,3,,,2031BB,Haarlem,Haarlem,Noord-Holland,VBO,4.665239,52.388512
@@ -190,6 +190,7 @@ A. Hofmanweg,2,F,,2031BH,Haarlem,Haarlem,Noord-Holland,VBO,4.663055,52.399640
 A. Hofmanweg,2,G,,2031BH,Haarlem,Haarlem,Noord-Holland,VBO,4.663263,52.399628
 A. Hofmanweg,2,H,,2031BH,Haarlem,Haarlem,Noord-Holland,VBO,4.663419,52.399620
 A. Hofmanweg,3,A,,2031BH,Haarlem,Haarlem,Noord-Holland,VBO,4.667974,52.390184
+A. Hofmanweg,3,B,,2031BH,Haarlem,Haarlem,Noord-Holland,VBO,4.667807,52.390458
 A. Hofmanweg,3,,,2031BH,Haarlem,Haarlem,Noord-Holland,VBO,4.668639,52.389561
 A. Hofmanweg,5,A,,2031BH,Haarlem,Haarlem,Noord-Holland,VBO,4.666479,52.393197
 A. Hofmanweg,5,B,,2031BH,Haarlem,Haarlem,Noord-Holland,VBO,4.666479,52.393197
@@ -469,8 +470,8 @@ Waarderhaven,52,,,2031BM,Haarlem,Haarlem,Noord-Holland,LIG,4.653023,52.395552
 Waarderhaven,53,,,2031BM,Haarlem,Haarlem,Noord-Holland,LIG,4.652880,52.395550
 Waarderhaven,54,,,2031BM,Haarlem,Haarlem,Noord-Holland,LIG,4.652788,52.395537
 Waarderhaven,55,,,2031BM,Haarlem,Haarlem,Noord-Holland,LIG,4.652662,52.395485
-Waarderhaven,59,,,2031BM,Haarlem,Haarlem,Noord-Holland,LIG,4.652083,52.395836
-Waarderhaven,60,,,2031BM,Haarlem,Haarlem,Noord-Holland,LIG,4.652064,52.395560
+Waarderhaven,59,,,2031BM,Haarlem,Haarlem,Noord-Holland,LIG,4.652064,52.395560
+Waarderhaven,60,,,2031BM,Haarlem,Haarlem,Noord-Holland,LIG,4.652083,52.395836
 Waarderweg,1,,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.664072,52.387405
 Waarderweg,7,,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.663549,52.388146
 Waarderweg,9,,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.663503,52.388213
@@ -484,9 +485,42 @@ Waarderweg,19,,I,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.663139,52.388883
 Waarderweg,19,,II,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.663113,52.388908
 Waarderweg,19,,III,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.663096,52.388940
 Waarderweg,31,,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662876,52.389299
-Waarderweg,33,A,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662269,52.389547
-Waarderweg,33,B,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662021,52.389492
-Waarderweg,33,C,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661772,52.389436
+Waarderweg,33,A,1,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662234,52.389458
+Waarderweg,33,A,10,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662171,52.389549
+Waarderweg,33,A,11,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662322,52.389578
+Waarderweg,33,A,12,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662356,52.389543
+Waarderweg,33,A,2,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662162,52.389586
+Waarderweg,33,A,3,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662308,52.389620
+Waarderweg,33,A,4,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662383,52.389495
+Waarderweg,33,A,5,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662217,52.389487
+Waarderweg,33,A,6,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662168,52.389567
+Waarderweg,33,A,7,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662315,52.389601
+Waarderweg,33,A,8,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662370,52.389522
+Waarderweg,33,A,9,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662199,52.389516
+Waarderweg,33,B,1,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662023,52.389561
+Waarderweg,33,B,10,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662083,52.389468
+Waarderweg,33,B,11,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661977,52.389454
+Waarderweg,33,B,12,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661939,52.389497
+Waarderweg,33,B,2,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662109,52.389422
+Waarderweg,33,B,3,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662013,52.389402
+Waarderweg,33,B,4,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661918,52.389540
+Waarderweg,33,B,5,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662030,52.389540
+Waarderweg,33,B,6,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662098,52.389445
+Waarderweg,33,B,7,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661994,52.389431
+Waarderweg,33,B,8,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661934,52.389518
+Waarderweg,33,B,9,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662038,52.389514
+Waarderweg,33,C,1,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661715,52.389336
+Waarderweg,33,C,10,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661658,52.389418
+Waarderweg,33,C,11,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661796,52.389445
+Waarderweg,33,C,12,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661818,52.389419
+Waarderweg,33,C,2,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661643,52.389469
+Waarderweg,33,C,3,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661776,52.389502
+Waarderweg,33,C,4,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661852,52.389367
+Waarderweg,33,C,5,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661703,52.389363
+Waarderweg,33,C,6,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661646,52.389441
+Waarderweg,33,C,7,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661785,52.389468
+Waarderweg,33,C,8,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661833,52.389397
+Waarderweg,33,C,9,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.661687,52.389389
 Waarderweg,33,D,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662590,52.389702
 Waarderweg,33,,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662695,52.389586
 Waarderweg,35,,,2031BN,Haarlem,Haarlem,Noord-Holland,VBO,4.662336,52.390070
@@ -548,8 +582,10 @@ Emrikweg,9,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.663955,52.395143
 Emrikweg,11,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.663854,52.395223
 Emrikweg,14,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.664162,52.395934
 Emrikweg,15,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.663618,52.395480
+Emrikweg,16,A,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.664012,52.396498
 Emrikweg,16,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.664083,52.396353
 Emrikweg,17,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.663575,52.395551
+Emrikweg,18,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.663933,52.396680
 Emrikweg,18,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.663961,52.396640
 Emrikweg,19,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.663560,52.395619
 Emrikweg,21,,,2031BT,Haarlem,Haarlem,Noord-Holland,VBO,4.663575,52.395904
@@ -592,6 +628,7 @@ Heringaweg,6,G,,2031BW,Haarlem,Haarlem,Noord-Holland,VBO,4.654239,52.392869
 Heringaweg,6,H,,2031BW,Haarlem,Haarlem,Noord-Holland,VBO,4.652857,52.392670
 Heringaweg,6,,,2031BW,Haarlem,Haarlem,Noord-Holland,VBO,4.654571,52.393482
 Heringaweg,8,,,2031BW,Haarlem,Haarlem,Noord-Holland,VBO,4.655913,52.392807
+Industrieweg,5,,,2031BX,Haarlem,Haarlem,Noord-Holland,VBO,4.658778,52.395550
 Mollerusweg,1,,,2031BZ,Haarlem,Haarlem,Noord-Holland,VBO,4.663372,52.393286
 Mollerusweg,2,,,2031BZ,Haarlem,Haarlem,Noord-Holland,VBO,4.662413,52.392497
 Mollerusweg,4,,,2031BZ,Haarlem,Haarlem,Noord-Holland,VBO,4.662336,52.392399
@@ -746,6 +783,9 @@ Oudeweg,99,,,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.658373,52.385317
 Oudeweg,101,,,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.658838,52.385147
 Oudeweg,103,,,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.659083,52.385200
 Oudeweg,107,,,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.659504,52.385288
+Oudeweg,109,A,1,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.659746,52.385423
+Oudeweg,109,A,2,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.659704,52.385492
+Oudeweg,109,A,,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.659780,52.385358
 Oudeweg,109,B,,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.659989,52.385409
 Oudeweg,111,,,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.660369,52.385492
 Oudeweg,115,,,2031CC,Haarlem,Haarlem,Noord-Holland,VBO,4.661987,52.385878
@@ -873,7 +913,6 @@ Conradweg,38,A,,2031CM,Haarlem,Haarlem,Noord-Holland,VBO,4.666439,52.387653
 Conradweg,38,,,2031CM,Haarlem,Haarlem,Noord-Holland,VBO,4.666258,52.387598
 Conradweg,40,,,2031CM,Haarlem,Haarlem,Noord-Holland,VBO,4.667084,52.387745
 Nijverheidsweg,1,,,2031CN,Haarlem,Haarlem,Noord-Holland,VBO,4.660412,52.385740
-Nijverheidsweg,3,A,,2031CN,Haarlem,Haarlem,Noord-Holland,LIG,4.659854,52.386472
 Nijverheidsweg,3,,,2031CN,Haarlem,Haarlem,Noord-Holland,VBO,4.660072,52.386223
 Nijverheidsweg,5,,,2031CN,Haarlem,Haarlem,Noord-Holland,VBO,4.659689,52.386877
 Nijverheidsweg,13,,,2031CN,Haarlem,Haarlem,Noord-Holland,VBO,4.659523,52.387207
@@ -942,6 +981,7 @@ Nijverheidsweg,48,,,2031CP,Haarlem,Haarlem,Noord-Holland,VBO,4.659212,52.388410
 Nijverheidsweg,50,A,,2031CP,Haarlem,Haarlem,Noord-Holland,VBO,4.659085,52.388710
 Nijverheidsweg,50,,,2031CP,Haarlem,Haarlem,Noord-Holland,VBO,4.659031,52.388695
 Izaäk Enschedéweg,7,,,2031CR,Haarlem,Haarlem,Noord-Holland,VBO,4.661073,52.387239
+Izaäk Enschedéweg,9,,,2031CR,Haarlem,Haarlem,Noord-Holland,VBO,4.659982,52.387189
 Izaäk Enschedéweg,12,,,2031CR,Haarlem,Haarlem,Noord-Holland,VBO,4.661737,52.386800
 Izaäk Enschedéweg,14,,,2031CR,Haarlem,Haarlem,Noord-Holland,VBO,4.661713,52.386838
 Izaäk Enschedéweg,16,,,2031CR,Haarlem,Haarlem,Noord-Holland,VBO,4.661695,52.386870
@@ -1019,11 +1059,11 @@ Jan Tademaweg,55,,,2031CT,Haarlem,Haarlem,Noord-Holland,VBO,4.661265,52.389409
 Jan Tademaweg,59,,,2031CT,Haarlem,Haarlem,Noord-Holland,VBO,4.661204,52.389509
 Jan Tademaweg,61,,,2031CT,Haarlem,Haarlem,Noord-Holland,VBO,4.661184,52.389551
 Jan Tademaweg,2,,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.664072,52.387405
-Jan Tademaweg,6,A,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662788,52.387643
-Jan Tademaweg,6,B,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662754,52.387685
-Jan Tademaweg,6,C,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662728,52.387726
-Jan Tademaweg,6,D,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662704,52.387765
-Jan Tademaweg,6,E,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662676,52.387799
+Jan Tademaweg,6,A,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662786,52.387626
+Jan Tademaweg,6,B,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662759,52.387667
+Jan Tademaweg,6,C,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662734,52.387708
+Jan Tademaweg,6,D,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662702,52.387751
+Jan Tademaweg,6,E,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662676,52.387788
 Jan Tademaweg,6,F,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662649,52.387839
 Jan Tademaweg,6,G,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662620,52.387873
 Jan Tademaweg,6,H,,2031CV,Haarlem,Haarlem,Noord-Holland,VBO,4.662587,52.387916
@@ -1187,7 +1227,8 @@ Wateringweg,117,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657450,52.396726
 Wateringweg,119,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657568,52.396727
 Wateringweg,121,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657560,52.397194
 Wateringweg,123,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657428,52.397184
-Wateringweg,125,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657325,52.397183
+Wateringweg,125,A,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657269,52.397201
+Wateringweg,125,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657315,52.397200
 Wateringweg,127,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657208,52.397183
 Wateringweg,129,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.657120,52.397182
 Wateringweg,131,,,2031EG,Haarlem,Haarlem,Noord-Holland,VBO,4.656987,52.397181
@@ -1858,7 +1899,8 @@ Max Euweplein,20,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650560,52.386958
 Max Euweplein,21,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650560,52.386958
 Max Euweplein,23,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650560,52.386958
 Max Euweplein,24,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650560,52.386958
-Max Euweplein,27,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650560,52.386958
+Max Euweplein,26,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650570,52.387004
+Max Euweplein,27,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650616,52.386984
 Max Euweplein,28,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650560,52.386958
 Max Euweplein,29,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650560,52.386958
 Max Euweplein,30,,,2031VP,Haarlem,Haarlem,Noord-Holland,VBO,4.650560,52.386958
@@ -2153,9 +2195,25 @@ Harmenjansweg,79,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646192,52.384500
 Harmenjansweg,81,,RD,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646262,52.384584
 Harmenjansweg,81,,ZW,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646295,52.384547
 Harmenjansweg,81,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646249,52.384527
-Harmenjansweg,85,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646429,52.384613
-Harmenjansweg,91,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646492,52.384786
-Harmenjansweg,93,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646782,52.384760
+Harmenjansweg,83,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646498,52.384633
+Harmenjansweg,85,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646549,52.384652
+Harmenjansweg,87,A,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646563,52.384698
+Harmenjansweg,87,B,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646531,52.384727
+Harmenjansweg,87,C,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646500,52.384753
+Harmenjansweg,87,D,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646678,52.384784
+Harmenjansweg,87,E,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646709,52.384758
+Harmenjansweg,87,F,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646474,52.384773
+Harmenjansweg,87,G,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646451,52.384794
+Harmenjansweg,87,H,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646499,52.384811
+Harmenjansweg,87,J,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646651,52.384809
+Harmenjansweg,87,K,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646693,52.384826
+Harmenjansweg,87,L,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646526,52.384788
+Harmenjansweg,87,M,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646570,52.384801
+Harmenjansweg,87,N,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646549,52.384822
+Harmenjansweg,87,P,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646727,52.384805
+Harmenjansweg,87,Q,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646753,52.384785
+Harmenjansweg,89,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646746,52.384738
+Harmenjansweg,91,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.646821,52.384773
 Harmenjansweg,95,,,2031WJ,Haarlem,Haarlem,Noord-Holland,VBO,4.647615,52.385100
 Harmenjansweg,2,,,2031WK,Haarlem,Haarlem,Noord-Holland,VBO,4.645015,52.383390
 Harmenjansweg,4,,,2031WK,Haarlem,Haarlem,Noord-Holland,VBO,4.645147,52.383610
@@ -2178,9 +2236,13 @@ Harmenjansweg,32,A,,2031WK,Haarlem,Haarlem,Noord-Holland,VBO,4.646636,52.384462
 Harmenjansweg,32,,,2031WK,Haarlem,Haarlem,Noord-Holland,VBO,4.646563,52.384435
 Harmenjansweg,34,A,,2031WK,Haarlem,Haarlem,Noord-Holland,VBO,4.646752,52.384517
 Harmenjansweg,34,,,2031WK,Haarlem,Haarlem,Noord-Holland,VBO,4.646694,52.384489
+Windasstraat,1,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.646454,52.384671
+Windasstraat,3,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.646419,52.384714
 Windasstraat,4,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.646210,52.384560
 Windasstraat,6,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.646238,52.384634
+Windasstraat,7,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.646222,52.384925
 Windasstraat,8,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.646203,52.384671
+Windasstraat,9,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.646155,52.384993
 Windasstraat,10,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.645966,52.384669
 Windasstraat,12,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.646044,52.384775
 Windasstraat,14,,,2031WM,Haarlem,Haarlem,Noord-Holland,VBO,4.645817,52.384873
@@ -2231,6 +2293,38 @@ Kelderwindkade,41,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.645523,52.384779
 Kelderwindkade,43,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.645590,52.384805
 Kelderwindkade,45,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.645655,52.384824
 Kelderwindkade,47,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.645725,52.384853
+Kelderwindkade,49,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646199,52.385020
+Kelderwindkade,51,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646438,52.385087
+Kelderwindkade,53,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646454,52.385062
+Kelderwindkade,55,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646470,52.385040
+Kelderwindkade,57,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646381,52.385012
+Kelderwindkade,59,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646350,52.385036
+Kelderwindkade,61,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646490,52.385026
+Kelderwindkade,63,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646510,52.385008
+Kelderwindkade,65,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646496,52.384986
+Kelderwindkade,67,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646393,52.384988
+Kelderwindkade,69,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646408,52.384967
+Kelderwindkade,71,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646537,52.384982
+Kelderwindkade,73,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646553,52.384962
+Kelderwindkade,75,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646524,52.384953
+Kelderwindkade,77,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646387,52.384937
+Kelderwindkade,79,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646361,52.384958
+Kelderwindkade,81,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646573,52.384939
+Kelderwindkade,83,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646543,52.384931
+Kelderwindkade,85,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646526,52.384910
+Kelderwindkade,87,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646477,52.384899
+Kelderwindkade,89,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646353,52.384924
+Kelderwindkade,91,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646320,52.384949
+Kelderwindkade,93,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646584,52.384919
+Kelderwindkade,95,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646600,52.384899
+Kelderwindkade,97,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646548,52.384889
+Kelderwindkade,99,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646497,52.384877
+Kelderwindkade,101,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646431,52.384899
+Kelderwindkade,103,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646388,52.384891
+Kelderwindkade,105,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646456,52.384868
+Kelderwindkade,107,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646412,52.384860
+Kelderwindkade,109,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646369,52.384849
+Kelderwindkade,111,,,2031WS,Haarlem,Haarlem,Noord-Holland,VBO,4.646444,52.385120
 Disselkade,1,,,2031WT,Haarlem,Haarlem,Noord-Holland,VBO,4.644017,52.383909
 Disselkade,2,,,2031WT,Haarlem,Haarlem,Noord-Holland,VBO,4.643831,52.383879
 Disselkade,3,,,2031WT,Haarlem,Haarlem,Noord-Holland,VBO,4.643984,52.383955

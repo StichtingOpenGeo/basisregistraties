@@ -1509,7 +1509,6 @@ Nijverheidspad,8,,,8321DV,Urk,Urk,Flevoland,VBO,5.608045,52.658623
 Nijverheidspad,10,,,8321DV,Urk,Urk,Flevoland,VBO,5.608061,52.658521
 Ambachtsweg,4,,,8321DW,Urk,Urk,Flevoland,VBO,5.605420,52.659648
 Ambachtsweg,5,,,8321DW,Urk,Urk,Flevoland,VBO,5.605911,52.659740
-Ambachtsweg,6,a,,8321DW,Urk,Urk,Flevoland,VBO,5.605029,52.659471
 Ambachtsweg,6,,,8321DW,Urk,Urk,Flevoland,VBO,5.605424,52.659470
 Ambachtsweg,7,a,,8321DW,Urk,Urk,Flevoland,VBO,5.606260,52.659557
 Ambachtsweg,7,b,,8321DW,Urk,Urk,Flevoland,VBO,5.605851,52.659404
@@ -1876,6 +1875,7 @@ Wijk 2,69,a,,8321ES,Urk,Urk,Flevoland,VBO,5.597213,52.661667
 Wijk 2,69,,,8321ES,Urk,Urk,Flevoland,VBO,5.597223,52.661614
 Wijk 2,70,,,8321ES,Urk,Urk,Flevoland,VBO,5.597144,52.661638
 Wijk 2,71,,,8321ET,Urk,Urk,Flevoland,VBO,5.597068,52.661640
+Wijk 2,72,a,,8321ET,Urk,Urk,Flevoland,VBO,5.596978,52.661700
 Wijk 2,72,,,8321ET,Urk,Urk,Flevoland,VBO,5.596973,52.661645
 Wijk 2,73,a,,8321ET,Urk,Urk,Flevoland,VBO,5.596879,52.661662
 Wijk 2,73,,,8321ET,Urk,Urk,Flevoland,VBO,5.596879,52.661621
@@ -2005,7 +2005,7 @@ Wijk 3,87,,,8321GB,Urk,Urk,Flevoland,VBO,5.592253,52.661576
 Wijk 3,88,,,8321GB,Urk,Urk,Flevoland,VBO,5.592495,52.661576
 Wijk 3,89,,,8321GB,Urk,Urk,Flevoland,VBO,5.592294,52.661659
 Wijk 3,90,,,8321GB,Urk,Urk,Flevoland,VBO,5.592578,52.661644
-Wijk 3,91,,,8321GB,Urk,Urk,Flevoland,VBO,5.592330,52.661752
+Wijk 3,91,,,8321GB,Urk,Urk,Flevoland,VBO,5.592322,52.661770
 Wijk 3,92,,,8321GB,Urk,Urk,Flevoland,VBO,5.592584,52.661758
 Wijk 3,93,a,,8321GB,Urk,Urk,Flevoland,VBO,5.592373,52.661856
 Wijk 3,93,b,,8321GB,Urk,Urk,Flevoland,VBO,5.592401,52.661912
@@ -2307,6 +2307,8 @@ Arubastraat,25,,,8321GX,Urk,Urk,Flevoland,VBO,5.597913,52.664943
 Arubastraat,27,,,8321GX,Urk,Urk,Flevoland,VBO,5.597927,52.664889
 Arubastraat,29,,,8321GX,Urk,Urk,Flevoland,VBO,5.597937,52.664836
 Arubastraat,31,,,8321GX,Urk,Urk,Flevoland,VBO,5.597948,52.664781
+Arubastraat,33,z,,8321GX,Urk,Urk,Flevoland,VBO,5.597932,52.664718
+Arubastraat,33,,,8321GX,Urk,Urk,Flevoland,VBO,5.597937,52.664693
 Arubastraat,33,,,8321GX,Urk,Urk,Flevoland,VBO,5.597958,52.664722
 Arubastraat,35,,,8321GX,Urk,Urk,Flevoland,VBO,5.597961,52.664678
 Arubastraat,2,,,8321GZ,Urk,Urk,Flevoland,VBO,5.597474,52.665598
@@ -2667,7 +2669,8 @@ Almerelaan,12,,,8321JB,Urk,Urk,Flevoland,VBO,5.598044,52.665819
 Almerelaan,14,,,8321JB,Urk,Urk,Flevoland,VBO,5.598261,52.665802
 Almerelaan,16,,,8321JB,Urk,Urk,Flevoland,VBO,5.599626,52.665686
 Almerelaan,18,,,8321JB,Urk,Urk,Flevoland,VBO,5.600058,52.665863
-Almerelaan,20,,,8321JB,Urk,Urk,Flevoland,VBO,5.600357,52.665908
+Almerelaan,20,a,,8321JB,Urk,Urk,Flevoland,VBO,5.600290,52.665907
+Almerelaan,20,,,8321JB,Urk,Urk,Flevoland,VBO,5.600443,52.665911
 Almerelaan,22,,,8321JB,Urk,Urk,Flevoland,VBO,5.600873,52.665793
 Zuiderzand,1,a,,8321JC,Urk,Urk,Flevoland,VBO,5.598213,52.665686
 Zuiderzand,1,,,8321JC,Urk,Urk,Flevoland,VBO,5.598294,52.665642
@@ -3509,16 +3512,22 @@ De Riepel,10,d,,8321MR,Urk,Urk,Flevoland,VBO,5.630690,52.653919
 Het Scheer,1,,,8321MS,Urk,Urk,Flevoland,VBO,5.631778,52.655532
 Het Scheer,3,,,8321MS,Urk,Urk,Flevoland,VBO,5.632352,52.655548
 Het Scheer,4,,,8321MS,Urk,Urk,Flevoland,VBO,5.632878,52.655107
+De Meer,4,,,8321MT,Urk,Urk,Flevoland,VBO,5.634507,52.655797
 De Meer,9,,,8321MT,Urk,Urk,Flevoland,VBO,5.635382,52.655359
 De Meer,10,,,8321MT,Urk,Urk,Flevoland,VBO,5.634449,52.654391
 De Meer,11,a,,8321MT,Urk,Urk,Flevoland,VBO,5.635643,52.655095
 De Meer,11,,,8321MT,Urk,Urk,Flevoland,VBO,5.635364,52.655095
+De Meer,15,a,,8321MT,Urk,Urk,Flevoland,VBO,5.635277,52.654644
+De Meer,15,b,,8321MT,Urk,Urk,Flevoland,VBO,5.635275,52.654502
+De Meer,15,c,,8321MT,Urk,Urk,Flevoland,VBO,5.635266,52.654355
 De Meer,17,,,8321MT,Urk,Urk,Flevoland,VBO,5.635263,52.654201
 Malzwin,1,,,8321MX,Urk,Urk,Flevoland,VBO,5.635393,52.652266
 Malzwin,2,,,8321MX,Urk,Urk,Flevoland,VBO,5.635327,52.653293
 Malzwin,3,,,8321MX,Urk,Urk,Flevoland,VBO,5.635082,52.652312
 Malzwin,5,,,8321MX,Urk,Urk,Flevoland,VBO,5.634851,52.652314
+Malzwin,15,,,8321MX,Urk,Urk,Flevoland,VBO,5.633156,52.651081
 Malzwin,20,,,8321MX,Urk,Urk,Flevoland,VBO,5.632304,52.650774
+De Pan,4,,,8321MZ,Urk,Urk,Flevoland,VBO,5.634565,52.651736
 De Pan,6,,,8321MZ,Urk,Urk,Flevoland,VBO,5.635036,52.651818
 Staartweg,16,b,,8321NB,Urk,Urk,Flevoland,VBO,5.617627,52.671310
 Staartweg,16,,,8321NB,Urk,Urk,Flevoland,VBO,5.619130,52.671189
@@ -4044,6 +4053,8 @@ Harderbank,33,,,8321RS,Urk,Urk,Flevoland,VBO,5.619411,52.664267
 Harderbank,35,,,8321RS,Urk,Urk,Flevoland,VBO,5.619435,52.664225
 Ankerplaats,2,,k013,8321RT,Urk,Urk,Flevoland,VBO,5.621714,52.663484
 Ankerplaats,2,,k014,8321RT,Urk,Urk,Flevoland,VBO,5.621715,52.663527
+Ankerplaats,2,,k015,8321RT,Urk,Urk,Flevoland,VBO,5.621746,52.663581
+Ankerplaats,2,,k016,8321RT,Urk,Urk,Flevoland,VBO,5.621747,52.663624
 Ankerplaats,2,,k018,8321RT,Urk,Urk,Flevoland,VBO,5.621719,52.663657
 Ankerplaats,2,,k019,8321RT,Urk,Urk,Flevoland,VBO,5.621720,52.663700
 Ankerplaats,2,,k101,8321RT,Urk,Urk,Flevoland,VBO,5.621848,52.663797
@@ -4071,13 +4082,8 @@ Ankerplaats,2,,k122,8321RT,Urk,Urk,Flevoland,VBO,5.621731,52.664149
 Ankerplaats,2,,k123,8321RT,Urk,Urk,Flevoland,VBO,5.621733,52.664192
 Ankerplaats,2,,k124,8321RT,Urk,Urk,Flevoland,VBO,5.621859,52.664190
 Ankerplaats,2,,k125,8321RT,Urk,Urk,Flevoland,VBO,5.621857,52.664147
-Ankerplaats,2,,k126,8321RT,Urk,Urk,Flevoland,VBO,5.621855,52.664070
 Ankerplaats,2,,k127,8321RT,Urk,Urk,Flevoland,VBO,5.621916,52.664018
 Ankerplaats,2,,k128,8321RT,Urk,Urk,Flevoland,VBO,5.621915,52.663975
-Ankerplaats,2,,k201,8321RT,Urk,Urk,Flevoland,VBO,5.621848,52.663808
-Ankerplaats,2,,k202,8321RT,Urk,Urk,Flevoland,VBO,5.621847,52.663765
-Ankerplaats,2,,k203,8321RT,Urk,Urk,Flevoland,VBO,5.621845,52.663721
-Ankerplaats,2,,k204,8321RT,Urk,Urk,Flevoland,VBO,5.621844,52.663678
 Ankerplaats,2,,k205,8321RT,Urk,Urk,Flevoland,VBO,5.621843,52.663635
 Ankerplaats,2,,k206,8321RT,Urk,Urk,Flevoland,VBO,5.621842,52.663592
 Ankerplaats,2,,k207,8321RT,Urk,Urk,Flevoland,VBO,5.621840,52.663549
@@ -4088,7 +4094,6 @@ Ankerplaats,2,,k211,8321RT,Urk,Urk,Flevoland,VBO,5.621717,52.663593
 Ankerplaats,2,,k212,8321RT,Urk,Urk,Flevoland,VBO,5.621718,52.663636
 Ankerplaats,2,,k213,8321RT,Urk,Urk,Flevoland,VBO,5.621719,52.663679
 Ankerplaats,2,,k214,8321RT,Urk,Urk,Flevoland,VBO,5.621721,52.663723
-Ankerplaats,2,,k215,8321RT,Urk,Urk,Flevoland,VBO,5.621722,52.663775
 Ankerplaats,2,,k216,8321RT,Urk,Urk,Flevoland,VBO,5.621675,52.663858
 Ankerplaats,2,,k217,8321RT,Urk,Urk,Flevoland,VBO,5.621676,52.663901
 Ankerplaats,2,,k218,8321RT,Urk,Urk,Flevoland,VBO,5.621677,52.663944
@@ -4099,7 +4104,6 @@ Ankerplaats,2,,k222,8321RT,Urk,Urk,Flevoland,VBO,5.621732,52.664159
 Ankerplaats,2,,k223,8321RT,Urk,Urk,Flevoland,VBO,5.621733,52.664202
 Ankerplaats,2,,k224,8321RT,Urk,Urk,Flevoland,VBO,5.621859,52.664201
 Ankerplaats,2,,k225,8321RT,Urk,Urk,Flevoland,VBO,5.621858,52.664158
-Ankerplaats,2,,k226,8321RT,Urk,Urk,Flevoland,VBO,5.621855,52.664080
 Ankerplaats,2,,k227,8321RT,Urk,Urk,Flevoland,VBO,5.621916,52.664028
 Ankerplaats,2,,k228,8321RT,Urk,Urk,Flevoland,VBO,5.621915,52.663985
 Ankerplaats,2,,,8321RT,Urk,Urk,Flevoland,VBO,5.621919,52.663708
@@ -4513,7 +4517,7 @@ Wijk 7,125,,,8321TD,Urk,Urk,Flevoland,VBO,5.601195,52.661601
 Wijk 7,126,,,8321TE,Urk,Urk,Flevoland,VBO,5.601241,52.661556
 Wijk 7,127,,,8321TE,Urk,Urk,Flevoland,VBO,5.601284,52.661510
 Wijk 7,128,,,8321TE,Urk,Urk,Flevoland,VBO,5.601333,52.661465
-Wijk 7,129,a,,8321TE,Urk,Urk,Flevoland,VBO,5.601600,52.661307
+Wijk 7,129,a,,8321TE,Urk,Urk,Flevoland,VBO,5.601470,52.661258
 Wijk 7,129,,,8321TE,Urk,Urk,Flevoland,VBO,5.601566,52.661252
 Wijk 7,130,,,8321TE,Urk,Urk,Flevoland,VBO,5.601725,52.661374
 Wijk 7,131,a,,8321TE,Urk,Urk,Flevoland,VBO,5.601858,52.661311
@@ -4959,12 +4963,13 @@ Breehorn,7,b,,8321WP,Urk,Urk,Flevoland,VBO,5.624908,52.651604
 Breehorn,7,c,,8321WP,Urk,Urk,Flevoland,VBO,5.625056,52.651603
 Breehorn,7,,,8321WP,Urk,Urk,Flevoland,VBO,5.624889,52.651769
 Breehorn,8,a,,8321WP,Urk,Urk,Flevoland,VBO,5.623954,52.652159
-Breehorn,8,b,,8321WP,Urk,Urk,Flevoland,VBO,5.623956,52.652243
-Breehorn,8,c,,8321WP,Urk,Urk,Flevoland,VBO,5.623760,52.652244
-Breehorn,8,d,,8321WP,Urk,Urk,Flevoland,VBO,5.623647,52.652245
-Breehorn,8,e,,8321WP,Urk,Urk,Flevoland,VBO,5.623538,52.652246
-Breehorn,8,f,,8321WP,Urk,Urk,Flevoland,VBO,5.623417,52.652247
-Breehorn,8,g,,8321WP,Urk,Urk,Flevoland,VBO,5.623311,52.652247
+Breehorn,8,b,,8321WP,Urk,Urk,Flevoland,VBO,5.623956,52.652213
+Breehorn,8,c,,8321WP,Urk,Urk,Flevoland,VBO,5.623857,52.652214
+Breehorn,8,d,,8321WP,Urk,Urk,Flevoland,VBO,5.623745,52.652215
+Breehorn,8,e,,8321WP,Urk,Urk,Flevoland,VBO,5.623635,52.652215
+Breehorn,8,f,,8321WP,Urk,Urk,Flevoland,VBO,5.623514,52.652216
+Breehorn,8,g,,8321WP,Urk,Urk,Flevoland,VBO,5.623409,52.652217
+Breehorn,8,h,,8321WP,Urk,Urk,Flevoland,VBO,5.623311,52.652217
 Breehorn,9,,,8321WP,Urk,Urk,Flevoland,VBO,5.624887,52.651441
 Breehorn,10,,,8321WP,Urk,Urk,Flevoland,VBO,5.623997,52.651903
 Breehorn,12,,,8321WP,Urk,Urk,Flevoland,VBO,5.623989,52.651629
