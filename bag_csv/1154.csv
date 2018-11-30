@@ -1,7 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Bijenven,1,,,1154PM,Uitdam,Waterland,Noord-Holland,VBO,5.072621,52.420953
 Bijenven,2,,,1154PM,Uitdam,Waterland,Noord-Holland,VBO,5.072704,52.421198
-Bijenven,3,,,1154PM,Uitdam,Waterland,Noord-Holland,VBO,5.072437,52.420986
+Bijenven,3,,,1154PM,Uitdam,Waterland,Noord-Holland,VBO,5.072438,52.420986
 Bijenven,4,,,1154PM,Uitdam,Waterland,Noord-Holland,VBO,5.072493,52.421218
 Bijenven,5,,,1154PM,Uitdam,Waterland,Noord-Holland,VBO,5.072204,52.421048
 Bijenven,6,,,1154PM,Uitdam,Waterland,Noord-Holland,VBO,5.072279,52.421223
@@ -15,6 +15,7 @@ Rijperweg,10,,,1154PN,Uitdam,Waterland,Noord-Holland,VBO,5.053925,52.420840
 Zeedijk,1,,,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072544,52.422056
 Zeedijk,2,C,,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074067,52.428134
 Zeedijk,2,D,,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074200,52.428292
+Zeedijk,2,E,,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074136,52.428661
 Zeedijk,2,H,,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077089,52.427794
 Zeedijk,2,K,,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.079757,52.430328
 Zeedijk,2,,150,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074496,52.428466
@@ -24,8 +25,108 @@ Zeedijk,2,,156,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074589,52.428654
 Zeedijk,2,,158,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074636,52.428698
 Zeedijk,2,,160,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074660,52.428747
 Zeedijk,2,,162,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074683,52.428782
-Zeedijk,2,,164,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074687,52.428816
+Zeedijk,2,,164,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074688,52.428816
 Zeedijk,2,,166,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074744,52.428819
+Zeedijk,2,,200,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074973,52.428789
+Zeedijk,2,,201,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075034,52.428825
+Zeedijk,2,,202,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075054,52.428775
+Zeedijk,2,,203,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075150,52.428806
+Zeedijk,2,,204,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075134,52.428762
+Zeedijk,2,,205,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075228,52.428793
+Zeedijk,2,,206,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075210,52.428749
+Zeedijk,2,,207,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075310,52.428779
+Zeedijk,2,,208,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075289,52.428736
+Zeedijk,2,,209,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075387,52.428766
+Zeedijk,2,,210,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075367,52.428723
+Zeedijk,2,,211,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075467,52.428752
+Zeedijk,2,,212,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075447,52.428709
+Zeedijk,2,,213,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075546,52.428739
+Zeedijk,2,,214,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075529,52.428695
+Zeedijk,2,,215,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075632,52.428725
+Zeedijk,2,,216,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075608,52.428682
+Zeedijk,2,,217,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075009,52.428874
+Zeedijk,2,,219,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075090,52.428860
+Zeedijk,2,,221,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075211,52.428839
+Zeedijk,2,,223,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075370,52.428813
+Zeedijk,2,,225,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075529,52.428786
+Zeedijk,2,,227,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075649,52.428766
+Zeedijk,2,,301,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073084,52.428662
+Zeedijk,2,,303,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073163,52.428765
+Zeedijk,2,,305,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073231,52.428838
+Zeedijk,2,,307,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073306,52.428916
+Zeedijk,2,,309,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073393,52.428991
+Zeedijk,2,,311,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073493,52.429067
+Zeedijk,2,,313,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073554,52.429107
+Zeedijk,2,,315,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073331,52.429232
+Zeedijk,2,,317,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073210,52.429330
+Zeedijk,2,,319,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072849,52.428824
+Zeedijk,2,,321,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072774,52.428854
+Zeedijk,2,,323,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072541,52.428894
+Zeedijk,2,,325,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072636,52.429023
+Zeedijk,2,,327,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072691,52.429131
+Zeedijk,2,,329,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072763,52.429209
+Zeedijk,2,,331,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072849,52.429295
+Zeedijk,2,,333,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.072936,52.429401
+Zeedijk,2,,335,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073049,52.429505
+Zeedijk,2,,337,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073193,52.429646
+Zeedijk,2,,339,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073391,52.429617
+Zeedijk,2,,341,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073498,52.429485
+Zeedijk,2,,343,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073616,52.429381
+Zeedijk,2,,345,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073752,52.429222
+Zeedijk,2,,347,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073920,52.429282
+Zeedijk,2,,349,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074075,52.429335
+Zeedijk,2,,351,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074233,52.429373
+Zeedijk,2,,353,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074451,52.429410
+Zeedijk,2,,355,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074590,52.429440
+Zeedijk,2,,357,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074779,52.429426
+Zeedijk,2,,359,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074938,52.429413
+Zeedijk,2,,361,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075117,52.429379
+Zeedijk,2,,363,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075200,52.429358
+Zeedijk,2,,365,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075381,52.429335
+Zeedijk,2,,367,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075564,52.429221
+Zeedijk,2,,369,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075656,52.429150
+Zeedijk,2,,371,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075755,52.429076
+Zeedijk,2,,373,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075890,52.428997
+Zeedijk,2,,400,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076044,52.429435
+Zeedijk,2,,401,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077490,52.430520
+Zeedijk,2,,402,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076218,52.429526
+Zeedijk,2,,403,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077303,52.430437
+Zeedijk,2,,404,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076349,52.429581
+Zeedijk,2,,405,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076731,52.430121
+Zeedijk,2,,406,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076494,52.429675
+Zeedijk,2,,407,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076613,52.430049
+Zeedijk,2,,408,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076615,52.429740
+Zeedijk,2,,410,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076755,52.429817
+Zeedijk,2,,412,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076875,52.429891
+Zeedijk,2,,414,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076998,52.429952
+Zeedijk,2,,416,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077138,52.430021
+Zeedijk,2,,418,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077247,52.430104
+Zeedijk,2,,420,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077392,52.430180
+Zeedijk,2,,422,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077534,52.430251
+Zeedijk,2,,424,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077647,52.430302
+Zeedijk,2,,426,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077770,52.430395
+Zeedijk,2,,428,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077899,52.430464
+Zeedijk,2,,430,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.078147,52.430513
+Zeedijk,2,,432,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.078381,52.430516
+Zeedijk,2,,434,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.078552,52.430679
+Zeedijk,2,,436,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.078327,52.430700
+Zeedijk,2,,438,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.078117,52.430718
+Zeedijk,2,,440,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077932,52.430736
+Zeedijk,2,,442,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077757,52.430745
+Zeedijk,2,,444,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077580,52.430739
+Zeedijk,2,,446,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077373,52.430720
+Zeedijk,2,,448,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.077186,52.430690
+Zeedijk,2,,450,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076990,52.430574
+Zeedijk,2,,452,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076858,52.430488
+Zeedijk,2,,454,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076736,52.430428
+Zeedijk,2,,456,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076641,52.430364
+Zeedijk,2,,458,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076510,52.430269
+Zeedijk,2,,460,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076396,52.430198
+Zeedijk,2,,462,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076322,52.430117
+Zeedijk,2,,464,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076262,52.430024
+Zeedijk,2,,466,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076174,52.429910
+Zeedijk,2,,468,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076103,52.429799
+Zeedijk,2,,470,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.075989,52.429690
 Zeedijk,2,,500,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076908,52.430942
 Zeedijk,2,,501,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076592,52.430877
 Zeedijk,2,,502,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.076752,52.431027
@@ -71,10 +172,10 @@ Zeedijk,2,,607,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074691,52.430449
 Zeedijk,2,,609,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074532,52.430358
 Zeedijk,2,,611,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074434,52.430264
 Zeedijk,2,,613,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074356,52.430153
-Zeedijk,2,,615,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074356,52.430046
-Zeedijk,2,,617,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074420,52.429944
-Zeedijk,2,,619,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074499,52.429820
-Zeedijk,2,,621,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074306,52.429772
+Zeedijk,2,,615,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074357,52.430046
+Zeedijk,2,,617,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074421,52.429944
+Zeedijk,2,,619,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074500,52.429820
+Zeedijk,2,,621,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074307,52.429772
 Zeedijk,2,,623,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.074091,52.429751
 Zeedijk,2,,625,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073880,52.429741
 Zeedijk,2,,627,1154PP,Uitdam,Waterland,Noord-Holland,VBO,5.073803,52.429873
@@ -103,34 +204,34 @@ Uitdammer Dorpsstraat,13,,,1154PR,Uitdam,Waterland,Noord-Holland,VBO,5.071376,52
 Uitdammer Dorpsstraat,14,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.071643,52.420574
 Uitdammer Dorpsstraat,15,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.071276,52.419486
 Uitdammer Dorpsstraat,16,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.071213,52.419896
-Uitdammer Dorpsstraat,17,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.071191,52.419448
+Uitdammer Dorpsstraat,17,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.071192,52.419448
 Uitdammer Dorpsstraat,18,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070477,52.419498
 Uitdammer Dorpsstraat,19,A,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070846,52.419259
-Uitdammer Dorpsstraat,19,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.071045,52.419386
+Uitdammer Dorpsstraat,19,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.071046,52.419386
 Uitdammer Dorpsstraat,20,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070315,52.419121
 Uitdammer Dorpsstraat,21,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070672,52.419185
-Uitdammer Dorpsstraat,22,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070071,52.419077
+Uitdammer Dorpsstraat,22,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070072,52.419077
 Uitdammer Dorpsstraat,23,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070656,52.419074
-Uitdammer Dorpsstraat,24,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069895,52.419046
+Uitdammer Dorpsstraat,24,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069896,52.419046
 Uitdammer Dorpsstraat,25,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070535,52.419019
 Uitdammer Dorpsstraat,27,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070363,52.418905
-Uitdammer Dorpsstraat,29,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070374,52.418803
+Uitdammer Dorpsstraat,29,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.070321,52.418802
 Uitdammer Dorpsstraat,31,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069998,52.418778
 Uitdammer Dorpsstraat,33,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069922,52.418609
-Uitdammer Dorpsstraat,35,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069753,52.418507
+Uitdammer Dorpsstraat,35,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069754,52.418507
 Uitdammer Dorpsstraat,37,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069720,52.418371
 Uitdammer Dorpsstraat,39,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069516,52.418324
-Uitdammer Dorpsstraat,41,A,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069285,52.418165
+Uitdammer Dorpsstraat,41,A,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069286,52.418165
 Uitdammer Dorpsstraat,41,,,1154PS,Uitdam,Waterland,Noord-Holland,VBO,5.069377,52.418221
 Uitdammer Dorpsstraat,40,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068885,52.418270
-Uitdammer Dorpsstraat,43,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.069060,52.417994
+Uitdammer Dorpsstraat,43,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.069061,52.417994
 Uitdammer Dorpsstraat,44,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068538,52.418120
 Uitdammer Dorpsstraat,45,A,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068658,52.417884
 Uitdammer Dorpsstraat,45,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068844,52.417947
 Uitdammer Dorpsstraat,47,A,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068542,52.417644
-Uitdammer Dorpsstraat,47,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068761,52.417752
+Uitdammer Dorpsstraat,47,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068762,52.417752
 Uitdammer Dorpsstraat,49,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068371,52.417641
-Uitdammer Dorpsstraat,51,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068359,52.417531
+Uitdammer Dorpsstraat,51,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068360,52.417531
 Uitdammer Dorpsstraat,53,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068299,52.417475
 Uitdammer Dorpsstraat,55,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068073,52.417355
 Uitdammer Dorpsstraat,57,,,1154PT,Uitdam,Waterland,Noord-Holland,VBO,5.068027,52.417238
@@ -139,4 +240,4 @@ Het Schoolplein,6,,,1154PV,Uitdam,Waterland,Noord-Holland,VBO,5.072445,52.421588
 Het Schoolplein,8,,,1154PV,Uitdam,Waterland,Noord-Holland,VBO,5.072355,52.421591
 Het Schoolplein,10,,,1154PV,Uitdam,Waterland,Noord-Holland,VBO,5.072478,52.421485
 Het Schoolplein,12,,,1154PV,Uitdam,Waterland,Noord-Holland,VBO,5.072622,52.421494
-Waterlandse Zeedijk,7,,,1154PW,Uitdam,Waterland,Noord-Holland,VBO,5.072179,52.436581
+Waterlandse Zeedijk,7,,,1154PW,Uitdam,Waterland,Noord-Holland,VBO,5.072179,52.436582

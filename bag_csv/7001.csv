@@ -1,9 +1,11 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Plantsoenstraat,1,A,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.290779,51.966357
+Plantsoenstraat,1,A,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.290833,51.966350
 Plantsoenstraat,1,,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.290888,51.966380
 Plantsoenstraat,2,,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.290223,51.966271
 Plantsoenstraat,3,,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.290549,51.966448
-Plantsoenstraat,4,,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.289867,51.966789
+Plantsoenstraat,4,,01,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.289833,51.966752
+Plantsoenstraat,4,,02,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.289901,51.966815
 Plantsoenstraat,5,,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.290549,51.966448
 Plantsoenstraat,7,,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.290549,51.966448
 Plantsoenstraat,9,,,7001AA,Doetinchem,Doetinchem,Gelderland,VBO,6.290549,51.966448
@@ -44,6 +46,8 @@ Plantsoenstraat,81,,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.291826,51.965
 Plantsoenstraat,83,,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.291894,51.965782
 Plantsoenstraat,85,,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.292007,51.965704
 Plantsoenstraat,87,,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.292086,51.965637
+Plantsoenstraat,89,A,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.292358,51.965601
+Plantsoenstraat,89,,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.292310,51.965477
 Plantsoenstraat,89,,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.292310,51.965493
 Plantsoenstraat,91,A,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.292539,51.965368
 Plantsoenstraat,91,B,,7001AB,Doetinchem,Doetinchem,Gelderland,VBO,6.292581,51.965389
@@ -70,13 +74,14 @@ Nieuwstad,9,,12,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.291733,51.964238
 Nieuwstad,11,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.291633,51.964329
 Nieuwstad,13,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.291578,51.964391
 Nieuwstad,15,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.291502,51.964660
-Nieuwstad,19,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.291538,51.965067
+Nieuwstad,19,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.291539,51.965067
+Nieuwstad,45,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290265,51.964885
 Nieuwstad,45,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290345,51.964931
-Nieuwstad,55,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290009,51.965106
+Nieuwstad,55,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.289940,51.965080
 Nieuwstad,57,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290855,51.965608
 Nieuwstad,59,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290734,51.965709
 Nieuwstad,61,A,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.289761,51.966073
-Nieuwstad,61,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290220,51.966060
+Nieuwstad,61,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290221,51.966060
 Nieuwstad,63,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.289687,51.966106
 Nieuwstad,67,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.289877,51.966212
 Nieuwstad,69,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290003,51.966140
@@ -84,7 +89,7 @@ Nieuwstad,71,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.290077,51.966161
 Nieuwstad,73,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.289980,51.966209
 Nieuwstad,75,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.289880,51.966248
 Nieuwstad,77,,,7001AC,Doetinchem,Doetinchem,Gelderland,VBO,6.289821,51.966270
-Nieuwstad,76,,,7001AE,Doetinchem,Doetinchem,Gelderland,VBO,6.290335,51.966116
+Nieuwstad,76,,,7001AE,Doetinchem,Doetinchem,Gelderland,VBO,6.290336,51.966116
 Nieuwstad,78,,,7001AE,Doetinchem,Doetinchem,Gelderland,VBO,6.290204,51.966194
 Nieuwstad,80,,,7001AE,Doetinchem,Doetinchem,Gelderland,VBO,6.290103,51.966246
 Nieuwstad,82,,,7001AE,Doetinchem,Doetinchem,Gelderland,VBO,6.289929,51.966317
@@ -92,7 +97,7 @@ Synagogestraat,1,,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.290830,51.96426
 Synagogestraat,4,A,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.290982,51.964224
 Synagogestraat,4,,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.290862,51.964192
 Synagogestraat,6,,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.291445,51.964398
-Synagogestraat,9,A,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.291187,51.964401
+Synagogestraat,9,A,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.291188,51.964401
 Synagogestraat,9,B,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.291267,51.964424
 Synagogestraat,9,C,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.291321,51.964453
 Synagogestraat,9,,,7001AG,Doetinchem,Doetinchem,Gelderland,VBO,6.291137,51.964383
@@ -102,7 +107,7 @@ Hamburgerstraat,3,,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.289523,51.9653
 Hamburgerstraat,15,A,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.289673,51.965191
 Hamburgerstraat,15,,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.289607,51.965259
 Hamburgerstraat,17,,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.289726,51.965141
-Hamburgerstraat,19,,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.289773,51.965095
+Hamburgerstraat,19,,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.289774,51.965095
 Hamburgerstraat,21,,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.289816,51.965052
 Hamburgerstraat,23,,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.289864,51.965002
 Hamburgerstraat,29,,,7001AH,Doetinchem,Doetinchem,Gelderland,VBO,6.290037,51.964821
@@ -144,7 +149,7 @@ Hamburgerstraat,34,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290033,51.964
 Hamburgerstraat,36,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290077,51.964470
 Hamburgerstraat,38,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290124,51.964421
 Hamburgerstraat,40,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290177,51.964365
-Hamburgerstraat,42,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290235,51.964295
+Hamburgerstraat,42,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290242,51.964306
 Hamburgerstraat,46,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290322,51.964208
 Hamburgerstraat,48,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290419,51.964086
 Hamburgerstraat,50,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290478,51.964020
@@ -153,11 +158,12 @@ Hamburgerstraat,58,,,7001AL,Doetinchem,Doetinchem,Gelderland,VBO,6.290772,51.963
 Hoopensteeg,1,,,7001AM,Doetinchem,Doetinchem,Gelderland,VBO,6.289796,51.964675
 Hoopensteeg,3,,,7001AM,Doetinchem,Doetinchem,Gelderland,VBO,6.289680,51.964521
 Hoopensteeg,8,,,7001AM,Doetinchem,Doetinchem,Gelderland,VBO,6.289308,51.964542
+Hoopensteeg,13,,,7001AM,Doetinchem,Doetinchem,Gelderland,VBO,6.289904,51.964257
 IJsselkade,1,,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.290650,51.963393
 IJsselkade,3,A,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.290404,51.963328
 IJsselkade,3,B,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.290306,51.963304
 IJsselkade,3,,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.290496,51.963352
-IJsselkade,5,,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.290370,51.963112
+IJsselkade,5,,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.290371,51.963112
 IJsselkade,7,A,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.290041,51.963237
 IJsselkade,7,,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.290110,51.963254
 IJsselkade,9,A,,7001AN,Doetinchem,Doetinchem,Gelderland,VBO,6.289697,51.963150
@@ -190,19 +196,23 @@ IJsselkade,14,,,7001AP,Doetinchem,Doetinchem,Gelderland,VBO,6.289807,51.963392
 IJsselkade,20,,,7001AP,Doetinchem,Doetinchem,Gelderland,VBO,6.289585,51.963388
 IJsselkade,22,A,,7001AP,Doetinchem,Doetinchem,Gelderland,VBO,6.289281,51.963357
 IJsselkade,22,,,7001AP,Doetinchem,Doetinchem,Gelderland,VBO,6.289229,51.963358
-IJsselkade,30,,,7001AP,Doetinchem,Doetinchem,Gelderland,VBO,6.288559,51.963205
-Adelaarstraat,2,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289714,51.963860
+IJsselkade,30,,,7001AP,Doetinchem,Doetinchem,Gelderland,VBO,6.288560,51.963205
+Adelaarstraat,2,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289715,51.963860
+Adelaarstraat,2,B,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289592,51.963815
+Adelaarstraat,2,C,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289617,51.963778
+Adelaarstraat,2,D,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289567,51.963824
+Adelaarstraat,2,E,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289517,51.963797
 Adelaarstraat,2,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289753,51.963859
-Adelaarstraat,3,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289948,51.963869
+Adelaarstraat,3,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289949,51.963869
 Adelaarstraat,4,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289577,51.963797
 Adelaarstraat,4,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289778,51.963799
-Adelaarstraat,5,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289948,51.963869
-Adelaarstraat,5,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289948,51.963869
+Adelaarstraat,5,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289949,51.963869
+Adelaarstraat,5,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289949,51.963869
 Adelaarstraat,6,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289763,51.963748
 Adelaarstraat,6,B,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289732,51.963743
 Adelaarstraat,6,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289801,51.963748
-Adelaarstraat,7,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289948,51.963869
-Adelaarstraat,7,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289948,51.963869
+Adelaarstraat,7,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289949,51.963869
+Adelaarstraat,7,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289949,51.963869
 Adelaarstraat,8,A,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289783,51.963701
 Adelaarstraat,8,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289821,51.963700
 Adelaarstraat,9,,,7001AR,Doetinchem,Doetinchem,Gelderland,VBO,6.289960,51.963859
@@ -221,10 +231,11 @@ Hooge Molenstraat,17,,,7001AS,Doetinchem,Doetinchem,Gelderland,VBO,6.290560,51.9
 Hooge Molenstraat,19,,,7001AS,Doetinchem,Doetinchem,Gelderland,VBO,6.290560,51.963824
 Hooge Molenstraat,21,,,7001AS,Doetinchem,Doetinchem,Gelderland,VBO,6.290560,51.963824
 Hooge Molenstraat,23,,,7001AS,Doetinchem,Doetinchem,Gelderland,VBO,6.290560,51.963824
+Hooge Molenstraat,25,,,7001AS,Doetinchem,Doetinchem,Gelderland,VBO,6.289463,51.963532
 Hooge Molenstraat,2,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.290484,51.963892
-Hooge Molenstraat,6,A,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.290319,51.963925
+Hooge Molenstraat,6,A,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.290320,51.963925
 Hooge Molenstraat,6,B,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.290086,51.963932
-Hooge Molenstraat,6,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.290376,51.963848
+Hooge Molenstraat,6,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.290377,51.963848
 Hooge Molenstraat,18,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289757,51.963667
 Hooge Molenstraat,20,A,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289660,51.963681
 Hooge Molenstraat,20,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289675,51.963647
@@ -234,7 +245,7 @@ Hooge Molenstraat,24,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289534,51.9
 Hooge Molenstraat,26,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289525,51.963638
 Hooge Molenstraat,28,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289418,51.963619
 Hooge Molenstraat,30,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289274,51.963623
-Hooge Molenstraat,32,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289501,51.963910
+Hooge Molenstraat,32,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289502,51.963910
 Hooge Molenstraat,34,,,7001AT,Doetinchem,Doetinchem,Gelderland,VBO,6.289435,51.963931
 Prinsenhof,1,,,7001AV,Doetinchem,Doetinchem,Gelderland,VBO,6.288727,51.963644
 Prinsenhof,2,,,7001AV,Doetinchem,Doetinchem,Gelderland,VBO,6.288537,51.963707
@@ -286,7 +297,7 @@ Prinsenhof,49,,,7001AV,Doetinchem,Doetinchem,Gelderland,VBO,6.288727,51.963644
 Prinsenhof,51,,,7001AV,Doetinchem,Doetinchem,Gelderland,VBO,6.288727,51.963644
 Prinsenhof,53,,,7001AV,Doetinchem,Doetinchem,Gelderland,VBO,6.288727,51.963644
 Prinsenhof,55,,,7001AV,Doetinchem,Doetinchem,Gelderland,VBO,6.288727,51.963644
-Gart Seevinckgang,1,,,7001AW,Doetinchem,Doetinchem,Gelderland,VBO,6.289292,51.964057
+Gart Seevinckgang,1,,,7001AW,Doetinchem,Doetinchem,Gelderland,VBO,6.289293,51.964057
 Gart Seevinckgang,2,,,7001AW,Doetinchem,Doetinchem,Gelderland,VBO,6.289125,51.964087
 Gart Seevinckgang,3,,,7001AW,Doetinchem,Doetinchem,Gelderland,VBO,6.289061,51.963924
 Gart Seevinckgang,4,,,7001AW,Doetinchem,Doetinchem,Gelderland,VBO,6.289125,51.964087
@@ -374,20 +385,20 @@ Gasthuisstraat,100,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.287609,51.964
 Gasthuisstraat,102,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.287609,51.964473
 Gasthuisstraat,104,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.287609,51.964473
 Gasthuisstraat,106,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.287609,51.964473
-Gasthuisstraat,108,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,110,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,112,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,114,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,116,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,118,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,120,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,122,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,124,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,126,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,128,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,130,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,132,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
-Gasthuisstraat,134,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288075,51.964110
+Gasthuisstraat,108,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,110,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,112,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,114,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,116,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,118,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,120,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,122,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,124,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,126,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,128,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,130,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,132,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
+Gasthuisstraat,134,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288076,51.964110
 Gasthuisstraat,136,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288420,51.963917
 Gasthuisstraat,138,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288420,51.963917
 Gasthuisstraat,140,,,7001AX,Doetinchem,Doetinchem,Gelderland,VBO,6.288420,51.963917
@@ -448,7 +459,8 @@ Boliestraat,33,C,02,7001BB,Doetinchem,Doetinchem,Gelderland,VBO,6.289407,51.9643
 Boliestraat,33,D,02,7001BB,Doetinchem,Doetinchem,Gelderland,VBO,6.289407,51.964381
 Boliestraat,35,,,7001BB,Doetinchem,Doetinchem,Gelderland,VBO,6.289486,51.964292
 Boliestraat,37,,,7001BB,Doetinchem,Doetinchem,Gelderland,VBO,6.289632,51.964208
-Boliestraat,39,,,7001BB,Doetinchem,Doetinchem,Gelderland,VBO,6.289694,51.964172
+Boliestraat,39,A,,7001BB,Doetinchem,Doetinchem,Gelderland,VBO,6.289692,51.964174
+Boliestraat,39,,,7001BB,Doetinchem,Doetinchem,Gelderland,VBO,6.289706,51.964152
 Boliestraat,43,,,7001BB,Doetinchem,Doetinchem,Gelderland,VBO,6.289830,51.964108
 Boliestraat,12,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.288591,51.964716
 Boliestraat,14,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.288636,51.964687
@@ -460,12 +472,12 @@ Boliestraat,22,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.288872,51.964541
 Boliestraat,24,A,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.288925,51.964467
 Boliestraat,24,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.288946,51.964481
 Boliestraat,26,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.289006,51.964440
-Boliestraat,32,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.289156,51.964340
+Boliestraat,32,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.289157,51.964340
 Boliestraat,34,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.289221,51.964297
 Boliestraat,36,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.289273,51.964263
 Boliestraat,38,,,7001BC,Doetinchem,Doetinchem,Gelderland,VBO,6.289327,51.964225
 Boliestraat,40,A,,7001BD,Doetinchem,Doetinchem,Gelderland,VBO,6.289547,51.964096
-Boliestraat,40,,,7001BD,Doetinchem,Doetinchem,Gelderland,VBO,6.289480,51.964133
+Boliestraat,40,,,7001BD,Doetinchem,Doetinchem,Gelderland,VBO,6.289481,51.964133
 Boliestraat,42,,,7001BD,Doetinchem,Doetinchem,Gelderland,VBO,6.289599,51.964064
 Boliestraat,44,,,7001BD,Doetinchem,Doetinchem,Gelderland,VBO,6.289650,51.964033
 Boliestraat,46,,,7001BD,Doetinchem,Doetinchem,Gelderland,VBO,6.289739,51.963976
@@ -475,7 +487,7 @@ Boliestraat,52,,,7001BD,Doetinchem,Doetinchem,Gelderland,VBO,6.289972,51.964005
 Boliestraat,56,,,7001BD,Doetinchem,Doetinchem,Gelderland,VBO,6.290138,51.964045
 Waterstraat,1,,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.288165,51.965087
 Waterstraat,3,A,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.287557,51.964848
-Waterstraat,3,,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.287834,51.964976
+Waterstraat,3,,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.287835,51.964976
 Waterstraat,5,A,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.287284,51.964734
 Waterstraat,5,,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.287241,51.964712
 Waterstraat,7,,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.287015,51.964621
@@ -494,9 +506,9 @@ Waterstraat,9,,10,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.286913,51.964552
 Waterstraat,9,,11,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.286913,51.964552
 Waterstraat,9,,12,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.286913,51.964552
 Waterstraat,9,,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.286778,51.964512
-Waterstraat,11,,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.286640,51.964451
-Waterstraat,4,A,,7001BH,Doetinchem,Doetinchem,Gelderland,VBO,6.287857,51.965216
-Waterstraat,4,,,7001BH,Doetinchem,Doetinchem,Gelderland,VBO,6.287889,51.965200
+Waterstraat,11,,,7001BG,Doetinchem,Doetinchem,Gelderland,VBO,6.286641,51.964451
+Waterstraat,4,A,,7001BH,Doetinchem,Doetinchem,Gelderland,VBO,6.287858,51.965216
+Waterstraat,4,,,7001BH,Doetinchem,Doetinchem,Gelderland,VBO,6.287890,51.965200
 Waterstraat,6,A,,7001BH,Doetinchem,Doetinchem,Gelderland,VBO,6.287780,51.965150
 Waterstraat,6,,,7001BH,Doetinchem,Doetinchem,Gelderland,VBO,6.287833,51.965174
 Waterstraat,8,A,,7001BH,Doetinchem,Doetinchem,Gelderland,VBO,6.287725,51.965142
@@ -536,8 +548,7 @@ Omdraai,7,,,7001BL,Doetinchem,Doetinchem,Gelderland,VBO,6.287961,51.965509
 Omdraai,9,,,7001BL,Doetinchem,Doetinchem,Gelderland,VBO,6.287999,51.965553
 Omdraai,11,,,7001BL,Doetinchem,Doetinchem,Gelderland,VBO,6.288058,51.965596
 Simonsplein,3,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.289215,51.965794
-Simonsplein,4,A,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.289338,51.965702
-Simonsplein,4,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.289288,51.965689
+Simonsplein,4,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.289288,51.965688
 Simonsplein,7,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.289079,51.965230
 Simonsplein,8,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288994,51.965196
 Simonsplein,9,B,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288936,51.965111
@@ -545,10 +556,10 @@ Simonsplein,9,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288949,51.965095
 Simonsplein,10,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288696,51.965083
 Simonsplein,11,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288571,51.965034
 Simonsplein,12,A,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288284,51.964991
-Simonsplein,12,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288349,51.964904
+Simonsplein,12,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288350,51.964904
 Simonsplein,13,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288165,51.965087
 Simonsplein,14,A,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.287979,51.965258
-Simonsplein,14,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288004,51.965247
+Simonsplein,14,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288005,51.965247
 Simonsplein,15,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288110,51.965333
 Simonsplein,16,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288137,51.965303
 Simonsplein,17,,,7001BM,Doetinchem,Doetinchem,Gelderland,VBO,6.288123,51.965318
@@ -592,9 +603,9 @@ Korte Heezenstraat,18,,,7001BN,Doetinchem,Doetinchem,Gelderland,VBO,6.289549,51.
 Heezenstraat,19,A,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289088,51.966043
 Heezenstraat,19,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289043,51.966019
 Heezenstraat,21,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289168,51.966083
-Heezenstraat,23,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289212,51.966106
+Heezenstraat,23,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289213,51.966106
 Heezenstraat,25,A,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289237,51.966161
-Heezenstraat,25,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289272,51.966137
+Heezenstraat,25,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289273,51.966137
 Heezenstraat,27,A,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289333,51.966206
 Heezenstraat,27,B,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289375,51.966222
 Heezenstraat,27,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289382,51.966193
@@ -602,11 +613,12 @@ Heezenstraat,31,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289449,51.966244
 Heezenstraat,35,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289505,51.966282
 Heezenstraat,39,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289548,51.966313
 Heezenstraat,41,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289669,51.966439
+Heezenstraat,41,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289677,51.966449
 Heezenstraat,43,A,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289689,51.966659
 Heezenstraat,43,B,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289660,51.966655
 Heezenstraat,43,C,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289670,51.966667
 Heezenstraat,43,D,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289643,51.966678
-Heezenstraat,43,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289777,51.966552
+Heezenstraat,43,,,7001BP,Doetinchem,Doetinchem,Gelderland,VBO,6.289778,51.966552
 Heezenstraat,6,,,7001BR,Doetinchem,Doetinchem,Gelderland,VBO,6.289293,51.965930
 Heezenstraat,12,,,7001BR,Doetinchem,Doetinchem,Gelderland,VBO,6.289569,51.966085
 Heezenstraat,14,,,7001BR,Doetinchem,Doetinchem,Gelderland,VBO,6.289579,51.966158
@@ -631,23 +643,31 @@ Burgemeester van Nispenstraat,3,,02,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,
 Burgemeester van Nispenstraat,3,,03,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.289889,51.966837
 Burgemeester van Nispenstraat,4,,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.289714,51.967160
 Burgemeester van Nispenstraat,5,,02,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.289533,51.966968
-Burgemeester van Nispenstraat,5,,03,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.289531,51.966967
-Burgemeester van Nispenstraat,6,,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.289225,51.967307
-Burgemeester van Nispenstraat,7,,01,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,02,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,03,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,04,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,05,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,06,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,07,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,08,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,09,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,10,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,11,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
-Burgemeester van Nispenstraat,7,,12,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288768,51.967241
+Burgemeester van Nispenstraat,5,,03,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.289532,51.966967
+Burgemeester van Nispenstraat,6,,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.289226,51.967307
+Burgemeester van Nispenstraat,7,,01,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,02,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,03,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,04,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,05,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,06,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,07,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,08,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,09,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,10,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,11,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
+Burgemeester van Nispenstraat,7,,12,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288769,51.967241
 Burgemeester van Nispenstraat,8,,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.289094,51.967358
 Burgemeester van Nispenstraat,10,,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288977,51.967402
 Burgemeester van Nispenstraat,12,,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288869,51.967443
+Burgemeester van Nispenstraat,14,A,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288646,51.967583
+Burgemeester van Nispenstraat,14,B,01,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288648,51.967581
+Burgemeester van Nispenstraat,14,B,02,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288648,51.967582
+Burgemeester van Nispenstraat,14,B,03,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288647,51.967581
+Burgemeester van Nispenstraat,14,B,04,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288647,51.967582
+Burgemeester van Nispenstraat,14,B,05,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288648,51.967581
+Burgemeester van Nispenstraat,14,C,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288647,51.967583
+Burgemeester van Nispenstraat,14,D,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288647,51.967583
 Burgemeester van Nispenstraat,14,,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288685,51.967517
 Burgemeester van Nispenstraat,16,,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288375,51.967703
 Burgemeester van Nispenstraat,18,A,,7001BS,Doetinchem,Doetinchem,Gelderland,VBO,6.288300,51.967790
@@ -698,6 +718,13 @@ Walstraat,39,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289193,51.966698
 Walstraat,41,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289255,51.966663
 Walstraat,43,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289307,51.966633
 Walstraat,45,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289359,51.966601
+Walstraat,47,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289430,51.966537
+Walstraat,49,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289471,51.966513
+Walstraat,51,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289471,51.966513
+Walstraat,53,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289471,51.966513
+Walstraat,55,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289471,51.966513
+Walstraat,57,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289472,51.966513
+Walstraat,59,,,7001BT,Doetinchem,Doetinchem,Gelderland,VBO,6.289471,51.966513
 Walstraat,4,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287285,51.966978
 Walstraat,6,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287285,51.966978
 Walstraat,8,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287285,51.966978
@@ -722,10 +749,10 @@ Walstraat,44,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287285,51.966978
 Walstraat,46,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287285,51.966978
 Walstraat,48,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287285,51.966978
 Walstraat,50,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287285,51.966978
-Walstraat,60,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287585,51.966870
-Walstraat,66,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287834,51.967091
+Walstraat,60,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287586,51.966870
+Walstraat,66,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287835,51.967091
 Walstraat,72,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.287957,51.967131
-Walstraat,74,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.288058,51.967101
+Walstraat,74,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.288059,51.967101
 Walstraat,76,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.288171,51.967058
 Walstraat,80,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.288273,51.967016
 Walstraat,82,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.288363,51.966960
@@ -762,6 +789,7 @@ Walstraat,196,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.289315,51.966441
 Walstraat,198,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.289341,51.966457
 Walstraat,200,,,7001BV,Doetinchem,Doetinchem,Gelderland,VBO,6.289414,51.966458
 Grutstraat,1,,,7001BW,Doetinchem,Doetinchem,Gelderland,VBO,6.288251,51.965733
+Grutstraat,1,,,7001BW,Doetinchem,Doetinchem,Gelderland,VBO,6.288269,51.965724
 Grutstraat,5,,,7001BW,Doetinchem,Doetinchem,Gelderland,VBO,6.288139,51.965853
 Grutstraat,7,,,7001BW,Doetinchem,Doetinchem,Gelderland,VBO,6.288073,51.965917
 Grutstraat,9,,,7001BW,Doetinchem,Doetinchem,Gelderland,VBO,6.288019,51.965962
@@ -807,8 +835,8 @@ Grutstraat,36,,,7001BX,Doetinchem,Doetinchem,Gelderland,VBO,6.287217,51.966763
 Grutstraat,42,,,7001BX,Doetinchem,Doetinchem,Gelderland,VBO,6.287064,51.966831
 Grutstraat,44,,,7001BX,Doetinchem,Doetinchem,Gelderland,VBO,6.286895,51.966937
 Catharinastraat,3,,,7001BZ,Doetinchem,Doetinchem,Gelderland,VBO,6.288808,51.965944
-Catharinastraat,4,,,7001BZ,Doetinchem,Doetinchem,Gelderland,VBO,6.288921,51.966011
-Catharinastraat,5,,,7001BZ,Doetinchem,Doetinchem,Gelderland,VBO,6.288732,51.966050
+Catharinastraat,4,,,7001BZ,Doetinchem,Doetinchem,Gelderland,VBO,6.288922,51.966011
+Catharinastraat,5,,,7001BZ,Doetinchem,Doetinchem,Gelderland,VBO,6.288733,51.966050
 Catharinastraat,6,,,7001BZ,Doetinchem,Doetinchem,Gelderland,VBO,6.288873,51.966067
 Catharinastraat,7,,,7001BZ,Doetinchem,Doetinchem,Gelderland,VBO,6.288662,51.966144
 Catharinastraat,8,,,7001BZ,Doetinchem,Doetinchem,Gelderland,VBO,6.288805,51.966164
@@ -840,7 +868,7 @@ Korte Kapoeniestraat,4,,03,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287778,
 Korte Kapoeniestraat,4,,04,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287778,51.965576
 Korte Kapoeniestraat,4,,05,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287778,51.965576
 Korte Kapoeniestraat,4,,06,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287778,51.965576
-Korte Kapoeniestraat,4,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287382,51.965280
+Korte Kapoeniestraat,4,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287383,51.965280
 Korte Kapoeniestraat,5,A,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287325,51.965196
 Korte Kapoeniestraat,5,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287265,51.965226
 Korte Kapoeniestraat,6,A,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.287464,51.965464
@@ -887,13 +915,13 @@ Korte Kapoeniestraat,94,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.286357,5
 Korte Kapoeniestraat,96,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.286357,51.966091
 Korte Kapoeniestraat,98,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.286357,51.966091
 Korte Kapoeniestraat,100,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.286357,51.966091
-Korte Kapoeniestraat,102,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.286223,51.966031
+Korte Kapoeniestraat,102,,,7001CA,Doetinchem,Doetinchem,Gelderland,VBO,6.286224,51.966031
 Kapoeniestraat,1,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286808,51.966739
 Kapoeniestraat,3,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286702,51.966680
 Kapoeniestraat,4,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286601,51.966721
 Kapoeniestraat,5,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286675,51.966664
 Kapoeniestraat,6,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286487,51.966665
-Kapoeniestraat,7,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286578,51.966598
+Kapoeniestraat,7,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286579,51.966598
 Kapoeniestraat,9,,01,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286442,51.966486
 Kapoeniestraat,9,,02,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286463,51.966477
 Kapoeniestraat,9,,04,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286442,51.966486
@@ -901,22 +929,22 @@ Kapoeniestraat,9,,05,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286442,51.966
 Kapoeniestraat,11,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.287094,51.966622
 Kapoeniestraat,13,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286179,51.966234
 Kapoeniestraat,17,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286131,51.965891
-Kapoeniestraat,19,,01,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,02,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,03,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,04,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,05,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,06,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,07,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,08,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,09,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,10,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,11,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,12,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,13,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,14,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,15,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
-Kapoeniestraat,19,,16,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286087,51.965814
+Kapoeniestraat,19,,01,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,02,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,03,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,04,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,05,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,06,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,07,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,08,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,09,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,10,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,11,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,12,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,13,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,14,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,15,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
+Kapoeniestraat,19,,16,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286088,51.965815
 Kapoeniestraat,21,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286037,51.965740
 Kapoeniestraat,23,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286056,51.965637
 Kapoeniestraat,25,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286075,51.965535
@@ -925,15 +953,17 @@ Kapoeniestraat,41,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286259,51.9651
 Kapoeniestraat,43,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286436,51.964843
 Kapoeniestraat,45,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286508,51.964768
 Kapoeniestraat,52,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286111,51.965004
+Kapoeniestraat,52,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286124,51.965006
+Kapoeniestraat,54,,,7001CB,Doetinchem,Doetinchem,Gelderland,VBO,6.286059,51.965105
 Platanenhof,1,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.282425,51.968140
 Platanenhof,3,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.282335,51.968169
 Platanenhof,5,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.282230,51.968226
-Platanenhof,7,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.282143,51.968268
+Platanenhof,7,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.282144,51.968268
 Platanenhof,9,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.282008,51.968320
-Platanenhof,11,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.281934,51.968356
+Platanenhof,11,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.281935,51.968356
 Platanenhof,13,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.281686,51.968396
 Platanenhof,15,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.281753,51.968468
-Platanenhof,17,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.281806,51.968526
+Platanenhof,17,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.281807,51.968526
 Platanenhof,19,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.281894,51.968604
 Platanenhof,21,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.281945,51.968659
 Platanenhof,23,,,7001CC,Doetinchem,Doetinchem,Gelderland,VBO,6.282005,51.968738
@@ -977,13 +1007,18 @@ Keppelseweg,7,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.285274,51.967527
 Keppelseweg,11,A,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.285036,51.967749
 Keppelseweg,11,B,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.285010,51.967730
 Keppelseweg,11,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.285124,51.967698
-Keppelseweg,13,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284863,51.967857
-Keppelseweg,15,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284775,51.967908
+Keppelseweg,13,A,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284877,51.967866
+Keppelseweg,13,B,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284877,51.967866
+Keppelseweg,13,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284864,51.967857
+Keppelseweg,13,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284877,51.967866
+Keppelseweg,15,B,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284791,51.967912
+Keppelseweg,15,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284776,51.967908
+Keppelseweg,15,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284790,51.967912
 Keppelseweg,17,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284603,51.968008
 Keppelseweg,19,A,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284371,51.968109
 Keppelseweg,19,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284462,51.968090
 Keppelseweg,21,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.284295,51.968186
-Keppelseweg,23,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.283998,51.968262
+Keppelseweg,23,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.283999,51.968262
 Keppelseweg,25,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.283888,51.968327
 Keppelseweg,29,A,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.283209,51.968589
 Keppelseweg,29,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.283423,51.968595
@@ -992,14 +1027,12 @@ Keppelseweg,33,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282931,51.968865
 Keppelseweg,35,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282871,51.968966
 Keppelseweg,37,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282772,51.969024
 Keppelseweg,39,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282671,51.969084
-Keppelseweg,41,A,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282460,51.969130
+Keppelseweg,41,A,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282461,51.969130
 Keppelseweg,41,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282351,51.969191
-Keppelseweg,45,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282209,51.969366
+Keppelseweg,45,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282210,51.969366
 Keppelseweg,47,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282151,51.969350
 Keppelseweg,49,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.282021,51.969430
 Keppelseweg,51,,,7001CE,Doetinchem,Doetinchem,Gelderland,VBO,6.281967,51.969462
-Erdbrinkplein,1,A,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285672,51.968600
-Erdbrinkplein,1,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285622,51.968569
 Keppelseweg,4,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285834,51.967650
 Keppelseweg,6,,01,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285578,51.967857
 Keppelseweg,6,,02,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285578,51.967857
@@ -1023,7 +1056,6 @@ Keppelseweg,6,,19,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285578,51.967857
 Keppelseweg,6,,20,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285578,51.967857
 Keppelseweg,6,,21,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285578,51.967857
 Keppelseweg,6,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285601,51.967813
-Keppelseweg,12,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285120,51.968338
 Keppelseweg,14,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.284779,51.968293
 Keppelseweg,16,A,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.284757,51.968385
 Keppelseweg,16,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.284674,51.968346
@@ -1032,16 +1064,18 @@ Keppelseweg,18,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.284749,51.968729
 Keppelseweg,20,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.284129,51.968626
 Keppelseweg,22,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.283849,51.968914
 Keppelseweg,24,A,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.283880,51.969116
-Keppelseweg,24,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.284028,51.969214
+Keppelseweg,24,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.284029,51.969214
 Keppelseweg,26,A,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.284042,51.969478
 Keppelseweg,26,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.283995,51.969416
 Keppelseweg,28,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.283263,51.969177
 Keppelseweg,30,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.283165,51.969208
 Keppelseweg,32,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.283084,51.969255
-Keppelseweg,34,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.282998,51.969304
+Keppelseweg,34,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.282999,51.969304
 Keppelseweg,36,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.282877,51.969364
 Keppelseweg,38,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.282817,51.969400
 Keppelseweg,40,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.283174,51.970016
+Ruimzichtlaan,1,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285313,51.968365
+Ruimzichtlaan,3,,,7001CG,Doetinchem,Doetinchem,Gelderland,VBO,6.285647,51.968572
 Tramstraat,2,A,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284320,51.967610
 Tramstraat,2,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284262,51.967561
 Tramstraat,4,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283761,51.967797
@@ -1063,15 +1097,15 @@ Tramstraat,17,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284266,51.966259
 Tramstraat,18,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283461,51.966382
 Tramstraat,19,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284266,51.966259
 Tramstraat,20,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283461,51.966382
-Tramstraat,21,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284473,51.966429
+Tramstraat,21,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284474,51.966429
 Tramstraat,22,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283461,51.966382
-Tramstraat,23,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284473,51.966429
+Tramstraat,23,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284474,51.966429
 Tramstraat,24,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283461,51.966382
-Tramstraat,25,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284473,51.966429
+Tramstraat,25,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284474,51.966429
 Tramstraat,26,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283461,51.966382
-Tramstraat,27,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284473,51.966429
+Tramstraat,27,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284474,51.966429
 Tramstraat,28,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283757,51.966160
-Tramstraat,29,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284473,51.966429
+Tramstraat,29,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284474,51.966429
 Tramstraat,30,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283757,51.966160
 Tramstraat,31,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.284673,51.966595
 Tramstraat,32,,,7001CH,Doetinchem,Doetinchem,Gelderland,VBO,6.283757,51.966160
@@ -1139,11 +1173,11 @@ Torenallee,26,,,7001CK,Doetinchem,Doetinchem,Gelderland,VBO,6.282928,51.967031
 Torenallee,30,,,7001CK,Doetinchem,Doetinchem,Gelderland,VBO,6.283177,51.966776
 Lindenlaan,1,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.282514,51.967141
 Lindenlaan,4,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.282120,51.967181
-Lindenlaan,5,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.282277,51.967011
+Lindenlaan,5,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.282278,51.967011
 Lindenlaan,6,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.281987,51.967099
 Lindenlaan,7,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.282099,51.966915
 Lindenlaan,8,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.281846,51.967009
-Lindenlaan,9,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.281912,51.966800
+Lindenlaan,9,,,7001CL,Doetinchem,Doetinchem,Gelderland,VBO,6.281913,51.966800
 Peppelenlaan,1,,,7001CM,Doetinchem,Doetinchem,Gelderland,VBO,6.281453,51.967485
 Peppelenlaan,2,,,7001CM,Doetinchem,Doetinchem,Gelderland,VBO,6.281279,51.967666
 Peppelenlaan,3,,,7001CM,Doetinchem,Doetinchem,Gelderland,VBO,6.281364,51.967414
@@ -1162,7 +1196,7 @@ Jaagpad,6,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.282399,51.966637
 Jaagpad,8,A,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.280859,51.966900
 Jaagpad,8,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.281216,51.966885
 Jaagpad,10,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.280369,51.966986
-Jaagpad,12,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.280194,51.967050
+Jaagpad,12,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.280195,51.967050
 Jaagpad,14,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.280045,51.967138
 Jaagpad,16,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.279977,51.967269
 Jaagpad,18,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.279931,51.967299
@@ -1170,13 +1204,13 @@ Jaagpad,20,,,7001CN,Doetinchem,Doetinchem,Gelderland,VBO,6.279880,51.967332
 IJsselstraat,1,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.281592,51.969231
 IJsselstraat,3,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.281469,51.969142
 IJsselstraat,5,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.281411,51.969078
-IJsselstraat,7,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.281280,51.968940
+IJsselstraat,7,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.281281,51.968940
 IJsselstraat,9,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.281222,51.968875
 IJsselstraat,11,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.281097,51.968737
 IJsselstraat,13,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.281043,51.968678
 IJsselstraat,15,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.280911,51.968535
 IJsselstraat,17,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.280854,51.968473
-IJsselstraat,25,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.280429,51.967977
+IJsselstraat,25,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.280430,51.967977
 IJsselstraat,27,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.280374,51.967917
 IJsselstraat,29,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.280306,51.967841
 IJsselstraat,33,,,7001CP,Doetinchem,Doetinchem,Gelderland,VBO,6.280155,51.967678
@@ -1192,7 +1226,7 @@ Ingenieur Visstraat,9,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285230,51.
 Ingenieur Visstraat,11,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284512,51.967265
 Loolaan,2,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284119,51.970427
 Loolaan,4,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284433,51.970330
-Loolaan,6,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284741,51.970196
+Loolaan,6,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284742,51.970196
 Loolaan,8,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284333,51.970678
 Loolaan,10,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284630,51.970833
 Loolaan,12,A,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284997,51.971048
@@ -1201,7 +1235,7 @@ Loolaan,12,C,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285333,51.971238
 Loolaan,12,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.284814,51.970944
 Loolaan,14,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285651,51.971481
 Loolaan,16,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285696,51.971528
-Loolaan,18,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285760,51.971596
+Loolaan,18,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285761,51.971596
 Loolaan,20,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285802,51.971674
 Loolaan,22,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285854,51.971758
 Loolaan,24,,,7001CR,Doetinchem,Doetinchem,Gelderland,VBO,6.285905,51.971915
@@ -1219,10 +1253,10 @@ Ds van Dijkweg,23,,,7001CS,Doetinchem,Doetinchem,Gelderland,VBO,6.289020,51.9701
 Ds van Dijkweg,33,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.289088,51.970549
 Ds van Dijkweg,35,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.289196,51.970703
 Ds van Dijkweg,37,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.289241,51.970843
-Ds van Dijkweg,39,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.289280,51.970984
+Ds van Dijkweg,39,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.289281,51.970984
 Ds van Dijkweg,41,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.289279,51.971164
 Ds van Dijkweg,43,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.289235,51.971345
-Ds van Dijkweg,45,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.288969,51.971449
+Ds van Dijkweg,45,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.288970,51.971449
 Ds van Dijkweg,47,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.288773,51.971517
 Ds van Dijkweg,49,,,7001CT,Doetinchem,Doetinchem,Gelderland,VBO,6.288185,51.971311
 Ds van Dijkweg,12,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289331,51.969701
@@ -1231,7 +1265,7 @@ Ds van Dijkweg,16,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289480,51.9702
 Ds van Dijkweg,18,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289579,51.970497
 Ds van Dijkweg,20,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289602,51.970564
 Ds van Dijkweg,22,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289628,51.970653
-Ds van Dijkweg,24,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289652,51.970725
+Ds van Dijkweg,24,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289653,51.970725
 Ds van Dijkweg,26,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289676,51.970794
 Ds van Dijkweg,28,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289705,51.970896
 Ds van Dijkweg,30,,,7001CV,Doetinchem,Doetinchem,Gelderland,VBO,6.289727,51.970967
@@ -1245,14 +1279,14 @@ Frielinkstraat,1,,05,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288290,51.970
 Frielinkstraat,1,,06,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288290,51.970207
 Frielinkstraat,1,,07,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288290,51.970207
 Frielinkstraat,1,,08,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288290,51.970207
-Frielinkstraat,2,,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288547,51.970445
-Frielinkstraat,3,,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.287534,51.970398
-Frielinkstraat,4,A,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288305,51.970518
-Frielinkstraat,6,,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288146,51.970549
+Frielinkstraat,2,,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288548,51.970445
+Frielinkstraat,3,,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.287535,51.970398
+Frielinkstraat,4,A,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288306,51.970518
+Frielinkstraat,6,,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288147,51.970549
 Frielinkstraat,8,,,7001CW,Doetinchem,Doetinchem,Gelderland,VBO,6.288030,51.970574
 Lampongstraat,1,B,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.289968,51.970482
 Lampongstraat,1,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.289973,51.970451
-Lampongstraat,2,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.289893,51.970189
+Lampongstraat,2,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.289894,51.970189
 Lampongstraat,3,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290090,51.970449
 Lampongstraat,4,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290089,51.970180
 Lampongstraat,5,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290231,51.970441
@@ -1263,7 +1297,7 @@ Lampongstraat,8,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290356,51.970174
 Lampongstraat,9,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290410,51.970436
 Lampongstraat,10,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290412,51.970152
 Lampongstraat,11,B,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290494,51.970451
-Lampongstraat,11,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290495,51.970434
+Lampongstraat,11,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290496,51.970434
 Lampongstraat,12,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290504,51.970148
 Lampongstraat,13,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290576,51.970429
 Lampongstraat,14,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.290566,51.970081
@@ -1282,7 +1316,7 @@ Lampongstraat,34,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291249,51.97035
 Lampongstraat,36,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291160,51.970524
 Lampongstraat,38,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291250,51.970520
 Lampongstraat,40,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291324,51.970518
-Lampongstraat,42,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291398,51.970512
+Lampongstraat,42,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291399,51.970512
 Lampongstraat,44,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291464,51.970511
 Lampongstraat,46,,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291552,51.970505
 Lampongstraat,48,A,,7001CX,Doetinchem,Doetinchem,Gelderland,VBO,6.291763,51.970494
@@ -1324,7 +1358,7 @@ Nieuweweg,25,,,7001DB,Doetinchem,Doetinchem,Gelderland,VBO,6.291392,51.969345
 Nieuweweg,29,,,7001DB,Doetinchem,Doetinchem,Gelderland,VBO,6.291683,51.969373
 Nieuweweg,31,,,7001DB,Doetinchem,Doetinchem,Gelderland,VBO,6.291875,51.969397
 Nieuweweg,37,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.292397,51.969547
-Nieuweweg,39,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.292540,51.969597
+Nieuweweg,39,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.292541,51.969597
 Nieuweweg,41,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.292624,51.969631
 Nieuweweg,43,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.292741,51.969679
 Nieuweweg,45,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.292839,51.969720
@@ -1332,7 +1366,7 @@ Nieuweweg,47,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.292958,51.969774
 Nieuweweg,49,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.293048,51.969822
 Nieuweweg,51,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.293166,51.969882
 Nieuweweg,53,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.293243,51.969922
-Nieuweweg,55,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.293343,51.969976
+Nieuweweg,55,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.293344,51.969976
 Nieuweweg,57,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.293440,51.970029
 Nieuweweg,59,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.293536,51.970081
 Nieuweweg,61,,,7001DC,Doetinchem,Doetinchem,Gelderland,VBO,6.293639,51.970137
@@ -1363,7 +1397,7 @@ Paul Krugerlaan,23,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.294620,51.969
 Paul Krugerlaan,25,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.294682,51.969321
 Paul Krugerlaan,27,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.294761,51.969255
 Paul Krugerlaan,29,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.294826,51.969210
-Paul Krugerlaan,31,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.294880,51.969173
+Paul Krugerlaan,31,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.294881,51.969173
 Paul Krugerlaan,33,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.294935,51.969135
 Paul Krugerlaan,35,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.295030,51.969069
 Paul Krugerlaan,37,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.295133,51.969035
@@ -1374,7 +1408,7 @@ Paul Krugerlaan,45,,,7001DG,Doetinchem,Doetinchem,Gelderland,VBO,6.296019,51.968
 Paul Krugerlaan,2,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.293740,51.969626
 Paul Krugerlaan,4,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.293832,51.969561
 Paul Krugerlaan,6,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.293917,51.969502
-Paul Krugerlaan,8,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.293999,51.969446
+Paul Krugerlaan,8,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.294000,51.969446
 Paul Krugerlaan,10,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.294088,51.969386
 Paul Krugerlaan,12,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.294205,51.969305
 Paul Krugerlaan,14,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.294285,51.969249
@@ -1388,13 +1422,14 @@ Paul Krugerlaan,38,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.295227,51.968
 Paul Krugerlaan,40,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.295356,51.968568
 Paul Krugerlaan,42,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.295421,51.968535
 Paul Krugerlaan,44,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.295531,51.968489
-Paul Krugerlaan,48,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.295700,51.968429
+Paul Krugerlaan,48,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.295700,51.968430
 Paul Krugerlaan,50,,,7001DH,Doetinchem,Doetinchem,Gelderland,VBO,6.295769,51.968405
+Schouwburgplein,2,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291411,51.968059
 Schouwburgplein,4,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291530,51.968024
 Schouwburgplein,6,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968006
 Schouwburgplein,8,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968006
 Schouwburgplein,10,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968006
-Schouwburgplein,12,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.290963,51.967613
+Schouwburgplein,12,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.290964,51.967613
 Schouwburgplein,14,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291080,51.967687
 Schouwburgplein,16,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968006
 Schouwburgplein,18,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968006
@@ -1419,7 +1454,12 @@ Schouwburgplein,54,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968
 Schouwburgplein,56,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968006
 Schouwburgplein,58,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968006
 Schouwburgplein,60,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291632,51.968006
+Schouwburgplein,62,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291519,51.968037
 Schouwburgplein,62,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291835,51.967952
+Schouwburgplein,64,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291670,51.968000
+Schouwburgplein,66,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291796,51.967972
+Schouwburgplein,68,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.291924,51.967946
+Schouwburgplein,70,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292043,51.967918
 Schouwburgplein,78,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292281,51.968028
 Schouwburgplein,80,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292281,51.968028
 Schouwburgplein,82,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292281,51.968028
@@ -1445,6 +1485,9 @@ Schouwburgplein,120,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292281,51.96
 Schouwburgplein,122,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292281,51.968028
 Schouwburgplein,124,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292281,51.968028
 Schouwburgplein,126,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292281,51.968028
+Schouwburgplein,128,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292219,51.967934
+Schouwburgplein,130,A,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292294,51.968046
+Schouwburgplein,130,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292249,51.967989
 Schouwburgplein,132,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292398,51.968247
 Schouwburgplein,134,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292398,51.968247
 Schouwburgplein,136,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.292398,51.968247
@@ -1518,7 +1561,7 @@ Steinlaan,23,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294806,51.968377
 Steinlaan,25,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294734,51.968327
 Steinlaan,27,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294664,51.968278
 Steinlaan,29,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294606,51.968237
-Steinlaan,31,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294533,51.968185
+Steinlaan,31,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294534,51.968185
 Steinlaan,33,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294466,51.968137
 Steinlaan,35,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294408,51.968096
 Steinlaan,37,,,7001DJ,Doetinchem,Doetinchem,Gelderland,VBO,6.294347,51.968053
@@ -1547,30 +1590,43 @@ Steinlaan,46,,,7001DK,Doetinchem,Doetinchem,Gelderland,VBO,6.294333,51.968544
 Steinlaan,48,,,7001DK,Doetinchem,Doetinchem,Gelderland,VBO,6.294333,51.968544
 Steinlaan,50,,,7001DK,Doetinchem,Doetinchem,Gelderland,VBO,6.293761,51.968137
 de Veentjes,1,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290457,51.967347
-de Veentjes,2,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290848,51.967304
+de Veentjes,2,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290849,51.967304
+de Veentjes,2,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290864,51.967362
+de Veentjes,3,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290463,51.967357
 de Veentjes,3,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290486,51.967392
+de Veentjes,4,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290888,51.967435
+de Veentjes,5,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290490,51.967401
 de Veentjes,5,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290501,51.967431
+de Veentjes,6,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290908,51.967485
+de Veentjes,7,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290517,51.967439
 de Veentjes,7,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290534,51.967484
+de Veentjes,8,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290942,51.967578
+de Veentjes,9,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290541,51.967489
 de Veentjes,9,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290563,51.967535
+de Veentjes,10,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291192,51.967387
+de Veentjes,11,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290574,51.967551
 de Veentjes,12,A,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291024,51.967583
 de Veentjes,12,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290940,51.967548
+de Veentjes,12,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291265,51.967379
 de Veentjes,13,A,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290495,51.967564
-de Veentjes,13,B,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290472,51.967510
+de Veentjes,13,B,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290473,51.967510
 de Veentjes,13,C,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290442,51.967446
 de Veentjes,13,D,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290406,51.967383
-de Veentjes,13,E,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290168,51.967423
+de Veentjes,13,E,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290169,51.967423
 de Veentjes,13,F,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290201,51.967493
 de Veentjes,13,G,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290235,51.967555
 de Veentjes,13,H,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290271,51.967617
 de Veentjes,14,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291105,51.967724
+de Veentjes,14,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291374,51.967365
 de Veentjes,15,A,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290593,51.967651
-de Veentjes,15,B,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290578,51.967706
+de Veentjes,15,B,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290579,51.967706
 de Veentjes,15,C,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290594,51.967723
-de Veentjes,15,D,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290685,51.967860
+de Veentjes,15,D,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290686,51.967860
 de Veentjes,15,E,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290438,51.967912
 de Veentjes,15,F,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290404,51.967859
 de Veentjes,15,G,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290368,51.967783
 de Veentjes,15,H,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290328,51.967716
+de Veentjes,16,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291546,51.967344
 de Veentjes,17,A,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290493,51.967564
 de Veentjes,17,B,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290471,51.967511
 de Veentjes,17,C,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290442,51.967447
@@ -1579,33 +1635,129 @@ de Veentjes,17,E,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290172,51.967423
 de Veentjes,17,F,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290203,51.967493
 de Veentjes,17,G,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290233,51.967558
 de Veentjes,17,H,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290271,51.967619
+de Veentjes,18,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291585,51.967320
 de Veentjes,19,A,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290328,51.967719
 de Veentjes,19,B,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290366,51.967785
 de Veentjes,19,C,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290406,51.967860
 de Veentjes,19,D,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290438,51.967913
 de Veentjes,19,E,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290684,51.967861
 de Veentjes,19,F,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290596,51.967723
-de Veentjes,19,G,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290576,51.967706
+de Veentjes,19,G,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290577,51.967706
 de Veentjes,19,H,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290593,51.967653
 de Veentjes,20,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291197,51.967824
+de Veentjes,20,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.292072,51.967720
 de Veentjes,21,A,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290485,51.967539
 de Veentjes,21,B,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290421,51.967415
 de Veentjes,21,C,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290227,51.967455
 de Veentjes,21,D,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290290,51.967584
+de Veentjes,22,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.292006,51.967766
 de Veentjes,23,A,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290579,51.967708
 de Veentjes,23,B,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290451,51.967831
 de Veentjes,23,C,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290656,51.967821
 de Veentjes,23,D,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290414,51.967750
 de Veentjes,24,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291199,51.967890
+de Veentjes,24,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291890,51.967790
+de Veentjes,25,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290639,51.967649
 de Veentjes,26,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291245,51.967972
+de Veentjes,26,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291754,51.967819
 de Veentjes,27,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290634,51.967638
+de Veentjes,27,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290660,51.967699
+de Veentjes,28,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291647,51.967841
 de Veentjes,29,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290649,51.967670
+de Veentjes,29,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290699,51.967774
 de Veentjes,30,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291300,51.968069
+de Veentjes,30,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291534,51.967863
 de Veentjes,31,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290664,51.967714
+de Veentjes,31,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290730,51.967835
+de Veentjes,32,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291419,51.967841
 de Veentjes,33,A,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290685,51.967836
 de Veentjes,33,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290714,51.967803
+de Veentjes,33,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290768,51.967898
+de Veentjes,34,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291341,51.967762
 de Veentjes,35,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290759,51.967881
+de Veentjes,36,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291297,51.967667
 de Veentjes,37,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290893,51.967920
+de Veentjes,37,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290992,51.968169
+de Veentjes,38,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291089,51.967707
+de Veentjes,39,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968170
+de Veentjes,40,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291113,51.967748
+de Veentjes,41,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968170
+de Veentjes,42,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291138,51.967798
+de Veentjes,43,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290993,51.968171
+de Veentjes,44,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291185,51.967880
+de Veentjes,45,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290995,51.968171
+de Veentjes,46,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291236,51.967961
+de Veentjes,47,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290993,51.968172
+de Veentjes,48,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291332,51.968073
+de Veentjes,49,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290992,51.968173
+de Veentjes,51,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968172
+de Veentjes,53,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968170
+de Veentjes,55,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290995,51.968171
+de Veentjes,57,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290990,51.968172
+de Veentjes,59,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290994,51.968174
+de Veentjes,61,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290994,51.968174
+de Veentjes,63,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968174
+de Veentjes,65,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290994,51.968167
+de Veentjes,67,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290994,51.968174
+de Veentjes,69,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291000,51.968167
+de Veentjes,71,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291000,51.968170
+de Veentjes,73,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968170
+de Veentjes,75,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968170
+de Veentjes,77,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968170
+de Veentjes,79,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968170
+de Veentjes,81,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968168
+de Veentjes,83,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968174
+de Veentjes,85,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968172
+de Veentjes,87,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290995,51.968170
+de Veentjes,89,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290994,51.968170
+de Veentjes,91,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968172
+de Veentjes,93,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968168
+de Veentjes,95,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968170
+de Veentjes,97,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290995,51.968172
+de Veentjes,99,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.291004,51.968171
+de Veentjes,101,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968170
+de Veentjes,103,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968168
+de Veentjes,105,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968170
+de Veentjes,107,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968166
+de Veentjes,109,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968170
+de Veentjes,111,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968168
+de Veentjes,113,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290995,51.968170
+de Veentjes,115,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290982,51.968174
+de Veentjes,117,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290998,51.968172
+de Veentjes,119,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290995,51.968172
+de Veentjes,121,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968172
+de Veentjes,123,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968168
+de Veentjes,125,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290992,51.968173
+de Veentjes,127,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968170
+de Veentjes,129,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968168
+de Veentjes,131,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968172
+de Veentjes,133,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968170
+de Veentjes,135,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290979,51.968170
+de Veentjes,137,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290982,51.968170
+de Veentjes,139,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968174
+de Veentjes,141,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968174
+de Veentjes,143,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968175
+de Veentjes,145,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968168
+de Veentjes,147,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968166
+de Veentjes,149,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290985,51.968164
+de Veentjes,151,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290979,51.968170
+de Veentjes,153,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968174
+de Veentjes,155,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968172
+de Veentjes,157,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290989,51.968174
+de Veentjes,159,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968174
+de Veentjes,161,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290989,51.968173
+de Veentjes,163,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290989,51.968174
+de Veentjes,165,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290989,51.968174
+de Veentjes,167,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290990,51.968172
+de Veentjes,169,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968175
+de Veentjes,171,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290990,51.968174
+de Veentjes,173,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290992,51.968175
+de Veentjes,175,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290989,51.968170
+de Veentjes,177,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290988,51.968171
+de Veentjes,179,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290987,51.968173
+de Veentjes,181,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290987,51.968175
+de Veentjes,183,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290991,51.968173
+de Veentjes,185,,,7001DL,Doetinchem,Doetinchem,Gelderland,VBO,6.290989,51.968175
 J F Kennedylaan,65,,,7001DM,Doetinchem,Doetinchem,Gelderland,VBO,6.295757,51.969454
 J F Kennedylaan,67,,,7001DM,Doetinchem,Doetinchem,Gelderland,VBO,6.295733,51.969522
 J F Kennedylaan,69,,,7001DM,Doetinchem,Doetinchem,Gelderland,VBO,6.295600,51.969586
@@ -1626,7 +1778,7 @@ J F Kennedylaan,97,,,7001DM,Doetinchem,Doetinchem,Gelderland,VBO,6.294413,51.970
 Amphionstraat,2,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295014,51.967609
 Amphionstraat,30,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295031,51.968041
 Amphionstraat,32,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294533,51.967635
-Amphionstraat,34,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294455,51.967681
+Amphionstraat,34,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294456,51.967681
 Amphionstraat,36,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294294,51.967769
 Amphionstraat,38,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294294,51.967769
 Amphionstraat,40,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294294,51.967769
@@ -1644,7 +1796,7 @@ Amphionstraat,62,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294294,51.96776
 Amphionstraat,64,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294294,51.967769
 Amphionstraat,66,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294294,51.967769
 Amphionstraat,68,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294294,51.967769
-Amphionstraat,70,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294070,51.967858
+Amphionstraat,70,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.294071,51.967858
 Amphionstraat,90,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.293187,51.968254
 Amphionstraat,92,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.293187,51.968254
 Amphionstraat,94,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.293187,51.968254
@@ -1665,7 +1817,7 @@ Rozengaardseweg,19,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295093,51.967
 Rozengaardseweg,21,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295229,51.967583
 Rozengaardseweg,25,A,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295336,51.967714
 Rozengaardseweg,25,B,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295321,51.967724
-Rozengaardseweg,25,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295386,51.967620
+Rozengaardseweg,25,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295387,51.967620
 Rozengaardseweg,27,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295519,51.967713
 Rozengaardseweg,29,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295578,51.967750
 Rozengaardseweg,31,,,7001DN,Doetinchem,Doetinchem,Gelderland,VBO,6.295660,51.967802
@@ -1710,6 +1862,10 @@ Amphionstraat,63,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.293407,51.96752
 Amphionstraat,65,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.293407,51.967525
 Amphionstraat,67,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.293354,51.967548
 Amphionstraat,69,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.293312,51.967689
+Amphionstraat,71,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.292287,51.967693
+Amphionstraat,73,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.292344,51.967791
+Amphionstraat,75,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.292396,51.967874
+Amphionstraat,77,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.292445,51.967960
 Rozengaardseweg,6,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.295472,51.967199
 Rozengaardseweg,8,A,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.295539,51.967330
 Rozengaardseweg,8,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.295436,51.967265
@@ -1782,9 +1938,20 @@ Rozengaardseweg,42,,04,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.297010,51.9
 Rozengaardseweg,44,,,7001DP,Doetinchem,Doetinchem,Gelderland,VBO,6.297010,51.968453
 Hovenstraatje,1,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290222,51.967254
 Hovenstraatje,3,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290186,51.967207
+Hovenstraatje,5,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290160,51.967409
+Hovenstraatje,7,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290189,51.967463
 Hovenstraatje,8,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.289522,51.967621
+Hovenstraatje,9,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290218,51.967529
+Hovenstraatje,11,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290256,51.967592
+Hovenstraatje,13,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290284,51.967647
+Hovenstraatje,15,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290317,51.967700
 Hovenstraatje,16,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.288375,51.967703
+Hovenstraatje,17,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290349,51.967757
+Hovenstraatje,19,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290389,51.967823
 Hovenstraatje,20,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.289056,51.968241
+Hovenstraatje,21,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290429,51.967888
+Hovenstraatje,23,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290461,51.967947
+Hovenstraatje,25,,,7001DR,Doetinchem,Doetinchem,Gelderland,VBO,6.290395,51.968136
 Dr Huber Noodtstraat,1,A,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290077,51.967002
 Dr Huber Noodtstraat,1,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290170,51.966972
 Dr Huber Noodtstraat,3,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290173,51.967032
@@ -1792,42 +1959,49 @@ Dr Huber Noodtstraat,5,A,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290273,5
 Dr Huber Noodtstraat,5,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290223,51.967080
 Dr Huber Noodtstraat,7,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290327,51.967124
 Dr Huber Noodtstraat,9,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290377,51.967172
-Dr Huber Noodtstraat,13,,01,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,02,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,03,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,04,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,05,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,06,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,07,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,08,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,09,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,10,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,11,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,12,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,13,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,14,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,15,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,16,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,17,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,18,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,19,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,20,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,21,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,22,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,23,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,24,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,25,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,26,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,27,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,28,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
-Dr Huber Noodtstraat,13,,29,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291497,51.967198
+Dr Huber Noodtstraat,11,A,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290918,51.967267
+Dr Huber Noodtstraat,11,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290895,51.967270
+Dr Huber Noodtstraat,13,,01,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,02,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,03,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,04,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,05,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,06,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,07,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,08,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,09,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967262
+Dr Huber Noodtstraat,13,,10,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,11,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,12,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,13,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,14,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,15,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,16,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967262
+Dr Huber Noodtstraat,13,,17,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290980,51.967261
+Dr Huber Noodtstraat,13,,18,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,19,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,20,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,21,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,22,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,23,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,24,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,25,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,26,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967262
+Dr Huber Noodtstraat,13,,27,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,28,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,13,,29,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.290981,51.967261
+Dr Huber Noodtstraat,15,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291046,51.967248
 Dr Huber Noodtstraat,15,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291308,51.967223
-Dr Huber Noodtstraat,29,A,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291788,51.967206
+Dr Huber Noodtstraat,17,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291152,51.967233
+Dr Huber Noodtstraat,19,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291303,51.967213
+Dr Huber Noodtstraat,21,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291430,51.967195
+Dr Huber Noodtstraat,23,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291560,51.967175
+Dr Huber Noodtstraat,29,A,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291789,51.967206
 Dr Huber Noodtstraat,29,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291768,51.967167
 Dr Huber Noodtstraat,31,A,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291870,51.967191
 Dr Huber Noodtstraat,31,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291858,51.967148
 Dr Huber Noodtstraat,33,A,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.292050,51.967116
-Dr Huber Noodtstraat,33,B,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.292061,51.967277
+Dr Huber Noodtstraat,33,B,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.292062,51.967277
 Dr Huber Noodtstraat,33,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.291987,51.967099
 Dr Huber Noodtstraat,37,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.292419,51.967137
 Dr Huber Noodtstraat,41,,,7001DS,Doetinchem,Doetinchem,Gelderland,VBO,6.292550,51.967012
@@ -1887,7 +2061,6 @@ Dokter Bardetplaats,7,,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.298756,51.
 Dokter Bardetplaats,8,,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.295618,51.966838
 Dokter Bardetplaats,10,,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.295904,51.966835
 Dokter Bardetplaats,12,,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296237,51.966808
-Dr Huber Noodtplaats,89,A,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296479,51.966384
 Dr Huber Noodtstraat,71,,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.294824,51.966614
 Dr Huber Noodtstraat,73,,01,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.295228,51.966578
 Dr Huber Noodtstraat,73,,02,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.295228,51.966578
@@ -1986,6 +2159,7 @@ Dr Huber Noodtstraat,87,H,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296009,
 Dr Huber Noodtstraat,87,J,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296009,51.966444
 Dr Huber Noodtstraat,87,K,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296008,51.966444
 Dr Huber Noodtstraat,87,,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296226,51.966414
+Dr Huber Noodtstraat,89,A,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296479,51.966384
 Dr Huber Noodtstraat,89,A,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296496,51.966435
 Dr Huber Noodtstraat,89,,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296237,51.966413
 Dr Huber Noodtstraat,89,,,7001DV,Doetinchem,Doetinchem,Gelderland,VBO,6.296466,51.966387
@@ -2026,7 +2200,7 @@ Dr Huber Noodtstraat,2,B,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.290524,5
 Dr Huber Noodtstraat,2,C,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.290471,51.966731
 Dr Huber Noodtstraat,2,D,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.290340,51.966616
 Dr Huber Noodtstraat,4,,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.290624,51.966973
-Dr Huber Noodtstraat,6,,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.290763,51.967085
+Dr Huber Noodtstraat,6,,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.290764,51.967085
 Dr Huber Noodtstraat,8,,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.290978,51.967033
 Dr Huber Noodtstraat,10,,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.291135,51.967058
 Dr Huber Noodtstraat,16,,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.291527,51.967009
@@ -2062,35 +2236,35 @@ Dr Huber Noodtstraat,18,,29,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.291767
 Dr Huber Noodtstraat,18,,30,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.291767,51.966833
 Dr Huber Noodtstraat,18,,31,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.291767,51.966833
 Dr Huber Noodtstraat,18,,32,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.291767,51.966833
-Dr Huber Noodtstraat,20,,01,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,02,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,03,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,04,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,05,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,06,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,07,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,08,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,09,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,10,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,11,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,12,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,13,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,14,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,15,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,16,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,17,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,18,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,19,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,20,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,21,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,22,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,23,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,24,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,25,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,26,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,27,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,28,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
-Dr Huber Noodtstraat,20,,29,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292342,51.966856
+Dr Huber Noodtstraat,20,,01,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,02,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,03,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,04,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,05,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,06,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,07,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,08,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,09,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,10,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,11,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,12,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,13,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,14,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,15,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,16,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,17,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,18,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,19,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,20,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,21,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,22,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,23,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,24,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,25,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,26,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,27,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,28,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
+Dr Huber Noodtstraat,20,,29,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292343,51.966856
 Dr Huber Noodtstraat,22,,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292457,51.966855
 Dr Huber Noodtstraat,24,,,7001DW,Doetinchem,Doetinchem,Gelderland,VBO,6.292777,51.966788
 Dr Huber Noodtstraat,26,,,7001DX,Doetinchem,Doetinchem,Gelderland,VBO,6.292777,51.966788
@@ -2139,7 +2313,7 @@ Dr Huber Noodtstraat,94,,,7001DZ,Doetinchem,Doetinchem,Gelderland,VBO,6.299244,5
 Dr Huber Noodtstraat,96,,,7001DZ,Doetinchem,Doetinchem,Gelderland,VBO,6.300022,51.965741
 J F Kennedylaan,49,,,7001EA,Doetinchem,Doetinchem,Gelderland,VBO,6.298756,51.967227
 Slingelaan,1,,,7001EA,Doetinchem,Doetinchem,Gelderland,VBO,6.298756,51.967227
-Slingelaan,6,,,7001EA,Doetinchem,Doetinchem,Gelderland,VBO,6.299688,51.966622
+Slingelaan,6,,,7001EA,Doetinchem,Doetinchem,Gelderland,VBO,6.299689,51.966622
 Slingelaan,8,A,,7001EA,Doetinchem,Doetinchem,Gelderland,VBO,6.299805,51.966852
 Slingelaan,8,,,7001EA,Doetinchem,Doetinchem,Gelderland,VBO,6.299931,51.966754
 Notenlaan,1,,,7001EB,Doetinchem,Doetinchem,Gelderland,VBO,6.299984,51.966546
@@ -2149,8 +2323,8 @@ Notenlaan,5,,,7001EB,Doetinchem,Doetinchem,Gelderland,VBO,6.300368,51.967137
 Houtkampstraat,52,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.293971,51.965282
 Houtkampstraat,54,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294105,51.965300
 Houtkampstraat,56,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294169,51.965307
-Houtkampstraat,58,A,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294452,51.965293
-Houtkampstraat,58,B,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294452,51.965293
+Houtkampstraat,58,A,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294453,51.965293
+Houtkampstraat,58,B,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294453,51.965293
 Houtkampstraat,58,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294353,51.965319
 Houtkampstraat,60,A,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294582,51.965353
 Houtkampstraat,60,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.294480,51.965342
@@ -2163,6 +2337,47 @@ Houtkampstraat,84,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.297269,51.9654
 Houtkampstraat,86,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.297695,51.965517
 Houtkampstraat,88,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.298068,51.965559
 Houtkampstraat,90,,,7001EC,Doetinchem,Doetinchem,Gelderland,VBO,6.298505,51.965621
+Houtkampstraat,1,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293915,51.965437
+Houtkampstraat,1,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965438
+Houtkampstraat,1,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965438
+Houtkampstraat,3,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965437
+Houtkampstraat,3,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965438
+Houtkampstraat,3,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965437
+Houtkampstraat,3,D,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965438
+Houtkampstraat,3,E,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,3,F,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965438
+Houtkampstraat,5,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,5,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,5,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,7,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965436
+Houtkampstraat,7,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,7,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,9,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965438
+Houtkampstraat,9,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965438
+Houtkampstraat,9,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965437
+Houtkampstraat,9,D,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965438
+Houtkampstraat,9,E,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,9,F,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965437
+Houtkampstraat,11,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,11,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965436
+Houtkampstraat,11,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965438
+Houtkampstraat,13,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965437
+Houtkampstraat,13,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965439
+Houtkampstraat,13,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965439
+Houtkampstraat,15,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965437
+Houtkampstraat,15,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965437
+Houtkampstraat,15,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965439
+Houtkampstraat,15,D,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293913,51.965437
+Houtkampstraat,17,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965439
+Houtkampstraat,17,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965437
+Houtkampstraat,17,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965438
+Houtkampstraat,19,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965438
+Houtkampstraat,19,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293909,51.965436
+Houtkampstraat,19,C,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293910,51.965438
+Houtkampstraat,21,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293909,51.965438
+Houtkampstraat,21,B,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965437
+Houtkampstraat,23,,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293912,51.965435
+Houtkampstraat,25,,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.293915,51.965438
 Houtkampstraat,31,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.294626,51.965536
 Houtkampstraat,31,,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.294645,51.965497
 Houtkampstraat,33,A,,7001ED,Doetinchem,Doetinchem,Gelderland,VBO,6.296438,51.965650
@@ -2195,14 +2410,14 @@ Holterweg,81,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298630,51.963425
 Holterweg,83,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298677,51.963357
 Holterweg,85,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298734,51.963268
 Holterweg,87,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298804,51.963169
-Holterweg,89,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298873,51.963071
+Holterweg,89,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298874,51.963071
 Holterweg,91,A,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.299071,51.963046
 Holterweg,91,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298939,51.962975
 Holterweg,93,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.299005,51.962877
 Holterweg,95,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.299038,51.962828
 Holterweg,97,A,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.299166,51.962643
 Holterweg,97,,,7001EJ,Doetinchem,Doetinchem,Gelderland,VBO,6.299144,51.962696
-Holterweg,99,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.299548,51.962264
+Holterweg,99,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.299549,51.962264
 Holterweg,101,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.299655,51.962197
 Holterweg,103,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.299744,51.962131
 Holterweg,107,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.299848,51.962040
@@ -2212,7 +2427,7 @@ Holterweg,117,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300151,51.961821
 Holterweg,119,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300862,51.961844
 Holterweg,121,A,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300344,51.962053
 Holterweg,121,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300441,51.962229
-Holterweg,123,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300383,51.961539
+Holterweg,123,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300384,51.961539
 Holterweg,125,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300502,51.961425
 Holterweg,127,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300625,51.961314
 Holterweg,129,,,7001EK,Doetinchem,Doetinchem,Gelderland,VBO,6.300716,51.961244
@@ -2248,15 +2463,15 @@ Holterweg,70,,,7001EM,Doetinchem,Doetinchem,Gelderland,VBO,6.298731,51.962616
 Holterweg,72,,,7001EM,Doetinchem,Doetinchem,Gelderland,VBO,6.298778,51.962547
 Holterweg,88,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299394,51.962045
 Holterweg,90,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299449,51.962004
-Holterweg,92,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299575,51.961910
+Holterweg,92,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299576,51.961910
 Holterweg,94,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299678,51.961833
 Holterweg,100,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299901,51.961627
 Holterweg,108,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.300318,51.961122
 Oranjehof,2,A,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299204,51.961689
 Oranjehof,2,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299291,51.961741
-Oranjehof,3,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299474,51.961608
+Oranjehof,3,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299475,51.961608
 Oranjehof,4,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299024,51.961620
-Oranjehof,5,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299250,51.961510
+Oranjehof,5,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299251,51.961510
 Oranjehof,6,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.298865,51.961518
 Oranjehof,7,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.299090,51.961408
 Oranjehof,8,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.298693,51.961408
@@ -2266,7 +2481,7 @@ Oranjehof,11,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.298773,51.961205
 Oranjehof,12,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.298440,51.961188
 Oranjehof,13,,,7001EN,Doetinchem,Doetinchem,Gelderland,VBO,6.298585,51.961122
 Brouwerskamp,1,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294941,51.965214
-Brouwerskamp,3,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294839,51.965017
+Brouwerskamp,3,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294840,51.965017
 Brouwerskamp,5,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294762,51.964962
 Brouwerskamp,15,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294604,51.964811
 Brouwerskamp,17,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294551,51.964763
@@ -2279,10 +2494,10 @@ Brouwerskamp,27,,03,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294930,51.9640
 Brouwerskamp,27,,04,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294930,51.964047
 Brouwerskamp,27,,05,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294930,51.964047
 Brouwerskamp,27,,06,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294930,51.964047
-Brouwerskamp,29,,01,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295296,51.963809
-Brouwerskamp,29,,02,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295296,51.963809
-Brouwerskamp,29,,03,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295296,51.963809
-Brouwerskamp,29,,04,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295296,51.963809
+Brouwerskamp,29,,01,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295297,51.963809
+Brouwerskamp,29,,02,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295297,51.963809
+Brouwerskamp,29,,03,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295297,51.963809
+Brouwerskamp,29,,04,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295297,51.963809
 Brouwerskamp,31,A,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295301,51.963968
 Brouwerskamp,31,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295147,51.963893
 Brouwerskamp,33,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294835,51.964166
@@ -2290,8 +2505,8 @@ Brouwerskamp,35,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294909,51.964200
 Brouwerskamp,37,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.294975,51.964241
 Brouwerskamp,39,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295013,51.964274
 Brouwerskamp,41,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295091,51.964328
-Brouwerskamp,43,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295143,51.964368
-Brouwerskamp,45,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295188,51.964407
+Brouwerskamp,43,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295144,51.964368
+Brouwerskamp,45,,,7001EP,Doetinchem,Doetinchem,Gelderland,VBO,6.295189,51.964407
 Brouwerskamp,47,,,7001ER,Doetinchem,Doetinchem,Gelderland,VBO,6.295239,51.964443
 Brouwerskamp,49,,,7001ER,Doetinchem,Doetinchem,Gelderland,VBO,6.295349,51.964435
 Brouwerskamp,51,,,7001ER,Doetinchem,Doetinchem,Gelderland,VBO,6.295424,51.964401
@@ -2311,7 +2526,7 @@ Brouwerskamp,77,,,7001ER,Doetinchem,Doetinchem,Gelderland,VBO,6.295730,51.963971
 Brouwerskamp,79,,,7001ER,Doetinchem,Doetinchem,Gelderland,VBO,6.295668,51.963954
 Brouwerskamp,81,,,7001ER,Doetinchem,Doetinchem,Gelderland,VBO,6.295600,51.963926
 Brouwerskamp,83,,,7001ER,Doetinchem,Doetinchem,Gelderland,VBO,6.295524,51.963891
-Brouwerskamp,2,,,7001ES,Doetinchem,Doetinchem,Gelderland,VBO,6.294423,51.964997
+Brouwerskamp,2,,,7001ES,Doetinchem,Doetinchem,Gelderland,VBO,6.294424,51.964997
 Brouwerskamp,4,,,7001ES,Doetinchem,Doetinchem,Gelderland,VBO,6.294362,51.964940
 Brouwerskamp,6,,,7001ES,Doetinchem,Doetinchem,Gelderland,VBO,6.294250,51.964831
 Brouwerskamp,8,,,7001ES,Doetinchem,Doetinchem,Gelderland,VBO,6.294196,51.964771
@@ -2323,7 +2538,7 @@ Burgemeester Tenkinkstraat,11,,,7001ET,Doetinchem,Doetinchem,Gelderland,VBO,6.29
 Burgemeester Tenkinkstraat,13,,,7001ET,Doetinchem,Doetinchem,Gelderland,VBO,6.294327,51.963884
 Burgemeester Tenkinkstraat,15,,,7001ET,Doetinchem,Doetinchem,Gelderland,VBO,6.294435,51.963777
 Burgemeester Tenkinkstraat,17,,,7001ET,Doetinchem,Doetinchem,Gelderland,VBO,6.294525,51.963677
-Burgemeester Tenkinkstraat,25,,,7001ET,Doetinchem,Doetinchem,Gelderland,VBO,6.294612,51.963588
+Burgemeester Tenkinkstraat,25,,,7001ET,Doetinchem,Doetinchem,Gelderland,VBO,6.294613,51.963588
 Burgemeester Tenkinkstraat,27,,,7001ET,Doetinchem,Doetinchem,Gelderland,VBO,6.294661,51.963536
 Burgemeester Tenkinkstraat,4,,,7001EV,Doetinchem,Doetinchem,Gelderland,VBO,6.293460,51.964253
 Burgemeester Tenkinkstraat,6,,,7001EV,Doetinchem,Doetinchem,Gelderland,VBO,6.293554,51.964166
@@ -2339,7 +2554,7 @@ Burgemeester Tenkinkstraat,24,,,7001EV,Doetinchem,Doetinchem,Gelderland,VBO,6.29
 Burgemeester Tenkinkstraat,26,,,7001EV,Doetinchem,Doetinchem,Gelderland,VBO,6.294258,51.963417
 Burgemeester Tenkinkstraat,28,,,7001EV,Doetinchem,Doetinchem,Gelderland,VBO,6.294330,51.963340
 Burgemeester Tenkinkstraat,30,,,7001EV,Doetinchem,Doetinchem,Gelderland,VBO,6.294401,51.963266
-Burgemeester Tenkinkstraat,32,,,7001EV,Doetinchem,Doetinchem,Gelderland,VBO,6.294448,51.963225
+Burgemeester Tenkinkstraat,32,,,7001EV,Doetinchem,Doetinchem,Gelderland,VBO,6.294449,51.963225
 Raadhuisstraat,1,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291135,51.963803
 Raadhuisstraat,2,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292288,51.963044
 Raadhuisstraat,3,,01,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291277,51.963825
@@ -2369,17 +2584,17 @@ Raadhuisstraat,3,,24,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291277,51.963
 Raadhuisstraat,3,,25,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291277,51.963829
 Raadhuisstraat,3,,26,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291275,51.963827
 Raadhuisstraat,5,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291311,51.963821
-Raadhuisstraat,6,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292696,51.963886
+Raadhuisstraat,6,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292697,51.963886
 Raadhuisstraat,7,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291359,51.963847
 Raadhuisstraat,8,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292621,51.963963
 Raadhuisstraat,9,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291422,51.963885
 Raadhuisstraat,10,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292696,51.964091
 Raadhuisstraat,11,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291463,51.963912
 Raadhuisstraat,13,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291533,51.963946
-Raadhuisstraat,14,A,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292816,51.964182
+Raadhuisstraat,14,A,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292817,51.964182
 Raadhuisstraat,14,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292742,51.964186
 Raadhuisstraat,15,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291597,51.963983
-Raadhuisstraat,16,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292782,51.964273
+Raadhuisstraat,16,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292783,51.964273
 Raadhuisstraat,17,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291655,51.964012
 Raadhuisstraat,18,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292816,51.964324
 Raadhuisstraat,19,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291716,51.964049
@@ -2387,7 +2602,7 @@ Raadhuisstraat,20,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292859,51.9643
 Raadhuisstraat,21,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291768,51.964078
 Raadhuisstraat,22,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.292983,51.964482
 Raadhuisstraat,23,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.291821,51.964112
-Raadhuisstraat,28,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.293350,51.965013
+Raadhuisstraat,28,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.293351,51.965013
 Raadhuisstraat,34,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.294124,51.965791
 Raadhuisstraat,36,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.294305,51.965823
 Raadhuisstraat,38,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.294323,51.965863
@@ -2397,7 +2612,7 @@ Raadhuisstraat,44,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.294265,51.9658
 Raadhuisstraat,46,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.294273,51.965848
 Raadhuisstraat,48,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.294297,51.965906
 Raadhuisstraat,50,,,7001EW,Doetinchem,Doetinchem,Gelderland,VBO,6.294335,51.965967
-Raadhuisstraat,25,,,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.293092,51.965734
+Raadhuisstraat,25,,,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.293093,51.965734
 Raadhuisstraat,27,,,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.293105,51.965987
 Raadhuisstraat,29,,,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.293105,51.965987
 Raadhuisstraat,31,,,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.293105,51.965987
@@ -2428,7 +2643,6 @@ Tjalmastraat,1,,03,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.292734,51.96385
 Tjalmastraat,1,,04,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.292734,51.963853
 Tjalmastraat,1,,05,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.292734,51.963853
 Tjalmastraat,1,,06,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.292734,51.963853
-Tjalmastraat,3,,,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.292918,51.963803
 Tjalmastraat,3,,,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.292997,51.963711
 Tjalmastraat,5,,,7001EX,Doetinchem,Doetinchem,Gelderland,VBO,6.292869,51.963765
 Plantenstraat,2,A,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.293165,51.962405
@@ -2439,7 +2653,7 @@ Plantenstraat,10,,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.293777,51.96268
 Plantenstraat,12,,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.293790,51.962675
 Plantenstraat,22,,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.293987,51.962803
 Plantenstraat,24,,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.294263,51.962899
-Plantenstraat,32,,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.294465,51.962960
+Plantenstraat,32,,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.294466,51.962960
 Plantenstraat,34,,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.294670,51.963020
 Plantenstraat,36,,,7001EZ,Doetinchem,Doetinchem,Gelderland,VBO,6.294743,51.963031
 Passtraat,1,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.295464,51.963532
@@ -2451,7 +2665,7 @@ Passtraat,8,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296082,51.963310
 Passtraat,9,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296208,51.963861
 Passtraat,10,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296127,51.963512
 Passtraat,11,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296306,51.963964
-Passtraat,12,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296250,51.963574
+Passtraat,12,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296251,51.963574
 Passtraat,14,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296622,51.963864
 Passtraat,16,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296681,51.963920
 Passtraat,18,,,7001GA,Doetinchem,Doetinchem,Gelderland,VBO,6.296793,51.964026
@@ -2474,18 +2688,19 @@ Louise de Colignystraat,13,,,7001GD,Doetinchem,Doetinchem,Gelderland,VBO,6.29710
 Louise de Colignystraat,15,,,7001GD,Doetinchem,Doetinchem,Gelderland,VBO,6.296730,51.963375
 Louise de Colignystraat,17,,,7001GD,Doetinchem,Doetinchem,Gelderland,VBO,6.296665,51.963436
 Louise de Colignystraat,19,,,7001GD,Doetinchem,Doetinchem,Gelderland,VBO,6.296564,51.963516
-Louise de Colignystraat,21,,,7001GD,Doetinchem,Doetinchem,Gelderland,VBO,6.296443,51.963596
+Louise de Colignystraat,21,,,7001GD,Doetinchem,Doetinchem,Gelderland,VBO,6.296444,51.963596
 Louise de Colignystraat,2,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.298127,51.962277
 Louise de Colignystraat,4,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.298064,51.962338
 Louise de Colignystraat,6,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297962,51.962432
 Louise de Colignystraat,8,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297900,51.962492
 Louise de Colignystraat,10,A,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297725,51.962661
 Louise de Colignystraat,10,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297794,51.962595
+Louise de Colignystraat,12,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297568,51.962794
 Louise de Colignystraat,14,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297075,51.963466
-Louise de Colignystraat,16,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297040,51.963501
+Louise de Colignystraat,16,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297041,51.963501
 Louise de Colignystraat,18,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.297023,51.963697
 Louise de Colignystraat,20,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.296925,51.963725
-Louise de Colignystraat,22,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.296796,51.963761
+Louise de Colignystraat,22,,,7001GE,Doetinchem,Doetinchem,Gelderland,VBO,6.296797,51.963761
 Willem de Zwijgerstraat,1,,,7001GG,Doetinchem,Doetinchem,Gelderland,VBO,6.296524,51.962952
 Willem de Zwijgerstraat,3,,,7001GG,Doetinchem,Doetinchem,Gelderland,VBO,6.296699,51.963021
 Willem de Zwijgerstraat,5,,,7001GG,Doetinchem,Doetinchem,Gelderland,VBO,6.296840,51.963114
@@ -2501,11 +2716,11 @@ Willem de Zwijgerstraat,16,,,7001GH,Doetinchem,Doetinchem,Gelderland,VBO,6.29780
 Willem de Zwijgerstraat,18,,,7001GH,Doetinchem,Doetinchem,Gelderland,VBO,6.297916,51.963320
 Willem de Zwijgerstraat,20,,,7001GH,Doetinchem,Doetinchem,Gelderland,VBO,6.298030,51.963361
 Prins Bernhardstraat,1,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297044,51.961504
-Prins Bernhardstraat,2,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297246,51.961742
+Prins Bernhardstraat,2,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297247,51.961742
 Prins Bernhardstraat,3,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.296061,51.962451
 Prins Bernhardstraat,4,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297178,51.961813
 Prins Bernhardstraat,6,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297011,51.961983
-Prins Bernhardstraat,8,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.296902,51.962093
+Prins Bernhardstraat,8,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.296903,51.962093
 Prins Bernhardstraat,10,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.296794,51.962202
 Prins Bernhardstraat,12,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.296697,51.962304
 Prins Bernhardstraat,14,,,7001GJ,Doetinchem,Doetinchem,Gelderland,VBO,6.296644,51.962359
@@ -2542,12 +2757,12 @@ Terborgseweg,29,,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294044,51.960766
 Terborgseweg,31,A,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294134,51.960675
 Terborgseweg,31,B,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294222,51.960747
 Terborgseweg,31,C,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294269,51.960706
-Terborgseweg,31,,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294108,51.960701
+Terborgseweg,31,,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294109,51.960701
 Terborgseweg,33,A,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294234,51.960573
 Terborgseweg,33,,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294193,51.960615
 Terborgseweg,35,A,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294351,51.960505
 Terborgseweg,35,,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294316,51.960490
-Terborgseweg,37,A,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294434,51.960430
+Terborgseweg,37,A,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294435,51.960430
 Terborgseweg,37,,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294381,51.960424
 Terborgseweg,39,,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294491,51.960329
 Terborgseweg,41,A,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294583,51.960265
@@ -2556,9 +2771,12 @@ Terborgseweg,41,,,7001GM,Doetinchem,Doetinchem,Gelderland,VBO,6.294527,51.960303
 Terborgseweg,43,,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.294953,51.960052
 Terborgseweg,45,A,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295103,51.959969
 Terborgseweg,45,,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295028,51.960010
-Terborgseweg,49,A,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295326,51.959877
+Terborgseweg,49,A,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295238,51.959897
+Terborgseweg,49,A,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295346,51.959974
+Terborgseweg,49,B,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295340,51.959968
+Terborgseweg,49,C,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295331,51.959961
 Terborgseweg,49,,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295229,51.959890
-Terborgseweg,51,,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295396,51.959813
+Terborgseweg,51,,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295397,51.959813
 Terborgseweg,53,,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295469,51.959776
 Terborgseweg,55,A,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295556,51.959727
 Terborgseweg,55,B,,7001GN,Doetinchem,Doetinchem,Gelderland,VBO,6.295836,51.959796
@@ -2588,7 +2806,7 @@ Wilhelminastraat,21,,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.296353,51.96
 Wilhelminastraat,23,,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.296539,51.960989
 Wilhelminastraat,25,,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.296679,51.961047
 Wilhelminastraat,27,A,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.296859,51.961127
-Wilhelminastraat,27,,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.296804,51.961104
+Wilhelminastraat,27,,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.296805,51.961104
 Wilhelminastraat,29,,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.296988,51.961193
 Wilhelminastraat,31,,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.297131,51.961270
 Wilhelminastraat,33,,,7001GS,Doetinchem,Doetinchem,Gelderland,VBO,6.297210,51.961312
@@ -2614,7 +2832,7 @@ Wilhelminastraat,91,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299904,51.96
 Wilhelminastraat,93,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299904,51.963629
 Wilhelminastraat,95,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299906,51.963690
 Wilhelminastraat,97,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299898,51.963753
-Wilhelminastraat,99,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299932,51.963874
+Wilhelminastraat,99,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299918,51.963874
 Wilhelminastraat,101,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299901,51.963939
 Wilhelminastraat,103,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299914,51.964050
 Wilhelminastraat,105,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299910,51.964117
@@ -2627,7 +2845,7 @@ Wilhelminastraat,129,A,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299600,51.
 Wilhelminastraat,129,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299657,51.965192
 Wilhelminastraat,131,,,7001GV,Doetinchem,Doetinchem,Gelderland,VBO,6.299597,51.965363
 Wilhelminastraat,2,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.295235,51.960216
-Wilhelminastraat,4,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.295436,51.960328
+Wilhelminastraat,4,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.295437,51.960328
 Wilhelminastraat,6,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.295534,51.960383
 Wilhelminastraat,8,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.295665,51.960462
 Wilhelminastraat,10,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.295809,51.960532
@@ -2642,7 +2860,7 @@ Wilhelminastraat,36,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.298399,51.96
 Wilhelminastraat,38,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.298463,51.961784
 Wilhelminastraat,40,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.298593,51.961881
 Wilhelminastraat,42,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.298683,51.961938
-Wilhelminastraat,44,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.298824,51.962028
+Wilhelminastraat,44,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.298825,51.962028
 Wilhelminastraat,46,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.298885,51.962065
 Wilhelminastraat,48,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.299123,51.962168
 Wilhelminastraat,50,,,7001GW,Doetinchem,Doetinchem,Gelderland,VBO,6.299203,51.962166
@@ -2669,7 +2887,8 @@ Wilhelminastraat,118,,,7001GZ,Doetinchem,Doetinchem,Gelderland,VBO,6.300311,51.9
 Wilhelminastraat,120,,,7001GZ,Doetinchem,Doetinchem,Gelderland,VBO,6.300311,51.964621
 Wilhelminastraat,122,,,7001GZ,Doetinchem,Doetinchem,Gelderland,VBO,6.300298,51.964897
 Wilhelminastraat,124,,,7001GZ,Doetinchem,Doetinchem,Gelderland,VBO,6.300250,51.965119
-Wilhelminastraat,126,,,7001GZ,Doetinchem,Doetinchem,Gelderland,VBO,6.300140,51.965306
+Wilhelminastraat,126,,,7001GZ,Doetinchem,Doetinchem,Gelderland,VBO,6.300141,51.965306
+Meestersstraat,1,,,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298060,51.964047
 Meestersstraat,2,A,01,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298737,51.964020
 Meestersstraat,2,A,02,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298705,51.963975
 Meestersstraat,2,A,03,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298676,51.963949
@@ -2678,9 +2897,9 @@ Meestersstraat,2,A,05,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298428,51.96
 Meestersstraat,2,A,06,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298471,51.963994
 Meestersstraat,2,A,07,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298709,51.964251
 Meestersstraat,2,A,08,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298738,51.964276
-Meestersstraat,2,A,09,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298902,51.964216
+Meestersstraat,2,A,09,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298903,51.964216
 Meestersstraat,2,A,10,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298869,51.964172
-Meestersstraat,2,A,11,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298837,51.964144
+Meestersstraat,2,A,11,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298838,51.964144
 Meestersstraat,2,A,12,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298800,51.964108
 Meestersstraat,2,A,,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298679,51.964102
 Meestersstraat,2,B,01,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298716,51.964032
@@ -2690,7 +2909,7 @@ Meestersstraat,2,B,04,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298480,51.96
 Meestersstraat,2,B,05,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298649,51.964151
 Meestersstraat,2,B,06,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298694,51.964192
 Meestersstraat,2,B,07,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298735,51.964235
-Meestersstraat,2,B,08,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298772,51.964262
+Meestersstraat,2,B,08,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298773,51.964262
 Meestersstraat,2,B,09,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298860,51.964232
 Meestersstraat,2,B,10,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298842,51.964188
 Meestersstraat,2,B,11,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298808,51.964162
@@ -2710,7 +2929,7 @@ Meestersstraat,2,C,11,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.299256,51.96
 Meestersstraat,2,C,12,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.299203,51.963935
 Meestersstraat,2,C,,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.299157,51.963853
 Meestersstraat,2,D,01,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.299023,51.963786
-Meestersstraat,2,D,02,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298981,51.963750
+Meestersstraat,2,D,02,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298982,51.963750
 Meestersstraat,2,D,03,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298878,51.963782
 Meestersstraat,2,D,04,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298927,51.963831
 Meestersstraat,2,D,05,7001HC,Doetinchem,Doetinchem,Gelderland,VBO,6.298967,51.963882
@@ -2750,12 +2969,12 @@ Julianaplein,23,,,7001HE,Doetinchem,Doetinchem,Gelderland,VBO,6.298724,51.960490
 Julianaplein,25,,,7001HE,Doetinchem,Doetinchem,Gelderland,VBO,6.298804,51.960437
 Julianaplein,27,,,7001HE,Doetinchem,Doetinchem,Gelderland,VBO,6.298963,51.960319
 Julianaplein,29,,,7001HE,Doetinchem,Doetinchem,Gelderland,VBO,6.299076,51.960253
-Julianaplein,31,,,7001HE,Doetinchem,Doetinchem,Gelderland,VBO,6.299223,51.960134
+Julianaplein,31,,,7001HE,Doetinchem,Doetinchem,Gelderland,VBO,6.299224,51.960134
 Julianaplein,2,,,7001HG,Doetinchem,Doetinchem,Gelderland,VBO,6.297165,51.960724
 Julianaplein,10,,,7001HG,Doetinchem,Doetinchem,Gelderland,VBO,6.297601,51.960490
-Julianaplein,14,,,7001HG,Doetinchem,Doetinchem,Gelderland,VBO,6.297769,51.960384
+Julianaplein,14,,,7001HG,Doetinchem,Doetinchem,Gelderland,VBO,6.297770,51.960384
 Julianaplein,16,,,7001HG,Doetinchem,Doetinchem,Gelderland,VBO,6.298472,51.959893
-Julianaplein,18,,,7001HG,Doetinchem,Doetinchem,Gelderland,VBO,6.298531,51.959852
+Julianaplein,18,,,7001HG,Doetinchem,Doetinchem,Gelderland,VBO,6.298532,51.959852
 Julianaplein,20,,,7001HG,Doetinchem,Doetinchem,Gelderland,VBO,6.298674,51.959755
 Emmastraat,15,,,7001HH,Doetinchem,Doetinchem,Gelderland,VBO,6.297451,51.959961
 Emmastraat,17,,,7001HH,Doetinchem,Doetinchem,Gelderland,VBO,6.297608,51.960038
@@ -2764,7 +2983,7 @@ Emmastraat,2,A,,7001HJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297738,51.959815
 Emmastraat,2,A,,7001HJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297747,51.959820
 Emmastraat,2,,,7001HJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297817,51.959859
 Emmastraat,2,,,7001HJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297830,51.959863
-Emmastraat,4,,,7001HJ,Doetinchem,Doetinchem,Gelderland,VBO,6.297999,51.959949
+Emmastraat,4,,,7001HJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298000,51.959949
 Emmastraat,6,,,7001HJ,Doetinchem,Doetinchem,Gelderland,VBO,6.298223,51.960057
 Willemstraat,1,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.298703,51.960795
 Willemstraat,7,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.298899,51.960898
@@ -2773,7 +2992,7 @@ Willemstraat,11,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299149,51.961027
 Willemstraat,13,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299275,51.961093
 Willemstraat,15,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299394,51.961158
 Willemstraat,17,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299527,51.961217
-Willemstraat,19,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299646,51.961287
+Willemstraat,19,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299647,51.961287
 Willemstraat,21,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299720,51.961325
 Willemstraat,23,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299783,51.961358
 Willemstraat,25,,,7001HK,Doetinchem,Doetinchem,Gelderland,VBO,6.299882,51.961439
@@ -2787,30 +3006,30 @@ Willemstraat,12,,,7001HL,Doetinchem,Doetinchem,Gelderland,VBO,6.299708,51.961030
 Willemstraat,14,,,7001HL,Doetinchem,Doetinchem,Gelderland,VBO,6.299795,51.961076
 Willemstraat,16,,,7001HL,Doetinchem,Doetinchem,Gelderland,VBO,6.299867,51.961114
 Willemstraat,18,,,7001HL,Doetinchem,Doetinchem,Gelderland,VBO,6.299943,51.961153
-Willemstraat,22,,,7001HL,Doetinchem,Doetinchem,Gelderland,VBO,6.300133,51.961253
-J F Kennedylaan,31,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.299599,51.960214
+Willemstraat,22,,,7001HL,Doetinchem,Doetinchem,Gelderland,VBO,6.300134,51.961253
+J F Kennedylaan,31,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.299600,51.960214
 J F Kennedylaan,33,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.299755,51.960312
 J F Kennedylaan,35,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.299890,51.960418
 J F Kennedylaan,37,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.300034,51.960522
 J F Kennedylaan,39,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.300171,51.960630
 J F Kennedylaan,41,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.300309,51.960741
 J F Kennedylaan,43,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.300410,51.960824
-J F Kennedylaan,45,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.300506,51.960905
+J F Kennedylaan,45,,,7001HM,Doetinchem,Doetinchem,Gelderland,VBO,6.300507,51.960905
 Graaf Ottostraat,1,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.299074,51.958894
 Graaf Ottostraat,2,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298975,51.958968
-Graaf Ottostraat,3,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.299130,51.958851
+Graaf Ottostraat,3,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.299131,51.958851
 Graaf Ottostraat,4,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298880,51.959040
-Graaf Ottostraat,5,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.299177,51.958816
+Graaf Ottostraat,5,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.299178,51.958816
 Graaf Ottostraat,6,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298695,51.958878
 Graaf Ottostraat,7,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.299230,51.958776
 Graaf Ottostraat,8,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298590,51.958826
 Graaf Ottostraat,10,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298352,51.958744
 Graaf Ottostraat,12,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298226,51.958639
 Graaf Ottostraat,14,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298140,51.958595
-Graaf Ottostraat,16,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298049,51.958549
+Graaf Ottostraat,16,,,7001HN,Doetinchem,Doetinchem,Gelderland,VBO,6.298050,51.958549
 Pompenhof,1,,,7001JA,Doetinchem,Doetinchem,Gelderland,VBO,6.292093,51.969520
 Pompenhof,3,,,7001JA,Doetinchem,Doetinchem,Gelderland,VBO,6.292123,51.969473
-Pompenhof,5,,,7001JA,Doetinchem,Doetinchem,Gelderland,VBO,6.292179,51.969563
+Pompenhof,5,,,7001JA,Doetinchem,Doetinchem,Gelderland,VBO,6.292180,51.969563
 Pompenhof,7,,,7001JA,Doetinchem,Doetinchem,Gelderland,VBO,6.292199,51.969534
 Pompenhof,9,,,7001JA,Doetinchem,Doetinchem,Gelderland,VBO,6.292220,51.969501
 Pompenhof,11,,,7001JA,Doetinchem,Doetinchem,Gelderland,VBO,6.291699,51.969814
@@ -2871,6 +3090,10 @@ Hofstraat,129,,,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.286881,51.967808
 Hofstraat,155,,,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.287210,51.968158
 Hofstraat,159,,,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.287841,51.968345
 Hofstraat,161,,,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.288284,51.969196
+Hofstraat,167,,,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.290206,51.969535
+Hofstraat,169,,,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.290238,51.969601
+Hofstraat,171,,,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.290433,51.969732
+Hofstraat,173,,,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.290473,51.969805
 Hofstraat,175,,01,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.291956,51.970718
 Hofstraat,175,,02,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.291956,51.970718
 Hofstraat,175,,03,7001JD,Doetinchem,Doetinchem,Gelderland,VBO,6.291956,51.970718
@@ -2929,28 +3152,37 @@ Erdbrinkplein,60,,,7001JE,Doetinchem,Doetinchem,Gelderland,VBO,6.286185,51.96826
 Erdbrinkplein,62,,,7001JE,Doetinchem,Doetinchem,Gelderland,VBO,6.286185,51.968262
 Erdbrinkplein,64,,,7001JE,Doetinchem,Doetinchem,Gelderland,VBO,6.286185,51.968262
 Willem Rodalaan,1,,,7001KA,Doetinchem,Doetinchem,Gelderland,VBO,6.286511,51.970632
-Willem Rodalaan,2,,,7001KB,Doetinchem,Doetinchem,Gelderland,VBO,6.286021,51.970976
+Willem Rodalaan,2,,,7001KB,Doetinchem,Doetinchem,Gelderland,VBO,6.286022,51.970976
 Willem Rodalaan,4,,,7001KB,Doetinchem,Doetinchem,Gelderland,VBO,6.285851,51.970723
 Willem Rodalaan,6,,,7001KB,Doetinchem,Doetinchem,Gelderland,VBO,6.285756,51.970633
-Willem Rodalaan,10,,,7001KB,Doetinchem,Doetinchem,Gelderland,VBO,6.285643,51.970397
+Willem Rodalaan,8,,,7001KB,Doetinchem,Doetinchem,Gelderland,VBO,6.285757,51.970511
+Willem Rodalaan,10,,,7001KB,Doetinchem,Doetinchem,Gelderland,VBO,6.285644,51.970397
 Willem Rodalaan,12,,,7001KB,Doetinchem,Doetinchem,Gelderland,VBO,6.285507,51.970286
 Stoomtram,8,,,7001KC,Doetinchem,Doetinchem,Gelderland,VBO,6.284983,51.969748
 Stoomtram,10,,,7001KC,Doetinchem,Doetinchem,Gelderland,VBO,6.284777,51.969842
 Stoomtram,14,,,7001KC,Doetinchem,Doetinchem,Gelderland,VBO,6.284422,51.970057
-Ruimzichtlaan,128,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287236,51.969691
-Ruimzichtlaan,130,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287161,51.969740
-Ruimzichtlaan,132,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287261,51.969753
-Ruimzichtlaan,134,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287282,51.969789
+Ruimzichtlaan,101,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286362,51.969351
+Ruimzichtlaan,103,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286390,51.969398
+Ruimzichtlaan,105,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286412,51.969446
+Ruimzichtlaan,107,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286443,51.969492
+Ruimzichtlaan,109,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286376,51.969637
+Ruimzichtlaan,111,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286486,51.969652
+Ruimzichtlaan,113,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286404,51.969699
+Ruimzichtlaan,115,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286421,51.969730
+Ruimzichtlaan,117,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286535,51.969744
+Ruimzichtlaan,119,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286452,51.969800
+Ruimzichtlaan,121,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286611,51.969880
+Ruimzichtlaan,123,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286634,51.969926
+Ruimzichtlaan,125,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286658,51.969972
+Ruimzichtlaan,127,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286739,51.970080
+Ruimzichtlaan,129,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286762,51.970127
+Ruimzichtlaan,131,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286785,51.970174
+Ruimzichtlaan,133,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286808,51.970220
 Ruimzichtlaan,135,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286886,51.970377
-Ruimzichtlaan,136,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287204,51.969834
 Ruimzichtlaan,137,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286908,51.970416
-Ruimzichtlaan,138,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287313,51.969852
 Ruimzichtlaan,139,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286930,51.970462
-Ruimzichtlaan,140,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287305,51.969989
 Ruimzichtlaan,141,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286903,51.970522
-Ruimzichtlaan,142,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287330,51.970035
 Ruimzichtlaan,143,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286924,51.970569
-Ruimzichtlaan,144,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.287354,51.970083
 Ruimzichtlaan,145,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286832,51.970381
 Ruimzichtlaan,147,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286855,51.970430
 Ruimzichtlaan,149,,,7001KD,Doetinchem,Doetinchem,Gelderland,VBO,6.286876,51.970476
@@ -3008,42 +3240,34 @@ Ruimzichtlaan,94,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287060,51.96926
 Ruimzichtlaan,96,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287060,51.969264
 Ruimzichtlaan,98,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287060,51.969264
 Ruimzichtlaan,100,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287060,51.969264
-Ruimzichtlaan,101,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286362,51.969351
 Ruimzichtlaan,102,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287060,51.969264
-Ruimzichtlaan,103,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286390,51.969398
 Ruimzichtlaan,104,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287028,51.969386
-Ruimzichtlaan,105,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286412,51.969446
 Ruimzichtlaan,106,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287012,51.969435
-Ruimzichtlaan,107,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286443,51.969492
 Ruimzichtlaan,108,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287039,51.969497
-Ruimzichtlaan,109,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286376,51.969637
 Ruimzichtlaan,110,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287084,51.969587
-Ruimzichtlaan,111,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286486,51.969652
 Ruimzichtlaan,112,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287194,51.969519
-Ruimzichtlaan,113,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286404,51.969699
 Ruimzichtlaan,114,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287194,51.969519
-Ruimzichtlaan,115,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286421,51.969730
 Ruimzichtlaan,116,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287194,51.969519
-Ruimzichtlaan,117,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286535,51.969744
 Ruimzichtlaan,118,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287194,51.969519
-Ruimzichtlaan,119,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286452,51.969800
 Ruimzichtlaan,120,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287194,51.969519
-Ruimzichtlaan,121,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286611,51.969880
 Ruimzichtlaan,122,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287194,51.969519
-Ruimzichtlaan,123,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286634,51.969926
 Ruimzichtlaan,124,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287194,51.969519
-Ruimzichtlaan,125,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286658,51.969972
 Ruimzichtlaan,126,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287194,51.969519
-Ruimzichtlaan,127,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286739,51.970080
-Ruimzichtlaan,129,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286762,51.970127
-Ruimzichtlaan,131,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286785,51.970174
-Ruimzichtlaan,133,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.286808,51.970220
-Ruimzichtlaan,150,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.288298,51.972589
+Ruimzichtlaan,128,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287236,51.969691
+Ruimzichtlaan,130,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287161,51.969740
+Ruimzichtlaan,132,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287261,51.969753
+Ruimzichtlaan,134,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287282,51.969789
+Ruimzichtlaan,136,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287205,51.969834
+Ruimzichtlaan,138,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287313,51.969852
+Ruimzichtlaan,140,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287306,51.969989
+Ruimzichtlaan,142,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287331,51.970035
+Ruimzichtlaan,144,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.287354,51.970083
+Ruimzichtlaan,150,,,7001KG,Doetinchem,Doetinchem,Gelderland,VBO,6.288299,51.972589
 Koperen Kees,1,A,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287211,51.968533
 Koperen Kees,1,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287326,51.968631
 Koperen Kees,3,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287365,51.968669
 Koperen Kees,5,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287405,51.968703
-Koperen Kees,7,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287428,51.968724
+Koperen Kees,7,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287429,51.968724
 Koperen Kees,9,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287478,51.968763
 Koperen Kees,11,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287524,51.968804
 Koperen Kees,13,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287560,51.968844
@@ -3053,13 +3277,13 @@ Koperen Kees,19,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287604,51.968984
 Koperen Kees,21,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287618,51.969032
 Koperen Kees,23,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287631,51.969081
 Koperen Kees,25,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287642,51.969128
-Koperen Kees,27,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287654,51.969175
-Koperen Kees,29,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287670,51.969224
+Koperen Kees,27,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287655,51.969175
+Koperen Kees,29,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287671,51.969224
 Koperen Kees,31,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287684,51.969271
 Koperen Kees,33,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287696,51.969319
 Koperen Kees,35,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287706,51.969367
 Koperen Kees,37,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287721,51.969421
-Koperen Kees,39,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287587,51.969491
+Koperen Kees,39,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287588,51.969491
 Koperen Kees,41,,,7001KH,Doetinchem,Doetinchem,Gelderland,VBO,6.287471,51.969510
 Koperen Kees,4,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.288621,51.969248
 Koperen Kees,6,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.288677,51.969303
@@ -3089,23 +3313,23 @@ Koperen Kees,52,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.287797,51.969612
 Koperen Kees,54,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.287730,51.969628
 Koperen Kees,56,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.287663,51.969641
 Koperen Kees,58,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.287596,51.969654
-Koperen Kees,60,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.287510,51.969629
+Koperen Kees,60,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.287511,51.969629
 Koperen Kees,62,,,7001KJ,Doetinchem,Doetinchem,Gelderland,VBO,6.287441,51.969642
 Kalverstraat,1,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.298532,51.964747
 Kalverstraat,2,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.298579,51.964946
-Kalverstraat,3,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.298300,51.964736
+Kalverstraat,3,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.298301,51.964736
 Kalverstraat,4,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.298331,51.964934
-Kalverstraat,5,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.298036,51.964728
+Kalverstraat,5,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.298037,51.964728
 Kalverstraat,6,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.298010,51.964928
-Kalverstraat,7,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.297947,51.964724
+Kalverstraat,7,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.297948,51.964724
 Kalverstraat,8,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.297785,51.964914
 Kalverstraat,9,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.297709,51.964714
 Kalverstraat,10,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.297429,51.964909
 Kalverstraat,11,,,7001LA,Doetinchem,Doetinchem,Gelderland,VBO,6.297427,51.964705
-Markthalstraat,1,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.296899,51.964501
+Markthalstraat,1,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.296900,51.964501
 Markthalstraat,2,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.297150,51.964379
 Markthalstraat,3,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.297025,51.964763
-Markthalstraat,4,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.297252,51.964498
+Markthalstraat,4,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.297253,51.964498
 Markthalstraat,5,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.297051,51.964947
 Markthalstraat,7,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.297032,51.965066
 Markthalstraat,8,,,7001LB,Doetinchem,Doetinchem,Gelderland,VBO,6.297377,51.965107
