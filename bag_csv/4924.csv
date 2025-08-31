@@ -1,6 +1,7 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Biesbosch,1,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.835090,51.716736
+Biesbosch,1,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.835089,51.716736
 Biesbosch,2,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.844992,51.733180
+Biesbosch,3,A,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.843859,51.737993
 Biesbosch,3,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.844073,51.738135
 Biesbosch,4,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.843837,51.738388
 Biesbosch,6,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.847016,51.755031
@@ -19,13 +20,70 @@ Biesbosch,32,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.814639,51.733897
 Biesbosch,34,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.815233,51.733814
 Biesbosch,36,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823101,51.735373
 Biesbosch,38,,,4924AA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823205,51.735407
-Marinaweg,9,A,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810240,51.707811
-Marinaweg,9,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810318,51.707733
-Marinaweg,21,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810722,51.706492
+Marinaweg,9,A,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810744,51.707671
+Marinaweg,9,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810774,51.707594
+Marinaweg,10,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810161,51.707307
+Marinaweg,13,,43,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810691,51.707233
+Marinaweg,13,,44,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810739,51.707231
+Marinaweg,13,,45,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810801,51.707227
+Marinaweg,13,,46,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810865,51.707222
+Marinaweg,13,,47,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810929,51.707218
+Marinaweg,13,,48,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810986,51.707217
+Marinaweg,13,,49,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810999,51.707274
+Marinaweg,13,,50,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.811009,51.707345
+Marinaweg,13,,51,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810923,51.707306
+Marinaweg,13,,52,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810806,51.707313
+Marinaweg,13,,53,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810746,51.707316
+Marinaweg,13,,54,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810698,51.707320
+Marinaweg,13,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810849,51.707295
+Marinaweg,17,,27,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810686,51.706935
+Marinaweg,17,,28,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810698,51.706889
+Marinaweg,17,,29,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810759,51.706885
+Marinaweg,17,,30,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810839,51.706898
+Marinaweg,17,,31,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810787,51.706958
+Marinaweg,17,,32,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810795,51.707022
+Marinaweg,17,,33,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810802,51.707075
+Marinaweg,17,,34,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810872,51.707120
+Marinaweg,17,,35,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810802,51.707135
+Marinaweg,17,,36,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810710,51.707133
+Marinaweg,17,,37,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810698,51.707082
+Marinaweg,17,,38,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810760,51.707113
+Marinaweg,17,,39,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810754,51.707077
+Marinaweg,17,,40,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810744,51.707026
+Marinaweg,17,,41,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810734,51.706970
+Marinaweg,17,,42,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810727,51.706921
+Marinaweg,19,,09,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810775,51.706709
+Marinaweg,19,,10,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810842,51.706705
+Marinaweg,19,,11,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810915,51.706705
+Marinaweg,19,,12,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810916,51.706733
+Marinaweg,19,,13,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810921,51.706760
+Marinaweg,19,,14,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810924,51.706784
+Marinaweg,19,,15,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810901,51.706792
+Marinaweg,19,,16,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810813,51.706796
+Marinaweg,19,,17,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810697,51.706802
+Marinaweg,19,,18,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810619,51.706801
+Marinaweg,19,,19,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810614,51.706777
+Marinaweg,19,,20,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810608,51.706748
+Marinaweg,19,,21,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810604,51.706721
+Marinaweg,19,,22,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810702,51.706724
+Marinaweg,19,,23,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810704,51.706747
+Marinaweg,19,,24,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810706,51.706770
+Marinaweg,19,,25,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810708,51.706790
+Marinaweg,19,,26,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810812,51.706755
+Marinaweg,21,,01,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810773,51.706609
+Marinaweg,21,,02,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810769,51.706589
+Marinaweg,21,,03,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810766,51.706568
+Marinaweg,21,,04,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810763,51.706541
+Marinaweg,21,,05,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810581,51.706549
+Marinaweg,21,,06,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810583,51.706574
+Marinaweg,21,,07,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810586,51.706599
+Marinaweg,21,,08,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810590,51.706628
+Marinaweg,21,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810721,51.706492
 Marinaweg,31,A,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.815835,51.705467
 Marinaweg,31,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.815774,51.705509
+Marinaweg,39,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.821578,51.707368
 Marinaweg,41,A,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822454,51.707269
-Marinaweg,41,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822284,51.707290
+Marinaweg,41,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822283,51.707290
 Marinaweg,43,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822544,51.707488
 Marinaweg,45,A,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822595,51.707803
 Marinaweg,45,B,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822541,51.707700
@@ -33,15 +91,17 @@ Marinaweg,45,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822691,51.707735
 Marinaweg,50,D,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823855,51.708138
 Marinaweg,50,E,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823819,51.708010
 Marinaweg,50,F,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.824072,51.708047
-Marinaweg,50,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823278,51.706588
+Marinaweg,50,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823277,51.706588
 Marinaweg,51,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822776,51.708429
-Marinaweg,52,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.824109,51.707673
+Marinaweg,52,A,01,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823457,51.707539
+Marinaweg,52,A,02,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823397,51.707520
+Marinaweg,52,A,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.823524,51.707558
+Marinaweg,52,,,4924AD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.824189,51.707733
 Nieuwe Jachthaven,1,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.811087,51.708529
 Nieuwe Jachthaven,2,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810404,51.708583
-Nieuwe Jachthaven,5,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.811154,51.708525
-Nieuwe Jachthaven,6,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.811179,51.707707
+Nieuwe Jachthaven,5,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.811110,51.708375
+Nieuwe Jachthaven,6,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.811608,51.707552
 Nieuwe Jachthaven,7,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810947,51.708545
-Nieuwe Jachthaven,8,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.811609,51.707552
 Nieuwe Jachthaven,9,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.811024,51.708542
 Nieuwe Jachthaven,13,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810825,51.708548
 Nieuwe Jachthaven,20,,,4924BA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.815457,51.707532
@@ -55,29 +115,44 @@ Biesboschweg,2,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810621,51.710255
 Biesboschweg,3,A,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810310,51.709121
 Biesboschweg,3,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810251,51.709095
 Biesboschweg,4,A,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810844,51.709064
-Biesboschweg,4,B,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810113,51.708666
+Biesboschweg,4,B,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.809730,51.708561
+Biesboschweg,4,F,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806435,51.707826
 Biesboschweg,4,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.810877,51.709403
 Biesboschweg,5,A,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.808764,51.708911
-Biesboschweg,5,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.809457,51.708876
-Biesboschweg,6,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804929,51.708863
-Biesboschweg,8,A,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805464,51.710007
-Biesboschweg,8,B,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804362,51.709341
-Biesboschweg,8,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804311,51.709377
+Biesboschweg,5,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.809421,51.708880
+Biesboschweg,6,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804928,51.708863
+Biesboschweg,8,A,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805404,51.710067
+Biesboschweg,8,K,13,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803685,51.710023
+Biesboschweg,8,K,14,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803695,51.710124
+Biesboschweg,8,K,16,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804142,51.710015
+Biesboschweg,8,K,20,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804480,51.709712
+Biesboschweg,8,K,27,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805124,51.710201
+Biesboschweg,8,K,32,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804187,51.710242
+Biesboschweg,8,K,33,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804021,51.710253
+Biesboschweg,8,K,34,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803833,51.710257
+Biesboschweg,8,K,35,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803670,51.710244
+Biesboschweg,8,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804369,51.709378
 Biesboschweg,9,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805562,51.710250
 Biesboschweg,10,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806467,51.709590
-Biesboschweg,13,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805968,51.710198
-Biesboschweg,15,A,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806768,51.709979
-Biesboschweg,15,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806229,51.710352
+Biesboschweg,13,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805967,51.710198
+Biesboschweg,15,A,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806767,51.709979
+Biesboschweg,15,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806228,51.710352
 Biesboschweg,17,,,4924BB,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807476,51.709882
 Havenkade,1,A,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.808713,51.709376
+Havenkade,1,B,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.808410,51.708960
 Havenkade,1,I,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807431,51.708571
-Havenkade,1,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.808439,51.708996
+Havenkade,1,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.808417,51.709037
 Havenkade,5,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807244,51.708793
 Havenkade,15,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,LIG,4.807151,51.709055
 Havenkade,17,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806494,51.708803
 Havenkade,21,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806999,51.708756
 Havenkade,23,A,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806671,51.708505
-Havenkade,23,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806825,51.708575
+Havenkade,23,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806825,51.708576
+Havenkade,25,A,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806057,51.708615
+Havenkade,25,B,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805996,51.708648
+Havenkade,25,C,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806149,51.708737
+Havenkade,25,D,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806091,51.708691
+Havenkade,25,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806009,51.708616
 Havenkade,25,,,4924BC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806089,51.708653
 Batterij,1,A,,4924BD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804027,51.708462
 Batterij,1,,,4924BD,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803612,51.708874
@@ -99,7 +174,7 @@ Dorpsstraat,7,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805376,51.707831
 Dorpsstraat,8,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805132,51.707695
 Dorpsstraat,10,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805222,51.707635
 Dorpsstraat,11,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805580,51.707689
-Dorpsstraat,12,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805321,51.707633
+Dorpsstraat,12,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805320,51.707633
 Dorpsstraat,14,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805466,51.707580
 Dorpsstraat,18,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806291,51.707605
 Dorpsstraat,20,,,4924BE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806580,51.707559
@@ -110,7 +185,7 @@ Herengracht,5,,,4924BG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804464,51.707827
 Herengracht,7,,,4924BG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804335,51.707754
 Herengracht,9,,,4924BG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804192,51.707646
 Herengracht,11,,,4924BG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804034,51.707546
-Herengracht,13,,,4924BG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803848,51.707419
+Herengracht,13,,,4924BG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803847,51.707419
 Herengracht,15,,,4924BG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803632,51.707310
 Herengracht,2,,,4924BH,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804489,51.708151
 Herengracht,4,,,4924BH,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804417,51.708114
@@ -166,12 +241,12 @@ Stationsweg,17,,,4924BN,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807764,51.706594
 Stationsweg,19,,,4924BN,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807682,51.706279
 Stationsweg,21,,,4924BN,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807513,51.705918
 Stationsweg,23,,,4924BN,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807459,51.705621
-Stationsweg,25,,,4924BN,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807505,51.705424
+Stationsweg,25,,,4924BN,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807504,51.705424
 Stationsweg,2,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807204,51.707409
 Stationsweg,4,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807323,51.707194
 Stationsweg,6,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807339,51.707086
 Stationsweg,8,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807326,51.706969
-Stationsweg,10,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807327,51.706897
+Stationsweg,10,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807326,51.706897
 Stationsweg,12,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807313,51.706789
 Stationsweg,14,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807314,51.706708
 Stationsweg,16,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.807301,51.706618
@@ -182,7 +257,7 @@ Stationsweg,32,,,4924BP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806748,51.705780
 Amalia van Solmsstraat,1,A,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806780,51.706039
 Amalia van Solmsstraat,1,B,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806611,51.706038
 Amalia van Solmsstraat,1,C,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806543,51.706044
-Amalia van Solmsstraat,1,D,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806458,51.706046
+Amalia van Solmsstraat,1,D,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806457,51.706046
 Amalia van Solmsstraat,1,E,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806377,51.706057
 Amalia van Solmsstraat,1,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806237,51.706110
 Amalia van Solmsstraat,3,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806121,51.706136
@@ -194,15 +269,15 @@ Amalia van Solmsstraat,13,A,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.8053
 Amalia van Solmsstraat,13,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805598,51.706268
 Amalia van Solmsstraat,15,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805265,51.706348
 Amalia van Solmsstraat,17,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805149,51.706374
-Amalia van Solmsstraat,19,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805033,51.706400
+Amalia van Solmsstraat,19,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805032,51.706400
 Amalia van Solmsstraat,21,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804888,51.706418
 Amalia van Solmsstraat,23,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804757,51.706444
 Amalia van Solmsstraat,25,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804641,51.706470
 Amalia van Solmsstraat,33,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804525,51.706488
-Amalia van Solmsstraat,35,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804424,51.706505
+Amalia van Solmsstraat,35,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804423,51.706505
 Amalia van Solmsstraat,43,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.804119,51.706585
 Amalia van Solmsstraat,45,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803973,51.706629
-Amalia van Solmsstraat,47,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803843,51.706682
+Amalia van Solmsstraat,47,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803842,51.706682
 Amalia van Solmsstraat,49,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803712,51.706726
 Amalia van Solmsstraat,51,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803581,51.706771
 Amalia van Solmsstraat,53,,,4924BR,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.803450,51.706815
@@ -242,7 +317,7 @@ Kuipershoek,10,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.802313,51.708607
 Kuipershoek,12,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.802256,51.708571
 Kuipershoek,14,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.802198,51.708535
 Kuipershoek,16,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.802083,51.708471
-Kuipershoek,18,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.801940,51.708399
+Kuipershoek,18,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.801939,51.708399
 Kuipershoek,20,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.801839,51.708308
 Kuipershoek,22,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.801696,51.708236
 Kuipershoek,24,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.801596,51.708145
@@ -260,7 +335,6 @@ Kuipershoek,46,,,4924BW,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.801735,51.707463
 Boomgaard,1,,,4924BZ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806642,51.707235
 Boomgaard,2,,,4924BZ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.806443,51.707001
 Boomgaard,3,,,4924BZ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.805951,51.706998
-Cromsteven,1,,,4924CA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.819627,51.707345
 Cromsteven,2,,,4924CA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.821003,51.707431
 Cromsteven,4,,,4924CA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.822014,51.707571
 Cromsteven,6,A,,4924CA,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.821214,51.708530
@@ -277,24 +351,26 @@ Zeggeweg,5,,,4924EC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.798449,51.696444
 Zeggeweg,6,,,4924EC,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.799710,51.694014
 Bergsepolder,1,,,4924ED,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.821630,51.703812
 Bergsepolder,7,,,4924ED,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.826467,51.696411
+Bergsepolder,9,,,4924ED,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.826879,51.696055
 Bergsepolder,2,,,4924EE,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.821241,51.703026
 Buitendijk,1,,,4924EG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.787520,51.705761
 Buitendijk,3,,,4924EG,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.780574,51.704829
 Buitendijk,2,,,4924EH,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.779718,51.705023
-Buitendijk,4,,,4924EH,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.776534,51.704089
+Buitendijk,4,,,4924EH,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.776533,51.704089
 Oud Drimmelen,1,,TRAF,4924EJ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.775110,51.696349
-Oud Drimmelen,3,,,4924EJ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.777629,51.696886
+Oud Drimmelen,3,A,,4924EJ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.777629,51.696886
+Oud Drimmelen,3,,,4924EJ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.778096,51.696888
 Oud Drimmelen,5,,,4924EJ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.776823,51.696594
 Oud Drimmelen,7,,,4924EJ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.776480,51.696484
 Oud Drimmelen,9,,,4924EJ,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.777036,51.696892
 Oud Drimmelen,4,,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.779152,51.697604
 Oud Drimmelen,6,,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.777467,51.697074
 Oud Drimmelen,8,,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.777222,51.697001
-Oud Drimmelen,10,,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.776128,51.696653
+Oud Drimmelen,10,,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.776415,51.696755
 Oud Drimmelen,12,A,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.775602,51.696474
 Oud Drimmelen,12,B,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.775537,51.696550
 Oud Drimmelen,12,,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.775473,51.696427
-Oud Drimmelen,16,,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774282,51.696257
+Oud Drimmelen,16,,,4924EK,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774281,51.696257
 Dahliastraat,93,,,4924EL,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.776733,51.691470
 Dahliastraat,130,,,4924EL,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.775996,51.693525
 Wilgenwegje,6,,,4924EP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.772758,51.695539
@@ -306,3 +382,13 @@ Wilgenwegje,6,,,4924EP,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.772758,51.695539
 't Fort,6,,,4924ER,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.801417,51.706275
 't Fort,7,,,4924ER,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.801086,51.706174
 't Fort,8,,,4924ER,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.800725,51.706082
+Brielseweg,4,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774455,51.698079
+Brielseweg,6,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774182,51.697981
+Brielseweg,8,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774261,51.697768
+Brielseweg,10,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774415,51.697549
+Brielseweg,12,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774498,51.697376
+Brielseweg,14,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774812,51.697196
+Brielseweg,16,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.775018,51.697520
+Brielseweg,18,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774923,51.697667
+Brielseweg,20,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774728,51.697807
+Brielseweg,22,,,4924EX,Drimmelen,Drimmelen,Noord-Brabant,VBO,4.774761,51.698033

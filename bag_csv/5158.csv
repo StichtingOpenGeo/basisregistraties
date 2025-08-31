@@ -1,7 +1,8 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Grotestraat,1,A,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.125059,51.730753
-Grotestraat,1,B,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.125064,51.730736
-Grotestraat,1,,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.125648,51.730995
+Grotestraat,1,B,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.125766,51.730333
+Grotestraat,1,C,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.125129,51.730630
+Grotestraat,1,,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.125647,51.730995
 Grotestraat,3,A,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.124574,51.730814
 Grotestraat,3,,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.124672,51.730825
 Grotestraat,5,A,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.124080,51.730741
@@ -26,9 +27,8 @@ Grotestraat,45,,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.111704,51.728390
 Grotestraat,47,,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.111509,51.728339
 Grotestraat,49,T,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.109818,51.727364
 Grotestraat,51,,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.109370,51.727105
-Grotestraat,53,A,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.109320,51.726538
+Grotestraat,53,A,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.109408,51.726527
 Grotestraat,53,,,5158NA,Heesbeen,Heusden,Noord-Brabant,VBO,5.109402,51.726972
-Grotestraat,2,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.130116,51.735799
 Grotestraat,6,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.127740,51.733062
 Grotestraat,8,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.127378,51.732856
 Grotestraat,10,A,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.126860,51.732565
@@ -40,7 +40,7 @@ Grotestraat,10,F,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.127163,51.732666
 Grotestraat,10,H,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.126486,51.733028
 Grotestraat,10,I,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.126580,51.732994
 Grotestraat,10,J,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.126653,51.732999
-Grotestraat,10,K,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.126707,51.733004
+Grotestraat,10,K,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.126706,51.733004
 Grotestraat,10,L,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.126760,51.733009
 Grotestraat,10,M,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.126969,51.733036
 Grotestraat,10,N,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.127043,51.733046
@@ -60,7 +60,8 @@ Grotestraat,26,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.117518,51.730038
 Grotestraat,28,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.117262,51.730023
 Grotestraat,30,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.116859,51.729962
 Grotestraat,32,A,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.116167,51.729917
-Grotestraat,32,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.116564,51.729866
+Grotestraat,32,,unit,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.116441,51.730243
+Grotestraat,32,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.116495,51.729894
 Grotestraat,34,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.114524,51.729509
 Grotestraat,36,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.111627,51.728627
 Grotestraat,38,,,5158NB,Heesbeen,Heusden,Noord-Brabant,VBO,5.111323,51.729919
@@ -72,71 +73,129 @@ Voorstraat,6,,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.123914,51.731758
 Voorstraat,8,,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.123778,51.731884
 Voorstraat,10,,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.123533,51.731946
 Voorstraat,12,A,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.123002,51.732184
-Voorstraat,12,B,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.123258,51.732483
+Voorstraat,12,B,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.123230,51.732549
 Voorstraat,12,C,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.123058,51.732388
 Voorstraat,12,,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.123281,51.732061
 Voorstraat,14,A,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.122575,51.732355
 Voorstraat,16,,,5158NC,Heesbeen,Heusden,Noord-Brabant,VBO,5.122181,51.732506
 Industrieweg,1,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.127794,51.733495
-Industrieweg,2,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.128525,51.735545
+Industrieweg,2,u,25,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126728,51.734087
+Industrieweg,2,U,01,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126300,51.734837
+Industrieweg,2,U,02,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126411,51.734842
+Industrieweg,2,U,03,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126511,51.734846
+Industrieweg,2,U,04,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126613,51.734850
+Industrieweg,2,U,05,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126720,51.734854
+Industrieweg,2,U,06,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126824,51.734858
+Industrieweg,2,U,07,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126925,51.734861
+Industrieweg,2,U,08,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.127031,51.734867
+Industrieweg,2,U,09,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.127136,51.734870
+Industrieweg,2,U,10,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.127057,51.734566
+Industrieweg,2,U,11,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126969,51.734562
+Industrieweg,2,U,12,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126882,51.734559
+Industrieweg,2,U,13,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126795,51.734555
+Industrieweg,2,U,14,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126709,51.734552
+Industrieweg,2,U,15,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126621,51.734548
+Industrieweg,2,U,16,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126533,51.734545
+Industrieweg,2,U,17,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126445,51.734542
+Industrieweg,2,U,18,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126701,51.734468
+Industrieweg,2,U,19,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126706,51.734410
+Industrieweg,2,U,20,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126705,51.734356
+Industrieweg,2,U,21,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126710,51.734302
+Industrieweg,2,U,22,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126714,51.734248
+Industrieweg,2,U,23,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126719,51.734195
+Industrieweg,2,U,24,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126721,51.734141
+Industrieweg,2,U,26,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126733,51.734032
+Industrieweg,2,U,27,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126743,51.733974
+Industrieweg,2,U,28,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126593,51.733887
+Industrieweg,2,U,29,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126680,51.733889
+Industrieweg,2,U,30,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126768,51.733894
+Industrieweg,2,U,31,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126854,51.733896
+Industrieweg,2,U,32,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126942,51.733900
+Industrieweg,2,U,33,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.127026,51.733904
+Industrieweg,2,U,34,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.127117,51.733907
+Industrieweg,2,U,35,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126955,51.733980
+Industrieweg,2,U,36,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126949,51.734040
+Industrieweg,2,U,37,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126946,51.734093
+Industrieweg,2,U,38,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126939,51.734147
+Industrieweg,2,U,39,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126934,51.734203
+Industrieweg,2,U,40,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126927,51.734257
+Industrieweg,2,U,41,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126921,51.734309
+Industrieweg,2,U,42,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126920,51.734364
+Industrieweg,2,U,43,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126913,51.734418
+Industrieweg,2,U,44,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126910,51.734475
+Industrieweg,2,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.128004,51.733917
 Industrieweg,3,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.127386,51.733449
 Industrieweg,4,B,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125523,51.733855
 Industrieweg,4,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125885,51.733745
-Industrieweg,5,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126558,51.733529
 Industrieweg,5,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126807,51.733535
-Industrieweg,6,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124603,51.733946
+Industrieweg,6,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124757,51.733742
 Industrieweg,6,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125050,51.734071
 Industrieweg,7,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125542,51.733395
-Industrieweg,7,B,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125029,51.733433
+Industrieweg,7,B,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125010,51.733408
 Industrieweg,7,C,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125488,51.733150
+Industrieweg,7,D,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125527,51.732956
 Industrieweg,7,E,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125662,51.733503
-Industrieweg,7,F,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125512,51.732739
-Industrieweg,7,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125938,51.733514
+Industrieweg,7,F,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125545,51.732737
+Industrieweg,7,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125937,51.733514
 Industrieweg,8,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123875,51.734347
-Industrieweg,8,B,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123426,51.734309
+Industrieweg,8,B,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123425,51.734309
 Industrieweg,8,C,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122888,51.734260
 Industrieweg,8,D,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122570,51.734244
 Industrieweg,8,E,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122397,51.734488
 Industrieweg,8,F,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122909,51.734519
-Industrieweg,8,G,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123400,51.734537
-Industrieweg,8,H,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124055,51.734578
+Industrieweg,8,G,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123921,51.734559
+Industrieweg,8,H,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123651,51.734560
 Industrieweg,8,K,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122374,51.734230
 Industrieweg,8,L,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122673,51.734502
 Industrieweg,8,M,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123161,51.734535
-Industrieweg,8,N,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123686,51.734553
+Industrieweg,8,N,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123406,51.734545
+Industrieweg,8,P,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124038,51.734565
 Industrieweg,8,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123957,51.733693
 Industrieweg,9,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124559,51.733375
 Industrieweg,10,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123431,51.733652
 Industrieweg,11,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124220,51.733169
 Industrieweg,12,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122460,51.733424
 Industrieweg,12,B,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122566,51.733562
-Industrieweg,12,C,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122759,51.733579
+Industrieweg,12,C,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122758,51.733579
 Industrieweg,12,D,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122969,51.733597
 Industrieweg,12,E,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123093,51.733609
 Industrieweg,12,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123109,51.733537
 Industrieweg,13,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123978,51.733222
 Industrieweg,13,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123853,51.733362
-Industrieweg,14,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.121574,51.733343
+Industrieweg,14,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.121573,51.733343
+Industrieweg,14,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122142,51.733431
 Industrieweg,15,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123548,51.733044
-Industrieweg,15,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123636,51.733261
+Industrieweg,15,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123635,51.733261
 Industrieweg,17,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122914,51.733008
 Industrieweg,17,B,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123215,51.733020
 Industrieweg,17,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123029,51.733215
 Industrieweg,19,A,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122577,51.733033
-Industrieweg,21,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122325,51.732915
+Industrieweg,21,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122324,51.732915
+Industrieweg,25,,,5158NJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.121649,51.731980
 Heesbeenseweg,1,,,5158NK,Heesbeen,Heusden,Noord-Brabant,VBO,5.120952,51.732552
 Heesbeenseweg,3,,,5158NK,Heesbeen,Heusden,Noord-Brabant,VBO,5.120976,51.732952
 Parallelweg,1,A,,5158NN,Heesbeen,Heusden,Noord-Brabant,STA,5.118157,51.733593
-Parallelweg,1,,,5158NN,Heesbeen,Heusden,Noord-Brabant,VBO,5.118555,51.733450
+Parallelweg,1,,,5158NN,Heesbeen,Heusden,Noord-Brabant,VBO,5.118551,51.733482
 Parallelweg,2,,,5158NN,Heesbeen,Heusden,Noord-Brabant,VBO,5.118171,51.733981
 Parallelweg,3,,,5158NN,Heesbeen,Heusden,Noord-Brabant,STA,5.118279,51.733396
 Parallelweg,5,,,5158NN,Heesbeen,Heusden,Noord-Brabant,STA,5.118060,51.733381
 Parallelweg,7,,,5158NN,Heesbeen,Heusden,Noord-Brabant,STA,5.118109,51.733113
-Parallelweg,9,,,5158NN,Heesbeen,Heusden,Noord-Brabant,STA,5.118321,51.733127
+Parallelweg,9,,,5158NN,Heesbeen,Heusden,Noord-Brabant,STA,5.118320,51.733127
 Parallelweg,11,,,5158NN,Heesbeen,Heusden,Noord-Brabant,STA,5.118519,51.733139
-Nieuwe Maasdijk,3,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.128525,51.735545
-Nieuwe Maasdijk,6,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125241,51.735325
-Nieuwe Maasdijk,8,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124756,51.735287
-Nieuwe Maasdijk,10,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124215,51.735229
-Nieuwe Maasdijk,12,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122864,51.735077
-Nieuwe Maasdijk,14,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122347,51.734985
+Nieuwe Maasdijk,3,A,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126935,51.735462
+Nieuwe Maasdijk,3,B,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.126085,51.735377
+Nieuwe Maasdijk,3,C,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.125216,51.735299
+Nieuwe Maasdijk,3,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.127821,51.735533
+Nieuwe Maasdijk,6,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124719,51.735291
+Nieuwe Maasdijk,8,A,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124476,51.735281
+Nieuwe Maasdijk,8,B,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124184,51.735269
+Nieuwe Maasdijk,8,C,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124046,51.735265
+Nieuwe Maasdijk,8,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.124608,51.735291
+Nieuwe Maasdijk,10,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123912,51.735251
+Nieuwe Maasdijk,12,A,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123371,51.735175
+Nieuwe Maasdijk,12,B,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123139,51.735142
+Nieuwe Maasdijk,12,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.123611,51.735205
+Nieuwe Maasdijk,14,A,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122425,51.735040
+Nieuwe Maasdijk,14,B,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122170,51.735006
+Nieuwe Maasdijk,14,T,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122340,51.735086
+Nieuwe Maasdijk,14,,,5158PJ,Heesbeen,Heusden,Noord-Brabant,VBO,5.122660,51.735060

@@ -1,9 +1,10 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Afterkampweg,1,,,7796HA,Heemserveen,Hardenberg,Overijssel,VBO,6.590589,52.571992
 Polenweg,5,,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.587343,52.577572
-Polenweg,7,i,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.583774,52.575580
+Polenweg,7,a,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.583774,52.575580
 Polenweg,7,,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.583847,52.575615
-Polenweg,9,,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.582777,52.574732
+Polenweg,9,,,7796HC,Heemserveen,Hardenberg,Overijssel,STA,6.582388,52.574772
+Polenweg,9,,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.582680,52.574657
 Polenweg,11,,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.581777,52.574111
 Polenweg,12,a,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.585774,52.576100
 Polenweg,12,,,7796HC,Heemserveen,Hardenberg,Overijssel,VBO,6.585724,52.576026
@@ -25,17 +26,19 @@ Kroondijk,4,,,7796HE,Heemserveen,Hardenberg,Overijssel,VBO,6.581645,52.582188
 Kroondijk,6,i,,7796HE,Heemserveen,Hardenberg,Overijssel,VBO,6.576743,52.579326
 Kroondijk,6,,,7796HE,Heemserveen,Hardenberg,Overijssel,VBO,6.576715,52.579365
 Kroondijk,8,,,7796HE,Heemserveen,Hardenberg,Overijssel,VBO,6.574086,52.578695
-Sijsamaweg,1,,,7796HG,Heemserveen,Hardenberg,Overijssel,VBO,6.572146,52.586930
+Sijsamaweg,1,,,7796HG,Heemserveen,Hardenberg,Overijssel,VBO,6.572194,52.586959
 Sijsamaweg,2,i,,7796HG,Heemserveen,Hardenberg,Overijssel,VBO,6.568818,52.587966
 Sijsamaweg,2,,,7796HG,Heemserveen,Hardenberg,Overijssel,VBO,6.568956,52.588030
-Sijsamaweg,3,,,7796HG,Heemserveen,Hardenberg,Overijssel,VBO,6.571455,52.586897
+Sijsamaweg,3,,,7796HG,Heemserveen,Hardenberg,Overijssel,VBO,6.571454,52.586897
 Sijsamaweg,6,,,7796HG,Heemserveen,Hardenberg,Overijssel,VBO,6.566337,52.590432
 Jachthuisweg,2,,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.593408,52.580167
 Jachthuisweg,4,,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.592135,52.580127
 Jachthuisweg,6,a,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.589711,52.581378
 Jachthuisweg,6,b,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.591060,52.580891
 Jachthuisweg,6,c,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.590256,52.581163
+Jachthuisweg,6,d,,7796HJ,Heemserveen,Hardenberg,Overijssel,STA,6.588536,52.581713
 Jachthuisweg,6,d,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.588131,52.581913
+Jachthuisweg,6,e,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.588031,52.582034
 Jachthuisweg,6,,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.591688,52.580793
 Jachthuisweg,8,,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.585182,52.583122
 Jachthuisweg,10,a,,7796HJ,Heemserveen,Hardenberg,Overijssel,VBO,6.582226,52.584522
@@ -49,26 +52,25 @@ Kromhofsweg,1,,,7796HK,Heemserveen,Hardenberg,Overijssel,VBO,6.551006,52.600803
 Kromhofsweg,2,,,7796HK,Heemserveen,Hardenberg,Overijssel,VBO,6.556591,52.595584
 Kromhofsweg,3,,,7796HK,Heemserveen,Hardenberg,Overijssel,VBO,6.547036,52.604225
 Kromhofsweg,4,,,7796HK,Heemserveen,Hardenberg,Overijssel,VBO,6.549140,52.601768
-Kromhofsweg,6,,,7796HK,Heemserveen,Hardenberg,Overijssel,VBO,6.548400,52.602439
+Kromhofsweg,6,,,7796HK,Heemserveen,Hardenberg,Overijssel,VBO,6.548399,52.602439
 Roelofs Mulderweg,1,,,7796HL,Heemserveen,Hardenberg,Overijssel,VBO,6.563562,52.593103
 Roelofs Mulderweg,2,,,7796HL,Heemserveen,Hardenberg,Overijssel,VBO,6.561583,52.589766
 Roelofs Mulderweg,4,,,7796HL,Heemserveen,Hardenberg,Overijssel,VBO,6.555823,52.583312
 Roelofs Mulderweg,6,,,7796HL,Heemserveen,Hardenberg,Overijssel,VBO,6.555562,52.583235
 Rheezerveenseweg,1,a,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.578313,52.585916
-Rheezerveenseweg,1,b,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.580245,52.586637
+Rheezerveenseweg,1,b,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.580244,52.586637
 Rheezerveenseweg,1,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.577525,52.585691
 Rheezerveenseweg,3,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.574991,52.586383
 Rheezerveenseweg,5,i,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.575090,52.584794
 Rheezerveenseweg,5,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.575097,52.584818
 Rheezerveenseweg,7,a,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.570554,52.583409
-Rheezerveenseweg,7,I,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.570082,52.584444
 Rheezerveenseweg,7,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.569986,52.584426
 Rheezerveenseweg,9,i,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.569016,52.583511
 Rheezerveenseweg,9,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.569247,52.583524
 Rheezerveenseweg,11,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.566526,52.584958
 Rheezerveenseweg,13,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.567202,52.582844
-Rheezerveenseweg,15,a,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.566884,52.582593
-Rheezerveenseweg,15,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.567115,52.582373
+Rheezerveenseweg,15,a,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.567193,52.582357
+Rheezerveenseweg,15,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.567111,52.582320
 Rheezerveenseweg,17,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.565434,52.581655
 Rheezerveenseweg,19,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.564554,52.581150
 Rheezerveenseweg,23,,,7796HM,Heemserveen,Hardenberg,Overijssel,VBO,6.563832,52.580871
@@ -82,7 +84,7 @@ Rheezerveenseweg,6,,,7796HN,Heemserveen,Hardenberg,Overijssel,VBO,6.568381,52.58
 Rheezerveenseweg,8,a,,7796HN,Heemserveen,Hardenberg,Overijssel,VBO,6.564129,52.579888
 Rheezerveenseweg,8,,,7796HN,Heemserveen,Hardenberg,Overijssel,VBO,6.564279,52.579351
 Rheezerveenseweg,10,,,7796HN,Heemserveen,Hardenberg,Overijssel,VBO,6.563503,52.578814
-Rheezerveenseweg,12,a,,7796HN,Heemserveen,Hardenberg,Overijssel,VBO,6.562255,52.580073
+Rheezerveenseweg,12,a,,7796HN,Heemserveen,Hardenberg,Overijssel,VBO,6.562254,52.580073
 Rheezerveenseweg,12,,,7796HN,Heemserveen,Hardenberg,Overijssel,VBO,6.562539,52.580177
 Elfde Wijk,9,,,7796HP,Heemserveen,Hardenberg,Overijssel,VBO,6.551772,52.595966
 Elfde Wijk,11,,,7796HP,Heemserveen,Hardenberg,Overijssel,VBO,6.555955,52.597922
@@ -104,10 +106,18 @@ Bosweg,1,,,7796HS,Heemserveen,Hardenberg,Overijssel,VBO,6.584347,52.569237
 Bosweg,2,,,7796HS,Heemserveen,Hardenberg,Overijssel,VBO,6.583500,52.568431
 Larixweg,5,I,,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.572865,52.569903
 Larixweg,5,,,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.572799,52.569866
+Larixweg,7,a,,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.566654,52.574549
 Larixweg,7,R,010,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.567989,52.574130
 Larixweg,7,R,050,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.567041,52.573998
+Larixweg,7,R,14,7796HT,Heemserveen,Hardenberg,Overijssel,STA,6.567975,52.573916
 Larixweg,7,R,247,7796HT,Heemserveen,Hardenberg,Overijssel,STA,6.570010,52.575803
 Larixweg,7,R,249,7796HT,Heemserveen,Hardenberg,Overijssel,STA,6.570224,52.575652
+Larixweg,7,,R19,7796HT,Heemserveen,Hardenberg,Overijssel,STA,6.568266,52.573803
+Larixweg,7,,R246,7796HT,Heemserveen,Hardenberg,Overijssel,STA,6.569889,52.575874
+Larixweg,7,,R290,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.572908,52.575892
+Larixweg,7,,R291,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.572431,52.575906
+Larixweg,7,,R292,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.572564,52.575774
+Larixweg,7,,R293,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.572236,52.575752
 Larixweg,7,,,7796HT,Heemserveen,Hardenberg,Overijssel,VBO,6.566448,52.574500
 De Riet,3,,,7796HV,Heemserveen,Hardenberg,Overijssel,VBO,6.588757,52.573538
 De Riet,4,a,,7796HV,Heemserveen,Hardenberg,Overijssel,VBO,6.587995,52.570906
@@ -116,8 +126,9 @@ De Riet,5,,,7796HV,Heemserveen,Hardenberg,Overijssel,VBO,6.589112,52.573111
 De Riet,7,,,7796HV,Heemserveen,Hardenberg,Overijssel,VBO,6.587728,52.572277
 Heemserveldweg,1,a,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.578789,52.573753
 Heemserveldweg,1,b,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.578445,52.574178
-Heemserveldweg,1,,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.577593,52.574978
+Heemserveldweg,1,,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.577469,52.574893
 Heemserveldweg,2,,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.578264,52.573296
+Heemserveldweg,3,a,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.573722,52.576289
 Heemserveldweg,3,,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.573609,52.576360
 Heemserveldweg,4,,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.575839,52.574433
 Heemserveldweg,5,,,7796HW,Heemserveen,Hardenberg,Overijssel,VBO,6.571123,52.578616

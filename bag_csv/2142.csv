@@ -1,11 +1,11 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
-Ringvaart-Cruquiusdijk,45,,,2142AA,Cruquius,Haarlemmermeer,Noord-Holland,LIG,4.644014,52.339452
-Ringvaart-Cruquiusdijk,49,,,2142AA,Cruquius,Haarlemmermeer,Noord-Holland,LIG,4.644707,52.339559
-Ringvaart-Cruquiusdijk,51,,,2142AA,Cruquius,Haarlemmermeer,Noord-Holland,LIG,4.645065,52.339610
-Ringvaart-Cruquiusdijk,53,,,2142AA,Cruquius,Haarlemmermeer,Noord-Holland,LIG,4.645391,52.339658
+Oude Spaarneweg,1,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634075,52.336302
 Oude Spaarneweg,2,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634896,52.335750
+Oude Spaarneweg,3,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634019,52.336263
+Oude Spaarneweg,5,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633969,52.336222
 Oude Spaarneweg,6,A,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634299,52.335677
 Oude Spaarneweg,6,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634195,52.335904
+Oude Spaarneweg,7,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633914,52.336184
 Oude Spaarneweg,9,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633752,52.336138
 Oude Spaarneweg,11,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633712,52.336112
 Oude Spaarneweg,13,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633664,52.336083
@@ -28,7 +28,7 @@ Oude Spaarneweg,29,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633599,5
 Oude Spaarneweg,30,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635561,52.335090
 Oude Spaarneweg,31,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633591,52.336461
 Oude Spaarneweg,32,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635796,52.335016
-Oude Spaarneweg,33,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633583,52.336442
+Oude Spaarneweg,33,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633582,52.336442
 Oude Spaarneweg,34,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635670,52.334924
 Oude Spaarneweg,35,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633574,52.336423
 Oude Spaarneweg,36,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635610,52.334880
@@ -52,7 +52,7 @@ Oude Spaarneweg,54,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634218,5
 Oude Spaarneweg,56,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634398,52.334811
 Oude Spaarneweg,57,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632814,52.336052
 Oude Spaarneweg,58,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634573,52.334937
-Oude Spaarneweg,59,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633440,52.335787
+Oude Spaarneweg,59,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633439,52.335787
 Oude Spaarneweg,60,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634638,52.334978
 Oude Spaarneweg,61,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633388,52.335757
 Oude Spaarneweg,62,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634763,52.335070
@@ -69,7 +69,7 @@ Oude Spaarneweg,72,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634158,5
 Oude Spaarneweg,73,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633324,52.335792
 Oude Spaarneweg,74,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634261,52.335313
 Oude Spaarneweg,75,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633233,52.335805
-Oude Spaarneweg,76,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633966,52.335455
+Oude Spaarneweg,76,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633990,52.335460
 Oude Spaarneweg,77,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633222,52.335772
 Oude Spaarneweg,78,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633884,52.335408
 Oude Spaarneweg,79,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633211,52.335738
@@ -78,8 +78,84 @@ Oude Spaarneweg,81,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633200,5
 Oude Spaarneweg,82,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633615,52.335452
 Oude Spaarneweg,83,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633189,52.335671
 Oude Spaarneweg,84,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633667,52.335502
-Oude Spaarneweg,85,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633178,52.335638
+Oude Spaarneweg,85,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633177,52.335638
 Oude Spaarneweg,86,,,2142EA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633772,52.335571
+Goudsterlaan,1,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648705,52.332143
+Goudsterlaan,3,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648759,52.332113
+Goudsterlaan,5,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648812,52.332085
+Goudsterlaan,7,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648865,52.332056
+Goudsterlaan,9,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648918,52.332027
+Goudsterlaan,11,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648970,52.331999
+Goudsterlaan,13,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649023,52.331970
+Goudsterlaan,15,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649076,52.331942
+Goudsterlaan,17,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649129,52.331912
+Goudsterlaan,19,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649229,52.331861
+Goudsterlaan,21,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649282,52.331831
+Goudsterlaan,23,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649335,52.331803
+Goudsterlaan,25,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649389,52.331774
+Goudsterlaan,27,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649441,52.331745
+Goudsterlaan,29,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649494,52.331717
+Goudsterlaan,31,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649546,52.331688
+Goudsterlaan,33,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649599,52.331660
+Goudsterlaan,35,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649652,52.331631
+Goudsterlaan,37,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649705,52.331602
+Goudsterlaan,39,,,2142EB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649758,52.331573
+'t Hof van Crommelin,1,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648794,52.332442
+'t Hof van Crommelin,2,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648740,52.332471
+'t Hof van Crommelin,3,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648687,52.332499
+'t Hof van Crommelin,4,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648634,52.332528
+'t Hof van Crommelin,5,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648581,52.332557
+'t Hof van Crommelin,6,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648527,52.332586
+'t Hof van Crommelin,7,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648443,52.332631
+'t Hof van Crommelin,8,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648386,52.332661
+'t Hof van Crommelin,9,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648330,52.332692
+'t Hof van Crommelin,10,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648274,52.332722
+'t Hof van Crommelin,11,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648218,52.332753
+'t Hof van Crommelin,12,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648162,52.332783
+'t Hof van Crommelin,13,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648106,52.332814
+'t Hof van Crommelin,14,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648048,52.332845
+'t Hof van Crommelin,15,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647961,52.332891
+'t Hof van Crommelin,16,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647900,52.332924
+'t Hof van Crommelin,17,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647840,52.332956
+'t Hof van Crommelin,18,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647781,52.332988
+'t Hof van Crommelin,19,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647721,52.333020
+'t Hof van Crommelin,20,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647660,52.333053
+'t Hof van Crommelin,21,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647892,52.333149
+'t Hof van Crommelin,22,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647942,52.333184
+'t Hof van Crommelin,23,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647991,52.333218
+'t Hof van Crommelin,24,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648041,52.333252
+'t Hof van Crommelin,25,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648090,52.333286
+'t Hof van Crommelin,26,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648140,52.333321
+'t Hof van Crommelin,27,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648190,52.333356
+'t Hof van Crommelin,28,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648242,52.333391
+'t Hof van Crommelin,29,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648313,52.333442
+'t Hof van Crommelin,30,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648361,52.333475
+'t Hof van Crommelin,31,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648408,52.333508
+'t Hof van Crommelin,32,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648454,52.333540
+'t Hof van Crommelin,33,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648501,52.333572
+'t Hof van Crommelin,34,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648549,52.333605
+'t Hof van Crommelin,35,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648705,52.333461
+'t Hof van Crommelin,36,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648766,52.333428
+'t Hof van Crommelin,37,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648825,52.333396
+'t Hof van Crommelin,38,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648885,52.333363
+'t Hof van Crommelin,39,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648945,52.333331
+'t Hof van Crommelin,40,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649004,52.333299
+'t Hof van Crommelin,41,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649063,52.333267
+'t Hof van Crommelin,42,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649123,52.333234
+'t Hof van Crommelin,43,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649239,52.333172
+'t Hof van Crommelin,44,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649300,52.333139
+'t Hof van Crommelin,45,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649359,52.333107
+'t Hof van Crommelin,46,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649418,52.333075
+'t Hof van Crommelin,47,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649478,52.333043
+'t Hof van Crommelin,48,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649539,52.333010
+'t Hof van Crommelin,49,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649305,52.332916
+'t Hof van Crommelin,50,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649255,52.332881
+'t Hof van Crommelin,51,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649206,52.332847
+'t Hof van Crommelin,52,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649156,52.332813
+'t Hof van Crommelin,53,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649106,52.332778
+'t Hof van Crommelin,54,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649057,52.332744
+'t Hof van Crommelin,55,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649007,52.332710
+'t Hof van Crommelin,56,,,2142EC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648956,52.332675
 Spieringweg,630,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.658019,52.336377
 Spieringweg,634,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.657734,52.336163
 Spieringweg,636,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.657435,52.335945
@@ -89,14 +165,17 @@ Spieringweg,642,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656760,52.3
 Spieringweg,646,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656055,52.334992
 Spieringweg,658,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654471,52.333881
 Spieringweg,660,A,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654432,52.333718
-Spieringweg,660,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654354,52.333877
+Spieringweg,660,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654380,52.333854
 Spieringweg,700,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652790,52.332485
 Spieringweg,710,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651702,52.331833
 Spieringweg,720,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650356,52.330948
-Spieringweg,722,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650052,52.330828
+Spieringweg,722,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650001,52.330813
+Spieringweg,725,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649167,52.331294
 Spieringweg,726,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649378,52.330399
+Spieringweg,727,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649124,52.331306
 Spieringweg,745,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.657546,52.338306
 Spieringweg,757,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656848,52.336339
+Spieringweg,759,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656491,52.336127
 Spieringweg,801,A,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651473,52.333009
 Spieringweg,801,B,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650598,52.333097
 Spieringweg,801,C,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651852,52.333605
@@ -107,24 +186,12 @@ Spieringweg,801,G,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648125,52.
 Spieringweg,801,H,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648426,52.335245
 Spieringweg,801,J,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649601,52.335208
 Spieringweg,801,K,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647449,52.335284
-Spieringweg,801,L,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648314,52.333048
-Spieringweg,801,M,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650214,52.334390
-Spieringweg,801,N,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649498,52.331801
-Spieringweg,801,P,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646957,52.333654
-Spieringweg,801,Q,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645403,52.335570
+Spieringweg,801,M,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650084,52.334377
 Spieringweg,801,R,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648908,52.334905
-Spieringweg,801,S,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652274,52.334563
+Spieringweg,801,S,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649771,52.332424
 Spieringweg,801,T,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650680,52.334105
 Spieringweg,801,W,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649752,52.333730
 Spieringweg,801,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650198,52.333035
-Spieringweg,803,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649431,52.332529
-Spieringweg,805,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649357,52.332476
-Spieringweg,807,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649284,52.332425
-Spieringweg,809,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649210,52.332372
-Spieringweg,811,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649090,52.332287
-Spieringweg,813,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649016,52.332235
-Spieringweg,815,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648943,52.332183
-Spieringweg,817,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648869,52.332131
 Spieringweg,835,,,2142ED,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645946,52.332449
 Oude Kruisweg,1,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.637228,52.335490
 Oude Kruisweg,7,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636878,52.335709
@@ -133,15 +200,18 @@ Oude Kruisweg,11,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636675,52.
 Oude Kruisweg,15,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636416,52.335903
 Oude Kruisweg,17,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636337,52.335948
 Oude Kruisweg,19,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636266,52.336031
-Oude Kruisweg,21,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636119,52.336170
+Oude Kruisweg,21,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636118,52.336170
 Oude Kruisweg,25,A,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636109,52.336379
 Oude Kruisweg,25,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635779,52.336324
+Oude Kruisweg,27,A,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635792,52.336534
 Oude Kruisweg,27,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635560,52.336380
 Oude Kruisweg,29,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635398,52.336454
 Oude Kruisweg,31,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635274,52.336521
-Oude Kruisweg,33,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635192,52.336571
-Oude Kruisweg,35,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634996,52.336667
-Oude Kruisweg,37,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634788,52.336785
+Oude Kruisweg,33,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635213,52.336591
+Oude Kruisweg,35,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635090,52.336625
+Oude Kruisweg,37,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634831,52.336766
+Oude Kruisweg,39,A,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634653,52.336882
+Oude Kruisweg,39,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634723,52.336844
 Oude Kruisweg,41,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635664,52.336734
 Oude Kruisweg,43,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634550,52.336958
 Oude Kruisweg,45,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634500,52.336984
@@ -153,9 +223,6 @@ Oude Kruisweg,53,C,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634760,52
 Oude Kruisweg,53,D,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634727,52.337247
 Oude Kruisweg,53,E,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634683,52.337234
 Oude Kruisweg,53,F,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634619,52.337236
-Oude Kruisweg,53,K,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634285,52.337269
-Oude Kruisweg,53,,I,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634119,52.337241
-Oude Kruisweg,53,,II,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634136,52.337287
 Oude Kruisweg,53,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634041,52.337247
 Oude Kruisweg,55,,,2142EE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634010,52.337409
 Oude Kruisweg,36,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645651,52.330298
@@ -172,7 +239,7 @@ Oude Kruisweg,52,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643962,52.
 Oude Kruisweg,54,A,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643712,52.330902
 Oude Kruisweg,54,B,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643690,52.331014
 Oude Kruisweg,54,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643859,52.330997
-Oude Kruisweg,56,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643877,52.331337
+Oude Kruisweg,56,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643830,52.331313
 Oude Kruisweg,58,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643697,52.331335
 Oude Kruisweg,60,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643636,52.331358
 Oude Kruisweg,62,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643505,52.331413
@@ -184,30 +251,31 @@ Oude Kruisweg,72,,,2142EG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643112,52.
 Oude Kruisweg,78,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642887,52.331745
 Oude Kruisweg,82,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642689,52.331875
 Oude Kruisweg,84,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642507,52.331951
-Oude Kruisweg,90,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642272,52.332141
+Oude Kruisweg,90,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642221,52.332090
 Oude Kruisweg,92,A,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641780,52.332059
-Oude Kruisweg,92,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642195,52.332174
+Oude Kruisweg,92,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642186,52.332131
+Oude Kruisweg,94,A,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641179,52.332026
 Oude Kruisweg,94,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641974,52.332279
-Oude Kruisweg,98,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641852,52.332350
-Oude Kruisweg,100,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641798,52.332390
+Oude Kruisweg,98,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641858,52.332358
+Oude Kruisweg,100,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641785,52.332395
 Oude Kruisweg,104,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641586,52.332480
 Oude Kruisweg,106,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641478,52.332542
 Oude Kruisweg,112,E,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640635,52.332705
 Oude Kruisweg,112,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641349,52.332636
-Oude Kruisweg,114,A,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641004,52.332508
+Oude Kruisweg,114,A,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641003,52.332508
 Oude Kruisweg,114,B,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640626,52.332464
 Oude Kruisweg,114,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641227,52.332709
 Oude Kruisweg,116,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641057,52.332763
-Oude Kruisweg,118,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640949,52.332846
+Oude Kruisweg,118,,,2142EH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640946,52.332835
 Oude Kruisweg,120,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640829,52.332906
-Oude Kruisweg,122,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640760,52.332944
+Oude Kruisweg,122,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640759,52.332944
 Oude Kruisweg,124,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640597,52.333006
 Oude Kruisweg,126,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640528,52.333043
 Oude Kruisweg,128,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640397,52.333110
 Oude Kruisweg,130,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640292,52.333182
-Oude Kruisweg,132,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640093,52.333283
-Oude Kruisweg,134,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639977,52.333336
-Oude Kruisweg,136,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639861,52.333421
+Oude Kruisweg,132,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640123,52.333237
+Oude Kruisweg,134,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640023,52.333324
+Oude Kruisweg,136,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639895,52.333373
 Oude Kruisweg,142,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639610,52.333552
 Oude Kruisweg,148,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639324,52.333660
 Oude Kruisweg,150,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638986,52.333564
@@ -220,6 +288,7 @@ Oude Kruisweg,162,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638809,52
 Oude Kruisweg,164,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638726,52.334113
 Oude Kruisweg,166,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638596,52.334238
 Oude Kruisweg,168,,,2142EJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638544,52.334266
+Oude Kruisweg,172,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638333,52.334384
 Oude Kruisweg,174,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638179,52.334461
 Oude Kruisweg,176,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638123,52.334494
 Oude Kruisweg,178,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.637997,52.334565
@@ -229,18 +298,18 @@ Oude Kruisweg,190,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.637462,52
 Oude Kruisweg,192,A,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.637003,52.334691
 Oude Kruisweg,192,B,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636800,52.334528
 Oude Kruisweg,192,C,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636590,52.334320
-Oude Kruisweg,192,D,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636187,52.334187
+Oude Kruisweg,192,D,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636245,52.334155
 Oude Kruisweg,192,E,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636073,52.333943
 Oude Kruisweg,192,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.637351,52.334936
-Oude Kruisweg,194,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635447,52.333625
 Oude Kruisweg,198,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633598,52.332729
+Oude Kruisweg,200,A,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634212,52.333214
 Oude Kruisweg,200,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634386,52.333357
 Oude Kruisweg,202,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634525,52.333516
 Oude Kruisweg,204,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634755,52.333618
-Oude Kruisweg,206,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634960,52.333754
+Oude Kruisweg,206,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634959,52.333754
 Oude Kruisweg,208,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635152,52.333885
-Oude Kruisweg,210,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635183,52.334135
-Oude Kruisweg,212,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635294,52.334245
+Oude Kruisweg,210,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635106,52.334136
+Oude Kruisweg,212,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635279,52.334261
 Oude Kruisweg,214,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635878,52.334335
 Oude Kruisweg,216,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636152,52.334618
 Oude Kruisweg,218,,,2142EK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636459,52.334869
@@ -256,7 +325,7 @@ Oude Kruisweg,236,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635692,52
 Oude Kruisweg,238,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635625,52.335799
 Oude Kruisweg,240,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635540,52.335817
 Oude Kruisweg,242,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635434,52.335875
-Oude Kruisweg,244,A,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635227,52.335793
+Oude Kruisweg,244,A,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635226,52.335793
 Oude Kruisweg,244,B,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635025,52.335564
 Oude Kruisweg,244,C,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634519,52.335600
 Oude Kruisweg,244,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635381,52.335903
@@ -268,18 +337,22 @@ Oude Kruisweg,254,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634903,52
 Oude Kruisweg,256,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634796,52.336194
 Oude Kruisweg,258,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634734,52.336280
 Oude Kruisweg,260,,,2142EL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634669,52.336311
-Oude Kruisweg,264,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634404,52.336466
+Oude Kruisweg,264,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634384,52.336439
 Oude Kruisweg,266,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634301,52.336458
 Oude Kruisweg,268,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634222,52.336525
-Oude Kruisweg,270,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634198,52.336574
+Oude Kruisweg,270,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634197,52.336574
 Oude Kruisweg,272,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634033,52.336578
 Oude Kruisweg,274,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634022,52.336636
 Oude Kruisweg,276,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633935,52.336694
 Oude Kruisweg,278,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633880,52.336724
-Oude Kruisweg,280,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633826,52.336752
-Oude Kruisweg,282,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633675,52.336827
+Oude Kruisweg,280,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633825,52.336752
+Oude Kruisweg,282,,,2142EM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633674,52.336827
+Spaarneweg,2,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633930,52.334875
+Spaarneweg,4,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633741,52.334960
+Spaarneweg,6,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633537,52.335060
+Spaarneweg,8,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633254,52.335217
+Spaarneweg,10,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633185,52.335175
 Spaarneweg,10,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633318,52.335160
-Spaarneweg,12,B,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633168,52.334776
 Spaarneweg,12,E,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633265,52.334542
 Spaarneweg,12,F,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633537,52.334388
 Spaarneweg,12,G,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633791,52.334256
@@ -295,6 +368,9 @@ Spaarneweg,16,G,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632968,52.33
 Spaarneweg,16,H,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632892,52.334354
 Spaarneweg,16,I,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632802,52.334404
 Spaarneweg,16,K,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632563,52.334553
+Spaarneweg,18,B,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632193,52.334268
+Spaarneweg,18,C,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632287,52.334214
+Spaarneweg,18,D,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632380,52.334163
 Spaarneweg,18,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632077,52.334302
 Spaarneweg,20,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632156,52.333801
 Spaarneweg,22,A,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632243,52.333287
@@ -305,19 +381,47 @@ Spaarneweg,26,A,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630399,52.33
 Spaarneweg,26,B,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630235,52.332853
 Spaarneweg,26,C,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630121,52.332699
 Spaarneweg,26,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630540,52.333049
-Spaarneweg,28,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,STA,4.631170,52.332165
-Spaarneweg,30,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631809,52.332439
-Spaarneweg,31,A,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630354,52.334518
+Spaarneweg,30,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631808,52.332439
 Spaarneweg,31,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632355,52.335381
 Spaarneweg,33,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632116,52.335209
-Spaarneweg,35,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631483,52.334636
-Spaarneweg,37,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630936,52.334214
-Spaarneweg,39,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630815,52.334132
-Spaarneweg,41,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630371,52.333844
 Spaarneweg,44,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629857,52.332368
 Spaarneweg,46,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630439,52.332051
-Spaarneweg,47,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629854,52.333516
+Spaarneweg,47,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629639,52.333679
 Spaarneweg,50,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631714,52.331501
+Spaarneweg,51,,1,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628728,52.334229
+Spaarneweg,51,,10,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629387,52.333878
+Spaarneweg,51,,11,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629460,52.333839
+Spaarneweg,51,,12,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629534,52.333800
+Spaarneweg,51,,13,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629607,52.333761
+Spaarneweg,51,,14,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629680,52.333722
+Spaarneweg,51,,15,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629753,52.333683
+Spaarneweg,51,,16,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629827,52.333644
+Spaarneweg,51,,17,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629900,52.333605
+Spaarneweg,51,,18,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629713,52.333449
+Spaarneweg,51,,19,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629604,52.333500
+Spaarneweg,51,,2,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628801,52.334190
+Spaarneweg,51,,20,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629535,52.333540
+Spaarneweg,51,,21,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629471,52.333576
+Spaarneweg,51,,22,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629383,52.333621
+Spaarneweg,51,,23,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629315,52.333665
+Spaarneweg,51,,24,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629242,52.333700
+Spaarneweg,51,,25,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629168,52.333743
+Spaarneweg,51,,26,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629092,52.333778
+Spaarneweg,51,,27,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629022,52.333823
+Spaarneweg,51,,28,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628922,52.333866
+Spaarneweg,51,,29,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628840,52.333910
+Spaarneweg,51,,3,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628874,52.334151
+Spaarneweg,51,,30,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628752,52.333952
+Spaarneweg,51,,31,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628691,52.333989
+Spaarneweg,51,,32,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628631,52.334025
+Spaarneweg,51,,33,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628576,52.334055
+Spaarneweg,51,,34,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628524,52.334089
+Spaarneweg,51,,4,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628947,52.334112
+Spaarneweg,51,,5,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629021,52.334073
+Spaarneweg,51,,6,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629094,52.334034
+Spaarneweg,51,,7,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629167,52.333995
+Spaarneweg,51,,8,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629241,52.333956
+Spaarneweg,51,,9,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629314,52.333917
 Spaarneweg,52,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632585,52.332177
 Spaarneweg,56,,,2142EN,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633046,52.332502
 Spaarneweg,53,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629250,52.333116
@@ -328,43 +432,70 @@ Spaarneweg,61,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628672,52.333
 Spaarneweg,63,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628526,52.333486
 Spaarneweg,65,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628374,52.333566
 Spaarneweg,67,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628272,52.333618
+Spaarneweg,69,,1,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628502,52.334169
+Spaarneweg,69,,10,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628057,52.334515
+Spaarneweg,69,,11,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628116,52.334479
+Spaarneweg,69,,12,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628185,52.334443
+Spaarneweg,69,,13,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628251,52.334408
+Spaarneweg,69,,14,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628314,52.334370
+Spaarneweg,69,,15,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628379,52.334336
+Spaarneweg,69,,16,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628442,52.334302
+Spaarneweg,69,,17,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628514,52.334264
+Spaarneweg,69,,18,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628582,52.334232
+Spaarneweg,69,,2,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628437,52.334205
+Spaarneweg,69,,3,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628371,52.334241
+Spaarneweg,69,,4,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628305,52.334277
+Spaarneweg,69,,5,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628240,52.334312
+Spaarneweg,69,,6,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628174,52.334348
+Spaarneweg,69,,7,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628108,52.334384
+Spaarneweg,69,,8,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628042,52.334420
+Spaarneweg,69,,9,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627977,52.334456
+Spaarneweg,71,,1,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627808,52.334611
+Spaarneweg,71,,2,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627893,52.334653
+Spaarneweg,71,,3,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627978,52.334694
+Spaarneweg,73,,1,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628286,52.334027
+Spaarneweg,73,,10,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627702,52.334347
+Spaarneweg,73,,2,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628221,52.334063
+Spaarneweg,73,,3,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628156,52.334098
+Spaarneweg,73,,4,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628091,52.334134
+Spaarneweg,73,,5,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628026,52.334169
+Spaarneweg,73,,6,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627961,52.334205
+Spaarneweg,73,,7,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627896,52.334240
+Spaarneweg,73,,8,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627832,52.334276
+Spaarneweg,73,,9,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627767,52.334311
 Spaarneweg,75,A,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627706,52.333696
 Spaarneweg,75,B,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627836,52.333789
 Spaarneweg,75,C,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627971,52.333889
 Spaarneweg,75,D,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628102,52.333980
 Spaarneweg,77,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628594,52.334103
-Spaarneweg,83,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627436,52.334447
+Spaarneweg,83,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627435,52.334447
 Spaarneweg,85,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626986,52.334066
 Spaarneweg,251,,,2142EP,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631051,52.330308
 Cruquiusdijk,27,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.638092,52.338199
 Cruquiusdijk,32,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639038,52.338165
-Cruquiusdijk,34,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639170,52.336937
-Cruquiusdijk,35,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639269,52.336869
-Cruquiusdijk,36,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639383,52.336792
-Cruquiusdijk,37,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639491,52.336724
 Cruquiusdijk,40,A,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639613,52.338209
-Cruquiusdijk,40,B,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639646,52.338198
+Cruquiusdijk,40,B,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639645,52.338198
 Cruquiusdijk,40,C,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639678,52.338186
 Cruquiusdijk,40,D,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639711,52.338174
-Cruquiusdijk,40,E,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639744,52.338162
-Cruquiusdijk,40,F,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639776,52.338150
-Cruquiusdijk,40,G,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639809,52.338138
-Cruquiusdijk,41,A,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639842,52.338126
-Cruquiusdijk,41,B,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639874,52.338115
+Cruquiusdijk,40,E,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639661,52.338110
+Cruquiusdijk,40,F,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639698,52.338092
+Cruquiusdijk,40,G,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639744,52.338076
+Cruquiusdijk,41,A,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639784,52.338039
+Cruquiusdijk,41,B,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639810,52.338030
 Cruquiusdijk,41,C,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639907,52.338103
 Cruquiusdijk,41,D,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639940,52.338091
 Cruquiusdijk,41,E,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639972,52.338079
 Cruquiusdijk,41,F,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640005,52.338067
-Cruquiusdijk,41,G,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640038,52.338055
+Cruquiusdijk,41,G,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.639934,52.338020
 Cruquiusdijk,42,A,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640188,52.338138
 Cruquiusdijk,42,B,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640216,52.338150
 Cruquiusdijk,42,C,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640245,52.338162
 Cruquiusdijk,42,D,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640274,52.338174
 Cruquiusdijk,42,E,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640303,52.338187
-Cruquiusdijk,42,F,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640331,52.338199
-Cruquiusdijk,42,G,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640360,52.338211
+Cruquiusdijk,42,F,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640380,52.338181
+Cruquiusdijk,42,G,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640415,52.338195
 Cruquiusdijk,43,A,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640389,52.338223
-Cruquiusdijk,43,B,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640418,52.338236
+Cruquiusdijk,43,B,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640417,52.338236
 Cruquiusdijk,43,C,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640446,52.338248
 Cruquiusdijk,43,D,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640475,52.338260
 Cruquiusdijk,43,E,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640504,52.338273
@@ -375,12 +506,12 @@ Cruquiusdijk,54,A,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641496,52.
 Cruquiusdijk,54,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641644,52.336376
 Cruquiusdijk,55,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640694,52.338528
 Cruquiusdijk,56,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.640872,52.338558
-Cruquiusdijk,57,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641051,52.338560
-Cruquiusdijk,58,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641122,52.338562
+Cruquiusdijk,57,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641051,52.338557
+Cruquiusdijk,58,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641104,52.338612
 Cruquiusdijk,59,,,2142ER,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641298,52.338605
 Cruquiusdijk,60,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641431,52.338610
-Cruquiusdijk,61,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641491,52.338616
-Cruquiusdijk,62,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641679,52.338647
+Cruquiusdijk,61,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641524,52.338597
+Cruquiusdijk,62,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641688,52.338648
 Cruquiusdijk,63,A,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642091,52.338540
 Cruquiusdijk,63,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641920,52.338694
 Cruquiusdijk,64,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642241,52.338720
@@ -388,8 +519,8 @@ Cruquiusdijk,66,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642468,52.3
 Cruquiusdijk,68,B,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643181,52.338236
 Cruquiusdijk,68,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642945,52.338445
 Cruquiusdijk,70,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642954,52.338802
-Cruquiusdijk,71,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643040,52.338851
-Cruquiusdijk,72,A,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643350,52.338641
+Cruquiusdijk,71,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643062,52.338831
+Cruquiusdijk,72,A,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643349,52.338641
 Cruquiusdijk,72,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643239,52.338866
 Cruquiusdijk,73,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643304,52.338875
 Cruquiusdijk,74,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643458,52.338894
@@ -398,6 +529,7 @@ Cruquiusdijk,76,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643738,52.3
 Cruquiusdijk,78,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644037,52.338979
 Cruquiusdijk,79,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644352,52.339019
 Cruquiusdijk,81,,,2142ES,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644745,52.338651
+Cruquiusdijk,83,A,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644744,52.338833
 Cruquiusdijk,83,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644689,52.339067
 Cruquiusdijk,84,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644894,52.339087
 Cruquiusdijk,85,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644991,52.339100
@@ -405,27 +537,24 @@ Cruquiusdijk,87,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645180,52.3
 Cruquiusdijk,90,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645531,52.339196
 Cruquiusdijk,91,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645796,52.339197
 Cruquiusdijk,92,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646271,52.339230
-Cruquiusdijk,95,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647279,52.338886
 Cruquiusdijk,107,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650273,52.340227
 Cruquiusdijk,108,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650552,52.340347
 Cruquiusdijk,113,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651443,52.340287
 Cruquiusdijk,120,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653345,52.341157
-Cruquiusdijk,122,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656250,52.340020
+Cruquiusdijk,122,A,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656197,52.340393
+Cruquiusdijk,122,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656325,52.339935
 Cruquiusdijk,125,,,2142ET,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654399,52.341268
-Cruquiusplein,2,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629691,52.331150
 Cruquiusplein,4,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629636,52.331176
 Cruquiusplein,6,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629555,52.331219
-Cruquiusplein,8,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629476,52.331282
 Cruquiusplein,10,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629260,52.331347
 Cruquiusplein,12,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629149,52.331482
-Cruquiusplein,14,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628956,52.331568
 Cruquiusplein,16,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628868,52.331620
 Cruquiusplein,18,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628775,52.331678
 Cruquiusplein,20,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628683,52.331629
 Cruquiusplein,22,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628565,52.331604
 Cruquiusplein,24,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628384,52.331594
 Cruquiusplein,26,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628134,52.331592
-Cruquiusplein,28,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628016,52.331605
+Cruquiusplein,28,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628015,52.331605
 Cruquiusplein,30,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627893,52.331606
 Cruquiusplein,32,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627831,52.331680
 Cruquiusplein,34,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627662,52.331736
@@ -440,35 +569,383 @@ Cruquiusplein,50,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628027,52.
 Cruquiusplein,52,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628345,52.332653
 Cruquiusplein,54,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628559,52.332627
 Cruquiusplein,56,,,2142EV,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628670,52.332710
-Cruquiuszoom,1,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629745,52.331081
-Cruquiuszoom,3,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629703,52.331053
+Cruquiuszoom,2,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625468,52.333308
+Cruquiuszoom,4,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625417,52.333276
 Cruquiuszoom,5,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629160,52.330679
+Cruquiuszoom,6,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625371,52.333241
 Cruquiuszoom,7,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628706,52.330702
+Cruquiuszoom,8,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625329,52.333206
 Cruquiuszoom,9,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628477,52.330821
+Cruquiuszoom,10,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625277,52.333173
 Cruquiuszoom,11,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628409,52.330857
+Cruquiuszoom,12,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625226,52.333141
 Cruquiuszoom,13,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628433,52.330960
+Cruquiuszoom,14,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625177,52.333107
 Cruquiuszoom,15,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628105,52.331009
+Cruquiuszoom,16,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625136,52.333071
 Cruquiuszoom,17,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627960,52.331116
-Cruquiuszoom,19,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627859,52.331164
+Cruquiuszoom,18,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625084,52.333039
+Cruquiuszoom,20,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625041,52.333003
 Cruquiuszoom,21,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627731,52.331236
+Cruquiuszoom,22,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624990,52.332971
 Cruquiuszoom,23,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627687,52.331374
+Cruquiuszoom,24,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624936,52.332938
 Cruquiuszoom,25,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627435,52.331388
+Cruquiuszoom,26,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624891,52.332906
 Cruquiuszoom,27,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627278,52.331469
-Cruquiuszoom,29,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627045,52.331612
+Cruquiuszoom,28,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624837,52.332872
+Cruquiuszoom,30,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624786,52.332840
 Cruquiuszoom,31,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627045,52.331717
+Cruquiuszoom,32,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624739,52.332810
 Cruquiuszoom,33,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626622,52.331825
+Cruquiuszoom,34,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624689,52.332774
 Cruquiuszoom,35,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626640,52.331969
+Cruquiuszoom,36,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624641,52.332740
 Cruquiuszoom,37,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626267,52.332175
+Cruquiuszoom,38,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624593,52.332704
 Cruquiuszoom,39,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626510,52.332195
+Cruquiuszoom,40,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624545,52.332674
 Cruquiuszoom,41,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626614,52.332362
+Cruquiuszoom,42,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624502,52.332643
 Cruquiuszoom,43,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626804,52.332425
 Cruquiuszoom,45,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626944,52.332573
 Cruquiuszoom,47,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626987,52.332620
 Cruquiuszoom,49,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627106,52.332705
+Cruquiuszoom,50,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625654,52.333121
 Cruquiuszoom,51,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627307,52.332747
+Cruquiuszoom,52,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625612,52.333091
 Cruquiuszoom,53,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627563,52.332994
+Cruquiuszoom,54,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625566,52.333057
 Cruquiuszoom,55,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627726,52.333163
+Cruquiuszoom,56,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625523,52.333024
+Cruquiuszoom,58,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625473,52.332989
+Cruquiuszoom,60,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625427,52.332954
+Cruquiuszoom,62,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625377,52.332922
+Cruquiuszoom,64,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625332,52.332886
+Cruquiuszoom,66,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625286,52.332853
+Cruquiuszoom,68,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625238,52.332819
+Cruquiuszoom,70,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625186,52.332787
+Cruquiuszoom,72,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625143,52.332751
+Cruquiuszoom,74,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625088,52.332717
+Cruquiuszoom,76,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625041,52.332683
+Cruquiuszoom,78,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625008,52.332655
+Cruquiuszoom,80,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624953,52.332622
+Cruquiuszoom,82,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624900,52.332582
+Cruquiuszoom,84,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624852,52.332542
+Cruquiuszoom,86,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624814,52.332521
+Cruquiuszoom,90,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625817,52.333033
+Cruquiuszoom,92,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625777,52.333001
+Cruquiuszoom,94,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625730,52.332968
+Cruquiuszoom,96,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625682,52.332938
+Cruquiuszoom,98,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625632,52.332903
+Cruquiuszoom,100,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625588,52.332867
+Cruquiuszoom,102,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625539,52.332835
+Cruquiuszoom,104,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625486,52.332802
+Cruquiuszoom,106,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625436,52.332772
+Cruquiuszoom,108,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625391,52.332737
+Cruquiuszoom,110,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625341,52.332703
+Cruquiuszoom,112,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625293,52.332670
+Cruquiuszoom,114,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625245,52.332633
+Cruquiuszoom,116,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625193,52.332602
+Cruquiuszoom,118,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625152,52.332572
+Cruquiuszoom,120,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625099,52.332538
+Cruquiuszoom,122,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625053,52.332504
+Cruquiuszoom,124,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625010,52.332473
+Cruquiuszoom,126,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.624953,52.332429
+Cruquiuszoom,128,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626088,52.332902
+Cruquiuszoom,130,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626038,52.332868
+Cruquiuszoom,132,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625989,52.332835
+Cruquiuszoom,134,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625939,52.332802
+Cruquiuszoom,136,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625889,52.332768
+Cruquiuszoom,138,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625839,52.332735
+Cruquiuszoom,140,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625772,52.332699
+Cruquiuszoom,142,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625704,52.332646
+Cruquiuszoom,144,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625588,52.332568
+Cruquiuszoom,146,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625506,52.332514
+Cruquiuszoom,148,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625461,52.332474
+Cruquiuszoom,150,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625407,52.332446
+Cruquiuszoom,152,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625360,52.332417
+Cruquiuszoom,154,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625297,52.332380
+Cruquiuszoom,156,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625250,52.332346
+Cruquiuszoom,158,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625200,52.332315
+Cruquiuszoom,160,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626176,52.332853
+Cruquiuszoom,162,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626123,52.332823
+Cruquiuszoom,164,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626082,52.332790
+Cruquiuszoom,166,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626046,52.332757
+Cruquiuszoom,168,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625994,52.332719
+Cruquiuszoom,170,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625939,52.332684
+Cruquiuszoom,172,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625890,52.332647
+Cruquiuszoom,174,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625841,52.332618
+Cruquiuszoom,176,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625796,52.332585
+Cruquiuszoom,178,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625749,52.332555
+Cruquiuszoom,180,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625698,52.332520
+Cruquiuszoom,182,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625646,52.332485
+Cruquiuszoom,184,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625595,52.332450
+Cruquiuszoom,186,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625532,52.332423
+Cruquiuszoom,188,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625492,52.332386
+Cruquiuszoom,190,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625450,52.332352
+Cruquiuszoom,192,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625402,52.332321
+Cruquiuszoom,194,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625354,52.332285
+Cruquiuszoom,196,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625303,52.332250
+Cruquiuszoom,198,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625910,52.332636
+Cruquiuszoom,200,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625685,52.332472
+Cruquiuszoom,250,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626346,52.332930
+Cruquiuszoom,252,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626313,52.332948
+Cruquiuszoom,254,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626281,52.332966
+Cruquiuszoom,256,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626248,52.332984
+Cruquiuszoom,258,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626215,52.333002
+Cruquiuszoom,260,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626182,52.333020
+Cruquiuszoom,262,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626149,52.333037
+Cruquiuszoom,264,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626116,52.333055
+Cruquiuszoom,266,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626083,52.333073
+Cruquiuszoom,268,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626050,52.333091
+Cruquiuszoom,270,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626017,52.333109
+Cruquiuszoom,272,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625984,52.333127
+Cruquiuszoom,274,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625951,52.333145
+Cruquiuszoom,276,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625918,52.333163
+Cruquiuszoom,278,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625885,52.333180
+Cruquiuszoom,280,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625852,52.333198
+Cruquiuszoom,282,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625819,52.333216
+Cruquiuszoom,284,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625786,52.333234
+Cruquiuszoom,286,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625753,52.333252
+Cruquiuszoom,288,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625720,52.333270
+Cruquiuszoom,290,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625687,52.333288
+Cruquiuszoom,292,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625654,52.333306
+Cruquiuszoom,294,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625621,52.333323
+Cruquiuszoom,296,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625588,52.333341
+Cruquiuszoom,298,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625555,52.333359
+Cruquiuszoom,300,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625522,52.333377
+Cruquiuszoom,302,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625489,52.333395
+Cruquiuszoom,304,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625630,52.333471
+Cruquiuszoom,306,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625663,52.333495
+Cruquiuszoom,308,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625697,52.333518
+Cruquiuszoom,310,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625730,52.333541
+Cruquiuszoom,312,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625764,52.333564
+Cruquiuszoom,314,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625797,52.333588
+Cruquiuszoom,316,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625831,52.333611
+Cruquiuszoom,318,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625865,52.333634
+Cruquiuszoom,320,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625898,52.333657
+Cruquiuszoom,322,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625932,52.333681
+Cruquiuszoom,324,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625802,52.333411
+Cruquiuszoom,326,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625838,52.333392
+Cruquiuszoom,328,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625871,52.333374
+Cruquiuszoom,330,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625904,52.333356
+Cruquiuszoom,332,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625937,52.333338
+Cruquiuszoom,334,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625970,52.333320
+Cruquiuszoom,336,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626003,52.333302
+Cruquiuszoom,338,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626036,52.333284
+Cruquiuszoom,340,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626069,52.333266
+Cruquiuszoom,342,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626102,52.333249
+Cruquiuszoom,344,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626135,52.333231
+Cruquiuszoom,346,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626168,52.333213
+Cruquiuszoom,348,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626201,52.333195
+Cruquiuszoom,350,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626234,52.333177
+Cruquiuszoom,352,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626267,52.333159
+Cruquiuszoom,354,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626300,52.333141
+Cruquiuszoom,356,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626333,52.333123
+Cruquiuszoom,358,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626365,52.333105
+Cruquiuszoom,360,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626398,52.333088
+Cruquiuszoom,362,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626431,52.333070
+Cruquiuszoom,364,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626465,52.333052
+Cruquiuszoom,366,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626497,52.333034
+Cruquiuszoom,368,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626585,52.333095
+Cruquiuszoom,370,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626552,52.333112
+Cruquiuszoom,372,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626519,52.333130
+Cruquiuszoom,374,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626486,52.333148
+Cruquiuszoom,376,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626453,52.333166
+Cruquiuszoom,378,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626420,52.333184
+Cruquiuszoom,380,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626387,52.333202
+Cruquiuszoom,382,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626354,52.333220
+Cruquiuszoom,384,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626322,52.333238
+Cruquiuszoom,386,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626289,52.333256
+Cruquiuszoom,388,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626256,52.333273
+Cruquiuszoom,390,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626223,52.333291
+Cruquiuszoom,392,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626190,52.333309
+Cruquiuszoom,394,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626157,52.333327
+Cruquiuszoom,396,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626124,52.333345
+Cruquiuszoom,398,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626091,52.333363
+Cruquiuszoom,400,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626058,52.333381
+Cruquiuszoom,402,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626025,52.333399
+Cruquiuszoom,404,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625992,52.333417
+Cruquiuszoom,406,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625959,52.333435
+Cruquiuszoom,408,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625926,52.333453
+Cruquiuszoom,410,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625890,52.333472
+Cruquiuszoom,412,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626045,52.333580
+Cruquiuszoom,414,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626083,52.333559
+Cruquiuszoom,416,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626122,52.333538
+Cruquiuszoom,418,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626161,52.333517
+Cruquiuszoom,420,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626199,52.333496
+Cruquiuszoom,422,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626237,52.333475
+Cruquiuszoom,424,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626276,52.333454
+Cruquiuszoom,426,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626314,52.333433
+Cruquiuszoom,428,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626353,52.333412
+Cruquiuszoom,430,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626391,52.333392
+Cruquiuszoom,432,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626430,52.333371
+Cruquiuszoom,434,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626468,52.333350
+Cruquiuszoom,436,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626506,52.333329
+Cruquiuszoom,438,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626545,52.333308
+Cruquiuszoom,440,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626583,52.333287
+Cruquiuszoom,442,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626622,52.333266
+Cruquiuszoom,444,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626660,52.333245
+Cruquiuszoom,446,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626699,52.333224
+Cruquiuszoom,448,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626737,52.333204
+Cruquiuszoom,450,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626818,52.333256
+Cruquiuszoom,452,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626785,52.333274
+Cruquiuszoom,454,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626752,52.333292
+Cruquiuszoom,456,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626719,52.333310
+Cruquiuszoom,458,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626685,52.333328
+Cruquiuszoom,460,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626652,52.333346
+Cruquiuszoom,462,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626619,52.333364
+Cruquiuszoom,464,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626587,52.333382
+Cruquiuszoom,466,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626554,52.333400
+Cruquiuszoom,468,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626521,52.333418
+Cruquiuszoom,470,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626488,52.333436
+Cruquiuszoom,472,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626455,52.333453
+Cruquiuszoom,474,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626422,52.333471
+Cruquiuszoom,476,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626389,52.333489
+Cruquiuszoom,478,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626356,52.333507
+Cruquiuszoom,480,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626323,52.333525
+Cruquiuszoom,482,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626290,52.333543
+Cruquiuszoom,484,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626257,52.333561
+Cruquiuszoom,486,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626224,52.333579
+Cruquiuszoom,488,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626191,52.333596
+Cruquiuszoom,490,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626158,52.333614
+Cruquiuszoom,492,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626125,52.333632
+Cruquiuszoom,494,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625931,52.333723
+Cruquiuszoom,496,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.625966,52.333746
+Cruquiuszoom,498,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626000,52.333770
+Cruquiuszoom,500,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626034,52.333793
+Cruquiuszoom,502,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626069,52.333817
+Cruquiuszoom,504,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626103,52.333840
+Cruquiuszoom,506,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626136,52.333864
+Cruquiuszoom,508,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626171,52.333888
+Cruquiuszoom,510,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626205,52.333911
+Cruquiuszoom,512,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626239,52.333935
+Cruquiuszoom,514,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626273,52.333958
+Cruquiuszoom,516,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626307,52.333982
+Cruquiuszoom,518,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626339,52.334003
+Cruquiuszoom,520,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626368,52.334024
+Cruquiuszoom,522,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626287,52.333704
+Cruquiuszoom,524,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626320,52.333686
+Cruquiuszoom,526,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626353,52.333668
+Cruquiuszoom,528,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626386,52.333650
+Cruquiuszoom,530,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626419,52.333632
+Cruquiuszoom,532,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626452,52.333615
+Cruquiuszoom,534,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626485,52.333597
+Cruquiuszoom,536,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626518,52.333579
+Cruquiuszoom,538,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626551,52.333561
+Cruquiuszoom,540,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626584,52.333543
+Cruquiuszoom,542,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626617,52.333525
+Cruquiuszoom,544,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626650,52.333507
+Cruquiuszoom,546,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626683,52.333489
+Cruquiuszoom,548,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626716,52.333471
+Cruquiuszoom,550,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626749,52.333453
+Cruquiuszoom,552,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626782,52.333435
+Cruquiuszoom,554,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626815,52.333417
+Cruquiuszoom,556,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626848,52.333400
+Cruquiuszoom,558,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626881,52.333382
+Cruquiuszoom,560,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626914,52.333364
+Cruquiuszoom,562,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626947,52.333346
+Cruquiuszoom,564,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627015,52.333393
+Cruquiuszoom,566,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626982,52.333411
+Cruquiuszoom,568,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626950,52.333429
+Cruquiuszoom,570,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626916,52.333447
+Cruquiuszoom,572,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626883,52.333465
+Cruquiuszoom,574,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626850,52.333483
+Cruquiuszoom,576,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626817,52.333501
+Cruquiuszoom,578,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626784,52.333519
+Cruquiuszoom,580,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626751,52.333537
+Cruquiuszoom,582,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626718,52.333555
+Cruquiuszoom,584,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626685,52.333572
+Cruquiuszoom,586,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626652,52.333590
+Cruquiuszoom,588,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626619,52.333608
+Cruquiuszoom,590,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626586,52.333626
+Cruquiuszoom,592,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626553,52.333644
+Cruquiuszoom,594,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626520,52.333662
+Cruquiuszoom,596,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626488,52.333680
+Cruquiuszoom,598,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626455,52.333698
+Cruquiuszoom,600,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626422,52.333716
+Cruquiuszoom,602,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626389,52.333734
+Cruquiuszoom,604,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626355,52.333751
+Cruquiuszoom,606,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626484,52.333841
+Cruquiuszoom,608,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626517,52.333823
+Cruquiuszoom,610,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626550,52.333805
+Cruquiuszoom,612,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626583,52.333787
+Cruquiuszoom,614,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626616,52.333769
+Cruquiuszoom,616,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626649,52.333751
+Cruquiuszoom,618,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626682,52.333733
+Cruquiuszoom,620,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626715,52.333715
+Cruquiuszoom,622,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626748,52.333697
+Cruquiuszoom,624,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626781,52.333679
+Cruquiuszoom,626,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626814,52.333662
+Cruquiuszoom,628,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626847,52.333644
+Cruquiuszoom,630,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626880,52.333626
+Cruquiuszoom,632,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626913,52.333608
+Cruquiuszoom,634,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626946,52.333590
+Cruquiuszoom,636,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626979,52.333572
+Cruquiuszoom,638,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627013,52.333554
+Cruquiuszoom,640,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627046,52.333536
+Cruquiuszoom,642,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627079,52.333518
+Cruquiuszoom,644,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627111,52.333501
+Cruquiuszoom,646,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627145,52.333483
+Cruquiuszoom,648,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627218,52.333533
+Cruquiuszoom,650,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627185,52.333551
+Cruquiuszoom,652,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627152,52.333569
+Cruquiuszoom,654,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627119,52.333587
+Cruquiuszoom,656,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627086,52.333605
+Cruquiuszoom,658,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627053,52.333623
+Cruquiuszoom,660,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627020,52.333641
+Cruquiuszoom,662,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626986,52.333659
+Cruquiuszoom,664,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626954,52.333676
+Cruquiuszoom,666,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626921,52.333694
+Cruquiuszoom,668,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626888,52.333712
+Cruquiuszoom,670,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626855,52.333730
+Cruquiuszoom,672,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626822,52.333748
+Cruquiuszoom,674,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626788,52.333766
+Cruquiuszoom,676,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626755,52.333784
+Cruquiuszoom,678,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626722,52.333802
+Cruquiuszoom,680,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626689,52.333820
+Cruquiuszoom,682,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626656,52.333838
+Cruquiuszoom,684,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626623,52.333855
+Cruquiuszoom,686,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626590,52.333873
+Cruquiuszoom,688,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626557,52.333891
+Cruquiuszoom,690,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626468,52.334125
+Cruquiuszoom,692,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626507,52.334104
+Cruquiuszoom,694,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626545,52.334083
+Cruquiuszoom,696,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626584,52.334063
+Cruquiuszoom,698,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626622,52.334041
+Cruquiuszoom,700,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626661,52.334021
+Cruquiuszoom,702,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626700,52.333999
+Cruquiuszoom,704,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626739,52.333979
+Cruquiuszoom,706,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626778,52.333958
+Cruquiuszoom,708,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626816,52.333937
+Cruquiuszoom,710,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626855,52.333916
+Cruquiuszoom,712,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626893,52.333895
+Cruquiuszoom,714,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626932,52.333875
+Cruquiuszoom,716,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626970,52.333854
+Cruquiuszoom,718,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627008,52.333833
+Cruquiuszoom,720,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627047,52.333812
+Cruquiuszoom,722,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627085,52.333791
+Cruquiuszoom,724,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627124,52.333770
+Cruquiuszoom,726,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627162,52.333749
+Cruquiuszoom,728,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627201,52.333729
+Cruquiuszoom,730,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627232,52.333706
+Cruquiuszoom,732,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627265,52.333688
+Cruquiuszoom,734,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627298,52.333670
+Cruquiuszoom,736,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627331,52.333652
+Cruquiuszoom,738,,,2142EW,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.627363,52.333634
 Crommelinbaan,3,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632946,52.330893
+Crommelinbaan,8,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632592,52.331133
+Crommelinbaan,10,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632222,52.331283
+Crommelinbaan,12,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632834,52.331269
+Crommelinbaan,14,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632446,52.331494
+Crommelinbaan,16,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633020,52.331468
+Crommelinbaan,18,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632740,52.331651
+Crommelinbaan,20,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633182,52.331593
+Crommelinbaan,22,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.632994,52.331819
+Crommelinbaan,24,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633480,52.331704
+Crommelinbaan,26,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633121,52.331935
+Crommelinbaan,28,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633698,52.331914
 Crommelinbaan,29,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633666,52.331464
 Crommelinbaan,29,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633718,52.331437
 Crommelinbaan,29,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633770,52.331409
@@ -485,42 +962,666 @@ Crommelinbaan,29,N,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634004,52
 Crommelinbaan,29,P,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634060,52.331427
 Crommelinbaan,29,R,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634115,52.331397
 Crommelinbaan,29,S,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634183,52.331362
+Crommelinbaan,30,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633382,52.332096
 Crommelinbaan,31,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634311,52.331829
+Crommelinbaan,32,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633914,52.332045
 Crommelinbaan,33,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634622,52.332143
 Crommelinbaan,33,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634716,52.332093
 Crommelinbaan,33,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634822,52.332039
 Crommelinbaan,33,D,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634924,52.331985
-Crommelinbaan,33,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635013,52.331936
+Crommelinbaan,33,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635012,52.331936
+Crommelinbaan,34,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633623,52.332223
+Crommelinbaan,36,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634290,52.332310
+Crommelinbaan,37,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635098,52.332249
+Crommelinbaan,38,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634010,52.332444
+Crommelinbaan,39,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635257,52.332370
 Crommelinbaan,44,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634880,52.332670
-Crommelinbaan,45,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635425,52.332707
+Crommelinbaan,45,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635390,52.332657
 Crommelinbaan,46,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634624,52.332790
 Crommelinbaan,49,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635566,52.332612
 Crommelinbaan,49,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635900,52.332468
 Crommelinbaan,49,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635987,52.332416
 Crommelinbaan,50,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635722,52.333101
 Crommelinbaan,51,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636277,52.332202
+Crommelinbaan,54,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636461,52.332930
+Crommelinbaan,55,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636156,52.331962
+Crommelinbaan,55,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636068,52.332006
+Crommelinbaan,55,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635980,52.332051
+Crommelinbaan,55,D,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635892,52.332096
+Crommelinbaan,55,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635804,52.332140
+Crommelinbaan,55,F,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635716,52.332185
+Crommelinbaan,56,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.636965,52.332495
+Crommelinbaan,57,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635853,52.331766
+Crommelinbaan,57,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635753,52.331816
+Crommelinbaan,57,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635644,52.331870
+Crommelinbaan,57,D,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635547,52.331919
+Crommelinbaan,57,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635461,52.331970
+Crommelinbaan,59,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635600,52.331584
+Crommelinbaan,59,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635506,52.331640
+Crommelinbaan,59,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635409,52.331692
+Crommelinbaan,59,D,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635298,52.331749
+Crommelinbaan,59,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635205,52.331800
+Crommelinbaan,61,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635192,52.331336
+Crommelinbaan,61,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635075,52.331399
+Crommelinbaan,61,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634993,52.331444
+Crommelinbaan,61,D,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634910,52.331488
+Crommelinbaan,61,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634815,52.331539
+Crommelinbaan,61,F,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634715,52.331593
+Crommelinbaan,63,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.635091,52.331245
+Crommelinbaan,63,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634991,52.331299
+Crommelinbaan,63,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634901,52.331347
+Crommelinbaan,63,D,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634821,52.331390
+Crommelinbaan,63,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634755,52.331426
+Crommelinbaan,63,F,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634688,52.331462
+Crommelinbaan,63,G,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634602,52.331508
 Crommelinbaan,65,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634695,52.330987
 Crommelinbaan,71,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634117,52.330499
-Kruisweg,1479,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.657069,52.325199
-Kruisweg,1481,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656994,52.325238
-Kruisweg,1483,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656947,52.325275
+Crommelinbaan,73,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633699,52.330451
+Crommelinbaan,73,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633616,52.330494
+Crommelinbaan,73,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633533,52.330537
+Crommelinbaan,73,D,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633451,52.330581
+Crommelinbaan,73,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633368,52.330624
+Crommelinbaan,73,,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633888,52.330843
+Crommelinbaan,75,A,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633661,52.330974
+Crommelinbaan,75,B,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633559,52.331028
+Crommelinbaan,75,C,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633458,52.331083
+Crommelinbaan,75,D,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633357,52.331138
+Crommelinbaan,75,E,,2142EX,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633230,52.331176
+Oldenburgerlaan,1,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652846,52.335567
+Oldenburgerlaan,2,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653348,52.335846
+Oldenburgerlaan,3,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652900,52.335605
+Oldenburgerlaan,4,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653288,52.335879
+Oldenburgerlaan,5,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652953,52.335642
+Oldenburgerlaan,6,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653228,52.335911
+Oldenburgerlaan,7,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653007,52.335679
+Oldenburgerlaan,8,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653167,52.335943
+Oldenburgerlaan,9,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653060,52.335716
+Oldenburgerlaan,10,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653107,52.335976
+Oldenburgerlaan,11,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652659,52.335932
+Oldenburgerlaan,12,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653047,52.336008
+Oldenburgerlaan,13,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652606,52.335894
+Oldenburgerlaan,14,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652987,52.336041
+Oldenburgerlaan,15,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652552,52.335857
+Oldenburgerlaan,16,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652927,52.336073
+Oldenburgerlaan,17,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652499,52.335820
+Oldenburgerlaan,18,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652867,52.336106
+Oldenburgerlaan,19,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652445,52.335783
+Oldenburgerlaan,20,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652719,52.336262
+Oldenburgerlaan,21,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652307,52.335947
+Oldenburgerlaan,22,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652665,52.336224
+Oldenburgerlaan,23,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652245,52.335980
+Oldenburgerlaan,24,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652613,52.336188
+Oldenburgerlaan,25,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652185,52.336013
+Oldenburgerlaan,26,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652560,52.336151
+Oldenburgerlaan,27,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652125,52.336045
+Oldenburgerlaan,28,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652506,52.336114
+Oldenburgerlaan,29,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652066,52.336077
+Oldenburgerlaan,30,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652405,52.336382
+Oldenburgerlaan,31,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652006,52.336109
+Oldenburgerlaan,32,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652344,52.336415
+Oldenburgerlaan,33,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651946,52.336141
+Oldenburgerlaan,34,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652284,52.336448
+Oldenburgerlaan,35,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651886,52.336173
+Oldenburgerlaan,36,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652224,52.336481
+Oldenburgerlaan,37,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651826,52.336205
+Oldenburgerlaan,38,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652024,52.336667
+Oldenburgerlaan,39,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651503,52.336292
+Oldenburgerlaan,40,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651970,52.336629
+Oldenburgerlaan,41,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651558,52.336329
+Oldenburgerlaan,42,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651918,52.336593
+Oldenburgerlaan,43,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651611,52.336367
+Oldenburgerlaan,44,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651866,52.336557
+Oldenburgerlaan,45,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651663,52.336403
+Oldenburgerlaan,46,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651812,52.336519
+Oldenburgerlaan,47,,,2142GA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651716,52.336440
+Berberlaan,1,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646000,52.336599
+Berberlaan,3,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645947,52.336562
+Berberlaan,5,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645894,52.336526
+Berberlaan,7,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645842,52.336489
+Berberlaan,9,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645790,52.336453
+Berberlaan,10,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647317,52.335949
+Berberlaan,11,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645738,52.336417
+Berberlaan,12,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647377,52.335916
+Berberlaan,13,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645687,52.336381
+Berberlaan,14,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647438,52.335884
+Berberlaan,15,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645632,52.336343
+Berberlaan,16,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647499,52.335851
+Berberlaan,17,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645371,52.336231
+Berberlaan,18,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647559,52.335818
+Berberlaan,19,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645433,52.336198
+Berberlaan,20,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647620,52.335786
+Berberlaan,21,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645493,52.336166
+Berberlaan,23,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645552,52.336134
+Berberlaan,25,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645612,52.336102
+Berberlaan,27,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645671,52.336070
+Berberlaan,29,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645731,52.336038
+Berberlaan,31,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645790,52.336006
+Berberlaan,33,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645849,52.335974
+Berberlaan,35,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645911,52.335941
+Berberlaan,37,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646156,52.335826
+Berberlaan,39,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646210,52.335864
+Berberlaan,41,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646263,52.335902
+Berberlaan,43,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646316,52.335938
+Berberlaan,45,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646369,52.335975
+Berberlaan,47,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646422,52.336012
+Berberlaan,49,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646474,52.336048
+Berberlaan,51,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646526,52.336085
+Berberlaan,53,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646579,52.336121
+Berberlaan,55,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646631,52.336158
+Berberlaan,57,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646683,52.336194
+Berberlaan,59,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646737,52.336231
+Berberlaan,61,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647016,52.336085
+Berberlaan,63,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646962,52.336047
+Berberlaan,65,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646909,52.336011
+Berberlaan,67,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646857,52.335974
+Berberlaan,69,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646804,52.335938
+Berberlaan,71,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646751,52.335900
+Berberlaan,73,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646400,52.335677
+Berberlaan,75,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646461,52.335644
+Berberlaan,77,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646520,52.335612
+Berberlaan,79,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646579,52.335580
+Berberlaan,81,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646639,52.335548
+Berberlaan,83,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646698,52.335516
+Berberlaan,85,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646758,52.335484
+Berberlaan,87,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646818,52.335452
+Berberlaan,89,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646878,52.335420
+Berberlaan,91,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646937,52.335388
+Berberlaan,93,,,2142GB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646998,52.335355
+Laan van Wickevoort,1,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,STA,4.654371,52.334624
+Laan van Wickevoort,30,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652736,52.335242
+Laan van Wickevoort,32,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652304,52.335492
+Laan van Wickevoort,34,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652176,52.335538
+Laan van Wickevoort,36,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651737,52.335805
+Laan van Wickevoort,38,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651608,52.335851
+Laan van Wickevoort,40,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651184,52.336103
+Laan van Wickevoort,42,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651055,52.336150
+Laan van Wickevoort,44,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650494,52.336434
+Laan van Wickevoort,46,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650158,52.336651
+Laan van Wickevoort,48,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650066,52.336700
+Laan van Wickevoort,50,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649639,52.336933
+Laan van Wickevoort,52,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649077,52.337237
+Laan van Wickevoort,54,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648959,52.337272
+Laan van Wickevoort,56,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648470,52.337570
+Laan van Wickevoort,58,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648392,52.337614
+Laan van Wickevoort,60,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647941,52.337850
+Laan van Wickevoort,62,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647409,52.338132
+Laan van Wickevoort,64,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647310,52.338162
+Laan van Wickevoort,70,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647180,52.337855
+Laan van Wickevoort,72,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647154,52.337856
+Laan van Wickevoort,74,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647128,52.337857
+Laan van Wickevoort,76,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647102,52.337858
+Laan van Wickevoort,78,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647077,52.337859
+Laan van Wickevoort,80,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647051,52.337861
+Laan van Wickevoort,82,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647025,52.337862
+Laan van Wickevoort,84,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646999,52.337863
+Laan van Wickevoort,86,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646974,52.337864
+Laan van Wickevoort,88,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646948,52.337866
+Laan van Wickevoort,90,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646922,52.337867
+Laan van Wickevoort,92,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646896,52.337868
+Laan van Wickevoort,94,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646871,52.337869
+Laan van Wickevoort,96,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646845,52.337870
+Laan van Wickevoort,98,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646819,52.337872
+Laan van Wickevoort,100,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646793,52.337873
+Laan van Wickevoort,102,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646767,52.337874
+Laan van Wickevoort,104,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646742,52.337875
+Laan van Wickevoort,106,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646716,52.337877
+Laan van Wickevoort,108,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646690,52.337878
+Laan van Wickevoort,110,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646664,52.337879
+Laan van Wickevoort,112,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647051,52.338072
+Laan van Wickevoort,114,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647125,52.338027
+Laan van Wickevoort,116,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647200,52.337983
+Laan van Wickevoort,118,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647053,52.337982
+Laan van Wickevoort,120,,,2142GC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646979,52.338026
+Holsteinerlaan,1,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649015,52.337725
+Holsteinerlaan,2,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649435,52.338064
+Holsteinerlaan,3,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648944,52.337763
+Holsteinerlaan,4,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649371,52.338021
+Holsteinerlaan,5,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648874,52.337800
+Holsteinerlaan,6,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649316,52.337974
+Holsteinerlaan,7,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648811,52.337842
+Holsteinerlaan,8,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649248,52.337935
+Holsteinerlaan,9,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648735,52.337876
+Holsteinerlaan,10,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649186,52.337892
+Holsteinerlaan,11,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648262,52.338088
+Holsteinerlaan,12,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648999,52.338232
+Holsteinerlaan,13,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648334,52.338140
+Holsteinerlaan,14,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648937,52.338189
+Holsteinerlaan,15,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648078,52.338243
+Holsteinerlaan,16,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648888,52.338139
+Holsteinerlaan,17,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647985,52.338288
+Holsteinerlaan,18,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648828,52.338096
+Holsteinerlaan,19,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647787,52.338449
+Holsteinerlaan,20,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648752,52.338060
+Holsteinerlaan,21,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647707,52.338389
+Holsteinerlaan,22,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648701,52.338320
+Holsteinerlaan,23,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647342,52.338678
+Holsteinerlaan,24,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648606,52.338365
+Holsteinerlaan,25,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647270,52.338717
+Holsteinerlaan,26,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648459,52.338491
+Holsteinerlaan,27,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647201,52.338755
+Holsteinerlaan,28,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648364,52.338536
+Holsteinerlaan,29,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647128,52.338793
+Holsteinerlaan,30,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648151,52.338614
+Holsteinerlaan,31,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647054,52.338832
+Holsteinerlaan,32,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648055,52.338659
+Holsteinerlaan,34,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647899,52.338875
+Holsteinerlaan,36,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647836,52.338832
+Holsteinerlaan,38,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647781,52.338785
+Holsteinerlaan,40,,,2142GD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647712,52.338745
+Dartmoorlaan,1,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650365,52.336990
+Dartmoorlaan,2,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650422,52.336959
+Dartmoorlaan,3,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650478,52.336929
+Dartmoorlaan,4,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650534,52.336898
+Dartmoorlaan,5,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650591,52.336868
+Dartmoorlaan,6,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650647,52.336838
+Dartmoorlaan,7,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650703,52.336808
+Dartmoorlaan,8,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650759,52.336777
+Dartmoorlaan,9,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650815,52.336747
+Dartmoorlaan,10,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650873,52.336716
+Dartmoorlaan,11,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651049,52.336758
+Dartmoorlaan,12,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651100,52.336793
+Dartmoorlaan,13,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651150,52.336828
+Dartmoorlaan,14,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651201,52.336863
+Dartmoorlaan,15,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651274,52.336997
+Dartmoorlaan,16,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651217,52.337028
+Dartmoorlaan,17,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651160,52.337058
+Dartmoorlaan,18,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651104,52.337089
+Dartmoorlaan,19,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651048,52.337119
+Dartmoorlaan,20,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650992,52.337149
+Dartmoorlaan,21,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650936,52.337179
+Dartmoorlaan,22,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650880,52.337210
+Dartmoorlaan,23,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650824,52.337240
+Dartmoorlaan,24,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650767,52.337271
+Dartmoorlaan,25,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650606,52.337357
+Dartmoorlaan,26,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650548,52.337388
+Dartmoorlaan,27,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650491,52.337419
+Dartmoorlaan,28,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650435,52.337449
+Dartmoorlaan,29,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650378,52.337480
+Dartmoorlaan,30,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650322,52.337510
+Dartmoorlaan,31,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650267,52.337540
+Dartmoorlaan,32,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650211,52.337570
+Dartmoorlaan,33,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650155,52.337600
+Dartmoorlaan,34,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650097,52.337631
+Dartmoorlaan,35,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649891,52.337569
+Dartmoorlaan,36,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649841,52.337535
+Dartmoorlaan,37,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649791,52.337500
+Dartmoorlaan,38,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649740,52.337464
+Dartmoorlaan,39,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649695,52.337351
+Dartmoorlaan,40,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649752,52.337320
+Dartmoorlaan,41,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649808,52.337290
+Dartmoorlaan,42,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649864,52.337259
+Dartmoorlaan,43,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649920,52.337229
+Dartmoorlaan,44,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649976,52.337199
+Dartmoorlaan,45,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650032,52.337169
+Dartmoorlaan,46,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650088,52.337138
+Dartmoorlaan,47,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650145,52.337108
+Dartmoorlaan,48,,,2142GE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650203,52.337076
+Gelderlanderlaan,1,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653794,52.335389
+Gelderlanderlaan,2,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653746,52.335355
+Gelderlanderlaan,3,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653698,52.335322
+Gelderlanderlaan,4,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653521,52.335230
+Gelderlanderlaan,5,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653574,52.335201
+Gelderlanderlaan,6,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653627,52.335172
+Gelderlanderlaan,7,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653680,52.335143
+Gelderlanderlaan,8,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653734,52.335115
+Gelderlanderlaan,9,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653787,52.335086
+Gelderlanderlaan,10,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653840,52.335057
+Gelderlanderlaan,11,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653893,52.335028
+Gelderlanderlaan,12,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653947,52.334999
+Gelderlanderlaan,13,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654000,52.334971
+Gelderlanderlaan,14,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654053,52.334942
+Gelderlanderlaan,15,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654107,52.334913
+Gelderlanderlaan,16,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654280,52.334792
+Gelderlanderlaan,17,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654327,52.334825
+Gelderlanderlaan,18,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654374,52.334857
+Gelderlanderlaan,19,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654421,52.334890
+Gelderlanderlaan,20,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654468,52.334923
+Gelderlanderlaan,21,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654515,52.334955
+Gelderlanderlaan,22,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654562,52.334988
+Gelderlanderlaan,23,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654609,52.335020
+Gelderlanderlaan,24,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654656,52.335053
+Gelderlanderlaan,25,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654703,52.335086
+Gelderlanderlaan,26,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654750,52.335118
+Gelderlanderlaan,27,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654797,52.335151
+Gelderlanderlaan,28,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654364,52.335357
+Gelderlanderlaan,29,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654311,52.335385
+Gelderlanderlaan,30,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654258,52.335414
+Gelderlanderlaan,31,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654205,52.335443
+Gelderlanderlaan,32,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654152,52.335472
+Gelderlanderlaan,33,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654099,52.335500
+Gelderlanderlaan,34,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654046,52.335529
+Gelderlanderlaan,35,,,2142GG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653992,52.335558
+Groningerlaan,1,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647607,52.337704
+Groningerlaan,2,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647362,52.337522
+Groningerlaan,3,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647690,52.337659
+Groningerlaan,4,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647646,52.337364
+Groningerlaan,5,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647782,52.337622
+Groningerlaan,6,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647731,52.337311
+Groningerlaan,7,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647854,52.337571
+Groningerlaan,8,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648051,52.337145
+Groningerlaan,9,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.647947,52.337533
+Groningerlaan,10,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648410,52.337088
+Groningerlaan,11,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649370,52.336782
+Groningerlaan,12,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648479,52.336961
+Groningerlaan,13,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649453,52.336740
+Groningerlaan,14,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648567,52.336926
+Groningerlaan,15,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649858,52.336519
+Groningerlaan,16,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648780,52.336864
+Groningerlaan,17,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649944,52.336466
+Groningerlaan,18,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648861,52.336837
+Groningerlaan,19,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650281,52.336291
+Groningerlaan,20,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.648945,52.336668
+Groningerlaan,21,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650364,52.336248
+Groningerlaan,22,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649194,52.336530
+Groningerlaan,23,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652191,52.335233
+Groningerlaan,24,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649576,52.336341
+Groningerlaan,25,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652284,52.335195
+Groningerlaan,26,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649811,52.336196
+Groningerlaan,27,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652356,52.335144
+Groningerlaan,28,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.649897,52.336143
+Groningerlaan,29,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652438,52.335100
+Groningerlaan,30,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650204,52.335995
+Groningerlaan,31,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652529,52.335055
+Groningerlaan,32,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650462,52.335892
+Groningerlaan,34,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650550,52.335857
+Groningerlaan,36,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650772,52.335809
+Groningerlaan,38,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650860,52.335773
+Groningerlaan,40,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651099,52.335638
+Groningerlaan,42,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651169,52.335511
+Groningerlaan,44,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651257,52.335476
+Groningerlaan,46,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651467,52.335424
+Groningerlaan,48,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651553,52.335388
+Groningerlaan,50,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651648,52.335207
+Groningerlaan,52,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651948,52.335063
+Groningerlaan,54,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652119,52.334953
+Groningerlaan,56,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652204,52.334900
+Groningerlaan,60,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652873,52.334446
+Groningerlaan,62,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652930,52.334487
+Groningerlaan,64,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652984,52.334520
+Groningerlaan,66,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652990,52.334559
+Groningerlaan,68,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653036,52.334554
+Groningerlaan,70,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653088,52.334589
+Groningerlaan,72,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653140,52.334585
+Groningerlaan,74,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653193,52.334584
+Groningerlaan,76,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653097,52.334630
+Groningerlaan,78,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653146,52.334625
+Groningerlaan,80,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653137,52.334651
+Groningerlaan,82,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653165,52.334686
+Groningerlaan,84,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653248,52.334668
+Groningerlaan,86,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653299,52.334637
+Groningerlaan,88,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653233,52.334700
+Groningerlaan,90,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653426,52.334620
+Groningerlaan,92,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653458,52.334602
+Groningerlaan,94,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653489,52.334584
+Groningerlaan,96,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653521,52.334566
+Groningerlaan,98,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653552,52.334549
+Groningerlaan,100,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653584,52.334531
+Groningerlaan,102,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653615,52.334513
+Groningerlaan,104,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653647,52.334495
+Groningerlaan,106,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653622,52.334476
+Groningerlaan,108,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653596,52.334457
+Groningerlaan,110,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653571,52.334438
+Groningerlaan,112,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653545,52.334419
+Groningerlaan,114,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653520,52.334400
+Groningerlaan,116,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653495,52.334381
+Groningerlaan,118,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653469,52.334362
+Groningerlaan,120,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653444,52.334343
+Groningerlaan,122,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653418,52.334324
+Groningerlaan,124,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653393,52.334305
+Groningerlaan,126,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653368,52.334286
+Groningerlaan,128,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653342,52.334266
+Groningerlaan,130,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653317,52.334247
+Groningerlaan,132,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653222,52.335018
+Groningerlaan,134,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653154,52.334975
+Groningerlaan,136,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653261,52.335001
+Groningerlaan,138,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653229,52.334979
+Groningerlaan,140,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653226,52.334930
+Groningerlaan,142,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653306,52.334979
+Groningerlaan,144,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653267,52.334953
+Groningerlaan,146,,,2142GH,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653185,52.334954
+Kardinaalsmutslaan,1,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645399,52.336742
+Kardinaalsmutslaan,2,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645731,52.336895
+Kardinaalsmutslaan,3,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645335,52.336673
+Kardinaalsmutslaan,4,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645647,52.336940
+Kardinaalsmutslaan,5,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645095,52.336558
+Kardinaalsmutslaan,6,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645393,52.337040
+Kardinaalsmutslaan,7,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645020,52.336507
+Kardinaalsmutslaan,8,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645028,52.336917
+Kardinaalsmutslaan,9,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644693,52.336174
+Kardinaalsmutslaan,10,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644954,52.336866
+Kardinaalsmutslaan,11,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644633,52.336206
+Kardinaalsmutslaan,12,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644522,52.336606
+Kardinaalsmutslaan,13,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644574,52.336238
+Kardinaalsmutslaan,14,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644434,52.336654
+Kardinaalsmutslaan,15,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644515,52.336270
+Kardinaalsmutslaan,16,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644060,52.336774
+Kardinaalsmutslaan,17,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644446,52.336296
+Kardinaalsmutslaan,18,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643897,52.336626
+Kardinaalsmutslaan,19,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644387,52.336329
+Kardinaalsmutslaan,20,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643838,52.336586
+Kardinaalsmutslaan,21,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644148,52.336430
+Kardinaalsmutslaan,22,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643780,52.336545
+Kardinaalsmutslaan,23,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644085,52.336361
+Kardinaalsmutslaan,24,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643722,52.336504
+Kardinaalsmutslaan,25,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643829,52.336186
+Kardinaalsmutslaan,26,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643654,52.336469
+Kardinaalsmutslaan,27,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643922,52.336131
+Kardinaalsmutslaan,28,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643595,52.336428
+Kardinaalsmutslaan,29,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643789,52.335830
+Kardinaalsmutslaan,30,,,2142GJ,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643537,52.336387
+Ronde Koestallaan,1,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643535,52.335565
+Ronde Koestallaan,2,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643484,52.335960
+Ronde Koestallaan,3,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643053,52.335826
+Ronde Koestallaan,4,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643425,52.335992
+Ronde Koestallaan,5,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642833,52.335943
+Ronde Koestallaan,6,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643366,52.336025
+Ronde Koestallaan,7,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642749,52.336000
+Ronde Koestallaan,8,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643296,52.336050
+Ronde Koestallaan,10,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643237,52.336082
+Ronde Koestallaan,12,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643178,52.336114
+Ronde Koestallaan,14,,,2142GK,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643119,52.336146
+Ligusterweg,1,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643450,52.335624
+Ligusterweg,2,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643164,52.335780
+Ligusterweg,3,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642728,52.335354
+Ligusterweg,4,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642532,52.335738
+Ligusterweg,5,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642631,52.335410
+Ligusterweg,6,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642474,52.335698
+Ligusterweg,7,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642439,52.335241
+Ligusterweg,8,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642408,52.335661
+Ligusterweg,9,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642520,52.335183
+Ligusterweg,10,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642352,52.335620
+Ligusterweg,11,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642817,52.335070
+Ligusterweg,12,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642295,52.335579
+Ligusterweg,13,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642900,52.335024
+Ligusterweg,14,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642237,52.335538
+Ligusterweg,16,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642028,52.335442
+Ligusterweg,18,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.641975,52.335378
+Ligusterweg,20,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642412,52.334916
+Ligusterweg,22,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642353,52.334875
+Ligusterweg,24,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642294,52.334833
+Ligusterweg,26,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642235,52.334792
+Ligusterweg,28,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642175,52.334750
+Ligusterweg,30,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642256,52.334707
+Ligusterweg,32,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642315,52.334748
+Ligusterweg,34,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642374,52.334790
+Ligusterweg,36,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642434,52.334832
+Ligusterweg,38,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642493,52.334873
+Ligusterweg,40,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642952,52.334467
+Ligusterweg,42,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643011,52.334434
+Ligusterweg,44,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643076,52.334400
+Ligusterweg,46,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643043,52.334331
+Ligusterweg,48,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642994,52.334291
+Ligusterweg,50,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642923,52.334235
+Ligusterweg,52,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642533,52.334203
+Ligusterweg,54,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642449,52.334244
+Ligusterweg,56,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642385,52.334288
+Ligusterweg,58,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642290,52.334356
+Ligusterweg,60,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642373,52.334419
+Ligusterweg,62,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642454,52.334487
+Ligusterweg,64,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642525,52.334543
+Ligusterweg,66,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642632,52.334605
+Ligusterweg,68,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642754,52.334580
+Ligusterweg,70,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642973,52.334488
+Ligusterweg,72,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643032,52.334451
+Ligusterweg,74,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643100,52.334408
+Ligusterweg,76,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643074,52.334335
+Ligusterweg,78,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642981,52.334270
+Ligusterweg,80,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642819,52.334154
+Ligusterweg,82,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642667,52.334137
+Ligusterweg,84,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642599,52.334173
+Ligusterweg,86,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642512,52.334191
+Ligusterweg,88,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642456,52.334224
+Ligusterweg,90,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642405,52.334255
+Ligusterweg,92,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642332,52.334299
+Ligusterweg,94,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642262,52.334345
+Ligusterweg,96,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642327,52.334399
+Ligusterweg,98,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642408,52.334463
+Ligusterweg,100,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642503,52.334528
+Ligusterweg,102,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642582,52.334582
+Ligusterweg,104,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642780,52.334576
+Ligusterweg,106,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642921,52.334505
+Ligusterweg,108,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642999,52.334463
+Ligusterweg,110,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643063,52.334423
+Ligusterweg,112,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643097,52.334316
+Ligusterweg,114,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643073,52.334369
+Ligusterweg,116,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642997,52.334248
+Ligusterweg,118,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643040,52.334275
+Ligusterweg,120,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642829,52.334129
+Ligusterweg,122,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642717,52.334126
+Ligusterweg,124,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642624,52.334158
+Ligusterweg,126,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642566,52.334187
+Ligusterweg,128,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642496,52.334220
+Ligusterweg,130,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642415,52.334230
+Ligusterweg,132,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642348,52.334278
+Ligusterweg,134,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642275,52.334385
+Ligusterweg,136,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642374,52.334451
+Ligusterweg,138,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642441,52.334505
+Ligusterweg,140,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642494,52.334545
+Ligusterweg,142,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642687,52.334605
+Ligusterweg,144,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642899,52.334496
+Ligusterweg,146,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642952,52.334467
+Ligusterweg,148,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643048,52.334410
+Ligusterweg,150,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643074,52.334335
+Ligusterweg,152,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643040,52.334303
+Ligusterweg,154,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643104,52.334299
+Ligusterweg,156,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642955,52.334233
+Ligusterweg,158,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642994,52.334291
+Ligusterweg,160,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642888,52.334201
+Ligusterweg,162,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642658,52.334107
+Ligusterweg,164,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642597,52.334134
+Ligusterweg,166,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642533,52.334168
+Ligusterweg,168,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642456,52.334206
+Ligusterweg,170,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642279,52.334312
+Ligusterweg,172,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642275,52.334385
+Ligusterweg,174,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642344,52.334431
+Ligusterweg,176,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642449,52.334456
+Ligusterweg,178,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642530,52.334511
+Ligusterweg,180,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642606,52.334570
+Ligusterweg,182,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642675,52.334634
+Ligusterweg,184,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642762,52.334601
+Ligusterweg,186,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642992,52.334420
+Ligusterweg,188,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642936,52.334451
+Ligusterweg,190,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643150,52.334405
+Ligusterweg,192,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643190,52.334389
+Ligusterweg,194,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643132,52.334355
+Ligusterweg,196,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643028,52.334403
+Ligusterweg,198,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642978,52.334443
+Ligusterweg,200,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642909,52.334481
+Ligusterweg,202,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643003,52.334321
+Ligusterweg,204,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642947,52.334273
+Ligusterweg,206,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642881,52.334230
+Ligusterweg,208,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642851,52.334198
+Ligusterweg,210,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642816,52.334184
+Ligusterweg,212,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642781,52.334127
+Ligusterweg,214,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642319,52.334342
+Ligusterweg,216,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642347,52.334387
+Ligusterweg,218,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642425,52.334438
+Ligusterweg,220,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642514,52.334493
+Ligusterweg,222,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642592,52.334546
+Ligusterweg,224,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642681,52.334588
+Ligusterweg,226,,,2142GL,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.642768,52.334558
+Zomereik,1,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645344,52.335791
+Zomereik,2,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645263,52.335421
+Zomereik,3,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645418,52.335767
+Zomereik,4,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645410,52.335372
+Zomereik,5,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645630,52.335630
+Zomereik,6,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645734,52.335138
+Zomereik,7,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645740,52.335610
+Zomereik,8,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645583,52.335137
+Zomereik,9,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646018,52.335426
+Zomereik,10,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645360,52.334970
+Zomereik,11,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646158,52.335378
+Zomereik,12,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645302,52.334894
+Zomereik,13,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646626,52.335159
+Zomereik,14,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645072,52.334712
+Zomereik,15,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646565,52.335118
+Zomereik,16,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645115,52.334631
+Zomereik,17,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646505,52.335075
+Zomereik,18,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644782,52.334895
+Zomereik,19,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646444,52.335033
+Zomereik,20,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644676,52.334901
+Zomereik,21,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646384,52.334991
+Zomereik,22,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644526,52.335089
+Zomereik,23,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646712,52.335113
+Zomereik,24,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644777,52.335152
+Zomereik,25,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646650,52.335072
+Zomereik,26,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644817,52.335195
+Zomereik,27,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646589,52.335029
+Zomereik,28,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644989,52.335335
+Zomereik,29,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646528,52.334987
+Zomereik,31,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646468,52.334945
+Zomereik,33,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646197,52.334882
+Zomereik,35,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.646111,52.334852
+Zomereik,37,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645846,52.334763
+Zomereik,39,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645786,52.334690
+Zomereik,41,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645608,52.334534
+Zomereik,43,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645550,52.334458
+Zomereik,45,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645289,52.334293
+Zomereik,47,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.645192,52.334276
+Zomereik,49,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644828,52.334374
+Zomereik,51,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644683,52.334424
+Zomereik,53,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644398,52.334726
+Zomereik,55,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644340,52.334685
+Zomereik,57,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644280,52.334643
+Zomereik,59,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644216,52.334600
+Zomereik,61,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644156,52.334559
+Zomereik,63,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644314,52.334773
+Zomereik,65,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644253,52.334731
+Zomereik,67,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644192,52.334688
+Zomereik,69,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644131,52.334646
+Zomereik,71,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644071,52.334604
+Zomereik,73,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643653,52.334835
+Zomereik,75,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643713,52.334912
+Zomereik,77,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643897,52.335046
+Zomereik,79,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.643948,52.335089
+Zomereik,81,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644126,52.335230
+Zomereik,83,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644186,52.335307
+Zomereik,85,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644439,52.335423
+Zomereik,87,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644489,52.335465
+Zomereik,89,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644732,52.335582
+Zomereik,91,,,2142GM,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.644688,52.335662
+Kruisweg,1479,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.657116,52.325217
+Kruisweg,1481,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.657022,52.325263
+Kruisweg,1483,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656953,52.325316
 Kruisweg,1487,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656665,52.325423
-Kruisweg,1489,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656554,52.325477
+Kruisweg,1489,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656553,52.325477
 Kruisweg,1491,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656536,52.325617
 Kruisweg,1493,,,2142LA,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656447,52.325675
 Kruisweg,1495,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656358,52.325733
 Kruisweg,1497,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656143,52.325751
 Kruisweg,1499,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.656086,52.325782
+Kruisweg,1501,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.655866,52.325852
+Kruisweg,1503,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.655740,52.325927
 Kruisweg,1513,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.655571,52.326079
 Kruisweg,1517,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.655157,52.326164
 Kruisweg,1525,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.655016,52.326469
 Kruisweg,1527,A,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654827,52.326510
-Kruisweg,1527,B,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654743,52.326555
-Kruisweg,1527,C,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654891,52.326562
-Kruisweg,1527,D,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654812,52.326604
-Kruisweg,1531,A,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654590,52.326687
+Kruisweg,1527,B,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654746,52.326555
+Kruisweg,1527,C,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654895,52.326560
+Kruisweg,1527,D,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654814,52.326603
+Kruisweg,1531,A,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654589,52.326687
 Kruisweg,1531,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.654540,52.326613
-Kruisweg,1557,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653355,52.327210
+Kruisweg,1557,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653368,52.327221
 Kruisweg,1559,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653292,52.327243
 Kruisweg,1561,,,2142LB,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653247,52.327280
 Kruisweg,1565,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.653074,52.327413
@@ -532,16 +1633,30 @@ Kruisweg,1575,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652598,52.327
 Kruisweg,1577,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.652474,52.327672
 Kruisweg,1595,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651961,52.328021
 Kruisweg,1597,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651908,52.328113
-Kruisweg,1615,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651385,52.328301
-Kruisweg,1617,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650971,52.328511
+Kruisweg,1615,A,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651397,52.328313
+Kruisweg,1615,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651613,52.328167
+Kruisweg,1617,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650979,52.328523
 Kruisweg,1619,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.650677,52.328626
-Kruisweg,1625,A,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651450,52.329883
-Kruisweg,1625,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651130,52.330032
+Kruisweg,1625,,,2142LC,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.651701,52.329981
 Bennebroekerdijk,205,A,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621676,52.333312
 Bennebroekerdijk,205,B,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621842,52.333169
 Bennebroekerdijk,205,C,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621952,52.333059
 Bennebroekerdijk,205,,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.620974,52.333430
 Bennebroekerdijk,206,,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621065,52.333463
+Bennebroekerdijk,208,A,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621260,52.333553
+Bennebroekerdijk,208,B,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621299,52.333518
+Bennebroekerdijk,208,C,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621330,52.333479
+Bennebroekerdijk,208,D,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621372,52.333443
+Bennebroekerdijk,208,E,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621407,52.333404
+Bennebroekerdijk,208,F,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621439,52.333371
+Bennebroekerdijk,208,G,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621472,52.333335
+Bennebroekerdijk,208,H,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621467,52.333634
+Bennebroekerdijk,208,J,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621504,52.333605
+Bennebroekerdijk,208,K,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621539,52.333566
+Bennebroekerdijk,208,L,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621567,52.333533
+Bennebroekerdijk,208,M,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621594,52.333500
+Bennebroekerdijk,208,N,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621632,52.333463
+Bennebroekerdijk,208,P,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621347,52.333605
 Bennebroekerdijk,209,,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.621843,52.333779
 Bennebroekerdijk,210,A,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.622086,52.333447
 Bennebroekerdijk,210,,,2142LD,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.622145,52.333861
@@ -564,9 +1679,114 @@ Bennebroekerdijk,230,F,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.62704
 Bennebroekerdijk,230,G,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.626539,52.335340
 Bennebroekerdijk,242,,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628266,52.335999
 Bennebroekerdijk,243,,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.628367,52.336010
-Bennebroekerdijk,244,,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629249,52.336236
+Bennebroekerdijk,244,A,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629018,52.336153
+Bennebroekerdijk,244,B,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629143,52.336197
+Bennebroekerdijk,244,C,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629382,52.336281
+Bennebroekerdijk,244,,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.629248,52.336236
+Bennebroekerdijk,246,A,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631371,52.336211
+Bennebroekerdijk,246,B,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631310,52.336224
+Bennebroekerdijk,246,C,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631270,52.336207
+Bennebroekerdijk,246,D,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631236,52.336190
+Bennebroekerdijk,246,E,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631195,52.336176
+Bennebroekerdijk,246,F,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631153,52.336167
+Bennebroekerdijk,246,G,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631120,52.336152
+Bennebroekerdijk,246,H,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631076,52.336141
+Bennebroekerdijk,246,J,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631041,52.336127
+Bennebroekerdijk,246,K,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631220,52.336328
+Bennebroekerdijk,246,L,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631177,52.336314
+Bennebroekerdijk,246,M,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631140,52.336301
+Bennebroekerdijk,246,N,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631099,52.336288
+Bennebroekerdijk,246,P,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631064,52.336274
+Bennebroekerdijk,246,Q,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631021,52.336261
+Bennebroekerdijk,246,R,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631159,52.336394
+Bennebroekerdijk,246,S,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631121,52.336378
+Bennebroekerdijk,246,T,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631088,52.336365
+Bennebroekerdijk,246,U,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631046,52.336348
+Bennebroekerdijk,246,V,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631015,52.336335
+Bennebroekerdijk,246,W,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630964,52.336328
 Bennebroekerdijk,247,,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630368,52.336207
-Bennebroekerdijk,250,,,2142LG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633961,52.337586
+Bennebroekerdijk,248,A,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631007,52.336496
+Bennebroekerdijk,248,B,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.631002,52.336452
+Bennebroekerdijk,248,C,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630960,52.336438
+Bennebroekerdijk,248,D,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630921,52.336425
+Bennebroekerdijk,248,E,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630885,52.336412
+Bennebroekerdijk,248,F,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630832,52.336299
+Bennebroekerdijk,248,G,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630806,52.336322
+Bennebroekerdijk,248,H,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630784,52.336346
+Bennebroekerdijk,248,J,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630761,52.336370
+Bennebroekerdijk,248,K,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630740,52.336392
+Bennebroekerdijk,248,L,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630722,52.336415
+Bennebroekerdijk,248,M,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630698,52.336438
+Bennebroekerdijk,248,N,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630675,52.336462
+Bennebroekerdijk,248,P,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630576,52.336428
+Bennebroekerdijk,248,Q,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630540,52.336416
+Bennebroekerdijk,248,R,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630496,52.336404
+Bennebroekerdijk,248,S,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630796,52.336507
+Bennebroekerdijk,248,T,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630833,52.336520
+Bennebroekerdijk,248,U,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630872,52.336536
+Bennebroekerdijk,248,V,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630909,52.336549
+Bennebroekerdijk,248,W,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630979,52.336530
+Bennebroekerdijk,248,X,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630507,52.336505
+Bennebroekerdijk,248,Y,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630548,52.336519
+Bennebroekerdijk,248,Z,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630628,52.336546
+Bennebroekerdijk,248,Z,2,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630665,52.336558
+Bennebroekerdijk,248,Z,3,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630704,52.336571
+Bennebroekerdijk,248,Z,4,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630742,52.336584
+Bennebroekerdijk,248,Z,5,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630780,52.336597
+Bennebroekerdijk,248,Z,6,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630820,52.336607
+Bennebroekerdijk,248,Z,7,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630824,52.336656
+Bennebroekerdijk,248,Z,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630557,52.336564
+Bennebroekerdijk,249,A,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630547,52.336730
+Bennebroekerdijk,249,A,2,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630183,52.336652
+Bennebroekerdijk,249,A,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630020,52.336807
+Bennebroekerdijk,249,B,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630492,52.336742
+Bennebroekerdijk,249,B,2,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630131,52.336666
+Bennebroekerdijk,249,B,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630082,52.336795
+Bennebroekerdijk,249,C,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630480,52.336701
+Bennebroekerdijk,249,C,2,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630139,52.336701
+Bennebroekerdijk,249,C,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630095,52.336829
+Bennebroekerdijk,249,D,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630412,52.336717
+Bennebroekerdijk,249,D,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630158,52.336818
+Bennebroekerdijk,249,E,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630392,52.336679
+Bennebroekerdijk,249,E,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630175,52.336857
+Bennebroekerdijk,249,F,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630330,52.336692
+Bennebroekerdijk,249,F,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630232,52.336848
+Bennebroekerdijk,249,G,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630756,52.336671
+Bennebroekerdijk,249,G,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630251,52.336883
+Bennebroekerdijk,249,H,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630712,52.336673
+Bennebroekerdijk,249,H,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630310,52.336874
+Bennebroekerdijk,249,J,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630665,52.336678
+Bennebroekerdijk,249,J,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630328,52.336912
+Bennebroekerdijk,249,K,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630652,52.336637
+Bennebroekerdijk,249,K,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630387,52.336901
+Bennebroekerdijk,249,L,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630580,52.336652
+Bennebroekerdijk,249,L,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630405,52.336938
+Bennebroekerdijk,249,M,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630559,52.336611
+Bennebroekerdijk,249,M,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630463,52.336928
+Bennebroekerdijk,249,N,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630513,52.336621
+Bennebroekerdijk,249,N,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630569,52.336839
+Bennebroekerdijk,249,P,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630500,52.336581
+Bennebroekerdijk,249,P,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630507,52.336842
+Bennebroekerdijk,249,Q,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630431,52.336599
+Bennebroekerdijk,249,Q,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630491,52.336809
+Bennebroekerdijk,249,R,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630391,52.336445
+Bennebroekerdijk,249,R,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630436,52.336817
+Bennebroekerdijk,249,S,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630351,52.336463
+Bennebroekerdijk,249,S,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630412,52.336781
+Bennebroekerdijk,249,T,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630358,52.336498
+Bennebroekerdijk,249,T,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630355,52.336789
+Bennebroekerdijk,249,U,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630297,52.336510
+Bennebroekerdijk,249,U,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630338,52.336752
+Bennebroekerdijk,249,V,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630322,52.336547
+Bennebroekerdijk,249,V,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630280,52.336761
+Bennebroekerdijk,249,W,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630271,52.336563
+Bennebroekerdijk,249,W,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630636,52.336795
+Bennebroekerdijk,249,X,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630263,52.336592
+Bennebroekerdijk,249,X,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630623,52.336755
+Bennebroekerdijk,249,Y,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630232,52.336611
+Bennebroekerdijk,249,Y,,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630564,52.336769
+Bennebroekerdijk,249,Z,1,2142LE,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.630182,52.336623
+Bennebroekerdijk,250,,,2142LG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.633960,52.337586
 Bennebroekerdijk,251,,,2142LG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634064,52.337598
 Bennebroekerdijk,252,,,2142LG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634230,52.337622
 Bennebroekerdijk,253,,,2142LG,Cruquius,Haarlemmermeer,Noord-Holland,VBO,4.634335,52.337637

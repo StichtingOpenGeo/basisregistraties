@@ -1,7 +1,8 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Pettemerweg,2,,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.667597,52.758750
-Pettemerweg,4,a,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.663020,52.759816
-Pettemerweg,4,b,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.663120,52.759795
+Pettemerweg,4,A,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.663020,52.759816
+Pettemerweg,4,B,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.663120,52.759795
+Pettemerweg,4,,c130,1755KK,Petten,Schagen,Noord-Holland,STA,4.665363,52.761333
 Pettemerweg,4,,h1,1755KK,Petten,Schagen,Noord-Holland,VBO,4.664874,52.760066
 Pettemerweg,4,,h10,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666433,52.759777
 Pettemerweg,4,,h11,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666612,52.759721
@@ -11,11 +12,10 @@ Pettemerweg,4,,h14,1755KK,Petten,Schagen,Noord-Holland,VBO,4.667151,52.759556
 Pettemerweg,4,,h15,1755KK,Petten,Schagen,Noord-Holland,VBO,4.667330,52.759501
 Pettemerweg,4,,h16,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665104,52.759968
 Pettemerweg,4,,h17,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665292,52.759911
-Pettemerweg,4,,h173,1755KK,Petten,Schagen,Noord-Holland,STA,4.662956,52.761632
 Pettemerweg,4,,h18,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665477,52.759854
 Pettemerweg,4,,h19,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665663,52.759797
 Pettemerweg,4,,h2,1755KK,Petten,Schagen,Noord-Holland,VBO,4.664999,52.760217
-Pettemerweg,4,,h20,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665846,52.759740
+Pettemerweg,4,,h20,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665845,52.759740
 Pettemerweg,4,,h21,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666031,52.759683
 Pettemerweg,4,,h22,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666216,52.759626
 Pettemerweg,4,,h23,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666626,52.759501
@@ -27,7 +27,7 @@ Pettemerweg,4,,h28,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665164,52.759758
 Pettemerweg,4,,h29,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665351,52.759702
 Pettemerweg,4,,h3,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665177,52.760162
 Pettemerweg,4,,h30,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665535,52.759645
-Pettemerweg,4,,h31,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665720,52.759588
+Pettemerweg,4,,h31,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665719,52.759588
 Pettemerweg,4,,h32,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665904,52.759531
 Pettemerweg,4,,h33,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666087,52.759473
 Pettemerweg,4,,h34,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666474,52.759319
@@ -43,7 +43,7 @@ Pettemerweg,4,,h42,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665552,52.759388
 Pettemerweg,4,,h43,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665737,52.759331
 Pettemerweg,4,,h44,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665921,52.759274
 Pettemerweg,4,,h45,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666339,52.759158
-Pettemerweg,4,,h46,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666524,52.759100
+Pettemerweg,4,,h46,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666523,52.759100
 Pettemerweg,4,,h47,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666708,52.759042
 Pettemerweg,4,,h48,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666895,52.758986
 Pettemerweg,4,,h49,1755KK,Petten,Schagen,Noord-Holland,VBO,4.664666,52.759445
@@ -63,28 +63,35 @@ Pettemerweg,4,,h60,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666734,52.758808
 Pettemerweg,4,,h7,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665895,52.759942
 Pettemerweg,4,,h8,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666074,52.759887
 Pettemerweg,4,,h9,1755KK,Petten,Schagen,Noord-Holland,VBO,4.666254,52.759831
-Pettemerweg,4,,s218,1755KK,Petten,Schagen,Noord-Holland,STA,4.664819,52.760496
-Pettemerweg,4,,s57,1755KK,Petten,Schagen,Noord-Holland,STA,4.667206,52.761331
 Pettemerweg,4,,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.662242,52.760028
 Pettemerweg,31,,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.670372,52.757081
-Pettemerweg,33,a,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.668694,52.757456
+Pettemerweg,33,A,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.668694,52.757456
 Pettemerweg,33,,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.668748,52.757533
-Pettemerweg,35,a,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.664912,52.758632
+Pettemerweg,35,A,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.664912,52.758632
 Pettemerweg,35,,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.665056,52.758598
 Pettemerweg,37,,,1755KK,Petten,Schagen,Noord-Holland,VBO,4.662361,52.759410
-Leiweg,1,a,,1755KM,Petten,Schagen,Noord-Holland,VBO,4.651205,52.756470
 Leiweg,1,,,1755KM,Petten,Schagen,Noord-Holland,VBO,4.651502,52.755776
-Leiweg,2,a,,1755KM,Petten,Schagen,Noord-Holland,VBO,4.651865,52.755522
+Leiweg,2,A,,1755KM,Petten,Schagen,Noord-Holland,VBO,4.651865,52.755522
 Leiweg,2,,,1755KM,Petten,Schagen,Noord-Holland,VBO,4.651677,52.755665
 Leiweg,3,,,1755KM,Petten,Schagen,Noord-Holland,VBO,4.651923,52.755450
 Leiweg,4,,,1755KM,Petten,Schagen,Noord-Holland,VBO,4.652364,52.755091
-Strandweg,1,a,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.660198,52.772229
-Strandweg,1,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.661048,52.772050
-Strandweg,2,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659274,52.771392
-Strandweg,3,,h112,1755LA,Petten,Schagen,Noord-Holland,STA,4.660986,52.770224
-Strandweg,3,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659064,52.770322
-Strandweg,4,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.658232,52.770181
-Korfwaterweg,1,b,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.663231,52.772661
+Strandweg,1,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.661047,52.772050
+Strandweg,2,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659913,52.771735
+Strandweg,3,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659485,52.770548
+Strandweg,5,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659113,52.770395
+Strandweg,7,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659056,52.770348
+Strandweg,9,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659008,52.770291
+Strandweg,11,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.658945,52.770226
+Strandweg,13,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.658890,52.770162
+Strandweg,15,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659158,52.770381
+Strandweg,17,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659134,52.770351
+Strandweg,19,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659114,52.770319
+Strandweg,21,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659089,52.770287
+Strandweg,23,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659058,52.770254
+Strandweg,25,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.659030,52.770222
+Strandweg,27,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.658996,52.770184
+Strandweg,29,,,1755LA,Petten,Schagen,Noord-Holland,VBO,4.658959,52.770146
+Korfwaterweg,1,B,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.663231,52.772661
 Korfwaterweg,1,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.662441,52.772121
 Korfwaterweg,2,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.664326,52.773723
 Korfwaterweg,3,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.664609,52.773953
@@ -97,9 +104,9 @@ Korfwaterweg,9,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.666385,52.775296
 Korfwaterweg,10,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.666723,52.775469
 Korfwaterweg,11,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.666909,52.775651
 Korfwaterweg,12,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.667368,52.775900
-Korfwaterweg,13,a,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.667989,52.776292
+Korfwaterweg,13,A,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.667989,52.776292
 Korfwaterweg,13,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.667638,52.776066
-Korfwaterweg,14,a,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.668254,52.776013
+Korfwaterweg,14,A,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.668254,52.776013
 Korfwaterweg,14,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.668518,52.776664
 Korfwaterweg,15,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.668633,52.775912
 Korfwaterweg,16,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.668881,52.775829
@@ -112,14 +119,16 @@ Korfwaterweg,22,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.668234,52.774208
 Korfwaterweg,23,,,1755LB,Petten,Schagen,Noord-Holland,VBO,4.668088,52.774013
 Korfwaterweg,24,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.667836,52.773681
 Korfwaterweg,25,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.667804,52.773412
-Korfwaterweg,26,a,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.667630,52.773252
+Korfwaterweg,26,A,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.667630,52.773252
 Korfwaterweg,26,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.667587,52.773179
+Korfwaterweg,27,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.667270,52.772624
 Korfwaterweg,27,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.667423,52.772925
 Korfwaterweg,29,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.666803,52.772496
 Korfwaterweg,30,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.666519,52.772353
 Korfwaterweg,31,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.666226,52.772248
-Korfwaterweg,33,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.666133,52.771739
-Korfwaterweg,34,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.665656,52.771836
+Korfwaterweg,32,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.665976,52.772111
+Korfwaterweg,33,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.666132,52.771739
+Korfwaterweg,34,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.665655,52.771836
 Korfwaterweg,35,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.665900,52.771568
 Korfwaterweg,36,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.665464,52.771673
 Korfwaterweg,37,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.665637,52.771374
@@ -131,33 +140,73 @@ Korfwaterweg,43,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.664691,52.771030
 Korfwaterweg,45,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.664265,52.771097
 Korfwaterweg,47,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.663699,52.771076
 Korfwaterweg,49,,,1755LC,Petten,Schagen,Noord-Holland,VBO,4.663280,52.771043
-Spreeuwendijk,1,a,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.658548,52.768793
-Spreeuwendijk,1,b,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.658809,52.768899
-Spreeuwendijk,1,c,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.659120,52.768861
+Spreeuwendijk,1,A,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.658548,52.768793
+Spreeuwendijk,1,B,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.658809,52.768899
+Spreeuwendijk,1,C,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.659120,52.768861
 Spreeuwendijk,1,,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.657327,52.768934
 Spreeuwendijk,2,,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.660672,52.769175
-Spreeuwendijk,3,a,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.667985,52.770609
+Spreeuwendijk,3,A,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.667985,52.770609
 Spreeuwendijk,3,,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.660900,52.769227
 Spreeuwendijk,4,,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.668286,52.770997
 Spreeuwendijk,6,,,1755LD,Petten,Schagen,Noord-Holland,VBO,4.668836,52.771030
-Westerduinweg,1,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.668715,52.769902
+Westerduinweg,1,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.668714,52.769902
 Westerduinweg,2,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.655071,52.754568
+Westerduinweg,3,,07,1755LE,Petten,Schagen,Noord-Holland,VBO,4.679727,52.786512
 Westerduinweg,3,,101,1755LE,Petten,Schagen,Noord-Holland,VBO,4.677554,52.787959
+Westerduinweg,3,,104,1755LE,Petten,Schagen,Noord-Holland,VBO,4.677087,52.787822
 Westerduinweg,3,,11,1755LE,Petten,Schagen,Noord-Holland,VBO,4.677742,52.785773
+Westerduinweg,3,,113,1755LE,Petten,Schagen,Noord-Holland,VBO,4.677824,52.788343
+Westerduinweg,3,,115,1755LE,Petten,Schagen,Noord-Holland,VBO,4.676424,52.788145
+Westerduinweg,3,,117,1755LE,Petten,Schagen,Noord-Holland,VBO,4.678465,52.787480
 Westerduinweg,3,,13,1755LE,Petten,Schagen,Noord-Holland,VBO,4.678901,52.787347
+Westerduinweg,3,,15,1755LE,Petten,Schagen,Noord-Holland,VBO,4.678592,52.784267
+Westerduinweg,3,,19,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673683,52.786056
 Westerduinweg,3,,2,1755LE,Petten,Schagen,Noord-Holland,VBO,4.676178,52.782240
+Westerduinweg,3,,20,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673397,52.785903
 Westerduinweg,3,,203,1755LE,Petten,Schagen,Noord-Holland,VBO,4.680405,52.788087
+Westerduinweg,3,,21,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674334,52.786475
+Westerduinweg,3,,22,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674290,52.786861
+Westerduinweg,3,,24,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673486,52.786428
+Westerduinweg,3,,25,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673453,52.786571
+Westerduinweg,3,,26,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673531,52.786737
+Westerduinweg,3,,28,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673913,52.785705
+Westerduinweg,3,,29,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674656,52.785062
+Westerduinweg,3,,30,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674598,52.784735
+Westerduinweg,3,,300,1755LE,Petten,Schagen,Noord-Holland,VBO,4.677704,52.788573
+Westerduinweg,3,,308,1755LE,Petten,Schagen,Noord-Holland,VBO,4.679121,52.790768
+Westerduinweg,3,,309,1755LE,Petten,Schagen,Noord-Holland,VBO,4.678645,52.790504
+Westerduinweg,3,,31,1755LE,Petten,Schagen,Noord-Holland,VBO,4.675030,52.784614
+Westerduinweg,3,,310,1755LE,Petten,Schagen,Noord-Holland,VBO,4.677999,52.790896
+Westerduinweg,3,,312,1755LE,Petten,Schagen,Noord-Holland,VBO,4.679336,52.791833
+Westerduinweg,3,,313,1755LE,Petten,Schagen,Noord-Holland,VBO,4.679710,52.791495
+Westerduinweg,3,,314,1755LE,Petten,Schagen,Noord-Holland,VBO,4.680500,52.792018
+Westerduinweg,3,,315,1755LE,Petten,Schagen,Noord-Holland,VBO,4.680812,52.789504
+Westerduinweg,3,,32,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674557,52.783265
+Westerduinweg,3,,320,1755LE,Petten,Schagen,Noord-Holland,VBO,4.677875,52.790551
 Westerduinweg,3,,325,1755LE,Petten,Schagen,Noord-Holland,VBO,4.679844,52.791011
+Westerduinweg,3,,34,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674019,52.783910
+Westerduinweg,3,,35,1755LE,Petten,Schagen,Noord-Holland,VBO,4.675804,52.784737
+Westerduinweg,3,,37,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673821,52.783362
+Westerduinweg,3,,38,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674738,52.785565
+Westerduinweg,3,,39,1755LE,Petten,Schagen,Noord-Holland,VBO,4.676069,52.784998
 Westerduinweg,3,,40,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673715,52.785029
-Westerduinweg,3,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674557,52.783265
+Westerduinweg,3,,400,1755LE,Petten,Schagen,Noord-Holland,VBO,4.679766,52.787233
+Westerduinweg,3,,42,1755LE,Petten,Schagen,Noord-Holland,VBO,4.674296,52.784609
+Westerduinweg,3,,420,1755LE,Petten,Schagen,Noord-Holland,VBO,4.680187,52.787552
+Westerduinweg,3,,430,1755LE,Petten,Schagen,Noord-Holland,VBO,4.680236,52.787101
+Westerduinweg,3,,71,1755LE,Petten,Schagen,Noord-Holland,VBO,4.673797,52.784545
+Westerduinweg,3,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.676230,52.780831
 Westerduinweg,6,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.663988,52.763429
+Westerduinweg,8,A,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.664996,52.764563
+Westerduinweg,8,B,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.665145,52.764550
 Westerduinweg,8,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.664604,52.763366
-Westerduinweg,10,a,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.666482,52.765809
-Westerduinweg,10,b,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.667126,52.766886
-Westerduinweg,10,c,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.668815,52.768663
-Westerduinweg,10,d,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.669490,52.769628
+Westerduinweg,10,A,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.666482,52.765809
+Westerduinweg,10,B,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.667126,52.766886
+Westerduinweg,10,C,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.668815,52.768663
+Westerduinweg,10,D,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.669490,52.769628
 Westerduinweg,10,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.665046,52.764559
-Westerduinweg,12,a,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.669998,52.769881
+Westerduinweg,10,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.665310,52.764560
+Westerduinweg,12,A,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.669998,52.769881
 Westerduinweg,12,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.669913,52.769903
 Westerduinweg,14,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.675645,52.768768
 Westerduinweg,16,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.671866,52.772048
@@ -165,32 +214,189 @@ Westerduinweg,18,,h1,1755LE,Petten,Schagen,Noord-Holland,VBO,4.676399,52.769832
 Westerduinweg,18,,h2,1755LE,Petten,Schagen,Noord-Holland,VBO,4.676419,52.769979
 Westerduinweg,18,,h3,1755LE,Petten,Schagen,Noord-Holland,VBO,4.676530,52.770096
 Westerduinweg,18,,,1755LE,Petten,Schagen,Noord-Holland,VBO,4.676844,52.770237
-Noorderhazedwarsdijk,2,,,1755LG,Petten,Schagen,Noord-Holland,VBO,4.654929,52.763032
-Zuiderhazedwarsdijk,1,a,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.653583,52.761240
+Noorderhazedwarsdijk,2,A,,1755LG,Petten,Schagen,Noord-Holland,VBO,4.654031,52.763341
+Noorderhazedwarsdijk,2,,,1755LG,Petten,Schagen,Noord-Holland,VBO,4.654928,52.763032
+Zuiderhazedwarsdijk,1,A,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.653583,52.761240
 Zuiderhazedwarsdijk,1,,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.654566,52.762499
+Zuiderhazedwarsdijk,2,A,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.654484,52.762549
+Zuiderhazedwarsdijk,2,B,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.654614,52.762518
+Zuiderhazedwarsdijk,2,C,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.654576,52.762464
+Zuiderhazedwarsdijk,2,D,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.654442,52.762497
 Zuiderhazedwarsdijk,2,,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.653662,52.762193
+Zuiderhazedwarsdijk,3,A,,1755LH,Petten,Schagen,Noord-Holland,STA,4.654108,52.760737
 Zuiderhazedwarsdijk,3,,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.653830,52.760673
 Zuiderhazedwarsdijk,4,,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.653763,52.762179
-Zuiderhazedwarsdijk,6,b,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.653977,52.760099
+Zuiderhazedwarsdijk,5,,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.653977,52.760099
+Zuiderhazedwarsdijk,6,A,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.657859,52.761201
 Zuiderhazedwarsdijk,6,,,1755LH,Petten,Schagen,Noord-Holland,VBO,4.657463,52.760660
+Strandslag Centrum,1,,,1755LJ,Petten,Schagen,Noord-Holland,STA,4.658879,52.774672
 Strandslag Centrum,2,,,1755LJ,Petten,Schagen,Noord-Holland,STA,4.656225,52.772004
 Strandslag Centrum,3,,,1755LJ,Petten,Schagen,Noord-Holland,STA,4.654707,52.770378
-Strandslag Petten,1,,,1755LK,Petten,Schagen,Noord-Holland,STA,4.662058,52.775676
-Strandslag Hondsbossche,2,,,1755LL,Petten,Schagen,Noord-Holland,STA,4.650120,52.763205
-Sportweg,3,a,,1755LX,Petten,Schagen,Noord-Holland,VBO,4.661546,52.764451
-Sportweg,3,,,1755LX,Petten,Schagen,Noord-Holland,VBO,4.661862,52.764431
+Strandslag Hazerdwarsdijk,1,,,1755LM,Petten,Schagen,Noord-Holland,STA,4.650323,52.763777
+Korfwaterpad,1,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662355,52.770151
+Korfwaterpad,1,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662409,52.770897
+Korfwaterpad,1,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661354,52.770913
+Korfwaterpad,1,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660902,52.770738
+Korfwaterpad,1,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660847,52.770527
+Korfwaterpad,1,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659479,52.769763
+Korfwaterpad,1,G,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659056,52.769676
+Korfwaterpad,1,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660278,52.770577
+Korfwaterpad,2,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662196,52.769996
+Korfwaterpad,2,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662139,52.770884
+Korfwaterpad,2,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661356,52.770790
+Korfwaterpad,2,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660695,52.770781
+Korfwaterpad,2,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660620,52.770471
+Korfwaterpad,2,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659710,52.769734
+Korfwaterpad,2,G,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.658956,52.769571
+Korfwaterpad,2,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660127,52.770471
+Korfwaterpad,3,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662029,52.770139
+Korfwaterpad,3,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661870,52.770911
+Korfwaterpad,3,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661133,52.770976
+Korfwaterpad,3,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660452,52.770734
+Korfwaterpad,3,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660505,52.770386
+Korfwaterpad,3,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659915,52.769756
+Korfwaterpad,3,G,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.658731,52.769578
+Korfwaterpad,3,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659990,52.770376
+Korfwaterpad,4,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662173,52.770375
+Korfwaterpad,4,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661684,52.770909
+Korfwaterpad,4,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660880,52.770978
+Korfwaterpad,4,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660227,52.770797
+Korfwaterpad,4,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660379,52.770300
+Korfwaterpad,4,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660130,52.769734
+Korfwaterpad,4,G,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.658518,52.769635
+Korfwaterpad,4,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659746,52.770240
+Korfwaterpad,5,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661918,52.770318
+Korfwaterpad,5,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661615,52.771063
+Korfwaterpad,5,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660698,52.771064
+Korfwaterpad,5,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660000,52.770798
+Korfwaterpad,5,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660256,52.770218
+Korfwaterpad,5,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660370,52.769745
+Korfwaterpad,5,G,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.658567,52.769779
+Korfwaterpad,5,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659514,52.770113
+Korfwaterpad,6,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661657,52.770453
+Korfwaterpad,6,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661350,52.771125
+Korfwaterpad,6,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660549,52.771097
+Korfwaterpad,6,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659817,52.770747
+Korfwaterpad,6,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660100,52.770131
+Korfwaterpad,6,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660628,52.769838
+Korfwaterpad,6,G,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.658699,52.769903
+Korfwaterpad,6,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659346,52.769997
+Korfwaterpad,7,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661986,52.770529
+Korfwaterpad,7,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661120,52.771171
+Korfwaterpad,7,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660296,52.771125
+Korfwaterpad,7,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660458,52.770836
+Korfwaterpad,7,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659961,52.770063
+Korfwaterpad,7,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660752,52.769909
+Korfwaterpad,7,G,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.658800,52.770015
+Korfwaterpad,7,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659241,52.769857
+Korfwaterpad,8,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661785,52.770711
+Korfwaterpad,8,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660915,52.771208
+Korfwaterpad,8,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660210,52.771272
+Korfwaterpad,8,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660474,52.770969
+Korfwaterpad,8,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659799,52.769974
+Korfwaterpad,8,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660918,52.770004
+Korfwaterpad,8,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659031,52.769890
+Korfwaterpad,9,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662244,52.770574
+Korfwaterpad,9,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660831,52.771317
+Korfwaterpad,9,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660103,52.771384
+Korfwaterpad,9,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660145,52.771023
+Korfwaterpad,9,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660084,52.769917
+Korfwaterpad,9,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661019,52.770134
+Korfwaterpad,9,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659147,52.770007
+Korfwaterpad,10,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662047,52.770685
+Korfwaterpad,10,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660586,52.771293
+Korfwaterpad,10,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660083,52.771532
+Korfwaterpad,10,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659944,52.771001
+Korfwaterpad,10,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660270,52.769914
+Korfwaterpad,10,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661153,52.770268
+Korfwaterpad,10,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659274,52.770138
+Korfwaterpad,11,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662300,52.770690
+Korfwaterpad,11,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660557,52.771393
+Korfwaterpad,11,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660176,52.771670
+Korfwaterpad,11,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659617,52.770958
+Korfwaterpad,11,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660501,52.770022
+Korfwaterpad,11,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661127,52.770423
+Korfwaterpad,11,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659385,52.770249
+Korfwaterpad,12,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661633,52.770644
+Korfwaterpad,12,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660713,52.771427
+Korfwaterpad,12,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660345,52.771779
+Korfwaterpad,12,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660056,52.771136
+Korfwaterpad,12,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660611,52.770105
+Korfwaterpad,12,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661134,52.770557
+Korfwaterpad,12,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659652,52.770366
+Korfwaterpad,13,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661496,52.770558
+Korfwaterpad,13,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660932,52.771401
+Korfwaterpad,13,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660496,52.771874
+Korfwaterpad,13,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659733,52.771114
+Korfwaterpad,13,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660717,52.770173
+Korfwaterpad,13,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661345,52.770405
+Korfwaterpad,13,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659889,52.770490
+Korfwaterpad,14,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661686,52.770257
+Korfwaterpad,14,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661097,52.771289
+Korfwaterpad,14,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660789,52.771770
+Korfwaterpad,14,D,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659858,52.771280
+Korfwaterpad,14,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660832,52.770264
+Korfwaterpad,14,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661359,52.770232
+Korfwaterpad,14,H,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660042,52.770610
+Korfwaterpad,15,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661782,52.770107
+Korfwaterpad,15,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661277,52.771359
+Korfwaterpad,15,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660256,52.771478
+Korfwaterpad,15,E,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660875,52.770365
+Korfwaterpad,15,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661473,52.770087
+Korfwaterpad,16,A,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661896,52.769965
+Korfwaterpad,16,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661504,52.771353
+Korfwaterpad,16,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660356,52.771616
+Korfwaterpad,16,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661266,52.770095
+Korfwaterpad,17,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661260,52.771260
+Korfwaterpad,17,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660579,52.771672
+Korfwaterpad,17,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661551,52.769911
+Korfwaterpad,18,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661493,52.771238
+Korfwaterpad,18,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660803,52.771624
+Korfwaterpad,18,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661129,52.769983
+Korfwaterpad,19,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661732,52.771346
+Korfwaterpad,19,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661023,52.771592
+Korfwaterpad,19,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661254,52.769824
+Korfwaterpad,20,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661897,52.771269
+Korfwaterpad,20,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661050,52.771760
+Korfwaterpad,20,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660974,52.769829
+Korfwaterpad,21,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662118,52.771205
+Korfwaterpad,21,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661215,52.771579
+Korfwaterpad,21,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660910,52.769710
+Korfwaterpad,22,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662308,52.771154
+Korfwaterpad,22,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661414,52.771554
+Korfwaterpad,22,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660636,52.769659
+Korfwaterpad,23,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662538,52.771081
+Korfwaterpad,23,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661403,52.771645
+Korfwaterpad,23,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660353,52.769593
+Korfwaterpad,24,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662186,52.771015
+Korfwaterpad,24,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661636,52.771579
+Korfwaterpad,24,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.660132,52.769583
+Korfwaterpad,25,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661972,52.771119
+Korfwaterpad,25,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661978,52.771483
+Korfwaterpad,25,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659865,52.769571
+Korfwaterpad,26,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661742,52.771058
+Korfwaterpad,26,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662132,52.771417
+Korfwaterpad,26,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659676,52.769516
+Korfwaterpad,27,B,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.661758,52.771220
+Korfwaterpad,27,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662327,52.771359
+Korfwaterpad,27,F,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.659451,52.769597
+Korfwaterpad,28,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662579,52.771344
+Korfwaterpad,29,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662745,52.771252
+Korfwaterpad,30,C,,1755LN,Petten,Schagen,Noord-Holland,VBO,4.662908,52.771195
+Sportweg,3,A,,1755LX,Petten,Schagen,Noord-Holland,VBO,4.661546,52.764451
+Sportweg,3,,,1755LX,Petten,Schagen,Noord-Holland,VBO,4.661861,52.764431
 Sportweg,5,,,1755LX,Petten,Schagen,Noord-Holland,VBO,4.661604,52.764292
 Meester Geensenweg,1,,,1755LZ,Petten,Schagen,Noord-Holland,STA,4.662999,52.764562
 Meester Geensenweg,2,,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.663609,52.765342
-Meester Geensenweg,4,,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.663497,52.765236
+Meester Geensenweg,4,,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.663496,52.765236
 Meester Geensenweg,5,,,1755LZ,Petten,Schagen,Noord-Holland,STA,4.662749,52.764646
 Meester Geensenweg,6,,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.663380,52.765104
-Meester Geensenweg,8,a,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.662815,52.765273
+Meester Geensenweg,8,A,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.662815,52.765273
 Meester Geensenweg,8,,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.663141,52.765190
 Meester Geensenweg,10,,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.662923,52.764968
 Meester Geensenweg,12,,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.663088,52.764927
 Meester Geensenweg,14,,,1755LZ,Petten,Schagen,Noord-Holland,VBO,4.663285,52.764854
-Eriksstraat,1,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666578,52.770485
+Eriksstraat,1,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666577,52.770485
 Eriksstraat,2,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.665901,52.770330
 Eriksstraat,3,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666658,52.770433
 Eriksstraat,4,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.665747,52.770297
@@ -199,7 +405,7 @@ Eriksstraat,6,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666029,52.770126
 Eriksstraat,7,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666816,52.770328
 Eriksstraat,8,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.665868,52.770092
 Eriksstraat,9,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666896,52.770276
-Eriksstraat,10,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666118,52.769914
+Eriksstraat,10,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666117,52.769914
 Eriksstraat,11,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.667032,52.770096
 Eriksstraat,12,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.665991,52.769880
 Eriksstraat,13,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666945,52.770047
@@ -213,8 +419,8 @@ Eriksstraat,22,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.665141,52.768989
 Eriksstraat,23,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666687,52.769696
 Eriksstraat,25,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666602,52.769648
 Eriksstraat,27,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666516,52.769600
-Eriksstraat,29,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666431,52.769552
-Eriksstraat,31,,,1755NB,Petten,Schagen,Noord-Holland,VBO,4.666516,52.769392
+Eriksstraat,29,,,1755NA,Petten,Schagen,Noord-Holland,VBO,4.666430,52.769552
+Eriksstraat,31,,,1755NB,Petten,Schagen,Noord-Holland,VBO,4.666515,52.769392
 Eriksstraat,33,,,1755NB,Petten,Schagen,Noord-Holland,VBO,4.666430,52.769344
 Eriksstraat,35,,,1755NB,Petten,Schagen,Noord-Holland,VBO,4.666345,52.769296
 Eriksstraat,37,,,1755NB,Petten,Schagen,Noord-Holland,VBO,4.666260,52.769250
@@ -252,19 +458,18 @@ Ir. de Vassystraat,16,,,1755NC,Petten,Schagen,Noord-Holland,VBO,4.665364,52.7693
 Ir. de Vassystraat,18,,,1755NC,Petten,Schagen,Noord-Holland,VBO,4.665444,52.769307
 Ir. de Vassystraat,20,,,1755NC,Petten,Schagen,Noord-Holland,VBO,4.665524,52.769256
 Ir. de Vassystraat,22,,,1755NC,Petten,Schagen,Noord-Holland,VBO,4.665603,52.769204
-Ketelduinweg,1,a,ap1,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664112,52.769445
-Ketelduinweg,1,a,ap10,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664449,52.769678
-Ketelduinweg,1,a,ap2,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664063,52.769487
-Ketelduinweg,1,a,ap3,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664013,52.769530
-Ketelduinweg,1,a,ap4,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664079,52.769556
-Ketelduinweg,1,a,ap5,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664130,52.769517
-Ketelduinweg,1,a,ap6,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664179,52.769475
-Ketelduinweg,1,a,ap7,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664251,52.769596
-Ketelduinweg,1,a,ap8,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664320,52.769626
-Ketelduinweg,1,a,ap9,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664384,52.769652
-Ketelduinweg,1,a,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664388,52.769686
-Ketelduinweg,1,b,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664382,52.769535
-Ketelduinweg,1,c,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.663669,52.769892
+Ketelduinweg,1,A,ap1,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664112,52.769445
+Ketelduinweg,1,A,ap10,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664449,52.769678
+Ketelduinweg,1,A,ap2,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664063,52.769487
+Ketelduinweg,1,A,ap3,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664013,52.769530
+Ketelduinweg,1,A,ap4,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664079,52.769556
+Ketelduinweg,1,A,ap5,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664130,52.769517
+Ketelduinweg,1,A,ap6,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664179,52.769475
+Ketelduinweg,1,A,ap7,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664251,52.769596
+Ketelduinweg,1,A,ap8,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664320,52.769626
+Ketelduinweg,1,A,ap9,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664384,52.769652
+Ketelduinweg,1,A,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664388,52.769686
+Ketelduinweg,1,B,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664382,52.769535
 Ketelduinweg,1,,apA,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664030,52.769911
 Ketelduinweg,1,,apB,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664089,52.769932
 Ketelduinweg,1,,apC,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664147,52.769963
@@ -272,9 +477,9 @@ Ketelduinweg,1,,apD,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664263,52.769961
 Ketelduinweg,1,,apE,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664187,52.769932
 Ketelduinweg,1,,apF,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664131,52.769898
 Ketelduinweg,1,,apG,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664074,52.769876
-Ketelduinweg,1,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.663876,52.769861
+Ketelduinweg,1,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.663875,52.769861
 Ketelduinweg,2,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664282,52.769283
-Ketelduinweg,3,a,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664728,52.769107
+Ketelduinweg,3,A,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664728,52.769107
 Ketelduinweg,3,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664487,52.769137
 Ketelduinweg,7,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.665024,52.768490
 Ketelduinweg,8,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.664722,52.768975
@@ -290,7 +495,7 @@ Ketelduinweg,18,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.666071,52.768383
 Ketelduinweg,19,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.666138,52.768490
 Ketelduinweg,20,,,1755ND,Petten,Schagen,Noord-Holland,VBO,4.666166,52.768541
 Schoolstraat,1,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.663869,52.767110
-Schoolstraat,2,a,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.664918,52.767080
+Schoolstraat,2,A,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.664918,52.767080
 Schoolstraat,2,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665311,52.767440
 Schoolstraat,3,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.664868,52.767805
 Schoolstraat,4,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665606,52.767748
@@ -304,17 +509,34 @@ Schoolstraat,11,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665144,52.768059
 Schoolstraat,12,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665695,52.768027
 Schoolstraat,13,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665193,52.768100
 Schoolstraat,14,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665621,52.768057
-Schoolstraat,15,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665282,52.768186
+Schoolstraat,15,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665281,52.768186
 Schoolstraat,16,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665545,52.768088
 Schoolstraat,17,,,1755NE,Petten,Schagen,Noord-Holland,VBO,4.665333,52.768231
 Oostend,1,,,1755NG,Petten,Schagen,Noord-Holland,VBO,4.664686,52.767599
-Plein 1945,1,a,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.662854,52.768809
-Plein 1945,1,b,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.662786,52.768780
-Plein 1945,1,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.662571,52.768730
+Plein 1945,1,B,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.662884,52.768793
+Plein 1945,1,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.662653,52.768715
 Plein 1945,3,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.662951,52.768536
+Plein 1945,5,A,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663082,52.768408
+Plein 1945,5,B,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663144,52.768348
+Plein 1945,5,C,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663211,52.768295
+Plein 1945,5,D,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663258,52.768242
+Plein 1945,5,E,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663316,52.768191
+Plein 1945,5,F,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663060,52.768476
+Plein 1945,5,G,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663115,52.768422
+Plein 1945,5,H,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663174,52.768362
+Plein 1945,5,J,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663242,52.768308
+Plein 1945,5,K,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663299,52.768258
+Plein 1945,5,L,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663359,52.768207
+Plein 1945,5,M,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663099,52.768489
+Plein 1945,5,N,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663147,52.768435
+Plein 1945,5,P,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663210,52.768375
+Plein 1945,5,Q,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663275,52.768322
+Plein 1945,5,R,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663333,52.768269
+Plein 1945,5,S,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663395,52.768218
+Plein 1945,5,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663028,52.768462
 Plein 1945,15,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663405,52.768101
 Plein 1945,17,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663549,52.768042
-Plein 1945,19,a,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663672,52.768024
+Plein 1945,19,A,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663672,52.768024
 Plein 1945,19,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663569,52.767987
 Plein 1945,21,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.664199,52.767868
 Plein 1945,23,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.664294,52.767788
@@ -323,30 +545,34 @@ Plein 1945,27,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663637,52.767602
 Plein 1945,29,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.664245,52.767452
 Plein 1945,31,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.664045,52.767404
 Plein 1945,33,,,1755NH,Petten,Schagen,Noord-Holland,VBO,4.663929,52.767349
-Plein 1945,2,a,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662285,52.768496
-Plein 1945,2,b,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662171,52.768489
-Plein 1945,2,c,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662054,52.768468
-Plein 1945,2,d,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662001,52.768463
-Plein 1945,2,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662291,52.768474
+Plein 1945,2,A,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662285,52.768496
+Plein 1945,2,B,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662171,52.768489
+Plein 1945,2,C,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662053,52.768468
+Plein 1945,2,D,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662001,52.768463
+Plein 1945,2,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662290,52.768474
 Plein 1945,4,A,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662298,52.768433
 Plein 1945,4,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662311,52.768405
 Plein 1945,6,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662369,52.768329
 Plein 1945,8,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662389,52.768245
-Plein 1945,10,a,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662445,52.768001
+Plein 1945,10,A,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662527,52.768069
+Plein 1945,10,B,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662567,52.768013
 Plein 1945,10,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662502,52.768015
-Plein 1945,12,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662690,52.767897
-Plein 1945,14,a,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662658,52.767783
-Plein 1945,14,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662705,52.767798
+Plein 1945,12,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662689,52.767897
+Plein 1945,14,A,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662658,52.767783
+Plein 1945,14,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662704,52.767798
 Plein 1945,16,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662808,52.767715
-Plein 1945,18,a,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662810,52.767586
+Plein 1945,18,A,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662810,52.767586
 Plein 1945,18,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662866,52.767604
 Plein 1945,20,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.662882,52.767518
 Plein 1945,22,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.663093,52.767441
-Plein 1945,24,a,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.663167,52.767384
-Plein 1945,24,b,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.663126,52.767370
+Plein 1945,24,A,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.663167,52.767384
+Plein 1945,24,B,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.663126,52.767370
 Plein 1945,26,,,1755NJ,Petten,Schagen,Noord-Holland,VBO,4.663217,52.767307
 Middelweg,1,,,1755NK,Petten,Schagen,Noord-Holland,VBO,4.663132,52.769726
 Middelweg,2,,,1755NK,Petten,Schagen,Noord-Holland,VBO,4.663267,52.769606
+Middelweg,3,,rv01,1755NK,Petten,Schagen,Noord-Holland,VBO,4.663378,52.769548
+Middelweg,3,,rv02,1755NK,Petten,Schagen,Noord-Holland,VBO,4.663475,52.769574
+Middelweg,3,,rv03,1755NK,Petten,Schagen,Noord-Holland,VBO,4.663570,52.769587
 Middelweg,3,,,1755NK,Petten,Schagen,Noord-Holland,VBO,4.663371,52.769475
 Middelweg,4,,,1755NK,Petten,Schagen,Noord-Holland,VBO,4.663472,52.769351
 Middelweg,5,,,1755NK,Petten,Schagen,Noord-Holland,VBO,4.663590,52.769207
@@ -362,7 +588,7 @@ Muiweg,1,,,1755NL,Petten,Schagen,Noord-Holland,VBO,4.662642,52.769618
 Muiweg,2,,,1755NL,Petten,Schagen,Noord-Holland,VBO,4.662762,52.769461
 Muiweg,3,,zw,1755NL,Petten,Schagen,Noord-Holland,VBO,4.663074,52.769419
 Muiweg,3,,,1755NL,Petten,Schagen,Noord-Holland,VBO,4.662873,52.769336
-Muiweg,4,,,1755NL,Petten,Schagen,Noord-Holland,VBO,4.662966,52.769167
+Muiweg,4,,,1755NL,Petten,Schagen,Noord-Holland,VBO,4.662966,52.769166
 Muiweg,5,,,1755NL,Petten,Schagen,Noord-Holland,VBO,4.663062,52.769042
 Muiweg,6,,,1755NL,Petten,Schagen,Noord-Holland,VBO,4.663449,52.768684
 Muiweg,7,,,1755NL,Petten,Schagen,Noord-Holland,VBO,4.663527,52.768624
@@ -389,10 +615,10 @@ Ir. van den Banstraat,6,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662082,52.76
 Ir. van den Banstraat,7,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662349,52.769255
 Ir. van den Banstraat,8,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662118,52.768954
 Ir. van den Banstraat,9,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662392,52.769186
-Ir. van den Banstraat,10,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662153,52.768884
-Ir. van den Banstraat,11,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662443,52.769081
+Ir. van den Banstraat,10,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662152,52.768883
+Ir. van den Banstraat,11,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662442,52.769081
 Ir. van den Banstraat,13,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662484,52.769005
-Ir. van den Banstraat,14,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662204,52.768660
+Ir. van den Banstraat,14,,,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662203,52.768660
 Ir. van den Banstraat,15,,ap1,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662619,52.768925
 Ir. van den Banstraat,15,,ap10,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662633,52.768817
 Ir. van den Banstraat,15,,ap11,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662647,52.768791
@@ -400,11 +626,11 @@ Ir. van den Banstraat,15,,ap12,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662548,
 Ir. van den Banstraat,15,,ap13,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662562,52.768859
 Ir. van den Banstraat,15,,ap14,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662576,52.768834
 Ir. van den Banstraat,15,,ap15,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662590,52.768808
-Ir. van den Banstraat,15,,ap16,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662605,52.768783
+Ir. van den Banstraat,15,,ap16,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662604,52.768783
 Ir. van den Banstraat,15,,ap17,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662506,52.768876
 Ir. van den Banstraat,15,,ap18,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662520,52.768851
 Ir. van den Banstraat,15,,ap19,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662534,52.768825
-Ir. van den Banstraat,15,,ap2,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662633,52.768902
+Ir. van den Banstraat,15,,ap2,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662632,52.768902
 Ir. van den Banstraat,15,,ap20,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662548,52.768800
 Ir. van den Banstraat,15,,ap21,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662562,52.768774
 Ir. van den Banstraat,15,,ap3,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662647,52.768876
@@ -413,7 +639,7 @@ Ir. van den Banstraat,15,,ap5,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662675,5
 Ir. van den Banstraat,15,,ap6,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662689,52.768800
 Ir. van den Banstraat,15,,ap7,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662590,52.768893
 Ir. van den Banstraat,15,,ap8,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662604,52.768868
-Ir. van den Banstraat,15,,ap9,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662619,52.768842
+Ir. van den Banstraat,15,,ap9,1755NN,Petten,Schagen,Noord-Holland,VBO,4.662618,52.768842
 Nevenpad,1,,,1755NP,Petten,Schagen,Noord-Holland,VBO,4.661880,52.769418
 Nevenpad,2,,,1755NP,Petten,Schagen,Noord-Holland,VBO,4.661585,52.769358
 Nevenpad,3,,,1755NP,Petten,Schagen,Noord-Holland,VBO,4.661371,52.769285
@@ -424,7 +650,7 @@ Singel,47,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.663102,52.766422
 Singel,49,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.662939,52.766219
 Singel,51,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.662966,52.766167
 Singel,53,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.662994,52.766114
-Singel,55,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.663022,52.766061
+Singel,55,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.663021,52.766061
 Singel,57,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.663105,52.765945
 Singel,59,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.663133,52.765892
 Singel,61,,,1755NR,Petten,Schagen,Noord-Holland,VBO,4.663160,52.765839
@@ -441,7 +667,7 @@ Singel,7,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661521,52.768893
 Singel,9,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661535,52.768781
 Singel,11,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661552,52.768721
 Singel,15,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661593,52.768601
-Singel,17,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661669,52.768406
+Singel,17,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661668,52.768406
 Singel,19,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661749,52.768270
 Singel,21,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661833,52.768158
 Singel,23,,,1755NS,Petten,Schagen,Noord-Holland,VBO,4.661973,52.767768
@@ -464,12 +690,12 @@ Singel,18,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.661922,52.767142
 Singel,20,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.661900,52.766997
 Singel,22,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.661898,52.766961
 Singel,24,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.661943,52.766851
-Singel,26,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.661957,52.766809
+Singel,26,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.661956,52.766809
 Singel,28,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.661971,52.766762
 Singel,30,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.661990,52.766718
 Singel,40,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.662384,52.766345
 Singel,42,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.662461,52.766231
-Singel,44,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.662534,52.766103
+Singel,44,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.662533,52.766103
 Singel,46,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.662555,52.766057
 Singel,48,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.662603,52.765961
 Singel,50,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.662621,52.765917
@@ -481,7 +707,7 @@ Singel,60,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.662893,52.765526
 Singel,62,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.663050,52.765465
 Singel,64,,,1755NT,Petten,Schagen,Noord-Holland,VBO,4.663271,52.765410
 Hofstraat,1,,,1755NV,Petten,Schagen,Noord-Holland,VBO,4.663074,52.767091
-Hofstraat,2,a,,1755NV,Petten,Schagen,Noord-Holland,VBO,4.662962,52.767316
+Hofstraat,2,A,,1755NV,Petten,Schagen,Noord-Holland,VBO,4.662962,52.767316
 Hofstraat,2,,,1755NV,Petten,Schagen,Noord-Holland,VBO,4.663048,52.767341
 Hofstraat,3,,,1755NV,Petten,Schagen,Noord-Holland,VBO,4.662855,52.767042
 Hofstraat,5,,,1755NV,Petten,Schagen,Noord-Holland,VBO,4.662550,52.766984
@@ -503,7 +729,7 @@ Zijperweg,18,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663713,52.766312
 Zijperweg,20,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663801,52.766329
 Zijperweg,22,,g1,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663300,52.766160
 Zijperweg,22,,g2,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663329,52.766196
-Zijperweg,22,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663724,52.766101
+Zijperweg,22,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663723,52.766101
 Zijperweg,24,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663826,52.766065
 Zijperweg,26,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663933,52.766031
 Zijperweg,28,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663964,52.765907
@@ -514,34 +740,34 @@ Zijperweg,38,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663834,52.765918
 Zijperweg,40,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663943,52.765882
 Zijperweg,42,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.664057,52.765853
 Zijperweg,44,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663769,52.766152
-Zijperweg,46,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663876,52.766118
+Zijperweg,46,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663875,52.766118
 Zijperweg,48,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663983,52.766084
 Zijperweg,50,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663807,52.765891
 Zijperweg,52,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.663921,52.765851
 Zijperweg,54,,,1755NX,Petten,Schagen,Noord-Holland,VBO,4.664033,52.765819
-Zijperweg,1,a,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.663811,52.767255
+Zijperweg,1,A,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.663811,52.767255
 Zijperweg,1,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664286,52.767082
 Zijperweg,3,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664348,52.767041
 Zijperweg,5,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664411,52.767002
 Zijperweg,7,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664473,52.766960
 Zijperweg,9,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664587,52.766863
 Zijperweg,11,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664567,52.766809
-Zijperweg,13,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664547,52.766755
+Zijperweg,13,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664546,52.766755
 Zijperweg,15,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664526,52.766700
 Zijperweg,17,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664359,52.766637
 Zijperweg,19,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664270,52.766620
 Zijperweg,21,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664183,52.766604
 Zijperweg,23,,,1755NZ,Petten,Schagen,Noord-Holland,VBO,4.664097,52.766588
-J.C. Bellisstraat,1,a,,1755PA,Petten,Schagen,Noord-Holland,VBO,4.662150,52.768208
+J.C. Bellisstraat,1,A,,1755PA,Petten,Schagen,Noord-Holland,VBO,4.662150,52.768208
 J.C. Bellisstraat,1,,,1755PA,Petten,Schagen,Noord-Holland,VBO,4.662226,52.767991
 J.C. Bellisstraat,2,,,1755PA,Petten,Schagen,Noord-Holland,VBO,4.661893,52.767921
-J.C. Bellisstraat,3,,,1755PA,Petten,Schagen,Noord-Holland,VBO,4.659735,52.767315
+J.C. Bellisstraat,3,,,1755PA,Petten,Schagen,Noord-Holland,VBO,4.659795,52.767318
 J.C. Bellisstraat,4,,,1755PA,Petten,Schagen,Noord-Holland,VBO,4.659518,52.767274
 Jan van Gentstraat,1,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.659430,52.768021
 Jan van Gentstraat,3,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.659389,52.767878
 Jan van Gentstraat,5,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.659344,52.767736
 Jan van Gentstraat,9,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.659259,52.767450
-Jan van Gentstraat,11,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.659210,52.767306
+Jan van Gentstraat,11,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.659209,52.767306
 Jan van Gentstraat,13,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658990,52.766736
 Jan van Gentstraat,15,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658956,52.766685
 Jan van Gentstraat,17,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658921,52.766634
@@ -551,7 +777,7 @@ Jan van Gentstraat,23,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658821,52.7664
 Jan van Gentstraat,25,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658788,52.766434
 Jan van Gentstraat,27,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658754,52.766384
 Jan van Gentstraat,29,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658721,52.766334
-Jan van Gentstraat,31,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658688,52.766285
+Jan van Gentstraat,31,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658687,52.766285
 Jan van Gentstraat,33,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658654,52.766234
 Jan van Gentstraat,35,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658620,52.766184
 Jan van Gentstraat,37,,,1755PB,Petten,Schagen,Noord-Holland,VBO,4.658586,52.766133
@@ -571,25 +797,12 @@ Jan van Gentstraat,28,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658829,52.7679
 Jan van Gentstraat,30,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658808,52.767935
 Jan van Gentstraat,32,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658787,52.767883
 Jan van Gentstraat,34,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658766,52.767830
-Jan van Gentstraat,36,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658746,52.767777
+Jan van Gentstraat,36,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658745,52.767777
 Jan van Gentstraat,38,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658725,52.767725
 Jan van Gentstraat,40,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658704,52.767672
 Jan van Gentstraat,42,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658712,52.767175
 Jan van Gentstraat,44,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658661,52.767041
 Jan van Gentstraat,46,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658573,52.766907
-Jan van Gentstraat,48,,g1,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658343,52.766639
-Jan van Gentstraat,48,,g10,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658122,52.766309
-Jan van Gentstraat,48,,g11,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658106,52.766284
-Jan van Gentstraat,48,,g12,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658088,52.766260
-Jan van Gentstraat,48,,g2,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658326,52.766613
-Jan van Gentstraat,48,,g3,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658309,52.766587
-Jan van Gentstraat,48,,g4,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658293,52.766562
-Jan van Gentstraat,48,,g5,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658241,52.766487
-Jan van Gentstraat,48,,g6,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658224,52.766461
-Jan van Gentstraat,48,,g7,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658208,52.766435
-Jan van Gentstraat,48,,g8,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658190,52.766410
-Jan van Gentstraat,48,,g9,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658140,52.766334
-Jan van Gentstraat,48,,,1755PC,Petten,Schagen,Noord-Holland,VBO,4.658366,52.766672
 Sternstraat,1,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.658717,52.767399
 Sternstraat,2,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.658630,52.767411
 Sternstraat,3,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.658542,52.767424
@@ -602,7 +815,7 @@ Sternstraat,9,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.658022,52.767501
 Sternstraat,10,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.657937,52.767514
 Sternstraat,11,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.657848,52.767527
 Sternstraat,12,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.657764,52.767540
-Sternstraat,13,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.657678,52.767552
+Sternstraat,13,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.657677,52.767552
 Sternstraat,14,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.657588,52.767566
 Sternstraat,15,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.657501,52.767579
 Sternstraat,16,,,1755PE,Petten,Schagen,Noord-Holland,VBO,4.657413,52.767592
@@ -615,14 +828,14 @@ Noordzeestraat,13,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.658217,52.768415
 Noordzeestraat,15,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.658176,52.768367
 Noordzeestraat,17,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.658136,52.768319
 Noordzeestraat,19,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.658095,52.768271
-Noordzeestraat,21,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.658055,52.768222
+Noordzeestraat,21,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.658054,52.768222
 Noordzeestraat,23,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.658014,52.768174
 Noordzeestraat,25,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.657973,52.768126
 Noordzeestraat,27,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.657933,52.768078
 Noordzeestraat,29,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.657892,52.768030
 Noordzeestraat,31,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.657852,52.767981
 Noordzeestraat,33,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.657811,52.767933
-Noordzeestraat,35,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.657771,52.767885
+Noordzeestraat,35,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.657770,52.767885
 Noordzeestraat,37,,,1755PG,Petten,Schagen,Noord-Holland,VBO,4.657730,52.767837
 Noordzeestraat,2,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.657656,52.768719
 Noordzeestraat,4,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.657633,52.768665
@@ -641,13 +854,13 @@ Noordzeestraat,28,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.657277,52.768022
 Noordzeestraat,30,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.657052,52.767952
 Noordzeestraat,32,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.657029,52.767897
 Noordzeestraat,34,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.657006,52.767843
-Noordzeestraat,36,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.656983,52.767789
+Noordzeestraat,36,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.656982,52.767789
 Noordzeestraat,38,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.656959,52.767734
 Noordzeestraat,40,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.656936,52.767680
 Noordzeestraat,42,,,1755PH,Petten,Schagen,Noord-Holland,VBO,4.656913,52.767626
 Noordzeestraat,44,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656817,52.767583
 Noordzeestraat,46,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656794,52.767529
-Noordzeestraat,48,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656771,52.767474
+Noordzeestraat,48,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656770,52.767474
 Noordzeestraat,50,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656747,52.767420
 Noordzeestraat,52,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656724,52.767366
 Noordzeestraat,54,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656700,52.767312
@@ -655,7 +868,7 @@ Noordzeestraat,56,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656677,52.767257
 Noordzeestraat,58,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656478,52.767186
 Noordzeestraat,60,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656460,52.767131
 Noordzeestraat,62,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656441,52.767076
-Noordzeestraat,64,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656423,52.767021
+Noordzeestraat,64,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656422,52.767021
 Noordzeestraat,66,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656404,52.766966
 Noordzeestraat,68,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656385,52.766911
 Noordzeestraat,70,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656367,52.766856
@@ -665,24 +878,6 @@ Noordzeestraat,76,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656229,52.766701
 Noordzeestraat,78,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656210,52.766646
 Noordzeestraat,80,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656192,52.766591
 Noordzeestraat,82,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656173,52.766536
-Noordzeestraat,84,,g1,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656066,52.766272
-Noordzeestraat,84,,g10,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655796,52.766445
-Noordzeestraat,84,,g11,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655882,52.766447
-Noordzeestraat,84,,g12,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655922,52.766438
-Noordzeestraat,84,,g13,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655960,52.766428
-Noordzeestraat,84,,g14,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655995,52.766420
-Noordzeestraat,84,,g15,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656031,52.766410
-Noordzeestraat,84,,g16,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656069,52.766401
-Noordzeestraat,84,,g17,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656105,52.766392
-Noordzeestraat,84,,g18,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656142,52.766381
-Noordzeestraat,84,,g2,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656029,52.766281
-Noordzeestraat,84,,g3,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655992,52.766291
-Noordzeestraat,84,,g4,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655954,52.766299
-Noordzeestraat,84,,g5,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655918,52.766309
-Noordzeestraat,84,,g6,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655880,52.766318
-Noordzeestraat,84,,g7,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655841,52.766327
-Noordzeestraat,84,,g8,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655805,52.766337
-Noordzeestraat,84,,g9,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.655749,52.766378
 Noordzeestraat,84,,,1755PJ,Petten,Schagen,Noord-Holland,VBO,4.656154,52.766481
 Zeearendstraat,1,,,1755PK,Petten,Schagen,Noord-Holland,VBO,4.658181,52.767016
 Zeearendstraat,2,,,1755PK,Petten,Schagen,Noord-Holland,VBO,4.658102,52.767035
@@ -698,29 +893,6 @@ Zeearendstraat,11,,,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657354,52.767217
 Zeearendstraat,12,,,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657271,52.767238
 Zeearendstraat,13,,,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657188,52.767258
 Zeearendstraat,14,,,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657105,52.767278
-Zeearendstraat,16,,g1,1755PK,Petten,Schagen,Noord-Holland,VBO,4.658285,52.766710
-Zeearendstraat,16,,g10,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657811,52.766819
-Zeearendstraat,16,,g11,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657692,52.766848
-Zeearendstraat,16,,g12,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657648,52.766858
-Zeearendstraat,16,,g13,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657605,52.766868
-Zeearendstraat,16,,g14,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657564,52.766879
-Zeearendstraat,16,,g15,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657442,52.766909
-Zeearendstraat,16,,g16,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657399,52.766918
-Zeearendstraat,16,,g17,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657358,52.766929
-Zeearendstraat,16,,g18,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657316,52.766940
-Zeearendstraat,16,,g19,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657274,52.766950
-Zeearendstraat,16,,g2,1755PK,Petten,Schagen,Noord-Holland,VBO,4.658227,52.766718
-Zeearendstraat,16,,g20,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657152,52.766981
-Zeearendstraat,16,,g21,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657111,52.766991
-Zeearendstraat,16,,g22,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657067,52.767002
-Zeearendstraat,16,,g23,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657027,52.767013
-Zeearendstraat,16,,g3,1755PK,Petten,Schagen,Noord-Holland,VBO,4.658188,52.766728
-Zeearendstraat,16,,g4,1755PK,Petten,Schagen,Noord-Holland,VBO,4.658146,52.766739
-Zeearendstraat,16,,g5,1755PK,Petten,Schagen,Noord-Holland,VBO,4.658103,52.766749
-Zeearendstraat,16,,g6,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657978,52.766777
-Zeearendstraat,16,,g7,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657935,52.766788
-Zeearendstraat,16,,g8,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657895,52.766798
-Zeearendstraat,16,,g9,1755PK,Petten,Schagen,Noord-Holland,VBO,4.657853,52.766808
 Bergeendstraat,1,,,1755PL,Petten,Schagen,Noord-Holland,VBO,4.660532,52.765526
 Bergeendstraat,3,,,1755PL,Petten,Schagen,Noord-Holland,VBO,4.660376,52.765229
 Bergeendstraat,5,,,1755PL,Petten,Schagen,Noord-Holland,VBO,4.660112,52.765298
@@ -779,9 +951,9 @@ Coppersdelle,3,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.657938,52.763232
 Coppersdelle,5,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658007,52.763323
 Coppersdelle,7,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658050,52.763375
 Coppersdelle,9,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658116,52.763465
-Coppersdelle,11,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658158,52.763517
+Coppersdelle,11,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658157,52.763517
 Coppersdelle,13,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658226,52.763607
-Coppersdelle,15,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658265,52.763655
+Coppersdelle,15,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658264,52.763655
 Coppersdelle,17,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658318,52.763803
 Coppersdelle,19,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658309,52.763867
 Coppersdelle,21,,,1755RB,Petten,Schagen,Noord-Holland,VBO,4.658292,52.763959
@@ -800,10 +972,10 @@ Coppersdelle,10,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658424,52.763106
 Coppersdelle,12,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658492,52.763217
 Coppersdelle,14,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658529,52.763261
 Coppersdelle,16,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658609,52.763371
-Coppersdelle,18,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658644,52.763417
+Coppersdelle,18,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658643,52.763417
 Coppersdelle,20,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658733,52.763526
 Coppersdelle,22,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658768,52.763574
-Coppersdelle,24,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658814,52.763689
+Coppersdelle,24,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658813,52.763689
 Coppersdelle,26,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658825,52.763740
 Coppersdelle,28,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658823,52.763863
 Coppersdelle,30,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.658811,52.763913
@@ -818,27 +990,27 @@ Coppersdelle,46,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.659025,52.764894
 Coppersdelle,48,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.659059,52.764936
 Coppersdelle,50,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.659061,52.764986
 Coppersdelle,52,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.659090,52.765028
-Coppersdelle,54,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.659121,52.765072
+Coppersdelle,54,,,1755RC,Petten,Schagen,Noord-Holland,VBO,4.659120,52.765072
 Westerdelle,1,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656677,52.763548
 Westerdelle,3,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656712,52.763595
 Westerdelle,5,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656787,52.763684
 Westerdelle,7,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656818,52.763732
 Westerdelle,9,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656907,52.763857
 Westerdelle,11,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656912,52.763909
-Westerdelle,13,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656920,52.764045
+Westerdelle,13,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656919,52.764045
 Westerdelle,15,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656907,52.764098
 Westerdelle,17,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656849,52.764405
 Westerdelle,19,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656843,52.764454
 Westerdelle,21,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656852,52.764577
 Westerdelle,23,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656857,52.764627
-Westerdelle,25,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656926,52.764743
+Westerdelle,25,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656925,52.764743
 Westerdelle,27,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.656959,52.764788
 Westerdelle,29,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.657003,52.764889
 Westerdelle,31,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.657032,52.764935
 Westerdelle,33,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.657092,52.765030
 Westerdelle,35,,,1755RD,Petten,Schagen,Noord-Holland,VBO,4.657129,52.765075
 Westerdelle,2,,,1755RE,Petten,Schagen,Noord-Holland,VBO,4.657123,52.763422
-Westerdelle,4,,,1755RE,Petten,Schagen,Noord-Holland,VBO,4.657157,52.763469
+Westerdelle,4,,,1755RE,Petten,Schagen,Noord-Holland,VBO,4.657156,52.763469
 Westerdelle,6,,,1755RE,Petten,Schagen,Noord-Holland,VBO,4.657227,52.763561
 Westerdelle,8,,,1755RE,Petten,Schagen,Noord-Holland,VBO,4.657259,52.763609
 Westerdelle,10,,,1755RE,Petten,Schagen,Noord-Holland,VBO,4.657333,52.763728
@@ -880,7 +1052,7 @@ Vliewint,43,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.655772,52.765249
 Vliewint,45,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.655860,52.765361
 Vliewint,47,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.655987,52.765509
 Vliewint,49,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.656060,52.765675
-Vliewint,51,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.656201,52.765704
+Vliewint,51,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.656200,52.765704
 Vliewint,53,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.656628,52.765598
 Vliewint,55,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.656842,52.765549
 Vliewint,57,,,1755RG,Petten,Schagen,Noord-Holland,VBO,4.657020,52.765503
@@ -904,8 +1076,8 @@ Vliewint,20,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.655850,52.764568
 Vliewint,22,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.655908,52.764658
 Vliewint,24,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.655948,52.764715
 Vliewint,26,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.656006,52.764803
-Vliewint,28,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.656049,52.764857
-Vliewint,30,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.656105,52.764947
+Vliewint,28,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.656048,52.764857
+Vliewint,30,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.656104,52.764947
 Vliewint,32,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.656145,52.765000
 Vliewint,34,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.656203,52.765092
 Vliewint,36,,,1755RH,Petten,Schagen,Noord-Holland,VBO,4.656245,52.765147
@@ -941,7 +1113,7 @@ Wilbertsdel,54,,,1755RJ,Petten,Schagen,Noord-Holland,VBO,4.660391,52.764760
 Wilbertsdel,56,,,1755RJ,Petten,Schagen,Noord-Holland,VBO,4.660363,52.764719
 Wilbertsdel,58,,,1755RJ,Petten,Schagen,Noord-Holland,VBO,4.660336,52.764680
 Wilbertsdel,60,,,1755RJ,Petten,Schagen,Noord-Holland,VBO,4.660310,52.764641
-Wilbertsdel,62,,,1755RJ,Petten,Schagen,Noord-Holland,VBO,4.660283,52.764601
+Wilbertsdel,62,,,1755RJ,Petten,Schagen,Noord-Holland,VBO,4.660282,52.764601
 Wilbertsdel,1,,,1755RK,Petten,Schagen,Noord-Holland,VBO,4.659354,52.764582
 Wilbertsdel,3,,,1755RK,Petten,Schagen,Noord-Holland,VBO,4.659383,52.764627
 Wilbertsdel,5,,,1755RK,Petten,Schagen,Noord-Holland,VBO,4.659409,52.764669
@@ -955,7 +1127,7 @@ Wilbertsdel,19,,,1755RK,Petten,Schagen,Noord-Holland,VBO,4.659933,52.764831
 Wilbertsdel,21,,,1755RK,Petten,Schagen,Noord-Holland,VBO,4.659904,52.764788
 Wilbertsdel,23,,,1755RK,Petten,Schagen,Noord-Holland,VBO,4.659877,52.764748
 Wilbertsdel,25,,,1755RK,Petten,Schagen,Noord-Holland,VBO,4.659850,52.764709
-Strandslag Sint Maartenszee,1,A,,1755SB,Petten,Schagen,Noord-Holland,VBO,4.675573,52.793327
+Strandslag Sint Maartenszee,1,A,,1755SB,Petten,Schagen,Noord-Holland,VBO,4.675533,52.793315
 Strandslag Sint Maartenszee,1,,,1755SB,Petten,Schagen,Noord-Holland,STA,4.672296,52.793686
 Burg. Breebaartweg,1,,,1755SC,Petten,Schagen,Noord-Holland,STA,4.674643,52.797513
 Burg. Breebaartweg,3,,,1755SC,Petten,Schagen,Noord-Holland,STA,4.673661,52.796055

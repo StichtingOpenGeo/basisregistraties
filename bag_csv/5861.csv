@@ -1,11 +1,10 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 Helling,1,,,5861AA,Wanssum,Venray,Limburg,VBO,6.083505,51.530890
 Helling,2,A,,5861AA,Wanssum,Venray,Limburg,VBO,6.081691,51.531709
-Helling,2,B,,5861AA,Wanssum,Venray,Limburg,VBO,6.081670,51.531417
 Helling,2,,,5861AA,Wanssum,Venray,Limburg,VBO,6.082106,51.531461
 Helling,3,A,,5861AA,Wanssum,Venray,Limburg,VBO,6.083649,51.530046
 Helling,3,,,5861AA,Wanssum,Venray,Limburg,VBO,6.083597,51.530158
-Helling,4,,,5861AA,Wanssum,Venray,Limburg,VBO,6.081931,51.531211
+Helling,4,,,5861AA,Wanssum,Venray,Limburg,VBO,6.081930,51.531211
 Helling,5,,,5861AA,Wanssum,Venray,Limburg,VBO,6.083823,51.529452
 Helling,6,,,5861AA,Wanssum,Venray,Limburg,VBO,6.082149,51.531174
 Helling,7,,,5861AA,Wanssum,Venray,Limburg,VBO,6.084088,51.528678
@@ -20,7 +19,8 @@ Meerloseweg,1,,,5861AB,Wanssum,Venray,Limburg,VBO,6.080789,51.535970
 Meerloseweg,3,,,5861AB,Wanssum,Venray,Limburg,VBO,6.080831,51.535821
 Meerloseweg,5,,,5861AB,Wanssum,Venray,Limburg,VBO,6.080891,51.535647
 Meerloseweg,7,,,5861AB,Wanssum,Venray,Limburg,VBO,6.080943,51.535451
-Meerloseweg,9,,,5861AB,Wanssum,Venray,Limburg,VBO,6.081012,51.535194
+Meerloseweg,9,A,,5861AB,Wanssum,Venray,Limburg,VBO,6.081108,51.535196
+Meerloseweg,9,,,5861AB,Wanssum,Venray,Limburg,VBO,6.080895,51.535198
 Meerloseweg,11,,,5861AB,Wanssum,Venray,Limburg,VBO,6.080990,51.535082
 Meerloseweg,13,A,,5861AB,Wanssum,Venray,Limburg,VBO,6.081194,51.534752
 Meerloseweg,13,,,5861AB,Wanssum,Venray,Limburg,VBO,6.081028,51.534897
@@ -45,6 +45,7 @@ Meerloseweg,14,,,5861AC,Wanssum,Venray,Limburg,VBO,6.082726,51.533334
 Meerloseweg,16,,,5861AC,Wanssum,Venray,Limburg,VBO,6.082788,51.533149
 Meerloseweg,18,,,5861AC,Wanssum,Venray,Limburg,VBO,6.082682,51.533038
 Krekelkamp,1,A,,5861AD,Wanssum,Venray,Limburg,VBO,6.086413,51.534287
+Krekelkamp,1,D,,5861AD,Wanssum,Venray,Limburg,VBO,6.084123,51.533803
 Krekelkamp,1,,,5861AD,Wanssum,Venray,Limburg,VBO,6.083734,51.533971
 Krekelkamp,2,A,,5861AD,Wanssum,Venray,Limburg,VBO,6.083728,51.533619
 Krekelkamp,2,,,5861AD,Wanssum,Venray,Limburg,VBO,6.085692,51.533260
@@ -53,104 +54,139 @@ Krekelkamp,4,,,5861AD,Wanssum,Venray,Limburg,VBO,6.086219,51.533467
 Krekelkamp,5,,,5861AD,Wanssum,Venray,Limburg,VBO,6.088858,51.533275
 Krekelkamp,7,,,5861AD,Wanssum,Venray,Limburg,VBO,6.089261,51.533080
 Krekelkamp,8,,,5861AD,Wanssum,Venray,Limburg,VBO,6.088835,51.532907
+Krekelkamp,10,A,,5861AD,Wanssum,Venray,Limburg,VBO,6.089292,51.532379
 Krekelkamp,10,,,5861AD,Wanssum,Venray,Limburg,VBO,6.089616,51.532624
 Krekelkamp,12,,,5861AD,Wanssum,Venray,Limburg,VBO,6.090839,51.532571
 Krekelkamp,14,,,5861AD,Wanssum,Venray,Limburg,VBO,6.091601,51.532507
 Molenhoek,1,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081619,51.534136
-Molenhoek,2,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081383,51.533751
+Molenhoek,2,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081423,51.533821
 Molenhoek,3,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081582,51.533939
 Molenhoek,4,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081607,51.533754
 Molenhoek,5,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081703,51.533914
 Molenhoek,6,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081712,51.533727
 Molenhoek,7,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081984,51.533919
-Molenhoek,8,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081921,51.533587
+Molenhoek,8,,,5861AE,Wanssum,Venray,Limburg,VBO,6.081920,51.533587
 Molenhoek,9,,,5861AE,Wanssum,Venray,Limburg,VBO,6.082122,51.533903
 Molenhoek,10,,,5861AE,Wanssum,Venray,Limburg,VBO,6.082284,51.533739
 Molenhoek,12,,,5861AE,Wanssum,Venray,Limburg,VBO,6.082453,51.533746
 Burgemeester Ponjéestraat,2,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083716,51.536265
+Burgemeester Ponjéestraat,3,,,5861AG,Wanssum,Venray,Limburg,VBO,6.084086,51.535798
 Burgemeester Ponjéestraat,4,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083754,51.536074
+Burgemeester Ponjéestraat,5,,,5861AG,Wanssum,Venray,Limburg,VBO,6.084052,51.535743
 Burgemeester Ponjéestraat,6,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083679,51.535945
+Burgemeester Ponjéestraat,7,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083998,51.535630
 Burgemeester Ponjéestraat,8,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083628,51.535825
+Burgemeester Ponjéestraat,9,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083968,51.535570
 Burgemeester Ponjéestraat,10,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083565,51.535719
+Burgemeester Ponjéestraat,11,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083831,51.535370
 Burgemeester Ponjéestraat,12,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083469,51.535596
-Burgemeester Ponjéestraat,14,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083370,51.535450
+Burgemeester Ponjéestraat,13,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083802,51.535316
+Burgemeester Ponjéestraat,14,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083399,51.535429
+Burgemeester Ponjéestraat,15,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083771,51.535205
 Burgemeester Ponjéestraat,16,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083350,51.535368
+Burgemeester Ponjéestraat,17,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083743,51.535156
 Burgemeester Ponjéestraat,18,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083069,51.534912
+Burgemeester Ponjéestraat,19,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083714,51.535050
 Burgemeester Ponjéestraat,20,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083038,51.534861
+Burgemeester Ponjéestraat,21,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083680,51.534994
 Burgemeester Ponjéestraat,22,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083016,51.534763
-Burgemeester Ponjéestraat,24,,,5861AG,Wanssum,Venray,Limburg,VBO,6.082933,51.534680
-Burgemeester Ponjéestraat,26,,,5861AG,Wanssum,Venray,Limburg,VBO,6.082908,51.534633
+Burgemeester Ponjéestraat,23,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083649,51.534875
+Burgemeester Ponjéestraat,24,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083030,51.534719
+Burgemeester Ponjéestraat,25,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083614,51.534830
+Burgemeester Ponjéestraat,26,,,5861AG,Wanssum,Venray,Limburg,VBO,6.082991,51.534609
+Burgemeester Ponjéestraat,27,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083563,51.534729
 Burgemeester Ponjéestraat,28,,,5861AG,Wanssum,Venray,Limburg,VBO,6.082921,51.534539
+Burgemeester Ponjéestraat,29,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083553,51.534668
 Burgemeester Ponjéestraat,30,,,5861AG,Wanssum,Venray,Limburg,VBO,6.082910,51.534376
+Burgemeester Ponjéestraat,31,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083507,51.534558
+Burgemeester Ponjéestraat,33,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083492,51.534510
+Burgemeester Ponjéestraat,35,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083430,51.534315
+Burgemeester Ponjéestraat,37,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083404,51.534257
+Burgemeester Ponjéestraat,39,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083352,51.534149
+Burgemeester Ponjéestraat,41,,,5861AG,Wanssum,Venray,Limburg,VBO,6.083338,51.534098
 Blitterswijckseweg,1,,,5861AH,Wanssum,Venray,Limburg,VBO,6.086987,51.535648
+Blitterswijckseweg,2,B,,5861AH,Wanssum,Venray,Limburg,VBO,6.084654,51.535853
+Blitterswijckseweg,2,C,,5861AH,Wanssum,Venray,Limburg,VBO,6.084733,51.535834
+Blitterswijckseweg,2,D,,5861AH,Wanssum,Venray,Limburg,VBO,6.084799,51.535807
+Blitterswijckseweg,2,E,,5861AH,Wanssum,Venray,Limburg,VBO,6.084880,51.535786
+Blitterswijckseweg,2,F,,5861AH,Wanssum,Venray,Limburg,VBO,6.085103,51.535733
 Blitterswijckseweg,2,,,5861AH,Wanssum,Venray,Limburg,VBO,6.084266,51.535988
 Blitterswijckseweg,3,A,,5861AH,Wanssum,Venray,Limburg,VBO,6.089978,51.535359
 Blitterswijckseweg,3,,,5861AH,Wanssum,Venray,Limburg,VBO,6.088091,51.535309
 Blitterswijckseweg,4,,,5861AH,Wanssum,Venray,Limburg,VBO,6.085686,51.535466
-Blitterswijckseweg,5,,,5861AH,Wanssum,Venray,Limburg,VBO,6.090878,51.536430
+Blitterswijckseweg,5,,,5861AH,Wanssum,Venray,Limburg,VBO,6.090877,51.536430
 Blitterswijckseweg,6,A,,5861AH,Wanssum,Venray,Limburg,VBO,6.088269,51.534886
 Blitterswijckseweg,6,,,5861AH,Wanssum,Venray,Limburg,VBO,6.086459,51.535398
-Blitterswijckseweg,7,A,,5861AH,Wanssum,Venray,Limburg,VBO,6.090734,51.536959
+Blitterswijckseweg,7,A,,5861AH,Wanssum,Venray,Limburg,VBO,6.090733,51.536959
 Blitterswijckseweg,7,,,5861AH,Wanssum,Venray,Limburg,VBO,6.090902,51.536537
 Blitterswijckseweg,8,,,5861AH,Wanssum,Venray,Limburg,VBO,6.089442,51.535057
 Blitterswijckseweg,9,,,5861AH,Wanssum,Venray,Limburg,VBO,6.093545,51.534184
 Blitterswijckseweg,10,,,5861AH,Wanssum,Venray,Limburg,VBO,6.090845,51.534634
 Blitterswijckseweg,12,,,5861AH,Wanssum,Venray,Limburg,VBO,6.091171,51.534496
-Brugstraat,3,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.080196,51.536317
+Brugstraat,3,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.080195,51.536317
 Brugstraat,5,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.080316,51.536315
 Brugstraat,7,A,,5861AJ,Wanssum,Venray,Limburg,VBO,6.080831,51.536376
 Brugstraat,7,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.080589,51.536388
 Brugstraat,9,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.081421,51.536543
-Brugstraat,11,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.081624,51.536499
+Brugstraat,11,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.081623,51.536499
 Brugstraat,13,A,,5861AJ,Wanssum,Venray,Limburg,VBO,6.082626,51.536639
 Brugstraat,13,B,,5861AJ,Wanssum,Venray,Limburg,VBO,6.082358,51.536635
 Brugstraat,13,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.081918,51.536609
 Brugstraat,15,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.082992,51.536584
 Brugstraat,17,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.083188,51.536659
-Brugstraat,19,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.083306,51.536673
+Brugstraat,19,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.083305,51.536673
 Brugstraat,21,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.083484,51.536690
 Brugstraat,23,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.083585,51.536712
 Brugstraat,25,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.083755,51.536716
+Brugstraat,27,B,,5861AJ,Wanssum,Venray,Limburg,VBO,6.084307,51.536998
 Brugstraat,27,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.083839,51.536761
-Brugstraat,29,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.084594,51.537151
+Brugstraat,29,,,5861AJ,Wanssum,Venray,Limburg,VBO,6.084676,51.536953
 Brugstraat,2,A,,5861AK,Wanssum,Venray,Limburg,VBO,6.081435,51.536013
 Brugstraat,2,,,5861AK,Wanssum,Venray,Limburg,VBO,6.081217,51.536028
 Brugstraat,4,,,5861AK,Wanssum,Venray,Limburg,VBO,6.081629,51.536076
 Brugstraat,8,,,5861AK,Wanssum,Venray,Limburg,VBO,6.081995,51.536096
-Brugstraat,10,,,5861AK,Wanssum,Venray,Limburg,VBO,6.082200,51.536103
+Brugstraat,10,,,5861AK,Wanssum,Venray,Limburg,VBO,6.082199,51.536103
 Brugstraat,12,,,5861AK,Wanssum,Venray,Limburg,VBO,6.082310,51.536147
 Brugstraat,14,,,5861AK,Wanssum,Venray,Limburg,VBO,6.082541,51.536188
-Brugstraat,16,,,5861AK,Wanssum,Venray,Limburg,VBO,6.082792,51.536086
+Brugstraat,16,,,5861AK,Wanssum,Venray,Limburg,VBO,6.082795,51.536228
 Brugstraat,18,,,5861AK,Wanssum,Venray,Limburg,VBO,6.082974,51.536238
 Brugstraat,20,,,5861AK,Wanssum,Venray,Limburg,VBO,6.083206,51.536263
-Brugstraat,22,,,5861AK,Wanssum,Venray,Limburg,VBO,6.083353,51.536161
+Brugstraat,22,,,5861AK,Wanssum,Venray,Limburg,VBO,6.083305,51.536296
 Brugstraat,24,,,5861AK,Wanssum,Venray,Limburg,VBO,6.083686,51.536337
 Brugstraat,30,,,5861AK,Wanssum,Venray,Limburg,VBO,6.091667,51.537231
 Achterstraat,3,,,5861AL,Wanssum,Venray,Limburg,VBO,6.080643,51.536756
 Achterstraat,4,,,5861AL,Wanssum,Venray,Limburg,VBO,6.081238,51.536841
 Achterstraat,5,,,5861AL,Wanssum,Venray,Limburg,VBO,6.080615,51.536929
+Achterstraat,6,,,5861AL,Wanssum,Venray,Limburg,VBO,6.081639,51.536745
+Achterstraat,8,,,5861AL,Wanssum,Venray,Limburg,VBO,6.081640,51.536826
+Achterstraat,10,,,5861AL,Wanssum,Venray,Limburg,VBO,6.081538,51.536916
+Achterstraat,12,,,5861AL,Wanssum,Venray,Limburg,VBO,6.081508,51.536975
+Achterstraat,14,,,5861AL,Wanssum,Venray,Limburg,VBO,6.081266,51.537009
+Achterstraat,16,,,5861AL,Wanssum,Venray,Limburg,VBO,6.081155,51.536977
+Achterstraat,18,,,5861AL,Wanssum,Venray,Limburg,VBO,6.081031,51.536934
+Achterstraat,20,,,5861AL,Wanssum,Venray,Limburg,VBO,6.080943,51.536905
 Cremershof,1,,,5861AN,Wanssum,Venray,Limburg,VBO,6.083256,51.535075
 Cremershof,3,,,5861AN,Wanssum,Venray,Limburg,VBO,6.083155,51.535086
 Cremershof,5,,,5861AN,Wanssum,Venray,Limburg,VBO,6.083039,51.535072
 Cremershof,7,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082928,51.535197
 Cremershof,9,A,,5861AN,Wanssum,Venray,Limburg,VBO,6.082689,51.535197
 Cremershof,9,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082787,51.535180
-Cremershof,11,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082764,51.535041
+Cremershof,11,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082679,51.535044
 Cremershof,13,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082621,51.534956
-Cremershof,15,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082619,51.534867
+Cremershof,15,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082618,51.534867
 Cremershof,17,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082605,51.534780
 Cremershof,19,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082548,51.534699
 Cremershof,21,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082414,51.534569
-Cremershof,23,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082448,51.534533
-Cremershof,25,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082580,51.534487
+Cremershof,23,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082447,51.534533
+Cremershof,25,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082579,51.534487
 Cremershof,27,,,5861AN,Wanssum,Venray,Limburg,VBO,6.082634,51.534455
 Cremershof,2,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082923,51.535420
 Cremershof,4,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082841,51.535425
 Cremershof,6,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082746,51.535435
 Cremershof,8,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082669,51.535434
 Cremershof,10,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082586,51.535465
-Cremershof,12,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082614,51.535524
-Cremershof,14,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082639,51.535572
+Cremershof,12,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082613,51.535524
+Cremershof,14,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082638,51.535572
 Cremershof,16,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082684,51.535614
 Cremershof,18,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082708,51.535660
 Cremershof,20,,,5861AP,Wanssum,Venray,Limburg,VBO,6.082801,51.535691
@@ -164,10 +200,11 @@ Cremershof,34,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082840,51.535934
 Cremershof,36,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082741,51.535933
 Cremershof,38,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082669,51.535882
 Cremershof,40,A,,5861AR,Wanssum,Venray,Limburg,VBO,6.082438,51.535825
+Cremershof,40,C,,5861AR,Wanssum,Venray,Limburg,VBO,6.082220,51.535572
 Cremershof,40,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082601,51.535884
 Cremershof,42,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082200,51.535447
 Cremershof,44,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082221,51.535387
-Cremershof,46,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082329,51.535283
+Cremershof,46,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082328,51.535283
 Cremershof,48,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082270,51.535217
 Cremershof,50,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082266,51.535143
 Cremershof,52,,,5861AR,Wanssum,Venray,Limburg,VBO,6.082246,51.535073
@@ -223,12 +260,12 @@ Venrayseweg,17,,,5861BB,Wanssum,Venray,Limburg,VBO,6.073064,51.533781
 Venrayseweg,19,A,,5861BB,Wanssum,Venray,Limburg,VBO,6.072689,51.533635
 Venrayseweg,19,,,5861BB,Wanssum,Venray,Limburg,VBO,6.072802,51.533661
 Venrayseweg,21,A,,5861BB,Wanssum,Venray,Limburg,VBO,6.072376,51.533274
-Venrayseweg,21,B,,5861BB,Wanssum,Venray,Limburg,VBO,6.072162,51.533372
+Venrayseweg,21,B,,5861BB,Wanssum,Venray,Limburg,VBO,6.072161,51.533372
 Venrayseweg,21,,,5861BB,Wanssum,Venray,Limburg,VBO,6.072388,51.533496
 Venrayseweg,23,,,5861BB,Wanssum,Venray,Limburg,VBO,6.071903,51.533293
 Venrayseweg,25,,,5861BB,Wanssum,Venray,Limburg,VBO,6.071749,51.533104
 Venrayseweg,27,A,,5861BB,Wanssum,Venray,Limburg,VBO,6.071348,51.532915
-Venrayseweg,27,,,5861BB,Wanssum,Venray,Limburg,VBO,6.071611,51.532874
+Venrayseweg,27,,,5861BB,Wanssum,Venray,Limburg,VBO,6.071537,51.533007
 Venrayseweg,29,,,5861BC,Wanssum,Venray,Limburg,VBO,6.070726,51.532647
 Venrayseweg,35,A,,5861BC,Wanssum,Venray,Limburg,VBO,6.064416,51.529134
 Venrayseweg,35,,,5861BC,Wanssum,Venray,Limburg,VBO,6.067101,51.531006
@@ -238,8 +275,7 @@ Venrayseweg,41,,,5861BC,Wanssum,Venray,Limburg,VBO,6.061710,51.528975
 Venrayseweg,43,,,5861BC,Wanssum,Venray,Limburg,VBO,6.060293,51.528925
 Venrayseweg,45,,,5861BC,Wanssum,Venray,Limburg,VBO,6.057937,51.528749
 Venrayseweg,2,A,,5861BD,Wanssum,Venray,Limburg,VBO,6.076903,51.535573
-Venrayseweg,2,,,5861BD,Wanssum,Venray,Limburg,VBO,6.078281,51.536202
-Venrayseweg,4,,,5861BD,Wanssum,Venray,Limburg,VBO,6.076530,51.535459
+Venrayseweg,4,,,5861BD,Wanssum,Venray,Limburg,VBO,6.076529,51.535459
 Venrayseweg,6,,,5861BD,Wanssum,Venray,Limburg,VBO,6.076180,51.535309
 Venrayseweg,8,,,5861BD,Wanssum,Venray,Limburg,VBO,6.075763,51.535118
 Venrayseweg,10,,,5861BD,Wanssum,Venray,Limburg,VBO,6.075386,51.534983
@@ -263,11 +299,11 @@ Venrayseweg,50,,,5861BE,Wanssum,Venray,Limburg,VBO,6.068800,51.532346
 Rozenstraat,2,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075345,51.535454
 Rozenstraat,3,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075332,51.535755
 Rozenstraat,4,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075455,51.535465
-Rozenstraat,5,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075515,51.535747
+Rozenstraat,5,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075443,51.535709
 Rozenstraat,6,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075567,51.535461
-Rozenstraat,7,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075793,51.535632
-Rozenstraat,8,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075810,51.535481
-Meester Ruttenstraat,2,,,5861BH,Wanssum,Venray,Limburg,VBO,6.076370,51.535654
+Rozenstraat,7,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075792,51.535632
+Rozenstraat,8,,,5861BG,Wanssum,Venray,Limburg,VBO,6.075809,51.535481
+Meester Ruttenstraat,2,,,5861BH,Wanssum,Venray,Limburg,VBO,6.076369,51.535654
 Meester Ruttenstraat,3,A,,5861BH,Wanssum,Venray,Limburg,VBO,6.076015,51.535637
 Meester Ruttenstraat,4,,,5861BH,Wanssum,Venray,Limburg,VBO,6.076354,51.535733
 Meester Ruttenstraat,5,,,5861BH,Wanssum,Venray,Limburg,VBO,6.075950,51.535770
@@ -276,7 +312,7 @@ Meester Ruttenstraat,7,,,5861BH,Wanssum,Venray,Limburg,VBO,6.075983,51.535883
 Meester Ruttenstraat,8,,,5861BH,Wanssum,Venray,Limburg,VBO,6.076348,51.535891
 Meester Ruttenstraat,10,,,5861BH,Wanssum,Venray,Limburg,VBO,6.076258,51.536019
 Pastoorstraat,2,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.076422,51.537207
-Pastoorstraat,3,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.076650,51.536976
+Pastoorstraat,3,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.076475,51.536850
 Pastoorstraat,4,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.076193,51.536996
 Pastoorstraat,5,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.076423,51.536686
 Pastoorstraat,6,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.075763,51.536568
@@ -285,22 +321,25 @@ Pastoorstraat,11,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.075597,51.536053
 Pastoorstraat,15,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.075392,51.536040
 Pastoorstraat,16,A,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074383,51.535278
 Pastoorstraat,16,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074541,51.535509
-Pastoorstraat,17,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.075064,51.535929
+Pastoorstraat,17,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.075168,51.536003
 Pastoorstraat,18,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074256,51.535102
-Pastoorstraat,19,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074956,51.535866
+Pastoorstraat,19,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074966,51.535826
 Pastoorstraat,20,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074238,51.534967
 Pastoorstraat,21,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074955,51.535749
 Pastoorstraat,22,A,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074107,51.534887
 Pastoorstraat,22,B,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074072,51.534833
 Pastoorstraat,22,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074112,51.534960
+Pastoorstraat,23,A,,5861BJ,Wanssum,Venray,Limburg,VBO,6.075042,51.535340
 Pastoorstraat,23,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.075042,51.535340
 Pastoorstraat,24,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.073898,51.534516
 Pastoorstraat,25,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074731,51.535096
 Pastoorstraat,27,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074584,51.534923
 Pastoorstraat,29,,,5861BJ,Wanssum,Venray,Limburg,VBO,6.074497,51.534708
-Geijsterseweg,1,,,5861BK,Wanssum,Venray,Limburg,VBO,6.077040,51.535781
+Geijsterseweg,1,A,,5861BK,Wanssum,Venray,Limburg,VBO,6.077102,51.535771
+Geijsterseweg,1,B,,5861BK,Wanssum,Venray,Limburg,VBO,6.076982,51.535755
+Geijsterseweg,1,,,5861BK,Wanssum,Venray,Limburg,VBO,6.077120,51.535794
 Geijsterseweg,3,A,,5861BK,Wanssum,Venray,Limburg,VBO,6.077093,51.535962
-Geijsterseweg,3,,,5861BK,Wanssum,Venray,Limburg,VBO,6.077059,51.535895
+Geijsterseweg,3,,,5861BK,Wanssum,Venray,Limburg,VBO,6.077208,51.535931
 Geijsterseweg,5,,,5861BK,Wanssum,Venray,Limburg,VBO,6.076887,51.536167
 Geijsterseweg,7,A,,5861BK,Wanssum,Venray,Limburg,VBO,6.076754,51.536719
 Geijsterseweg,7,B,,5861BK,Wanssum,Venray,Limburg,VBO,6.076754,51.536719
@@ -314,24 +353,26 @@ Geijsterseweg,7,K,,5861BK,Wanssum,Venray,Limburg,VBO,6.076754,51.536719
 Geijsterseweg,9,A,,5861BK,Wanssum,Venray,Limburg,VBO,6.076973,51.538048
 Geijsterseweg,9,,,5861BK,Wanssum,Venray,Limburg,VBO,6.076698,51.537082
 Geijsterseweg,11,A,,5861BK,Wanssum,Venray,Limburg,VBO,6.076859,51.539275
+Geijsterseweg,11,B,,5861BK,Wanssum,Venray,Limburg,VBO,6.076811,51.539379
 Geijsterseweg,11,,,5861BK,Wanssum,Venray,Limburg,VBO,6.077118,51.538216
 Geijsterseweg,13,,,5861BK,Wanssum,Venray,Limburg,VBO,6.076814,51.539667
-Geijsterseweg,15,A,,5861BK,Wanssum,Venray,Limburg,VBO,6.076353,51.540077
+Geijsterseweg,15,C,,5861BK,Wanssum,Venray,Limburg,VBO,6.074481,51.540250
 Geijsterseweg,15,,,5861BK,Wanssum,Venray,Limburg,VBO,6.076506,51.539944
-Geijsterseweg,19,A,,5861BK,Wanssum,Venray,Limburg,VBO,6.074385,51.543183
-Geijsterseweg,19,B,,5861BK,Wanssum,Venray,Limburg,VBO,6.073184,51.544635
-Geijsterseweg,19,,,5861BK,Wanssum,Venray,Limburg,VBO,6.074424,51.543090
+Geijsterseweg,17,,,5861BK,Wanssum,Venray,Limburg,VBO,6.071803,51.540425
 Geijsterseweg,21,,,5861BK,Wanssum,Venray,Limburg,VBO,6.070099,51.547329
 Geijsterseweg,2,,,5861BL,Wanssum,Venray,Limburg,VBO,6.077653,51.536041
-Geijsterseweg,4,A,,5861BL,Wanssum,Venray,Limburg,VBO,6.077534,51.536242
+Geijsterseweg,4,A,,5861BL,Wanssum,Venray,Limburg,VBO,6.077533,51.536242
 Geijsterseweg,4,,,5861BL,Wanssum,Venray,Limburg,VBO,6.077492,51.536165
+Geijsterseweg,8,C,,5861BL,Wanssum,Venray,Limburg,VBO,6.077697,51.537931
 Geijsterseweg,8,,,5861BL,Wanssum,Venray,Limburg,VBO,6.077697,51.537931
 Geijsterseweg,10,,,5861BL,Wanssum,Venray,Limburg,VBO,6.077824,51.538089
-Geijsterseweg,12,A,,5861BL,Wanssum,Venray,Limburg,VBO,6.076841,51.540936
+Geijsterseweg,12,A,,5861BL,Wanssum,Venray,Limburg,VBO,6.076848,51.540936
 Geijsterseweg,12,B,,5861BL,Wanssum,Venray,Limburg,VBO,6.077917,51.539484
 Geijsterseweg,12,,,5861BL,Wanssum,Venray,Limburg,VBO,6.077961,51.538672
+Geijsterseweg,14,,,5861BL,Wanssum,Venray,Limburg,VBO,6.069168,51.542332
+Geijsterseweg,16,,,5861BL,Wanssum,Venray,Limburg,VBO,6.069034,51.544990
 Geijsterseweg,18,A,,5861BL,Wanssum,Venray,Limburg,VBO,6.072627,51.545865
-Geijsterseweg,18,,,5861BL,Wanssum,Venray,Limburg,VBO,6.074468,51.544178
+Geijsterseweg,18,,,5861BL,Wanssum,Venray,Limburg,VBO,6.072747,51.545321
 Geijsterseweg,20,A,,5861BL,Wanssum,Venray,Limburg,VBO,6.072841,51.546190
 Geijsterseweg,20,,,5861BL,Wanssum,Venray,Limburg,VBO,6.072449,51.546025
 Geijsterseweg,22,,,5861BL,Wanssum,Venray,Limburg,VBO,6.071186,51.547120
@@ -344,22 +385,20 @@ Oude Kerkstraat,7,,,5861BM,Wanssum,Venray,Limburg,VBO,6.075691,51.537413
 Oude Kerkstraat,9,,,5861BM,Wanssum,Venray,Limburg,VBO,6.075509,51.537409
 St Leonardsweg,1,,,5861BN,Wanssum,Venray,Limburg,VBO,6.074857,51.536614
 St Leonardsweg,3,,,5861BN,Wanssum,Venray,Limburg,VBO,6.074997,51.537048
-St Leonardsweg,5,A,,5861BN,Wanssum,Venray,Limburg,VBO,6.075118,51.537313
+St Leonardsweg,5,A,,5861BN,Wanssum,Venray,Limburg,VBO,6.075117,51.537313
 St Leonardsweg,5,,,5861BN,Wanssum,Venray,Limburg,VBO,6.075131,51.537206
 St Leonardsweg,7,,,5861BN,Wanssum,Venray,Limburg,VBO,6.075116,51.537384
 St Leonardsweg,15,,,5861BN,Wanssum,Venray,Limburg,VBO,6.075214,51.537828
 St Leonardsweg,19,,,5861BN,Wanssum,Venray,Limburg,VBO,6.075362,51.538707
 St Leonardsweg,25,,,5861BP,Wanssum,Venray,Limburg,VBO,6.074770,51.539896
-St Leonardsweg,27,,,5861BP,Wanssum,Venray,Limburg,VBO,6.074965,51.540384
 St Leonardsweg,2,A,,5861BR,Wanssum,Venray,Limburg,VBO,6.075612,51.536640
 St Leonardsweg,2,,,5861BR,Wanssum,Venray,Limburg,VBO,6.075547,51.537080
 St Leonardsweg,6,,,5861BR,Wanssum,Venray,Limburg,VBO,6.075507,51.537300
-St Leonardsweg,10,,,5861BR,Wanssum,Venray,Limburg,VBO,6.075743,51.537703
+St Leonardsweg,10,,,5861BR,Wanssum,Venray,Limburg,VBO,6.075628,51.537601
 St Leonardsweg,12,A,,5861BR,Wanssum,Venray,Limburg,VBO,6.076067,51.538110
 St Leonardsweg,12,,,5861BR,Wanssum,Venray,Limburg,VBO,6.076019,51.538053
 St Leonardsweg,14,,,5861BR,Wanssum,Venray,Limburg,VBO,6.075523,51.539536
-St Leonardsweg,18,,,5861BR,Wanssum,Venray,Limburg,VBO,6.075805,51.540649
-Tiendstraat,1,,,5861BS,Wanssum,Venray,Limburg,VBO,6.074715,51.537450
+Tiendstraat,1,,,5861BS,Wanssum,Venray,Limburg,VBO,6.074734,51.537449
 Tiendstraat,3,,,5861BS,Wanssum,Venray,Limburg,VBO,6.074300,51.537407
 Tiendstraat,5,,,5861BS,Wanssum,Venray,Limburg,VBO,6.074092,51.537382
 Tiendstraat,9,,,5861BS,Wanssum,Venray,Limburg,VBO,6.073947,51.537260
@@ -367,7 +406,7 @@ Tiendstraat,11,,,5861BS,Wanssum,Venray,Limburg,VBO,6.073803,51.537338
 Tiendstraat,13,,,5861BS,Wanssum,Venray,Limburg,VBO,6.073627,51.537308
 Tiendstraat,15,,,5861BS,Wanssum,Venray,Limburg,VBO,6.073503,51.537323
 Tiendstraat,17,,,5861BS,Wanssum,Venray,Limburg,VBO,6.073430,51.537296
-Tiendstraat,19,,,5861BS,Wanssum,Venray,Limburg,VBO,6.073315,51.537269
+Tiendstraat,19,,,5861BS,Wanssum,Venray,Limburg,VBO,6.073317,51.537315
 Tiendstraat,21,,,5861BS,Wanssum,Venray,Limburg,VBO,6.072542,51.537231
 Tiendstraat,23,,,5861BS,Wanssum,Venray,Limburg,VBO,6.072443,51.537220
 Tiendstraat,25,,,5861BS,Wanssum,Venray,Limburg,VBO,6.072338,51.537207
@@ -379,12 +418,12 @@ Tiendstraat,6,,,5861BT,Wanssum,Venray,Limburg,VBO,6.074623,51.537667
 Tiendstraat,8,,,5861BT,Wanssum,Venray,Limburg,VBO,6.074192,51.537652
 Tiendstraat,10,,,5861BT,Wanssum,Venray,Limburg,VBO,6.073949,51.537620
 Tiendstraat,12,,,5861BT,Wanssum,Venray,Limburg,VBO,6.073844,51.537614
-Tiendstraat,14,,,5861BT,Wanssum,Venray,Limburg,VBO,6.073661,51.537604
+Tiendstraat,14,,,5861BT,Wanssum,Venray,Limburg,VBO,6.073660,51.537604
 Tiendstraat,16,,,5861BT,Wanssum,Venray,Limburg,VBO,6.073549,51.537597
 Tiendstraat,18,,,5861BT,Wanssum,Venray,Limburg,VBO,6.073376,51.537586
 Tiendstraat,20,,,5861BT,Wanssum,Venray,Limburg,VBO,6.073262,51.537579
 Tiendstraat,22,,,5861BT,Wanssum,Venray,Limburg,VBO,6.073090,51.537583
-Tiendstraat,24,,,5861BT,Wanssum,Venray,Limburg,VBO,6.072980,51.537563
+Tiendstraat,24,,,5861BT,Wanssum,Venray,Limburg,VBO,6.072979,51.537563
 Tiendstraat,26,,,5861BT,Wanssum,Venray,Limburg,VBO,6.072797,51.537554
 Tiendstraat,28,,,5861BT,Wanssum,Venray,Limburg,VBO,6.072694,51.537547
 Tiendstraat,30,,,5861BT,Wanssum,Venray,Limburg,VBO,6.072520,51.537509
@@ -411,19 +450,20 @@ St Michaëlstraat,19,,,5861BV,Wanssum,Venray,Limburg,VBO,6.073474,51.536553
 St Michaëlstraat,20,,,5861BV,Wanssum,Venray,Limburg,VBO,6.073582,51.536886
 St Michaëlstraat,22,,,5861BV,Wanssum,Venray,Limburg,VBO,6.073486,51.536849
 St Michaëlstraat,24,,,5861BV,Wanssum,Venray,Limburg,VBO,6.073367,51.536856
-De Houskuilstraat,1,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072991,51.534976
+De Houskuilstraat,1,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072990,51.534976
 De Houskuilstraat,3,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072953,51.535061
 De Houskuilstraat,5,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072918,51.535145
 De Houskuilstraat,7,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072888,51.535229
+De Houskuilstraat,9,A,,5861BW,Wanssum,Venray,Limburg,VBO,6.072861,51.535338
 De Houskuilstraat,9,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072874,51.535315
-De Houskuilstraat,11,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072873,51.535402
+De Houskuilstraat,11,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072872,51.535402
 De Houskuilstraat,15,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072788,51.536145
 De Houskuilstraat,17,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072690,51.536242
 De Houskuilstraat,19,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072682,51.536331
 De Houskuilstraat,21,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072701,51.536391
 De Houskuilstraat,23,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072717,51.536504
 De Houskuilstraat,25,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072714,51.536617
-De Houskuilstraat,27,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072698,51.536674
+De Houskuilstraat,27,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072697,51.536674
 De Houskuilstraat,29,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072662,51.536729
 De Houskuilstraat,31,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072646,51.536786
 De Houskuilstraat,33,,,5861BW,Wanssum,Venray,Limburg,VBO,6.072635,51.536889
@@ -453,13 +493,13 @@ De Houskuilstraat,40,,,5861BX,Wanssum,Venray,Limburg,VBO,6.073022,51.537268
 Kuiperhof,1,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.074194,51.535665
 Kuiperhof,3,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.074225,51.535576
 Kuiperhof,5,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.074191,51.535466
-Kuiperhof,7,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.074025,51.535271
-Kuiperhof,9,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.073903,51.535342
-Kuiperhof,11,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.073754,51.535337
+Kuiperhof,7,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.074024,51.535271
+Kuiperhof,9,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.073902,51.535342
+Kuiperhof,11,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.073753,51.535337
 Kuiperhof,13,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.073606,51.535332
-Kuiperhof,14,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.073454,51.535503
-Kapelstraat,1,,,5861CA,Wanssum,Venray,Limburg,VBO,6.073549,51.534704
-Kapelstraat,3,,,5861CA,Wanssum,Venray,Limburg,VBO,6.073422,51.534645
+Kuiperhof,14,,,5861BZ,Wanssum,Venray,Limburg,VBO,6.073453,51.535503
+Kapelstraat,1,,,5861CA,Wanssum,Venray,Limburg,VBO,6.073548,51.534704
+Kapelstraat,3,,,5861CA,Wanssum,Venray,Limburg,VBO,6.073421,51.534645
 Kapelstraat,5,,,5861CA,Wanssum,Venray,Limburg,VBO,6.073311,51.534614
 Kapelstraat,7,,,5861CA,Wanssum,Venray,Limburg,VBO,6.073179,51.534554
 Kapelstraat,9,,,5861CA,Wanssum,Venray,Limburg,VBO,6.073085,51.534528
@@ -476,13 +516,13 @@ Kapelstraat,29,,,5861CA,Wanssum,Venray,Limburg,VBO,6.071695,51.534253
 Kapelstraat,31,,,5861CA,Wanssum,Venray,Limburg,VBO,6.071553,51.534252
 Kapelstraat,33,,,5861CA,Wanssum,Venray,Limburg,VBO,6.071416,51.534240
 Kapelstraat,35,,,5861CA,Wanssum,Venray,Limburg,VBO,6.071294,51.534209
-Kapelstraat,2,,,5861CB,Wanssum,Venray,Limburg,VBO,6.073057,51.534826
+Kapelstraat,2,,,5861CB,Wanssum,Venray,Limburg,VBO,6.073056,51.534826
 Kapelstraat,4,,,5861CB,Wanssum,Venray,Limburg,VBO,6.072919,51.534777
 Kapelstraat,6,,,5861CB,Wanssum,Venray,Limburg,VBO,6.072804,51.534747
 Kapelstraat,8,,,5861CB,Wanssum,Venray,Limburg,VBO,6.072677,51.534683
 Kapelstraat,10,,,5861CB,Wanssum,Venray,Limburg,VBO,6.072547,51.534654
 Kapelstraat,12,,,5861CB,Wanssum,Venray,Limburg,VBO,6.072088,51.534555
-Kapelstraat,14,,,5861CB,Wanssum,Venray,Limburg,VBO,6.071792,51.534536
+Kapelstraat,14,,,5861CB,Wanssum,Venray,Limburg,VBO,6.071791,51.534536
 Kapelstraat,16,,,5861CB,Wanssum,Venray,Limburg,VBO,6.071656,51.534528
 Kapelstraat,18,,,5861CB,Wanssum,Venray,Limburg,VBO,6.071567,51.534508
 Kapelstraat,20,,,5861CB,Wanssum,Venray,Limburg,VBO,6.071450,51.534515
@@ -497,20 +537,20 @@ Gouverneur Houbenstraat,3,,,5861CC,Wanssum,Venray,Limburg,VBO,6.072031,51.534696
 Gouverneur Houbenstraat,5,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071964,51.534777
 Gouverneur Houbenstraat,7,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071949,51.534864
 Gouverneur Houbenstraat,9,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071903,51.535202
-Gouverneur Houbenstraat,11,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071853,51.535257
-Gouverneur Houbenstraat,13,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071732,51.535448
+Gouverneur Houbenstraat,11,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071895,51.535260
+Gouverneur Houbenstraat,13,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071732,51.535423
 Gouverneur Houbenstraat,15,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071472,51.536380
 Gouverneur Houbenstraat,17,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071464,51.536436
 Gouverneur Houbenstraat,19,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071438,51.536489
 Gouverneur Houbenstraat,21,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071420,51.536544
-Gouverneur Houbenstraat,23,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071427,51.536602
+Gouverneur Houbenstraat,23,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071426,51.536602
 Gouverneur Houbenstraat,25,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071410,51.536656
 Gouverneur Houbenstraat,27,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071363,51.536765
 Gouverneur Houbenstraat,29,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071350,51.536847
-Gouverneur Houbenstraat,47,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071226,51.537379
+Gouverneur Houbenstraat,47,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071225,51.537379
 Gouverneur Houbenstraat,49,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071167,51.537538
 Gouverneur Houbenstraat,51,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071130,51.537690
-Gouverneur Houbenstraat,53,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071066,51.537842
+Gouverneur Houbenstraat,53,,,5861CC,Wanssum,Venray,Limburg,VBO,6.071065,51.537842
 Gouverneur Houbenstraat,55,,,5861CC,Wanssum,Venray,Limburg,VBO,6.070356,51.538406
 Gouverneur Houbenstraat,57,,,5861CC,Wanssum,Venray,Limburg,VBO,6.070468,51.538798
 Gouverneur Houbenstraat,2,,,5861CD,Wanssum,Venray,Limburg,VBO,6.072487,51.534837
@@ -536,12 +576,12 @@ Gouverneur Houbenstraat,40,,,5861CD,Wanssum,Venray,Limburg,VBO,6.072010,51.53689
 Gouverneur Houbenstraat,42,,,5861CD,Wanssum,Venray,Limburg,VBO,6.071904,51.536998
 Gouverneur Houbenstraat,44,,,5861CD,Wanssum,Venray,Limburg,VBO,6.071793,51.537090
 Gouverneur Houbenstraat,46,,,5861CD,Wanssum,Venray,Limburg,VBO,6.071774,51.537149
-Gouverneur Houbenstraat,48,,,5861CD,Wanssum,Venray,Limburg,VBO,6.071727,51.537401
+Gouverneur Houbenstraat,48,,,5861CD,Wanssum,Venray,Limburg,VBO,6.071681,51.537388
 Gouverneur Houbenstraat,50,,,5861CD,Wanssum,Venray,Limburg,VBO,6.071626,51.537764
 Ien de nej erf,1,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071791,51.534884
 Ien de nej erf,3,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071695,51.534885
 Ien de nej erf,5,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071566,51.534853
-Ien de nej erf,7,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071425,51.534844
+Ien de nej erf,7,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071424,51.534844
 Ien de nej erf,9,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071307,51.534834
 Ien de nej erf,11,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071218,51.534811
 Ien de nej erf,13,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071123,51.534819
@@ -549,7 +589,7 @@ Ien de nej erf,15,,,5861CE,Wanssum,Venray,Limburg,VBO,6.071034,51.534812
 Ien de nej erf,17,,,5861CE,Wanssum,Venray,Limburg,VBO,6.070941,51.534804
 Ien de nej erf,19,,,5861CE,Wanssum,Venray,Limburg,VBO,6.070763,51.534789
 Ien de nej erf,21,,,5861CE,Wanssum,Venray,Limburg,VBO,6.070648,51.534780
-Ien de nej erf,23,,,5861CE,Wanssum,Venray,Limburg,VBO,6.070556,51.534772
+Ien de nej erf,23,,,5861CE,Wanssum,Venray,Limburg,VBO,6.070555,51.534772
 Ien de nej erf,25,,,5861CE,Wanssum,Venray,Limburg,VBO,6.070463,51.534764
 Ien de nej erf,2,,,5861CG,Wanssum,Venray,Limburg,VBO,6.071893,51.535143
 Ien de nej erf,4,,,5861CG,Wanssum,Venray,Limburg,VBO,6.071631,51.535155
@@ -558,7 +598,7 @@ Ien de nej erf,8,,,5861CG,Wanssum,Venray,Limburg,VBO,6.071352,51.535150
 Ien de nej erf,10,,,5861CG,Wanssum,Venray,Limburg,VBO,6.071244,51.535137
 Ien de nej erf,12,,,5861CG,Wanssum,Venray,Limburg,VBO,6.071154,51.535130
 Ien de nej erf,14,,,5861CG,Wanssum,Venray,Limburg,VBO,6.071061,51.535110
-Ien de nej erf,16,,,5861CG,Wanssum,Venray,Limburg,VBO,6.070861,51.535094
+Ien de nej erf,16,,,5861CG,Wanssum,Venray,Limburg,VBO,6.070860,51.535094
 Ien de nej erf,18,,,5861CG,Wanssum,Venray,Limburg,VBO,6.070768,51.535086
 Ien de nej erf,20,,,5861CG,Wanssum,Venray,Limburg,VBO,6.070675,51.535090
 Ien de nej erf,22,,,5861CG,Wanssum,Venray,Limburg,VBO,6.070585,51.535072
@@ -577,7 +617,7 @@ Agter de hoven,11,,,5861CH,Wanssum,Venray,Limburg,VBO,6.069615,51.534956
 Agter de hoven,13,,,5861CH,Wanssum,Venray,Limburg,VBO,6.069993,51.534768
 Agter de hoven,15,,,5861CH,Wanssum,Venray,Limburg,VBO,6.070053,51.534713
 Agter de hoven,17,,,5861CH,Wanssum,Venray,Limburg,VBO,6.070184,51.534622
-Agter de hoven,19,,,5861CH,Wanssum,Venray,Limburg,VBO,6.070291,51.534556
+Agter de hoven,19,,,5861CH,Wanssum,Venray,Limburg,VBO,6.070290,51.534556
 Agter de hoven,21,,,5861CH,Wanssum,Venray,Limburg,VBO,6.070429,51.534466
 Agter de hoven,23,,,5861CH,Wanssum,Venray,Limburg,VBO,6.070459,51.534378
 Agter de hoven,25,,,5861CH,Wanssum,Venray,Limburg,VBO,6.070944,51.534233
@@ -588,51 +628,51 @@ Agter de hoven,33,,,5861CH,Wanssum,Venray,Limburg,VBO,6.071036,51.533900
 Agter de hoven,35,,,5861CH,Wanssum,Venray,Limburg,VBO,6.071046,51.533815
 Agter de hoven,37,,,5861CH,Wanssum,Venray,Limburg,VBO,6.071057,51.533732
 Agter de hoven,39,,,5861CH,Wanssum,Venray,Limburg,VBO,6.071141,51.533637
-Agter de hoven,2,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069097,51.534765
+Agter de hoven,2,A,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069088,51.534958
+Agter de hoven,2,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069114,51.534773
 Agter de hoven,4,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069227,51.534695
 Agter de hoven,6,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069362,51.534592
 Agter de hoven,8,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069540,51.534470
-Agter de hoven,10,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069685,51.534376
+Agter de hoven,10,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069684,51.534376
 Agter de hoven,12,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069834,51.534274
 Agter de hoven,14,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.069980,51.534158
 Agter de hoven,16,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070116,51.534066
 Agter de hoven,18,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070275,51.533982
-Agter de hoven,20,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070423,51.533766
-Agter de hoven,22,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070602,51.533776
-Agter de hoven,24,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070631,51.533605
+Agter de hoven,20,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070451,51.533892
+Agter de hoven,22,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070601,51.533776
+Agter de hoven,24,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070630,51.533605
 Agter de hoven,26,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070626,51.533403
-Agter de hoven,28,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070732,51.533308
+Agter de hoven,28,,,5861CJ,Wanssum,Venray,Limburg,VBO,6.070731,51.533308
 De Cuyperstraat,1,,,5861CK,Wanssum,Venray,Limburg,VBO,6.074602,51.535751
 De Cuyperstraat,3,,,5861CK,Wanssum,Venray,Limburg,VBO,6.074395,51.535834
 De Cuyperstraat,5,,,5861CK,Wanssum,Venray,Limburg,VBO,6.074252,51.535820
 De Cuyperstraat,7,,,5861CK,Wanssum,Venray,Limburg,VBO,6.074115,51.535795
 De Cuyperstraat,9,,,5861CK,Wanssum,Venray,Limburg,VBO,6.073848,51.535676
-De Cuyperstraat,11,,,5861CK,Wanssum,Venray,Limburg,VBO,6.073700,51.535743
+De Cuyperstraat,11,,,5861CK,Wanssum,Venray,Limburg,VBO,6.073700,51.535744
 De Cuyperstraat,13,,,5861CK,Wanssum,Venray,Limburg,VBO,6.073448,51.535663
 De Cuyperstraat,15,,,5861CK,Wanssum,Venray,Limburg,VBO,6.073280,51.535680
 De Cuyperstraat,17,,,5861CK,Wanssum,Venray,Limburg,VBO,6.072799,51.535575
 De Cuyperstraat,19,,,5861CK,Wanssum,Venray,Limburg,VBO,6.072616,51.535648
 De Cuyperstraat,21,,,5861CL,Wanssum,Venray,Limburg,VBO,6.071378,51.535473
 De Cuyperstraat,23,,,5861CL,Wanssum,Venray,Limburg,VBO,6.071248,51.535479
-De Cuyperstraat,25,,,5861CL,Wanssum,Venray,Limburg,VBO,6.071114,51.535471
+De Cuyperstraat,25,,,5861CL,Wanssum,Venray,Limburg,VBO,6.071113,51.535471
 De Cuyperstraat,27,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070987,51.535474
 De Cuyperstraat,29,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070843,51.535442
 De Cuyperstraat,31,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070713,51.535439
 De Cuyperstraat,33,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070579,51.535406
-De Cuyperstraat,35,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070448,51.535244
-De Cuyperstraat,37,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070314,51.535236
+De Cuyperstraat,35,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070454,51.535431
+De Cuyperstraat,37,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070265,51.535415
 De Cuyperstraat,39,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070184,51.535372
 De Cuyperstraat,41,,,5861CL,Wanssum,Venray,Limburg,VBO,6.070040,51.535363
 De Cuyperstraat,43,,,5861CL,Wanssum,Venray,Limburg,VBO,6.069912,51.535369
 De Cuyperstraat,45,,,5861CL,Wanssum,Venray,Limburg,VBO,6.069774,51.535337
 De Cuyperstraat,47,,,5861CL,Wanssum,Venray,Limburg,VBO,6.069609,51.535295
-De Cuyperstraat,51,A,,5861CL,Wanssum,Venray,Limburg,VBO,6.068953,51.534911
 De Cuyperstraat,51,,,5861CL,Wanssum,Venray,Limburg,VBO,6.068759,51.535043
 De Cuyperstraat,53,,,5861CL,Wanssum,Venray,Limburg,VBO,6.068603,51.534935
 De Cuyperstraat,55,,,5861CL,Wanssum,Venray,Limburg,VBO,6.068514,51.534912
 De Cuyperstraat,57,,,5861CL,Wanssum,Venray,Limburg,VBO,6.068389,51.534834
 De Cuyperstraat,2,,,5861CM,Wanssum,Venray,Limburg,VBO,6.074673,51.536237
-De Cuyperstraat,4,,,5861CM,Wanssum,Venray,Limburg,VBO,6.074385,51.536082
+De Cuyperstraat,4,,,5861CM,Wanssum,Venray,Limburg,VBO,6.074384,51.536082
 De Cuyperstraat,6,,,5861CM,Wanssum,Venray,Limburg,VBO,6.074054,51.536168
 De Cuyperstraat,8,,,5861CM,Wanssum,Venray,Limburg,VBO,6.073793,51.536048
 De Cuyperstraat,10,,,5861CM,Wanssum,Venray,Limburg,VBO,6.073603,51.536028
@@ -652,7 +692,7 @@ De Cuyperstraat,36,,,5861CM,Wanssum,Venray,Limburg,VBO,6.070484,51.535737
 De Cuyperstraat,38,,,5861CM,Wanssum,Venray,Limburg,VBO,6.070404,51.535722
 De Cuyperstraat,40,,,5861CM,Wanssum,Venray,Limburg,VBO,6.070254,51.535736
 de Blauwe Steen,1,,,5861CN,Wanssum,Venray,Limburg,VBO,6.060980,51.537794
-de Blauwe Steen,2,,,5861CN,Wanssum,Venray,Limburg,VBO,6.061309,51.538548
+de Blauwe Steen,2,,,5861CN,Wanssum,Venray,Limburg,VBO,6.061308,51.538548
 Meerlosebaan,1,,,5861CP,Wanssum,Venray,Limburg,VBO,6.070174,51.533141
 Meerlosebaan,2,,,5861CP,Wanssum,Venray,Limburg,VBO,6.070169,51.533590
 Meerlosebaan,3,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069930,51.533279
@@ -661,11 +701,11 @@ Meerlosebaan,5,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069636,51.533149
 Meerlosebaan,6,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069981,51.533715
 Meerlosebaan,7,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069419,51.533049
 Meerlosebaan,8,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069918,51.533773
-Meerlosebaan,9,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069127,51.532956
+Meerlosebaan,9,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069126,51.532956
 Meerlosebaan,10,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069796,51.533841
 Meerlosebaan,11,,,5861CP,Wanssum,Venray,Limburg,VBO,6.068925,51.533109
-Meerlosebaan,12,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069732,51.533883
-Meerlosebaan,13,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069030,51.533266
+Meerlosebaan,12,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069731,51.533883
+Meerlosebaan,13,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069029,51.533266
 Meerlosebaan,14,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069648,51.533989
 Meerlosebaan,15,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069228,51.533365
 Meerlosebaan,16,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069598,51.534060
@@ -673,7 +713,7 @@ Meerlosebaan,17,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069578,51.533477
 Meerlosebaan,18,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069459,51.534115
 Meerlosebaan,19,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069416,51.533600
 Meerlosebaan,20,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069412,51.534187
-Meerlosebaan,21,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069163,51.533728
+Meerlosebaan,21,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069279,51.533721
 Meerlosebaan,22,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069272,51.534240
 Meerlosebaan,23,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069048,51.533834
 Meerlosebaan,24,,,5861CP,Wanssum,Venray,Limburg,VBO,6.069193,51.534274
@@ -693,9 +733,9 @@ Meerlosebaan,37,,,5861CP,Wanssum,Venray,Limburg,VBO,6.068568,51.534103
 Meerlosebaan,38,,,5861CP,Wanssum,Venray,Limburg,VBO,6.068300,51.534805
 Meerlosebaan,39,,,5861CP,Wanssum,Venray,Limburg,VBO,6.068303,51.534335
 Meerlosebaan,41,A,,5861CP,Wanssum,Venray,Limburg,VBO,6.067719,51.534577
-Meerlosebaan,41,C,,5861CP,Wanssum,Venray,Limburg,VBO,6.066056,51.535038
 Meerlosebaan,41,,,5861CP,Wanssum,Venray,Limburg,VBO,6.067939,51.534530
-Meerlosebaan,43,,,5861CP,Wanssum,Venray,Limburg,VBO,6.066092,51.535775
+Meerlosebaan,43,,,5861CP,Wanssum,Venray,Limburg,VBO,6.066091,51.535775
+Meerlosebaan,44,,,5861CP,Wanssum,Venray,Limburg,VBO,6.066949,51.535667
 Meerlosebaan,50,,,5861CP,Wanssum,Venray,Limburg,VBO,6.065502,51.536641
 Beemdweg,1,A,,5861CR,Wanssum,Venray,Limburg,VBO,6.072736,51.532963
 Beemdweg,1,,,5861CR,Wanssum,Venray,Limburg,VBO,6.072234,51.533033
@@ -706,9 +746,9 @@ Beemdweg,7,,,5861CR,Wanssum,Venray,Limburg,VBO,6.073234,51.532352
 Beemdweg,8,,,5861CR,Wanssum,Venray,Limburg,VBO,6.073377,51.532217
 Beemdweg,9,A,,5861CR,Wanssum,Venray,Limburg,VBO,6.073515,51.531904
 Beemdweg,9,,,5861CR,Wanssum,Venray,Limburg,VBO,6.073486,51.532077
-Beemdweg,10,A,,5861CR,Wanssum,Venray,Limburg,VBO,6.073892,51.531666
+Beemdweg,10,A,,5861CR,Wanssum,Venray,Limburg,VBO,6.073878,51.531646
 Beemdweg,10,,,5861CR,Wanssum,Venray,Limburg,VBO,6.073806,51.531774
-Beemdweg,11,,,5861CR,Wanssum,Venray,Limburg,VBO,6.074984,51.531738
+Beemdweg,11,,,5861CR,Wanssum,Venray,Limburg,VBO,6.074983,51.531738
 Beemdweg,12,,,5861CR,Wanssum,Venray,Limburg,VBO,6.073549,51.531544
 Beemdweg,13,,,5861CR,Wanssum,Venray,Limburg,VBO,6.073908,51.531243
 Beemdweg,14,,,5861CR,Wanssum,Venray,Limburg,VBO,6.073317,51.531422
@@ -727,7 +767,7 @@ Postbaan,13,,,5861CS,Wanssum,Venray,Limburg,VBO,6.071955,51.531826
 Postbaan,15,,,5861CS,Wanssum,Venray,Limburg,VBO,6.072090,51.531697
 Postbaan,17,,,5861CS,Wanssum,Venray,Limburg,VBO,6.072195,51.531559
 Postbaan,19,,,5861CS,Wanssum,Venray,Limburg,VBO,6.072346,51.531456
-Postbaan,21,,,5861CS,Wanssum,Venray,Limburg,VBO,6.072452,51.531319
+Postbaan,21,,,5861CS,Wanssum,Venray,Limburg,VBO,6.072451,51.531319
 Postbaan,23,,,5861CS,Wanssum,Venray,Limburg,VBO,6.072584,51.531114
 Postbaan,2,A,,5861CT,Wanssum,Venray,Limburg,VBO,6.070996,51.532387
 Postbaan,2,B,,5861CT,Wanssum,Venray,Limburg,VBO,6.070325,51.531739
@@ -741,16 +781,15 @@ Postbaan,12,,,5861CT,Wanssum,Venray,Limburg,VBO,6.071729,51.531477
 Postbaan,14,A,,5861CT,Wanssum,Venray,Limburg,VBO,6.071669,51.531374
 Postbaan,14,,,5861CT,Wanssum,Venray,Limburg,VBO,6.071870,51.531480
 Postbaan,16,,,5861CT,Wanssum,Venray,Limburg,VBO,6.071883,51.531246
-Postbaan,18,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072058,51.531259
+Postbaan,18,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072057,51.531259
 Postbaan,20,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072047,51.531142
 Postbaan,22,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072150,51.531065
 Postbaan,24,A,,5861CT,Wanssum,Venray,Limburg,VBO,6.072385,51.530904
 Postbaan,24,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072315,51.530993
 Postbaan,26,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072664,51.530644
 Postbaan,28,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072815,51.530489
-Postbaan,30,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072981,51.530305
-Vosseven,2,,,5861CV,Wanssum,Venray,Limburg,VBO,6.071178,51.529352
-Vosseven,2,,,5861CV,Wanssum,Venray,Limburg,VBO,6.071381,51.529688
+Postbaan,30,,,5861CT,Wanssum,Venray,Limburg,VBO,6.072980,51.530305
+Vosseven,2,,,5861CV,Wanssum,Venray,Limburg,VBO,6.071081,51.529231
 Vosseven,5,A,,5861CV,Wanssum,Venray,Limburg,VBO,6.068193,51.527550
 Vosseven,5,,,5861CV,Wanssum,Venray,Limburg,VBO,6.067655,51.527564
 Vosseven,6,,,5861CV,Wanssum,Venray,Limburg,VBO,6.066272,51.527657
@@ -761,27 +800,35 @@ het Zandt,9,,,5861CW,Wanssum,Venray,Limburg,VBO,6.074092,51.538590
 het Zandt,11,,,5861CW,Wanssum,Venray,Limburg,VBO,6.073962,51.538609
 Sportlaan,2,,,5861CX,Wanssum,Venray,Limburg,VBO,6.075357,51.533670
 Sportlaan,4,,,5861CX,Wanssum,Venray,Limburg,VBO,6.076511,51.531450
-Gagel,1,,,5861CZ,Wanssum,Venray,Limburg,VBO,6.074587,51.530818
+Gagel,1,,,5861CZ,Wanssum,Venray,Limburg,VBO,6.074762,51.530866
+Gagel,1,,,5861CZ,Wanssum,Venray,Limburg,VBO,6.074782,51.530829
 Gagel,2,,,5861CZ,Wanssum,Venray,Limburg,VBO,6.076515,51.531434
 Gagel,6,,,5861CZ,Wanssum,Venray,Limburg,VBO,6.076699,51.530524
 Gagel,12,,,5861CZ,Wanssum,Venray,Limburg,VBO,6.074416,51.530255
+Gagel,14,,,5861CZ,Wanssum,Venray,Limburg,VBO,6.075006,51.530329
 Lange Ven,5,,,5861DA,Wanssum,Venray,Limburg,VBO,6.059404,51.531781
 Weidehof,1,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072705,51.532454
 Weidehof,2,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072632,51.532427
 Weidehof,3,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072473,51.532384
 Weidehof,4,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072404,51.532352
 Weidehof,5,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072187,51.532327
-Weidehof,6,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072277,51.532192
+Weidehof,6,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072276,51.532192
 Weidehof,7,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072469,51.532099
 Weidehof,8,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072537,51.531983
 Weidehof,9,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072576,51.531935
 Weidehof,10,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072676,51.531827
 Weidehof,11,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072724,51.531782
+Weidehof,12,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072863,51.531675
+Weidehof,13,,,5861DB,Wanssum,Venray,Limburg,VBO,6.073157,51.531673
+Weidehof,14,,,5861DB,Wanssum,Venray,Limburg,VBO,6.073158,51.531795
+Weidehof,15,,,5861DB,Wanssum,Venray,Limburg,VBO,6.073030,51.531918
+Weidehof,16,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072865,51.532010
+Weidehof,20,,,5861DB,Wanssum,Venray,Limburg,VBO,6.072740,51.532247
 De Schoevert,1,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069837,51.535668
 De Schoevert,3,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069796,51.535742
 De Schoevert,5,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069779,51.535818
 De Schoevert,7,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069789,51.535893
-De Schoevert,9,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069758,51.535977
+De Schoevert,9,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069757,51.535977
 De Schoevert,11,A,,5861DC,Wanssum,Venray,Limburg,VBO,6.069759,51.536351
 De Schoevert,11,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069652,51.536092
 De Schoevert,13,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069900,51.536344
@@ -793,12 +840,12 @@ De Schoevert,23,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070327,51.536571
 De Schoevert,25,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070311,51.536635
 De Schoevert,27,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070275,51.536725
 De Schoevert,29,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070278,51.536793
-De Schoevert,31,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070261,51.536898
+De Schoevert,31,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070260,51.536898
 De Schoevert,33,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070235,51.536958
 De Schoevert,35,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070167,51.537030
 De Schoevert,37,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070197,51.537262
 De Schoevert,39,,,5861DC,Wanssum,Venray,Limburg,VBO,6.070139,51.537399
-De Schoevert,41,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069989,51.537680
+De Schoevert,41,,,5861DC,Wanssum,Venray,Limburg,VBO,6.069988,51.537680
 De Schoevert,2,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070189,51.536066
 De Schoevert,4,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070317,51.536061
 De Schoevert,6,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070409,51.536094
@@ -807,17 +854,17 @@ De Schoevert,10,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070652,51.536114
 De Schoevert,12,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070816,51.536114
 De Schoevert,14,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070895,51.536134
 De Schoevert,16,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070915,51.536330
-De Schoevert,18,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070885,51.536385
+De Schoevert,18,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070884,51.536385
 De Schoevert,20,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070868,51.536442
 De Schoevert,22,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070886,51.536553
-De Schoevert,24,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070815,51.536680
-De Schoevert,26,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070806,51.536802
+De Schoevert,24,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070814,51.536680
+De Schoevert,26,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070805,51.536802
 De Schoevert,30,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070658,51.537049
 De Schoevert,32,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070788,51.537050
 De Schoevert,34,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070927,51.537063
 De Schoevert,36,,,5861DD,Wanssum,Venray,Limburg,VBO,6.071048,51.537069
 De Schoevert,38,,,5861DD,Wanssum,Venray,Limburg,VBO,6.071179,51.537077
-De Schoevert,40,,,5861DD,Wanssum,Venray,Limburg,VBO,6.071306,51.537098
+De Schoevert,40,,,5861DD,Wanssum,Venray,Limburg,VBO,6.071305,51.537098
 De Schoevert,42,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070718,51.537347
 De Schoevert,44,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070588,51.537477
 De Schoevert,46,,,5861DD,Wanssum,Venray,Limburg,VBO,6.070519,51.537643
@@ -842,16 +889,18 @@ De Meent,17,,,5861DE,Wanssum,Venray,Limburg,VBO,6.069221,51.536907
 De Meent,19,,,5861DE,Wanssum,Venray,Limburg,VBO,6.069220,51.537143
 De Meent,21,,,5861DE,Wanssum,Venray,Limburg,VBO,6.069471,51.537269
 De Meent,23,,,5861DE,Wanssum,Venray,Limburg,VBO,6.069714,51.537280
+Loswal,3,,,5861DZ,Wanssum,Venray,Limburg,VBO,6.071478,51.542297
+Loswal,10,,,5861DZ,Wanssum,Venray,Limburg,VBO,6.078527,51.542790
+Loswal,15,,,5861DZ,Wanssum,Venray,Limburg,VBO,6.073989,51.542471
 Kamillepad,3,,,5861EA,Wanssum,Venray,Limburg,VBO,6.089271,51.541654
 Kamillepad,5,,,5861EA,Wanssum,Venray,Limburg,VBO,6.089661,51.541735
-Kamillepad,7,,,5861EA,Wanssum,Venray,Limburg,VBO,6.090381,51.541726
+Kamillepad,7,,,5861EA,Wanssum,Venray,Limburg,VBO,6.090428,51.541689
 Kamillepad,9,,,5861EA,Wanssum,Venray,Limburg,VBO,6.090801,51.541723
 Kamillepad,15,,,5861EA,Wanssum,Venray,Limburg,VBO,6.093154,51.541502
-Kamillepad,17,,,5861EA,Wanssum,Venray,Limburg,VBO,6.094993,51.541110
+Kamillepad,17,,,5861EA,Wanssum,Venray,Limburg,VBO,6.094992,51.541110
 Valeriaanpad,1,,,5861EB,Wanssum,Venray,Limburg,VBO,6.092110,51.541889
-Valeriaanpad,3,,,5861EB,Wanssum,Venray,Limburg,VBO,6.092710,51.542270
 Jeneverbespad,1,,,5861EC,Wanssum,Venray,Limburg,VBO,6.091901,51.542039
-Jeneverbespad,3,,,5861EC,Wanssum,Venray,Limburg,VBO,6.092046,51.542513
+Jeneverbespad,3,,,5861EC,Wanssum,Venray,Limburg,VBO,6.092059,51.542485
 Thijmpad,1,,,5861ED,Wanssum,Venray,Limburg,VBO,6.089445,51.542219
 Thijmpad,2,,,5861ED,Wanssum,Venray,Limburg,VBO,6.089141,51.542036
 Thijmpad,3,,,5861ED,Wanssum,Venray,Limburg,VBO,6.090398,51.542203
@@ -861,32 +910,90 @@ Thijmpad,8,,,5861ED,Wanssum,Venray,Limburg,VBO,6.090588,51.541968
 Thijmpad,10,,,5861ED,Wanssum,Venray,Limburg,VBO,6.090978,51.541894
 Kamperfoeliepad,2,,,5861EE,Wanssum,Venray,Limburg,VBO,6.089596,51.542527
 Kamperfoeliepad,4,,,5861EE,Wanssum,Venray,Limburg,VBO,6.090030,51.542371
-Kamperfoeliepad,6,,,5861EE,Wanssum,Venray,Limburg,VBO,6.090743,51.542284
 Kamperfoeliepad,8,,,5861EE,Wanssum,Venray,Limburg,VBO,6.091412,51.542302
 Zuringpad,1,,,5861EG,Wanssum,Venray,Limburg,VBO,6.089025,51.541828
 De Kooy,1,A,,5861EH,Wanssum,Venray,Limburg,VBO,6.085620,51.540737
 De Kooy,1,,,5861EH,Wanssum,Venray,Limburg,VBO,6.085243,51.540643
-De Kooy,2,,,5861EH,Wanssum,Venray,Limburg,VBO,6.086426,51.540839
+De Kooy,2,,,5861EH,Wanssum,Venray,Limburg,VBO,6.086425,51.540839
 De Kooy,5,,,5861EH,Wanssum,Venray,Limburg,VBO,6.085417,51.541256
 De Kooy,7,A,,5861EH,Wanssum,Venray,Limburg,VBO,6.086311,51.541705
 De Kooy,7,,,5861EH,Wanssum,Venray,Limburg,VBO,6.086311,51.541705
-De Kooy,13,,,5861EH,Wanssum,Venray,Limburg,VBO,6.091094,51.545815
+De Kooy,13,A,1,5861EH,Wanssum,Venray,Limburg,VBO,6.090904,51.546443
+De Kooy,13,A,10,5861EH,Wanssum,Venray,Limburg,VBO,6.089414,51.546336
+De Kooy,13,A,11,5861EH,Wanssum,Venray,Limburg,STA,6.089213,51.546305
+De Kooy,13,A,12,5861EH,Wanssum,Venray,Limburg,STA,6.089019,51.546286
+De Kooy,13,A,13,5861EH,Wanssum,Venray,Limburg,STA,6.088799,51.546263
+De Kooy,13,A,2,5861EH,Wanssum,Venray,Limburg,VBO,6.090650,51.546422
+De Kooy,13,A,4,5861EH,Wanssum,Venray,Limburg,VBO,6.090375,51.546414
+De Kooy,13,A,5,5861EH,Wanssum,Venray,Limburg,VBO,6.090197,51.546380
+De Kooy,13,A,6,5861EH,Wanssum,Venray,Limburg,VBO,6.089995,51.546376
+De Kooy,13,A,7,5861EH,Wanssum,Venray,Limburg,STA,6.089816,51.546363
+De Kooy,13,A,8,5861EH,Wanssum,Venray,Limburg,STA,6.089673,51.546350
+De Kooy,13,A,9,5861EH,Wanssum,Venray,Limburg,STA,6.089535,51.546337
+De Kooy,13,B,1,5861EH,Wanssum,Venray,Limburg,STA,6.090555,51.546275
+De Kooy,13,B,10,5861EH,Wanssum,Venray,Limburg,STA,6.089457,51.546155
+De Kooy,13,B,11,5861EH,Wanssum,Venray,Limburg,VBO,6.089311,51.546164
+De Kooy,13,B,12,5861EH,Wanssum,Venray,Limburg,VBO,6.089168,51.546160
+De Kooy,13,B,13,5861EH,Wanssum,Venray,Limburg,VBO,6.089029,51.546127
+De Kooy,13,B,14,5861EH,Wanssum,Venray,Limburg,STA,6.088831,51.546125
+De Kooy,13,B,2,5861EH,Wanssum,Venray,Limburg,STA,6.090076,51.546234
+De Kooy,13,B,9,5861EH,Wanssum,Venray,Limburg,STA,6.089596,51.546168
+De Kooy,13,C,1,5861EH,Wanssum,Venray,Limburg,STA,6.090731,51.546150
+De Kooy,13,C,10,5861EH,Wanssum,Venray,Limburg,STA,6.089520,51.546044
+De Kooy,13,C,11,5861EH,Wanssum,Venray,Limburg,STA,6.089374,51.546031
+De Kooy,13,C,12,5861EH,Wanssum,Venray,Limburg,STA,6.089228,51.546018
+De Kooy,13,C,13,5861EH,Wanssum,Venray,Limburg,STA,6.089019,51.546000
+De Kooy,13,C,2,5861EH,Wanssum,Venray,Limburg,STA,6.090593,51.546138
+De Kooy,13,C,3,5861EH,Wanssum,Venray,Limburg,STA,6.090462,51.546126
+De Kooy,13,C,4,5861EH,Wanssum,Venray,Limburg,STA,6.090319,51.546114
+De Kooy,13,C,5,5861EH,Wanssum,Venray,Limburg,STA,6.090175,51.546101
+De Kooy,13,C,6,5861EH,Wanssum,Venray,Limburg,STA,6.090035,51.546089
+De Kooy,13,C,7,5861EH,Wanssum,Venray,Limburg,STA,6.089905,51.546078
+De Kooy,13,C,8,5861EH,Wanssum,Venray,Limburg,STA,6.089781,51.546067
+De Kooy,13,C,9,5861EH,Wanssum,Venray,Limburg,STA,6.089656,51.546056
+De Kooy,13,D,1,5861EH,Wanssum,Venray,Limburg,STA,6.090771,51.545998
+De Kooy,13,D,10,5861EH,Wanssum,Venray,Limburg,STA,6.089543,51.545895
+De Kooy,13,D,11,5861EH,Wanssum,Venray,Limburg,STA,6.089324,51.545877
+De Kooy,13,D,12,5861EH,Wanssum,Venray,Limburg,STA,6.089057,51.545855
+De Kooy,13,D,2,5861EH,Wanssum,Venray,Limburg,STA,6.090634,51.545987
+De Kooy,13,D,3,5861EH,Wanssum,Venray,Limburg,STA,6.090503,51.545976
+De Kooy,13,D,4,5861EH,Wanssum,Venray,Limburg,STA,6.090360,51.545964
+De Kooy,13,D,5,5861EH,Wanssum,Venray,Limburg,STA,6.090216,51.545952
+De Kooy,13,D,6,5861EH,Wanssum,Venray,Limburg,STA,6.090075,51.545941
+De Kooy,13,D,7,5861EH,Wanssum,Venray,Limburg,STA,6.089945,51.545929
+De Kooy,13,D,8,5861EH,Wanssum,Venray,Limburg,STA,6.089822,51.545919
+De Kooy,13,D,9,5861EH,Wanssum,Venray,Limburg,STA,6.089696,51.545908
+De Kooy,13,E,1,5861EH,Wanssum,Venray,Limburg,STA,6.090739,51.545823
+De Kooy,13,E,10,5861EH,Wanssum,Venray,Limburg,STA,6.089588,51.545746
+De Kooy,13,E,11,5861EH,Wanssum,Venray,Limburg,STA,6.089436,51.545728
+De Kooy,13,E,12,5861EH,Wanssum,Venray,Limburg,STA,6.089244,51.545709
+De Kooy,13,E,13,5861EH,Wanssum,Venray,Limburg,STA,6.089053,51.545690
+De Kooy,13,E,2,5861EH,Wanssum,Venray,Limburg,STA,6.090595,51.545811
+De Kooy,13,E,3,5861EH,Wanssum,Venray,Limburg,STA,6.090452,51.545798
+De Kooy,13,E,4,5861EH,Wanssum,Venray,Limburg,STA,6.090311,51.545792
+De Kooy,13,E,5,5861EH,Wanssum,Venray,Limburg,STA,6.090185,51.545774
+De Kooy,13,E,6,5861EH,Wanssum,Venray,Limburg,STA,6.090065,51.545764
+De Kooy,13,E,7,5861EH,Wanssum,Venray,Limburg,STA,6.089946,51.545755
+De Kooy,13,E,8,5861EH,Wanssum,Venray,Limburg,STA,6.089827,51.545747
+De Kooy,13,E,9,5861EH,Wanssum,Venray,Limburg,STA,6.089709,51.545748
 De Kooy,15,,,5861EH,Wanssum,Venray,Limburg,VBO,6.091262,51.546214
 Stayerhofweg,2,A,,5861EJ,Wanssum,Venray,Limburg,VBO,6.085167,51.537150
 Stayerhofweg,2,B,,5861EJ,Wanssum,Venray,Limburg,VBO,6.085708,51.537181
 Stayerhofweg,2,C,,5861EJ,Wanssum,Venray,Limburg,VBO,6.086442,51.537161
 Stayerhofweg,2,D,,5861EJ,Wanssum,Venray,Limburg,VBO,6.086046,51.537841
-Stayerhofweg,2,E,,5861EJ,Wanssum,Venray,Limburg,VBO,6.086000,51.537978
+Stayerhofweg,2,E,,5861EJ,Wanssum,Venray,Limburg,VBO,6.085999,51.537978
 Stayerhofweg,2,G,,5861EJ,Wanssum,Venray,Limburg,VBO,6.085408,51.537739
 Stayerhofweg,3,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.083765,51.538243
 Stayerhofweg,4,A,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084982,51.538020
+Stayerhofweg,4,C,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084709,51.538648
 Stayerhofweg,4,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084744,51.537744
 Stayerhofweg,5,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.083770,51.538619
 Stayerhofweg,6,A,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084152,51.540055
-Stayerhofweg,6,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.085542,51.539246
+Stayerhofweg,6,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084833,51.539258
 Stayerhofweg,7,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.083676,51.538770
 Stayerhofweg,8,A,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084167,51.540954
 Stayerhofweg,8,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084376,51.540564
+Stayerhofweg,9,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.080334,51.538073
 Stayerhofweg,10,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084059,51.541421
 Stayerhofweg,11,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.083471,51.540473
 Stayerhofweg,12,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.084113,51.541815
@@ -897,9 +1004,57 @@ Stayerhofweg,25,D,,5861EJ,Wanssum,Venray,Limburg,VBO,6.082841,51.541303
 Stayerhofweg,25,E,,5861EJ,Wanssum,Venray,Limburg,VBO,6.082841,51.541303
 Stayerhofweg,25,F,,5861EJ,Wanssum,Venray,Limburg,VBO,6.082841,51.541303
 Stayerhofweg,25,G,,5861EJ,Wanssum,Venray,Limburg,VBO,6.082872,51.541305
-Stayerhofweg,25,,,5861EJ,Wanssum,Venray,Limburg,VBO,6.083508,51.541238
 Industrieweg,15,,,5861EK,Wanssum,Venray,Limburg,VBO,6.081643,51.541819
 Industrieweg,17,,,5861EK,Wanssum,Venray,Limburg,VBO,6.082759,51.542230
 Busserhofweg,6,,,5861EL,Wanssum,Venray,Limburg,VBO,6.081891,51.540933
 Busserhofweg,10,,,5861EL,Wanssum,Venray,Limburg,VBO,6.081325,51.540071
-Busserhofweg,11,,,5861EL,Wanssum,Venray,Limburg,VBO,6.080334,51.538073
+Bloemenhof,4,,,5861EM,Wanssum,Venray,Limburg,VBO,6.084802,51.535375
+Bloemenhof,6,,,5861EM,Wanssum,Venray,Limburg,VBO,6.084727,51.535401
+Bloemenhof,8,,,5861EM,Wanssum,Venray,Limburg,VBO,6.084555,51.535434
+Bloemenhof,10,,,5861EM,Wanssum,Venray,Limburg,VBO,6.084472,51.535458
+Bloemenhof,12,,,5861EM,Wanssum,Venray,Limburg,VBO,6.084297,51.535494
+Bloemenhof,14,,,5861EM,Wanssum,Venray,Limburg,VBO,6.084214,51.535513
+Krekelpad,3,,,5861EN,Wanssum,Venray,Limburg,VBO,6.083882,51.534482
+Krekelpad,4,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084300,51.534584
+Krekelpad,5,,,5861EN,Wanssum,Venray,Limburg,VBO,6.083906,51.534531
+Krekelpad,6,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084357,51.534636
+Krekelpad,7,,,5861EN,Wanssum,Venray,Limburg,VBO,6.083920,51.534581
+Krekelpad,8,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084401,51.534778
+Krekelpad,9,,,5861EN,Wanssum,Venray,Limburg,VBO,6.083944,51.534633
+Krekelpad,10,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084402,51.534841
+Krekelpad,11,,,5861EN,Wanssum,Venray,Limburg,VBO,6.083989,51.534741
+Krekelpad,12,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084487,51.534973
+Krekelpad,13,,,5861EN,Wanssum,Venray,Limburg,VBO,6.083990,51.534799
+Krekelpad,14,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084514,51.535030
+Krekelpad,15,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084027,51.534849
+Krekelpad,17,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084035,51.534898
+Krekelpad,19,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084066,51.534946
+Krekelpad,21,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084086,51.534994
+Krekelpad,23,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084158,51.535098
+Krekelpad,25,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084178,51.535151
+Krekelpad,27,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084190,51.535201
+Krekelpad,29,,,5861EN,Wanssum,Venray,Limburg,VBO,6.084230,51.535253
+Hoekstraat,4,,,5861EP,Wanssum,Venray,Limburg,VBO,6.083703,51.534231
+Hoekstraat,6,,,5861EP,Wanssum,Venray,Limburg,VBO,6.083780,51.534222
+Hoekstraat,8,,,5861EP,Wanssum,Venray,Limburg,VBO,6.083945,51.534203
+Hoekstraat,10,,,5861EP,Wanssum,Venray,Limburg,VBO,6.084020,51.534193
+Hoekstraat,12,,,5861EP,Wanssum,Venray,Limburg,VBO,6.084211,51.534178
+Hoekstraat,14,,,5861EP,Wanssum,Venray,Limburg,VBO,6.084492,51.534155
+Veldzicht,4,,,5861ER,Wanssum,Venray,Limburg,VBO,6.085182,51.535498
+Veldzicht,6,,,5861ER,Wanssum,Venray,Limburg,VBO,6.085156,51.535453
+Veldzicht,8,,,5861ER,Wanssum,Venray,Limburg,VBO,6.085124,51.535398
+Veldzicht,10,,,5861ER,Wanssum,Venray,Limburg,VBO,6.085094,51.535353
+Veldzicht,12,,,5861ER,Wanssum,Venray,Limburg,VBO,6.085053,51.535307
+Veldzicht,14,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084905,51.534994
+Veldzicht,16,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084866,51.534948
+Veldzicht,18,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084863,51.534896
+Veldzicht,20,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084832,51.534848
+Veldzicht,22,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084808,51.534795
+Veldzicht,24,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084760,51.534694
+Veldzicht,26,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084740,51.534642
+Veldzicht,28,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084730,51.534594
+Veldzicht,30,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084698,51.534543
+Veldzicht,32,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084683,51.534495
+Veldzicht,36,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084486,51.533985
+Veldzicht,38,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084474,51.533932
+Veldzicht,40,,,5861ER,Wanssum,Venray,Limburg,VBO,6.084434,51.533787

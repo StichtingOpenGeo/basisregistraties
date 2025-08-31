@@ -1,16 +1,16 @@
 openbareruimtenaam,huisnummer,huisletter,huisnummertoevoeging,postcode,woonplaatsnaam,gemeentenaam,provincienaam,typeadresseerbaarobject,longitude,latitude
 De Klomp,1,,,6745WB,De Klomp,Ede,Gelderland,VBO,5.575150,52.047606
 De Klomp,2,,,6745WB,De Klomp,Ede,Gelderland,VBO,5.574451,52.047769
-De Klomp,4,A,,6745WB,De Klomp,Ede,Gelderland,VBO,5.573251,52.047869
 De Klomp,4,B,,6745WB,De Klomp,Ede,Gelderland,VBO,5.573289,52.047870
 De Klomp,4,,,6745WB,De Klomp,Ede,Gelderland,VBO,5.573271,52.047897
 De Klomp,5,,,6745WB,De Klomp,Ede,Gelderland,VBO,5.572877,52.047790
+Klompersteeg,7,A,,6745WD,De Klomp,Ede,Gelderland,VBO,5.572250,52.047688
 Klompersteeg,7,,,6745WD,De Klomp,Ede,Gelderland,VBO,5.572425,52.047844
 Klompersteeg,8,,,6745WD,De Klomp,Ede,Gelderland,VBO,5.572090,52.047836
 Klompersteeg,9,,,6745WD,De Klomp,Ede,Gelderland,VBO,5.571842,52.047845
 Klompersteeg,10,,,6745WD,De Klomp,Ede,Gelderland,VBO,5.571390,52.047783
 Rijksweg,49,,,6745WE,De Klomp,Ede,Gelderland,VBO,5.581286,52.047282
-Pakhuisweg,1,A,1,6745XA,De Klomp,Ede,Gelderland,VBO,5.596542,52.033889
+Pakhuisweg,1,A,1,6745XA,De Klomp,Ede,Gelderland,VBO,5.597074,52.033892
 Pakhuisweg,1,A,,6745XA,De Klomp,Ede,Gelderland,VBO,5.597404,52.033799
 Pakhuisweg,1,B,,6745XA,De Klomp,Ede,Gelderland,VBO,5.595102,52.033929
 Pakhuisweg,1,C,,6745XA,De Klomp,Ede,Gelderland,VBO,5.594698,52.033940
@@ -18,20 +18,23 @@ Pakhuisweg,1,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.594315,52.033957
 Pakhuisweg,3,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.591647,52.036937
 Pakhuisweg,5,A,,6745XA,De Klomp,Ede,Gelderland,VBO,5.591827,52.038078
 Pakhuisweg,5,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.591974,52.038222
-Pakhuisweg,30,,,6745XA,Ede,Ede,Gelderland,VBO,5.597712,52.034176
 Pakhuisweg,34,A,,6745XA,De Klomp,Ede,Gelderland,VBO,5.597581,52.034275
 Pakhuisweg,34,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.597391,52.034230
-Pakhuisweg,38,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.597071,52.034213
-Pakhuisweg,40,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.596911,52.034285
+Pakhuisweg,38,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.597070,52.034213
+Pakhuisweg,40,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.596910,52.034285
 Pakhuisweg,42,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.596838,52.034276
 Pakhuisweg,44,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.596604,52.034214
 Pakhuisweg,46,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.596356,52.034223
 Pakhuisweg,50,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.596007,52.034233
+Pakhuisweg,56,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.595551,52.034250
+Pakhuisweg,58,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.595275,52.034243
 Pakhuisweg,60,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.594972,52.034253
+Pakhuisweg,62,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.594753,52.034257
 Pakhuisweg,64,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.594564,52.034262
 Pakhuisweg,66,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.594317,52.034299
 Pakhuisweg,68,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.593602,52.034246
 Pakhuisweg,72,A,,6745XA,De Klomp,Ede,Gelderland,VBO,5.592375,52.035638
+Pakhuisweg,72,B,,6745XA,De Klomp,Ede,Gelderland,VBO,5.592060,52.035819
 Pakhuisweg,72,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.592273,52.035643
 Pakhuisweg,74,A,,6745XA,De Klomp,Ede,Gelderland,VBO,5.592638,52.036917
 Pakhuisweg,74,,,6745XA,De Klomp,Ede,Gelderland,VBO,5.592684,52.037295
@@ -40,38 +43,34 @@ Kade,2,,,6745XB,De Klomp,Ede,Gelderland,VBO,5.599968,52.042800
 Kade,4,,,6745XB,De Klomp,Ede,Gelderland,VBO,5.599207,52.042200
 Kade,6,,,6745XB,De Klomp,Ede,Gelderland,VBO,5.599613,52.041848
 Kade,8,,,6745XB,De Klomp,Ede,Gelderland,VBO,5.598850,52.040654
-Kade,10,,,6745XB,De Klomp,Ede,Gelderland,VBO,5.597083,52.039902
+Kade,10,,,6745XB,De Klomp,Ede,Gelderland,VBO,5.597099,52.039947
 Kade,12,,,6745XB,De Klomp,Ede,Gelderland,VBO,5.597807,52.038885
 Kade,14,,,6745XB,De Klomp,Ede,Gelderland,VBO,5.597657,52.038086
 Binnenweg,2,A,,6745XC,De Klomp,Ede,Gelderland,VBO,5.587197,52.038614
+Binnenweg,2,M,,6745XC,De Klomp,Ede,Gelderland,VBO,5.586838,52.038166
 Binnenweg,2,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.586815,52.038320
 Binnenweg,4,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.587125,52.039183
 Binnenweg,5,A,,6745XC,De Klomp,Ede,Gelderland,VBO,5.586457,52.039867
 Binnenweg,5,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.586457,52.039750
 Binnenweg,6,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.591905,52.039148
-Binnenweg,7,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.588162,52.039702
-Binnenweg,7,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.588265,52.039708
+Binnenweg,7,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.588273,52.039712
 Binnenweg,9,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.590071,52.039681
 Binnenweg,11,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.592956,52.039523
-Binnenweg,13,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.593962,52.039468
-Griftweg,1,A,,6745XD,De Klomp,Ede,Gelderland,VBO,5.570992,52.042713
-Griftweg,1,B,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571069,52.042709
-Griftweg,1,C,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571146,52.042706
-Griftweg,1,D,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571232,52.042702
-Griftweg,1,E,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571384,52.042729
-Griftweg,1,F,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571468,52.042725
-Griftweg,1,G,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571542,52.042723
-Griftweg,1,H,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571628,52.042720
+Binnenweg,13,,,6745XC,De Klomp,Ede,Gelderland,VBO,5.593961,52.039468
+Griftweg,1,A,,6745XD,De Klomp,Ede,Gelderland,VBO,5.570969,52.042712
+Griftweg,1,B,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571053,52.042709
+Griftweg,1,C,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571130,52.042704
+Griftweg,1,D,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571209,52.042699
+Griftweg,1,E,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571366,52.042726
+Griftweg,1,F,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571452,52.042722
+Griftweg,1,G,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571531,52.042718
+Griftweg,1,H,,6745XD,De Klomp,Ede,Gelderland,VBO,5.571610,52.042713
+Griftweg,1,M,,6745XD,De Klomp,Ede,Gelderland,VBO,5.572554,52.042474
 Griftweg,1,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.572344,52.042451
-Griftweg,2,A,,6745XD,De Klomp,Ede,Gelderland,VBO,5.577021,52.041770
 Griftweg,2,B,,6745XD,De Klomp,Ede,Gelderland,VBO,5.573028,52.041974
-Griftweg,2,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.572198,52.042083
+Griftweg,2,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.572197,52.042083
 Griftweg,3,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.574050,52.042323
-Griftweg,4,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.578245,52.041741
-Griftweg,5,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.578932,52.042153
-Griftweg,6,A,,6745XD,De Klomp,Ede,Gelderland,VBO,5.579761,52.041658
-Griftweg,6,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.579553,52.040957
-Griftweg,8,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.590457,52.041226
+Griftweg,8,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.590536,52.041306
 Griftweg,11,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.585306,52.043257
 Griftweg,12,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.596125,52.040848
 Griftweg,15,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.587970,52.042336
@@ -80,7 +79,7 @@ Griftweg,19,A,,6745XD,De Klomp,Ede,Gelderland,VBO,5.593942,52.041707
 Griftweg,19,B,,6745XD,De Klomp,Ede,Gelderland,VBO,5.593826,52.041625
 Griftweg,19,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.593796,52.041724
 Griftweg,21,,,6745XD,De Klomp,Ede,Gelderland,VBO,5.596331,52.041225
-Trapjesweg,1,,,6745XE,De Klomp,Ede,Gelderland,VBO,5.571942,52.044524
+Trapjesweg,1,,,6745XE,De Klomp,Ede,Gelderland,VBO,5.571941,52.044524
 Trapjesweg,2,A,,6745XE,De Klomp,Ede,Gelderland,VBO,5.572698,52.044263
 Trapjesweg,3,,,6745XE,De Klomp,Ede,Gelderland,VBO,5.572310,52.044501
 Trapjesweg,5,,,6745XE,De Klomp,Ede,Gelderland,VBO,5.572426,52.044483
@@ -91,29 +90,33 @@ Trapjesweg,11,,,6745XE,De Klomp,Ede,Gelderland,VBO,5.573942,52.044453
 Trapjesweg,13,,,6745XE,De Klomp,Ede,Gelderland,VBO,5.575943,52.044369
 Trapjesweg,15,,,6745XE,De Klomp,Ede,Gelderland,VBO,5.576412,52.044311
 Jufferswijk,1,,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570399,52.044333
-Jufferswijk,2,A,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570696,52.044536
+Jufferswijk,2,A,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570775,52.044500
+Jufferswijk,2,B,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570612,52.044507
+Jufferswijk,2,C,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570775,52.044521
+Jufferswijk,2,D,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570613,52.044525
 Jufferswijk,2,,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570692,52.044504
 Jufferswijk,3,,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570283,52.044333
 Jufferswijk,4,,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570313,52.044567
-Jufferswijk,6,,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570168,52.044657
+Jufferswijk,6,,,6745XG,De Klomp,Ede,Gelderland,VBO,5.570167,52.044657
 Dokter Hoolboomweg,1,,,6745XH,De Klomp,Ede,Gelderland,VBO,5.578365,52.045893
 Dokter Hoolboomweg,3,,,6745XH,De Klomp,Ede,Gelderland,VBO,5.589852,52.043360
 Dokter Hoolboomweg,4,,,6745XH,De Klomp,Ede,Gelderland,VBO,5.591238,52.043050
-Dokter Hoolboomweg,5,A,,6745XH,De Klomp,Ede,Gelderland,VBO,5.595127,52.042387
+Dokter Hoolboomweg,5,A,,6745XH,De Klomp,Ede,Gelderland,VBO,5.595126,52.042387
 Dokter Hoolboomweg,5,,,6745XH,De Klomp,Ede,Gelderland,VBO,5.594981,52.042378
-Dokter Hoolboomweg,6,,,6745XH,De Klomp,Ede,Gelderland,VBO,5.597690,52.041879
+Dokter Hoolboomweg,6,A,,6745XH,De Klomp,Ede,Gelderland,VBO,5.597059,52.042046
+Dokter Hoolboomweg,6,,,6745XH,De Klomp,Ede,Gelderland,VBO,5.597689,52.041879
 Dokter Hoolboomweg,7,,,6745XH,De Klomp,Ede,Gelderland,VBO,5.598418,52.041743
 Veenendaalseweg,1,A,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.573188,52.045336
 Veenendaalseweg,1,C,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.573186,52.045305
 Veenendaalseweg,1,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.573188,52.045362
 Veenendaalseweg,3,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572575,52.045336
 Veenendaalseweg,5,A,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572429,52.045202
-Veenendaalseweg,5,B,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572587,52.045199
+Veenendaalseweg,5,B,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572586,52.045199
 Veenendaalseweg,7,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572385,52.045148
 Veenendaalseweg,9,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572297,52.045013
 Veenendaalseweg,11,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572209,52.044915
 Veenendaalseweg,13,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572107,52.044798
-Veenendaalseweg,15,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571990,52.044654
+Veenendaalseweg,15,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571989,52.044654
 Veenendaalseweg,19,A,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.572221,52.044321
 Veenendaalseweg,19,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571755,52.044394
 Veenendaalseweg,21,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571711,52.044349
@@ -126,13 +129,13 @@ Veenendaalseweg,29,B,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571433,52.043918
 Veenendaalseweg,29,C,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571496,52.043921
 Veenendaalseweg,29,D,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571473,52.043895
 Veenendaalseweg,31,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571359,52.043846
-Veenendaalseweg,33,A,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571228,52.043676
+Veenendaalseweg,33,A,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571227,52.043676
 Veenendaalseweg,33,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571271,52.043730
 Veenendaalseweg,35,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571169,52.043577
 Veenendaalseweg,37,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.571125,52.043523
 Veenendaalseweg,43,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.570744,52.043074
 Veenendaalseweg,45,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.570609,52.042901
-Veenendaalseweg,47,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.570474,52.042759
+Veenendaalseweg,47,,,6745XJ,De Klomp,Ede,Gelderland,VBO,5.570466,52.042751
 Veenendaalseweg,49,,,6745XK,De Klomp,Ede,Gelderland,VBO,5.570084,52.042141
 Veenendaalseweg,51,A,,6745XK,De Klomp,Ede,Gelderland,VBO,5.569764,52.041896
 Veenendaalseweg,51,,,6745XK,De Klomp,Ede,Gelderland,VBO,5.569791,52.041949
@@ -141,15 +144,13 @@ Veenendaalseweg,55,,,6745XK,De Klomp,Ede,Gelderland,VBO,5.569616,52.041656
 Veenendaalseweg,57,,,6745XK,De Klomp,Ede,Gelderland,VBO,5.569703,52.041467
 Veenendaalseweg,59,A,,6745XK,De Klomp,Ede,Gelderland,VBO,5.569399,52.041212
 Veenendaalseweg,59,,,6745XK,De Klomp,Ede,Gelderland,VBO,5.569293,52.041135
-Veenendaalseweg,6,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.572080,52.045490
-Veenendaalseweg,8,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.572066,52.045463
 Veenendaalseweg,10,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571861,52.045275
 Veenendaalseweg,12,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571846,52.045221
 Veenendaalseweg,14,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571321,52.045105
 Veenendaalseweg,16,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571656,52.044969
 Veenendaalseweg,18,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571553,52.044799
 Veenendaalseweg,20,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571465,52.044673
-Veenendaalseweg,22,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571436,52.044628
+Veenendaalseweg,22,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571435,52.044628
 Veenendaalseweg,24,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571406,52.044556
 Veenendaalseweg,26,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571406,52.044511
 Veenendaalseweg,28,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571245,52.044323
@@ -158,8 +159,7 @@ Veenendaalseweg,32,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.571084,52.044161
 Veenendaalseweg,34,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570967,52.044027
 Veenendaalseweg,36,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570864,52.043892
 Veenendaalseweg,38,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570354,52.043947
-Veenendaalseweg,40,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570732,52.043739
-Veenendaalseweg,42,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570717,52.043704
+Veenendaalseweg,40,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570728,52.043716
 Veenendaalseweg,44,A,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570586,52.043542
 Veenendaalseweg,44,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570615,52.043605
 Veenendaalseweg,46,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.570424,52.043282
@@ -167,7 +167,7 @@ Veenendaalseweg,48,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.569751,52.042564
 Veenendaalseweg,50,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.569370,52.042196
 Veenendaalseweg,56,,,6745XL,De Klomp,Ede,Gelderland,VBO,5.568725,52.041181
 Stationsweg,2,,1,6745XM,De Klomp,Ede,Gelderland,VBO,5.573883,52.047833
-Stationsweg,2,,10,6745XM,De Klomp,Ede,Gelderland,VBO,5.573534,52.047888
+Stationsweg,2,,10,6745XM,De Klomp,Ede,Gelderland,VBO,5.573533,52.047888
 Stationsweg,2,,11,6745XM,De Klomp,Ede,Gelderland,VBO,5.573898,52.047914
 Stationsweg,2,,12,6745XM,De Klomp,Ede,Gelderland,VBO,5.573811,52.047914
 Stationsweg,2,,13,6745XM,De Klomp,Ede,Gelderland,VBO,5.573636,52.047923
@@ -186,8 +186,8 @@ Stationsweg,4,,11,6745XM,De Klomp,Ede,Gelderland,VBO,5.573868,52.047653
 Stationsweg,4,,12,6745XM,De Klomp,Ede,Gelderland,VBO,5.573780,52.047671
 Stationsweg,4,,13,6745XM,De Klomp,Ede,Gelderland,VBO,5.573620,52.047708
 Stationsweg,4,,14,6745XM,De Klomp,Ede,Gelderland,VBO,5.573518,52.047726
-Stationsweg,4,,2,6745XM,De Klomp,Ede,Gelderland,VBO,5.573825,52.047743
-Stationsweg,4,,3,6745XM,De Klomp,Ede,Gelderland,VBO,5.573723,52.047752
+Stationsweg,4,,2,6745XM,De Klomp,Ede,Gelderland,VBO,5.573824,52.047743
+Stationsweg,4,,3,6745XM,De Klomp,Ede,Gelderland,VBO,5.573722,52.047752
 Stationsweg,4,,4,6745XM,De Klomp,Ede,Gelderland,VBO,5.573650,52.047771
 Stationsweg,4,,5,6745XM,De Klomp,Ede,Gelderland,VBO,5.573562,52.047789
 Stationsweg,4,,6,6745XM,De Klomp,Ede,Gelderland,VBO,5.573883,52.047689
@@ -205,5 +205,19 @@ Stationsweg,10,,,6745XM,De Klomp,Ede,Gelderland,VBO,5.572654,52.046694
 Stationsweg,11,,,6745XM,De Klomp,Ede,Gelderland,VBO,5.573806,52.046755
 Stationsweg,12,,,6745XM,De Klomp,Ede,Gelderland,VBO,5.572726,52.046406
 Stationsweg,13,,,6745XM,De Klomp,Ede,Gelderland,VBO,5.574228,52.046628
-Stationsweg,14,,,6745XM,De Klomp,Ede,Gelderland,VBO,5.572755,52.046334
+Stationsweg,14,,,6745XM,De Klomp,Ede,Gelderland,VBO,5.572754,52.046334
 Stationsweg,15,,,6745XM,De Klomp,Ede,Gelderland,VBO,5.573861,52.045973
+Fermentatiestraat,1,,,6745XR,De Klomp,Ede,Gelderland,VBO,5.578073,52.040018
+Destillatiestraat,2,,,6745XS,De Klomp,Ede,Gelderland,VBO,5.578581,52.042148
+Destillatiestraat,4,A,,6745XS,De Klomp,Ede,Gelderland,VBO,5.579600,52.043341
+Destillatiestraat,4,B,,6745XS,De Klomp,Ede,Gelderland,VBO,5.580849,52.043265
+Destillatiestraat,4,,,6745XS,De Klomp,Ede,Gelderland,VBO,5.578194,52.043387
+Destillatiestraat,4,,,6745XS,De Klomp,Ede,Gelderland,VBO,5.578202,52.043390
+Veredelingstraat,2,,,6745XT,De Klomp,Ede,Gelderland,VBO,5.583751,52.042374
+Veredelingstraat,4,,,6745XT,De Klomp,Ede,Gelderland,VBO,5.583512,52.043102
+Innovatielaan,3,A,,6745XW,De Klomp,Ede,Gelderland,VBO,5.581797,52.039938
+Innovatielaan,3,,,6745XW,De Klomp,Ede,Gelderland,VBO,5.581797,52.039938
+Innovatielaan,5,,,6745XW,De Klomp,Ede,Gelderland,VBO,5.580192,52.040441
+Innovatielaan,6,,,6745XW,De Klomp,Ede,Gelderland,VBO,5.578581,52.042148
+Innovatielaan,7,,,6745XW,De Klomp,Ede,Gelderland,VBO,5.578554,52.040273
+Innovatielaan,7,,,6745XW,De Klomp,Ede,Gelderland,VBO,5.578620,52.041496
